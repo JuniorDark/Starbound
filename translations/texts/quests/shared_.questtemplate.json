@@ -1,0 +1,31 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Volte para ^orange;Esther^reset; no ^orange;Ark^reset;"
+    ],
+    "Files": {
+      "quests/outpost/outpostclue.questtemplate": [
+        "/scriptConfig/descriptions/turnIn"
+      ],
+      "quests/story/apex_mission1.questtemplate": [
+        "/scriptConfig/descriptions/turnIn"
+      ],
+      "quests/story/avian_mission1.questtemplate": [
+        "/scriptConfig/descriptions/turnIn"
+      ],
+      "quests/story/floran_mission1.questtemplate": [
+        "/scriptConfig/descriptions/turnIn"
+      ],
+      "quests/story/glitch_mission1.questtemplate": [
+        "/scriptConfig/descriptions/turnIn"
+      ],
+      "quests/story/hylotl_mission1.questtemplate": [
+        "/scriptConfig/descriptions/turnIn"
+      ]
+    },
+    "Texts": {
+      "Eng": "Return to ^orange;Esther^reset; at the ^orange;Ark^reset;",
+      "Por": "Volte a ^orange;Esther^reset; no ^orange;Ark^reset;"
+    }
+  }
+]

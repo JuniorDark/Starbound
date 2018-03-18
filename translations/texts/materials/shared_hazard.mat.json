@@ -1,0 +1,78 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/hazard.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/hazard.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hazard Block",
+      "Por": "Hazard Block"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/hazard.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/hazard.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These strips're somethin' I should pay attention to.",
+      "Por": "Essas faixas são algo que eu deveria prestar atenção."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/hazard.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/hazard.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thesse sstripes mean caution.",
+      "Por": "Essas faixass significam cuidado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/hazard.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/hazard.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This pattern indicates I should watch my step."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Este padrão sugere cautela."
+    ],
+    "Files": {
+      "items/materials/hazard.matitem": [
+        "/description"
+      ],
+      "tiles/materials/hazard.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This pattern suggests caution.",
+      "Por": "Este padrão sugere cuidado."
+    }
+  }
+]

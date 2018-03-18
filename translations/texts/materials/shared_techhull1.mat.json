@@ -1,0 +1,78 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/techhull1.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/techhull1.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fancy lookin' panel with a bunch of wires underneath.",
+      "Por": "Painel chique com um monte de fios embaixo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/techhull1.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/techhull1.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran rip plating off, sslash wires.",
+      "Por": "Floran arranca revestimento, corta fios."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/techhull1.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/techhull1.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reinforced Tech Block",
+      "Por": "Reinforced Tech Block"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/techhull1.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/techhull1.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This plating covers the wires underneath extremely well."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Fiação esconde sob este reforçado material banhado de alta-tecnologia."
+    ],
+    "Files": {
+      "items/materials/techhull1.matitem": [
+        "/description"
+      ],
+      "tiles/materials/techhull1.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wiring hides beneath this reinforced hi-tech plated material.",
+      "Por": "Há fiação escondida debaixo deste material revestido reforçado de alta tecnologia."
+    }
+  }
+]

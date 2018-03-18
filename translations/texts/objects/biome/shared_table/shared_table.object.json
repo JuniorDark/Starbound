@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Comer aqui pareceria como um piquenique mágico.",
+      "Comer aqui seria como ter um piquenique mágico."
+    ],
+    "Files": {
+      "objects/biome/bioluminescentcave/bioshroomtable/bioshroomtable.object": [
+        "/humanDescription"
+      ],
+      "objects/biome/giantflower/giantflowertable/giantflowertable.object": [
+        "/humanDescription"
+      ],
+      "objects/biome/mushroom/shroomtable/shroomtable.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eating here would feel like having a magical picnic.",
+      "Por": "Comer aqui seria como fazer um piquenique mágico."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Se você tem muita fome, você poderia comer a mesa em si.",
+      "Se você tiver muita fome, você pode comer a mesa em si."
+    ],
+    "Files": {
+      "objects/biome/bioluminescentcave/bioshroomtable/bioshroomtable.object": [
+        "/apexDescription"
+      ],
+      "objects/biome/giantflower/giantflowertable/giantflowertable.object": [
+        "/apexDescription"
+      ],
+      "objects/biome/mushroom/shroomtable/shroomtable.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you got too hungry, you could eat the table itself.",
+      "Por": "Se você ficar com muita fome, você poderia comer a mesa em si."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "A natureza fornece tanto quanto eladestrói."
+    ],
+    "Files": {
+      "objects/biome/giantflower/giantflowertable/giantflowertable.object": [
+        "/hylotlDescription"
+      ],
+      "objects/biome/mushroom/shroomtable/shroomtable.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nature provides as much as it destroys.",
+      "Por": "A natureza fornece tanto quanto destrói."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/giantflower/giantflowertable/giantflowertable.object": [
+        "/avianDescription"
+      ],
+      "objects/biome/mushroom/shroomtable/shroomtable.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This table feels quite flimsy.",
+      "Por": "Esta mesa parece muito frágil."
+    }
+  }
+]

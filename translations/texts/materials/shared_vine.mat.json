@@ -1,0 +1,78 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Um espesso rolo de vinhas. Elas parecem fortes."
+    ],
+    "Files": {
+      "items/materials/vine.matitem": [
+        "/description"
+      ],
+      "tiles/materials/vine.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A thick coil of vines. They look strong.",
+      "Por": "Uma espesso maço de vinhas. Elas parecem fortes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/vine.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/vine.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "It appears these strong vines were woven together as they were grown."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/vine.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/vine.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These vines are massive lookin'.",
+      "Por": "Estas vinhas são enormes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/vine.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/vine.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vine",
+      "Por": "Vine"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/vine.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/vine.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Viness grow sstrong just like Floran.",
+      "Por": "Vinhas crescem forte como Floran."
+    }
+  }
+]

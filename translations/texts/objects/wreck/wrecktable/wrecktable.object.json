@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wreck/wrecktable/wrecktable.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A battered old table. Still operational as far as tables go!",
+      "Por": "Uma mesa velha e maltratada. Ainda está operacional no que diz respeito às mesas!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wreck/wrecktable/wrecktable.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A wreck of a table.",
+      "Por": "Uma pequena mesa danificada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wreck/wrecktable/wrecktable.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wrecked Table",
+      "Por": "Wrecked Table"
+    }
+  }
+]

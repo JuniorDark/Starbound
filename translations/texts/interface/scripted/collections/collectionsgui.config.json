@@ -1,0 +1,50 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/collections/collectionsgui.config": [
+        "/gui/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Catalogue everything you've seen and done!",
+      "Por": "Catalogue tudo o que você viu e fez!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/collections/collectionsgui.config": [
+        "/gui/selectLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Collection",
+      "Por": "Coleção"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/collections/collectionsgui.config": [
+        "/gui/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Collections Library",
+      "Por": "Biblioteca de Coleções"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/collections/collectionsgui.config": [
+        "/gui/emptyLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Select a collection to the left",
+      "Por": "Selecione uma coleção à esquerda"
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/shipupgrade/shipupgrade3.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Congratulations - with six crew members you now qualify for the Falcon License! ^green;Visit Penguin Pete^reset; with ^orange;6 Upgrade Modules^reset; to upgrade your ship.",
+      "Por": "Parabéns - com seis tripulantes agora você se qualifica para a Falcon License! ^green;Visite Penguin Pete^reset; com ^orange;6 Upgrade Modules^reset; para atualizar sua nave."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/shipupgrade/shipupgrade3.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Falcon Ship Upgrade",
+      "Por": "^green;Atualização de Nave Falcon"
+    }
+  }
+]

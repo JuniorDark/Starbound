@@ -1,0 +1,62 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/outlawsamurai.npctype": [
+        "/scriptConfig/dialog/attack/hylotl/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Come, test your mettle!",
+      "Por": "Venha, teste suas habilidades!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/outlawsamurai.npctype": [
+        "/scriptConfig/dialog/attack/hylotl/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "If we must fight, than you must die!",
+      "Por": "Se devemos lutar, então você deve morrer!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/outlawsamurai.npctype": [
+        "/scriptConfig/dialog/attack/hylotl/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "You don't know what you're up against!",
+      "Por": "Você não sabe o que terá de enfrentar!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/outlawsamurai.npctype": [
+        "/scriptConfig/dialog/attack/hylotl/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You want to fight to the death? So be it!",
+      "Por": "Você quer lutar até a morte? Que assim seja!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/outlawsamurai.npctype": [
+        "/scriptConfig/dialog/attack/hylotl/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "You've come to stop me? So be it!",
+      "Por": "Você veio para me parar? Que assim seja!"
+    }
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/small/eggfossil.item": [
+        "/completeSetDescriptions/shortdescription",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Egg Fossil",
+      "Por": "Egg Fossil"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/small/eggfossil.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fossilised egg.",
+      "Por": "Ovo fossilizado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/small/eggfossil.item": [
+        "/completeSetDescriptions/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The egg of an ancient creature, frozen in time before it ever truly lived.",
+      "Por": "O ovo de uma criatura antiga, congelado no tempo antes de viver verdadeiramente."
+    }
+  }
+]

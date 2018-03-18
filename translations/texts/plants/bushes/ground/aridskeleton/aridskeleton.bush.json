@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Bones."
+    ],
+    "Files": {
+      "plants/bushes/ground/aridskeleton/aridskeleton.bush": [
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bones.",
+      "Por": "Ossos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/aridskeleton/aridskeleton.bush": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssscary bones!",
+      "Por": "Ossos assustadoresss!"
+    }
+  }
+]

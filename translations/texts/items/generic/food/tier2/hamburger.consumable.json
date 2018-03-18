@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier2/hamburger.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A juicy hamburger.",
+      "Por": "Um hambúrguer suculento."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier2/hamburger.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hamburger",
+      "Por": "Hamburger"
+    }
+  }
+]

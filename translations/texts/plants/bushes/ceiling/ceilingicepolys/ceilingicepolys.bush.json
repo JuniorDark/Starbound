@@ -1,0 +1,28 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ceiling/ceilingicepolys/ceilingicepolys.bush": [
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hanging ice shards.",
+      "Por": "Pedaços de gelo inclinados."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ceiling/ceilingicepolys/ceilingicepolys.bush": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Icy ssshards.",
+      "Por": "Pedaços gelados."
+    }
+  }
+]

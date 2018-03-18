@@ -1,0 +1,247 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Uma pedra pacífica. Olhar para ela me faz sentir calmo.",
+      "Uma pedra pacífica. Olhar para ela me faz sentir-me calmo."
+    ],
+    "Files": {
+      "objects/biome/zen/zenrock1/zenrock1.object": [
+        "/hylotlDescription"
+      ],
+      "objects/biome/zen/zenrock2/zenrock2.object": [
+        "/hylotlDescription"
+      ],
+      "objects/biome/zen/zenrock3/zenrock3.object": [
+        "/hylotlDescription"
+      ],
+      "objects/biome/zen/zenrock4/zenrock4.object": [
+        "/hylotlDescription"
+      ],
+      "objects/biome/zen/zenrock5/zenrock5.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A peaceful stone. Looking at it makes me feel calm.",
+      "Por": "Uma pedra pacífica. Olhando para ela me faz sentir-se calmo."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Um lindo monte de pedra.",
+      "É um belo monte de pedras."
+    ],
+    "Files": {
+      "objects/biome/zen/zenrock1/zenrock1.object": [
+        "/humanDescription"
+      ],
+      "objects/biome/zen/zenrock2/zenrock2.object": [
+        "/humanDescription"
+      ],
+      "objects/biome/zen/zenrock3/zenrock3.object": [
+        "/humanDescription"
+      ],
+      "objects/biome/zen/zenrock4/zenrock4.object": [
+        "/humanDescription"
+      ],
+      "objects/biome/zen/zenrock5/zenrock5.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A pretty nice mound of stone.",
+      "Por": " Um belo monte de pedra."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Uma pedra perfeita para jardins zen alienígenas."
+    ],
+    "Files": {
+      "objects/biome/zen/zenrock1/zenrock1.object": [
+        "/description"
+      ],
+      "objects/biome/zen/zenrock4/zenrock4.object": [
+        "/description"
+      ],
+      "objects/biome/zen/zenrock5/zenrock5.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A stone perfect for alien zen gardens.",
+      "Por": "Uma estrutura de pedra perfeita para jardins zen alienígenas."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "A estrutura de pedra perfeita para jardins alienígenas zen."
+    ],
+    "Files": {
+      "objects/biome/zen/zenrock2/zenrock2.object": [
+        "/description"
+      ],
+      "objects/biome/zen/zenrock3/zenrock3.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A stone structure perfect for alien zen gardens.",
+      "Por": "Uma estrutura de pedra perfeita para jardins zen alienígenas."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Uma pedra com aparência elegante.",
+      "Uma rocha de aparência elegante."
+    ],
+    "Files": {
+      "objects/biome/zen/zenrock1/zenrock1.object": [
+        "/avianDescription"
+      ],
+      "objects/biome/zen/zenrock2/zenrock2.object": [
+        "/avianDescription"
+      ],
+      "objects/biome/zen/zenrock3/zenrock3.object": [
+        "/avianDescription"
+      ],
+      "objects/biome/zen/zenrock4/zenrock4.object": [
+        "/avianDescription"
+      ],
+      "objects/biome/zen/zenrock5/zenrock5.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An elegant looking rock.",
+      "Por": "Uma pedra elegante."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/zen/zenrock1/zenrock1.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/biome/zen/zenrock2/zenrock2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/biome/zen/zenrock3/zenrock3.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/biome/zen/zenrock4/zenrock4.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/biome/zen/zenrock5/zenrock5.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a clean looking stone."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Simplesmente uma rocha."
+    ],
+    "Files": {
+      "objects/biome/zen/zenrock1/zenrock1.object": [
+        "/apexDescription"
+      ],
+      "objects/biome/zen/zenrock2/zenrock2.object": [
+        "/apexDescription"
+      ],
+      "objects/biome/zen/zenrock3/zenrock3.object": [
+        "/apexDescription"
+      ],
+      "objects/biome/zen/zenrock4/zenrock4.object": [
+        "/apexDescription"
+      ],
+      "objects/biome/zen/zenrock5/zenrock5.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Simply a rock.",
+      "Por": "Simplesmente uma pedra."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Pedra",
+      "Pppedra."
+    ],
+    "Files": {
+      "objects/biome/zen/zenrock1/zenrock1.object": [
+        "/floranDescription"
+      ],
+      "objects/biome/zen/zenrock2/zenrock2.object": [
+        "/floranDescription"
+      ],
+      "objects/biome/zen/zenrock3/zenrock3.object": [
+        "/floranDescription"
+      ],
+      "objects/biome/zen/zenrock4/zenrock4.object": [
+        "/floranDescription"
+      ],
+      "objects/biome/zen/zenrock5/zenrock5.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssstone.",
+      "Por": "Pedra."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Isso é uma pedra boa.",
+      "Isso é uma pedra do bem."
+    ],
+    "Files": {
+      "objects/biome/zen/zenrock1/zenrock1.object": [
+        "/novakidDescription"
+      ],
+      "objects/biome/zen/zenrock2/zenrock2.object": [
+        "/novakidDescription"
+      ],
+      "objects/biome/zen/zenrock3/zenrock3.object": [
+        "/novakidDescription"
+      ],
+      "objects/biome/zen/zenrock4/zenrock4.object": [
+        "/novakidDescription"
+      ],
+      "objects/biome/zen/zenrock5/zenrock5.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "That's a stone alright.",
+      "Por": "Isso é uma pedra."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/zen/zenrock1/zenrock1.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/zen/zenrock2/zenrock2.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/zen/zenrock3/zenrock3.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/zen/zenrock4/zenrock4.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/zen/zenrock5/zenrock5.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Zen Rock",
+      "Por": "Zen Rock"
+    }
+  }
+]

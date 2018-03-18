@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/avianshiplockerTier0/avianshiplockerTier0.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A locker, for storing lots of useful items. It's broken at the moment.",
+      "Por": "Um armário, para armazenar muitos itens úteis. Está quebrado no momento."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/avianshiplockerTier0/avianshiplockerTier0.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Avian storage hatch. It doesn't seem to be working.",
+      "Por": "Uma escotilha de armazenamento Avian. Não parece estar funcionando."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/avianshiplockerTier0/avianshiplockerTier0.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avian storage locker. It's not currently functional.",
+      "Por": "Armário de armazenamento Avian. Atualmente não é funcional."
+    }
+  }
+]

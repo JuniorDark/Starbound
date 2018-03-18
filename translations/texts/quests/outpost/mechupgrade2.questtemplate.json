@@ -1,0 +1,62 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/mechupgrade2.questtemplate": [
+        "/scriptConfig/descriptions/findGoal"
+      ]
+    },
+    "Texts": {
+      "Eng": "Complete the ^orange;advanced mech test course^reset;",
+      "Por": "Complete a ^orange;pista de teste de mecha avançada;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/mechupgrade2.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have a design for a new ^green;mech body^white; that fits you perfectly! I've also been making a more advanced test course in an asteroid field that, of course, needs a trial run. If you can ^green;get through the ^orange;advanced test course^green; with your own mech^white;, I can give you the blueprint. It's a win-win scenario, right?",
+      "Por": "Eu tenho um projeto para um novo ^green;corpo de mecha^white; que você se encaixa perfeitamente! Eu também fiz uma pista de teste mais avançada em um campo de asteróides que, é claro, precisa de um teste. Se você puder ^green;passar pela ^orange;pista de teste avançada^green; com seu próprio mecha^white;, eu posso te dar o projeto. É um cenário vantajoso, certo?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/mechupgrade2.questtemplate": [
+        "/scriptConfig/descriptions/enterInstance"
+      ]
+    },
+    "Texts": {
+      "Eng": "Talk to ^orange;Dr. Akaggy^reset; to enter the ^orange; advanced test course^reset;",
+      "Por": "Fale com ^orange;Dr. Akaggy^reset; para entrar na ^orange; pista de teste avançada^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/mechupgrade2.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "You made it! I guess I didn't install enough giant sawblades. I've sent the blueprint for your new ^green;mech body part^white; to the ^green;mech part crafting table^white;. Thanks again - it sure is helpful having a lab assistant!",
+      "Por": "Você conseguiu! Eu acho que eu não instalei lâminas gigantes suficientes. Enviei o projeto para o seu novo ^green;corpo de mecha^white; para a ^green;mesa de fabricação de peças de mecha^white;. Obrigado novamente - com certeza é útil ter um(a) assistente de laboratório!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/mechupgrade2.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Advanced Test Drive",
+      "Por": "^orange;Test Drive Avançado"
+    }
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/playerinventory.config": [
+        "/paneLayout/chest/data/tooltipText"
+      ],
+      "items/categories.config": [
+        "/labels/chestarmour"
+      ]
+    },
+    "Texts": {
+      "Eng": "Chest Armour",
+      "Por": "Armadura de Peito"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/craftingfurniturestore.config": [
+        "/paneLayout/lblFurniture/value"
+      ],
+      "items/categories.config": [
+        "/labels/furniture"
+      ]
+    },
+    "Texts": {
+      "Eng": "Furniture",
+      "Por": "Mobília"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/playerinventory.config": [
+        "/paneLayout/head/data/tooltipText"
+      ],
+      "items/categories.config": [
+        "/labels/headarmour"
+      ]
+    },
+    "Texts": {
+      "Eng": "Head Armour",
+      "Por": "Armadura de Cabeça"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/playerinventory.config": [
+        "/paneLayout/legs/data/tooltipText"
+      ],
+      "items/categories.config": [
+        "/labels/legarmour"
+      ]
+    },
+    "Texts": {
+      "Eng": "Leg Armour",
+      "Por": "Armadura de Perna"
+    }
+  }
+]

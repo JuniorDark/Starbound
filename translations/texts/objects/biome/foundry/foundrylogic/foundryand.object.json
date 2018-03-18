@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/foundry/foundrylogic/foundryand.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "<An /'And'/ switch. Requires all inputs to be /'on'/ to work.>",
+      "Por": " <Um interruptor /'And'/ . Requer que todas as entradas estejam /'ligadas'/ para funcionar.>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/foundry/foundrylogic/foundryand.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Foundry And Switch",
+      "Por": "Foundry And Switch"
+    }
+  }
+]

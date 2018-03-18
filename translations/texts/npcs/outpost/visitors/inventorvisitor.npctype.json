@@ -1,0 +1,50 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/inventorvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eager. I'm an inventor by trade, and I'm here to find some components I need!",
+      "Por": "Ansioso. Eu sou um inventor de profissão, e eu estou aqui para encontrar alguns componentes que eu preciso!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/inventorvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excited. My latest invention is going to be groundbreaking!",
+      "Por": "Animado. Minha última invenção vai ser inovadora!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/inventorvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Friendly. I'm an inventor! Do you also like to create things?",
+      "Por": "Amigável. Eu sou um inventor! Você também gosta de criar coisas?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/inventorvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wistful. The universe is vast, and the potential for creativity is infinite! I have so many things to create!",
+      "Por": "Saudoso. O universo é vasto, e o potencial para a criatividade é infinita! Eu tenho tantas coisas para criar!"
+    }
+  }
+]

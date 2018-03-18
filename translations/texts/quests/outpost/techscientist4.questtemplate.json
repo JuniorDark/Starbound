@@ -1,0 +1,50 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/techscientist4.questtemplate": [
+        "/scriptConfig/descriptions/findGoal"
+      ]
+    },
+    "Texts": {
+      "Eng": "Complete the ^orange;Pulse Jump Tech obstacle course^reset;",
+      "Por": "Complete a ^orange;pista de obstáculos da Tecnologia de Pulo de Pulso^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/techscientist4.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "My ^orange;Pulse Jump Tech^white; needs thorough testing before I can begin distributing it. My new ^orange;obstacle course^white; is ready and waiting! ^green;Talk to me again when you decide you're ready to try it out^white;.",
+      "Por": "Minha ^orange;Tecnologia de Pulo de Pulso^white; precisa de um teste completo antes que eu possa começar a distribuí-la. Minha nova ^orange;pista de obstáculos^white; está pronta e esperando! ^green;Fale comigo novamente quando você decidir que está pronto para testá-la^white;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/techscientist4.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The ^orange;Pulse Jump Tech^white; appears to be operating wonderfully! Keep that one, you've earned it. ^green;Come see me again when you're ready for more work^white;.",
+      "Por": "A ^orange;Tecnologia de Pulo de Pulso^white; parece estar funcionando maravilhosamente! Fique com ela, você merece. ^green;Venha me ver novamente quando estiver pronto para mais trabalho^white;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/techscientist4.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Jumping To The Right Conclusion",
+      "Por": "^orange;Pulando Para A Conclusão Certa"
+    }
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/tombbrick5.matitem": [
+        "/description"
+      ],
+      "tiles/materials/tombbrick5.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Old bricks, polished to perfection.",
+      "Por": "Tijolos velhos, polidos com perfeição."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/tombbrick5.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/tombbrick5.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Smooth Tomb Brick",
+      "Por": "Smooth Tomb Brick"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/tombbrick5.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/tombbrick5.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssmooth bricks and ssoft.",
+      "Por": "Tijolos lisoss e macioss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/tombbrick5.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/tombbrick5.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These bricks have had all edges carefully smoothed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/tombbrick5.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/tombbrick5.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These ol' lookin' bricks are mighty smooth.",
+      "Por": "Estes tijolos de aparência antiga são muito suaves."
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/shop/milk.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Milk",
+      "Por": "Milk"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/shop/milk.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mmm, milk.",
+      "Por": "Mmm, leite."
+    }
+  }
+]

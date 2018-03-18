@@ -1,0 +1,136 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/potato/potatoseed.object": [
+        "/hylotlDescription"
+      ],
+      "objects/farmables/potato/wildpotatoseed.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A common, tedious root vegetable.",
+      "Por": "Um vegetal de raiz comum e tedioso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/potato/potatoseed.object": [
+        "/humanDescription"
+      ],
+      "objects/farmables/potato/wildpotatoseed.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ahhh, potatoes. Is there anything you can't do?",
+      "Por": "Ahhh, batatas. Existe alguma coisa que você não pode fazer?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/potato/potatoseed.object": [
+        "/floranDescription"
+      ],
+      "objects/farmables/potato/wildpotatoseed.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hard, crunchy potatoesss fresh from the dirt.",
+      "Por": "Batatasss duras e crocantes frescas da terra."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/potato/potatoseed.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/farmables/potato/wildpotatoseed.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Humans create many dishes from such a simple thing."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/potato/potatoseed.object": [
+        "/avianDescription"
+      ],
+      "objects/farmables/potato/wildpotatoseed.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mashed potatoes make for a comforting dish.",
+      "Por": "Purê de batatas é um prato reconfortante."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/potato/potatoseed.object": [
+        "/novakidDescription"
+      ],
+      "objects/farmables/potato/wildpotatoseed.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Perfect for roasting in a campfire on a cold night.",
+      "Por": "Perfeita para assar em uma fogueira em uma noite fria."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/potato/potatoseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/potato/wildpotatoseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Potato Seed",
+      "Por": "Potato Seed"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/potato/potatoseed.object": [
+        "/apexDescription"
+      ],
+      "objects/farmables/potato/wildpotatoseed.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Potatoes are completely unremarkable.",
+      "Por": "Batatas são completamente normais."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/potato/potatoseed.object": [
+        "/description"
+      ],
+      "objects/farmables/potato/wildpotatoseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Potatoes! Boil em', mash em', stick em in a stew.",
+      "Por": "Batatas! Ferva-as, esmague-as, coloque-as em um guisado."
+    }
+  }
+]

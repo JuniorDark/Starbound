@@ -1,0 +1,37 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Seu movimento é determinado pelos níveis de temperatura na atmosfera."
+    ],
+    "Files": {
+      "monsters/boss/guardianminion/collidingminion.monstertype": [
+        "/description"
+      ],
+      "monsters/boss/guardianminion/electricrangedminion.monstertype": [
+        "/description"
+      ],
+      "monsters/boss/guardianminion/firerangedminion.monstertype": [
+        "/description"
+      ],
+      "monsters/boss/guardianminion/guardianminion.monstertype": [
+        "/description"
+      ],
+      "monsters/boss/guardianminion/icerangedminion.monstertype": [
+        "/description"
+      ],
+      "monsters/boss/guardianminion/largeminion.monstertype": [
+        "/description"
+      ],
+      "monsters/boss/guardianminion/poisonrangedminion.monstertype": [
+        "/description"
+      ],
+      "monsters/ghosts/squeem/squeem.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Its movement is determined by temperature levels in the atmosphere.",
+      "Por": "O seu movimento é determinado pelos níveis de temperatura na atmosfera."
+    }
+  }
+]

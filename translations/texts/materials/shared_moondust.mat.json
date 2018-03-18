@@ -1,0 +1,78 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/moondust.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/moondust.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran lovess colourful moondusst.",
+      "Por": "Floran ama poeira lunar colorida."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/moondust.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/moondust.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looks t'me like moondust.",
+      "Por": "Para mim parece como poeira lunar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/moondust.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/moondust.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Moondust",
+      "Por": "Moondust"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Moondust, a coisa que os sonhos são feitos."
+    ],
+    "Files": {
+      "items/materials/moondust.matitem": [
+        "/description"
+      ],
+      "tiles/materials/moondust.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Moondust, the thing dreams are made of.",
+      "Por": "Poeira lunar, a coisa que os sonhos são feitos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/moondust.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/moondust.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This moondust is soft to the touch."
+    }
+  }
+]

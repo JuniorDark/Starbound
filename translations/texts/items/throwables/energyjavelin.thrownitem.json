@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/throwables/energyjavelin.thrownitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A powerful javelin full of kinetic energy. Suitable for hunting.",
+      "Por": "Um dardo poderoso cheio de energia cinética. Adequado para a caça."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/throwables/energyjavelin.thrownitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Energy Javelin",
+      "Por": "Energy Javelin"
+    }
+  }
+]

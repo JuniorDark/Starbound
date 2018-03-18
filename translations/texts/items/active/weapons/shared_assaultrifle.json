@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Um rifle militar totalmente automático."
+    ],
+    "Files": {
+      "items/active/weapons/npc/npcassaultrifle.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/assaultrifle/commonassaultrifle.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/assaultrifle/rareassaultrifle.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/assaultrifle/uncommonassaultrifle.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fully automatic, military grade rifle.",
+      "Por": "Um rifle de nível militar totalmente automático."
+    }
+  }
+]

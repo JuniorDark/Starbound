@@ -1,0 +1,82 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Um boneco de neve! Tentação de chutar sua cabeça... subindo..."
+    ],
+    "Files": {
+      "objects/biome/snow/fancysnowman/fancysnowman.object": [
+        "/humanDescription"
+      ],
+      "objects/biome/snow/snowman/snowman.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A snowman! Temptation to kick its head off... rising...",
+      "Por": "Um boneco de neve! Tentação de chutar a cabeça... aumentando..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/snow/fancysnowman/fancysnowman.object": [
+        "/apexDescription"
+      ],
+      "objects/biome/snow/snowman/snowman.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An adorable snowman. How are you today?",
+      "Por": "Um boneco de neve adorável. Como você está hoje?"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Floran caça boneco de neve. Boneco de neve não se importa. Boneco de neve desmorona-se."
+    ],
+    "Files": {
+      "objects/biome/snow/fancysnowman/fancysnowman.object": [
+        "/floranDescription"
+      ],
+      "objects/biome/snow/snowman/snowman.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran hunt sssnowman. Sssnowman not care. Sssnowman crumble.",
+      "Por": "Floran caça boneco de neve. Boneco de neve não se importa. Boneco de neve desssmorona."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/snow/fancysnowman/fancysnowman.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/biome/snow/snowman/snowman.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Glitch bodies have too many corners for me to create an accurate snowglitch."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Esta efígie de neve vai derreter um dia, e voltar para a água de onde veio. Tem também um nariz bonito de cenoura."
+    ],
+    "Files": {
+      "objects/biome/snow/fancysnowman/fancysnowman.object": [
+        "/hylotlDescription"
+      ],
+      "objects/biome/snow/snowman/snowman.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This snow effigy will one day melt, and return to the water from whence it came. It also has a cute carrot nose.",
+      "Por": "Esta efígie de neve vai derreter um dia, e voltar para a água de onde veio. Ele também tem um nariz de cenoura bonito."
+    }
+  }
+]

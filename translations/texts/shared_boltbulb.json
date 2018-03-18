@@ -1,0 +1,20 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Boltbulb! Surpreendentemente suave.",
+      "Cresce boltbulb! Surpreendentemente macio."
+    ],
+    "Files": {
+      "items/generic/produce/boltbulb.consumable": [
+        "/description"
+      ],
+      "objects/farmables/boltbulb/wildboltbulbseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Boltbulb! Surprisingly soft.",
+      "Por": "Boltbulb! Surpreendentemente macio."
+    }
+  }
+]

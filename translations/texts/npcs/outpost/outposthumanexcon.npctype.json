@@ -1,0 +1,27 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/outposthumanexcon.npctype": [
+        "/scriptConfig/dialog/converse/human/human/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I haven't been on Earth in years, but I was still devastated by the news. The universe is a messy place...",
+      "Por": "Eu não estive na Terra em anos, mas eu ainda estou arrasado com a notícia. O universo é um lugar confuso..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/outposthumanexcon.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0",
+        "/scriptConfig/dialog/converse/human/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've done some stuff in my past I'm not proud of, but the people here have been good to me. I owe them a lot.",
+      "Por": "Já fiz algumas coisas no meu passado que eu não me orgulho, mas as pessoas aqui têm sido boas comigo. Devo muito a elas."
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/other/voxel2k.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "2000 pixels compressed into a voxel. Decompress it to get those pixels back.",
+      "Por": "2000 pixels comprimidos em um voxel. Descompacte-o para obter os pixels de volta."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/other/voxel2k.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "2k Voxel",
+      "Por": "2k Voxel"
+    }
+  }
+]

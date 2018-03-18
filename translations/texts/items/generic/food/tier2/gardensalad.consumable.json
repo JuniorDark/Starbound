@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier2/gardensalad.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A big bowl of mixed veggies. Nutritious!",
+      "Por": "Uma grande tigela de legumes misturados. Nutritivo!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier2/gardensalad.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Garden Salad",
+      "Por": "Garden Salad"
+    }
+  }
+]

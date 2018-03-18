@@ -1,0 +1,78 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/grassyrock.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/grassyrock.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Grass is growing in the crevices of this rock."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/grassyrock.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/grassyrock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Grassssy rocksss.",
+      "Por": "Rochasss gramadass."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/grassyrock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/grassyrock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Grassy Rock",
+      "Por": "Grassy Rock"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Pedra áspera coberta de grama."
+    ],
+    "Files": {
+      "items/materials/grassyrock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/grassyrock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rough, grassy stone.",
+      "Por": "Pedra áspera, coberta de grama."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/grassyrock.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/grassyrock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some rocks with growin' grass.",
+      "Por": "Algumas rochas com grama crescendo."
+    }
+  }
+]

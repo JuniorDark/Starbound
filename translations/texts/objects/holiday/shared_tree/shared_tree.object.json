@@ -1,0 +1,108 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/holiday/smallholidaytree/smallholidaytree.object": [
+        "/hylotlDescription"
+      ],
+      "objects/holiday/undecoratedtree/undecoratedtree.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Despite its inauthenticity, this is a very pretty tree.",
+      "Por": "Apesar da sua inautenticidade, esta é uma árvore muito bonita."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "É uma pena que seja sintética, ainda me lembro do cheiro de pinheiros reais."
+    ],
+    "Files": {
+      "objects/holiday/smallholidaytree/smallholidaytree.object": [
+        "/humanDescription"
+      ],
+      "objects/holiday/undecoratedtree/undecoratedtree.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a shame it's synthetic, I can still remember the smell of real fir trees.",
+      "Por": "É uma pena que seja sintéticao, ainda me lembro do cheiro de pinheiros reais."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/holiday/smallholidaytree/smallholidaytree.object": [
+        "/apexDescription"
+      ],
+      "objects/holiday/undecoratedtree/undecoratedtree.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a synthetic tree. Needs more lights and decorations.",
+      "Por": "É uma árvore sintética. Precisa de mais luzes e decorações."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/holiday/smallholidaytree/smallholidaytree.object": [
+        "/novakidDescription"
+      ],
+      "objects/holiday/undecoratedtree/undecoratedtree.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Its a tree, but not a real tree?",
+      "Por": "É uma árvore, mas não uma árvore de verdade?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/holiday/smallholidaytree/smallholidaytree.object": [
+        "/floranDescription"
+      ],
+      "objects/holiday/undecoratedtree/undecoratedtree.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Not sssparkly tree. Just tree.",
+      "Por": "Não é árvore brilhante. Só árvore."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/holiday/smallholidaytree/smallholidaytree.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/holiday/undecoratedtree/undecoratedtree.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This synthetic tree lacks decoration."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/holiday/smallholidaytree/smallholidaytree.object": [
+        "/avianDescription"
+      ],
+      "objects/holiday/undecoratedtree/undecoratedtree.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This tree looks convincingly real.",
+      "Por": "Esta árvore parece convincentemente real."
+    }
+  }
+]

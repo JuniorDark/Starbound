@@ -1,0 +1,1425 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/safe/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "A close call!",
+      "Por": "Por um triz!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/rent/hylotl/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Accept this as a token of my thanks for your assistance.",
+      "Por": "Aceite isso como um sinal de minha gratidão por sua ajuda."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/otherDeed/human/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are you trying to have someone move in to my store?!",
+      "Por": "Você está tentando fazer alguém se mudar pra minha loja?!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/enclosedArea/glitch/default/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Broken walls might be turning away potential customers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/enclosedArea/apex/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can you assist in the repairs of my store?",
+      "Por": "Você pode ajudar nos reparos da minha loja?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/tagCriteria/apex/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can you assist in the restoration of my store's original layout?",
+      "Por": "Você poderia ajudar na restauração do layout original da minha loja?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/enclosedArea/glitch/default/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can you fix my store before it gets worse?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/enclosedArea/human/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can you fix the walls? It'll put off new customers like this.",
+      "Por": "Você pode consertar as paredes? Ela vai espantar novos clientes assim."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/tagCriteria/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can you help me get my ssstore looking like how it usssed to?",
+      "Por": "Você pode me ajudar a deixar a minha loja parecendo como ela era antes?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/tagCriteria/avian/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can you restore my store to its original arrangement for me?",
+      "Por": "Você pode restaurar minha loja para o seu arranjo original para mim?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/follow/default/default/1",
+        "/follow/human/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Come on over and see what I've got!",
+      "Por": "Venha aqui e veja o que eu tenho!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/enclosedArea/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Could you fix my ssstore?",
+      "Por": "Você poderia consertar minha loja?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/beacon/apex/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Did you alert me for business reasons? Perhaps you wished to buy something?",
+      "Por": "Você me alertou por razões comerciais? Talvez você queria comprar alguma coisa?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/beacon/glitch/default/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Did you just come to say hello?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/beacon/hylotl/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Did you need me for my wares?",
+      "Por": "Você precisa de mim pelas minhas mercadorias?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/beacon/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Did you need to buy something, or perhaps sell something?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/beacon/glitch/default/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Did you want to chat or buy things from me?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/beacon/avian/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Did you wish to do business?",
+      "Por": "Você deseja fazer negócios?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/beacon/hylotl/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Did you wish to trade with me, friend?",
+      "Por": "Você deseja negociar comigo, amigo?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/enclosedArea/hylotl/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Do you feel something strange with my store? It feels damaged...",
+      "Por": "Você vê algo estranho na minha loja? Ela parece danificada..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/beacon/apex/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Do you have need of me?",
+      "Por": "Você precisa de mim?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/tout/default/default/1",
+        "/tout/human/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Everything you need, right here.",
+      "Por": "Tudo que você precisa, bem aqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/rent/apex/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "For all you have done for my business, take this.",
+      "Por": "Por tudo que você fez pelo meu negócio, pegue isso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/tout/default/default/0",
+        "/tout/human/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Get all your essential crafting materials here!",
+      "Por": "Obtenha todos os seus materiais de fabricação essenciais aqui!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/beacon/apex/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Greetings. Do you have something you wanted to buy?",
+      "Por": "Saudações. Tem algo que você queira comprar?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/tagCriteria/human/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Has something been stolen from my store?",
+      "Por": "Alguma coisa foi roubada de minha loja?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/tagCriteria/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Have you taken ssstuff from my ssstore?",
+      "Por": "Você pegou coisasss da minha loja?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/beacon/avian/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hello again, friend! May Kluex hold you in favour.",
+      "Por": "Olá novamente, amigo! Que Kluex te abençoe."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/helpme/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Help! I'm being attacked!",
+      "Por": "Socorro! Estou sendo atacado!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/rent/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Here is a gift for your assistance with my business."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/rent/avian/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Here is a token of my gratitude for your help.",
+      "Por": "Isto é um sinal da minha gratidão por sua ajuda."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/rent/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Here'sss something I picked up for you!",
+      "Por": "Aqui esstá algo que eu peguei para você!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/beacon/human/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hi! Did you alert me because you want to buy something?",
+      "Por": "Oi! Você me alertou porque você quer comprar alguma coisa?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/enclosedArea/avian/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hmm, there appears to be a broken wall in my home. Can you fix it?",
+      "Por": "Hmm, parece que há uma parede quebrada na minha casa. Você pode concertar isso?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/otherDeed/hylotl/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "How can I remain calm when another deed is in my shop?",
+      "Por": "Como posso ficar calmo quando uma outra deed esta na minha loja?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/otherDeed/glitch/default/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "How come someone else is trying to move in?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/tout/default/default/5",
+        "/tout/human/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "I acquire these precious materials so you don't have to!",
+      "Por": "Eu obtenho estes materiais preciosos para que você não precise!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/beacon/avian/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I am always glad to see a friendly face.",
+      "Por": "Estou sempre contente de ver um rosto amigável."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/final/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I am going to sssell somewhere else!",
+      "Por": "Eu esstou indo vender em outro lugar!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/severe/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can't sssell like thisss!",
+      "Por": "Eu não possso vender dessse jeito!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/otherDeed/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can't ssshare my store space with someone else!",
+      "Por": "Não possso compartilhar o esspaço da minha loja com outra pessoa!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/severe/hylotl/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I cannot remain working in a shop with such imperfections...",
+      "Por": "Eu não posso permanecer trabalhando em uma loja com tais imperfeições..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/final/glitch/default/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I deserve a better shop to do business with."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/severe/avian/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I don't wish to work in these conditions.",
+      "Por": "Eu não quero trabalhar nestas condições."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/rent/glitch/default/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I got you a gift for helping me with my store."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/rent/apex/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have a gift for you for all your help with my business.",
+      "Por": "Eu tenho um presente para você por toda sua ajuda com o meu negócio"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/rent/avian/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have brought you a gift.",
+      "Por": "Eu tenho um presente para você."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/rent/avian/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I hope this offering brings you happiness.",
+      "Por": "Espero que esta oferta te traga felicidade."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/rent/glitch/default/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I hope you like the gift I picked up for you whilst trading!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/tagCriteria/apex/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I liked how my store was laid out previously. Can you restore it please?",
+      "Por": "Eu gosava de como minha loja foi projetada antes. Você poderia restaurá-la, por favor?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/tagCriteria/glitch/default/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I liked my store before it was changed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/final/apex/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I moved here for a better life, but I can't work like this anymore.",
+      "Por": "Me mudei para cá por uma vida melhor, mas eu não posso trabalhar desse jeito."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/safe/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I think I got away.",
+      "Por": "Eu acho que vou embora."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/otherDeed/apex/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I thought this home was exclusively for me. How upsetting.",
+      "Por": "Eu pensei que esta casa era exclusivamente para mim. Que perturbador."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/rent/human/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I thought you might like this, friend!",
+      "Por": "Eu acho que você pôde gostar disto, amigo!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/severe/hylotl/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I try to remain calm but it is hard when my requests are left unanswered.",
+      "Por": "Eu tento ficar calmo, mas é difícil quando os meus pedidos são ignorados."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/tagCriteria/glitch/default/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wish my store was how it used to be."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/tagCriteria/hylotl/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wish my store was how it was before, it is no doubt turning away customers...",
+      "Por": "Eu gostaria que minha loja fosse como era antes, isso sem dúvida esta espantando os clientes..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/severe/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wish to sell my wares, but it is difficult under these circumstances."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/final/hylotl/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wished hard that this shop would be good enough, but it simply is not anymore.",
+      "Por": "Eu desejei duramente que esta loja seria boa o suficiente, mas ela simplesmente não é mais."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/enclosedArea/avian/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I would appreciate if you could repair the damages to my home.",
+      "Por": "Eu agradeceria se você reparasse os danos à minha casa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/tagCriteria/apex/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I would appreciate if you could restore my store's original decor.",
+      "Por": "Eu apreciaria se você pudesse restaurar a decoração original da minha loja."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/helpme/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm outta here!",
+      "Por": "Estou dando o fora daqui!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/helpme/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm under attack!",
+      "Por": "Estou sob ataque!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/merchantStart/default/default/1",
+        "/merchantStart/human/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've got all the ore you could ever need.",
+      "Por": "Eu tenho todo o minério que você poderia precisar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/tout/default/default/2",
+        "/tout/human/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've got every ore, metal and alloy you'll ever need right here!",
+      "Por": "Eu tenho todos os minérios, metais e ligas que você realmente precisa bem aqui!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/otherDeed/hylotl/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Is a rival merchant trying to move into my shop?",
+      "Por": "Um comerciante rival esta tentando se mudar pra minha loja?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/final/avian/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "It is time I found a better shop.",
+      "Por": "É hora de eu achar uma loja melhor."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/final/hylotl/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "It is time I move on, this shop is not to my standards anymore.",
+      "Por": "É hora de eu ir, esta loja não é para os meus padrões mais."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/severe/human/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "It is too difficult to sell my products like this!",
+      "Por": "É muito difícil vender meus produtos assim!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/final/apex/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "It saddens me to leave, but my complaints are being ignored.",
+      "Por": "Me entristece sair, mas as minhas queixas estão sendo ignoradas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/welcome/default/default/0",
+        "/welcome/human/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Let's see what materials I have in stock.",
+      "Por": "Vamos ver que materiais eu tenho no estoque."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/severe/apex/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "My cries for improvements have gone unanswered...",
+      "Por": "Meus gritos por melhorias ficaram sem respostas..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/rent/hylotl/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "My shop is as peaceful as I could hope for. Here is a gift for all you have done.",
+      "Por": "Minha loja está tão pacifica quanto eu poderia esperar. Aqui é um presente para tudo o que fez."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/enclosedArea/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "My store could use some fixesss!",
+      "Por": "Minha loja poderia ter uma reforma!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/enclosedArea/hylotl/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "My store has been damaged. This is unpleasant.",
+      "Por": "Minha loja foi danificada. Isto é desagradável."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/tagCriteria/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "My store hasss changed, I'm not happy with that!",
+      "Por": "Minha loja mudou, eu não esstou feliz com issso!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/tagCriteria/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "My store is different."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/follow/default/default/0",
+        "/follow/human/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Need materials? Right this way!",
+      "Por": "Precisa de materiais? Por aqui!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/enclosedArea/human/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "No-one is going to shop here with these damages! Can you help?",
+      "Por": "Ninguém vai fazer compras aqui com esses estragos! Você pode ajudar?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/final/hylotl/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Perhaps I shall find another shop that I can sell my beautiful products in.",
+      "Por": "Talvez eu encontre uma outra loja em que eu possa vender meus produtos bonitos nela."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/rent/apex/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Please accept this gift, for all your assistance.",
+      "Por": "Por favor, aceite este presente, por toda a sua ajuda."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/merchantEnd/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "See ya next time!",
+      "Por": "Até a próxima!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/welcome/default/default/1",
+        "/welcome/human/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "So what kind of materials were you after?",
+      "Por": "Então, que tipo de materiais que você está atrás?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/merchantStart/default/default/0",
+        "/merchantStart/human/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "So what materials are you looking for?",
+      "Por": "Então, que materiais você está procurando?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/tagCriteria/hylotl/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Something is unbalanced in the flow of my store...",
+      "Por": "Alguma coisa está desequilibrada no fluxo da minha loja..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/tagCriteria/avian/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Something is unsettlingly different in here.",
+      "Por": "Algo é perturbadoramente diferente aqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/otherDeed/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sssomeone else can't move here!",
+      "Por": "Outra pesssoa não pode sse mudar pra cá!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/rent/human/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Take this, for your continued patronage!",
+      "Por": "Tome isto, por seu apoio contínuo!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/rent/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thanksss for your help with my ssstore!",
+      "Por": "Obrigado por sssua ajuda com a minha loja!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/safe/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "That was close...",
+      "Por": "Essa foi por pouco..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/tagCriteria/human/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "The arrangement of my store has changed, this isn't alright...",
+      "Por": "O arranjo da minha loja mudou, isso não esta bem..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/tagCriteria/avian/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "The arrangement of my store is not the same...",
+      "Por": "O arranjo de minha loja não é o mesmo..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/severe/apex/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "The condition of my shop is disgraceful, and I feel I am being ignored!",
+      "Por": "As condição da minha loja são vergonhosas, e eu sinto que estou sendo ignorado!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/enclosedArea/avian/default/0",
+        "/enclosedArea/avian/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "The damage to my store is causing much concern to me...",
+      "Por": "O estrago na minha loja está me deixando muito preocupado..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/enclosedArea/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The damage to my store is going to turn off customers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/enclosedArea/apex/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "The damaged structure of my store is no doubt turning away customers.",
+      "Por": "A estrutura danificada da minha loja esta sem dúvida afugentando os clientes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/severe/glitch/default/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The fixes to my store haven't been made yet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/severe/hylotl/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "The state of this store is not something I feel is acceptable.",
+      "Por": "O estado desta loja não é algo que eu sinto que é aceitável."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/enclosedArea/apex/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "There are some damages to my store I wish to report.",
+      "Por": "Há alguns danos na minha loja que desejo relatar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/enclosedArea/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "There's damagesss to the walls here!",
+      "Por": "Há danosss nas paredes daqui!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/severe/human/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "These are unacceptable conditions for me to work in...",
+      "Por": "Estas condições são inaceitáveis pra mim trabalhar..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/severe/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "These conditionsss aren't okay!",
+      "Por": "Estas condiçõesss não são boasss!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/severe/avian/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "This has gone too far, I am greatly discontent with these conditions.",
+      "Por": "Isto já foi longe demais, estou muito descontente com estas condições."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/severe/apex/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "This shop is not how it was when I moved in...",
+      "Por": "Esta loja não esta como era quando eu me mudei..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/final/avian/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "This store is not how it was when I moved in. It's time I left to find another.",
+      "Por": "Esta loja não é como era quando me mudei. É hora de eu sair para encontrar outra."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/final/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thisss has gone on long enough!",
+      "Por": "Issto já foi longe o sssuficiente!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/final/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thisss is unprofessional, I'm going to sssell on another planet!",
+      "Por": "Issso não é profissional, eu vou vender em outro planeta!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/final/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Time to find a better shop to sell my wares."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/otherDeed/apex/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Was this home not intended for me? Why is it up for rent again?",
+      "Por": "Esta casa não era minha? Por que esta sendo alugada novamente?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/otherDeed/human/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wasn't this location for me? I can't share the store!",
+      "Por": "Este local não era meu? Não posso compartilhar a loja!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/severe/avian/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Why is my store in the state that it is in?!",
+      "Por": "Porque minha loja está neste estado?!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/otherDeed/apex/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Why is there another deed here? I am meant to have exclusive rights to this store!",
+      "Por": "Porque tem uma outra deed aqui? Eu deveria ter direitos exclusivos sobre esta loja!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/otherDeed/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Why isss someone else trying to move in?",
+      "Por": "Por que alguém essta tentando sse mudar?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/merchantStart/default/default/2",
+        "/merchantStart/human/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Why labour underground when I can do that for you?",
+      "Por": "Por que trabalhar no subsolo quando eu posso fazer isso para você?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/final/glitch/default/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "With these conditions, it is time that I left to sell somewhere else."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/beacon/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You needsss me to sell me sssomething?",
+      "Por": "Você precisa de mim para me vender alguma coisa?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/severe/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "You still haven't fixed thingsss in my shop!",
+      "Por": "Você ainda não consertou  as coisas na minha loja!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/oremerchant.config": [
+        "/tout/default/default/4",
+        "/tout/human/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "You won't find these goods anywhere else!",
+      "Por": "Você não vai encontrar estes produtos em qualquer outro lugar!"
+    }
+  }
+]

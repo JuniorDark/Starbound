@@ -1,0 +1,262 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/new_stock2.questtemplate": [
+        "/scriptConfig/generatedText/title/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "<questGiver>'s booming business",
+      "Por": "Negócio de <questGiver> em expansão"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/new_stock2.questtemplate": [
+        "/scriptConfig/generatedText/title/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "<questGiver>'s second trade",
+      "Por": "Segundo negócio de <questGiver>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/new_stock2.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran can't wait for business to pick up as people hear about the new sstock in Floran's shop. <newItem> is very popular right now!",
+      "Por": "Floran mal pode esperar para o negócio de pegar como as pessoas ouvem sobre o novo estoque na loja de Floran. <newItem> é muito popular agora!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/new_stock2.questtemplate": [
+        "/scriptConfig/generatedText/text/default/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran is excited to hear that travelling merchant ^orange;<target>^white; is currently visssiting the ^orange;<spawnPoint>^white;<spawnPoint.direction>. Please ^green;bring <target.pronoun.object> these <tradedItems> ^white;so that <target.pronoun.subject> will help Floran sssstock a new product, it is all the rage!",
+      "Por": "Floran está animado em saber que comerciante viajante ^orange;<target>^white; está atualmente visssitando o ^orange;<spawnPoint> ^white;<spawnPoint.direction>. Por favor ^green;leve <target.pronoun.object> estes <tradedItems> ^white;de modo que <target.pronoun.subject> vai ajudar Floran estocar um novo produto!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/new_stock2.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I am happy to announce that I will now stock a <newItem> as part of my regular inventory. Thank you for your help!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/new_stock2.questtemplate": [
+        "/scriptConfig/generatedText/failureText/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I didn't help <questGiver> succeed in acquiring new stock. ",
+      "Por": "Eu não ajudei <questGiver> a conseguir adquirir um novo estoque."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/new_stock2.questtemplate": [
+        "/scriptConfig/generatedText/failureText/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I was unable to help <questGiver> acquire new stock for <target.pronoun.possessiveDet> store. <target.pronoun.capitalSubject> probably has enough as it is.",
+      "Por": "Fui incapaz de ajudar <questGiver> adquirir um novo estoque para <target.pronoun.possessiveDet> loja. <target.pronoun.capitalSubject> provavelmente tem o suficiente como esta."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/new_stock2.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you speak to ^orange;<target>^white; at the ^orange;<spawnPoint>^white;<spawnPoint.direction> <target.pronoun.subject> might have the materials I need to create a new item of stock. Please ^green;see if <target.pronoun.subject> will accept ^orange;<tradedItems> ^white;in exchange"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/new_stock2.questtemplate": [
+        "/scriptConfig/generatedText/text/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Just in time! Travelling merchant <target> arrived at the ^orange;<spawnPoint>^white;<spawnPoint.direction> a short time ago. <target.pronoun.capitalSubject> has agreed to provide me with the new stock I require in exchange for my ^orange;<tradedItems>^white;. Could you ^green;take the goods to ^orange;<target>^white;?",
+      "Por": "Na hora certa! Comerciante Viajante <target> chegou ao ^orange;<spawnPoint> ^white;<spawnPoint.direction> a pouco tempo atrás. <target.pronoun.capitalSubject> concordou em me fornecer com um novo estoque que necessito em troca de meu ^orange;<tradedItems>^white;. Você poderia ^green;levar a mercadoria para ^orange;<target>^white;?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/new_stock2.questtemplate": [
+        "/scriptConfig/generatedText/text/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now isss our time. Travelling merchant ^orange;<target> ^white;is at the ^orange;<spawnPoint>^white;<spawnPoint.direction>, and <target.pronoun.subject> has promisssed that  ^green;<target.pronoun.subject> will trade <target.pronoun.possessiveDet> special goods for ^orange;<tradedItems>. ^white;Please do Floran a favour and ^green;make the deal!",
+      "Por": "Agora é a nossa vez. Comerciante Viajante ^orange;<target> ^white;está no ^orange;<spawnPoint> ^white;<spawnPoint.direction>, e <target.pronoun.subject> prometeu que ^green;<target.pronoun.subject> vai negociar <target.pronoun.possessiveDet> mercadorias especiais por ^orange;<tradedItems>. ^white;Por favor faça um favor a Floran e ^green;faça o negócio!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/new_stock2.questtemplate": [
+        "/scriptConfig/generatedText/text/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now to finish the task! <target>, a travelling merchant, has just arrived at the ^orange;<spawnPoint>^white;<spawnPoint.direction> to trade. Can you ^green;find ^orange;<target>^green; and give <target.pronoun.object> our ^orange;<tradedItems>^green; in return for the goods we need?",
+      "Por": "Agora para terminar a tarefa! <target>, um comerciante viajante, acaba de chegar ao ^orange;<spawnPoint> ^white;<spawnPoint.direction> para negociar. Você pode ^green;encontrar ^orange;<target>^green; e dar <target.pronoun.object> nosso ^orange;<tradedItems>^green; em troca das mercadorias que precisamos?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/new_stock2.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Success! If you need a brand new <newItem>, my store is the place to come from now on! Thanks for your help.",
+      "Por": "Sucesso! Se você precisar de um novíssimo <newItem>, minha loja é o lugar para vir a partir de agora! Obrigado pela ajuda."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/new_stock2.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thanks to your delivery, I'm now able to sell this new <newItem>! If you want one, you know where to find me!",
+      "Por": "Graças à sua entrega, Eu agora sou capaz de vender este novo <newItem>! Se você quiser um, você sabe onde me encontrar!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/new_stock2.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The merchant known as ^orange;<target>^white; is a popular fellow... Maybe you could ^green;deliver ^orange;<tradedItems>^green; to <target.pronoun.object> at the ^orange;<spawnPoint>^white;<spawnPoint.direction> in exchange for the supplies I need?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/new_stock2.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "When the town hearsss that Floran's shop has a new <newItem>, Floran is sure they will be queue out the door!",
+      "Por": "Quando a cidade ouvir que loja de Floran tem um novo <newItem>, Floran tem certeza que eles farão fila para fora da porta!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/new_stock2.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "You did it! Now I will always have a <newItem> in stock alongside my exisiting range of products."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/new_stock2.questtemplate": [
+        "/scriptConfig/generatedText/goalText/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Eager. Things are going well! Help me reach my full potential as a merchant.",
+      "Por": "^cyan;Ansioso. As coisas estão indo bem! Me ajude a alcançar meu potencial como comerciante."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/new_stock2.questtemplate": [
+        "/scriptConfig/generatedText/goalText/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Floran is pleased about success from new ssstock. Now Floran wants even better items to sell!",
+      "Por": "^cyan;Floran está satisfeito com o sucesso do novo esstoque. Agora Floran quer itens ainda melhores para vender!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/new_stock2.questtemplate": [
+        "/scriptConfig/generatedText/goalText/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Getting new things to sell helped my store last time! Can you help me do it again?",
+      "Por": "^cyan;Obter novas coisas para vender ajudou minha loja da última vez! Você pode me ajudar a fazer isso novamente?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/new_stock2.questtemplate": [
+        "/scriptConfig/generatedText/goalText/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;More items resssulted in more customers. Now Floran wants even more itemss!",
+      "Por": "^cyan;Mais itens resulta em mais clientes. Agora Floran quer ainda mais itenss!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/new_stock2.questtemplate": [
+        "/scriptConfig/generatedText/goalText/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;My store is getting popular! Now is a good time to stock some high quality merchandise....",
+      "Por": "^cyan;Minha loja está ficando popular! Agora é uma boa hora para estocar alguns produtos de alta qualidade...."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/new_stock2.questtemplate": [
+        "/scriptConfig/generatedText/goalText/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Resourceful. An opportunity has arisen for me to expand my store. I have to take it!",
+      "Por": "^cyan;Engenhoso. Uma oportunidade para mim expandir minha loja surgiu. Eu tenho que pega-la!"
+    }
+  }
+]

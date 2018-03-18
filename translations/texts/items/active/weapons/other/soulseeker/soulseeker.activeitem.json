@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/other/soulseeker/soulseeker.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sword of extraordinary dark power, once used by a powerful soul.",
+      "Por": "Uma espada de poder negro extraordinário, uma vez usada por uma alma poderosa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/other/soulseeker/soulseeker.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Soulseeker",
+      "Por": "Soulseeker"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/other/soulseeker/soulseeker.activeitem": [
+        "/upgradeParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Soulseeker ^yellow;^reset;",
+      "Por": "Soulseeker ^yellow;^reset;"
+    }
+  }
+]

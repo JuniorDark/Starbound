@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/refinedaegisalt.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ore for refined aegisalt is primarily found on planets orbiting frozen stars.",
+      "Por": "Aegisalt é encontrado principalmente em planetas que orbitam estrelas congeladas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/refinedaegisalt.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Refined Aegisalt",
+      "Por": "Refined Aegisalt"
+    }
+  }
+]

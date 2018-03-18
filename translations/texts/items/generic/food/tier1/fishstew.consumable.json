@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier1/fishstew.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A light stew that goes down easy.",
+      "Por": "Um leve ensopado que desce fácil."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier1/fishstew.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fish Stew",
+      "Por": "Fish Stew"
+    }
+  }
+]

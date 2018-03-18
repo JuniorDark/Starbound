@@ -1,0 +1,109 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/checkpoint/checkpoint.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can we truly perish if we always respawn?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/checkpoint/checkpoint.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I don't quite understand it, but I'll come right back here if I die.",
+      "Por": "Eu não entendo muito bem, mas eu voltarei aqui se eu morrer."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/checkpoint/checkpoint.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you die, you will respawn at this location.",
+      "Por": "Se você morrer, você vai reaparecer neste local."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/checkpoint/checkpoint.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It seems that if I perish I will return to this point",
+      "Por": "Parece que se eu morrer eu vou voltar a este ponto."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/checkpoint/checkpoint.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mission Checkpoint",
+      "Por": "Mission Checkpoint"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/checkpoint/checkpoint.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Modern technology is amazing, if I die, I'll respawn right here!",
+      "Por": "Tecnologia moderna é incrível, se eu morrer, eu vou reaparecer aqui!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/checkpoint/checkpoint.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Quite interesting, I can live again should I perish via this.",
+      "Por": "Bastante interessante, eu posso viver novamente se eu morrer através disso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/checkpoint/checkpoint.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This will allow me to continue... Should I fail.",
+      "Por": "Isso me permitirá continuar... Se eu falhar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/checkpoint/checkpoint.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thisss letss Floran come back here if thingsss go wrong!",
+      "Por": "Isso permite que Floran volte aqui se as coisasss deram errado!"
+    }
+  }
+]

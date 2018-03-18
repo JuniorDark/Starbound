@@ -1,0 +1,138 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Uma planta quente e picante. Exótico."
+    ],
+    "Files": {
+      "objects/farmables/chili/chiliseed.object": [
+        "/avianDescription"
+      ],
+      "objects/farmables/chili/wildchiliseed.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hot, spicy plant. Exotic.",
+      "Por": "Uma planta quente e picante. Exótica."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/chili/chiliseed.object": [
+        "/floranDescription"
+      ],
+      "objects/farmables/chili/wildchiliseed.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Burning, spicy fruitsss. This plant hurts flesh mouthsss.",
+      "Por": "Frutasss picantes. Esta planta machuca bocasss de carne."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/chili/chiliseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/chili/wildchiliseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Chilli Seed",
+      "Por": "Chilli Seed"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/chili/chiliseed.object": [
+        "/humanDescription"
+      ],
+      "objects/farmables/chili/wildchiliseed.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Chillies are spicy, but so addictive.",
+      "Por": "Pimentas são picantes, mas tão viciantes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/chili/chiliseed.object": [
+        "/description"
+      ],
+      "objects/farmables/chili/wildchiliseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hot, hot, hot fiesta!! Extra hot to anyone but the humans.",
+      "Por": "Super quente para os humanos, super, super quente para todos os outros."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/chili/chiliseed.object": [
+        "/hylotlDescription"
+      ],
+      "objects/farmables/chili/wildchiliseed.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Just the right balance of flavour to heat. Used in moderation, it's delicious.",
+      "Por": "Apenas o equilíbrio certo de sabor para calor. Usada com moderação, é deliciosa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/chili/chiliseed.object": [
+        "/novakidDescription"
+      ],
+      "objects/farmables/chili/wildchiliseed.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Novakids are a big fan of chilli, the hotter the better!",
+      "Por": "Novakids são um grande fã de pimenta, quanto mais quente melhor!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/chili/chiliseed.object": [
+        "/apexDescription"
+      ],
+      "objects/farmables/chili/wildchiliseed.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Painting chillies yellow is a popular prank amongst young Apex. If caught, many wouldn't survive to do it again.",
+      "Por": "Pintar pimenta amarela é uma brincadeira popular entre jovens Apex. Se pegos, muitos não sobreviveriam para fazê-lo outra vez."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/chili/chiliseed.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/farmables/chili/wildchiliseed.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Who would choose to eat a food that hurts them?"
+    }
+  }
+]

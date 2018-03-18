@@ -1,0 +1,98 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/modsmenu/modsmenu.config": [
+        "/paneLayout/modauthorlabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "AUTHOR",
+      "Por": "AUTOR"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/modsmenu/modsmenu.config": [
+        "/paneLayout/copylinklabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "COPY MOD HOMEPAGE LINK",
+      "Por": "COPIAR LINK DA PAGINA DO MOD"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/modsmenu/modsmenu.config": [
+        "/paneLayout/lblDescription/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Description",
+      "Por": "Descrição"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/modsmenu/modsmenu.config": [
+        "/paneLayout/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mods",
+      "Por": "Mods"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/modsmenu/modsmenu.config": [
+        "/paneLayout/linklabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "OPEN MOD HOMEPAGE",
+      "Por": "ABRIR PAGINA DO MOD"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/modsmenu/modsmenu.config": [
+        "/paneLayout/selectmodlabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Select Mod",
+      "Por": "Selecionar Mod"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/modsmenu/modsmenu.config": [
+        "/paneLayout/modversionlabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "VERSION",
+      "Por": "VERSÃO"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/modsmenu/modsmenu.config": [
+        "/paneLayout/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#b9b5b2;Currently loaded asset sources",
+      "Por": "^#b9b5b2;Arquivos ativos no momento"
+    }
+  }
+]

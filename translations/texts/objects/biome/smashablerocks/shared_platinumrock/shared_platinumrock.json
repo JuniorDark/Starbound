@@ -1,0 +1,106 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/smashablerocks/platinumrock/platinumrock.object": [
+        "/description"
+      ],
+      "objects/biome/smashablerocks/platinumrocksmall/platinumrocksmall.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A cracked rock full of platinum.",
+      "Por": "Uma rocha rachada cheia de platina."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/smashablerocks/platinumrock/platinumrock.object": [
+        "/humanDescription"
+      ],
+      "objects/biome/smashablerocks/platinumrocksmall/platinumrocksmall.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A rock full of platinum! Maybe I can break it.",
+      "Por": "Uma rocha cheia de platina! Talvez eu possa quebrá-la."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/smashablerocks/platinumrock/platinumrock.object": [
+        "/novakidDescription"
+      ],
+      "objects/biome/smashablerocks/platinumrocksmall/platinumrocksmall.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A rock rich with platinum. I should break it.",
+      "Por": "Uma rocha rica em platina. Eu deveria quebrá-la."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/smashablerocks/platinumrock/platinumrock.object": [
+        "/hylotlDescription"
+      ],
+      "objects/biome/smashablerocks/platinumrocksmall/platinumrocksmall.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A swift blow to this rock would free the platinum within.",
+      "Por": "Um golpe rápido nesta pedra liberaria a platina dentro."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/smashablerocks/platinumrock/platinumrock.object": [
+        "/avianDescription"
+      ],
+      "objects/biome/smashablerocks/platinumrocksmall/platinumrocksmall.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "If I break this rock I should be able to gather the platinum ore within it.",
+      "Por": "Se eu quebrar esta rocha devo ser capaz de recolher o minério de platina dentro dela."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/smashablerocks/platinumrock/platinumrock.object": [
+        "/apexDescription"
+      ],
+      "objects/biome/smashablerocks/platinumrocksmall/platinumrocksmall.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "There appears to be platinum within this fragile rock.",
+      "Por": "Parece haver platina dentro desta frágil rocha."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/smashablerocks/platinumrock/platinumrock.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/biome/smashablerocks/platinumrocksmall/platinumrocksmall.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This rock contains platinum, and is covered in cracks."
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/backitems/heatprotection/heatprotection.back": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cooling EPP Upgrade",
+      "Por": "Cooling EPP Upgrade"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/backitems/heatprotection/heatprotection.back": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This upgrade adds cool air generation to your EPP's capabilities. Helpful on ^red;dangerously hot^reset; planets.",
+      "Por": "Esta melhoria adiciona geração de ar frio para as capacidades do seu EPP. Útil em planetas ^red;perigosamente quentes^reset;."
+    }
+  }
+]

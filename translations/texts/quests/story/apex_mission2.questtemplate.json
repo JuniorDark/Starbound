@@ -1,0 +1,62 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/apex_mission2.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fetch the Apex Artifact",
+      "Por": "Busque o Artefato Apex"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/apex_mission2.questtemplate": [
+        "/scriptConfig/descriptions/artifact"
+      ]
+    },
+    "Texts": {
+      "Eng": "Find the ^orange;artifact^reset; in the ^orange;Miniknog stronghold^reset;",
+      "Por": "Encontre o ^orange;artefato^reset; na ^orange;Fortaleza Miniknog^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/apex_mission2.questtemplate": [
+        "/scriptConfig/missionRadioMessage/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have received coordinates for the ^orange;Miniknog Stronghold^reset;. ^green;Use the ship computer^reset; to access the location.",
+      "Por": "Recebi as coordenadas para a ^orange;Fortaleza Miniknog^reset;. ^green;Use o computador da nave^reset; para acessar o local."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/apex_mission2.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm afraid the ^orange;Apex artifact^reset; is being held in a ^orange;Miniknog stronghold^reset;. It may be hard to get access, dear. Please ^green;be careful down there^reset;, the Miniknog can be vicious.",
+      "Por": "Temo que o ^orange;artefato Apex^reset; esteja sendo mantido em uma ^orange;Fortaleza Miniknog^reset;. Pode ser difícil conseguir acesso, querido(a). Por favor ^green;tenha cuidado lá^reset;, a Miniknog pode ser perversa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/apex_mission2.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm so pleased our band is growing; that we're gathering allies along with the artifacts. It's almost like starting a new Protectorate...",
+      "Por": "Estou tão contente, nosso bando está crescendo; nos estamos reunindo aliados, juntamente com os artefatos. É quase como começar um novo Protetorado..."
+    }
+  }
+]

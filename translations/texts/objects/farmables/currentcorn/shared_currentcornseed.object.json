@@ -1,0 +1,121 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/currentcorn/currentcornseed.object": [
+        "/hylotlDescription"
+      ],
+      "objects/farmables/currentcorn/wildcurrentcornseed.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A vile, acidic corn variant. Detrimental to any dish.",
+      "Por": "Uma perversa e ácida variante do milho. Prejudicial para qualquer prato."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/currentcorn/currentcornseed.object": [
+        "/avianDescription"
+      ],
+      "objects/farmables/currentcorn/wildcurrentcornseed.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Acidic corn. Unpleasant and dangerous.",
+      "Por": "Milho ácido. Desagradável e perigoso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/currentcorn/currentcornseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/currentcorn/wildcurrentcornseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Currentcorn Seed",
+      "Por": "Currentcorn Seed"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/currentcorn/currentcornseed.object": [
+        "/novakidDescription"
+      ],
+      "objects/farmables/currentcorn/wildcurrentcornseed.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Currentcorn is closer to a battery cell than an edible foodstuff.",
+      "Por": "Currentcorn está mais pra uma bateria do que um género alimentício comestível."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/currentcorn/currentcornseed.object": [
+        "/description"
+      ],
+      "objects/farmables/currentcorn/wildcurrentcornseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Currentcorn, full of acid. Not good for fleshy creatures.",
+      "Por": "Currentcorn, cheio do ácido. Não é bom para criaturas de carne."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/currentcorn/currentcornseed.object": [
+        "/apexDescription"
+      ],
+      "objects/farmables/currentcorn/wildcurrentcornseed.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've heard of people getting acid burns from currentcorn. I'd better handle with care.",
+      "Por": "Ouvi falar de pessoas tendo queimaduras \r\n com ácido de currentcorn. Melhor eu manusear com cuidado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/currentcorn/currentcornseed.object": [
+        "/humanDescription"
+      ],
+      "objects/farmables/currentcorn/wildcurrentcornseed.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It looks like corn... but it really, really isn't.",
+      "Por": "Parece com milho... mas realmente, realmente não é."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/currentcorn/currentcornseed.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/farmables/currentcorn/wildcurrentcornseed.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Glitch know of a way to use these vegetables as batteries."
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/humanoid/mysteriousfossil1.item": [
+        "/completeSetDescriptions/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A creature which has perplexed many scientists, its origin and age cannot be determined.",
+      "Por": "Uma criatura que deixou muitos cientistas perplexos, sua origem e idade não pode ser determinada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/humanoid/mysteriousfossil1.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fossilised skull from an unknown creature.",
+      "Por": "Um crânio fossilizado de uma criatura desconhecida."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/humanoid/mysteriousfossil1.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unidentified Skull",
+      "Por": "Unidentified Skull"
+    }
+  }
+]

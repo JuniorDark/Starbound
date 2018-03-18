@@ -1,0 +1,134 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/foundry.npctype": [
+        "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Foundry Merchant",
+      "Por": "Comerciante da Fundição"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/foundry.npctype": [
+        "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Sells ores and mining equipment!",
+      "Por": "Vendo minérios e equipamentos de mineração!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/foundry.npctype": [
+        "/scriptConfig/dialog/merchant/end/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Come back anytime you need some raw metals!",
+      "Por": "Voltar a qualquer momento se você precisar de alguns metais brutos!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/foundry.npctype": [
+        "/scriptConfig/dialog/merchant/start/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Foundry-sourced materials, right here!",
+      "Por": "Materiais de fundição, bem aqui!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/foundry.npctype": [
+        "/scriptConfig/dialog/merchant/start/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Get your mining produce, shipped straight from your local foundries!",
+      "Por": "Obtenha seu produto de mineração, enviado diretamente de suas fundições locais!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/foundry.npctype": [
+        "/scriptConfig/dialog/merchant/welcome/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Here we are! So, what did you need? Perhaps some crafting metals?",
+      "Por": "Aqui estamos! Então, o que você precisa? Talvez alguns metais de fabricação?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/foundry.npctype": [
+        "/scriptConfig/dialog/merchant/end/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you need some ores, you know exactly where to get them!",
+      "Por": "Se você precisar de alguns minérios, você sabe exatamente onde obtê-los!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/foundry.npctype": [
+        "/scriptConfig/dialog/merchant/end/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you need some raw metals, you know where to find me!",
+      "Por": "Se você precisar de alguns metais brutos, você sabe onde me encontrar!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/foundry.npctype": [
+        "/scriptConfig/dialog/merchant/welcome/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "We're here! So, did you need some mining tools?",
+      "Por": "Aqui estamos! Então, você precisa de algumas ferramentas de mineração?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/foundry.npctype": [
+        "/scriptConfig/dialog/merchant/start/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welcome! Perhaps you need some mining equipment? How about some metals?",
+      "Por": "Bem-vindo! Talvez você precise de algum equipamento de mineração? Que tal alguns metais?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/foundry.npctype": [
+        "/scriptConfig/dialog/merchant/welcome/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welcome! Would you like to buy some metals?",
+      "Por": "Bem-vindo! Você gostaria de comprar alguns metais?"
+    }
+  }
+]

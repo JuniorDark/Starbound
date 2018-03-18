@@ -1,0 +1,112 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Volte novamente.",
+      "Volte sempre!"
+    ],
+    "Files": {
+      "dialog/merchant.config": [
+        "/merchantEnd/human/default/1"
+      ],
+      "dialog/oremerchant.config": [
+        "/merchantEnd/default/default/1",
+        "/merchantEnd/human/default/1"
+      ],
+      "npcs/subbiometenants/giantflower.npctype": [
+        "/scriptConfig/dialog/merchant/end/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Come again.",
+      "Por": "Volte sempre."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/merchantEnd/default/default/6",
+        "/merchantEnd/human/default/6"
+      ],
+      "dialog/oremerchant.config": [
+        "/merchantEnd/default/default/5",
+        "/merchantEnd/human/default/5"
+      ],
+      "npcs/subbiometenants/giantflower.npctype": [
+        "/scriptConfig/dialog/merchant/end/default/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Let's do business again.",
+      "Por": "Vamos fazer negócios novamente."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Foi um prazer negociar com você!"
+    ],
+    "Files": {
+      "dialog/merchant.config": [
+        "/merchantEnd/default/default/3",
+        "/merchantEnd/human/default/3"
+      ],
+      "dialog/oremerchant.config": [
+        "/merchantEnd/default/default/3",
+        "/merchantEnd/human/default/3"
+      ],
+      "npcs/subbiometenants/giantflower.npctype": [
+        "/scriptConfig/dialog/merchant/end/default/default/3"
+      ],
+      "npcs/subbiometenants/glow.npctype": [
+        "/scriptConfig/dialog/merchant/end/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleasure doing business with you!",
+      "Por": "Prazer fazer negócios com você!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Até a próxima!"
+    ],
+    "Files": {
+      "dialog/merchant.config": [
+        "/merchantEnd/default/default/0",
+        "/merchantEnd/human/default/0"
+      ],
+      "dialog/oremerchant.config": [
+        "/merchantEnd/human/default/0"
+      ],
+      "npcs/subbiometenants/giantflower.npctype": [
+        "/scriptConfig/dialog/merchant/end/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "See you next time!",
+      "Por": "Te vejo na próxima!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Seus pixels são sempre bons aqui."
+    ],
+    "Files": {
+      "dialog/merchant.config": [
+        "/merchantEnd/default/default/2",
+        "/merchantEnd/human/default/2"
+      ],
+      "dialog/oremerchant.config": [
+        "/merchantEnd/default/default/2",
+        "/merchantEnd/human/default/2"
+      ],
+      "npcs/subbiometenants/giantflower.npctype": [
+        "/scriptConfig/dialog/merchant/end/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Your pixels are always good here.",
+      "Por": "Os seus pixels são sempre bons aqui."
+    }
+  }
+]

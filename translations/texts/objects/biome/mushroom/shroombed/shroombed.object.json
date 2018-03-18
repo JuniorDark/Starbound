@@ -1,0 +1,97 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/mushroom/shroombed/shroombed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A mushroom bed. Guaranteed to give you weird dreams.",
+      "Por": "Uma cama de cogumelo. Garantido para lhe dar sonhos estranhos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/mushroom/shroombed/shroombed.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran rock bed, fall out.",
+      "Por": "Cama balançante."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/mushroom/shroombed/shroombed.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Not sure this mushroom bed is all that stable...",
+      "Por": "Não sei se esta cama de cogumelo é tão estável..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/mushroom/shroombed/shroombed.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Only good for a single person, because there's not mushroom in this bed.",
+      "Por": "Uma cama feita de cogumelos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/mushroom/shroombed/shroombed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shroom Bed",
+      "Por": "Shroom Bed"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/mushroom/shroombed/shroombed.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This bed gently sways, as if one is on a boat. Calming.",
+      "Por": "Esta cama balança suavemente, como se fosse um barco. Calmante."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/mushroom/shroombed/shroombed.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This bed sways on its stalk. I feel queasy.",
+      "Por": "Esta cama balança. Eu me sinto enjoado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/mushroom/shroombed/shroombed.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This mushroom bed emits mild hallucinogenic spores."
+    }
+  }
+]

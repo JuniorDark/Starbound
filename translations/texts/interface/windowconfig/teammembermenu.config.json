@@ -1,0 +1,51 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/teammembermenu.config": [
+        "/paneLayout/beamToShip/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Beam to ship",
+      "Por": "Ir a nave"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/teammembermenu.config": [
+        "/removeSelfText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Leave",
+      "Por": "Sair"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/teammembermenu.config": [
+        "/paneLayout/makeLeader/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Make Leader",
+      "Por": "Tornar Lider"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/teammembermenu.config": [
+        "/paneLayout/removeFromTeam/caption",
+        "/removeOtherText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Remove",
+      "Por": "Remover"
+    }
+  }
+]

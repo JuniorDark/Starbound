@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/metallic.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/metallic.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Futurisstic computer blockss.",
+      "Por": "Blocoss de computador futurista."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/metallic.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/metallic.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hi-tech Block",
+      "Por": "Hi-tech Block"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/metallic.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/metallic.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some flashy lookin' hi-tech blocks.",
+      "Por": "Alguns blocos de alta tecnologia chamativos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/metallic.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/metallic.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The technology within these blocks is unknown to me."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/metallic.matitem": [
+        "/description"
+      ],
+      "tiles/materials/metallic.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This looks hi-tech!",
+      "Por": "Isso parece tecnologia de última geração!"
+    }
+  }
+]

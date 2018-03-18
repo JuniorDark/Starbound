@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/fishing/medium/spot/fishingspot.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "It can somehow swallow 10 times its body mass.",
+      "Por": "Ele pode de alguma forma engolir 10 vezes a sua massa corporal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/fishing/medium/spot/fishingspot.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Spotted Gulptredder",
+      "Por": "Spotted Gulptredder"
+    }
+  }
+]

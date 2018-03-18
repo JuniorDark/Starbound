@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/bow/poisonbow/poisonbow.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fires arrows coated in deadly poison.",
+      "Por": "Dispara flechas revestidas com veneno mortal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/bow/poisonbow/poisonbow.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Poison Bow",
+      "Por": "Poison Bow"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/bow/poisonbow/poisonbow.activeitem": [
+        "/upgradeParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Poison Bow ^yellow;^reset;",
+      "Por": "Poison Bow ^yellow;^reset;"
+    }
+  }
+]

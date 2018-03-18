@@ -1,0 +1,194 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/spring.npctype": [
+        "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Flowerpot Salesman",
+      "Por": "Vendedor de Vaso de Flores"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/spring.npctype": [
+        "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Sells decorative potted plants",
+      "Por": "Vende vasos de plantas decorativas"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/spring.npctype": [
+        "/scriptConfig/dialog/merchant/end/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Come back soon if you'd like some potted plants!",
+      "Por": "Volte logo se você gostaria de algumas plantas em vasos!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/spring.npctype": [
+        "/scriptConfig/dialog/merchant/end/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Come back soon if you'd like to buy some more plants!",
+      "Por": "Volte logo se você gostaria de comprar mais algumas plantas!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/spring.npctype": [
+        "/scriptConfig/dialog/merchant/follow/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Follow me to my store - There you can buy some potted plants.",
+      "Por": "Siga-me ate minha loja - Lá você pode comprar alguns vasos de plantas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/spring.npctype": [
+        "/scriptConfig/dialog/merchant/welcome/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Here we are! Go ahead and look for something you might like!",
+      "Por": "Aqui estamos! Vá em frente e procure algo que você pode gostar!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/spring.npctype": [
+        "/scriptConfig/dialog/merchant/end/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you need plants you know where to find me.",
+      "Por": "Se você precisar de plantas que você sabe onde me encontrar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/spring.npctype": [
+        "/scriptConfig/dialog/merchant/welcome/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now we can trade!",
+      "Por": "Agora podemos negociar!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/spring.npctype": [
+        "/scriptConfig/dialog/merchant/welcome/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now, would you like to purchase some potted plants?",
+      "Por": "Agora, gostaria de comprar alguns vasos de plantas?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/spring.npctype": [
+        "/scriptConfig/dialog/merchant/end/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thanks for doing business with me - Come back if you need plants!",
+      "Por": "Obrigado por fazer negócio comigo - Volte se precisar de plantas!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/spring.npctype": [
+        "/scriptConfig/dialog/merchant/start/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "We should trade! I have many potted plants!",
+      "Por": "Devemos negociar! Eu tenho muitos vasos de plantas!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/spring.npctype": [
+        "/scriptConfig/dialog/merchant/follow/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Would you like to browse my potted plants? Follow me.",
+      "Por": "Você gostaria de ver meus vasos de plantas? Me siga."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/spring.npctype": [
+        "/scriptConfig/dialog/merchant/start/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Would you like to buy some flowers?",
+      "Por": "Você gostaria de comprar algumas flores?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/spring.npctype": [
+        "/scriptConfig/dialog/merchant/follow/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Would you like to buy some flowers? Come with me!",
+      "Por": "Você gostaria de comprar algumas flores? Venha comigo!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/spring.npctype": [
+        "/scriptConfig/dialog/merchant/follow/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Would you like to purchase some flowers?",
+      "Por": "Você gostaria de comprar algumas flores?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/spring.npctype": [
+        "/scriptConfig/dialog/merchant/start/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "You look like someone who needs some flowers!",
+      "Por": "Você se parece com alguém que precisa de algumas flores!"
+    }
+  }
+]

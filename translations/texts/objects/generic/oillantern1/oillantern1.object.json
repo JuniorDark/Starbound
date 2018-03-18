@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/oillantern1/oillantern1.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A beautiful oil lantern.",
+      "Por": "Uma linda lanterna de óleo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/oillantern1/oillantern1.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A lantern burning oil as fuel.",
+      "Por": "Uma lanterna queimando óleo como combustível."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/oillantern1/oillantern1.object": [
+        "/description",
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A pretty oil lantern.",
+      "Por": "Uma linda lanterna de óleo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/oillantern1/oillantern1.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fuel keeps the flame alight.",
+      "Por": "Combustível mantém a chama acesa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/oillantern1/oillantern1.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Oil Lantern",
+      "Por": "Oil Lantern"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/oillantern1/oillantern1.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The lantern contains oil."
+    }
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Um bloco de mateira. Um bloco que importa."
+    ],
+    "Files": {
+      "items/generic/crafting/matteritem.item": [
+        "/description"
+      ],
+      "items/materials/matterblock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/matterblock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A matter block. A block that matters.",
+      "Por": "Um bloco de matéria."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/matteritem.item": [
+        "/shortdescription"
+      ],
+      "items/materials/matterblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/matterblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Matter Block",
+      "Por": "Matter Block"
+    }
+  }
+]

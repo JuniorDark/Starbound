@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/foundry/foundrylogic/foundrynot.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "<A /'Not'/ switch. Inverts the input on the circuit.>",
+      "Por": "<Um interruptor /'Not'/ . Inverte a entrada no circuito.>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/foundry/foundrylogic/foundrynot.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Foundry Not Switch",
+      "Por": "Foundry Not Switch"
+    }
+  }
+]

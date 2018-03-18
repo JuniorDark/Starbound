@@ -1,0 +1,109 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/wooddoor/wooddoor.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A cheap wooden door.",
+      "Por": "Uma porta de madeira barata."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/wooddoor/wooddoor.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A cheaply manufactured door.",
+      "Por": "Uma porta de fabricação barata."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/wooddoor/wooddoor.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A manufactured paneled door.",
+      "Por": "Uma porta com painéis fabricados."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/wooddoor/wooddoor.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran not like door made in factory.",
+      "Por": "Floran não gosta porta feita na fábrica."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/wooddoor/wooddoor.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Paneled Door",
+      "Por": "Paneled Door"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/wooddoor/wooddoor.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This door appears to have been manufactured on a production line."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/wooddoor/wooddoor.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This door lacks a personal touch.",
+      "Por": "Esta porta não tem um toque pessoal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/wooddoor/wooddoor.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This door was produced by a machine.",
+      "Por": "Esta porta foi produzida por uma máquina."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/wooddoor/wooddoor.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This wooden door was not made by hand.",
+      "Por": "Esta porta de madeira não foi feita à mão."
+    }
+  }
+]

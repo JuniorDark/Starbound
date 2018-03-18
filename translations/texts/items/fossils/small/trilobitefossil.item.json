@@ -1,0 +1,39 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/small/trilobitefossil.item": [
+        "/completeSetDescriptions/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "\"Triolbites are one of the more well preserved fossil groups thanks to their exoskeleton.",
+      "Por": "Trilobites são um dos grupos de fósseis mais bem preservados graças ao seu exoesqueleto."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/small/trilobitefossil.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fossilised trilobite.",
+      "Por": "Um trilobite fossilizado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/small/trilobitefossil.item": [
+        "/completeSetDescriptions/shortdescription",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trilobite",
+      "Por": "Trilobite"
+    }
+  }
+]

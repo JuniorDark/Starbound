@@ -1,0 +1,100 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/windchime/windchime.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bamboo wind chime, clattering in the wind.",
+      "Por": "Um sino de vento de bambu, batendo no vento."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/windchime/windchime.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A wooden chime, the sound is irritatin'.",
+      "Por": "Um sino de madeira, o som é irritante."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/windchime/windchime.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bamboo Wind Chime",
+      "Por": "Bamboo Wind Chime"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/windchime/windchime.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bamboo ssswayss in wind, makess nice soundss.",
+      "Por": "Bamboo balança no vento, faz sonss agradáveiss."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "O bambu oco dá a esse sino de vento um som encantador."
+    ],
+    "Files": {
+      "objects/generic/windchime/windchime.object": [
+        "/avianDescription",
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hollow bamboo gives this wind chime a lovely sound.",
+      "Por": "Bambu oco dá a esse sino de vento um som encantador."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/windchime/windchime.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hollow bamboo strung together to make a wind chime.",
+      "Por": "Bambu oco amarrado junto para fazer um sino de vento."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/windchime/windchime.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I enjoy the random patterns of sound this chime produces."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/windchime/windchime.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The hollow bamboo makes for a soothing chime.",
+      "Por": "O bambu oco faz para um sino reconfortante."
+    }
+  }
+]

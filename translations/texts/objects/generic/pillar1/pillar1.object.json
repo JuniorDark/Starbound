@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/pillar1/pillar1.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A pillar, standin' tall.",
+      "Por": "Um pilar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/pillar1/pillar1.object": [
+        "/apexDescription",
+        "/avianDescription",
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A pillar.",
+      "Por": "Um pilar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/pillar1/pillar1.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A substandard pillar.",
+      "Por": "Um pilar de qualidade inferior."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/pillar1/pillar1.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A tall stone pillar.",
+      "Por": "Um pilar de pedra alto."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/pillar1/pillar1.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Big tall ssstone.",
+      "Por": "Grande pedra alta."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/pillar1/pillar1.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stone Pillar",
+      "Por": "Stone Pillar"
+    }
+  }
+]

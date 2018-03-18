@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/redtoyblock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/redtoyblock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large stackable toy block.",
+      "Por": "Um grande bloco de brinquedo empilhável."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/redtoyblock.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/redtoyblock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran likess sstackable toy block.",
+      "Por": "Floran gossta de bloco de brinquedo empilhável."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/redtoyblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/redtoyblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Red Toy Block",
+      "Por": "Red Toy Block"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/redtoyblock.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/redtoyblock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These colourful blocks are meant for playin' with.",
+      "Por": "Estes blocos coloridos são feitos para brincar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/redtoyblock.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/redtoyblock.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These toy blocks stack and lock together."
+    }
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/composite01.matitem": [
+        "/description"
+      ],
+      "tiles/materials/composite01.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A smooth panel made of titanium.",
+      "Por": "Um painel liso feito de titânio."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/composite01.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/composite01.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some shiny n' smooth titanium panels.",
+      "Por": "Alguns painéis de titânio brilhantes e lisos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/composite01.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/composite01.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssmooth shiny titanium panelss.",
+      "Por": "Painéis de titânio lisos e brilhantes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/composite01.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/composite01.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This titanium panel is almost flawlessly smooth."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/composite01.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/composite01.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Titanium Panel",
+      "Por": "Titanium Panel"
+    }
+  }
+]

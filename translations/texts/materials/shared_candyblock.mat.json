@@ -1,0 +1,78 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/candyblock.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/candyblock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A big ol' piece of rock candy.",
+      "Por": "Um grande pedaço de pedra de doce."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/candyblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/candyblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Candy Block",
+      "Por": "Candy Block"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/candyblock.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/candyblock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Candy hass colourful sstripess.",
+      "Por": "Doce tem listrass coloridass."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Uma pedra com cheiro de doce!"
+    ],
+    "Files": {
+      "items/materials/candyblock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/candyblock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sweet-smelling rock candy!",
+      "Por": "Pedra com cheiro de doce!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/candyblock.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/candyblock.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This appears to be a giant piece of hard candy."
+    }
+  }
+]

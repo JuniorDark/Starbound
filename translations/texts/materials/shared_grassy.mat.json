@@ -1,0 +1,78 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Um bloco de telhado com grama crescente."
+    ],
+    "Files": {
+      "items/materials/grassy.matitem": [
+        "/description"
+      ],
+      "tiles/materials/grassy.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A block of sod roofing with growing grass.",
+      "Por": "Um bloco de telhado com grama crescendo nele."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/grassy.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/grassy.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran likess grasssy ssod roofing.",
+      "Por": "Floran gosta de telhadoss com grama."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/grassy.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/grassy.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Grassy sod roofing, somethin' nice about the simplicity of it.",
+      "Por": "Telhado coberto de grama, algo agradável sobre a simplicidade dele."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/grassy.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/grassy.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "It seems this sod roofing has live grass."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/grassy.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/grassy.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sod Block",
+      "Por": "Sod Block"
+    }
+  }
+]

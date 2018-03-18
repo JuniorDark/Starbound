@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Iluminação em faixa, para uso em uma nave espacial."
+    ],
+    "Files": {
+      "objects/generic/invisiblelight/invisiblelight.object": [
+        "/description"
+      ],
+      "objects/generic/shiplight/shiplight.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Strip lighting, for use on a spaceship.",
+      "Por": "Iluminação em tira, para uso em uma nave espacial."
+    }
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/geodeblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/geodeblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Geode Crystals",
+      "Por": "Geode Crystals"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Geodo de cristais naturais com um brilho fraco"
+    ],
+    "Files": {
+      "items/materials/geodeblock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/geodeblock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Glimmering natural geode crystals.",
+      "Por": "Cristais brilhantes de geodo natural."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/geodeblock.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/geodeblock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some shiny lookin' rock crystals.",
+      "Por": "Algumas rochas de cristais brilhantes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/geodeblock.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/geodeblock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssshiny geode crysstalss.",
+      "Por": "Geodo de cristaiss brilhantess."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/geodeblock.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/geodeblock.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These natural crystals appear to have grown from geodes."
+    }
+  }
+]

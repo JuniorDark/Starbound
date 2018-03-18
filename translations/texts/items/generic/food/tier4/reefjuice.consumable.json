@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier4/reefjuice.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A pleasantly sweet and salty juice. Refreshing!",
+      "Por": "Um suco agradavelmente doce e salgado. Refrescante!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier4/reefjuice.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reef Juice",
+      "Por": "Reef Juice"
+    }
+  }
+]

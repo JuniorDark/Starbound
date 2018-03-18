@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/stats/stats.config": [
+        "/protection/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Armor",
+      "Por": "Armadura"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/stats/stats.config": [
+        "/energyRegen/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Energy Regeneration Rate",
+      "Por": "Taxa de Regeneração de Energia"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/stats/stats.config": [
+        "/healthRegen/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Health Regeneration Rate",
+      "Por": "Taxa de Regeneração de Vida"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/stats/stats.config": [
+        "/maxEnergy/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Maximum Energy",
+      "Por": "Energia Maxima"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/stats/stats.config": [
+        "/maxHealth/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Maximum Health",
+      "Por": "Vida Maxima"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/stats/stats.config": [
+        "/powerMultiplier/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Weapon Damage",
+      "Por": "Dano da Arma"
+    }
+  }
+]

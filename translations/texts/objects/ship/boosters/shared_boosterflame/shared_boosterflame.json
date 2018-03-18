@@ -1,0 +1,563 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Um impulsionador, as asas de uma nave.",
+      "Um propulsor, as asas de um nave."
+    ],
+    "Files": {
+      "objects/ship/boosters/bigboosterflame/bigboosterflame.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/boosters/bigboosterflame/bigboosterflameavian.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/boosters/bigboosterflame/bigboosterflameglitch.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/boosters/bigboosterflame/bigboosterflamehuman.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/boosters/bigboosterflame/encounterbigboosterflame.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflame.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflameapex.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflameapex2.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflameapex3.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflamehuman2.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflamehuman3.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflamenovakid.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/boosters/boosterflame/encounterboosterflame.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/boosters/boosterflamehuman/boosterflamehuman.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/boosters/boosterflamehuman/encounterboosterflamehuman.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/boosters/smallboosterflame/encountersmallboosterflame.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/boosters/smallboosterflame/encountersmallboosterflame2.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/boosters/smallboosterflame/smallboosterflame.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/boosters/smallboosterflame/smallboosterflameglitch.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/boosters/smallboosterflame/smallboosterflamehuman2.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A booster, the wings of a ship.",
+      "Por": "Um propulsor, as asas de uma nave."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Um impulsionador. Estes são conhecidos por mal funcionamento e explodir."
+    ],
+    "Files": {
+      "objects/ship/boosters/bigboosterflame/bigboosterflame.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/boosters/bigboosterflame/bigboosterflameavian.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/boosters/bigboosterflame/bigboosterflameglitch.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/boosters/bigboosterflame/bigboosterflamehuman.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/boosters/bigboosterflame/encounterbigboosterflame.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflame.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflameapex.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflameapex2.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflameapex3.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflamehuman2.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflamehuman3.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflamenovakid.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/boosters/boosterflame/encounterboosterflame.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/boosters/boosterflamehuman/boosterflamehuman.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/boosters/boosterflamehuman/encounterboosterflamehuman.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/boosters/smallboosterflame/encountersmallboosterflame.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/boosters/smallboosterflame/encountersmallboosterflame2.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/boosters/smallboosterflame/smallboosterflame.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/boosters/smallboosterflame/smallboosterflameglitch.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/boosters/smallboosterflame/smallboosterflamehuman2.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A booster. These have been known to malfunction and explode.",
+      "Por": "Um propulsor. Estes têm sido conhecido por funcionar mal e explodir."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/boosters/bigboosterflame/bigboosterflame.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/boosters/bigboosterflame/bigboosterflameavian.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/boosters/bigboosterflame/bigboosterflameglitch.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/boosters/bigboosterflame/bigboosterflamehuman.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflame.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflameapex.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflameapex2.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflameapex3.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflamehuman2.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflamehuman3.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflamenovakid.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/boosters/boosterflamehuman/boosterflamehuman.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/boosters/smallboosterflame/smallboosterflameglitch.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/boosters/smallboosterflame/smallboosterflamehuman2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Booster Flame",
+      "Por": "Booster Flame"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/boosters/bigboosterflame/encounterbigboosterflame.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/boosters/boosterflame/encounterboosterflame.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/boosters/boosterflamehuman/encounterboosterflamehuman.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Damaging Booster Flame"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Pergunto-me quão rapidamente que iria cozinhar um hambúrguer."
+    ],
+    "Files": {
+      "objects/ship/boosters/bigboosterflame/bigboosterflame.object": [
+        "/description"
+      ],
+      "objects/ship/boosters/bigboosterflame/bigboosterflameavian.object": [
+        "/description"
+      ],
+      "objects/ship/boosters/bigboosterflame/bigboosterflameglitch.object": [
+        "/description"
+      ],
+      "objects/ship/boosters/bigboosterflame/bigboosterflamehuman.object": [
+        "/description"
+      ],
+      "objects/ship/boosters/bigboosterflame/encounterbigboosterflame.object": [
+        "/description"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflame.object": [
+        "/description"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflameapex.object": [
+        "/description"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflameapex2.object": [
+        "/description"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflameapex3.object": [
+        "/description"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflamehuman2.object": [
+        "/description"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflamehuman3.object": [
+        "/description"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflamenovakid.object": [
+        "/description"
+      ],
+      "objects/ship/boosters/boosterflame/encounterboosterflame.object": [
+        "/description"
+      ],
+      "objects/ship/boosters/boosterflamehuman/boosterflamehuman.object": [
+        "/description"
+      ],
+      "objects/ship/boosters/boosterflamehuman/encounterboosterflamehuman.object": [
+        "/description"
+      ],
+      "objects/ship/boosters/smallboosterflame/encountersmallboosterflame.object": [
+        "/description"
+      ],
+      "objects/ship/boosters/smallboosterflame/encountersmallboosterflame2.object": [
+        "/description"
+      ],
+      "objects/ship/boosters/smallboosterflame/smallboosterflame.object": [
+        "/description"
+      ],
+      "objects/ship/boosters/smallboosterflame/smallboosterflameglitch.object": [
+        "/description"
+      ],
+      "objects/ship/boosters/smallboosterflame/smallboosterflamehuman2.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wonder how quickly that would cook a burger.",
+      "Por": "Me pergunto o quão rapidamente isso iria cozinhar um hambúrguer."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/boosters/bigboosterflame/bigboosterflame.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/boosters/bigboosterflame/bigboosterflameavian.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/boosters/bigboosterflame/bigboosterflameglitch.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/boosters/bigboosterflame/bigboosterflamehuman.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/boosters/bigboosterflame/encounterbigboosterflame.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflame.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflameapex.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflameapex2.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflameapex3.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflamehuman2.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflamehuman3.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflamenovakid.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/boosters/boosterflame/encounterboosterflame.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/boosters/boosterflamehuman/boosterflamehuman.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/boosters/boosterflamehuman/encounterboosterflamehuman.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/boosters/smallboosterflame/encountersmallboosterflame.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/boosters/smallboosterflame/encountersmallboosterflame2.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/boosters/smallboosterflame/smallboosterflame.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/boosters/smallboosterflame/smallboosterflameglitch.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/boosters/smallboosterflame/smallboosterflamehuman2.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Propulsion.",
+      "Por": "Propulsão."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Fogo assustador"
+    ],
+    "Files": {
+      "objects/ship/boosters/bigboosterflame/bigboosterflame.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/boosters/bigboosterflame/bigboosterflameavian.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/boosters/bigboosterflame/bigboosterflameglitch.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/boosters/bigboosterflame/bigboosterflamehuman.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/boosters/bigboosterflame/encounterbigboosterflame.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflame.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflameapex.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflameapex2.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflameapex3.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflamehuman2.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflamehuman3.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflamenovakid.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/boosters/boosterflame/encounterboosterflame.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/boosters/boosterflamehuman/boosterflamehuman.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/boosters/boosterflamehuman/encounterboosterflamehuman.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/boosters/smallboosterflame/encountersmallboosterflame.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/boosters/smallboosterflame/encountersmallboosterflame2.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/boosters/smallboosterflame/smallboosterflame.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/boosters/smallboosterflame/smallboosterflameglitch.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/boosters/smallboosterflame/smallboosterflamehuman2.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssscary fire.",
+      "Por": "Fogo assustador."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/boosters/bigboosterflame/bigboosterflame.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/boosters/bigboosterflame/bigboosterflameavian.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/boosters/bigboosterflame/bigboosterflameglitch.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/boosters/bigboosterflame/bigboosterflamehuman.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/boosters/bigboosterflame/encounterbigboosterflame.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflame.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflameapex.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflameapex2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflameapex3.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflamehuman2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflamehuman3.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflamenovakid.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/boosters/boosterflame/encounterboosterflame.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/boosters/boosterflamehuman/boosterflamehuman.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/boosters/boosterflamehuman/encounterboosterflamehuman.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/boosters/smallboosterflame/encountersmallboosterflame.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/boosters/smallboosterflame/encountersmallboosterflame2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/boosters/smallboosterflame/smallboosterflame.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/boosters/smallboosterflame/smallboosterflameglitch.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/boosters/smallboosterflame/smallboosterflamehuman2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Temperature too high to measure."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Esta coisa é alimenta por combustível."
+    ],
+    "Files": {
+      "objects/ship/boosters/bigboosterflame/bigboosterflame.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/boosters/bigboosterflame/bigboosterflameavian.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/boosters/bigboosterflame/bigboosterflameglitch.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/boosters/bigboosterflame/bigboosterflamehuman.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/boosters/bigboosterflame/encounterbigboosterflame.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflame.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflameapex.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflameapex2.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflameapex3.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflamehuman2.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflamehuman3.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflamenovakid.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/boosters/boosterflame/encounterboosterflame.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/boosters/boosterflamehuman/boosterflamehuman.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/boosters/boosterflamehuman/encounterboosterflamehuman.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/boosters/smallboosterflame/encountersmallboosterflame.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/boosters/smallboosterflame/encountersmallboosterflame2.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/boosters/smallboosterflame/smallboosterflame.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/boosters/smallboosterflame/smallboosterflameglitch.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/boosters/smallboosterflame/smallboosterflamehuman2.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This thing eats through fuel.",
+      "Por": "Esta coisa se alimenta de combustível"
+    }
+  }
+]

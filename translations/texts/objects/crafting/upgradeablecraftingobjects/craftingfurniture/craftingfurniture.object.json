@@ -1,0 +1,195 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/upgradeablecraftingobjects/craftingfurniture/craftingfurniture.object": [
+        "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": " Industrial Workbench",
+      "Por": "Bancada Industrial"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/upgradeablecraftingobjects/craftingfurniture/craftingfurniture.object": [
+        "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": " Wooden Workbench",
+      "Por": "Bancada de Madeira"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/upgradeablecraftingobjects/craftingfurniture/craftingfurniture.object": [
+        "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": " ^#b9b5b2;Furniture and blocks",
+      "Por": "^#b9b5b2;Móveis e blocos"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/upgradeablecraftingobjects/craftingfurniture/craftingfurniture.object": [
+        "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": " ^#b9b5b2;Objects and blocks",
+      "Por": "^#b9b5b2;Objetos e blocos"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/upgradeablecraftingobjects/craftingfurniture/craftingfurniture.object": [
+        "/avianDescription",
+        "/upgradeStages/0/itemSpawnParameters/avianDescription",
+        "/upgradeStages/1/itemSpawnParameters/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A chance to showcase one's carpentry abilities.",
+      "Por": "Uma chance de demostrar as habilidades de carpintaria."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/upgradeablecraftingobjects/craftingfurniture/craftingfurniture.object": [
+        "/apexDescription",
+        "/upgradeStages/0/itemSpawnParameters/apexDescription",
+        "/upgradeStages/1/itemSpawnParameters/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A table that's fit for basic carpentry.",
+      "Por": "Uma mesa que serve para carpintaria básica."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/upgradeablecraftingobjects/craftingfurniture/craftingfurniture.object": [
+        "/hylotlDescription",
+        "/upgradeStages/0/itemSpawnParameters/hylotlDescription",
+        "/upgradeStages/1/itemSpawnParameters/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "All you need to make a house into a home.",
+      "Por": "Tudo que você precisa para transformar uma casa em um lar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/upgradeablecraftingobjects/craftingfurniture/craftingfurniture.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can be used to produce materials and objects needed to build a settlement.",
+      "Por": "Pode ser usada para produzir materiais e objetos necessários para construir um assentamento."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/upgradeablecraftingobjects/craftingfurniture/craftingfurniture.object": [
+        "/floranDescription",
+        "/upgradeStages/0/itemSpawnParameters/floranDescription",
+        "/upgradeStages/1/itemSpawnParameters/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran ussse table to make nice housse.",
+      "Por": "Floran usssa mesa para fazer casa bonita."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/upgradeablecraftingobjects/craftingfurniture/craftingfurniture.object": [
+        "/humanDescription",
+        "/upgradeStages/0/itemSpawnParameters/humanDescription",
+        "/upgradeStages/1/itemSpawnParameters/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I could make a well furnished home with this.",
+      "Por": "Eu poderia fazer uma casa bem mobilhada com isso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/upgradeablecraftingobjects/craftingfurniture/craftingfurniture.object": [
+        "/novakidDescription",
+        "/upgradeStages/0/itemSpawnParameters/novakidDescription",
+        "/upgradeStages/1/itemSpawnParameters/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I could make some mighty fine furniture with this table.",
+      "Por": "Eu poderia fazer alguns móveis finos com essa mesa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/upgradeablecraftingobjects/craftingfurniture/craftingfurniture.object": [
+        "/upgradeStages/1/itemSpawnParameters/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The industrial workbench is used to produce materials and objects needed to build a settlement.",
+      "Por": "A bancada de trabalho industrial é usada para produzir materiais e objetos necessários para construir um assentamento."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/upgradeablecraftingobjects/craftingfurniture/craftingfurniture.object": [
+        "/upgradeStages/0/itemSpawnParameters/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The wooden workbench is used to produce materials and objects needed to build a settlement.",
+      "Por": "A bancada de trabalho de madeira é usada para produzir materiais e objetos necessários para construir um assentamento."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/upgradeablecraftingobjects/craftingfurniture/craftingfurniture.object": [
+        "/upgradeStages/1/itemSpawnParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Industrial Workbench^white;",
+      "Por": "^orange;Industrial Workbench^white;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/upgradeablecraftingobjects/craftingfurniture/craftingfurniture.object": [
+        "/shortdescription",
+        "/upgradeStages/0/itemSpawnParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Wooden Workbench^white;",
+      "Por": "^orange;Wooden Workbench^white;"
+    }
+  }
+]

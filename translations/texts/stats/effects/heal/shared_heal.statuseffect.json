@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/heal/bandageheal.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/heal/bottledwaterheal.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/heal/medkitheal.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/heal/nanowrapheal.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/heal/salveheal.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Healing",
+      "Por": "Curando"
+    }
+  }
+]

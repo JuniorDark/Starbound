@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/arena/hunterrifle/hunterrifle.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A powerful scope helps this gun pick off distant targets easily.",
+      "Por": "Uma mira poderosa ajuda essa arma abater alvos distantes com facilidade."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/arena/hunterrifle/hunterrifle.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vintage Scoped Rifle",
+      "Por": "Vintage Scoped Rifle"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/arena/hunterrifle/hunterrifle.activeitem": [
+        "/upgradeParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vintage Scoped Rifle ^yellow;^reset;",
+      "Por": "Vintage Scoped Rifle ^yellow;^reset;"
+    }
+  }
+]

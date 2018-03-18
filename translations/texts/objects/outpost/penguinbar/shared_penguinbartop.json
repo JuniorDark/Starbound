@@ -1,0 +1,121 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/penguinbar/penguinbartop.object": [
+        "/floranDescription"
+      ],
+      "objects/outpost/penguinbar/penguinbartop2.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bar doesn't sssell drinks to anyone!",
+      "Por": "Bar não vende bebidas a ninguém!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/penguinbar/penguinbartop.object": [
+        "/shortdescription"
+      ],
+      "objects/outpost/penguinbar/penguinbartop2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Penguin Bar Top",
+      "Por": "Penguin Bar Top"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/penguinbar/penguinbartop.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/outpost/penguinbar/penguinbartop2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The bartender may be holding a bottle but I don't see him selling anyone a drink..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/penguinbar/penguinbartop.object": [
+        "/humanDescription"
+      ],
+      "objects/outpost/penguinbar/penguinbartop2.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This bar is barely stocked. It's pretty obvious that they don't intend to sell any drinks here.",
+      "Por": "Este bar está mal abastecido. É óbvio que eles não pretendem vender bebidas aqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/penguinbar/penguinbartop.object": [
+        "/novakidDescription"
+      ],
+      "objects/outpost/penguinbar/penguinbartop2.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This dive bar isn't even pretendin' to sell drinks.",
+      "Por": "Este bar não está nem mesmo fingindo vender bebidas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/penguinbar/penguinbartop.object": [
+        "/apexDescription"
+      ],
+      "objects/outpost/penguinbar/penguinbartop2.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This penguin's bar is not well stocked. I am not convinced they even serve drinks here...",
+      "Por": "Este bar de pinguim não é bem abastecido. Não estou convencido de que eles ainda servem bebidas aqui..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/penguinbar/penguinbartop.object": [
+        "/hylotlDescription"
+      ],
+      "objects/outpost/penguinbar/penguinbartop2.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "What low quality stock. It's a relief the bartender doesn't appear to actually sell anything.",
+      "Por": "Que estoque de baixa qualidade. É um alívio que o barman parece não vende nada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/penguinbar/penguinbartop.object": [
+        "/avianDescription"
+      ],
+      "objects/outpost/penguinbar/penguinbartop2.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "You know, for a bar with many drinks, I don't see the bartender actually selling any...",
+      "Por": "Sabe, para um bar com muitas bebidas, não vejo o barman realmente vender alguma..."
+    }
+  }
+]

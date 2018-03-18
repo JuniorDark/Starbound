@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier1/fishdumplings.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fish Dumplings",
+      "Por": "Fish Dumplings"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier1/fishdumplings.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Simple fish dumplings, steamed and lightly seasoned.",
+      "Por": "Bolinhos de peixe simples, cozidos no vapor e levemente temperado."
+    }
+  }
+]

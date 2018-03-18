@@ -1,0 +1,100 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/antenna/antenna.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A device to pick up signals.",
+      "Por": "Um dispositivo para pegar sinais."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/antenna/antenna.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A signal-boosting antenna.",
+      "Por": "Uma antena de aumento de sinal."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Uma Antena"
+    ],
+    "Files": {
+      "objects/mission/antenna/antenna.object": [
+        "/apexDescription",
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An antenna.",
+      "Por": "Uma antena."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/antenna/antenna.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An antenna. These are typically used to boost communication signals.",
+      "Por": "Uma antena. Estes são normalmente utilizados para impulsionar os sinais de comunicação."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/antenna/antenna.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Antenna",
+      "Por": "Antenna"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/antenna/antenna.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran could use this to ssstab.",
+      "Por": "Floran poderia usar isso para esfaquear."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/antenna/antenna.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Is there anybody out there? Wait, I don't wanna know.",
+      "Por": "Tem alguém lá fora? Espere, eu não quero saber."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/antenna/antenna.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This antenna is playing havoc with my sensors."
+    }
+  }
+]

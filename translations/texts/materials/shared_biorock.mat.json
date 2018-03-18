@@ -1,0 +1,64 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/biorock.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/biorock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran likess yellow glowing rockss.",
+      "Por": "Floran gosta de pedrass amarelas brilhantess. "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/biorock.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/biorock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This rock is glowin' yellow but not givin' off any heat.",
+      "Por": "Esta rocha está brilhando amarelo, mas não esta emitindo qualquer calor."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Esta rocha está brilhando com bioluminescência."
+    ],
+    "Files": {
+      "items/materials/biorock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/biorock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This rock is glowing with bioluminescence.",
+      "Por": "Esta rocha esta brilhando com bioluminescência."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/biorock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/biorock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Yellow Glow Rock",
+      "Por": "Yellow Glow Rock"
+    }
+  }
+]

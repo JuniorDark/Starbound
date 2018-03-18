@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/pineapple.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A tropical treat!",
+      "Por": "Um prazer tropical!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/pineapple.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pineapple",
+      "Por": "Pineapple"
+    }
+  }
+]

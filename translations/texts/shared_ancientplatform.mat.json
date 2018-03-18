@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ancientplatform.matitem": [
+        "/description"
+      ],
+      "tiles/platforms/ancientplatform.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An ancient platform made up of some kind of technological rock.",
+      "Por": "Uma plataforma antiga feita de algum tipo de rocha tecnológica."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ancientplatform.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/ancientplatform.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ancient Platform",
+      "Por": "Ancient Platform"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ancientplatform.matitem": [
+        "/florandescription"
+      ],
+      "tiles/platforms/ancientplatform.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Platform made with sstrange technology.",
+      "Por": "Plataforma feita com tecnologia esstranha."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ancientplatform.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/platforms/ancientplatform.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some strange lookin' tech in this platform.",
+      "Por": "Há uma tecnologia de aspecto estranho nesta plataforma."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ancientplatform.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/platforms/ancientplatform.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "There is technology at work in this ancient platform I do not understand."
+    }
+  }
+]

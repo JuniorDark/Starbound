@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/boomerang/fireboomerang.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A blazing hot boomerang with a molten core.",
+      "Por": "Um bumerangue escaldante com um núcleo fundido."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/boomerang/fireboomerang.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Molten Boomerang",
+      "Por": "Molten Boomerang"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/boomerang/fireboomerang.activeitem": [
+        "/upgradeParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Molten Boomerang ^yellow;^reset;",
+      "Por": "Molten Boomerang ^yellow;^reset;"
+    }
+  }
+]

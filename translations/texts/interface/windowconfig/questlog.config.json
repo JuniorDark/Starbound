@@ -1,0 +1,122 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/questlog.config": [
+        "/paneLayout/btnAbandon/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Abandon",
+      "Por": "Abandonar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/questlog.config": [
+        "/paneLayout/filter/buttons/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Active",
+      "Por": "Ativa"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/questlog.config": [
+        "/paneLayout/filter/buttons/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Completed",
+      "Por": "Completada"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/questlog.config": [
+        "/paneLayout/scrollArea/children/verticalLayout/children/mainQuestHeader/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "MAIN QUESTS",
+      "Por": "MISSÕES PRINCIPAIS"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/questlog.config": [
+        "/paneLayout/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Quest Journal",
+      "Por": "Diário de Missões"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/questlog.config": [
+        "/paneLayout/scrollArea/children/verticalLayout/children/sideQuestHeader/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "SIDE QUESTS",
+      "Por": "MISSÕES SECUNDARIAS"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/questlog.config": [
+        "/untrackLabel"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stop Tracking",
+      "Por": "Parar de Rastrear"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/questlog.config": [
+        "/paneLayout/btnToggleTracking/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Toggle Tracking",
+      "Por": "Alternar Rastreamento"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/questlog.config": [
+        "/trackLabel"
+      ]
+    },
+    "Texts": {
+      "Eng": "Track Quest",
+      "Por": "Rastrear Missão "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/questlog.config": [
+        "/paneLayout/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#b9b5b2;Keep track of your quests ^green;[J]",
+      "Por": "^#b9b5b2;Mantenha o controle de suas missões ^green;[J]"
+    }
+  }
+]

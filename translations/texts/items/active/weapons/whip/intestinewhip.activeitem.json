@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/whip/intestinewhip.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large intestine, it can stretch surprisingly far.",
+      "Por": "Um intestino grosso, isso pode esticar surpreendentemente longe."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/whip/intestinewhip.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intestine Whip",
+      "Por": "Intestine Whip"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/whip/intestinewhip.activeitem": [
+        "/upgradeParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intestine Whip ^yellow;^reset;",
+      "Por": "Intestine Whip ^yellow;^reset;"
+    }
+  }
+]

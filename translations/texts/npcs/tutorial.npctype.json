@@ -1,0 +1,338 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tutorial.npctype": [
+        "/scriptConfig/dialog/converse/human/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Be careful about falling! It can be safer to build paths down mountains if you need to.",
+      "Por": "Tenha cuidado com a queda! Pode ser mais seguro construir caminhos debaixo de montanhas se você precisar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tutorial.npctype": [
+        "/scriptConfig/dialog/converse/human/default/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Be careful with wildlife - Even peaceful creatures will attack you if you start a fight...",
+      "Por": "Tenha cuidado com a vida selvagem - Mesmo as criaturas pacíficas irão atacá-lo se você começar um combate..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tutorial.npctype": [
+        "/scriptConfig/dialog/converse/human/default/16"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can you imagine what it must have been like to only be able to live on one planet?",
+      "Por": "Você pode imaginar como foi ter sido como a única capaz de viver em um planeta?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tutorial.npctype": [
+        "/scriptConfig/dialog/converse/human/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Core fragments are good for chemical reactions, so miners back in the day would use them to make bombs.",
+      "Por": "Core fragments são bons para reações químicas, por isso os mineiros voltaram no dia que souberam que poderiam usá-los para fazer bombas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tutorial.npctype": [
+        "/scriptConfig/dialog/flee/helpme/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't kill me! I'm more useful alive!",
+      "Por": "Não me mate! Eu sou mais útil vivo!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tutorial.npctype": [
+        "/scriptConfig/dialog/converse/human/default/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "Extreme weather affects how you can move around. Always keep that in mind!",
+      "Por": "Clima extremo afeta o modo como você pode se mover. Sempre mantenha isso em mente!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tutorial.npctype": [
+        "/scriptConfig/dialog/tenant/arrivedHome/rent/human/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Here's a gift, for all your help!",
+      "Por": "Tome um presente pela sua ajuda!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tutorial.npctype": [
+        "/scriptConfig/dialog/tenant/arrivedHome/rent/human/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Here's something I came across whilst on a walk!",
+      "Por": "Aqui tem uma coisa que achei numa caminhada!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tutorial.npctype": [
+        "/scriptConfig/dialog/converse/human/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hey, stranger! If you're looking for core fragments you might find a bunch down in this old mine - you should check it out!",
+      "Por": "Ei estranho! Se você está à procura de core fragments você pode encontrar um monte abaixo desta antiga mina - Você deveria dar uma olhada!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tutorial.npctype": [
+        "/scriptConfig/dialog/flee/helpme/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I don't deserve to meet my end here!",
+      "Por": "Eu não mereço acabar aqui!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tutorial.npctype": [
+        "/scriptConfig/dialog/tenant/arrivedHome/rent/human/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I found this in my travels, take it!",
+      "Por": "Achei isso nas minhas viagens, pegue!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tutorial.npctype": [
+        "/scriptConfig/dialog/converse/human/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I guess the miners left long ago though, because the mine is now overrun with creatures.",
+      "Por": "Eu acho que os mineiros saíram há muito tempo, porém, porque a mina agora é invadida por criaturas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tutorial.npctype": [
+        "/scriptConfig/dialog/converse/human/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I haven't seen a new face in some time! Do you want tips on surviving? Because I have plenty!",
+      "Por": "Eu não vejo um rosto novo a algum tempo! Você quer dicas sobre como sobreviver? Porque eu tenho em abundância!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tutorial.npctype": [
+        "/scriptConfig/dialog/flee/safe/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I need a break!",
+      "Por": "Preciso de uma pausa!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tutorial.npctype": [
+        "/scriptConfig/dialog/flee/safe/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I should probably be more careful in future. That was close.",
+      "Por": "Eu devia ser mais cuidadoso no futuro, essa foi por pouco!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tutorial.npctype": [
+        "/scriptConfig/dialog/flee/safe/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I survived another close shave!",
+      "Por": "Eu sobrevivi por pouco novamente!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tutorial.npctype": [
+        "/scriptConfig/dialog/converse/human/default/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'd take the great outdoors over living in a city any day!",
+      "Por": "Eu vou pegar os outdoors que restam na cidade algum dia."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tutorial.npctype": [
+        "/scriptConfig/dialog/converse/human/default/15"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've heard rumours of weird ruins found underground in many planets. I wonder if it's true?",
+      "Por": "Ouvi rumores de ruínas estranhas encontradas no subsolo em muitos planetas. Eu me pergunto se é verdade?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tutorial.npctype": [
+        "/scriptConfig/dialog/converse/human/default/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you smash those white supply capsules you can find everywhere, you'll probably get some neat stuff.",
+      "Por": "Se você esmagar aquelas cápsulas de suplementos brancas que você pode encontrar em todos os lugares, você provavelmente vai pegar algumas coisas bacanas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tutorial.npctype": [
+        "/scriptConfig/dialog/converse/human/default/13"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you stumble across some villages out there, make sure not to anger any guards. Just saying...",
+      "Por": "Se você tropeçar em algumas vilas por ai, certifique-se de não irritar os guardas. Apenas dizendo..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tutorial.npctype": [
+        "/scriptConfig/dialog/converse/human/default/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you're going spelunking underground, bring some wood for torches!",
+      "Por": "Se você estiver indo minerar no subsolo, leve um pouco de madeira para fazer tochas!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tutorial.npctype": [
+        "/scriptConfig/dialog/tenant/arrivedHome/beacon/human/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Is there something you'd like to know?",
+      "Por": "Tem algo que queira saber?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tutorial.npctype": [
+        "/scriptConfig/dialog/converse/human/default/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "The climate here is nicer than most planets. Other planets aren't so pleasant...",
+      "Por": "O clima aqui é mais agradável do que a maioria dos planetas. Outros planetas não são tão agradáveis..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tutorial.npctype": [
+        "/scriptConfig/dialog/converse/human/default/14"
+      ]
+    },
+    "Texts": {
+      "Eng": "The length of a day changes depending on the planet. Pretty cool, huh?",
+      "Por": "A duração de um dia muda dependendo do planeta. Muito legal, né?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tutorial.npctype": [
+        "/scriptConfig/dialog/flee/helpme/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Time to scram!",
+      "Por": "Hora de sumir!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tutorial.npctype": [
+        "/scriptConfig/dialog/tenant/arrivedHome/beacon/human/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "You have need of me? Perhaps you need some advice?",
+      "Por": "Você precisa de mim? Talvez precise de algum conselho?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tutorial.npctype": [
+        "/scriptConfig/dialog/converse/human/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "You should cut down vines when you see them! They're used for bandages and climbing rope - Both useful.",
+      "Por": "Você deve cortar vinhas quando você vê-las! Eles são usadas para bandagens e cordas de escalada - Ambos útil."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tutorial.npctype": [
+        "/scriptConfig/dialog/converse/human/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "You should have a flashlight on you for when it gets dark. Hungry beasts come out to hunt!",
+      "Por": "Você deve ter uma lanterna com você para quando ficar escuro. Feras famintas saem para caçar!"
+    }
+  }
+]

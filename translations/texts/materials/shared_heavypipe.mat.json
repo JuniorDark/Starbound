@@ -1,0 +1,78 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Um tubo pesado, comumente usado em sistemas de resíduos"
+    ],
+    "Files": {
+      "items/materials/heavypipe.matitem": [
+        "/description"
+      ],
+      "tiles/materials/heavypipe.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A heavy pipe, commonly used in waste systems.",
+      "Por": "Um cano pesado, comumente usado em sistemas de resíduos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/heavypipe.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/heavypipe.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Heavy Pipe",
+      "Por": "Heavy Pipe"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/heavypipe.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/heavypipe.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I would hate to see the waste that has been passed through this pipe."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/heavypipe.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/heavypipe.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some dirty ol' pipes.",
+      "Por": "Alguns tubos antigos sujos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/heavypipe.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/heavypipe.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sssmelly ssewer pipe.",
+      "Por": "Tubulação de esgoto malcheirosa."
+    }
+  }
+]

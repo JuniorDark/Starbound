@@ -1,0 +1,66 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/number9/number9.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A nine.",
+      "Por": "Um nove."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/number9/number9.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nine",
+      "Por": "Nine"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/number9/number9.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nine marker.",
+      "Por": "Numero nove."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/number9/number9.object": [
+        "/apexDescription",
+        "/avianDescription",
+        "/glitchDescription/glitchEmotedText",
+        "/humanDescription",
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nine.",
+      "Por": "Nove."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/number9/number9.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Number nine.",
+      "Por": "Numero nove."
+    }
+  }
+]

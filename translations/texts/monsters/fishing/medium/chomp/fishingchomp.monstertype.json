@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/fishing/medium/chomp/fishingchomp.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "It camouflages well in the muddy seabeds where it feeds.",
+      "Por": "Ela se camufla bem nos leitos marinhos lamacentos onde se alimenta."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/fishing/medium/chomp/fishingchomp.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Toothy Mudchomp",
+      "Por": "Toothy Mudchomp"
+    }
+  }
+]

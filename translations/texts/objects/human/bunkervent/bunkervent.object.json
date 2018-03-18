@@ -1,0 +1,97 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkervent/bunkervent.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A vent to recycle air.",
+      "Por": "Um respiradouro para reciclar o ar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkervent/bunkervent.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A vent with a fan.",
+      "Por": "Um respiradouro com um ventilador."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkervent/bunkervent.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An uninspiring vent.",
+      "Por": "Um respiradouro sem inspiração."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkervent/bunkervent.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bunker Vent",
+      "Por": "Bunker Vent"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkervent/bunkervent.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran can feel a ssslight breeze coming through here.",
+      "Por": "Floran pode sentir uma ligeira brisa vindo por aqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkervent/bunkervent.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a vent. Still, the air feels stuffy in here.",
+      "Por": "É um respiradouro. Ainda assim, o ar está abafado aqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkervent/bunkervent.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sterile, recycled air whirs through the fanblades at a steady pace.",
+      "Por": "Ar reciclado zumbi através das lâminas do ventilador em um ritmo constante."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkervent/bunkervent.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The air recycling process isn't fully functional."
+    }
+  }
+]

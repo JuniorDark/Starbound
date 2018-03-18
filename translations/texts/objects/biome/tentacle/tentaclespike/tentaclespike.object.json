@@ -1,0 +1,49 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/tentacle/tentaclespike/tentaclespike.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A dangerous looking spike...",
+      "Por": "Um espinho de aparência perigosa..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/tentacle/tentaclespike/tentaclespike.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sharp spikes like these could penetrate a Glitch's shell."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/tentacle/tentaclespike/tentaclespike.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tentacle Spike",
+      "Por": "Tentacle Spike"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/tentacle/tentaclespike/tentaclespike.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The spike looks razor sharp.",
+      "Por": "O espinho parece afiado."
+    }
+  }
+]

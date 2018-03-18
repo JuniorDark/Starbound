@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "player.config": [
+        "/blueprintAlreadyKnown"
+      ]
+    },
+    "Texts": {
+      "Eng": "I already know how to craft <ItemName>.",
+      "Por": "Já sei como criar <ItemName>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "player.config": [
+        "/companionsConfig/recruitDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;> Name: ^white;<name>\n^cyan;> Job:^white; <role>\n^cyan;> Rank:^white; <rank>\n^cyan;> Status:^white; <status>",
+      "Por": "^cyan;> Nome: ^white;<name>\n^cyan;> Trabalho:^white; <role>\n^cyan;> Rank:^white; <rank>\n^cyan;> Status:^white; <status>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "player.config": [
+        "/blueprintUnlock"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Learned to craft: <ItemName>.",
+      "Por": "^green;Aprendeu a criar: <ItemName>."
+    }
+  }
+]

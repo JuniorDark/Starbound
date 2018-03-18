@@ -1,0 +1,249 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/apex_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/3/text"
+      ],
+      "quests/story/avian_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/3/text"
+      ],
+      "quests/story/floran_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/3/text"
+      ],
+      "quests/story/glitch_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/3/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "A clue of small implication, but relevant nonetheless!",
+      "Por": "Uma pista de pequena implicação, mas relevante no entanto!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/apex_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/8/text"
+      ],
+      "quests/story/avian_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/8/text"
+      ],
+      "quests/story/glitch_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/8/text"
+      ],
+      "quests/story/hylotl_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/8/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Even the smallest piece of evidence can help to uncover the grandest secrets of the universe.",
+      "Por": "Até mesmo o menor pedaço de evidência pode ajudar a descobrir os segredos mais grandiosos do universo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/apex_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/5/text"
+      ],
+      "quests/story/floran_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/1/text"
+      ],
+      "quests/story/glitch_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/5/text"
+      ],
+      "quests/story/hylotl_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/3/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hm, I wonder...",
+      "Por": "Hm, Eu me pergunto..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/apex_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/0/text"
+      ],
+      "quests/story/avian_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/0/text"
+      ],
+      "quests/story/floran_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/0/text"
+      ],
+      "quests/story/glitch_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/0/text"
+      ],
+      "quests/story/hylotl_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hmmm, how curious... I need to cross-reference this.",
+      "Por": "Hmmm, que curioso... Eu preciso cruzar as referências disso."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Que peculiar! Informação inesperada pode ser mais valiosa do que a informação esperada..."
+    ],
+    "Files": {
+      "quests/story/apex_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/7/text"
+      ],
+      "quests/story/floran_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/8/text"
+      ],
+      "quests/story/glitch_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/7/text"
+      ],
+      "quests/story/hylotl_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/7/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "How peculiar! But surprising information can be even more valuable than expected information...",
+      "Por": "Que peculiar! Mas informações surpresa podem ser mais valiosa do que a informação esperada..."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Interessante. Isso certamente terá uma influência na minha pesquisa."
+    ],
+    "Files": {
+      "quests/story/apex_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/1/text"
+      ],
+      "quests/story/avian_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/1/text"
+      ],
+      "quests/story/glitch_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/1/text"
+      ],
+      "quests/story/hylotl_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Interesting. This will certainly have a bearing on my research.",
+      "Por": "Interessante. Isso certamente terá influência na minha pesquisa."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Parece que você já encontrou alguns itens que fornecem pistas para o paradeiro do artefato. Vou começar a minha análise nestes enquanto você procurar mais!"
+    ],
+    "Files": {
+      "quests/story/apex_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/startWithProgress/text"
+      ],
+      "quests/story/avian_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/startWithProgress/text"
+      ],
+      "quests/story/floran_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/startWithProgress/text"
+      ],
+      "quests/story/glitch_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/startWithProgress/text"
+      ],
+      "quests/story/hylotl_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/startWithProgress/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "It appears you've already found some items that provide clues towards the artifact's whereabouts. I'll begin my analysis on these while you search for more!",
+      "Por": "Parece que você já encontrou alguns itens que fornecem pistas para o paradeiro do artefato. Vou começar a minha análise nestes enquanto você procura mais!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Continue assim querido(a), tudo Isso é muito útil! "
+    ],
+    "Files": {
+      "quests/story/apex_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/2/text"
+      ],
+      "quests/story/glitch_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Keep it up dear, this is all very helpful!",
+      "Por": "Continue assim querido(a), tudo Isso é muito útil!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Esta pista aponta para informações ocultas."
+    ],
+    "Files": {
+      "quests/story/apex_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/9/text"
+      ],
+      "quests/story/avian_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/9/text"
+      ],
+      "quests/story/glitch_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/9/text"
+      ],
+      "quests/story/hylotl_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/5/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "This clue hints at hidden information.",
+      "Por": "Esta pista sugere informações ocultas."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Isto confirma algo que eu tinha especulado antes!",
+      "Isto confirma algo que eu tinha especulado!"
+    ],
+    "Files": {
+      "quests/story/apex_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/6/text"
+      ],
+      "quests/story/floran_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/5/text"
+      ],
+      "quests/story/glitch_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/6/text"
+      ],
+      "quests/story/hylotl_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/6/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "This confirms something that I had speculated upon!",
+      "Por": "Isto confirma algo que eu tinha especulado sobre!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Isto é excelente, tudo o que você encontrar contribui para a formação de uma teoria.",
+      "Isto é excelente, tudo o que você encontrar contribuirá para a formação de uma teoria."
+    ],
+    "Files": {
+      "quests/story/apex_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/4/text"
+      ],
+      "quests/story/avian_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/4/text"
+      ],
+      "quests/story/glitch_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/4/text"
+      ],
+      "quests/story/hylotl_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/4/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is excellent, everything you find contributes to the formation of a theory.",
+      "Por": "Isto é excelente, tudo o que encontrar contribuirá para a formação de uma teoria."
+    }
+  }
+]

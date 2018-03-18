@@ -1,0 +1,133 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/inspectiontool/inspectionmode.inspectiontool": [
+        "/nothingThereText/default/3"
+      ],
+      "items/tools/inspectiontool/scanmode.inspectiontool": [
+        "/nothingThereText/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nothing much to speak of.",
+      "Por": "Nada a falar disso."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Nada aqui que vale a pena comentar."
+    ],
+    "Files": {
+      "items/tools/inspectiontool/inspectionmode.inspectiontool": [
+        "/nothingThereText/floran/3"
+      ],
+      "items/tools/inspectiontool/scanmode.inspectiontool": [
+        "/nothingThereText/floran/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nothing much to sspeak of.",
+      "Por": "Nada a falar disso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/inspectiontool/inspectionmode.inspectiontool": [
+        "/nothingThereText/floran/0"
+      ],
+      "items/tools/inspectiontool/scanmode.inspectiontool": [
+        "/nothingThereText/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nothing of interessst.",
+      "Por": "Nada de interesse."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Nada de interesse aqui."
+    ],
+    "Files": {
+      "items/tools/inspectiontool/inspectionmode.inspectiontool": [
+        "/nothingThereText/default/0",
+        "/nothingThereText/glitch/0/glitchEmotedText"
+      ],
+      "items/tools/inspectiontool/scanmode.inspectiontool": [
+        "/nothingThereText/default/0",
+        "/nothingThereText/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nothing of interest here.",
+      "Por": "Nada de interessante aqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Isso é apenas uma grande nada."
+    ],
+    "Files": {
+      "items/tools/inspectiontool/inspectionmode.inspectiontool": [
+        "/nothingThereText/novakid/3"
+      ],
+      "items/tools/inspectiontool/scanmode.inspectiontool": [
+        "/nothingThereText/novakid/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "That's just a whole lotta nothin'.",
+      "Por": "Isso é apenas um monte de nada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/inspectiontool/inspectionmode.inspectiontool": [
+        "/nothingThereText/glitch/1/glitchEmotedText"
+      ],
+      "items/tools/inspectiontool/scanmode.inspectiontool": [
+        "/nothingThereText/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "There is nothing there."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Não é nada."
+    ],
+    "Files": {
+      "items/tools/inspectiontool/inspectionmode.inspectiontool": [
+        "/nothingThereText/default/2",
+        "/nothingThereText/glitch/3/glitchEmotedText"
+      ],
+      "items/tools/inspectiontool/scanmode.inspectiontool": [
+        "/nothingThereText/default/2",
+        "/nothingThereText/glitch/3/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This isn't really anything.",
+      "Por": "Isso não é nada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/inspectiontool/inspectionmode.inspectiontool": [
+        "/nothingThereText/floran/2"
+      ],
+      "items/tools/inspectiontool/scanmode.inspectiontool": [
+        "/nothingThereText/floran/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "This isssn't anything.",
+      "Por": "Isso não é nada."
+    }
+  }
+]

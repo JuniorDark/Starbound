@@ -1,0 +1,89 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/humanprison.npctype": [
+        "/scriptConfig/dialog/converse/human/default/2",
+        "/scriptConfig/dialog/converse/human/human/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Do I look like a bit of a misfit in this jumpsuit?",
+      "Por": "Eu pareço um pouco com um desajustado neste macacão?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/humanprison.npctype": [
+        "/scriptConfig/dialog/converse/human/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't think I'm a menace because of this jumpsuit! I'm wearing it because it's comfy.",
+      "Por": "Não pense que eu sou uma ameaça por causa deste macacão! Eu estou usando isso porque é confortável."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/humanprison.npctype": [
+        "/scriptConfig/dialog/converse/human/default/1",
+        "/scriptConfig/dialog/converse/human/human/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't worry, I'm not dangerous! I was in prison for financial skulduggery...",
+      "Por": "Não se preocupe, eu não sou perigoso! Eu estava na prisão por fraude financeira..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/humanprison.npctype": [
+        "/scriptConfig/dialog/converse/human/default/4",
+        "/scriptConfig/dialog/converse/human/human/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "I didn't go to prison, this jumpsuit is just for comfort... Honest.",
+      "Por": "Eu não fui para a prisão, este macacão é apenas confortável... Honesto."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/humanprison.npctype": [
+        "/scriptConfig/dialog/converse/human/human/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I heard about what happened to Earth. I'm glad I was in prison elsewhere at the time.",
+      "Por": "Eu ouvi sobre o que aconteceu com a Terra. Estou feliz que eu estava na prisão em outro lugar no momento."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/humanprison.npctype": [
+        "/scriptConfig/dialog/converse/human/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I just got out of prison! I was quite fond of it, though.",
+      "Por": "Acabei de sair da prisão! Eu estava completamente apaixonado por ela, embora."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/humanprison.npctype": [
+        "/scriptConfig/dialog/converse/human/human/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "If I had joined the Protectorate, maybe I wouldn't have ended up in prison.",
+      "Por": "Se eu tivesse se juntado ao Protetorado, talvez eu não teria acabado na prisão."
+    }
+  }
+]

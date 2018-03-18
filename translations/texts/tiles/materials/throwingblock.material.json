@@ -1,0 +1,49 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/throwingblock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small throwing block that sticks to surfaces.",
+      "Por": "Um bloco de arremesso pequeno que adere à superfícies."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/throwingblock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran likess to throw blocks!",
+      "Por": "Floran gosta de jogar blocos!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/throwingblock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some blocks were just meant for tossin'",
+      "Por": "Alguns blocos que só foram feitos para jogar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/throwingblock.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "What force holds this block in place?"
+    }
+  }
+]

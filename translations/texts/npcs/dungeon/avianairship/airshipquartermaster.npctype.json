@@ -1,0 +1,211 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/avianairship/airshipquartermaster.npctype": [
+        "/scriptConfig/dialog/merchant/follow/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "After some supplies? I can help with that! Come with me.",
+      "Por": "Á procura de mercadorias? Eu posso te ajudar com isso! Me siga."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/avianairship/airshipquartermaster.npctype": [
+        "/scriptConfig/dialog/merchant/follow/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ah, so ya need some supplies, eh? Right this way!",
+      "Por": "Ah, precisa de mercadorias? Por aqui!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/avianairship/airshipquartermaster.npctype": [
+        "/scriptConfig/dialog/merchant/start/avian/default/1",
+        "/scriptConfig/dialog/merchant/start/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Anythin' catch yer eye?",
+      "Por": "Algo lhe chamando atenção?"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Se precisar de mais alguma coisa, venha me ver!"
+    ],
+    "Files": {
+      "npcs/dungeon/avianairship/airshipquartermaster.npctype": [
+        "/scriptConfig/dialog/merchant/end/avian/default/1",
+        "/scriptConfig/dialog/merchant/end/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Anythin' else ya need, come see me!",
+      "Por": "Se precisar de algo mais, venha me ver!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Venha até nós se precisar de mais coisas!"
+    ],
+    "Files": {
+      "npcs/dungeon/avianairship/airshipquartermaster.npctype": [
+        "/scriptConfig/dialog/merchant/end/avian/default/0",
+        "/scriptConfig/dialog/merchant/end/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Come to us whene'er ya need more supplies!",
+      "Por": "Venha até nós se precisar de mais mercadorias!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/avianairship/airshipquartermaster.npctype": [
+        "/scriptConfig/dialog/merchant/welcome/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Here we are then!",
+      "Por": "Aqui estamos!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/avianairship/airshipquartermaster.npctype": [
+        "/scriptConfig/dialog/merchant/start/avian/default/5",
+        "/scriptConfig/dialog/merchant/start/default/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "I jus' know we have somethin' useful fer ya.",
+      "Por": "Acho que tenho algo de útil para você."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/avianairship/airshipquartermaster.npctype": [
+        "/scriptConfig/dialog/merchant/tout/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "If it's supplies yer lookin' for, I handle the trades around here!",
+      "Por": "Se estiver procurando por mercadorias, eu cuido das negociações por aqui!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Se você tiver pixels, nós temos as mercadorias."
+    ],
+    "Files": {
+      "npcs/dungeon/avianairship/airshipquartermaster.npctype": [
+        "/scriptConfig/dialog/merchant/end/avian/default/2",
+        "/scriptConfig/dialog/merchant/end/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "If ya got the pixels, we got the goods.",
+      "Por": "Se você tiver pixels, nós temos mercadorias."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/avianairship/airshipquartermaster.npctype": [
+        "/scriptConfig/dialog/merchant/start/avian/default/2",
+        "/scriptConfig/dialog/merchant/start/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Let's trade!",
+      "Por": "Vamos negociar!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/avianairship/airshipquartermaster.npctype": [
+        "/scriptConfig/dialog/merchant/follow/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lookin' to trade? Follow me.",
+      "Por": "Querendo negociar? Siga-me."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/avianairship/airshipquartermaster.npctype": [
+        "/scriptConfig/dialog/merchant/tout/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Need some supplies? I can 'elp with that!",
+      "Por": "Precisa de umas mercadorias? Eu posso te ajudar com isso!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/avianairship/airshipquartermaster.npctype": [
+        "/scriptConfig/dialog/merchant/start/avian/default/4",
+        "/scriptConfig/dialog/merchant/start/default/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nothin' but the finest.",
+      "Por": "Nada além do melhor."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/avianairship/airshipquartermaster.npctype": [
+        "/scriptConfig/dialog/merchant/start/avian/default/0",
+        "/scriptConfig/dialog/merchant/start/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "So, what do ya need?",
+      "Por": "Então, do que você precisa?"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Dê uma olhada."
+    ],
+    "Files": {
+      "npcs/dungeon/avianairship/airshipquartermaster.npctype": [
+        "/scriptConfig/dialog/merchant/start/avian/default/3",
+        "/scriptConfig/dialog/merchant/start/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Take a look!",
+      "Por": "Dê uma olhada!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/avianairship/airshipquartermaster.npctype": [
+        "/scriptConfig/dialog/merchant/welcome/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is it!",
+      "Por": "Isso mesmo!"
+    }
+  }
+]

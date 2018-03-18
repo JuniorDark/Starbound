@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/currentcorn.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Currentcorn",
+      "Por": "Currentcorn"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/currentcorn.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Grows currentcorn, full of acid. Not good for fleshy creatures.",
+      "Por": "Cresce currentcorn, cheio do ácido. Não é bom para criaturas de carne."
+    }
+  }
+]

@@ -1,0 +1,109 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/datastation/datastation.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Data Station",
+      "Por": "Data Station"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/datastation/datastation.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flashy machine makes bussy noisess.",
+      "Por": "Máquina chamativa faz barulhoss de ocupada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/datastation/datastation.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It appears to be processing a lot of data.",
+      "Por": "Isso parece estar processamento uma grande quantidade de dados."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/datastation/datastation.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's some sort of computer station. It looks important, so I probably shouldn't touch it.",
+      "Por": "É algum tipo de estação de computador. Parece importante, então eu provavelmente não deveria tocá-lo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/datastation/datastation.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some fancy computer with all kinds of flashy panels.",
+      "Por": "Algum computador extravagante com todos os tipos de painéis chamativos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/datastation/datastation.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This machine looks like it's working hard.",
+      "Por": "Esta máquina parece estar trabalhando arduamente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/datastation/datastation.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This station appears to be processing a large amount of information.",
+      "Por": "Esta estação parece estar processando uma grande quantidade de informação."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/datastation/datastation.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This station seems to be transmitting a lot of data.",
+      "Por": "Esta estação parece estar transmitindo uma grande quantidade de dados."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/datastation/datastation.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This terminal appears to be processing topographical data about the planet."
+    }
+  }
+]

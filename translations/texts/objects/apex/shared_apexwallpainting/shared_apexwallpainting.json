@@ -1,0 +1,127 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/apexwallpainting1/apexwallpainting1.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/apex/apexwallpainting2/apexwallpainting2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Accurate geometric art."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/apexwallpainting1/apexwallpainting1.object": [
+        "/humanDescription"
+      ],
+      "objects/apex/apexwallpainting2/apexwallpainting2.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "My god, this art is old fashioned.",
+      "Por": "Meu deus, esta arte é antiquada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/apexwallpainting1/apexwallpainting1.object": [
+        "/floranDescription"
+      ],
+      "objects/apex/apexwallpainting2/apexwallpainting2.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sssuch shhapes confuse Floran.",
+      "Por": "Essas formas confundem Floran."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Dizem que a arte alimenta a alma, mas alguns alimentos são melhores do que outros."
+    ],
+    "Files": {
+      "objects/apex/apexwallpainting1/apexwallpainting1.object": [
+        "/avianDescription"
+      ],
+      "objects/apex/apexwallpainting2/apexwallpainting2.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Such interesting decoration.",
+      "Por": "Que decoração interessante."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Que decoração interessante."
+    ],
+    "Files": {
+      "objects/apex/apexwallpainting1/apexwallpainting1.object": [
+        "/novakidDescription"
+      ],
+      "objects/apex/apexwallpainting2/apexwallpainting2.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sunset coloured shapes on a canvas.",
+      "Por": "Por do sol colorido em forma de um quadro."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Por do sol colorido em forma de um quadro."
+    ],
+    "Files": {
+      "objects/apex/apexwallpainting1/apexwallpainting1.object": [
+        "/hylotlDescription"
+      ],
+      "objects/apex/apexwallpainting2/apexwallpainting2.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "They say art feeds the soul, but some foods are better than others.",
+      "Por": "Dizem que a arte alimenta a alma, mas alguns alimentos são melhores do que outros."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/apexwallpainting1/apexwallpainting1.object": [
+        "/apexDescription"
+      ],
+      "objects/apex/apexwallpainting2/apexwallpainting2.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This went out of style many years ago.",
+      "Por": "Isso saiu de moda há muitos anos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/apexwallpainting1/apexwallpainting1.object": [
+        "/description"
+      ],
+      "objects/apex/apexwallpainting2/apexwallpainting2.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "What does it MEAN?",
+      "Por": "O que isso QUER DIZER?"
+    }
+  }
+]

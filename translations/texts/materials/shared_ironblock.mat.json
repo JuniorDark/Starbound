@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ironblock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/ironblock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A solid iron block.",
+      "Por": "Um bloco sólido de ferro."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ironblock.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/ironblock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cold iron metal blockss.",
+      "Por": "Blocoss de ferro frio."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ironblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/ironblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Iron Block",
+      "Por": "Iron Block"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ironblock.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/ironblock.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's nice to see iron used in construction."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ironblock.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/ironblock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These blocks are crafted outta iron.",
+      "Por": "Esses blocos são feitos de ferro."
+    }
+  }
+]

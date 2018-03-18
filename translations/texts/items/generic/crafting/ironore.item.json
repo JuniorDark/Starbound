@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/ironore.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Iron Ore",
+      "Por": "Iron Ore"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/ironore.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Iron ore. Can be used for smelting.",
+      "Por": "Minério de ferro. Pode ser derretido e transformado em barras."
+    }
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/spring/petalfountain/petalfountain.object": [
+        "/apexDescription"
+      ],
+      "objects/themed/outdoor/outdoorfountain/outdoorfountain.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A pretty fountain. The sound is soothing.",
+      "Por": "Uma fonte bonita. O som é calmante."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/spring/petalfountain/petalfountain.object": [
+        "/hylotlDescription"
+      ],
+      "objects/themed/outdoor/outdoorfountain/outdoorfountain.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sometimes I miss the ocean.",
+      "Por": "Às vezes sinto falta do oceano."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/spring/petalfountain/petalfountain.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/themed/outdoor/outdoorfountain/outdoorfountain.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The water calms me."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "A água traz vida à Floran."
+    ],
+    "Files": {
+      "objects/biome/spring/petalfountain/petalfountain.object": [
+        "/floranDescription"
+      ],
+      "objects/themed/outdoor/outdoorfountain/outdoorfountain.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Water bring life to Floran.",
+      "Por": "Água traz vida à Floran."
+    }
+  }
+]

@@ -1,0 +1,121 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/spawner/spawnerstation/spawnerstation.object": [
+        "/interactData/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": " Employer's Station",
+      "Por": "Estação do Empregador"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/spawner/spawnerstation/spawnerstation.object": [
+        "/interactData/paneLayoutOverride/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": " Use employment beacons to call in help",
+      "Por": "Use employment beacons para pedir ajuda"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/spawner/spawnerstation/spawnerstation.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A station used to obtain employment beacons that call in all kinds of helpers.",
+      "Por": "Uma estação utilizada para obter employment beacons que chamam todos os tipos de ajudantes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/spawner/spawnerstation/spawnerstation.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fassst Food?",
+      "Por": "Comida Rápida?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/spawner/spawnerstation/spawnerstation.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wonder if I can order a freedom fighter.",
+      "Por": "Eu me pergunto se eu posso pedir um combatente da liberdade."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/spawner/spawnerstation/spawnerstation.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Such a fair system. No lords and ladies, no paltry peasants."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/spawner/spawnerstation/spawnerstation.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Such technology is controversial on Avos.",
+      "Por": "Essa tecnologia é polêmica em Avos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/spawner/spawnerstation/spawnerstation.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is the ultimate evolution of online classified ads.",
+      "Por": "Esta é a última evolução de anúncios classificados online."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/spawner/spawnerstation/spawnerstation.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "To help another being brings inner peace.",
+      "Por": "Para ajudar outro ser trazer paz interior."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/spawner/spawnerstation/spawnerstation.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Employer's Station^white;",
+      "Por": "^orange;Employer's Station^white;"
+    }
+  }
+]

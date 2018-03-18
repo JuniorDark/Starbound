@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/other/bandage.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bandage for healing minor wounds. Restores 50 health over 1 second.",
+      "Por": "Uma atadura para curar ferimentos leves. Restaura 50 de vida."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/other/bandage.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bandage",
+      "Por": "Bandage"
+    }
+  }
+]

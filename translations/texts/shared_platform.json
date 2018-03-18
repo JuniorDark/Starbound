@@ -1,0 +1,41 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/platform.matitem": [
+        "/description"
+      ],
+      "items/materials/platform2.matitem": [
+        "/description"
+      ],
+      "tiles/platforms/platform.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A nondescript wood platform.",
+      "Por": "Uma plataforma de madeira indescritível."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/platform.matitem": [
+        "/shortdescription"
+      ],
+      "items/materials/platform2.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/platform.material": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/platform2.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wood Platform",
+      "Por": "Wood Platform"
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier2/sweetpopcorn.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Freshly popped corn, with a sweet, buttery coating.",
+      "Por": "Milho recentemente estourado, com uma cobertura amanteigada doce."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier2/sweetpopcorn.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sweet Popcorn",
+      "Por": "Sweet Popcorn"
+    }
+  }
+]

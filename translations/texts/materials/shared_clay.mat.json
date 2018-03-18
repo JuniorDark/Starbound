@@ -1,0 +1,78 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/clay.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/clay.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Clay",
+      "Por": "Clay"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Argila pegajosa e pesada."
+    ],
+    "Files": {
+      "items/materials/clay.matitem": [
+        "/description"
+      ],
+      "tiles/materials/clay.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Heavy, sticky clay.",
+      "Por": "Argila pesada e pegajosa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/clay.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/clay.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I reckon drying this clay would harden it up.",
+      "Por": "Eu acho que secar esta argila Iria endurecê-la."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/clay.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/clay.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sssmooth clay.",
+      "Por": "Argila sssuave."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/clay.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/clay.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This clay is dense enough to use as a building material."
+    }
+  }
+]

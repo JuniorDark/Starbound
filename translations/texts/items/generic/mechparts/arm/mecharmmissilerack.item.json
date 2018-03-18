@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/arm/mecharmmissilerack.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fires a swarm of guided mini missiles.",
+      "Por": "Dispara um enxame de mini misseis guiados."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/arm/mecharmmissilerack.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Missile Rack Mech Arm"
+    }
+  }
+]

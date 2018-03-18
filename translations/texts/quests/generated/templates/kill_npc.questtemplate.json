@@ -1,0 +1,1167 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/19"
+      ]
+    },
+    "Texts": {
+      "Eng": "<enemy.pronoun.possessiveDet> gang turned on <enemy.pronoun.object> after a series of poor leadership decisions",
+      "Por": "<enemy.pronoun.possessiveDet> gangue largou <enemy.pronoun.object> após uma série de má decisões de liderança"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "<enemy.pronoun.subject> assassinated a <individual>",
+      "Por": "<enemy.pronoun.subject> assassinou um <individual>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/17"
+      ]
+    },
+    "Texts": {
+      "Eng": "<enemy.pronoun.subject> botched a daring heist",
+      "Por": "<enemy.pronoun.subject> falhou miseralvelmnte em um assalto ousado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "<enemy.pronoun.subject> carried out a daring heist and stole a cache of <valuable>",
+      "Por": "<enemy.pronoun.subject> realizou um assalto ousado e roubou um depósito de <valuable>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "<enemy.pronoun.subject> failed a heist on a <individual>",
+      "Por": "<enemy.pronoun.subject> falhou em assaltar um <individual>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "<enemy.pronoun.subject> flirted with a <individual>",
+      "Por": "<enemy.pronoun.subject> flertou com um <individual>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/14"
+      ]
+    },
+    "Texts": {
+      "Eng": "<enemy.pronoun.subject> flooded an entire city with lava",
+      "Por": "<enemy.pronoun.subject> inundou uma cidade inteira com lava"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "<enemy.pronoun.subject> got involved in illegal penguin wrestling",
+      "Por": "<enemy.pronoun.subject> se envolveu em uma luta de pinguim ilegal"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "<enemy.pronoun.subject> hijacked a <company> shipping freighter",
+      "Por": "<enemy.pronoun.subject> sequestrou um cargueiro de transporte da <company> "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/13"
+      ]
+    },
+    "Texts": {
+      "Eng": "<enemy.pronoun.subject> kept digging holes in people's houses while they were sleeping",
+      "Por": "<enemy.pronoun.subject> continuava cavando buracos nas casas das pessoas enquanto eles estavam dormindo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "<enemy.pronoun.subject> let all the animals free in a zoo",
+      "Por": "<enemy.pronoun.subject> soltou todos os animais em um zoológico"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "<enemy.pronoun.subject> robbed a <company> weapon shipment",
+      "Por": "<enemy.pronoun.subject> roubou um carregamento de armas da <company>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "<enemy.pronoun.subject> robbed a <individual> at gunpoint",
+      "Por": "<enemy.pronoun.subject> roubou um <individual> a mão armada"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "<enemy.pronoun.subject> robbed a <individual> of their <valuable>",
+      "Por": "<enemy.pronoun.subject> roubou <valuable> de um <individual> "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "<enemy.pronoun.subject> stole all the furniture from a town",
+      "Por": "<enemy.pronoun.subject> roubou todos os móveis de uma cidade"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "<enemy.pronoun.subject> stole an entire planet's supply of <valuable>",
+      "Por": "<enemy.pronoun.subject> roubou o abastecimento de <valuable> de um planeta inteiro"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "<enemy.pronoun.subject> tried to steal an entire ocean",
+      "Por": "<enemy.pronoun.subject> tentou roubar um oceano inteiro"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/18"
+      ]
+    },
+    "Texts": {
+      "Eng": "<enemy.pronoun.subject> was betrayed by a member of <enemy.pronoun.possessiveDet> gang",
+      "Por": "<enemy.pronoun.subject> foi traído por um membro da <enemy.pronoun.possessiveDet> gangue"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/16"
+      ]
+    },
+    "Texts": {
+      "Eng": "<enemy.pronoun.subject> was caught trying to illegally smuggle <valuable>",
+      "Por": "<enemy.pronoun.subject> foi pego tentando contrabandear ilegalmente <valuable>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/15"
+      ]
+    },
+    "Texts": {
+      "Eng": "<enemy.pronoun.subject> wouldn't stop stealing roof tiles from a city",
+      "Por": "<enemy.pronoun.subject> não parar de roubar telhas de uma cidade"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/title/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "A <enemy> to defeat",
+      "Por": "Um <enemy> para derrotar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/text/default/default/0",
+        "/scriptConfig/generatedText/text/default/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "An outlaw is on the loose! Rumour has it ^orange;<adjective> <enemy.name> the <enemy>^white; is at the ^orange;<spawnPoint>^white;<spawnPoint.direction>. Apparently <enemy.pronoun.copulativePast> been on the run ever since <crime>. ^green;Can you go and <request>^white; and make things safer around here?",
+      "Por": "Um foragido está à solta! Rumores dizem que^orange; o <adjective> <enemy.name> o <enemy>^white; está no/na ^orange;<spawnPoint>^white; <spawnPoint.direction>. Pelo visto <enemy.pronoun.copulativePast> estado foragido(a) desde que <crime>. ^green;Você poderia ir e <request>^white; e fazer as coisas mais seguras por aqui?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/1/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bullseye",
+      "Por": "Alvo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/1/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Calamity",
+      "Por": "Calamidade"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/2/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Callox",
+      "Por": "Callox"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/title/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Challenging <adjective> <enemy.name>",
+      "Por": "Desafiando o <adjective> <enemy.name>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/1/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crackshot",
+      "Por": "Pistoleiro"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crafty",
+      "Por": "Astuto"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Did you hunt down that outlaw? <appreciationfloran>",
+      "Por": "Você caçou aquele bandido? <appreciationfloran>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/default/1",
+        "/scriptConfig/generatedText/completionText/default/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Did you manage to defeat <enemy.name>? <appreciation>",
+      "Por": "Você conseguiu derrotar <enemy.name>? <appreciation>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/default/0",
+        "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Did you put a stop to <enemy.name>'s crime spree? <appreciation>",
+      "Por": "Você colocou um fim a onda de crimes de <enemy.name>? <appreciation>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Did you ssstab <enemy.name>? <appreciationfloran>",
+      "Por": "Você esfaqueou <enemy.name>? <appreciationfloran>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/3/1/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran Greenfinger",
+      "Por": "Greenfinger Floran "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/text/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran heard that ^orange;<adjective> <enemy.name> the <enemy>^white; isss at the ^orange;<spawnPoint>^white;<spawnPoint.direction>. Floran doesn't know what they did, but <crimefloran> ^green;Can you go and <requestfloran>^white;?",
+      "Por": "Floran ouviu que ^orange;<adjective> <enemy.name> o <enemy>^white; está no ^orange;<spawnPoint>^white; <spawnPoint.direction>. Floran não sabe o que ele fez, mas <crimefloran> ^green;Você poderia ir e <requestfloran>^white;?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/10/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran isss impressed! Floran didn't think you could beat them!",
+      "Por": "Floran essstá impressionado! Floran não pensou que você podia vencê-los!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/10/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran knows who to go to about dangerousss outlaws in future!",
+      "Por": "Floran sabe como lidar com bandidos perigososss no futuro!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/10/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran knows you're the bessst hunter around!",
+      "Por": "Floran sabe que você é o melhor caçador na região!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/8/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran thinksss they might have good loot!",
+      "Por": "Floran acha que elesss possam ter uma bom saque!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/text/default/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran was at the ^orange;<spawnPoint>^green;<spawnPoint.direction> when Floran sssaw the famous outlaw ^orange;<adjective> <enemy.name> the <enemy>^white;. Floran can't remember why they're famous but <crimefloran>. ^green;Could you go and <requestfloran>^white;?",
+      "Por": "Floran estava no ^orange;<spawnPoint>^green; <spawnPoint.direction> quando Floran viu o famoso foragido ^orange;<adjective> <enemy.name> o <enemy>^white;. Floran não se lembra por que ele é famoso, mas <crimefloran>. ^green;Você poderia ir e <requestfloran>^white;?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/3/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Glitch prince",
+      "Por": "Príncipe Glitch"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/3/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Glitch princess",
+      "Por": "Princesa Glitch"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/3/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Glitch royal",
+      "Por": "Glitch real"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/2/1/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Graxus",
+      "Por": "Graxus"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/7/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Great! We don't need more trouble round here.",
+      "Por": "Ótimo! Nós não precisamos de mais problemas aqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Have you heard of the outlaw ^orange;<adjective> <enemy.name> the <enemy>^white;? I've heard <enemy.pronoun.copulative> laying low nearby after <crime>. We don't need that kind of trouble around here - ^green;could you go to the ^orange;<spawnPoint>^green;<spawnPoint.direction> and <request>^white;?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/7/1/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I am so glad you were here to help with this!",
+      "Por": "Estou tão feliz que você estava aqui para ajudar com isso!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/failureText/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I guess I wasn't able to help <questGiver>. I'm sure someone else will defeat the dangerous outlaw.",
+      "Por": "Eu acho que não fui capaz de ajudar <questGiver>. Eu tenho certeza que alguém vai derrotar o bandido perigoso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/objectives/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Kill <adjective> <enemy.name>",
+      "Por": "Mate o <adjective> <enemy.name>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Killer",
+      "Por": "Assassino"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/1/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lightspeed",
+      "Por": "Veloz"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/2/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Manaticon",
+      "Por": "Manaticon"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/2/1/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "Miniknog",
+      "Por": "Miniknog"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/3/1/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "Miniknog General",
+      "Por": "General Miniknog"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/2/1/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Necrolix",
+      "Por": "Necrolix"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/2/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rotik",
+      "Por": "Rotik"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/2/1/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shade Co.",
+      "Por": "Shade Co."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/1/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shadowy",
+      "Por": "Sombrio"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/1/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Silent",
+      "Por": "Silencioso"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/1/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sly",
+      "Por": "Astuto"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Swift",
+      "Por": "Rápido"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/2/1/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Teklacki",
+      "Por": "Teklacki"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/2/1/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Terrene Protectorate",
+      "Por": "Protetorado Terreno"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/7/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thanks for your help!",
+      "Por": "Obrigado pela ajuda!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/1/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vile",
+      "Por": "Perverso"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/text/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "We have a <problem>! Have you heard of the outlaw ^orange;<adjective> <enemy.name> the <enemy>^white;? I've heard <enemy.pronoun.copulative> laying low nearby after <crime>. We don't need that kind of trouble around here - ^green;could you go to the ^orange;<spawnPoint>^green;<spawnPoint.direction> and <request>^white;?",
+      "Por": "Nós temos um <problem>! Você já ouviu falar do bandido ^orange;<adjective> <enemy.name> o <enemy>^white;? Eu ouvi que <enemy.pronoun.copulative> escondido(a) nas proximidades depois que <crime>. Nós não precisamos desse tipo de problema por aqui - ^green;você poderia ir para o/a ^orange;<spawnPoint>^green; <spawnPoint.direction> e <request>^white;?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/7/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Who needs guards with you around, huh? Thanks for your help!",
+      "Por": "Quem precisa de guardas com você por perto, hein? Obrigado pela ajuda!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/2/1/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Xia-Li",
+      "Por": "Xia-Li"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/goalText/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;An outlaw has escaped to our planet!",
+      "Por": "^cyan;Um bandido escapou para nosso planeta!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/goalText/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Floran has interesssting information to tell...",
+      "Por": "^cyan;Floran tem informações interessantes para contar..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/goalText/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Floran heard about an outlaw nearby!",
+      "Por": "^cyan;Floran ouviu falar de um bandido nas proximidades!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/goalText/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Flustered. I've found out there's a dangerous outlaw nearby...",
+      "Por": "^cyan;Agitado. Eu descobri que há um bandido perigoso nas proximidades..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/goalText/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;I've found out there's a dangerous outlaw nearby...",
+      "Por": "^cyan;Eu descobri que há um bandido perigoso nas proximidades..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/goalText/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Panicked. An outlaw has escaped to our planet!",
+      "Por": "^cyan;Apavorado. Um bandido escapou para nosso planeta!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/parameters/enemy/example/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "bandit"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/3/1/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "bandit with powerful connections",
+      "Por": "bandido com conexões poderosas"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/4/1/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "chickens",
+      "Por": "galinhas"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/5/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "deal with <enemy.pronoun.object>",
+      "Por": "lidar com <enemy.pronoun.object>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/4/1/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "diamonds",
+      "Por": "diamantes"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/4/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "gold",
+      "Por": "ouro"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/3/1/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "group of famed travelling adventurers",
+      "Por": "grupo de famosos aventureiros viajantes"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/9/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "hunt them",
+      "Por": "caçá-los"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/3/1/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "powerful Avian Stargazer",
+      "Por": "poderoso Avian Stargazer"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/6/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "problem",
+      "Por": "problema"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/3/1/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "renowned Hylotl poet",
+      "Por": "renomado poeta Hylotl"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/4/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "silverware",
+      "Por": "prataria"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/6/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "situation",
+      "Por": "problema"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/5/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "sort <enemy.pronoun.object> out",
+      "Por": "lidar com <enemy.pronoun.object>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/9/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "sssort them out for Floran",
+      "Por": "acabar com eles para Floran"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/5/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "take <enemy.pronoun.object> out",
+      "Por": "cuidar <enemy.pronoun.object>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/5/1/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "teach <enemy.pronoun.object> a lesson",
+      "Por": "ensinar a <enemy.pronoun.object> uma lição"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/8/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "they don't sssound very trustworthy so you should probably ssstab them anyway.",
+      "Por": "eles não sssoam muito confiável então você provavelmente deve esssfaquea-los de qualquer maneira."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/8/1/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "they might be fun to fight!",
+      "Por": "eles podem ser divertidos de lutar!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/8/1/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "they probably would ssstab you if they got the chance.",
+      "Por": "eles provavelmente te esfaquearia se eles tivessem chance."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/8/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "they will probably jussst cause trouble for Floran.",
+      "Por": "eles provavelmente só irão causar problemas para Floran."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/4/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "weapons",
+      "Por": "armas"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/3/1/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "well-connected banker",
+      "Por": "banqueiro bem importante"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/8/1/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "you might have fun hunting them!",
+      "Por": "você pode se divertir caçando eles!"
+    }
+  }
+]

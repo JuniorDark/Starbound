@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/orange.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's an orange.",
+      "Por": "É uma laranja."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/orange.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Orange",
+      "Por": "Orange"
+    }
+  }
+]

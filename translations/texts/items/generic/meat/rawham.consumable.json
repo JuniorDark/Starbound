@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/meat/rawham.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Raw Ham",
+      "Por": "Raw Ham"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/meat/rawham.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Raw ham. It's probably best if I cook it first.",
+      "Por": "Presunto cru. É provavelmente melhor se eu cozinhá-lo primeiro."
+    }
+  }
+]

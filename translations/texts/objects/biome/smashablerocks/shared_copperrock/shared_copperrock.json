@@ -1,0 +1,106 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/smashablerocks/copperrock/copperrock.object": [
+        "/description"
+      ],
+      "objects/biome/smashablerocks/copperrocksmall/copperrocksmall.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A cracked rock full of copper.",
+      "Por": "Uma rocha rachada cheia de cobre."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/smashablerocks/copperrock/copperrock.object": [
+        "/humanDescription"
+      ],
+      "objects/biome/smashablerocks/copperrocksmall/copperrocksmall.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A rock full of copper! Maybe I can break it.",
+      "Por": "Uma rocha cheia de cobre! Talvez eu possa quebrá-la."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/smashablerocks/copperrock/copperrock.object": [
+        "/novakidDescription"
+      ],
+      "objects/biome/smashablerocks/copperrocksmall/copperrocksmall.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A rock rich with copper. I should break it.",
+      "Por": "Uma rocha rica em cobre. Eu deveria quebrá-la."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/smashablerocks/copperrock/copperrock.object": [
+        "/hylotlDescription"
+      ],
+      "objects/biome/smashablerocks/copperrocksmall/copperrocksmall.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A swift blow to this rock would free the copper within.",
+      "Por": "Um golpe rápido nesta pedra liberaria o cobre dentro."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/smashablerocks/copperrock/copperrock.object": [
+        "/avianDescription"
+      ],
+      "objects/biome/smashablerocks/copperrocksmall/copperrocksmall.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "If I break this rock I should be able to gather the copper ore within it.",
+      "Por": "Se eu quebrar esta rocha devo ser capaz de recolher o minério de cobre dentro dela."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/smashablerocks/copperrock/copperrock.object": [
+        "/apexDescription"
+      ],
+      "objects/biome/smashablerocks/copperrocksmall/copperrocksmall.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "There appears to be copper within this fragile rock.",
+      "Por": "Parece haver cobre dentro desta frágil rocha."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/smashablerocks/copperrock/copperrock.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/biome/smashablerocks/copperrocksmall/copperrocksmall.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This rock contains copper, and is covered in cracks."
+    }
+  }
+]

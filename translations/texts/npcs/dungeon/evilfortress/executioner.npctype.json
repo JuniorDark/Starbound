@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/evilfortress/executioner.npctype": [
+        "/scriptConfig/dialog/attack/glitch/default/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have been waiting to try out my new axe!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/evilfortress/executioner.npctype": [
+        "/scriptConfig/dialog/attack/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm gonna chop you to pieces!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/evilfortress/executioner.npctype": [
+        "/scriptConfig/dialog/attack/glitch/default/3/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've cut down many like you before!"
+    }
+  }
+]

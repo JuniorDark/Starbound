@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier2/mushroomquiche.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A cheesy quiche packed full of fresh mushrooms.",
+      "Por": "Um quiche de queijo cheio de cogumelos frescos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier2/mushroomquiche.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mushroom Quiche",
+      "Por": "Mushroom Quiche"
+    }
+  }
+]

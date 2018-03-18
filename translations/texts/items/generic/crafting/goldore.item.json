@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/goldore.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gold Ore",
+      "Por": "Gold Ore"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/goldore.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's some gold ore. Can be used for smelting.",
+      "Por": "É um minério de ouro. Pode ser derretido e transformado em barras."
+    }
+  }
+]

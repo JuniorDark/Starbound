@@ -1,0 +1,184 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/ai/ai.config": [
+        "/defaultRecruitDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "> No data."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/ai/ai.config": [
+        "/guiConfig/backButton/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "BACK",
+      "Por": "VOLTAR"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/ai/ai.config": [
+        "/crewBreadcrumbText",
+        "/guiConfig/showCrew/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "CREW",
+      "Por": "TRIPULAÇÃO"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/ai/ai.config": [
+        "/guiConfig/mainStack/stack/1/missionStack/stack/2/startMission/caption",
+        "/missionDeployText"
+      ]
+    },
+    "Texts": {
+      "Eng": "DEPLOY",
+      "Por": "LANÇAR"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/ai/ai.config": [
+        "/guiConfig/mainStack/stack/2/crewStack/stack/2/dismissRecruit/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "DISMISS",
+      "Por": "DISPENSAR"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/ai/ai.config": [
+        "/guiConfig/homeBreadcrumb/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "HOME",
+      "Por": "INÍCIO"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/ai/ai.config": [
+        "/missionBreadcrumbText"
+      ]
+    },
+    "Texts": {
+      "Eng": "MISSION",
+      "Por": "MISSÃO"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/ai/ai.config": [
+        "/guiConfig/showMissions/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "MISSIONS",
+      "Por": "MISSÕES"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/ai/ai.config": [
+        "/guiConfig/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "S.A.I.L.",
+      "Por": "S.A.I.L."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/ai/ai.config": [
+        "/guiConfig/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ship-based Artificial Intelligence Lattice",
+      "Por": "Ship-based Artificial Intelligence Lattice"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/ai/ai.config": [
+        "/guiConfig/mainStack/stack/1/missionStack/stack/2/missionName/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "mission name",
+      "Por": "nome da missão"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/ai/ai.config": [
+        "/guiConfig/mainStack/stack/1/missionStack/stack/2/missionText/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "mission text",
+      "Por": "texto da missão"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/ai/ai.config": [
+        "/guiConfig/mainStack/stack/2/crewStack/stack/2/recruitText/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "recruit description",
+      "Por": "descrição do recruta"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/ai/ai.config": [
+        "/guiConfig/mainStack/stack/2/crewStack/stack/2/recruitName/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "recruit name",
+      "Por": "nome do recruta"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/ai/ai.config": [
+        "/guiConfig/itemBreadcrumb/value",
+        "/guiConfig/pageBreadcrumb/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "replaceme",
+      "Por": "me substitua"
+    }
+  }
+]

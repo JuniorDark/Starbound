@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Sorte sua que há muito espaço no espaço! Sua nave vai ter espaço de sobra depois desta atualização."
+    ],
+    "Files": {
+      "quests/outpost/shipupgrade/illegalshipupgrade4.questtemplate": [
+        "/completionText"
+      ],
+      "quests/outpost/shipupgrade/shipupgrade4.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Yer lucky there's so much space in space! Yer ship'll have room to spare after this upgrade.",
+      "Por": "Sorte que há muito espaço no espaço! Sua nave vai ter espaço de sobra depois desta atualização."
+    }
+  }
+]

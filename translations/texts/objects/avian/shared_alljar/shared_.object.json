@@ -1,0 +1,93 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/smalljar1/smalljar1.object": [
+        "/humanDescription"
+      ],
+      "objects/avian/talljar1/talljar1.object": [
+        "/humanDescription"
+      ],
+      "objects/avian/talljar2/talljar2.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Another day, another pot to smash.",
+      "Por": "Outro dia, outro pote para esmagar."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Floran esmaga muitos potess."
+    ],
+    "Files": {
+      "objects/avian/smalljar1/smalljar1.object": [
+        "/floranDescription"
+      ],
+      "objects/avian/talljar1/talljar1.object": [
+        "/floranDescription"
+      ],
+      "objects/avian/talljar2/talljar2.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran sssmash many pot.",
+      "Por": "Floran esmaga muitos potes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/smalljar1/smalljar1.object": [
+        "/novakidDescription"
+      ],
+      "objects/avian/talljar1/talljar1.object": [
+        "/novakidDescription"
+      ],
+      "objects/avian/talljar2/talljar2.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gotta smash these to find out what's inside.",
+      "Por": "Tenho que esmagar isso para descobrir o que está dentro."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/smalljar1/smalljar1.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avian/talljar1/talljar1.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avian/talljar2/talljar2.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These pots have made me a far more aggressive individual.",
+      "Por": "Estes potes me tornaram um indivíduo muito mais agressivo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/smalljar1/smalljar1.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avian/talljar1/talljar1.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avian/talljar2/talljar2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "To smash or not to smash?"
+    }
+  }
+]

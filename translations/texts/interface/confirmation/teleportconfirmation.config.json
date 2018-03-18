@@ -1,0 +1,274 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/teleportconfirmation.config": [
+        "/mechunlock/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "\n\nAre you ready for me to deploy you to my ^orange;mech test course^white;? I built it in an abandoned freighter I stumbled upon.",
+      "Por": "\n\nVocê está pronto para eu enviar você para a minha ^orange;pista de teste de mecha^white;? Eu a construí em um cargueiro abandonado que eu tropecei."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/teleportconfirmation.config": [
+        "/penguinmission1/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "\n\nAre you ready for me to send you to Dreadwing so you can rough him up?\n^red;You'll want to have good equipment for this.",
+      "Por": "\n\nVocê está pronto para mim envia-lo para o Dreadwing para que você possa mata-lo?\n^red;Você vai querer ter um bom equipamento para isso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/teleportconfirmation.config": [
+        "/mechupgrade2/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "\n\nAre you ready for me to send you to my ^orange;advanced mech test course^white;? \n^red;You might want to assemble a strong enough mech before you go.",
+      "Por": "\n\nVocê está pronto para eu enviar você para a minha ^orange;pista avançada de teste de mecha^white;? \n^red;Você pode querer montar um mecha forte o suficiente antes de ir."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/teleportconfirmation.config": [
+        "/penguinmission2/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "\n\nAre you ready for me to send you to my ^orange;arms testing site^white; to fight my Shockhopper MK I?\n^red;You'll want to have very good equipment for this.",
+      "Por": "\n\nVocê está pronto para eu enviar você para a meu ^orange;local de teste de armas^white; para lutar contra o meu Shockhopper MK I?\n^red;Você vai querer ter um bom equipamento para isso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/teleportconfirmation.config": [
+        "/techscientist_dash/message",
+        "/techscientist_doublejump/message",
+        "/techscientist_morphball/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "\n\nAre you ready to go to the obstacle course?",
+      "Por": "\n\nVocê está pronto para ir para a pista de obstáculos?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/teleportconfirmation.config": [
+        "/arena2/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "\n\nAre you sure you're ready to enter the arena against Volo the pet tamer? Once inside the only escape is victory.",
+      "Por": "\n\nTem certeza de que está pronto para entrar na arena contra Volo o domador de pet? Uma vez dentro a única saída é a vitória."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/teleportconfirmation.config": [
+        "/arena3/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "\n\nAre you sure you're ready to enter the arena against the fire knight, Templar Inferno? Once inside the only escape is victory.",
+      "Por": "\n\nTem certeza de que está pronto para entrar na arena contra o cavaleiro de fogo, Templar Inferno? Uma vez dentro a única saída é a vitória."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/teleportconfirmation.config": [
+        "/arena1/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "\n\nAre you sure you're ready to enter the arena against the trio of Gladiators? Once inside the only escape is victory.",
+      "Por": "\n\nTem certeza de que está pronto para entrar na arena contra o trio de Gladiadores? Uma vez dentro, a única saída é a vitória."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/teleportconfirmation.config": [
+        "/mechupgrade2/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Advanced Mech Test Course",
+      "Por": "Pista Avançada de Teste de Mecha"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/teleportconfirmation.config": [
+        "/arena2/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Arena Battle : Pet Tamer Volo",
+      "Por": "Batalha na Arena : Domador de Pet Volo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/teleportconfirmation.config": [
+        "/arena1/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Arena Battle : The Gladiators",
+      "Por": "Batalha na Arena : Os Gladiadores"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/teleportconfirmation.config": [
+        "/arena3/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Arena Champion: Templar Inferno",
+      "Por": "Campeão da Arena: Templar Inferno"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/teleportconfirmation.config": [
+        "/techscientist_dash/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dash Test",
+      "Por": "Teste de Corrida"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/teleportconfirmation.config": [
+        "/techscientist_morphball/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Distortion Sphere Test",
+      "Por": "Teste da Esfera de Distorção"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/teleportconfirmation.config": [
+        "/penguinmission1/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dreadwing the Penguin",
+      "Por": "Dreadwing o Pinguim"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/teleportconfirmation.config": [
+        "/techscientist_dash/labels/name",
+        "/techscientist_doublejump/labels/name",
+        "/techscientist_morphball/labels/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Elliot"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/teleportconfirmation.config": [
+        "/mechunlock/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mech Test Course",
+      "Por": "Pista de Teste de Mecha"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/teleportconfirmation.config": [
+        "/penguinmission2/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Penguin Arms Testing Site",
+      "Por": "Local de Teste de Armas Pinguim"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/teleportconfirmation.config": [
+        "/techscientist_doublejump/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pulse Jump Test",
+      "Por": "Teste do Pulo Duplo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/teleportconfirmation.config": [
+        "/arena1/okCaption",
+        "/arena2/okCaption",
+        "/arena3/okCaption",
+        "/mechunlock/okCaption",
+        "/mechupgrade2/okCaption",
+        "/penguinmission2/okCaption",
+        "/techscientist_dash/okCaption",
+        "/techscientist_doublejump/okCaption",
+        "/techscientist_morphball/okCaption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ready",
+      "Por": "Pronto"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/teleportconfirmation.config": [
+        "/arena1/title",
+        "/arena2/title",
+        "/arena3/title",
+        "/mechunlock/title",
+        "/mechupgrade2/title",
+        "/penguinmission1/title",
+        "/penguinmission2/title",
+        "/techscientist_dash/title",
+        "/techscientist_doublejump/title",
+        "/techscientist_morphball/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Teleport Confirmation",
+      "Por": "Confirmação de Teleporte"
+    }
+  }
+]

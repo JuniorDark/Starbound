@@ -1,0 +1,78 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/waste.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/waste.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Buncha glowin' toxic chemical waste.",
+      "Por": "Monte de resíduos químicos tóxicos brilhantes."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Nojento, lixo tóxico que brilha fracamente."
+    ],
+    "Files": {
+      "items/materials/waste.matitem": [
+        "/description"
+      ],
+      "tiles/materials/waste.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disgusting, faintly glowing toxic waste.",
+      "Por": "Resíduos tóxicos nojentos brilhando fracamente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/waste.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/waste.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssstinky toxic messs. Vile poisson.",
+      "Por": "Ressíduo tóxico fedido. Veneno vil."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/waste.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/waste.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The chemicals in this waste are so toxic it is glowing."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/waste.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/waste.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Waste",
+      "Por": "Waste"
+    }
+  }
+]

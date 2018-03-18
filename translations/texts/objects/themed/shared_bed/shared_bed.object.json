@@ -1,0 +1,37 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/geometric/geometricbed/geometricbed.object": [
+        "/apexDescription"
+      ],
+      "objects/themed/serene/serenebed/serenebed.object": [
+        "/apexDescription"
+      ],
+      "objects/themed/wave/wavebed/wavebed.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A very nice, comfy bed.",
+      "Por": "Uma cama muito agradável e confortável."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Qualidade de construção muito decente. Eu gosto disso."
+    ],
+    "Files": {
+      "objects/themed/geometric/geometricbed/geometricbed.object": [
+        "/hylotlDescription"
+      ],
+      "objects/themed/wave/wavebed/wavebed.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Very decent build quality. I like this.",
+      "Por": "Qualidade de construção muito decente. Eu gosto disto."
+    }
+  }
+]

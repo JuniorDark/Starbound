@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/arm/mecharmclustermine.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A mech arm that fires a cluster of small remote mines.",
+      "Por": "Um braço de mecha que dispara um conjunto de pequenas minas remotas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/arm/mecharmclustermine.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cluster Mine Mech Arm"
+    }
+  }
+]

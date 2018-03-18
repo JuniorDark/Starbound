@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/crystaltrap/crystaltrap.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Carved Crystal Trap",
+      "Por": "Carved Crystal Trap"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/crystaltrap/crystaltrap.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wouldn't want to get caught in that beam.",
+      "Por": "Eu não gostaria de ser acertado por esse feixe."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/crystaltrap/crystaltrap.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'd better watch out, these beams of light could fry me.",
+      "Por": "É melhor eu tomar cuidado, esses feixes de luz poderiam me fritar."
+    }
+  }
+]

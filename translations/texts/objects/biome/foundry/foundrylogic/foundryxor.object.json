@@ -1,0 +1,44 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/foundry/foundrylogic/foundryxor.object": [
+        "/apexDescription",
+        "/avianDescription",
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/humanDescription",
+        "/hylotlDescription",
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An XOR switch. The output will be on when exactly one of the inputs is on.",
+      "Por": "Um interruptor XOR. A saída será ativada quando uma das entradas estiver ativada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/foundry/foundrylogic/foundryxor.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Foundry XOR Switch",
+      "Por": "Foundry XOR Interruptor"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/foundry/foundrylogic/foundryxor.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "XOR ssswitch. The output will be on when exactly one of the inputsss is on.",
+      "Por": "Interruptor XOR. A saída será ativada quando uma das entradassss estiver ativada."
+    }
+  }
+]

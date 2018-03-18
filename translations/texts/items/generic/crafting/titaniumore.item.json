@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/titaniumore.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's titanium. Can be used for smelting.",
+      "Por": "É titânio. Pode ser derretido e transformado em barras."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/titaniumore.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Titanium Ore",
+      "Por": "Titanium Ore"
+    }
+  }
+]

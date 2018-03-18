@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ancientblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/ancientblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ancient Block",
+      "Por": "Ancient Block"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ancientblock.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/ancientblock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ancient blocksss.",
+      "Por": "Blocosss antigosss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ancientblock.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/ancientblock.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These blocks are evidently very old."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ancientblock.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/ancientblock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These blocks are older'n dirt.",
+      "Por": "Estes blocos são velhos e sujos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ancientblock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/ancientblock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "These bricks have certainly survived the test of time.",
+      "Por": "Estes tijolos certamente sobreviveram ao teste do tempo."
+    }
+  }
+]

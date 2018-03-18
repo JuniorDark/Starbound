@@ -1,0 +1,121 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/aviantemple/templeguard.npctype": [
+        "/scriptConfig/dialog/attack/avian/default/0",
+        "/scriptConfig/dialog/attack/default/default/0"
+      ],
+      "npcs/dungeon/aviantomb/tombguard.npctype": [
+        "/scriptConfig/dialog/attack/avian/default/0",
+        "/scriptConfig/dialog/attack/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intruder! Leave this hallowed ground!",
+      "Por": "Intruso! Deixe este solo sagrado!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/aviantemple/templeguard.npctype": [
+        "/scriptConfig/dialog/attack/avian/default/1",
+        "/scriptConfig/dialog/attack/default/default/1"
+      ],
+      "npcs/dungeon/aviantomb/tombguard.npctype": [
+        "/scriptConfig/dialog/attack/avian/default/1",
+        "/scriptConfig/dialog/attack/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stop right where you are!",
+      "Por": "Pare bem ai onde você está!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/aviantemple/templeguard.npctype": [
+        "/scriptConfig/dialog/attack/avian/default/6",
+        "/scriptConfig/dialog/attack/default/default/6"
+      ],
+      "npcs/dungeon/aviantomb/tombguard.npctype": [
+        "/scriptConfig/dialog/attack/avian/default/6",
+        "/scriptConfig/dialog/attack/default/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "The power of Kluex compels me to slay you!",
+      "Por": "O poder de Kluex me obriga a matar você!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/aviantemple/templeguard.npctype": [
+        "/scriptConfig/dialog/attack/avian/default/5",
+        "/scriptConfig/dialog/attack/default/default/5"
+      ],
+      "npcs/dungeon/aviantomb/tombguard.npctype": [
+        "/scriptConfig/dialog/attack/avian/default/5",
+        "/scriptConfig/dialog/attack/default/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "The wrath of Kluex will fall upon you!",
+      "Por": "A ira de Kluex caíra sobre você!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/aviantemple/templeguard.npctype": [
+        "/scriptConfig/dialog/attack/avian/default/4",
+        "/scriptConfig/dialog/attack/default/default/4"
+      ],
+      "npcs/dungeon/aviantomb/tombguard.npctype": [
+        "/scriptConfig/dialog/attack/avian/default/4",
+        "/scriptConfig/dialog/attack/default/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Today, Kluex claims another soul!",
+      "Por": "Hoje, Kluex reivindica outra alma!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/aviantemple/templeguard.npctype": [
+        "/scriptConfig/dialog/attack/avian/default/3",
+        "/scriptConfig/dialog/attack/default/default/3"
+      ],
+      "npcs/dungeon/aviantomb/tombguard.npctype": [
+        "/scriptConfig/dialog/attack/avian/default/3",
+        "/scriptConfig/dialog/attack/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "You are unwelcome, stranger!",
+      "Por": "Você não é bem-vindo, estranho!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/aviantemple/templeguard.npctype": [
+        "/scriptConfig/dialog/attack/avian/default/2",
+        "/scriptConfig/dialog/attack/default/default/2"
+      ],
+      "npcs/dungeon/aviantomb/tombguard.npctype": [
+        "/scriptConfig/dialog/attack/avian/default/2",
+        "/scriptConfig/dialog/attack/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "You dishonour Kluex!",
+      "Por": "Você desonra Kluex!"
+    }
+  }
+]

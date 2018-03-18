@@ -1,0 +1,109 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/optionsmenu/optionsmenu.config": [
+        "/paneLayout/allowAssetsMismatchLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "ALLOW ASSETS MISMATCH",
+      "Por": "PERMITIR ATIVOS INCOMPATIVEIS"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/optionsmenu/optionsmenu.config": [
+        "/paneLayout/clientIPJoinableLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "CONNECT VIA IP",
+      "Por": "CONECTAR VIA IP"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/optionsmenu/optionsmenu.config": [
+        "/paneLayout/showKeybindings/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Controls",
+      "Por": "Controles"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/optionsmenu/optionsmenu.config": [
+        "/paneLayout/showGraphics/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Graphics",
+      "Por": "Gráficos"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/optionsmenu/optionsmenu.config": [
+        "/paneLayout/clientP2PJoinableLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "MULTIPLAYER VIA STEAM FRIENDS",
+      "Por": "MULTIJOGADOR VIA AMIGOS DA STEAM"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/optionsmenu/optionsmenu.config": [
+        "/paneLayout/musicLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Music",
+      "Por": "Música"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/optionsmenu/optionsmenu.config": [
+        "/paneLayout/sfxLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "SFX",
+      "Por": "Sons"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/optionsmenu/optionsmenu.config": [
+        "/paneLayout/tutorialMessagesLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "TUTORIAL MESSAGES",
+      "Por": "MENSAGENS DE TUTORIAL"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/optionsmenu/optionsmenu.config": [
+        "/paneLayout/volumeLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "VOLUME"
+    }
+  }
+]

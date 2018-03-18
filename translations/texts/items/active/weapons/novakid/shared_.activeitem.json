@@ -1,0 +1,23 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Uma grande arma que um soco.",
+      "Uma revólver grande que da um coice e tanto."
+    ],
+    "Files": {
+      "items/active/weapons/novakid/durasteelrevolver.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/novakid/ironrevolver.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/novakid/tungstenmagnum.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large handgun that packs a punch.",
+      "Por": "Um revólver grande que da um coice e tanto."
+    }
+  }
+]

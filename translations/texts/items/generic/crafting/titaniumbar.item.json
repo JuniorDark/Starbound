@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/titaniumbar.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ore for titanium bars is primarily found on planets orbiting temperate stars.",
+      "Por": "Titânio é encontrado principalmente em planetas que orbitam estrelas temperadas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/titaniumbar.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Titanium Bar",
+      "Por": "Titanium Bar"
+    }
+  }
+]

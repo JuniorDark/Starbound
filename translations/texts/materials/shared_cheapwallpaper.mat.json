@@ -1,0 +1,78 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Papel de parede brega e barato."
+    ],
+    "Files": {
+      "items/materials/cheapwallpaper.matitem": [
+        "/description"
+      ],
+      "tiles/materials/cheapwallpaper.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cheap, tacky wallpaper.",
+      "Por": "Papel de parede barato e brega."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/cheapwallpaper.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/cheapwallpaper.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran adore pretty wall paperss.",
+      "Por": "Floran adora papéiss de parede bonito."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/cheapwallpaper.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/cheapwallpaper.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tacky Wallpaper",
+      "Por": "Tacky Wallpaper"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/cheapwallpaper.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/cheapwallpaper.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This wall paper is overwhelmingly gaudy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/cheapwallpaper.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/cheapwallpaper.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Why'd anyone want to cover their walls with paper lookin' like this?",
+      "Por": "Por que alguém iria querer cobrir suas paredes com esse papel?"
+    }
+  }
+]

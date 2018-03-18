@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/shipupgrade/illegalshipupgrade2.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "This ship license is unquestionably authentic. ^green;Visit Penguin Pete^reset; with ^orange;4 Upgrade Modules^reset; to upgrade your ship.",
+      "Por": "Esta licença sem dúvida é autêntica. ^green;Visite Pinguim Pete^reset; com ^orange;4 Upgrade Modules^reset; para atualizar sua nave."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/shipupgrade/illegalshipupgrade2.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Questionable Kestrel Ship Upgrade",
+      "Por": "^green;Atualização de Nave Questionable Kestrel"
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/miningtools/fossiltool.miningtool": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fossil Extractor",
+      "Por": "Fossil Extractor"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/miningtools/fossiltool.miningtool": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Used to unearth fossils. Anything else would break them. This tool has very low durability.",
+      "Por": "Usada para desenterrar fósseis. Qualquer outra coisa poderia quebrá-los. Esta ferramenta tem uma durabilidade muito baixa."
+    }
+  }
+]

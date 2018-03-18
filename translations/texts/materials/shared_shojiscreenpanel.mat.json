@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/shojiscreenpanel.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/shojiscreenpanel.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fancy lookin' screen panel.",
+      "Por": "Um painel de tela de aparência extravagante."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/shojiscreenpanel.matitem": [
+        "/description"
+      ],
+      "tiles/materials/shojiscreenpanel.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A traditional screen panel.",
+      "Por": "Um painel de tela tradicional."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/shojiscreenpanel.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/shojiscreenpanel.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shoji Screen Panel",
+      "Por": "Shoji Screen Panel"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/shojiscreenpanel.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/shojiscreenpanel.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sstrange screen panelss.",
+      "Por": "Painéiss de tela estranhoss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/shojiscreenpanel.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/shojiscreenpanel.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These panels are simple and traditional."
+    }
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/desert/sandstonetorch/sandstonetorch.object": [
+        "/avianDescription"
+      ],
+      "objects/glitch/medievaltorch/medievaltorch.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A burning torch.",
+      "Por": "Uma tocha ardente."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Está tocha brilha suavemente."
+    ],
+    "Files": {
+      "objects/biome/desert/sandstonetorch/sandstonetorch.object": [
+        "/description"
+      ],
+      "objects/generic/torch/torch.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This torch flickers softly.",
+      "Por": "Esta tocha pisca suavemente."
+    }
+  }
+]

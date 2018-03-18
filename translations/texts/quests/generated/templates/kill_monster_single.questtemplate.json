@@ -1,0 +1,832 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/title/default/1",
+        "/scriptConfig/generatedText/title/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "<monster> Hunter",
+      "Por": "Caçador de <monster>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/text/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran has heard talk of a <giantfloran> ^orange;<monster>^white; near the ^orange;<spawnPoint>^white;<spawnPoint.direction>. Floran thinks thisss sounds like a good hunt! <challengefloran>, ^green;you should go and ssstab it^white;!",
+      "Por": "Floran ouviu falar de um <giantfloran> ^orange;<monster>^white; perto de ^orange;<spawnPoint>^white; <spawnPoint.direction>. Floran acha que isso soa como uma boa caçada! <challengefloran>, ^green;você deve ir e apunhala-lo^white;!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/13/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran is surprised at your ssskills!",
+      "Por": "Floran está surpreso com suas habilidadesss!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/13/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran is very impresssed!",
+      "Por": "Floran está muito impressionado!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/13/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran wasn't sssure you could do it!",
+      "Por": "Floran não tinha certeza de que você poderia fazer isso!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/13/1/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran won't doubt you in future... Not that Floran wasss doubting you!",
+      "Por": "Floran não duvidou que você no futuro... Não que Floran estava duvidando de você!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/failureText/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I guess I wasn't able to help <questGiver> in time. That's a shame.",
+      "Por": "Eu acho que não fui capaz de ajudar <questGiver> a tempo. Isso é uma vergonha."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/5/1/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "I had a scary encounter",
+      "Por": "Eu tive um encontro assustador"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/5/1/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I narrowly avoided a terrible fate",
+      "Por": "Eu evitei por pouco um terrível destino"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/text/default/default/1",
+        "/scriptConfig/generatedText/text/default/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I was out <exploring> near the ^orange;<spawnPoint>^white;<spawnPoint.direction> <earlier> when <disaster>! A <giant> ^orange;<monster>^white; was there and <fate>.  Can you <request>, to teach it a lesson?",
+      "Por": "Eu estava fora <exploring> perto de ^orange;<spawnPoint>^white; <spawnPoint.direction> <earlier> quando <disaster>! Um <giant> ^orange;<monster>^white; estava lá e <fate>. Você pode <request>, para ensinar-lhe uma lição?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/10/1/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you are a brave enough hunter",
+      "Por": "Se você é um caçador valente o suficiente"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/10/1/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you are a worthy hunter",
+      "Por": "Se você é um caçador digno"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/10/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you are brave enough",
+      "Por": "Se você for corajoso o suficiente"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/10/1/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you are up for the challenge",
+      "Por": "Se você está pronto para o desafio"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/10/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you think you can fight sssuch a strong beast",
+      "Por": "Se você acha que pode lutar contra uma besta tão forte"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/10/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you think you're ssstrong enough",
+      "Por": "Se você acha que você é forte o suficiente"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/12/1/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now I can sleep knowing that thing won't be around!",
+      "Por": "Agora posso dormir sabendo que aquela coisa não vai estar por aqui!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/11/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Oh, you sorted out that <giant> <monster>?",
+      "Por": "Oh, você acabou com aquele <giant> <monster>?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/title/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "The <giant> <monster>",
+      "Por": "O <giant> <monster>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/title/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "The <monster> challenge",
+      "Por": "O desafio do <monster>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "There's been <talk> about a <giant> ^orange;<monster>^white; over near the ^orange;<spawnPoint>^white;<spawnPoint.direction>. Some are saying that it <rumour1>! Can you <request>, and save us all?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/text/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "There's been <talk> about a <giant> ^orange;<monster>^white; over near the ^orange;<spawnPoint>^white;<spawnPoint.direction>. Some are saying that it <rumour1>! Can you <request>, so I can feel safe again?",
+      "Por": "Houve <talk> sobre um <giant> ^orange;<monster>^white; perto de ^orange;<spawnPoint>^white; <spawnPoint.direction>. Alguns estão dizendo que ele <rumour1>! Você pode <request>, para que eu possa sentir-se seguro novamente?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/11/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You defeated the <giant> <monster>?",
+      "Por": "Você derrotou o <giant> <monster>?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You hunted the <monster>? <floranappreciation>",
+      "Por": "Você caçou o <monster>? <floranappreciation>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/12/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You're the best monster hunter around! I hope this reward makes it worth your while!",
+      "Por": "Você é o melhor caçador de monstros ao redor! Espero que esta recompensa fez valer a pena!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/goalText/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Floran hasss a challenge for you.",
+      "Por": "^cyan;Floran tem um desafio para você."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/goalText/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Scared. There is a beast that needs defeating.",
+      "Por": "^cyan;Assustado. Há uma besta que precisa ser derrotada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/8/1/15"
+      ]
+    },
+    "Texts": {
+      "Eng": "can kill you in your dreams",
+      "Por": "pode te matar em seus sonhos"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/8/1/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "can read your thoughts",
+      "Por": "posso ler seus pensamentos"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/8/1/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "can turn inside out at will",
+      "Por": "pode se transformar de dentro para fora à vontade"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "creepy",
+      "Por": "arrepiante"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/6",
+        "/scriptConfig/generatedText/fluff/2/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "deadly",
+      "Por": "mortal"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/5/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "disaster struck",
+      "Por": "desastre aconteceu"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "ferocious",
+      "Por": "feroz"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/6/1/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "gave me a very rude look",
+      "Por": "me deu um olhar muito rude"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/9/1/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "get rid of it",
+      "Por": "se livrar dele"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/8/1/13"
+      ]
+    },
+    "Texts": {
+      "Eng": "has a preference for eating brave adventurers",
+      "Por": "tem uma preferência por comer bravos aventureiros"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/8/1/14"
+      ]
+    },
+    "Texts": {
+      "Eng": "has forgotten how to love",
+      "Por": "esqueceu como amar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/8/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "has lived for a hundred years",
+      "Por": "viveu por cem anos"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/8/1/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "has returned from the dead",
+      "Por": "voltou dos mortos"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/8/1/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "instantly knows everything embarrassing you've ever done",
+      "Por": "sabe instantaneamente tudo de embaraçoso que você já fez"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/8/1/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "is awake all the time and doesn't know how to sleep",
+      "Por": "está acordado o tempo todo e não sabe como dormir"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/8/1/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "is constantly whispering the names of those next fated to die",
+      "Por": "está constantemente sussurrando os nomes daqueles próximos destinados a morrer"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/8/1/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "is from the future",
+      "Por": "é do futuro"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/8/1/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "is super intelligent and wears reading glasses",
+      "Por": "é super inteligente e usa óculos de leitura"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/8/1/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "is the result of an experiment gone wrong",
+      "Por": "é o resultado de um experimento que deu errado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/9/1/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "kill it for me",
+      "Por": "matá-lo para mim"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "killer",
+      "Por": "assassino"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/8/1/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "knows how to do backflips",
+      "Por": "sabe como fazer cambalhotas"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/8/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "knows martial arts",
+      "Por": "sabe artes marciais"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/9/1/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "make it go away",
+      "Por": "fazer isso ir embora"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "monstrous",
+      "Por": "monstruoso"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/6/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "nearly ate me whole",
+      "Por": "quase me comeu inteiro"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/6/1/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "nearly tore me in half",
+      "Por": "quase me rasgou ao meio"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "powerful",
+      "Por": "poderoso"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/6/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "rudely screamed in my face",
+      "Por": "rudemente gritou na minha cara"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/7/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "rumours",
+      "Por": "rumores"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/9/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "slay the beast",
+      "Por": "matar a besta"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/8/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "smells fear",
+      "Por": "cheira a medo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/5/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "something terrible happened",
+      "Por": "algo terrível aconteceu"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/9/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "sort it out",
+      "Por": "resolver o problema"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/2/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "ssscary",
+      "Por": "assustador"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/2/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "ssstrong",
+      "Por": "forte"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/7/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "talk",
+      "Por": "conversar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "terrifying",
+      "Por": "aterrorizante"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/5/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "there was a close call",
+      "Por": "por um triz"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/2/1/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "tough",
+      "Por": "resistente"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/6/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "tried to eat my shoes",
+      "Por": "tentou comer os meus sapatos"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/fluff/9/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "violently deal with it",
+      "Por": "violentamente lidar com ele"
+    }
+  }
+]

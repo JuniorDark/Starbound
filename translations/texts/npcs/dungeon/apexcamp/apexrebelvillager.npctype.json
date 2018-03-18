@@ -1,0 +1,332 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/apexcamp/apexrebelvillager.npctype": [
+        "/scriptConfig/dialog/converse/apex/apex/13"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are you a fellow rebel?",
+      "Por": "Você é um colega rebelde?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/apexcamp/apexrebelvillager.npctype": [
+        "/scriptConfig/dialog/converse/apex/apex/1",
+        "/scriptConfig/dialog/converse/apex/avian/1",
+        "/scriptConfig/dialog/converse/apex/default/1",
+        "/scriptConfig/dialog/converse/apex/floran/1",
+        "/scriptConfig/dialog/converse/apex/glitch/1",
+        "/scriptConfig/dialog/converse/apex/hylotl/1",
+        "/scriptConfig/dialog/converse/apex/novakid/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are you here to support our never-ending struggle against the Miniknog?",
+      "Por": "Você está aqui para apoiar a nossa luta sem fim contra a Miniknog?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/apexcamp/apexrebelvillager.npctype": [
+        "/scriptConfig/dialog/converse/apex/apex/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are you on the run from the Miniknog? Good luck, friend.",
+      "Por": "Você está fugindo da Miniknog? Boa sorte, amigo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/apexcamp/apexrebelvillager.npctype": [
+        "/scriptConfig/dialog/converse/apex/apex/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Did you lose your family to the Miniknog too?",
+      "Por": "Você perdeu a sua família para a Miniknog também?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/apexcamp/apexrebelvillager.npctype": [
+        "/scriptConfig/dialog/converse/apex/avian/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Do you know much about the plight of the Apex, Avian?",
+      "Por": "Você sabe muito coisa sobre a situação dos Apex, Avian?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/apexcamp/apexrebelvillager.npctype": [
+        "/scriptConfig/dialog/converse/apex/floran/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Do you know much about the plight of the Apex, Floran?",
+      "Por": "Você sabe muito coisa sobre a situação dos Apex, Floran?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/apexcamp/apexrebelvillager.npctype": [
+        "/scriptConfig/dialog/converse/apex/glitch/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Do you know much about the plight of the Apex, Glitch?",
+      "Por": "Você sabe muito coisa sobre a situação dos Apex, Glitch?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/apexcamp/apexrebelvillager.npctype": [
+        "/scriptConfig/dialog/converse/apex/hylotl/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Do you know much about the plight of the Apex, Hylotl?",
+      "Por": "Você sabe muito coisa sobre a situação dos Apex, Hylotl?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/apexcamp/apexrebelvillager.npctype": [
+        "/scriptConfig/dialog/converse/apex/default/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Do you know much about the plight of the Apex, human?",
+      "Por": "Você sabe muito coisa sobre a situação dos Apex, Humano?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/apexcamp/apexrebelvillager.npctype": [
+        "/scriptConfig/dialog/converse/apex/novakid/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Do you know much about the plight of the Apex? ...What kind of creature are you, anyway?",
+      "Por": "Você sabe muita coisa sobre a situação dos Apex? ...Que tipo de criatura é você, afinal?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/apexcamp/apexrebelvillager.npctype": [
+        "/scriptConfig/dialog/converse/apex/avian/13",
+        "/scriptConfig/dialog/converse/apex/default/13",
+        "/scriptConfig/dialog/converse/apex/floran/13",
+        "/scriptConfig/dialog/converse/apex/glitch/13",
+        "/scriptConfig/dialog/converse/apex/hylotl/13",
+        "/scriptConfig/dialog/converse/apex/novakid/13"
+      ]
+    },
+    "Texts": {
+      "Eng": "Does your kind have a callous dictator too?",
+      "Por": "Será que o seu tipo têm um ditador cruel também?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/apexcamp/apexrebelvillager.npctype": [
+        "/scriptConfig/dialog/converse/apex/apex/11",
+        "/scriptConfig/dialog/converse/apex/avian/11",
+        "/scriptConfig/dialog/converse/apex/default/11",
+        "/scriptConfig/dialog/converse/apex/floran/11",
+        "/scriptConfig/dialog/converse/apex/glitch/11",
+        "/scriptConfig/dialog/converse/apex/hylotl/11",
+        "/scriptConfig/dialog/converse/apex/novakid/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't interrupt me, I am busy trying to overthrow an evil regime.",
+      "Por": "Não me interrompa, estou ocupado tentando derrubar um regime malvado."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "O quanto você sabe sobre a Miniknog? Eles governam o povo Apex , mas eles são cruéis e brutais."
+    ],
+    "Files": {
+      "npcs/dungeon/apexcamp/apexrebelvillager.npctype": [
+        "/scriptConfig/dialog/converse/apex/avian/9",
+        "/scriptConfig/dialog/converse/apex/default/9",
+        "/scriptConfig/dialog/converse/apex/floran/9",
+        "/scriptConfig/dialog/converse/apex/glitch/9",
+        "/scriptConfig/dialog/converse/apex/hylotl/9",
+        "/scriptConfig/dialog/converse/apex/novakid/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "How much do you know about the Miniknog? They rule the Apex people, but they are cruel and brutal.",
+      "Por": "Quanto você sabe sobre a Miniknog? Eles governam o povo Apex , mas eles são cruéis e brutais."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/apexcamp/apexrebelvillager.npctype": [
+        "/scriptConfig/dialog/converse/apex/apex/7",
+        "/scriptConfig/dialog/converse/apex/avian/7",
+        "/scriptConfig/dialog/converse/apex/default/7",
+        "/scriptConfig/dialog/converse/apex/floran/7",
+        "/scriptConfig/dialog/converse/apex/glitch/7",
+        "/scriptConfig/dialog/converse/apex/hylotl/7",
+        "/scriptConfig/dialog/converse/apex/novakid/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "I bet Big Ape isn't even that big.",
+      "Por": "Aposto que Big Ape não é tão grande assim."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/apexcamp/apexrebelvillager.npctype": [
+        "/scriptConfig/dialog/converse/apex/apex/6",
+        "/scriptConfig/dialog/converse/apex/avian/6",
+        "/scriptConfig/dialog/converse/apex/default/6",
+        "/scriptConfig/dialog/converse/apex/floran/6",
+        "/scriptConfig/dialog/converse/apex/glitch/6",
+        "/scriptConfig/dialog/converse/apex/hylotl/6",
+        "/scriptConfig/dialog/converse/apex/novakid/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wonder what Big Ape looks like in person.",
+      "Por": "Eu me pergunto como Big Ape se parece em pessoa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/apexcamp/apexrebelvillager.npctype": [
+        "/scriptConfig/dialog/converse/apex/apex/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "If we fight hard enough, our kind will one day be free of oppression.",
+      "Por": "Se lutarmos duro o suficiente, nossa espécie um dia estara livre de opressão."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/apexcamp/apexrebelvillager.npctype": [
+        "/scriptConfig/dialog/converse/apex/apex/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Miniknog will pay for what they have done to our kind!",
+      "Por": "A Miniknog vai pagar por aquilo que eles têm feito para nossa espécie!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/apexcamp/apexrebelvillager.npctype": [
+        "/scriptConfig/dialog/converse/apex/apex/12",
+        "/scriptConfig/dialog/converse/apex/avian/12",
+        "/scriptConfig/dialog/converse/apex/default/12",
+        "/scriptConfig/dialog/converse/apex/floran/12",
+        "/scriptConfig/dialog/converse/apex/glitch/12",
+        "/scriptConfig/dialog/converse/apex/hylotl/12",
+        "/scriptConfig/dialog/converse/apex/novakid/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "Try not to cause too much of a disturbance around here, okay?",
+      "Por": "Tente não causar muita bagunça por aqui, ok?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/apexcamp/apexrebelvillager.npctype": [
+        "/scriptConfig/dialog/converse/apex/avian/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "We fight for the freedom of our people. What do you fight for, Avian?",
+      "Por": "Nós Lutamos pela liberdade de nosso povo. Pelo que você luta, Avian?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/apexcamp/apexrebelvillager.npctype": [
+        "/scriptConfig/dialog/converse/apex/floran/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "We fight for the freedom of our people. What do you fight for, Floran?",
+      "Por": "Nós lutamos pela liberdade de nosso povo. Pelo que você luta, Floran?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/apexcamp/apexrebelvillager.npctype": [
+        "/scriptConfig/dialog/converse/apex/glitch/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "We fight for the freedom of our people. What do you fight for, Glitch?",
+      "Por": "Nós lutamos pela liberdade de nosso povo. Pelo que você luta, Glitch?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/apexcamp/apexrebelvillager.npctype": [
+        "/scriptConfig/dialog/converse/apex/hylotl/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "We fight for the freedom of our people. What do you fight for, Hylotl?",
+      "Por": "Nós lutamos pela liberdade de nosso povo. Pelo que você luta, Hylotl?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/apexcamp/apexrebelvillager.npctype": [
+        "/scriptConfig/dialog/converse/apex/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "We fight for the freedom of our people. What do you fight for, human?",
+      "Por": "Nós lutamos pela liberdade de nosso povo. Pelo que você luta, humano?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/apexcamp/apexrebelvillager.npctype": [
+        "/scriptConfig/dialog/converse/apex/novakid/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "We fight for the freedom of our people. What do you fight for, my strange glowing friend?",
+      "Por": "Nós lutamos pela liberdade de nosso povo. Pelo que você luta, meu estranho amigo brilhante?"
+    }
+  }
+]

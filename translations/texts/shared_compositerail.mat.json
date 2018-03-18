@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/compositerail.matitem": [
+        "/description"
+      ],
+      "tiles/rails/compositerail.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strong reinforced rail.",
+      "Por": "Um forte trilho reforçado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/compositerail.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/rails/compositerail.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Composite Rail",
+      "Por": "Composite Rail"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/compositerail.matitem": [
+        "/florandescription"
+      ],
+      "tiles/rails/compositerail.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shiny metal rails.",
+      "Por": "Trilhos de metal brilhante."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/compositerail.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/rails/compositerail.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some sturdy lookin' rails, gettin' the itch to ride 'em.",
+      "Por": "Alguns trilhos que parecem resistentes, pedindo para serem montados."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/compositerail.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/rails/compositerail.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The material this rail is made from makes it very strong."
+    }
+  }
+]

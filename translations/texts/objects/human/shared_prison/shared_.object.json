@@ -1,0 +1,266 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisonfence1/prisonfence1.object": [
+        "/avianDescription"
+      ],
+      "objects/human/prisonfence2/prisonfence2.object": [
+        "/avianDescription"
+      ],
+      "objects/human/prisonpipefence/prisonpipefence.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fence. Cruel mockery for the grounded.",
+      "Por": "Uma cerca. Chacota cruel para os grounded."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisonbars/prisonbars.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/human/prisondoor/prisondoor.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A remarkably strong set of bars."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisonbars/prisonbars.object": [
+        "/humanDescription"
+      ],
+      "objects/human/prisondoor/prisondoor.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bars. No matter which side we're on, aren't we always behind them? And now I have a headache.",
+      "Por": "Barras. Não importa de que lado estejamos, não estamos sempre atrás delas? E agora estou com dor de cabeça."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisonbars/prisonbars.object": [
+        "/hylotlDescription"
+      ],
+      "objects/human/prisondoor/prisondoor.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Even in a cage, a mind can travel freely.",
+      "Por": "Mesmo numa jaula, uma mente pode viajar livremente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisonfence1/prisonfence1.object": [
+        "/floranDescription"
+      ],
+      "objects/human/prisonfence2/prisonfence2.object": [
+        "/floranDescription"
+      ],
+      "objects/human/prisonpipefence/prisonpipefence.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran is sssure Floran could jump this fence! But Floran won't try.",
+      "Por": "Floran tem certeza de que Floran poderia pular essa cerca! Mas Floran não tentará."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisonarch/prisonarch.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/human/prisoncorner/prisoncorner.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Human and Glitch architecture seem to share certain similarities."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisonarch/prisonarch.object": [
+        "/apexDescription"
+      ],
+      "objects/human/prisoncorner/prisoncorner.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Humans at least have pleasant architecture to look at.",
+      "Por": "Humanos pelo menos têm arquitetura agradável para olhar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisonarch/prisonarch.object": [
+        "/avianDescription"
+      ],
+      "objects/human/prisoncorner/prisoncorner.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can't decide if this is pretty or foreboding.",
+      "Por": "Não consigo decidir se isso é bonito ou sinistro."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisonfence1/prisonfence1.object": [
+        "/hylotlDescription"
+      ],
+      "objects/human/prisonfence2/prisonfence2.object": [
+        "/hylotlDescription"
+      ],
+      "objects/human/prisonpipefence/prisonpipefence.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "If this fence was under the ocean, I could just swim over it. Then again, why would it be?",
+      "Por": "Se esta cerca estivesse debaixo do oceano, eu poderia simplesmente nadar sobre ele. Então, novamente, pra que?"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Bonito ou aterrorizante?"
+    ],
+    "Files": {
+      "objects/human/prisonarch/prisonarch.object": [
+        "/hylotlDescription"
+      ],
+      "objects/human/prisoncorner/prisoncorner.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It is simple but there is something to be admired in the crafting.",
+      "Por": "É simples, mas há algo a ser admirado na elaboração."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisonarch/prisonarch.object": [
+        "/novakidDescription"
+      ],
+      "objects/human/prisoncorner/prisoncorner.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pretty or terrifying?",
+      "Por": "Bonito ou aterrorizante?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisonarch/prisonarch.object": [
+        "/floranDescription"
+      ],
+      "objects/human/prisoncorner/prisoncorner.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssspiky architecture.",
+      "Por": "Arquitetura essspetado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisonbars/prisonbars.object": [
+        "/floranDescription"
+      ],
+      "objects/human/prisondoor/prisondoor.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sssturdy bars.",
+      "Por": "Barras resistentes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisonbars/prisonbars.object": [
+        "/apexDescription"
+      ],
+      "objects/human/prisondoor/prisondoor.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Strong metal bars. Somehow, they're quite pretty.",
+      "Por": "Barras de metal fortes. De alguma forma, são bastante bonitas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisonbars/prisonbars.object": [
+        "/avianDescription"
+      ],
+      "objects/human/prisondoor/prisondoor.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These bars look pretty sturdy.",
+      "Por": "Estes barras parecem muito resistentes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisonarch/prisonarch.object": [
+        "/humanDescription"
+      ],
+      "objects/human/prisoncorner/prisoncorner.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This would go great with my spooky interior decorating skills.",
+      "Por": "Isso seria ótimo com minhas habilidades de decoração de interiores assustadoras."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisonbars/prisonbars.object": [
+        "/novakidDescription"
+      ],
+      "objects/human/prisondoor/prisondoor.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "You'd need some good tools to break outta here.",
+      "Por": "Você precisaria de algumas boas ferramentas para sair daqui."
+    }
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/copperplatform.matitem": [
+        "/description"
+      ],
+      "tiles/platforms/copperplatform.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A platform made from copper.",
+      "Por": "Uma plataforma feita de cobre."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/copperplatform.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/copperplatform.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Copper Platform",
+      "Por": "Copper Platform"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/copperplatform.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/platforms/copperplatform.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I reckon it must've been tough makin' this platform with copper.",
+      "Por": "Acho que deve ter sido difícil fazer esta plataforma com cobre."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/copperplatform.matitem": [
+        "/florandescription"
+      ],
+      "tiles/platforms/copperplatform.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Platformss made from copper.",
+      "Por": "Plataformass feita de cobre."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/copperplatform.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/platforms/copperplatform.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This platform appears to be made from copper."
+    }
+  }
+]

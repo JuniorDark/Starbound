@@ -1,0 +1,106 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Alguns desses tijolos estão mal colocados.",
+      "Alguns destes tijolos estão mal colocados."
+    ],
+    "Files": {
+      "objects/ancient/ancienthiddenplatform/ancienthiddenplatform.object": [
+        "/apexDescription"
+      ],
+      "objects/avian/templehiddendoor/templehiddendoor.object": [
+        "/apexDescription"
+      ],
+      "objects/avian/templehiddentrapdoor/templehiddentrapdoor.object": [
+        "/apexDescription"
+      ],
+      "objects/glitch/castlehiddendoor/castlehiddendoor.object": [
+        "/apexDescription"
+      ],
+      "objects/glitch/castlehiddentrapdoor/castlehiddentrapdoor.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some of these bricks are misplaced.",
+      "Por": "Alguns destes tijolos estão fora de lugar."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Algo sobre a forma como esses tijolos são criados é estranha.",
+      "Algo sobre a forma como estes tijolos são criados é estranho."
+    ],
+    "Files": {
+      "objects/ancient/ancienthiddenplatform/ancienthiddenplatform.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avian/templehiddendoor/templehiddendoor.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avian/templehiddentrapdoor/templehiddentrapdoor.object": [
+        "/hylotlDescription"
+      ],
+      "objects/glitch/castlehiddendoor/castlehiddendoor.object": [
+        "/hylotlDescription"
+      ],
+      "objects/glitch/castlehiddentrapdoor/castlehiddentrapdoor.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Something about the way these bricks are crafted is odd.",
+      "Por": "Algo sobre a forma como esses tijolos foram criados é estranho."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Algo não está certo com esses tijolos."
+    ],
+    "Files": {
+      "objects/ancient/ancienthiddenplatform/ancienthiddenplatform.object": [
+        "/description"
+      ],
+      "objects/avian/templehiddendoor/templehiddendoor.object": [
+        "/description"
+      ],
+      "objects/avian/templehiddentrapdoor/templehiddentrapdoor.object": [
+        "/description"
+      ],
+      "objects/glitch/castlehiddendoor/castlehiddendoor.object": [
+        "/description"
+      ],
+      "objects/glitch/castlehiddentrapdoor/castlehiddentrapdoor.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Something isn't quite right with these bricks.",
+      "Por": "Algo não está certo com estes tijolos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/ancienthiddenplatform/ancienthiddenplatform.object": [
+        "/avianDescription"
+      ],
+      "objects/avian/templehiddendoor/templehiddendoor.object": [
+        "/avianDescription"
+      ],
+      "objects/avian/templehiddentrapdoor/templehiddentrapdoor.object": [
+        "/avianDescription"
+      ],
+      "objects/glitch/castlehiddendoor/castlehiddendoor.object": [
+        "/avianDescription"
+      ],
+      "objects/glitch/castlehiddentrapdoor/castlehiddentrapdoor.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These bricks don't look real.",
+      "Por": "Esses tijolos não parecem reais."
+    }
+  }
+]

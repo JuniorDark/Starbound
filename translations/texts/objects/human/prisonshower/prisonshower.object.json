@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisonshower/prisonshower.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A shower. Perfect for a clean getaway. If the water was actually clean.",
+      "Por": "Um chuveiro. Perfeito para uma fuga limpa. Se a água estivesse realmente limpa"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisonshower/prisonshower.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rusty Shower",
+      "Por": "Rusty Shower"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisonshower/prisonshower.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shower ssspits rusty water.",
+      "Por": "Chuveiro pinga água enferrujada."
+    }
+  }
+]

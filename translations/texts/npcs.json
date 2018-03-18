@@ -1,0 +1,738 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/novakidvillage/prisonoutlaw.npctype": [
+        "/scriptConfig/dialog/attack/human/default/3"
+      ],
+      "npcs/threats/outlawbandit.npctype": [
+        "/scriptConfig/dialog/attack/human/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are you here to challenge me? Do you even know who I am?!",
+      "Por": "Você está aqui para me desafiar? Você nem sabe quem eu sou?!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Debaixo deste traje amarelo, meu coração bate pelo amor da descoberta!"
+    ],
+    "Files": {
+      "npcs/biome/hazmatscientist.npctype": [
+        "/scriptConfig/dialog/converse/default/default/14"
+      ],
+      "npcs/outpost/visitors/hazmatvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Beneath this yellow suit, my heart beats for the love of discovery!",
+      "Por": "Debaixo desta roupa amarela, meu coração bate pelo amor da descoberta!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/evilfortress/evilknight.npctype": [
+        "/scriptConfig/dialog/attack/glitch/default/2/glitchEmotedText"
+      ],
+      "npcs/dungeon/evilfortress/executioner.npctype": [
+        "/scriptConfig/dialog/attack/glitch/default/1/glitchEmotedText"
+      ],
+      "npcs/threats/glitchthief.npctype": [
+        "/scriptConfig/dialog/attack/glitch/default/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Did you just look at me funny?"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "A Terra está perdida, e muito arte bela com ela!"
+    ],
+    "Files": {
+      "npcs/outpost/visitors/socialitevisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ],
+      "npcs/tenants/socialite.npctype": [
+        "/scriptConfig/dialog/converse/human/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Earth is lost, and so much fine art with it!",
+      "Por": "A Terra está perdida, e muita arte bela com ela!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Ar fresco e liberdade, Esta é a vida para mim!"
+    ],
+    "Files": {
+      "npcs/outpost/visitors/piratevisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/2"
+      ],
+      "npcs/tenants/avianairship.npctype": [
+        "/scriptConfig/dialog/converse/avian/avian/3",
+        "/scriptConfig/dialog/converse/avian/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fresh air and freedom, that's the life for me!",
+      "Por": "Ar fresco e liberdade, essa é a vida para mim!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/default/default/0"
+      ],
+      "npcs/follower.npctype": [
+        "/scriptConfig/dialog/follower/join/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hello adventurer, mind if I join you?",
+      "Por": "Olá aventureiro, se importa se eu acompanhá-lo?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/socialitevisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/2"
+      ],
+      "npcs/tenants/socialite.npctype": [
+        "/scriptConfig/dialog/converse/human/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I am the finest dressed individual at any establishment I visit!",
+      "Por": "Eu sou o indivíduo mas bem vestido em qualquer estabelecimento que visito!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Entrei para um equipe de dirigível quando parei de acreditar em Kluex. Boms tempos dirigindo o vento.",
+      "Entrei para um equipe de dirigível quando parei de acreditar em Kluex. Bons tempos dirigindo o vento.",
+      "Entrei para uma tripulação de um dirigível quando eu parei de acreditar em Kluex. Dias felizes montando o vento"
+    ],
+    "Files": {
+      "npcs/outpost/visitors/piratevisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/1"
+      ],
+      "npcs/tenants/avianairship.npctype": [
+        "/scriptConfig/dialog/converse/avian/avian/2",
+        "/scriptConfig/dialog/converse/avian/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I joined an airship crew when I stopped believing in Kluex. Happy days riding the wind.",
+      "Por": "\"Entrei para a tripulação de um dirigível quando parei de acreditar em Kluex. Boms tempos dirigindo o vento."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/furniture/retroscifi.npctype": [
+        "/scriptConfig/dialog/converse/default/default/8"
+      ],
+      "npcs/outpost/visitors/spacepioneer.npctype": [
+        "/scriptConfig/dialog/converse/default/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "I like to think of myself as a space pioneer. Not that I do much pioneering...",
+      "Por": "Eu gosto de pensar em mim como um pioneiro espacial. Não que eu faça muito pioneirismo..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/default/default/0"
+      ],
+      "npcs/follower.npctype": [
+        "/scriptConfig/dialog/follower/wait/default/default/0"
+      ],
+      "npcs/mission/survivor.npctype": [
+        "/scriptConfig/dialog/follower/wait/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll just wait here.",
+      "Por": "Vou esperar aqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/furniture/retroscifi.npctype": [
+        "/scriptConfig/dialog/converse/default/default/6"
+      ],
+      "npcs/outpost/visitors/spacepioneer.npctype": [
+        "/scriptConfig/dialog/converse/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm a pioneer, of the space travel kind. I'm exploring new, exciting worlds.",
+      "Por": "Eu sou um pioneiro, do tipo viagem ao espaço. Estou explorando palavras novas e emocionantes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/furniture/retroscifi.npctype": [
+        "/scriptConfig/dialog/converse/default/default/5"
+      ],
+      "npcs/outpost/visitors/spacepioneer.npctype": [
+        "/scriptConfig/dialog/converse/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm searching for a suitable replacement for Earth. I haven't found anywhere ideal, yet!",
+      "Por": "Estou à procura de um substituto adequado para a Terra. Eu não encontrei qualquer lugar ideal, ainda!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/humanprison/prisonberserker.npctype": [
+        "/scriptConfig/dialog/attack/default/default/0"
+      ],
+      "npcs/dungeon/humanprison/prisonbruiser.npctype": [
+        "/scriptConfig/dialog/attack/default/default/0"
+      ],
+      "npcs/mission/florangladiator.npctype": [
+        "/scriptConfig/dialog/attack/default/default/0"
+      ],
+      "npcs/mission/floranpredator.npctype": [
+        "/scriptConfig/dialog/attack/default/default/0"
+      ],
+      "npcs/threats/florancannibal.npctype": [
+        "/scriptConfig/dialog/attack/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intruder!",
+      "Por": "Intruso!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/maggotmanvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ],
+      "npcs/subbiometenants/hive.npctype": [
+        "/scriptConfig/dialog/converse/human/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Maggot Man says: A bush in each hand is worth two birds.",
+      "Por": "Homem Larva diz: Um arbusto em cada mão vale dois pássaros."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/maggotmanvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/13"
+      ],
+      "npcs/subbiometenants/hive.npctype": [
+        "/scriptConfig/dialog/converse/human/default/13"
+      ]
+    },
+    "Texts": {
+      "Eng": "Maggot Man says: Blood is like thick water.",
+      "Por": "Homem Larva diz: O sangue é como água espessa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/maggotmanvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/16"
+      ],
+      "npcs/subbiometenants/hive.npctype": [
+        "/scriptConfig/dialog/converse/human/default/16"
+      ]
+    },
+    "Texts": {
+      "Eng": "Maggot Man says: Dead men have no tails.",
+      "Por": "Homem Larva diz: Homens mortos não têm caudas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/maggotmanvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/15"
+      ],
+      "npcs/subbiometenants/hive.npctype": [
+        "/scriptConfig/dialog/converse/human/default/15"
+      ]
+    },
+    "Texts": {
+      "Eng": "Maggot Man says: Dogs every day.",
+      "Por": "Homem Larva diz: Cães todos os dias."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/maggotmanvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/11"
+      ],
+      "npcs/subbiometenants/hive.npctype": [
+        "/scriptConfig/dialog/converse/human/default/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "Maggot Man says: Don't put a gift in a horse's mouth.",
+      "Por": "Homem Larva diz: Não coloque um presente na boca de um cavalo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/maggotmanvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/18"
+      ],
+      "npcs/subbiometenants/hive.npctype": [
+        "/scriptConfig/dialog/converse/human/default/18"
+      ]
+    },
+    "Texts": {
+      "Eng": "Maggot Man says: Don't try to walk and talk if you can't.",
+      "Por": "Homem Larva diz: Não tente andar e falar, se você não pode."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/maggotmanvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/9"
+      ],
+      "npcs/subbiometenants/hive.npctype": [
+        "/scriptConfig/dialog/converse/human/default/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "Maggot Man says: Feed hands to those who bite you.",
+      "Por": "Homem Larva diz: Alimente mãos para aqueles que te mordem."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/maggotmanvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/21"
+      ],
+      "npcs/subbiometenants/hive.npctype": [
+        "/scriptConfig/dialog/converse/human/default/21"
+      ]
+    },
+    "Texts": {
+      "Eng": "Maggot Man says: I have a thousand pictures of words.",
+      "Por": "Homem Larva diz: Eu tenho milhares de fotos de palavras."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/maggotmanvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/14"
+      ],
+      "npcs/subbiometenants/hive.npctype": [
+        "/scriptConfig/dialog/converse/human/default/14"
+      ]
+    },
+    "Texts": {
+      "Eng": "Maggot Man says: I haven't seen or heard any children.",
+      "Por": "Homem Larva diz: Eu não tenho visto ou ouvido qualquer criança."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/maggotmanvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/3"
+      ],
+      "npcs/subbiometenants/hive.npctype": [
+        "/scriptConfig/dialog/converse/human/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Maggot Man says: It's really hard to cry spilt milk.",
+      "Por": "Homem Larva diz: É realmente difícil chorar pelo leite derramado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/maggotmanvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/24"
+      ],
+      "npcs/subbiometenants/hive.npctype": [
+        "/scriptConfig/dialog/converse/human/default/24"
+      ]
+    },
+    "Texts": {
+      "Eng": "Maggot Man says: Keep finding weeping losers.",
+      "Por": "Homem Larva diz: Continue encontrando perdedores chorando."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/maggotmanvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/4"
+      ],
+      "npcs/subbiometenants/hive.npctype": [
+        "/scriptConfig/dialog/converse/human/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Maggot Man says: Mighty swords are not good pens.",
+      "Por": "Homem Larva diz: Espadas poderosas não são boas canetas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/maggotmanvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/25"
+      ],
+      "npcs/subbiometenants/hive.npctype": [
+        "/scriptConfig/dialog/converse/human/default/25"
+      ]
+    },
+    "Texts": {
+      "Eng": "Maggot Man says: My thoughts are all pennies.",
+      "Por": "Homem Larva diz: Meus pensamentos são todos tostões."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/maggotmanvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/10"
+      ],
+      "npcs/subbiometenants/hive.npctype": [
+        "/scriptConfig/dialog/converse/human/default/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "Maggot Man says: Never cover a Judge with books.",
+      "Por": "Homem Larva diz: Nunca cubra um juiz com livros."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/maggotmanvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/7"
+      ],
+      "npcs/subbiometenants/hive.npctype": [
+        "/scriptConfig/dialog/converse/human/default/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Maggot Man says: Never watch boiling pots.",
+      "Por": "Homem Larva diz: Nunca assista potes ferver."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/maggotmanvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/5"
+      ],
+      "npcs/subbiometenants/hive.npctype": [
+        "/scriptConfig/dialog/converse/human/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Maggot Man says: Norman is an island.",
+      "Por": "Homem Larva diz: Norman é uma ilha."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/maggotmanvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/6"
+      ],
+      "npcs/subbiometenants/hive.npctype": [
+        "/scriptConfig/dialog/converse/human/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Maggot Man says: People who have stones should not throw glass houses.",
+      "Por": "Homem Larva diz: Pessoas que têm pedras não devem jogar casas de vidro."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Homem Larva diz: Serva todos os seus pratos frios, como vingança."
+    ],
+    "Files": {
+      "npcs/outpost/visitors/maggotmanvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/19"
+      ],
+      "npcs/subbiometenants/hive.npctype": [
+        "/scriptConfig/dialog/converse/human/default/19"
+      ]
+    },
+    "Texts": {
+      "Eng": "Maggot Man says: Serve all your dishes cold, as revenge.",
+      "Por": "Homem Larva diz: Sirva todos os seus pratos frios, como vingança."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/maggotmanvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/22"
+      ],
+      "npcs/subbiometenants/hive.npctype": [
+        "/scriptConfig/dialog/converse/human/default/22"
+      ]
+    },
+    "Texts": {
+      "Eng": "Maggot Man says: Sleeping dogs are liars.",
+      "Por": "Homem Larva diz: Sleeping Dogs são mentirosos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/maggotmanvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/1"
+      ],
+      "npcs/subbiometenants/hive.npctype": [
+        "/scriptConfig/dialog/converse/human/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Maggot Man says: Teach a fish to eat, and he'll man for a lifetime.",
+      "Por": "Homem Larva diz: Ensine um peixe a comer, e ele sera homem pelo resto da vida."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/maggotmanvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/12"
+      ],
+      "npcs/subbiometenants/hive.npctype": [
+        "/scriptConfig/dialog/converse/human/default/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "Maggot Man says: Thieves are thick.",
+      "Por": "Homem Larva diz: Ladrões são grossos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/maggotmanvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/17"
+      ],
+      "npcs/subbiometenants/hive.npctype": [
+        "/scriptConfig/dialog/converse/human/default/17"
+      ]
+    },
+    "Texts": {
+      "Eng": "Maggot Man says: Today my clock broke twice.",
+      "Por": "Homem Larva diz: Hoje o meu relógio quebrou duas vezes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/maggotmanvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/2"
+      ],
+      "npcs/subbiometenants/hive.npctype": [
+        "/scriptConfig/dialog/converse/human/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Maggot Man says: Two wrongs almost make a left.",
+      "Por": "Homem Larva diz: Dois erros quase fizeram uma esquerda."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/maggotmanvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/26"
+      ],
+      "npcs/subbiometenants/hive.npctype": [
+        "/scriptConfig/dialog/converse/human/default/26"
+      ]
+    },
+    "Texts": {
+      "Eng": "Maggot Man says: When is Rome?",
+      "Por": "Homem Larva diz: Quando é Roma?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/maggotmanvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/23"
+      ],
+      "npcs/subbiometenants/hive.npctype": [
+        "/scriptConfig/dialog/converse/human/default/23"
+      ]
+    },
+    "Texts": {
+      "Eng": "Maggot Man says: You are what you see when you get.",
+      "Por": "Homem Larva diz: Você é o que você vê quando você chegar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/maggotmanvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/8"
+      ],
+      "npcs/subbiometenants/hive.npctype": [
+        "/scriptConfig/dialog/converse/human/default/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Maggot Man says: You can make two broths with many cooks.",
+      "Por": "Homem Larva diz: Você pode fazer dois caldos com muitos cozimentos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/maggotmanvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/20"
+      ],
+      "npcs/subbiometenants/hive.npctype": [
+        "/scriptConfig/dialog/converse/human/default/20"
+      ]
+    },
+    "Texts": {
+      "Eng": "Maggot Man says: Your cat has more than one skin.",
+      "Por": "Homem Larva diz: Seu gato tem mais de uma pele."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/furniture/retroscifi.npctype": [
+        "/scriptConfig/dialog/converse/default/default/1"
+      ],
+      "npcs/outpost/visitors/spacepioneer.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Space travel is meant to be about optimism! Remember that.",
+      "Por": "Viagens espaciais destina-se a ser sobre otimismo! Lembre-se disso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/furniture/retroscifi.npctype": [
+        "/scriptConfig/dialog/converse/default/default/2"
+      ],
+      "npcs/outpost/visitors/spacepioneer.npctype": [
+        "/scriptConfig/dialog/converse/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "To explore the unknowns of space is pretty important to a pioneer like me.",
+      "Por": "Explorar as incógnitas de espaço é muito importante para um pioneiro como eu."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Yo-ho-ho, é a vida de castigado pra mim!",
+      "Yo-ho-ho, é a vida no chão pra mim!"
+    ],
+    "Files": {
+      "npcs/outpost/visitors/piratevisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ],
+      "npcs/tenants/avianairship.npctype": [
+        "/scriptConfig/dialog/converse/avian/avian/1",
+        "/scriptConfig/dialog/converse/avian/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Yo-ho-ho, it's the Grounded life for me!",
+      "Por": "Yo-ho-ho, é a vida de Grounded pra mim!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/evilfortress/evilknight.npctype": [
+        "/scriptConfig/dialog/attack/glitch/default/0/glitchEmotedText"
+      ],
+      "npcs/threats/glitchthief.npctype": [
+        "/scriptConfig/dialog/attack/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "You do not want to mess with us!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/novakidvillage/prisonoutlaw.npctype": [
+        "/scriptConfig/dialog/attack/human/default/1"
+      ],
+      "npcs/threats/outlawbandit.npctype": [
+        "/scriptConfig/dialog/attack/human/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "You may have fought bandits before, but you haven't fought ME!",
+      "Por": "Você pode ter lutado com bandidos antes, mas você não lutou COMIGO!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/novakidvillage/prisonoutlaw.npctype": [
+        "/scriptConfig/dialog/attack/human/default/2"
+      ],
+      "npcs/threats/outlawbandit.npctype": [
+        "/scriptConfig/dialog/attack/human/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "You're gonna leave here full of holes!",
+      "Por": "Você vai sair daqui cheio de buracos!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/novakidvillage/prisonoutlaw.npctype": [
+        "/scriptConfig/dialog/attack/human/default/0"
+      ],
+      "npcs/threats/outlawbandit.npctype": [
+        "/scriptConfig/dialog/attack/human/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You've never faced a bandit like me!",
+      "Por": "Você nunca enfrentou um bandido como eu!"
+    }
+  }
+]

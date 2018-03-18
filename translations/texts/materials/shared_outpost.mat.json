@@ -1,0 +1,78 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/outpost.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/outpost.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hard metal outposst wall.",
+      "Por": "Parede de metal dura de possto avançado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/outpost.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/outpost.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have seen this material used in space outposts before."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/outpost.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/outpost.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Outpost Wall",
+      "Por": "Outpost Wall"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/outpost.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/outpost.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some kinda outpost wall.",
+      "Por": "Algum tipo de parede de posto avançado."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Material de parede comumente usado em postos espaciais."
+    ],
+    "Files": {
+      "items/materials/outpost.matitem": [
+        "/description"
+      ],
+      "tiles/materials/outpost.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wall material commonly used in space outposts.",
+      "Por": "Material de parede comumente usado em postos avançados espaciais."
+    }
+  }
+]

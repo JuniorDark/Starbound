@@ -1,0 +1,285 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/hat.questtemplate": [
+        "/scriptConfig/generatedText/title/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "<questGiver> wants to look <adjective>",
+      "Por": "<questGiver> quer parecer <adjective>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/hat.questtemplate": [
+        "/scriptConfig/generatedText/title/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "<questGiver>'s new headwear",
+      "Por": "Nova chapelaria de <questGiver>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/hat.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "All you have to do now is ask ^orange;<friend>^white; to make my new ^orange;headwear.^white; Could you ^green;deliver the ^orange;<clothingIngredients>^green; to <friend.pronoun.object>?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/hat.questtemplate": [
+        "/scriptConfig/generatedText/text/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Finally, Floran needs you to ^green;deliver ^orange;<clothingIngredients>^green; to ^orange;<friend>^white; ssso <friend.pronoun.subject> can make Floran's ^orange;headwear.^white; Hurry!",
+      "Por": "Finalmente, Floran precisa de você para ^green;entregar ^orange;<clothingIngredients>^green; para ^orange;<friend>^white; então <friend.pronoun.subject> pode fazer a ^orange;chapelaria^white; de Floran. Rapido!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/hat.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Finally, can you ^green;deliver the ^orange;<clothingIngredients>^green; to ^orange;<friend>^white;, so <friend.pronoun.subject> can craft me my ^orange;headwear?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/hat.questtemplate": [
+        "/scriptConfig/generatedText/text/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Finally, run over and have ^orange;<friend>^white; assemble us some custom ^orange;headwear.^white; Just ^green;mention my name, and give <friend.pronoun.object> our ^orange;<clothingIngredients>^white;.",
+      "Por": "Finalmente, corra e faça ^orange;<friend>^white; montam-nos uma ^orange;chapelaria^white; personalizada. Apenas ^green;mencione meu nome, e de <friend.pronoun.object> nosso ^orange;<clothingIngredients>^white;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/hat.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran looks <adjective> now! This will help Floran make friends. Thanksss for your help!",
+      "Por": "Floran parece <adjective> agora! Isso vai ajudar Floran fazer amigosss. Obrigado pela ajuda!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/hat.questtemplate": [
+        "/scriptConfig/generatedText/text/default/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran so close to sssuccess! Floran needs you to ^green;take the ^orange;<clothingIngredients>^green; to ^orange;<friend>^white; so <friend.pronoun.subject> can make Floran's ^orange;headwear.",
+      "Por": "Floran tão perto do sssucesso! Floran precisa de você para ^green;levar o ^orange;<clothingIngredients>^green; para ^orange;<friend>^white; então <friend.pronoun.subject> pode fazer a ^orange;chapelaria^white; de Floran"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/hat.questtemplate": [
+        "/scriptConfig/generatedText/title/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Help <questGiver> look <adjective>",
+      "Por": "Ajude <questGiver> parecer <adjective>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/hat.questtemplate": [
+        "/scriptConfig/generatedText/failureText/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I didn't help <questGiver> find something <adjective> to wear. I prefer <questGiver.pronoun.possessiveDet> look as it is.",
+      "Por": "Eu não ajudei <questGiver> encontrar algo <adjective> para vestir. Eu prefiro <questGiver.pronoun.possessiveDet> como esta."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/hat.questtemplate": [
+        "/scriptConfig/generatedText/failureText/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I was unable to help <questGiver> get something new to wear. <questGiver.pronoun.capitalSubject> looks fine as <questGiver.pronoun.subject> is anyway.",
+      "Por": "Eu fui incapaz de ajudar <questGiver> obter algo novo para vestir. <questGiver.pronoun.capitalSubject> parece bem como <questGiver.pronoun.subject> esta de qualquer maneira."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/hat.questtemplate": [
+        "/scriptConfig/generatedText/text/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now all that's left is to ask ^orange;<friend>^white; to make my custom headwear. ^green;Give <friend.pronoun.object> our ^orange;<clothingIngredients>^white; and <friend.pronoun.subject> can craft it for me!",
+      "Por": "Agora tudo o que resta é pedir a ^orange;<friend>^white; para fazer a minha chapelaria personalizada. ^green;De a <friend.pronoun.object> nosso ^orange;<clothingIngredients>^white; e <friend.pronoun.subject> pode criar-lo para mim!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/hat.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Success! Don't you think Floran looksss <adjective> now? Thanks for your help!",
+      "Por": "Sucesso! Você não acha que Floran parece <adjective> agora? Obrigado pela ajuda!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/hat.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thank you! What do you think? Don't I look <adjective> now?",
+      "Por": "Obrigado! O que você acha? Não pareço <adjective> agora?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/hat.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thanks to you, I definitely look <adjective>!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/hat.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thanks! How do I look? Suitably <adjective>, I'm sure.",
+      "Por": "Obrigado! Como estou? Adequadamente <adjective>, eu tenho certeza."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/hat.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This new look really makes me look <adjective>, don't you think? Thank you for your help."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/hat.questtemplate": [
+        "/scriptConfig/generatedText/goalText/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Floran wantsss to look <adjective>. Floran has plan for this.",
+      "Por": "^cyan;Floran quer parecer <adjective>. Floran tem plano para isso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/hat.questtemplate": [
+        "/scriptConfig/generatedText/goalText/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Floran would be more popular if Floran looked <adjective>.",
+      "Por": "^cyan;Floran seria mais popular, se Floran parecesse <adjective>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/hat.questtemplate": [
+        "/scriptConfig/generatedText/goalText/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;I want to look <adjective>, and I have a plan to make it happen.",
+      "Por": "^cyan;Eu quero parecer <adjective>, e eu tenho um plano para que isso aconteça."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/hat.questtemplate": [
+        "/scriptConfig/generatedText/goalText/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;I want to wear something that makes me look <adjective>. Will you help me?",
+      "Por": "^cyan;Eu quero vestir algo que me faça parecer <adjective>. Você vai me ajudar?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/hat.questtemplate": [
+        "/scriptConfig/generatedText/goalText/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;^cyan;Eager. I want to look <adjective>. Could you assist me with this task?",
+      "Por": "^cyan;Ansioso. Eu quero parecer <adjective>. Você poderia me ajudar com esta tarefa?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/hat.questtemplate": [
+        "/scriptConfig/generatedText/goalText/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;^cyan;Excited. It is time I had a new look. Could you help me look <adjective>?",
+      "Por": "^cyan;Animado. É hora de eu ter um novo visual. Você poderia me ajudar a parecer <adjective>?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/hat.questtemplate": [
+        "/parameters/adjective/example/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "suave"
+    }
+  }
+]

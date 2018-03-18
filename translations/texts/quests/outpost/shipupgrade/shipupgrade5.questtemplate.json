@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/shipupgrade/shipupgrade5.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Congratulations! With a crew of ten you now qualify for the Condor License! ^green;Visit Penguin Pete^reset; with ^orange;10 Upgrade Modules^reset; to upgrade your ship.",
+      "Por": "Parabéns! Com uma tripulação de dez agora você se qualifica para a Condor License! ^green;Visite Pinguim Pete^reset; com ^orange;10 Upgrade Modules^reset; para atualizar sua nave."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/shipupgrade/shipupgrade5.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Condor Ship Upgrade",
+      "Por": "^green;Atualização de Nave Condor"
+    }
+  }
+]

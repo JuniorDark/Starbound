@@ -1,0 +1,109 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/spawner/pettether/pettether.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A captured creature can be tethered to this spot.",
+      "Por": "Uma criatura capturada pode ser amarrada meste ponto."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/spawner/pettether/pettether.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A captured creature placed in this device will stay nearby."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/spawner/pettether/pettether.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A creature capture pod can be placed into this device, tethering the pet within its radius.",
+      "Por": "Um capture pod com criatura pode ser colocado neste dispositivo, amarrando o pet dentro de seu raio."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/spawner/pettether/pettether.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A handy post that a pet to be tethered to.",
+      "Por": "Um poste útil que um pet pode ser amarrado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/spawner/pettether/pettether.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A handy tether post for keepin' captured creatures from wanderin'.",
+      "Por": "Um poste de amarrar útil para evitar que criaturas capturadas vaguem."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/spawner/pettether/pettether.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A tether for a captured creature.",
+      "Por": "Uma corda para uma criatura capturada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/spawner/pettether/pettether.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Creaturess attached to post ssstay here.",
+      "Por": "Criaturass anexadas ao poste permanecem aqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/spawner/pettether/pettether.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Once placed in this device, a captured creature will not wander far.",
+      "Por": "Uma vez colocada neste dispositivo, uma criatura capturada não vai andar muito."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/spawner/pettether/pettether.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pet Tether",
+      "Por": "Pet Tether"
+    }
+  }
+]

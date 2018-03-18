@@ -1,0 +1,28 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/lavabowl/lavabowl.bush": [
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A natural lava bowl.",
+      "Por": "Um vaso de lava natural."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/lavabowl/lavabowl.bush": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Burny hot liquidsss.",
+      "Por": "Líquidos realmente quentes."
+    }
+  }
+]

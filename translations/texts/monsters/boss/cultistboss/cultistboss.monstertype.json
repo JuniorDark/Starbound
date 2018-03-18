@@ -1,0 +1,98 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/boss/cultistboss/cultistboss.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Asra Nox",
+      "Por": "Asra Nox"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/boss/cultistboss/cultistboss.monstertype": [
+        "/baseParameters/dialog/death/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "But it's too late to stop what's happening, let Esther know - there's no hope.",
+      "Por": "Mas é tarde demais para parar o que está acontecendo, avise Esther - não há esperança."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/boss/cultistboss/cultistboss.monstertype": [
+        "/baseParameters/dialog/intro/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Huh... Are you Esther's puppet? So she's gathering underlings again.",
+      "Por": "Hã... Você é um fantoche de Esther? Então ela está reunindo subordinados novamente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/boss/cultistboss/cultistboss.monstertype": [
+        "/baseParameters/dialog/death/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I guess I underestimated you...",
+      "Por": "Eu acho que eu subestimei você..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/boss/cultistboss/cultistboss.monstertype": [
+        "/baseParameters/dialog/intro/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I pity you, in a way. Having your strings pulled by that withered hag...",
+      "Por": "Tenho pena de você, de certa forma. Tendo suas cordas puxadas por aquela bruxa..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/boss/cultistboss/cultistboss.monstertype": [
+        "/baseParameters/dialog/start/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nevermind; time to die!",
+      "Por": "Esquece; hora de morrer!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/boss/cultistboss/cultistboss.monstertype": [
+        "/baseParameters/dialog/death/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "So you win this time - 'woe is me.'",
+      "Por": "Então você venceu desta vez..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/boss/cultistboss/cultistboss.monstertype": [
+        "/baseParameters/dialog/intro/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "You know you're in way over your head, don't you?",
+      "Por": "Você sabe que está em um caminho que você não pode dar conta, não acha?"
+    }
+  }
+]

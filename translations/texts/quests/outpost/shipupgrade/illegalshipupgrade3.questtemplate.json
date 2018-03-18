@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/shipupgrade/illegalshipupgrade3.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "This ship license is indisputably lawful.^green;Visit Penguin Pete^reset; with ^orange;6 Upgrade Modules^reset; to upgrade your ship.",
+      "Por": "Esta licença é indiscutivelmente legal. ^green;Visite Pinguim Pete^reset; com ^orange;6 Upgrade Modules^reset; para atualizar sua nave."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/shipupgrade/illegalshipupgrade3.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Fishy Falcon Ship Upgrade",
+      "Por": "^green;Atualização de Nave Fishy Falcon"
+    }
+  }
+]

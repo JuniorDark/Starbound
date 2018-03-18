@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/woodbridge.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/woodbridge.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'd bet this here wood is mighty old.",
+      "Por": "Eu aposto essa madeira aqui é muito antiga."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/woodbridge.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/woodbridge.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Old wood iss strong.",
+      "Por": "Madeira velha é forte."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/woodbridge.matitem": [
+        "/description"
+      ],
+      "tiles/materials/woodbridge.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The wood is very old and creaks in the wind.",
+      "Por": "A madeira é muito antiga e range no vento."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/woodbridge.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/woodbridge.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This aged wood creaks with age."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/woodbridge.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/woodbridge.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wooden Bridge Block",
+      "Por": "Wooden Bridge Block"
+    }
+  }
+]

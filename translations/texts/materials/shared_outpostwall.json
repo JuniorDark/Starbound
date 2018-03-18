@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/outpostwall.matitem": [
+        "/description"
+      ],
+      "tiles/materials/outpostwall1.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dark concrete specially designed for outposts.",
+      "Por": "Concreto escuro especialmente projetado para postos avançados."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/outpostwall.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/outpostwall1.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran disslikess cold hard concrete.",
+      "Por": "Floran não gosssta de concreto duro frio."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/outpostwall.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/outpostwall1.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Outpost Concrete",
+      "Por": "Outpost Concrete"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/outpostwall.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/outpostwall1.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This concrete looks mighty tough.",
+      "Por": "Este concreto parece muito resistente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/outpostwall.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/outpostwall1.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This specially designed concrete is quick drying."
+    }
+  }
+]

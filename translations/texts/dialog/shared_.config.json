@@ -1,0 +1,1765 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Um Floran. Oh."
+    ],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/apex/floran/0"
+      ],
+      "dialog/outpost.config": [
+        "/converse/apex/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Floran. Oh.",
+      "Por": "Um Floran. Ah."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/human/apex/1"
+      ],
+      "dialog/outpost.config": [
+        "/converse/human/apex/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "A talking monkey. Cool.",
+      "Por": "Um macaco falante. Legal."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Agressivo. EU VEJO VOCÊ!"
+    ],
+    "Files": {
+      "dialog/eyeguard.config": [
+        "/attack/default/default/0"
+      ],
+      "dialog/eyepatch.config": [
+        "/attack/default/default/0",
+        "/reattack/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aggressive. I SEE YOU!",
+      "Por": "Agressivo. EU TE VEJO!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Ahh, finalmente alguém que vai me apreciar."
+    ],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/hylotl/hylotl/0"
+      ],
+      "dialog/outpost.config": [
+        "/converse/hylotl/hylotl/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ahh, finally someone who will appreciate me.",
+      "Por": "Ahh, finalmente, alguém que vai gostar de mim."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/safe/glitch/default/3/glitchEmotedText"
+      ],
+      "dialog/outpost.config": [
+        "/flee/safe/glitch/default/3/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Am I safe?"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Você está tentando colocar alguém por aqui?!"
+    ],
+    "Files": {
+      "dialog/grumble.config": [
+        "/otherDeed/human/default/1"
+      ],
+      "dialog/merchant.config": [
+        "/otherDeed/human/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are you trying to have someone move in here?!",
+      "Por": "Você está tentando mover mais alguém pra cá?"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Este lugar é uma bagunça! Hora de eu sair."
+    ],
+    "Files": {
+      "dialog/grumble.config": [
+        "/final/novakid/default/2"
+      ],
+      "dialog/merchant.config": [
+        "/final/novakid/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crimany! This place is a mess! Time I skedaddle.",
+      "Por": "Céus! esse lugar está uma bagunça! Hora de eu sair."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/eyeguard.config": [
+        "/killedTarget/default/default/4"
+      ],
+      "dialog/eyepatch.config": [
+        "/killedTarget/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Displeased. I could have ended that sooner.",
+      "Por": "Descontente. Eu poderia ter terminado isso mais cedo."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Não sei como lhe agradecer adequadamente, mas por agora aproveite este presente."
+    ],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/rent/novakid/default/3"
+      ],
+      "dialog/merchant.config": [
+        "/rent/novakid/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't know how to thank you properly, but for now take this.",
+      "Por": "Não sei como te agradecer direito, mas por enquanto receba isso."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Floran não conssegue caçar muito no essspaço. Trissste."
+    ],
+    "Files": {
+      "dialog/shipcrew.config": [
+        "/converse/floran/default/2",
+        "/converse/floran/floran/4"
+      ],
+      "dialog/spaceconverse.config": [
+        "/converse/floran/default/3",
+        "/converse/floran/floran/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran doesssn't get to hunt much in ssspace. Sssad.",
+      "Por": "Floran não consegue caçar muito no esspaço. Trisste."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Floran tem issso para dizer obrigado."
+    ],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/rent/floran/default/2"
+      ],
+      "dialog/merchant.config": [
+        "/rent/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran got you this to ssay thank you.",
+      "Por": "Floran te conssseguiu isso pra te dizer obrigado."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Floran cumprimentá homem de metal!"
+    ],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/floran/glitch/0"
+      ],
+      "dialog/outpost.config": [
+        "/converse/floran/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran greet metal man!",
+      "Por": "Floran cumprimenta homem de metal!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Floran precissa de todo este esspaço,  Floran não compartilha com algum esstranho aleatório."
+    ],
+    "Files": {
+      "dialog/grumble.config": [
+        "/otherDeed/floran/default/0"
+      ],
+      "dialog/merchant.config": [
+        "/otherDeed/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran needs all this space, not sharing with some random ssstranger.",
+      "Por": "Floran precisa de todo esse espaço, e não vai dividir com com essstranho aleatório."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Floran não essstá pronto para caçar!",
+      "Floran não está pronto para caçar!"
+    ],
+    "Files": {
+      "dialog/flee.config": [
+        "/helpme/floran/default/3"
+      ],
+      "dialog/outpost.config": [
+        "/flee/helpme/floran/default/2",
+        "/flee/helpthem/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran not ready for hunt!",
+      "Por": "Floran não esstá pronto para caçar!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/floran/floran/0"
+      ],
+      "dialog/outpost.config": [
+        "/converse/floran/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Bom dia.",
+      "Dia bom."
+    ],
+    "Files": {
+      "dialog/converse.config": [
+        "/greeting/glitch/default/18/glitchEmotedText",
+        "/greeting/hylotl/default/16"
+      ],
+      "dialog/devoutavian.config": [
+        "/converse/avian/apex/50",
+        "/converse/avian/avian/49",
+        "/converse/avian/floran/49",
+        "/converse/avian/glitch/49",
+        "/converse/avian/human/49",
+        "/converse/avian/hylotl/49",
+        "/converse/avian/novakid/49"
+      ]
+    },
+    "Texts": {
+      "Eng": "Good day.",
+      "Por": "Bom dia!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/greeting/glitch/default/7/glitchEmotedText"
+      ],
+      "dialog/outpost.config": [
+        "/converse/glitch/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Greetings friend."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/human/default/0"
+      ],
+      "dialog/outpost.config": [
+        "/converse/human/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Have an awesome day!",
+      "Por": "Tenha um excelente dia!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/apex/glitch/0"
+      ],
+      "dialog/outpost.config": [
+        "/converse/apex/glitch/0",
+        "/converse/avian/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hello there, Glitch.",
+      "Por": "Olá, Glitch."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/apex/hylotl/0"
+      ],
+      "dialog/outpost.config": [
+        "/converse/apex/hylotl/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hello there, Hylotl.",
+      "Por": "Olá, Hylotl."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/greeting/avian/default/3",
+        "/greeting/glitch/default/12/glitchEmotedText"
+      ],
+      "dialog/devoutavian.config": [
+        "/converse/avian/apex/27",
+        "/converse/avian/avian/26",
+        "/converse/avian/floran/26",
+        "/converse/avian/glitch/26",
+        "/converse/avian/human/26",
+        "/converse/avian/hylotl/26",
+        "/converse/avian/novakid/26"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hello there.",
+      "Por": "Olá."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/greeting/apex/default/0",
+        "/greeting/avian/default/0",
+        "/greeting/default/default/0",
+        "/greeting/floran/default/0",
+        "/greeting/human/default/1",
+        "/greeting/hylotl/default/0"
+      ],
+      "dialog/devoutavian.config": [
+        "/converse/avian/apex/19",
+        "/converse/avian/avian/18",
+        "/converse/avian/floran/18",
+        "/converse/avian/glitch/18",
+        "/converse/avian/human/18",
+        "/converse/avian/hylotl/18",
+        "/converse/avian/novakid/18"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hello.",
+      "Por": "Olá."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/helpme/avian/default/1",
+        "/helpme/default/default/1"
+      ],
+      "dialog/oremerchant.config": [
+        "/helpthem/default/default/0"
+      ],
+      "dialog/outpost.config": [
+        "/flee/helpme/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Help!",
+      "Por": "Socorro!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Aqui esstá um presente para você!"
+    ],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/rent/floran/default/0"
+      ],
+      "dialog/merchant.config": [
+        "/rent/floran/default/0"
+      ],
+      "dialog/oremerchant.config": [
+        "/rent/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Here isss a present for you!",
+      "Por": "Aqui essstá um presente pra você!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Aqui está algo pequeno por seu incomodo. Muito obrigado.",
+      "Aqui está uma coisinha por seus problemas. Obrigado pela gentileza."
+    ],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/rent/novakid/default/0"
+      ],
+      "dialog/merchant.config": [
+        "/rent/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Here's a little somethin' for your troubles. Thank you kindly.",
+      "Por": "Aqui está uma coisinha por seus problemas. Muito obrigado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/greeting/human/default/6"
+      ],
+      "dialog/outpost.config": [
+        "/converse/human/human/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hey, great to see you.",
+      "Por": "Ei, bom te ver."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Ei, é um pássaro grande!"
+    ],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/human/avian/0"
+      ],
+      "dialog/outpost.config": [
+        "/converse/human/avian/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hey, it's a big bird!",
+      "Por": "Ei, é um grande pássaro!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Espero que você esteja tendo um dia bom!"
+    ],
+    "Files": {
+      "dialog/converse.config": [
+        "/greeting/avian/default/27"
+      ],
+      "dialog/devoutavian.config": [
+        "/converse/avian/apex/48",
+        "/converse/avian/avian/47",
+        "/converse/avian/floran/47",
+        "/converse/avian/glitch/47",
+        "/converse/avian/human/47",
+        "/converse/avian/hylotl/47",
+        "/converse/avian/novakid/47"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hope you're having a good day!",
+      "Por": "Espero que você esteja tendo um bom dia!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Como vai você?",
+      "Tudo bem?"
+    ],
+    "Files": {
+      "dialog/converse.config": [
+        "/greeting/avian/default/24",
+        "/greeting/glitch/default/26/glitchEmotedText",
+        "/greeting/hylotl/default/17"
+      ],
+      "dialog/devoutavian.config": [
+        "/converse/avian/apex/28",
+        "/converse/avian/avian/27",
+        "/converse/avian/floran/27",
+        "/converse/avian/glitch/27",
+        "/converse/avian/human/27",
+        "/converse/avian/hylotl/27",
+        "/converse/avian/novakid/27"
+      ]
+    },
+    "Texts": {
+      "Eng": "How do you do?",
+      "Por": "Como vai?"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Como vai!"
+    ],
+    "Files": {
+      "dialog/converse.config": [
+        "/greeting/novakid/default/6"
+      ],
+      "dialog/crewmember.config": [
+        "/converse/novakid/default/0"
+      ],
+      "dialog/guard.config": [
+        "/hail/novakid/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Howdy!",
+      "Por": "Oi!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Eu comprei um presente para você para dizer obrigado, espero que goste."
+    ],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/rent/avian/default/3"
+      ],
+      "dialog/merchant.config": [
+        "/rent/avian/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I bought a gift for you to say thank you, I hope you like it.",
+      "Por": "Eu trouxe um presente como agradecimento, espero que goste."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Eu não posso lidar com sua indiferença por mais tempo..."
+    ],
+    "Files": {
+      "dialog/grumble.config": [
+        "/severe/apex/default/1"
+      ],
+      "dialog/merchant.config": [
+        "/severe/apex/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I cannot cope with your indifference much longer...",
+      "Por": "Não posso lidar com seu desinteresse por muito mais tempo..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/final/glitch/default/2/glitchEmotedText"
+      ],
+      "dialog/merchant.config": [
+        "/final/glitch/default/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I didn't want it to come to this, but I can't stay here any longer."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Eu não gosto disso, você poderia por as coisas de volta como elas eram?"
+    ],
+    "Files": {
+      "dialog/grumble.config": [
+        "/tagCriteria/avian/default/1"
+      ],
+      "dialog/merchant.config": [
+        "/tagCriteria/avian/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I don't like this, can you put things back how they were?",
+      "Por": "Eu não gosto disso, você pode colocar as coisas de volta como estavam?"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Não tenho nada a dizer para você."
+    ],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/default/default/0",
+        "/converse/hylotl/generic/52"
+      ],
+      "dialog/crewmember.config": [
+        "/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have nothing to say to you.",
+      "Por": "Não tenho nada para lhe dizer."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Espero que este humilde presente transmita a minha apreciação por sua ajuda.",
+      "Espero que este humilde presente transmita meu agradecimento pela sua ajuda."
+    ],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/rent/hylotl/default/4"
+      ],
+      "dialog/merchant.config": [
+        "/rent/hylotl/default/2"
+      ],
+      "dialog/oremerchant.config": [
+        "/rent/hylotl/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I hope this humble gift conveys my appreciation for your help.",
+      "Por": "Espero que este humilde presente transmita o meu apreço pela sua ajuda."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "espero que goste do presente!"
+    ],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/rent/avian/default/4"
+      ],
+      "dialog/merchant.config": [
+        "/rent/avian/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I hope you like the gift!",
+      "Por": "Espero que goste do presente!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Eu vim pra cá por uma vida melhor... que desapontamento.",
+      "Me mudei para cá por uma vida melhor... Que decepção."
+    ],
+    "Files": {
+      "dialog/grumble.config": [
+        "/final/apex/default/0"
+      ],
+      "dialog/merchant.config": [
+        "/final/apex/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I moved here for a better life... What a disappointment.",
+      "Por": "Me mudei para cá por uma vida melhor... Que desapontamento."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Eu preciso que você conserte minhas paredes antes que o telhado caia em cima de nós."
+    ],
+    "Files": {
+      "dialog/grumble.config": [
+        "/enclosedArea/apex/default/1"
+      ],
+      "dialog/merchant.config": [
+        "/enclosedArea/apex/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I need you to mend my walls before the roof falls in on top of us.",
+      "Por": "Eu preciso que você remende as paredes antes que o telhado caia sobre nós."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Eu preciso que você coloque as coisas de volta onde você os pegou, por favor."
+    ],
+    "Files": {
+      "dialog/grumble.config": [
+        "/tagCriteria/apex/default/2"
+      ],
+      "dialog/merchant.config": [
+        "/tagCriteria/apex/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I need you to put things back where you got them please.",
+      "Por": "Eu preciso que você coloque as coisas de volta onde você pegou por favor."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Notei uma parede danificada aqui , talvez você possa ajudar com os reparos ?"
+    ],
+    "Files": {
+      "dialog/grumble.config": [
+        "/enclosedArea/hylotl/default/2"
+      ],
+      "dialog/oremerchant.config": [
+        "/enclosedArea/hylotl/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I noticed a damaged wall here, perhaps you could assist with repairs?",
+      "Por": "Notei uma parede danificada aqui, talvez você possa ajudar com os reparos?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/safe/glitch/default/4/glitchEmotedText"
+      ],
+      "dialog/outpost.config": [
+        "/flee/safe/glitch/default/4/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I think I leaked a little oil."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Eu achei que esse lugar era pra mim!",
+      "Eu pensei que este lugar era pra mim!"
+    ],
+    "Files": {
+      "dialog/grumble.config": [
+        "/otherDeed/default/default/0"
+      ],
+      "dialog/merchant.config": [
+        "/otherDeed/default/default/0"
+      ],
+      "dialog/oremerchant.config": [
+        "/otherDeed/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I thought this place was for me!",
+      "Por": "Eu pensei que este lugar era meu!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Eu tento ser respeitoso com os outros, é uma pena que você não faça o mesmo esforço."
+    ],
+    "Files": {
+      "dialog/grumble.config": [
+        "/final/avian/default/2"
+      ],
+      "dialog/merchant.config": [
+        "/final/avian/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I try to be respectful of others, it's a shame you don't make the same effort.",
+      "Por": "Eu tento ser respeitoso com os outros, é uma vergonha você não tentar fazer o mesmo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/severe/glitch/default/1/glitchEmotedText"
+      ],
+      "dialog/merchant.config": [
+        "/severe/glitch/default/1/glitchEmotedText"
+      ],
+      "dialog/oremerchant.config": [
+        "/severe/glitch/default/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wish my requests were listened to."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Eu ficaria incrivelmente grato se você pudesse consertar minhas paredes."
+    ],
+    "Files": {
+      "dialog/grumble.config": [
+        "/enclosedArea/hylotl/default/1"
+      ],
+      "dialog/merchant.config": [
+        "/enclosedArea/hylotl/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I would be incredibly grateful if you could mend my walls.",
+      "Por": "Eu seria incrivelmente grato se você pudesse remendar minhas paredes."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Não sou o único sentindo uma brisa aqui, né?"
+    ],
+    "Files": {
+      "dialog/grumble.config": [
+        "/enclosedArea/novakid/default/0"
+      ],
+      "dialog/merchant.config": [
+        "/enclosedArea/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm not the only one feelin' a breeze in here, am I?",
+      "Por": "Eu não sou o único sentindo uma brisa aqui, sou?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/airship.config": [
+        "/hail/default/default/3"
+      ],
+      "dialog/guard.config": [
+        "/hail/human/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm watching you.",
+      "Por": "Estou de olho em você."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/gatherer.config": [
+        "/safe/default/default/1"
+      ],
+      "dialog/outpost.config": [
+        "/flee/safe/default/default/1",
+        "/flee/safe/glitch/default/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've escaped with my life!",
+      "Por": "Eu escapei com a minha vida!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Eu perdi todo respeito por você. Espero que algum dia você veja o erro dos seus caminhos."
+    ],
+    "Files": {
+      "dialog/grumble.config": [
+        "/final/hylotl/default/1"
+      ],
+      "dialog/merchant.config": [
+        "/final/hylotl/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've lost all respect for you. I hope one day you will see the error of your ways.",
+      "Por": "Eu perdi todo o respeito por você. Espero que um dia você veja o erro que você cometeu."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Se você colocar maisss pessoas aqui, Floran vai comê-lass.",
+      "Se você trazer mais alguém, Floran vai comê-lo."
+    ],
+    "Files": {
+      "dialog/grumble.config": [
+        "/otherDeed/floran/default/1"
+      ],
+      "dialog/merchant.config": [
+        "/otherDeed/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you move in sssomeone else, Floran will eat them.",
+      "Por": "\"Se você trazer mais alguém, Floran vai comê-lass."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Intimidante. Você não pode escapar de meu olhar!"
+    ],
+    "Files": {
+      "dialog/eyeguard.config": [
+        "/attack/default/default/2"
+      ],
+      "dialog/eyepatch.config": [
+        "/attack/default/default/2",
+        "/reattack/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intimidating. You cannot escape my gaze!",
+      "Por": "Intimidador. Você não pode escapar de meu olhar!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Homem-Carne!"
+    ],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/floran/human/0"
+      ],
+      "dialog/outpost.config": [
+        "/converse/floran/human/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Meatman!",
+      "Por": "Homem de carne!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Ameaçador. VI outra vez o nosso alvo!"
+    ],
+    "Files": {
+      "dialog/eyeguard.config": [
+        "/reattack/default/default/4"
+      ],
+      "dialog/eyepatch.config": [
+        "/reattack/default/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Menacing. I have SEEN our target again!",
+      "Por": "Ameaçador. Eu VI o nosso alvo novamente!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "A minha casa poderia ter alguns reparos!",
+      "Minha casa poderia ter alguns reparos!"
+    ],
+    "Files": {
+      "dialog/grumble.config": [
+        "/enclosedArea/default/default/0"
+      ],
+      "dialog/merchant.config": [
+        "/enclosedArea/default/default/0"
+      ],
+      "dialog/oremerchant.config": [
+        "/enclosedArea/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "My home could use some repairs!",
+      "Por": "Minha casa poderia ter uma reforma!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Meus pedidos são deixados sem resposta, minhas súplicas caem em ouvidos surdos... Vergonhoso."
+    ],
+    "Files": {
+      "dialog/grumble.config": [
+        "/severe/hylotl/default/0"
+      ],
+      "dialog/merchant.config": [
+        "/severe/hylotl/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "My requests are left unanswered, my entreaties fall on deaf ears... Shameful. ",
+      "Por": "Meus pedidos foram deixados sem resposta, minhas súplicas caem em um ouvido surdo... Vergonhoso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/greeting/avian/default/2"
+      ],
+      "dialog/devoutavian.config": [
+        "/converse/avian/apex/46",
+        "/converse/avian/avian/45",
+        "/converse/avian/floran/45",
+        "/converse/avian/glitch/45",
+        "/converse/avian/human/45",
+        "/converse/avian/hylotl/45",
+        "/converse/avian/novakid/45"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nice to make your acquaintance!",
+      "Por": "Prazer em conhecê-lo!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Prazer em conhecê-lo."
+    ],
+    "Files": {
+      "dialog/converse.config": [
+        "/greeting/apex/default/3",
+        "/greeting/avian/default/1",
+        "/greeting/glitch/default/10/glitchEmotedText"
+      ],
+      "dialog/devoutavian.config": [
+        "/converse/avian/apex/45",
+        "/converse/avian/avian/44",
+        "/converse/avian/floran/44",
+        "/converse/avian/glitch/44",
+        "/converse/avian/human/44",
+        "/converse/avian/hylotl/44",
+        "/converse/avian/novakid/44"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nice to meet you.",
+      "Por": "Prazer em te conhecer."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Oh ei, um peixe gigante."
+    ],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/human/hylotl/0"
+      ],
+      "dialog/outpost.config": [
+        "/converse/human/hylotl/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Oh hey, a giant fish.",
+      "Por": "Ah ei, um peixe gigante."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Oh, um Hylotl."
+    ],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/avian/hylotl/0"
+      ],
+      "dialog/outpost.config": [
+        "/converse/avian/hylotl/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Oh, a Hylotl.",
+      "Por": "Ah, um Hylotl."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/hylotl/glitch/0"
+      ],
+      "dialog/outpost.config": [
+        "/converse/hylotl/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Oh, a robot.",
+      "Por": "Oh, um robô."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Ufa, acho que consegui fugir.",
+      "Ufa, eu acho melhor eu ir embora.",
+      "Ufa, eu acho que me afastei."
+    ],
+    "Files": {
+      "dialog/flee.config": [
+        "/safe/default/default/0"
+      ],
+      "dialog/gatherer.config": [
+        "/safe/default/default/0"
+      ],
+      "dialog/outpost.config": [
+        "/flee/safe/default/default/0",
+        "/flee/safe/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Phew, I think I got away.",
+      "Por": "Ufa, eu acho que conseguir fugir."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Por favor, aceite este presente com minha gratidão."
+    ],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/rent/hylotl/default/3"
+      ],
+      "dialog/merchant.config": [
+        "/rent/hylotl/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Please accept this gift with my gratitude.",
+      "Por": "Por favor aceite este presente com minha gratidão."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Por favor conserte as paredess de Floran."
+    ],
+    "Files": {
+      "dialog/grumble.config": [
+        "/enclosedArea/floran/default/0"
+      ],
+      "dialog/merchant.config": [
+        "/enclosedArea/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Please fix Floran's wallsss.",
+      "Por": "Por favor consserte as paredesss de Floran."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Por favor ponha minhas coisas devolta onde estavam."
+    ],
+    "Files": {
+      "dialog/grumble.config": [
+        "/tagCriteria/avian/default/2"
+      ],
+      "dialog/merchant.config": [
+        "/tagCriteria/avian/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Please put my things back where they were.",
+      "Por": "Por favor, coloque minhas coisas de volta onde elas estavam."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/helpme/glitch/default/4/glitchEmotedText"
+      ],
+      "dialog/outpost.config": [
+        "/flee/helpme/glitch/default/4/glitchEmotedText",
+        "/flee/helpthem/glitch/default/3/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Save me!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Me parece que você pode querer consertar essa cabana antes de sair.",
+      "Parece-me que você deve consertar esse cabana antes que eu saia."
+    ],
+    "Files": {
+      "dialog/grumble.config": [
+        "/severe/novakid/default/0"
+      ],
+      "dialog/merchant.config": [
+        "/severe/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Seems to me you might wanna fix this shack up 'fore I leave.",
+      "Por": "\"Me parece que você pode querer consertar essa cabana antes que eu saia."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Chocado. Eles estão além da minha vista?"
+    ],
+    "Files": {
+      "dialog/eyeguard.config": [
+        "/outOfSight/default/default/1"
+      ],
+      "dialog/eyepatch.config": [
+        "/outOfSight/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shocked. Are they beyond my sight?",
+      "Por": "Chocado. Eles estão além da minha visão?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/tagCriteria/novakid/default/0"
+      ],
+      "dialog/merchant.config": [
+        "/tagCriteria/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Somethin's up round here...",
+      "Por": "Algo está acontecendo por aqui..."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Algo em meu lugar mudou, eu não gosto disso!",
+      "Algo na minha loja mudou, eu não gosto disso!"
+    ],
+    "Files": {
+      "dialog/grumble.config": [
+        "/tagCriteria/default/default/0"
+      ],
+      "dialog/merchant.config": [
+        "/tagCriteria/default/default/0"
+      ],
+      "dialog/oremerchant.config": [
+        "/tagCriteria/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Something in my place has changed, I don't like it!",
+      "Por": "Algo mudou, eu não gosto disso!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/miniknogthreats.config": [
+        "/attack/default/default/0"
+      ],
+      "dialog/rebel.config": [
+        "/attack/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stand sharp, soldier!",
+      "Por": "Fique esperto, soldado!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/apex/0/glitchEmotedText"
+      ],
+      "dialog/outpost.config": [
+        "/converse/glitch/apex/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Such a hairy creature!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Surpreso. Como eles evitaram meu olhar ?!"
+    ],
+    "Files": {
+      "dialog/eyeguard.config": [
+        "/lostTarget/default/default/1"
+      ],
+      "dialog/eyepatch.config": [
+        "/lostTarget/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Surprised. How have they averted my gaze?!",
+      "Por": "Surpreso. Como eles evitaram meu olhar?!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Obrigado por me ajudar. Você ganhou isso."
+    ],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/rent/novakid/default/2"
+      ],
+      "dialog/merchant.config": [
+        "/rent/novakid/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thanks for helping me get by. You've earned this.",
+      "Por": "Obrigado por me ajudar a me virar. Você merece Isso."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Isso é para você, pode fazer o que quiser com ele."
+    ],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/rent/novakid/default/4"
+      ],
+      "dialog/merchant.config": [
+        "/rent/novakid/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "That's for you, to do as you please with.",
+      "Por": "Isso é para você, para usar como quiser. "
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "É isso aí. Eu preciso sair Você é um terrível proprietário."
+    ],
+    "Files": {
+      "dialog/grumble.config": [
+        "/final/apex/default/2"
+      ],
+      "dialog/merchant.config": [
+        "/final/apex/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "That's it. I must leave. You are a terrible landlord.",
+      "Por": "É isso, eu tenho que sair, você é um barão terrível."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "É isso, Floran está sssaindo!"
+    ],
+    "Files": {
+      "dialog/grumble.config": [
+        "/final/floran/default/0"
+      ],
+      "dialog/merchant.config": [
+        "/final/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "That'sss it, Floran is leaving!",
+      "Por": "É issso aí, Floran está de partida!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Estas condições são deploráveis, e seu comportamento é repreensível."
+    ],
+    "Files": {
+      "dialog/grumble.config": [
+        "/severe/hylotl/default/1"
+      ],
+      "dialog/merchant.config": [
+        "/severe/hylotl/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "These conditions are deplorable, and your behaviour reprehensible.",
+      "Por": "Essas condições são deploráveis, e seu comportamento repreensível."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Estes ambientes são prejudiciais para o meu próprio ser. Eu preciso sair."
+    ],
+    "Files": {
+      "dialog/grumble.config": [
+        "/final/hylotl/default/2"
+      ],
+      "dialog/merchant.config": [
+        "/final/hylotl/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "These surroundings are detrimental to my very being. I must leave.",
+      "Por": "Esses arredores são prejudiciais para o meu próprio ser. Eu preciso sair daqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Isto já foi longe demais, eu preciso que você conserte as coisas!"
+    ],
+    "Files": {
+      "dialog/grumble.config": [
+        "/severe/avian/default/0"
+      ],
+      "dialog/merchant.config": [
+        "/severe/avian/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "This has gone too far, I need you to fix things!",
+      "Por": "Isso foi longe demais, eu preciso que você conserte as coisas!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/final/glitch/default/0/glitchEmotedText"
+      ],
+      "dialog/merchant.config": [
+        "/final/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is beyond me. I'm taking my leave."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/rent/glitch/default/0/glitchEmotedText"
+      ],
+      "dialog/merchant.config": [
+        "/rent/glitch/default/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is going very well! Here's a gift to say thank you."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Este antigo refúgio não é para compartilhar. Melhor guardar essa segunda escritura."
+    ],
+    "Files": {
+      "dialog/grumble.config": [
+        "/otherDeed/novakid/default/1"
+      ],
+      "dialog/merchant.config": [
+        "/otherDeed/novakid/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "This ol' haunt ain't for sharing. Better take that second deed down.",
+      "Por": "Essa véia toca num é pra dividir. Melhor tirar o segundo Deed."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Esse ligar tem mais buracos que um sheriff em um tiroteio."
+    ],
+    "Files": {
+      "dialog/grumble.config": [
+        "/enclosedArea/novakid/default/1"
+      ],
+      "dialog/merchant.config": [
+        "/enclosedArea/novakid/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "This place has got more holes in it than a sheriff at a shoot out.",
+      "Por": "Este lugar tem mais buracos do que um xerife em um tiroteio."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Este presente é para você, para dizer obrigado."
+    ],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/rent/apex/default/2"
+      ],
+      "dialog/merchant.config": [
+        "/rent/apex/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "This present is for you, to say thank you.",
+      "Por": "Este presente é pra você, para dizer obrigado."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "bem, se esse lugar não é um pouco decepcionante... Você vai consertar ele ou o que?"
+    ],
+    "Files": {
+      "dialog/grumble.config": [
+        "/severe/novakid/default/1"
+      ],
+      "dialog/merchant.config": [
+        "/severe/novakid/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Well ain't this place mighty disappointin'... You fixin' to fix it or what?",
+      "Por": "Bem este lugar é muito decepcionante... Você vai consertar ele ou o que?"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Você essstava procurando por mim?"
+    ],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/beacon/floran/default/4"
+      ],
+      "dialog/merchant.config": [
+        "/beacon/floran/default/2"
+      ],
+      "dialog/oremerchant.config": [
+        "/beacon/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Were you sssearching for me?",
+      "Por": "Você esstava me procurando?"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "O que posso fazer por você?"
+    ],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/beacon/novakid/default/1"
+      ],
+      "dialog/merchant.config": [
+        "/beacon/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "What can I do for ya'?",
+      "Por": "O que eu posso fazer por você?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/greeting/avian/default/12"
+      ],
+      "dialog/merchant.config": [
+        "/beacon/glitch/default/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "What can I do for you?",
+      "Por": "O que posso fazer para você?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/default/0/glitchEmotedText"
+      ],
+      "dialog/outpost.config": [
+        "/converse/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "What manner of being are you?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/beacon/hylotl/default/0"
+      ],
+      "dialog/oremerchant.config": [
+        "/beacon/hylotl/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "What would you like to discuss?",
+      "Por": "O que você gostaria de discutir?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/generic/47/glitchEmotedText"
+      ],
+      "dialog/guard.config": [
+        "/hail/human/default/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "What's your business here?",
+      "Por": "Qual é o seu negócio aqui?"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Uau, bom, um robô."
+    ],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/human/glitch/0"
+      ],
+      "dialog/outpost.config": [
+        "/converse/human/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Whoa, nice, a robot.",
+      "Por": "Uau, legal, um robô."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Por que você quer colocar outra deed aqui?!"
+    ],
+    "Files": {
+      "dialog/grumble.config": [
+        "/otherDeed/human/default/2"
+      ],
+      "dialog/merchant.config": [
+        "/otherDeed/human/default/2"
+      ],
+      "dialog/oremerchant.config": [
+        "/otherDeed/human/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Why did you place another deed here?!",
+      "Por": "Por que você colocou outra deed aqui?!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Porque tem outra deed aqui? O que você está tentando fazer?"
+    ],
+    "Files": {
+      "dialog/grumble.config": [
+        "/otherDeed/apex/default/0"
+      ],
+      "dialog/merchant.config": [
+        "/otherDeed/apex/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Why is there another deed here? What are you trying to pull?",
+      "Por": "Por que tem uma outra Deed aqui? o que você está tentando fazer."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Oi.",
+      "Olá",
+      "Olá!"
+    ],
+    "Files": {
+      "dialog/converse.config": [
+        "/greeting/avian/default/28"
+      ],
+      "dialog/devoutavian.config": [
+        "/converse/avian/apex/49",
+        "/converse/avian/avian/48",
+        "/converse/avian/floran/48",
+        "/converse/avian/glitch/48",
+        "/converse/avian/human/48",
+        "/converse/avian/hylotl/48",
+        "/converse/avian/novakid/48"
+      ]
+    },
+    "Texts": {
+      "Eng": "Why, hello.",
+      "Por": "Olá."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Você se incomodaria de concertar as minhas paredes?"
+    ],
+    "Files": {
+      "dialog/grumble.config": [
+        "/enclosedArea/avian/default/0"
+      ],
+      "dialog/merchant.config": [
+        "/enclosedArea/avian/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Would you mind fixing my walls?",
+      "Por": "Se importa em consertar minhas paredes?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/greeting/human/default/5"
+      ],
+      "dialog/outpost.config": [
+        "/converse/human/human/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Yo!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Você não se PARECE com a Miniknog..."
+    ],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/apex/default/0"
+      ],
+      "dialog/outpost.config": [
+        "/converse/apex/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You don't LOOK like Miniknog...",
+      "Por": "Você não PARECE com a Miniknog..."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Você tem um olho afiado. Que tal um jogo de tiro entre você e eu?"
+    ],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/novakid/generic/17"
+      ],
+      "dialog/crewmember.config": [
+        "/converse/novakid/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "You got a sharp eye. How about a shootin' match between you and I?",
+      "Por": "Ocê tem um olho afiado. Que tal um tiroteio entre ocê e eu?"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Você precisava de mim, e eu estou aqui, o que eu posso fazer por você?"
+    ],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/beacon/apex/default/2"
+      ],
+      "dialog/merchant.config": [
+        "/beacon/apex/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You needed me and I came, what can I do for you?",
+      "Por": "Você precisou de mim e eu vim, o que eu posso fazer por você?"
+    }
+  }
+]

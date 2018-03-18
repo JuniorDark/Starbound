@@ -1,0 +1,28 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/glowbush/glowbush.bush": [
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A gross, fleshy protrusion.",
+      "Por": "Uma saliência grande e suculenta."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/glowbush/glowbush.bush": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fleshhh!",
+      "Por": "Carne!"
+    }
+  }
+]

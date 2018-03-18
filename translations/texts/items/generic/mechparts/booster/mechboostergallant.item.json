@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/booster/mechboostergallant.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A set of slick mech boosters built with intricate circuitry for high performance.",
+      "Por": "Um conjunto de propulsores mecânicos lisos construídos com circuitos intrincados para alto desempenho."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/booster/mechboostergallant.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gallant Mech Boosters"
+    }
+  }
+]

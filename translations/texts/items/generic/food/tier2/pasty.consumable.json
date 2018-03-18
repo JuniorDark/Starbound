@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier2/pasty.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A traditional Earthling pastry meant for snacking on when underground.",
+      "Por": "Uma pastel terráqueo tradicional destinado a ser comido quando no subsolo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier2/pasty.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pasty",
+      "Por": "Pasty"
+    }
+  }
+]

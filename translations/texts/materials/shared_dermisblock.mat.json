@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/dermisblock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/dermisblock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fleshy mass with some thick, tough looking skin.",
+      "Por": "Uma massa carnuda com um pouco de pele resistente e espessa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/dermisblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/dermisblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ruin Dermis",
+      "Por": "Ruin Dermis"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/dermisblock.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/dermisblock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sstrong skin iss good protection.",
+      "Por": "Pele forte é boa proteção."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/dermisblock.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/dermisblock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "That skin looks tougher'n a leather boot.",
+      "Por": "Essa pele parece mais dura que uma bota de couro."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/dermisblock.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/dermisblock.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The thickness of this skin makes it incredibly strong."
+    }
+  }
+]

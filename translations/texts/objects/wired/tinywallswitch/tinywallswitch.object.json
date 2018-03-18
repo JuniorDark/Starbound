@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/tinywallswitch/tinywallswitch.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A compact switch that can be flipped on or off.",
+      "Por": "Um interruptor compacto que pode ser ativado ou desativado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/tinywallswitch/tinywallswitch.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This tiny switch must activate something.",
+      "Por": "Este interruptor deve ativar alguma coisa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/tinywallswitch/tinywallswitch.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tiny Wall Switch",
+      "Por": "Tiny Wall Switch"
+    }
+  }
+]

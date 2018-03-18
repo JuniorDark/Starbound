@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier2/pizzaslice.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hot slice of pepperoni pizza.",
+      "Por": "Uma fatia quente de pizza de pepperoni."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier2/pizzaslice.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pizza Slice",
+      "Por": "Pizza Slice"
+    }
+  }
+]

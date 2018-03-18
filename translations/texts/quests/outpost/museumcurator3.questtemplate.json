@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/museumcurator3.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "It even has a spear - Nuru will love this! I can't thank you enough!",
+      "Por": "Ela tem até uma lança - Nuru vai amar isso! Eu não posso te agradecer o suficiente!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/museumcurator3.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Um, it turns out Florans aren't very interested in museums; I was talking about my plans earlier and Nuru asked me what a \"mesuam\" was... ^green;Maybe if you brought me a ^orange;Floran Statue^white; from a Floran village or hunting ground, it might make the museum seem more enticing?",
+      "Por": "Hum, parece que os Florans não estão muito interessados em museus; Eu estava falando sobre meus planos mais cedo e Nuru me perguntou o que um \"mesuam\" era... ^green;Talvez se você me trouxer uma ^orange;Floran Statue^white; de uma aldeia Floran ou campo de caça, ela poderia fazer o museu parecer mais atraente?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/museumcurator3.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;The Visage of a Hunter",
+      "Por": "^green;O Rosto de um Caçador"
+    }
+  }
+]

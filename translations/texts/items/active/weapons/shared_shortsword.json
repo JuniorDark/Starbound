@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Uma espada de uma mão firme."
+    ],
+    "Files": {
+      "items/active/weapons/melee/shortsword/commonshortsword.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/shortsword/rareshortsword.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/shortsword/uncommonshortsword.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/npc/npcshortsword.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sturdy one-handed sword.",
+      "Por": "Uma espada de uma mão robusta."
+    }
+  }
+]

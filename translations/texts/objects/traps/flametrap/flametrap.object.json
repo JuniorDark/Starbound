@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/flametrap/flametrap.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A flame trap designed to deter invaders.",
+      "Por": "Uma armadilha de chama projetada para deter invasores."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/flametrap/flametrap.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avian Flame Trap",
+      "Por": "Avian Flame Trap"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/flametrap/flametrap.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Simple, yet deadly. My favourite kind.",
+      "Por": "Simples, mas mortal. Meu tipo favorito."
+    }
+  }
+]

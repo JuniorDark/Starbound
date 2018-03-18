@@ -1,0 +1,109 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/snow/beaconsnow/beaconsnow.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A distress beacon. I hope the person who left it is okay.",
+      "Por": "Um farol de socorro. Espero que a pessoa que saiu está bem."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/snow/beaconsnow/beaconsnow.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A distress beacon. Someone must be in trouble.",
+      "Por": "Um farol de socorro. Alguém deve estar em apuros."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/snow/beaconsnow/beaconsnow.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A distress beacon. Who knows who might hear it?",
+      "Por": "Um farol de socorro. Quem sabe quem pode ouvi-lo?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/snow/beaconsnow/beaconsnow.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Distress Beacon",
+      "Por": "Distress Beacon"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/snow/beaconsnow/beaconsnow.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran help as well as hunt. Sssometimes.",
+      "Por": "Floran ajuda bem como caça. As vezes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/snow/beaconsnow/beaconsnow.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It appears to be a distress beacon. I wonder who activated it.",
+      "Por": "Parece ser um farol de socorro. Eu me pergunto quem ativou."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/snow/beaconsnow/beaconsnow.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Someone needs help. Protecting the weak is a worthwhile pursuit.",
+      "Por": "Alguém precisa de ajuda. Proteger os fracos é um exercício que vale a pena."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/snow/beaconsnow/beaconsnow.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This beacon's sending out a distress call.",
+      "Por": "Este farol está enviando uma chamada de socorro."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/snow/beaconsnow/beaconsnow.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This distress beacon is transmitting at a number of frequencies."
+    }
+  }
+]

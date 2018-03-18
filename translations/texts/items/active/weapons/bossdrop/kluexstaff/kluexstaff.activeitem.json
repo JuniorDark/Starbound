@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/bossdrop/kluexstaff/kluexstaff.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Kluex Staff",
+      "Por": "Kluex Staff"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/bossdrop/kluexstaff/kluexstaff.activeitem": [
+        "/upgradeParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Kluex Staff ^yellow;^reset;",
+      "Por": "Kluex Staff ^yellow;^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/bossdrop/kluexstaff/kluexstaff.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This powerful staff bolsters the warrior who wields it.",
+      "Por": "Este poderoso cajado fortalece o guerreiro que o empunha."
+    }
+  }
+]

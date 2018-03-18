@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/coffeebeans.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bitter coffee beans.",
+      "Por": "Grãos de café amargo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/coffeebeans.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Coffee Beans",
+      "Por": "Coffee Beans"
+    }
+  }
+]

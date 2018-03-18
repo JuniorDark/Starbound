@@ -1,0 +1,80 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/girder.matitem": [
+        "/novakidDescription"
+      ],
+      "tiles/materials/girder.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strong lookin' metal girder.",
+      "Por": "Uma forte viga de metal."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Uma viga de metal forte olhando."
+    ],
+    "Files": {
+      "items/materials/girder.matitem": [
+        "/description"
+      ],
+      "tiles/materials/girder.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strong looking metal girder.",
+      "Por": "Um forte viga de metal."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Vigass de metal frio."
+    ],
+    "Files": {
+      "items/materials/girder.matitem": [
+        "/floranDescription"
+      ],
+      "tiles/materials/girder.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cold metal girderss.",
+      "Por": "Vigas de metal frio."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/girder.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/girder.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Girder",
+      "Por": "Girder"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/girder.matitem": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/materials/girder.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This reinforced metal girder is very strong."
+    }
+  }
+]

@@ -1,0 +1,442 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/cultist.config": [
+        "/attack/human/apex/8",
+        "/attack/human/avian/8",
+        "/attack/human/default/8",
+        "/attack/human/floran/8",
+        "/attack/human/glitch/8",
+        "/attack/human/human/8",
+        "/attack/human/hylotl/8",
+        "/attack/human/novakid/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "A nonbeliever approaches!",
+      "Por": "Um descrente se aproxima!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/cultist.config": [
+        "/attack/human/apex/4",
+        "/attack/human/avian/4",
+        "/attack/human/default/4",
+        "/attack/human/floran/4",
+        "/attack/human/glitch/4",
+        "/attack/human/human/4",
+        "/attack/human/hylotl/4",
+        "/attack/human/novakid/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are you here to stop us? It doesn't matter anyway!",
+      "Por": "Você está aqui para nos parar? Não importa de qualquer maneira!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/cultist.config": [
+        "/attack/human/hylotl/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crawl back to your puddle!",
+      "Por": "Rasteje de volta à sua poça!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/cultist.config": [
+        "/attack/human/apex/2",
+        "/attack/human/avian/2",
+        "/attack/human/default/2",
+        "/attack/human/floran/2",
+        "/attack/human/glitch/2",
+        "/attack/human/human/2",
+        "/attack/human/hylotl/2",
+        "/attack/human/novakid/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't think you can get away, nonbeliever!",
+      "Por": "Não pense que você pode ir longe, descrente!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/cultist.config": [
+        "/attack/human/avian/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "Humanity would be better off with you birds gone!",
+      "Por": "A humanidade estaria melhor sem vocês pássaros por aí!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/cultist.config": [
+        "/attack/human/novakid/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "I don't even know WHAT you are!",
+      "Por": "Eu nem sei o QUE você é!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/cultist.config": [
+        "/attack/human/glitch/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll send you to the scrapheap, robot!",
+      "Por": "Vou te mandar para o ferro velho, robô!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/cultist.config": [
+        "/attack/human/apex/9",
+        "/attack/human/avian/9",
+        "/attack/human/default/9",
+        "/attack/human/floran/9",
+        "/attack/human/glitch/9",
+        "/attack/human/human/9",
+        "/attack/human/hylotl/9",
+        "/attack/human/novakid/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "If I kill you, Nox might promote me!",
+      "Por": "Se eu te matar, Nox poderia me promover!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/cultist.config": [
+        "/attack/human/apex/3",
+        "/attack/human/avian/3",
+        "/attack/human/default/3",
+        "/attack/human/floran/3",
+        "/attack/human/glitch/3",
+        "/attack/human/human/3",
+        "/attack/human/hylotl/3",
+        "/attack/human/novakid/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you aren't with us, then you're against us!",
+      "Por": "Se você não está conosco, então você está contra nós!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/cultist.config": [
+        "/attack/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "None shall pass!",
+      "Por": "Ninguém passará!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/cultist.config": [
+        "/attack/human/floran/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "Soon we'll be rid of your kind, Floran!",
+      "Por": "Logo vamos nos livrar de seu tipo, Floran!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/cultist.config": [
+        "/attack/human/hylotl/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "Soon we'll be rid of your kind, Hylotl!",
+      "Por": "Em breve estaremos livres do seu tipo, Hylotl!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/cultist.config": [
+        "/attack/human/avian/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "The universe doesn't need Avian kind!",
+      "Por": "O universo não precisa de Avians"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/cultist.config": [
+        "/attack/human/novakid/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "The universe doesn't need weird glowing beings!",
+      "Por": "O universo não precisa de seres brilhantes estranhos!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/cultist.config": [
+        "/attack/human/apex/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "The universe doesn't need your kind, ape!",
+      "Por": "O universo não precisa do seu tipo, macaco!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Este não é o seu dia!"
+    ],
+    "Files": {
+      "dialog/cultist.config": [
+        "/attack/human/apex/0",
+        "/attack/human/avian/0",
+        "/attack/human/default/0",
+        "/attack/human/floran/0",
+        "/attack/human/glitch/0",
+        "/attack/human/human/0",
+        "/attack/human/hylotl/0",
+        "/attack/human/novakid/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "This just isn't your day!",
+      "Por": "Este simplesmente não é o seu dia!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/cultist.config": [
+        "/attack/human/default/1",
+        "/attack/human/human/1",
+        "/attack/human/novakid/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "We are the Occasus! You can't stop us!",
+      "Por": "Nós somos a Occasus! Você não pode nos parar!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/cultist.config": [
+        "/attack/human/hylotl/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "We are the Occasus! You can't stop us, Hylotl!",
+      "Por": "Nós somos a Occasus! Você não pode nos parar, Hylotl!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/cultist.config": [
+        "/attack/human/apex/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "We are the Occasus! You can't stop us, ape!",
+      "Por": "Nós somos a Occasus! Você não pode nos parar, macaco!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/cultist.config": [
+        "/attack/human/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "We are the Occasus! You can't stop us, barbarians!",
+      "Por": "Nós somos a Occasus! Você não pode nos parar, bárbaros!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/cultist.config": [
+        "/attack/human/avian/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "We are the Occasus! You can't stop us, bird!",
+      "Por": "Nós somos a Occasus! Você não pode nos parar, bird!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/cultist.config": [
+        "/attack/human/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "We are the Occasus! You can't stop us, robot!",
+      "Por": "Nós somos a Occasus! Você não pode nos parar, robô!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/cultist.config": [
+        "/attack/human/apex/13"
+      ]
+    },
+    "Texts": {
+      "Eng": "We'd be better off without you apes around!",
+      "Por": "Estaríamos melhores sem vocês macacos por aí!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/cultist.config": [
+        "/attack/human/floran/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "We'll rid the galaxy of you Floran barbarians!",
+      "Por": "Vamos livrar a galáxia de vocês, Florans bárbaros!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/cultist.config": [
+        "/attack/human/apex/5",
+        "/attack/human/avian/5",
+        "/attack/human/default/5",
+        "/attack/human/floran/5",
+        "/attack/human/glitch/5",
+        "/attack/human/human/5",
+        "/attack/human/hylotl/5",
+        "/attack/human/novakid/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "You can't stop us! Don't even try!",
+      "Por": "Você não pode nos parar! Nem sequer tente!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/cultist.config": [
+        "/attack/human/apex/7",
+        "/attack/human/avian/7",
+        "/attack/human/default/7",
+        "/attack/human/floran/7",
+        "/attack/human/glitch/7",
+        "/attack/human/human/7",
+        "/attack/human/hylotl/7",
+        "/attack/human/novakid/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "You picked a bad time to come here!",
+      "Por": "Você escolheu um mau momento para vir aqui!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/cultist.config": [
+        "/attack/human/human/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "You picked the wrong side, traitor!",
+      "Por": "Você escolheu o lado errado, traidor!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/cultist.config": [
+        "/attack/human/apex/10",
+        "/attack/human/avian/10",
+        "/attack/human/default/10",
+        "/attack/human/floran/10",
+        "/attack/human/glitch/10",
+        "/attack/human/human/10",
+        "/attack/human/hylotl/10",
+        "/attack/human/novakid/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "You shall not stop our plans!",
+      "Por": "Você não vai parar nossos planos!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/cultist.config": [
+        "/attack/human/apex/11",
+        "/attack/human/default/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "You won't leave this place!",
+      "Por": "Você não vai deixar este lugar!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/cultist.config": [
+        "/attack/human/human/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "You're fighting for the wrong side!",
+      "Por": "Você está lutando para o lado errado!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/cultist.config": [
+        "/attack/human/glitch/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "You're not even truly alive, robot!",
+      "Por": "Você nem sequer está realmente vivo, robô!"
+    }
+  }
+]

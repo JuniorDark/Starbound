@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/corruptdirt.matitem": [
+        "/description"
+      ],
+      "tiles/materials/corruptdirt.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A disgusting block of corrupted dirt.",
+      "Por": "Um bloco nojento de terra corrompida."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/corruptdirt.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/corruptdirt.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Corrupt Dirt",
+      "Por": "Corrupt Dirt"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/corruptdirt.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/corruptdirt.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dissgusting corrupted dirt.",
+      "Por": "Terra corrompida nojenta."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/corruptdirt.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/corruptdirt.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This corrupted dirt ain't too pleasant.",
+      "Por": "Esta terra corrompida não é muito agradável."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/corruptdirt.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/corruptdirt.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This dirt has been corrupted."
+    }
+  }
+]

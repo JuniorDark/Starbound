@@ -1,0 +1,106 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkerlighth/bunkerlighth.object": [
+        "/description"
+      ],
+      "objects/human/bunkerlightv/bunkerlightv.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A blindingly bright fluorescent light.",
+      "Por": "Uma luz fluorescente incrivelmente brilhante."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkerlighth/bunkerlighth.object": [
+        "/apexDescription"
+      ],
+      "objects/human/bunkerlightv/bunkerlightv.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bright light. Reminds me of Miniknog cells.",
+      "Por": "Uma luz brilhante. Me lembra de celas da Miniknog."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkerlighth/bunkerlighth.object": [
+        "/novakidDescription"
+      ],
+      "objects/human/bunkerlightv/bunkerlightv.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A brightly lit lamp.",
+      "Por": "Uma lâmpada brilhantemente luminosa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkerlighth/bunkerlighth.object": [
+        "/humanDescription"
+      ],
+      "objects/human/bunkerlightv/bunkerlightv.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An uncomfortably bright light.",
+      "Por": "Uma luz desconfortavelmente brilhante."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkerlighth/bunkerlighth.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/human/bunkerlightv/bunkerlightv.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The brightness levels are slightly too high for human eyes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkerlighth/bunkerlighth.object": [
+        "/hylotlDescription"
+      ],
+      "objects/human/bunkerlightv/bunkerlightv.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The creator of this light got a bit carried away.",
+      "Por": "O criador desta luz ficou um pouco empolgado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkerlighth/bunkerlighth.object": [
+        "/avianDescription"
+      ],
+      "objects/human/bunkerlightv/bunkerlightv.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This light is overly bright.",
+      "Por": "Esta luz é excessivamente brilhante."
+    }
+  }
+]

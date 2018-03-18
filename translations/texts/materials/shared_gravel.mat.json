@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/gravel.matitem": [
+        "/description"
+      ],
+      "tiles/materials/gravel.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Coarse gravel.",
+      "Por": "Cascalho grosso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/gravel.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/gravel.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Coarse, cascading gravel."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/gravel.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/gravel.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crushed rocks an' gravel.",
+      "Por": "Pedra britada e cascalho."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/gravel.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/gravel.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crusshed gravel.",
+      "Por": "Cascalho essmagado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/gravel.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/gravel.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gravel",
+      "Por": "Gravel"
+    }
+  }
+]

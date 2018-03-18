@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/bookpiles.matitem": [
+        "/description"
+      ],
+      "tiles/materials/bookpiles.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A pile of dusty old books, they're full of tales of dragons and knights.",
+      "Por": "Uma pilha de livros velhos empoeirados, eles estão cheios de contos de dragões e cavaleiros."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/bookpiles.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/bookpiles.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Greatnesss not found in bookss.",
+      "Por": "Grandeza não é encontrada em livross."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/bookpiles.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/bookpiles.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pile of Books",
+      "Por": "Pile of Books"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/bookpiles.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/bookpiles.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some dusty books. Who doesn't love t'hear a good story?",
+      "Por": "Alguns livros empoeirados. Quem não gosta de ouvir uma boa história?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/bookpiles.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/bookpiles.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "There are wonderful stories recorded inside these books."
+    }
+  }
+]

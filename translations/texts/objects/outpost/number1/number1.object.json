@@ -1,0 +1,66 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/number1/number1.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A one.",
+      "Por": "Um."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/number1/number1.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "One",
+      "Por": "One"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/number1/number1.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "One marker.",
+      "Por": "Numero um."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/number1/number1.object": [
+        "/apexDescription",
+        "/avianDescription",
+        "/glitchDescription/glitchEmotedText",
+        "/humanDescription",
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "One.",
+      "Por": "Um."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/number1/number1.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pointy one.",
+      "Por": "Um."
+    }
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/mud.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/mud.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran likess muddy messsss.",
+      "Por": "Floran gossta de bagunçar com lama."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/mud.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/mud.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looks t'me like a buncha mud.",
+      "Por": "Para mim parece um monte de lama."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/mud.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/mud.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mud",
+      "Por": "Mud"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/mud.matitem": [
+        "/description"
+      ],
+      "tiles/materials/mud.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thick and sticky mud.",
+      "Por": "Lama espessa e pegajosa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/mud.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/mud.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This mud is thick and sticky."
+    }
+  }
+]

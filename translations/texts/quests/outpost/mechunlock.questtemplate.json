@@ -1,0 +1,61 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/mechunlock.questtemplate": [
+        "/scriptConfig/descriptions/findGoal"
+      ]
+    },
+    "Texts": {
+      "Eng": "Complete the ^orange;mech test course^reset;",
+      "Por": "Complete a ^orange;pista de teste de mecha^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/mechunlock.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hey there, friendo! I'm ^orange;Dr. Akaggy^white;, and I deal in robots! So I have this experimental ^green;modular space mech^white; in need of a test drive and my usual pilots are... Indisposed. Could you do me a favor and ^green;fly it through my test course^white;? \n\nJust ^green;talk to me when you're ready to go^white;!",
+      "Por": "Ei, amigo(a)! Eu sou o ^orange;Dr. Akaggy^white;, e eu lido com robôs! Então eu tenho esse ^green;mecha espacial modular^white; experimental na necessidade de um test drive e meus pilotos habituais estão... Indispostos. Você poderia me fazer um favor e ^green;pilotá-lo através da minha pista de teste^white;? \nApenas ^green;fale comigo quando estiver pronto(a) para ir.^white;!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/mechunlock.questtemplate": [
+        "/scriptConfig/descriptions/enterInstance"
+      ]
+    },
+    "Texts": {
+      "Eng": "Talk to ^orange;Dr. Akaggy^reset; to enter the ^orange;test course^reset;",
+      "Por": "Fale com ^orange;Dr. Akaggy^reset; para entrar na ^orange;pista de teste^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/mechunlock.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "You made it back! That's not surprise in my voice, it's elation! As a reward, I can give you enough ^green;spare mech components^white; for you to deploy your own mech for space travel! Head over to that ^orange;mech assembly station^white; to customise it!",
+      "Por": "Você conseguiu voltar! Isso não é surpresa na minha voz, é euforia! Como recompensa, vou te dar uns ^green;componentes de mecha^white; que tenho de sobra para que você possa lançar o seu próprio mecha para viagem espacial! Dirija-se a ^orange;estação de montagem de mecha^white; para personalizá-lo!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/mechunlock.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Test Drive"
+    }
+  }
+]

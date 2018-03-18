@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hoard/treasurechest/treasurechest.object": [
+        "/floranDescription"
+      ],
+      "objects/mission/trapchest/trapchest.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Chessst to keep trinketsss or treasures in.",
+      "Por": "Baú para guardar bugigangasss ou tesouros dentro."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/stonechest/ironchest.object": [
+        "/avianDescription"
+      ],
+      "objects/generic/woodenchest/woodenchest.object": [
+        "/avianDescription"
+      ],
+      "objects/mission/miningchest/miningchest.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Often these chests stored valuables. I'm excited!",
+      "Por": "Muitas vezes esses baús guardavam objetos de valor. Estou animado!"
+    }
+  }
+]

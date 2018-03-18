@@ -1,0 +1,80 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Um pilar de pedra de aparência antiga."
+    ],
+    "Files": {
+      "items/materials/pillarblock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/pillarblock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An old looking stone pillar.",
+      "Por": "Um pilar de pedra de aparência velha."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/pillarblock.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/pillarblock.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I believe this stone pillar is very old."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Pillar Block "
+    ],
+    "Files": {
+      "items/materials/pillarblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/pillarblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pillar Block",
+      "Por": "Pillar Block"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/pillarblock.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/pillarblock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sstone pillar iss very old.",
+      "Por": "Pilar de pedra é muito velho."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/pillarblock.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/pillarblock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is one ol' lookin' stone pillar.",
+      "Por": "Isso é um pilar de pedra de aparência velha."
+    }
+  }
+]

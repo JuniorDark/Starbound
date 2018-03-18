@@ -1,0 +1,81 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Painéis resilientes baratos amplamente utilizados para a construção de naves e estações."
+    ],
+    "Files": {
+      "items/materials/slopedhullpanel.matitem": [
+        "/description"
+      ],
+      "tiles/materials/slopedhullpanel.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cheap, resilient panelling widely used for ship and station construction.",
+      "Por": "Painéis baratos e resilientes amplamente utilizados para a construção de naves e estações."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/slopedhullpanel.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/slopedhullpanel.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hull Panel"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Metal espacial liso brilhante."
+    ],
+    "Files": {
+      "items/materials/slopedhullpanel.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/slopedhullpanel.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shiny sssmooth space metal.",
+      "Por": "Metal lissso brilhante do espaço."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Alguns revestimentos de metal grossos, parecem bem sólidos."
+    ],
+    "Files": {
+      "items/materials/slopedhullpanel.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/slopedhullpanel.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some thick metal plating, looks mighty solid.",
+      "Por": "Alguns painéis de metal espesso, parece muito sólido."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/slopedhullpanel.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/slopedhullpanel.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is panelling widely used for ship and station construction."
+    }
+  }
+]

@@ -1,0 +1,511 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/helpme/avian/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ah! Help!",
+      "Por": "Aah! Ajuda!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/helpme/default/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ah! Stop it!",
+      "Por": "Ah! Pare!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/helpme/avian/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "By my feathers, I'm under attack!",
+      "Por": "Pelas minhas penas, estou sob ataque!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/helpme/glitch/default/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't hurt me!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/safe/floran/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran go get spear now.",
+      "Por": "Floran ir buscar lança agora."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/helpme/floran/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran has no ssspear! Floran can't stab!",
+      "Por": "Floran não tem lança! Floran não pode esssfaquear!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/safe/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran lives to hunt another day.",
+      "Por": "Floran vive para caçar outro dia."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/safe/floran/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran livesss!",
+      "Por": "Floran quer viver!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/helpme/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran needs sspear!",
+      "Por": "Floran precisssa de uma lança!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/safe/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran sssafe!",
+      "Por": "Floran ssseguro!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/helpme/floran/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran will tell greenfinger on you!",
+      "Por": "Floran dirá greenfinger em você!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/helpme/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gaaah! Help me!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/helpme/glitch/default/3/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Get away from me! Help!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/helpme/apex/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I am under attack!",
+      "Por": "Estou sob ataque!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/safe/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I got away!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/safe/default/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "I made it!",
+      "Por": "Eu consegui!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/helpme/apex/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I need help!",
+      "Por": "Preciso de ajuda!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/helpme/default/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "I need help! I can't defend myself!",
+      "Por": "Preciso de ajuda! Eu não consigo me defender!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/safe/glitch/default/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm alive!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/safe/avian/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm alright!",
+      "Por": "Eu estou bem!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/helpme/avian/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm being chased! Somebody, help me!",
+      "Por": "Eu estou sendo perseguido! Alguém me ajude! "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/helpme/avian/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm unarmed!",
+      "Por": "Estou desarmado!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/helpme/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm unarmed! Help!",
+      "Por": "Estou desarmado! Socorro!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/safe/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Is it over?",
+      "Por": "Já acabou?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/safe/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Is it safe now?",
+      "Por": "Está seguro agora?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/helpme/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Oh no! Help me!",
+      "Por": "Oh não! Socorro"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/helpme/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ow! Stop it!",
+      "Por": "Ai! para com isso!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/helpme/apex/default/4",
+        "/helpme/avian/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Somebody help me!",
+      "Por": "Alguém me ajude!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/helpme/apex/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sound the alarm!",
+      "Por": "Soe o alarme!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/helpme/apex/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sound the alarm! Sound all of the alarms!",
+      "Por": "Soe o alarme! Soe todos os alarmes!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/helpme/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sstop hurting Floran!",
+      "Por": "Pare de machucar Floran!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/helpme/apex/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stop!",
+      "Por": "Pare!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/safe/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thank goodness that's over.",
+      "Por": "Graças a deus isso acabou."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/safe/avian/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "That ruffled my feathers a little.",
+      "Por": "Isso bagunçou minhas penas um pouco."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/safe/avian/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "That was close.",
+      "Por": "Essa foi por pouco."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/safe/glitch/default/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "That was exhausting."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/safe/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Them lucky Floran not have weapon...",
+      "Por": "Pra ssua ssorte Floran não tem uma arma..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/helpme/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Uh-oh.",
+      "Por": "Uh-oh"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/safe/avian/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Well, at least I'm safe now.",
+      "Por": "Bem, pelo menos eu estou seguro agora."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/safe/avian/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "What an ordeal.",
+      "Por": "Que provação."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/helpme/default/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "What!? What did I do!?",
+      "Por": "O que!? O que eu fiz!?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/helpme/glitch/default/5/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "What's happening!? Stop it!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/helpme/glitch/default/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Why is this happening!?"
+    }
+  }
+]

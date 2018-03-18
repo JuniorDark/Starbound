@@ -1,0 +1,63 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Um pedaço de madeira alienígena listrada."
+    ],
+    "Files": {
+      "items/materials/alienstripedwood.matitem": [
+        "/description"
+      ],
+      "tiles/materials/alienstripedblock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A piece of alien striped wood. Stripey!",
+      "Por": "Um pedaço de madeira alienígena listrada. Listrada!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alienstripedwood.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/alienstripedblock.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "It appears the stripes present in this wood are the result of materials that repel one another."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alienstripedwood.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/alienstripedblock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "SSssstripey wood. Makess sstripey housse!",
+      "Por": "Madeira listrada. Faz casssa listrada!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alienstripedwood.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/alienstripedblock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This here wood's all covered in stripes.",
+      "Por": "Esta madeira aqui está toda coberta de listras."
+    }
+  }
+]

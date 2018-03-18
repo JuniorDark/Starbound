@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/opulent/opulentdoor/opulentdoor.object": [
+        "/avianDescription"
+      ],
+      "objects/themed/serene/serenedoor/serenedoor.object": [
+        "/avianDescription"
+      ],
+      "objects/themed/wave/wavedoor/wavedoor.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A very sturdy door.",
+      "Por": "Uma porta muito resistente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/opulent/opulentdoor/opulentdoor.object": [
+        "/apexDescription"
+      ],
+      "objects/themed/wave/wavedoor/wavedoor.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This door is very secure.",
+      "Por": "Esta porta é muito segura."
+    }
+  }
+]

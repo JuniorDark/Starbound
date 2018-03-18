@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/laserdiode.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a laser diode.",
+      "Por": "É um diodo laser."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/laserdiode.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Laser Diode",
+      "Por": "Laser Diode"
+    }
+  }
+]

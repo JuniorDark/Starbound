@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/holiday/giftmonsterbox/giftmonsterbox.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A gift box. It's pretty big...but why is it moving?",
+      "Por": "Uma caixa de presente. É muito grande... mas por que está se movendo?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/holiday/giftmonsterbox/giftmonsterbox.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Big Unusual Gift Box",
+      "Por": "Big Unusual Gift Box"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/holiday/giftmonsterbox/giftmonsterbox.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It sure looks pretty, but I don't trust it.",
+      "Por": "Com certeza parece bonita, mas eu não confio nela."
+    }
+  }
+]

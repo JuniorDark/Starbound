@@ -1,0 +1,78 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Uma plataforma polida feita de prata pura."
+    ],
+    "Files": {
+      "items/materials/silverplatform.matitem": [
+        "/description"
+      ],
+      "tiles/platforms/silverplatform.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A polished platform crafted from pure silver.",
+      "Por": "Uma plataforma polida feita a partir de prata pura."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/silverplatform.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/platforms/silverplatform.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can see my reflection in these silver platforms."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/silverplatform.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/platforms/silverplatform.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll reckon this platform is worth its weight in silver.",
+      "Por": "Vou considerar que esta plataforma vale o seu peso em prata."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/silverplatform.matitem": [
+        "/florandescription"
+      ],
+      "tiles/platforms/silverplatform.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Platformss made from ssilver.",
+      "Por": "Plataformass feitass de prata."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/silverplatform.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/silverplatform.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Silver Platform",
+      "Por": "Silver Platform"
+    }
+  }
+]

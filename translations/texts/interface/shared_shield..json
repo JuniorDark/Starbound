@@ -1,0 +1,32 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/shield.itemdescription": [
+        "/cooldownTitleLabel/value"
+      ],
+      "interface/tooltips/shield.tooltip": [
+        "/cooldownTitleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cooldown Time:",
+      "Por": "Tempo de Recarga:"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/shield.itemdescription": [
+        "/healthTitleLabel/value"
+      ],
+      "interface/tooltips/shield.tooltip": [
+        "/healthTitleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shield Health:",
+      "Por": "Vida do Escudo:"
+    }
+  }
+]

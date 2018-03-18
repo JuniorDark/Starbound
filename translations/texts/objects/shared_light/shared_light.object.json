@@ -1,0 +1,232 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hoard/mysteriouslight/mysteriouslight.object": [
+        "/hylotlDescription"
+      ],
+      "objects/human/prisonfloodlight/prisonfloodlight.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bright, piercing floodlight.",
+      "Por": "Um holofote luminoso e penetrante."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hoard/mysteriouslight/mysteriouslight.object": [
+        "/avianDescription"
+      ],
+      "objects/human/prisonfloodlight/prisonfloodlight.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An annoying, blinding light.",
+      "Por": "Uma luz irritante e ofuscante."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Uma lâmpada elétrica. Parece construído para uma chama."
+    ],
+    "Files": {
+      "objects/apex/classiclight/classiclight.object": [
+        "/humanDescription"
+      ],
+      "objects/novakid/saloonlight/saloonlight.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An electric lamp. It looks built for a flame.",
+      "Por": "Uma lâmpada elétrica. Parece construída para uma chama."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hoard/mysteriouslight/mysteriouslight.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/human/prisonfloodlight/prisonfloodlight.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/tiered/tier1spotlight/tier1spotlight.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "By analysing this floodlight's patterns, it would be easy to sneak around it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hoard/mysteriouslight/mysteriouslight.object": [
+        "/floranDescription"
+      ],
+      "objects/human/prisonfloodlight/prisonfloodlight.object": [
+        "/floranDescription"
+      ],
+      "objects/tiered/tier1spotlight/tier1spotlight.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran feelss like centre of attention.",
+      "Por": "Floran se ssente como centro das atenções."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hoard/mysteriouslight/mysteriouslight.object": [
+        "/humanDescription"
+      ],
+      "objects/human/prisonfloodlight/prisonfloodlight.object": [
+        "/humanDescription"
+      ],
+      "objects/tiered/tier1spotlight/tier1spotlight.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've always wanted to be in the spotlight.",
+      "Por": "Eu sempre quis estar no centro das atenções."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/classiclight/classiclight.object": [
+        "/floranDescription"
+      ],
+      "objects/novakid/saloonlight/saloonlight.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "No fire burnsss within.",
+      "Por": "Nenhum fogo queima dentro."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/invisiblelight/invisiblelight.object": [
+        "/shortdescription"
+      ],
+      "objects/generic/shiplight/shiplight.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/apexshiplight/apexshiplight.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ship Light",
+      "Por": "Ship Light"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hoard/mysteriouslight/mysteriouslight.object": [
+        "/apexDescription"
+      ],
+      "objects/human/prisonfloodlight/prisonfloodlight.object": [
+        "/apexDescription"
+      ],
+      "objects/tiered/tier1spotlight/tier1spotlight.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Such spotlights are used by the Miniknog to force people to talk. Spotlights, and worse...",
+      "Por": "Esses holofotes são usados pela Miniknog para forçar as pessoas a falar. Holofotes, e pior..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/classiclight/classiclight.object": [
+        "/apexDescription"
+      ],
+      "objects/novakid/saloonlight/saloonlight.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The glow of this lamp is warm and comforting.",
+      "Por": "O brilho desta lâmpada é quente e reconfortante."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "O brilho desta lâmpada é quente e reconfortante."
+    ],
+    "Files": {
+      "objects/apex/classiclight/classiclight.object": [
+        "/avianDescription"
+      ],
+      "objects/novakid/saloonlight/saloonlight.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The ironwork surpasses that of Avian spearsmiths.",
+      "Por": "A ferragem supera a dos ferreiros Avian."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/classiclight/classiclight.object": [
+        "/hylotlDescription"
+      ],
+      "objects/novakid/saloonlight/saloonlight.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The lamp appears to be designed to house a flame but is entirely electric.",
+      "Por": "A lâmpada parece ser projetada para abrigar uma chama, mas é inteiramente elétrica."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Estas luzes são comumente usados em naves."
+    ],
+    "Files": {
+      "objects/mission/redlight/redlight.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/apexshiplight/apexshiplight.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These lights are commonly used on ships.",
+      "Por": "Essas luzes são comumente usadas em naves."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hoard/mysteriouslight/mysteriouslight.object": [
+        "/novakidDescription"
+      ],
+      "objects/tiered/tier1spotlight/tier1spotlight.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This light is nearly as bright as me!",
+      "Por": "Esta luz é quase tão brilhante quanto eu!"
+    }
+  }
+]

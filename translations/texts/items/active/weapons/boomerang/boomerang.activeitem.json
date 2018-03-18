@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/boomerang/boomerang.activeitem": [
+        "/upgradeParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Boomerang ^yellow;^reset;",
+      "Por": "Boomerang ^yellow;^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/boomerang/boomerang.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "State-of-the-art microthrusters guarantee that it will always return.",
+      "Por": "Micromotores de última geração garantem que ele sempre vai voltar."
+    }
+  }
+]

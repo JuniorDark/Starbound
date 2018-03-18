@@ -1,0 +1,78 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/limestone.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/limestone.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dussty limesstone rockss.",
+      "Por": "Pedrass de calcário empoeiradass."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/limestone.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/limestone.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Limestone",
+      "Por": "Limestone"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Calcário áspero não refinado."
+    ],
+    "Files": {
+      "items/materials/limestone.matitem": [
+        "/description"
+      ],
+      "tiles/materials/limestone.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rough, unrefined limestone.",
+      "Por": "Calcário áspero e não refinado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/limestone.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/limestone.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some chalky lookin' limestone.",
+      "Por": "Um pouco de calcário farináceo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/limestone.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/limestone.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This limestone has a chalky consistency."
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/plutoniumrod.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nobody's going to want this. It's highly radioactive.",
+      "Por": "Ninguém vai querer isso. É altamente radioativo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/plutoniumrod.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Plutonium Rod",
+      "Por": "Plutonium Rod"
+    }
+  }
+]

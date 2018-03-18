@@ -1,0 +1,27 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/outposthumanscientist.npctype": [
+        "/scriptConfig/dialog/converse/human/human/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fellow survivor! You wouldn't happen to know any scientists who could assist me with my research, would you?",
+      "Por": "Um sobrevivente companheiro! Você não saberia me dizer qualquer cientista que poderia me ajudar com minha pesquisa, não é?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/outposthumanscientist.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0",
+        "/scriptConfig/dialog/converse/human/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "The entity that destroyed Earth could strike other worlds. We must devise some means of fighting back!",
+      "Por": "A entidade que destruiu a Terra poderia atacar outros mundos. Devemos elaborar alguns meios de contra-atacar!"
+    }
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/anvil/anvil.object": [
+        "/interactData/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": " Basic Anvil",
+      "Por": "Bigorna Básica"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/anvil/anvil.object": [
+        "/interactData/paneLayoutOverride/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": " ^#b9b5b2;Armor and weapons",
+      "Por": "^#b9b5b2;Armadura e armas"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/anvil/anvil.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple anvil, used for banging metal into shape.",
+      "Por": "Uma bigorna simples, usada para bater no metal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/anvil/anvil.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An anvil, always useful to have around.",
+      "Por": "Uma bigorna, sempre útil ter por perto."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/anvil/anvil.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An anvil. The Apex haven't used these for metal work for a long long time.",
+      "Por": "Uma bigorna. Os Apex não tem usado isto para metalurgia por um longo, longo tempo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/anvil/anvil.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Basic Anvil",
+      "Por": "Basic Anvil"
+    }
+  }
+]

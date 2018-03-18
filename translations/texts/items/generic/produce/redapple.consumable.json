@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/redapple.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A ripe red apple.",
+      "Por": "Uma maçã vermelha madura."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/redapple.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Red Apple",
+      "Por": "Red Apple"
+    }
+  }
+]

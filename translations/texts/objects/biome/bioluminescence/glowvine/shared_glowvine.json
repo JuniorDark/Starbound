@@ -1,0 +1,101 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/bioluminescence/glowvine/glowvine1.object": [
+        "/description"
+      ],
+      "objects/biome/bioluminescence/glowvine/glowvine2.object": [
+        "/description"
+      ],
+      "objects/biome/bioluminescence/glowvine/glowvine3.object": [
+        "/description"
+      ],
+      "objects/biome/bioluminescence/glowvine/glowvine4.object": [
+        "/description"
+      ],
+      "objects/biome/bioluminescence/glowvine/glowvine5.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A glowing vine. It's beautiful, but a bit eerie.",
+      "Por": "Uma vinha brilhante. É linda, mas um pouco estranha."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/bioluminescence/glowvine/glowvine4.object": [
+        "/floranDescription"
+      ],
+      "objects/biome/bioluminescence/glowvine/glowvine5.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bright vinesss make bad night hunting.",
+      "Por": "Árvore brilhante torna a caça a noite ruim."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/bioluminescence/glowvine/glowvine4.object": [
+        "/avianDescription"
+      ],
+      "objects/biome/bioluminescence/glowvine/glowvine5.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Do these vines simply store sunlight, or do they generate their own?",
+      "Por": "Essas árvores simplesmente armazenam luz solar, ou geram sua própria luz?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/bioluminescence/glowvine/glowvine4.object": [
+        "/shortdescription"
+      ],
+      "objects/biome/bioluminescence/glowvine/glowvine5.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Glowing Vine",
+      "Por": "Glowing Vine"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/bioluminescence/glowvine/glowvine4.object": [
+        "/humanDescription"
+      ],
+      "objects/biome/bioluminescence/glowvine/glowvine5.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Glowing vines? How convenient!",
+      "Por": "Árvores brilhantes? Que conveniente!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/bioluminescence/glowvine/glowvine4.object": [
+        "/hylotlDescription"
+      ],
+      "objects/biome/bioluminescence/glowvine/glowvine5.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This vine glows as though inhabited by a lonely spirit.",
+      "Por": "Esta árvore brilha como se fosse habitada por um espírito solitário."
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/techscientist5.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Most excellent! Now all that remains is to test the ^orange;Distortion Sphere Tech^white; and I've got just the course for it.",
+      "Por": "Excelente! Agora tudo o que resta é testar a ^orange;Tecnologia de Esfera de Distorção^white; e eu tenho a pista para ela."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/techscientist5.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The ^orange;tech^white; I'm working on now is truly fantastic! It enables the user to compress into a small, spherical form ideal for moving around in tight spaces. I need some final components to finish it. ^green;Could you bring me ^orange;10 Gold Bars^white;?",
+      "Por": "A ^orange;tecnologia^white; que estou trabalhando agora é realmente fantástica! Ela permite que o usuário se comprima em forma de uma pequena esféra, ideal para se deslocar em espaços apertados. Eu preciso de alguns componentes finais para termina-la. ^green;Você poderia me trazer ^orange;10 Gold Bars^white;?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/techscientist5.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Rounding Up The Components",
+      "Por": "^orange;Arredondando Os Componentes"
+    }
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/tiered/tier1door/tier1door.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/tiered/tier2door/tier2door.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A useful, basic door."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/tiered/tier1door/tier1door.object": [
+        "/avianDescription"
+      ],
+      "objects/tiered/tier2door/tier2door.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fairly sturdy for a basic door.",
+      "Por": "Bastante resistente para uma porta básica."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/tiered/tier1door/tier1door.object": [
+        "/novakidDescription"
+      ],
+      "objects/tiered/tier2door/tier2door.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Just a simple door, does the job I guess.",
+      "Por": "Apenas uma porta simples, serve ao seu proposito, eu acho."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/tiered/tier3door/tier3door.object": [
+        "/novakidDescription"
+      ],
+      "objects/tiered/tier4door/tier4door.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now this is a sturdy lookin' door!",
+      "Por": "Essa sim é uma porta resistente!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/tiered/tier3door/tier3door.object": [
+        "/apexDescription"
+      ],
+      "objects/tiered/tier4door/tier4door.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This door is rather secure.",
+      "Por": "Esta porta é bastante segura."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/tiered/tier1door/tier1door.object": [
+        "/apexDescription"
+      ],
+      "objects/tiered/tier2door/tier2door.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This door is relatively secure.",
+      "Por": "Esta porta é relativamente segura."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/tiered/tier3door/tier3door.object": [
+        "/avianDescription"
+      ],
+      "objects/tiered/tier4door/tier4door.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Very sturdy for a basic door.",
+      "Por": "Muito resistente para uma porta básica."
+    }
+  }
+]

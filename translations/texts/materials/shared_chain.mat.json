@@ -1,0 +1,78 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/chain.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/chain.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran use chains to catch prey.",
+      "Por": "Floran usa correntes para capturar presas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/chain.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/chain.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some chains made outta tungsten.",
+      "Por": "Algumas correntes feitas de tungstênio."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/chain.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/chain.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These chains are remarkably strong."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/chain.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/chain.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tungsten Chain",
+      "Por": "Tungsten Chain"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Correntes de tungstênio, não são muito divertidas."
+    ],
+    "Files": {
+      "items/materials/chain.matitem": [
+        "/description"
+      ],
+      "tiles/materials/chain.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tungsten chains, and not the fun kind.",
+      "Por": "Correntes feitas de tungstênio."
+    }
+  }
+]

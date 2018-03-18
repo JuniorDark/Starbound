@@ -1,0 +1,73 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/avianpressureplate/avianpressureplate.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A crystal pressure switch.  What would happen if I stand on it?",
+      "Por": "Um interruptor de pressão de cristal. O que aconteceria se eu ficar de pé nele?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/avianpressureplate/avianpressureplate.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crystal Pressure Plate",
+      "Por": "Crystal Pressure Plate"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/avianpressureplate/avianpressureplate.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I don't think this was built by the Glitch."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/avianpressureplate/avianpressureplate.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shiny crystal button. Should Floran jump on?",
+      "Por": "Botão de cristal brilhante. Floran deve pular nele?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/avianpressureplate/avianpressureplate.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some kind of crystal powered pressure plate.",
+      "Por": "Algum tipo de placa de pressão de cristal alimentada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/avianpressureplate/avianpressureplate.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This crystal looks like it could be rigged to somethin'.",
+      "Por": "Este cristal parece que poderia ser manipulado para algo."
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/liquids/liquidfuel.liqitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A dangerous and volatile substance, syphoned from moons and used as FTL fuel.",
+      "Por": "Substância perigosa e volátil, retirada de luas e utilizada como combustível para o FTL."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/liquids/liquidfuel.liqitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Liquid Erchius Fuel",
+      "Por": "Liquid Erchius Fuel"
+    }
+  }
+]

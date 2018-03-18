@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/matterblock.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/matterblock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran musst gather colourful matter crystal.",
+      "Por": "Floran deve coletar cristal de matéria colorido."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/matterblock.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/matterblock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some strange lookin' crystals.",
+      "Por": "Alguns cristais estranhos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/matterblock.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/matterblock.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This appears to be a rare form of raw matter."
+    }
+  }
+]

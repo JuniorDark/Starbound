@@ -1,0 +1,987 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/actionFigure"
+      ]
+    },
+    "Texts": {
+      "Eng": "Action Figure",
+      "Por": "Figura de Ação"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/artifact"
+      ]
+    },
+    "Texts": {
+      "Eng": "Artifact",
+      "Por": "Artefato"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/assaultRifle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Assault Rifle",
+      "Por": "Rifle de Assalto"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/axe"
+      ]
+    },
+    "Texts": {
+      "Eng": "Axe",
+      "Por": "Machado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/backwear"
+      ]
+    },
+    "Texts": {
+      "Eng": "Backwear",
+      "Por": "Costas"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/block"
+      ]
+    },
+    "Texts": {
+      "Eng": "Block",
+      "Por": "Bloco"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/bow"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bow",
+      "Por": "Arco"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/breakable"
+      ]
+    },
+    "Texts": {
+      "Eng": "Breakable",
+      "Por": "Quebrável"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/broadsword"
+      ]
+    },
+    "Texts": {
+      "Eng": "Broadsword",
+      "Por": "Espada"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/bug"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bug",
+      "Por": "Inseto"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/chestwear"
+      ]
+    },
+    "Texts": {
+      "Eng": "Chestwear",
+      "Por": "Peitoral"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/clothingDye"
+      ]
+    },
+    "Texts": {
+      "Eng": "Clothing Dye",
+      "Por": "Tintura de Roupa"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/cookingIngredient"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cooking Ingredient",
+      "Por": "Ingrediente Culinário"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/craftingMaterial"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crafting Material",
+      "Por": "Material de Fabricação"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/crafting"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crafting Station",
+      "Por": "Estação de Fabricação"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/crossbow"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crossbow",
+      "Por": "Besta"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/currency"
+      ]
+    },
+    "Texts": {
+      "Eng": "Currency",
+      "Por": "Moeda"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/dagger"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dagger",
+      "Por": "Adaga"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/decorative"
+      ]
+    },
+    "Texts": {
+      "Eng": "Decorative",
+      "Por": "Decorativo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/spawner"
+      ]
+    },
+    "Texts": {
+      "Eng": "Deed",
+      "Por": "Escritura"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/drink"
+      ]
+    },
+    "Texts": {
+      "Eng": "Drink",
+      "Por": "Bebida"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/eppAugment"
+      ]
+    },
+    "Texts": {
+      "Eng": "EPP Augment",
+      "Por": "Aprimoramento de EPP"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/enviroProtectionPack"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enviro Protection Pack",
+      "Por": "Pac. de Proteção Ambiental"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/farmBeastEgg"
+      ]
+    },
+    "Texts": {
+      "Eng": "Farm Beast Egg",
+      "Por": "Ovo de Animal de Fazenda"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/farmBeastFood"
+      ]
+    },
+    "Texts": {
+      "Eng": "Farm Beast Food",
+      "Por": "Comida de Animal de Fazenda"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/fishingLure"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fishing Lure",
+      "Por": "Isca de Pesca"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/fishingReel"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fishing Reel",
+      "Por": "Carretilha de Pesca"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/fistWeapon"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fist Weapon",
+      "Por": "Arma de Punho"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/farmBeastFeed"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fluffalo Food",
+      "Por": "Comida de Fluffalo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/food"
+      ]
+    },
+    "Texts": {
+      "Eng": "Food",
+      "Por": "Comida"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/generic"
+      ]
+    },
+    "Texts": {
+      "Eng": "Generic",
+      "Por": "Genérico"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/hammer"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hammer",
+      "Por": "Martelo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/headwear"
+      ]
+    },
+    "Texts": {
+      "Eng": "Headwear",
+      "Por": "Cabeça"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/foodJunk",
+        "/labels/junk"
+      ]
+    },
+    "Texts": {
+      "Eng": "Junk",
+      "Por": "Lixo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/largeFossil"
+      ]
+    },
+    "Texts": {
+      "Eng": "Large Fossil",
+      "Por": "Fóssil Grande"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/light"
+      ]
+    },
+    "Texts": {
+      "Eng": "Light Source",
+      "Por": "Fonte de Luz"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/liquid"
+      ]
+    },
+    "Texts": {
+      "Eng": "Liquid",
+      "Por": "Líquido"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/machinePistol"
+      ]
+    },
+    "Texts": {
+      "Eng": "Machine Pistol",
+      "Por": "Pistola Automática"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/mechPart"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mech Component",
+      "Por": "Componente de Mecha"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/medicine"
+      ]
+    },
+    "Texts": {
+      "Eng": "Medicine",
+      "Por": "Remédio"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/mediumFossil"
+      ]
+    },
+    "Texts": {
+      "Eng": "Medium Fossil",
+      "Por": "Fóssil Médio"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/musicalInstrument"
+      ]
+    },
+    "Texts": {
+      "Eng": "Musical Instrument",
+      "Por": "Instrumento Musical"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/mysteriousReward"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mysterious Reward",
+      "Por": "Recompensa Misteriosa"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/other"
+      ]
+    },
+    "Texts": {
+      "Eng": "Other",
+      "Por": "Outro"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/petCollar"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pet Collar",
+      "Por": "Coleira de Pet"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/pistol"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pistol",
+      "Por": "Pistola"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/platform"
+      ]
+    },
+    "Texts": {
+      "Eng": "Platform",
+      "Por": "Plataforma"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/preparedFood"
+      ]
+    },
+    "Texts": {
+      "Eng": "Prepared Food",
+      "Por": "Alimento Preparado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/quest"
+      ]
+    },
+    "Texts": {
+      "Eng": "Quest",
+      "Por": "Item de Missão"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/rail"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rail",
+      "Por": "Trilho"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/railPlatform"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rail Platform",
+      "Por": "Plataforma de Trilho"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/railPoint"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rail Point",
+      "Por": "Ponto de Trilho"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/fridgeStorage"
+      ]
+    },
+    "Texts": {
+      "Eng": "Refrigerated Storage",
+      "Por": "Armazenamento Refrigerado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/rocketLauncher"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rocket Launcher",
+      "Por": "Lançador de Foguetes"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/salvageComponent"
+      ]
+    },
+    "Texts": {
+      "Eng": "Salvage Component",
+      "Por": "Componente Recuperado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/seed"
+      ]
+    },
+    "Texts": {
+      "Eng": "Seed",
+      "Por": "Semente"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/shield"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shield",
+      "Por": "Escudo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/fuel"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ship Fuel",
+      "Por": "Combustível de Nave"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/shipLicense"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ship License",
+      "Por": "Licença de Nave"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/shortsword"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shortsword",
+      "Por": "Espada Curta"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/shotgun"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shotgun",
+      "Por": "Espingarda"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/smallFossil"
+      ]
+    },
+    "Texts": {
+      "Eng": "Small Fossil",
+      "Por": "Fóssil Pequeno"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/sniperRifle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sniper Rifle",
+      "Por": "Rifle Sniper"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/spear"
+      ]
+    },
+    "Texts": {
+      "Eng": "Spear",
+      "Por": "Lança"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/staff"
+      ]
+    },
+    "Texts": {
+      "Eng": "Staff",
+      "Por": "Cajado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/storage"
+      ]
+    },
+    "Texts": {
+      "Eng": "Storage",
+      "Por": "Armazenamento"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/tech"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tech",
+      "Por": "Tecnologia"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/techManagement"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tech Management",
+      "Por": "Gestor de Tecnologia"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/teleportMarker"
+      ]
+    },
+    "Texts": {
+      "Eng": "Teleport Marker",
+      "Por": "Marcador de Teleporte"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/terraformer"
+      ]
+    },
+    "Texts": {
+      "Eng": "Terraformer",
+      "Por": "Terraformador"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/throwableItem"
+      ]
+    },
+    "Texts": {
+      "Eng": "Throwable Item",
+      "Por": "Item Arremessável"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/toy"
+      ]
+    },
+    "Texts": {
+      "Eng": "Toy",
+      "Por": "Brinquedo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/tradeGoods"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trade Goods",
+      "Por": "Mercadoria de Troca"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/tradingCard"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trading Card",
+      "Por": "Cartão de Troca"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/trap"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trap",
+      "Por": "Armadilha"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/trophy"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trophy",
+      "Por": "Troféu"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/uniqueWeapon"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unique Weapon",
+      "Por": "Arma Única"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/upgradeComponent"
+      ]
+    },
+    "Texts": {
+      "Eng": "Upgrade Component",
+      "Por": "Componente de Melhoria"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/vehicleController"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vehicle Controller",
+      "Por": "Controlador de Veículo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/wand"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wand",
+      "Por": "Varinha"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/whip"
+      ]
+    },
+    "Texts": {
+      "Eng": "Whip",
+      "Por": "Chicote"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/categories.config": [
+        "/labels/wire"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wire",
+      "Por": "Fiação"
+    }
+  }
+]

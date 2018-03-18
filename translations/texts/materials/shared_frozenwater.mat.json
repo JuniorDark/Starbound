@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/frozenwater.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/frozenwater.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Smooth Ice",
+      "Por": "Smooth Ice"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/frozenwater.matitem": [
+        "/description"
+      ],
+      "tiles/materials/frozenwater.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some naturally smooth ice.",
+      "Por": "Gelo que é naturalmente liso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/frozenwater.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/frozenwater.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssslippy frozen water.",
+      "Por": "Água congelada escorregadia."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/frozenwater.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/frozenwater.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The way this ice froze has made it unusually smooth."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/frozenwater.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/frozenwater.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This ice is mighty slick.",
+      "Por": "Este gelo é muito liso."
+    }
+  }
+]

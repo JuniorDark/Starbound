@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostcargocrate/outpostcargocrate.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A crate containing cargo. What cargo? Who knows.",
+      "Por": "Uma caixa contendo carga. Que carga? Quem sabe."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostcargocrate/outpostcargocrate.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Metal Cargo Crate",
+      "Por": "Metal Cargo Crate"
+    }
+  }
+]

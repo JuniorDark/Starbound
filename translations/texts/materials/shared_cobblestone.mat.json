@@ -1,0 +1,78 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/cobblestone.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/cobblestone.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ain't uncommon to run across cobblestone rocks like this.",
+      "Por": "Não é incomum correr sobre rochas de pedregulho como esta."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/cobblestone.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/cobblestone.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cobblestone",
+      "Por": "Cobblestone"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Pedregulhos duro, liso ao toque."
+    ],
+    "Files": {
+      "items/materials/cobblestone.matitem": [
+        "/description"
+      ],
+      "tiles/materials/cobblestone.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hard cobblestones, smooth to the touch.",
+      "Por": "Pedregulho duro, liso ao toque."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/cobblestone.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/cobblestone.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssmooth cobblessstone rockss.",
+      "Por": "Pedrass de pedregulho lisa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/cobblestone.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/cobblestone.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These cobblestones are naturally smooth."
+    }
+  }
+]

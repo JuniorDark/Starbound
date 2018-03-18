@@ -1,0 +1,170 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/steamspring.npctype": [
+        "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Inventor",
+      "Por": "Inventor"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/steamspring.npctype": [
+        "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Sells hand-crafted curiosities",
+      "Por": "Vende curiosidades artesanais"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/steamspring.npctype": [
+        "/scriptConfig/dialog/merchant/end/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Anxious. Please come back if you need anything else.",
+      "Por": "Ansioso. Por favor, volte, se você precisa de mais alguma coisa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/steamspring.npctype": [
+        "/scriptConfig/dialog/merchant/start/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Desperate. I really need someone to buy my inventions...",
+      "Por": "Desesperado. Eu realmente preciso que alguém compre minhas invenções..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/steamspring.npctype": [
+        "/scriptConfig/dialog/merchant/end/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eager. Come again!",
+      "Por": "Ansioso. Volte novamente!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/steamspring.npctype": [
+        "/scriptConfig/dialog/merchant/start/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eager. Do you want to have a look at my inventions?",
+      "Por": "Ansioso. Você quer dar uma olhada em minhas invenções?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/steamspring.npctype": [
+        "/scriptConfig/dialog/merchant/welcome/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eager. Now you can have a look at the inventions I need to sell!",
+      "Por": "Ansioso. Agora você pode dar uma olhada nas invenções que eu preciso vender!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/steamspring.npctype": [
+        "/scriptConfig/dialog/merchant/welcome/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excited. Finally, a customer who might buy my inventions!",
+      "Por": "Animado. Finalmente, um cliente que possa comprar minhas invenções!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/steamspring.npctype": [
+        "/scriptConfig/dialog/merchant/start/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hopeful. Would you like to buy some of my inventions? Please?",
+      "Por": "Esperançoso. Você gostaria de comprar algumas das minhas invenções? Por favor?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/steamspring.npctype": [
+        "/scriptConfig/dialog/merchant/end/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Panicking. Please don't forget to come and visit again!",
+      "Por": "Em pânico. Por favor, não se esqueça de vir e visitar novamente!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/steamspring.npctype": [
+        "/scriptConfig/dialog/merchant/welcome/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased. Now you can have a look at my inventions!",
+      "Por": "Satisfeito. Agora você pode dar uma olhada em minhas invenções!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/steamspring.npctype": [
+        "/scriptConfig/dialog/merchant/end/default/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tense. I hope you like my wares. I hope you come back!",
+      "Por": "Tenso. Eu espero que você gosta de meus produtos. Eu espero que você volte!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/steamspring.npctype": [
+        "/scriptConfig/dialog/merchant/start/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welcoming. You should see what inventions I have to offer!",
+      "Por": "Acolhedor. Você deve ver que invenções eu tenho para oferecer!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/steamspring.npctype": [
+        "/scriptConfig/dialog/merchant/end/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Worried. Don't forget to come back.",
+      "Por": "Preocupado. Não se esqueça de voltar."
+    }
+  }
+]

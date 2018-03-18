@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/backitems/breathprotection/breathprotection.back": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Breathing EPP",
+      "Por": "Breathing EPP"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/backitems/breathprotection/breathprotection.back": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Produces breathable air. Helpful in places with ^red;no breathable atmosphere^reset;.",
+      "Por": "Produz ar respirável. Útil em lugares ^red;sem atmosfera respirável^reset;."
+    }
+  }
+]

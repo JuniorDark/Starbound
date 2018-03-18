@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/other/gnomegun/gnomegun.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gnome Gun",
+      "Por": "Gnome Gun"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/other/gnomegun/gnomegun.activeitem": [
+        "/upgradeParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gnome Gun ^yellow;^reset;",
+      "Por": "Gnome Gun ^yellow;^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/other/gnomegun/gnomegun.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Say hello to my little friend!",
+      "Por": "Diga olá para meu pequeno amigo!"
+    }
+  }
+]

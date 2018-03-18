@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/fishing/medium/nose/fishingnose.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "It can smell prey approaching from a mile away, but it's also too slow to react.",
+      "Por": "Ele pode sentir o cheiro de presas se aproximando a uma milha de distância, mas também é muito lento para reagir."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/fishing/medium/nose/fishingnose.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nosy Scoutier",
+      "Por": "Nosy Scoutier"
+    }
+  }
+]

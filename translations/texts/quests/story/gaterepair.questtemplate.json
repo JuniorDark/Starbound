@@ -1,0 +1,98 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/gaterepair.questtemplate": [
+        "/scriptConfig/descriptions/collectRepairItem"
+      ]
+    },
+    "Texts": {
+      "Eng": "Collect ^orange;Core Fragments^reset;",
+      "Por": "Colete ^orange;Core Fragments^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/gaterepair.questtemplate": [
+        "/scriptConfig/descriptions/explore"
+      ]
+    },
+    "Texts": {
+      "Eng": "Explore the ^orange;orbited planet^reset;",
+      "Por": "Explore o ^orange;planeta orbitado^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/gaterepair.questtemplate": [
+        "/scriptConfig/descriptions/findGate"
+      ]
+    },
+    "Texts": {
+      "Eng": "Find the ^orange;archaic energy source^reset;",
+      "Por": "Encontre a ^orange;fonte de energia arcaica^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/gaterepair.questtemplate": [
+        "/scriptConfig/descriptions/findEsther"
+      ]
+    },
+    "Texts": {
+      "Eng": "Find the source of the ^orange;mysterious messages^reset;",
+      "Por": "Encontre a fonte das ^orange;mensagens misteriosas^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/gaterepair.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Getting Started",
+      "Por": "Começando"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/gaterepair.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thank you for joining me dear. With your help I know we can triumph.",
+      "Por": "Obrigado por se juntar-se a mim querido(a). Com a sua ajuda eu sei que podemos triunfar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/gaterepair.questtemplate": [
+        "/scriptConfig/descriptions/repairGate"
+      ]
+    },
+    "Texts": {
+      "Eng": "Use the ^orange;Core Fragments^reset; to activate the Gate",
+      "Por": "Use os ^orange;Core Fragments^reset; para ativar o Portal"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/gaterepair.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "We are currently in orbit around an unknown world. The ship is heavily damaged and we are unable to leave orbit. I suggest you ^green;beam down to the planet's surface using the ^orange;teleporter^white;, and search for supplies and perhaps a means of fixing the ship.",
+      "Por": "Estamos atualmente em órbita de um mundo desconhecido. A nave está muito danificada e não somos capazes de deixar a órbita. Eu sugiro que você ^green;desça ate a superfície do planeta usando o ^orange;teletransportador^white;, e procure suprimentos e talvez um meio de consertar a nave."
+    }
+  }
+]

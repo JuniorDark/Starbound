@@ -1,0 +1,75 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/vent/vent.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small air vent.",
+      "Por": "Um pequeno respiradouro de ar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/vent/vent.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Air Vent",
+      "Por": "Air Vent"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/vent/vent.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An air vent.",
+      "Por": "Um respiradouro de ar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/vent/vent.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This vent clangs as air whistles through.",
+      "Por": "Este respiradouro tini quando o ar sibila através dele."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/vent/vent.object": [
+        "/floranDescription",
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vent.",
+      "Por": "Respiradouro."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/vent/vent.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ventilation.",
+      "Por": "Ventilação."
+    }
+  }
+]

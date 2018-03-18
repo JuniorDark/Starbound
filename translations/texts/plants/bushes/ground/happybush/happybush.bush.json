@@ -1,0 +1,28 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/happybush/happybush.bush": [
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A pleasant bush.",
+      "Por": "Um arbusto agradável."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/happybush/happybush.bush": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bushhh!",
+      "Por": "Arbusto!"
+    }
+  }
+]

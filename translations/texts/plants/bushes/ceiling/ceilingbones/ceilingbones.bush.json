@@ -1,0 +1,28 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ceiling/ceilingbones/ceilingbones.bush": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bonesss.",
+      "Por": "Ossosss"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ceiling/ceilingbones/ceilingbones.bush": [
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hanging bones.",
+      "Por": "Ossos pendurados."
+    }
+  }
+]

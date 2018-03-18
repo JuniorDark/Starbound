@@ -1,0 +1,100 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/tiered/tier1light/tier1light.object": [
+        "/humanDescription"
+      ],
+      "objects/tiered/tier2light/tier2light.object": [
+        "/humanDescription"
+      ],
+      "objects/tiered/tier3light/tier3light.object": [
+        "/humanDescription"
+      ],
+      "objects/tiered/tier4light/tier4light.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A neat, sturdy lantern.",
+      "Por": "Uma lanterna arrumada e resistente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/tiered/tier1light/tier1light.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/tiered/tier2light/tier2light.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/tiered/tier3light/tier3light.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/tiered/tier4light/tier4light.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A robust lantern."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/tiered/tier1light/tier1light.object": [
+        "/floranDescription"
+      ],
+      "objects/tiered/tier2light/tier2light.object": [
+        "/floranDescription"
+      ],
+      "objects/tiered/tier3light/tier3light.object": [
+        "/floranDescription"
+      ],
+      "objects/tiered/tier4light/tier4light.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lantern sssafe for Floran.",
+      "Por": "Lanterna sssegura para Floran."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/tiered/tier2light/tier2light.object": [
+        "/novakidDescription"
+      ],
+      "objects/tiered/tier3light/tier3light.object": [
+        "/novakidDescription"
+      ],
+      "objects/tiered/tier4light/tier4light.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This sure lights up the room well.",
+      "Por": "Isto ilumina o quarto muito bem."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/tiered/tier2light/tier2light.object": [
+        "/avianDescription"
+      ],
+      "objects/tiered/tier3light/tier3light.object": [
+        "/avianDescription"
+      ],
+      "objects/tiered/tier4light/tier4light.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This useful lantern will light up even the darkest room.",
+      "Por": "Esta lanterna básica vai iluminar até mesmo o quarto mais escuro"
+    }
+  }
+]

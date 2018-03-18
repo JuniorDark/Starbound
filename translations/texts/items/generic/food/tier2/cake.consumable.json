@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier2/cake.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cake",
+      "Por": "Cake"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier2/cake.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a delicious cake!",
+      "Por": "É um bolo delicioso!"
+    }
+  }
+]

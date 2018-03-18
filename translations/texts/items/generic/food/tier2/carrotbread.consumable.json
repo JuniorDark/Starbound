@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier2/carrotbread.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A loaf of carrot bread. Let's be honest, it's just bread-shaped cake.",
+      "Por": "Um pedaço de pão de cenoura. Vamos ser honestos, é apenas bolo em forma de pão."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier2/carrotbread.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Carrot Bread",
+      "Por": "Carrot Bread"
+    }
+  }
+]

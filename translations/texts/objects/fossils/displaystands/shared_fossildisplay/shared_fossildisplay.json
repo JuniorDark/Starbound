@@ -1,0 +1,148 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/fossils/displaystands/fossildisplay1/fossildisplay1.object": [
+        "/apexDescription"
+      ],
+      "objects/fossils/displaystands/fossildisplay3/fossildisplay3.object": [
+        "/apexDescription"
+      ],
+      "objects/fossils/displaystands/fossildisplay5/fossildisplay5.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A display stand. Used for fossils.",
+      "Por": "Um suporte de exposição. Usado para fósseis."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/fossils/displaystands/fossildisplay3/fossildisplay3.object": [
+        "/avianDescription"
+      ],
+      "objects/fossils/displaystands/fossildisplay5/fossildisplay5.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fossil display stand. Doesn't have a complete fossil though.",
+      "Por": "Um suporte de exposição de fóssil. Não tem um fóssil completo embora."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/fossils/displaystands/fossildisplay1/fossildisplay1.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/fossils/displaystands/fossildisplay3/fossildisplay3.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/fossils/displaystands/fossildisplay5/fossildisplay5.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fossil will be displayed here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/fossils/displaystands/fossildisplay1/fossildisplay1.object": [
+        "/subtitle"
+      ],
+      "objects/fossils/displaystands/fossildisplay3/fossildisplay3.object": [
+        "/subtitle"
+      ],
+      "objects/fossils/displaystands/fossildisplay5/fossildisplay5.object": [
+        "/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Display fossils",
+      "Por": "Exibe fósseis."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/fossils/displaystands/fossildisplay3/fossildisplay3.object": [
+        "/humanDescription"
+      ],
+      "objects/fossils/displaystands/fossildisplay5/fossildisplay5.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feels a bit sad without a complete fossil to show.",
+      "Por": "Parece um pouco triste sem um fóssil completo para mostrar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/fossils/displaystands/fossildisplay3/fossildisplay3.object": [
+        "/floranDescription"
+      ],
+      "objects/fossils/displaystands/fossildisplay5/fossildisplay5.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fosssil Display isss good.",
+      "Por": "Exposição de fósseis é bom."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/fossils/displaystands/fossildisplay3/fossildisplay3.object": [
+        "/hylotlDescription"
+      ],
+      "objects/fossils/displaystands/fossildisplay5/fossildisplay5.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'd be more interested if there were a complete fossil displayed here.",
+      "Por": "Eu estaria mais interessado se houvesse um fóssil completo exibido aqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/fossils/displaystands/fossildisplay1/fossildisplay1.config": [
+        "/gui/dragDrop/value"
+      ],
+      "objects/fossils/displaystands/fossildisplay3/fossildisplay3.config": [
+        "/gui/dragDrop/value"
+      ],
+      "objects/fossils/displaystands/fossildisplay5/fossildisplay5.config": [
+        "/gui/dragDrop/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Insert Fossil",
+      "Por": "Insira Fóssil"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/fossils/displaystands/fossildisplay3/fossildisplay3.object": [
+        "/novakidDescription"
+      ],
+      "objects/fossils/displaystands/fossildisplay5/fossildisplay5.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looks good. Look a whole lot better with a complete fossil...",
+      "Por": "Parece bom. Fica muito melhor com um fóssil completo..."
+    }
+  }
+]

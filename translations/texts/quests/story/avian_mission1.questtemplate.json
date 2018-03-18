@@ -1,0 +1,182 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/avian_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/kluexstatue2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "An unusual depiction of Kluex, and the accompanying description is strange and full of promise!",
+      "Por": "Uma representação incomum de Kluex, e a descrição que acompanha é estranha e cheia de promessas!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/avian_mission1.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Find Clues to Locate the Avian Artifact",
+      "Por": "Encontre Pistas para Localizar o Artefato Avian"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/avian_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Avian people have a fascinating relationship with their god. These small clues hint towards a bigger truth.",
+      "Por": "O povo Avian têm uma relação fascinante com seu deus. Estas pequenas pistas apontam para uma verdade maior."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/avian_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/complete/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Great Sovereign Temple... It must be! That's all the information we need. ^#71f2f6;Come back to the Ark whenever you're ready^white;, dear.",
+      "Por": "O Grande Templo Sovereign... Deve ser ele! Essa é toda a informação que precisávamos. ^#71f2f6;Volte ao Ark quando estiver pronto^white;, querido(a)."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/avian_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/5/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The past is full of secrets crying out to be uncovered. Well found, dear!",
+      "Por": "O passado é cheio de segredos clamando para ser descobertos. Bem achado, querido(a)!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/avian_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/kluexmap1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "This looks like an ancient depiction of a star map. Perhaps it plots the location of something important?",
+      "Por": "Isto parece uma representação antiga de um mapa estelar. Talvez isso trace a localização de algo importante?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/avian_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/kluexmural1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "This mural describes a great heavenly treasure... Descriptions of the Avian artifact could easily be couched in such terms.",
+      "Por": "Este mural descreve um grande tesouro celeste... Descrições do artefato Avian poderia facilmente ser expressadas em tais termos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/avian_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/kluexmural2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "This mural is ancient and uncovers mysteries long since lost.",
+      "Por": "Este mural é antigo e revela grandes mistérios desde perdido."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/avian_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/kluexstatue1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "What a strange statue. And the inscription on the base is even more intriguing than the imagery. The devil is in the detail, dear.",
+      "Por": "Que estátua estranha. E a inscrição na base é ainda mais intrigante do que a imagem. Pode parecer simples, mas na verdade os detalhes são complicados e provavelmente causaram problemas, querido(a)."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/avian_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/7/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Where would the Avian people of the distant past keep something valuable? Sorry dear, just thinking out loud!",
+      "Por": "Onde seria o lugar que os Avians do passado distante esconderiam algo valioso? Desculpe querido(a), só estava pensando em voz alta!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/avian_mission1.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "With that last clue we've got all we need to find the Avian artifact! Thank you for all that hard work.",
+      "Por": "Com essa última pista temos tudo o que precisamos para encontrar o artefato Avian! Obrigado por todo esse trabalho duro."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/avian_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/6/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "You'd be surprised how much the little things help!",
+      "Por": "Você ficaria surpreso(a) o quanto as pequenas coisas ajudam!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/avian_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/startAlreadyComplete/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "You're quite the collector of Avian antiquities! It appears you've already located enough clues to to allow me to identify the location of the Artifact!",
+      "Por": "Você é um bom colecionador de antiguidades Avian! Parece que você já localizou pistas suficientes que me permite identificar a localização do Artefato!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/avian_mission1.questtemplate": [
+        "/scriptConfig/descriptions/findClues"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Scan objects^reset; to find ^orange;Avian clues^reset;",
+      "Por": "^green;Escaneie objetos^reset; para achar ^orange;pistas sobre o Artefato Avian^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/avian_mission1.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Avians^reset; next I think! Probably best to ^green;go to planets where ^orange;jungle^white; terrain is in abundance - Avians like to inhabit such places. You'll find those kinds of planets around ^orange;radioactive stars^white;. See you soon, dear. Be careful, and happy hunting!",
+      "Por": "^orange;Avians^reset; em seguida, eu acho! Talvez seja melhor ir ^green;para planetas onde o terreno de ^orange;selva^white; é abundante - Avians gostam de habitar tais lugares. Você encontrará esses tipos de planetas ao redor de ^orange;estrelas radioativas.^white; Nos vemos em breve, querido(a). Tenha cuidado e feliz caça!"
+    }
+  }
+]

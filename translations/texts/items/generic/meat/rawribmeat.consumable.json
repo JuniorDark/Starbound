@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/meat/rawribmeat.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Raw Ribs",
+      "Por": "Raw Ribs"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/meat/rawribmeat.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Raw meat cut from some unfortunate creature's ribs. Sounds tasty but it should be cooked.",
+      "Por": "Corte de carne crua de algumas costelas de criaturas desafortunadas. Parece saborosa, mas isto deve ser cozido."
+    }
+  }
+]

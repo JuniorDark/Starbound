@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/bow/pollenpump/pollenpump.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Perfect pest control.",
+      "Por": "Controle de pragas perfeito."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/bow/pollenpump/pollenpump.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pollen Pump",
+      "Por": "Pollen Pump"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/bow/pollenpump/pollenpump.activeitem": [
+        "/upgradeParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pollen Pump ^yellow;^reset;",
+      "Por": "Pollen Pump ^yellow;^reset;"
+    }
+  }
+]

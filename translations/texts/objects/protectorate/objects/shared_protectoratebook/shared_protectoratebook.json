@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/protectorate/objects/protectoratebookcabinet/protectoratebookcabinet.object": [
+        "/floranDescription"
+      ],
+      "objects/protectorate/objects/protectoratebooks/protectoratebooks.object": [
+        "/floranDescription"
+      ],
+      "objects/protectorate/objects/protectoratebooks2/protectoratebooks2.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Books with words and words and wordsss.",
+      "Por": "Livros com palavras e palavras e palavrasss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/protectorate/objects/protectoratebookcabinet/protectoratebookcabinet.object": [
+        "/apexDescription"
+      ],
+      "objects/protectorate/objects/protectoratebooks/protectoratebooks.object": [
+        "/apexDescription"
+      ],
+      "objects/protectorate/objects/protectoratebooks2/protectoratebooks2.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some light reading.",
+      "Por": "Algumas leituras leves."
+    }
+  }
+]

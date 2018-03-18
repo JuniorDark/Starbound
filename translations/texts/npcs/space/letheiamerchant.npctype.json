@@ -1,0 +1,62 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/space/letheiamerchant.npctype": [
+        "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Letheia Merchant",
+      "Por": "Comerciante da Letheia"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/space/letheiamerchant.npctype": [
+        "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Sells space furniture!",
+      "Por": "Vende mobília espacial!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/space/letheiamerchant.npctype": [
+        "/scriptConfig/dialog/merchant/end/hylotl/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Remember: \"Why live life without Letheia?\"",
+      "Por": "Lembre-se: \"Por que viver a vida sem Letheia?\""
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/space/letheiamerchant.npctype": [
+        "/scriptConfig/dialog/merchant/tout/hylotl/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welcome to this Letheia Corporation Consumer Branch!",
+      "Por": "Seja bem-vindo a esta Filial do Consumidor da Corporação Letheia!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/space/letheiamerchant.npctype": [
+        "/scriptConfig/dialog/merchant/start/hylotl/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welcome to this Letheia Corporation Consumer Branch, how can I help?",
+      "Por": "Seja bem-vindo a esta Filial do Consumidor da Corporação Letheia, como posso ajudar?"
+    }
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/avianraider.npctype": [
+        "/scriptConfig/dialog/attack/avian/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can't you see we're busy here?!",
+      "Por": "Você não consegue ver que estamos ocupados aqui?!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/avianraider.npctype": [
+        "/scriptConfig/dialog/attack/avian/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Get out of here!",
+      "Por": "Saia daqui!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/avianraider.npctype": [
+        "/scriptConfig/dialog/attack/avian/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rival raiders - take them out!",
+      "Por": "Raiders rivais - leve-os para fora!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/avianraider.npctype": [
+        "/scriptConfig/dialog/attack/avian/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "This place is OURS to pick clean!",
+      "Por": "Este lugar é NOSSO pra pegar leve!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/avianraider.npctype": [
+        "/scriptConfig/dialog/attack/avian/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "We're gonna bury you here!",
+      "Por": "Nós vamos enterrá-lo aqui!"
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier1/boiledpearlpeas.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bowl of rather bland boiled pearlpeas.",
+      "Por": "Uma tigela de ervilhas-perola cozidas, bastante sem graça."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier1/boiledpearlpeas.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Boiled Pearlpeas",
+      "Por": "Boiled Pearlpeas"
+    }
+  }
+]

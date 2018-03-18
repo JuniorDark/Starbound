@@ -1,0 +1,98 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostservicepanel/outpostservicepanel.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A service panel with a warning sign.",
+      "Por": "Um painel de serviço com um sinal de aviso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostservicepanel/outpostservicepanel.object": [
+        "/apexDescription",
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A service panel.",
+      "Por": "Um painel de serviço."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostservicepanel/outpostservicepanel.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple service panel.",
+      "Por": "Um painel de serviço simples."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostservicepanel/outpostservicepanel.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Just some kinda service panel.",
+      "Por": "Apenas algum tipo de painel de serviço."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostservicepanel/outpostservicepanel.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Service Panel",
+      "Por": "Service Panel"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostservicepanel/outpostservicepanel.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sservice panel.",
+      "Por": "Painel de sserviço."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostservicepanel/outpostservicepanel.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "That warning sign seems vaguely serious.",
+      "Por": "Esse sinal de alerta parece vagamente sério."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostservicepanel/outpostservicepanel.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This service panel has a dire warning on it."
+    }
+  }
+]

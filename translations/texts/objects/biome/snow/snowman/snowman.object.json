@@ -1,0 +1,50 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/snow/snowman/snowman.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A perfect little snowman.",
+      "Por": "Um boneco de neve pequeno perfeito."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/snow/snowman/snowman.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A snowman. He feels like he's missing something.",
+      "Por": "Um boneco de neve. Parece que está faltando alguma coisa nele."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/snow/snowman/snowman.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Is this a snow sculpture? Or did someone stand around in a snow storm for too long?",
+      "Por": "É uma escultura de neve? Ou alguém ficou parado em uma tempestade de neve por muito tempo?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/snow/snowman/snowman.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Snowman",
+      "Por": "Snowman"
+    }
+  }
+]

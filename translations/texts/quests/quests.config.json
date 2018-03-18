@@ -1,0 +1,445 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
+        "/directions/0/descriptions/0"
+      ]
+    },
+    "Texts": {
+      "Eng": " above",
+      "Por": "acima"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
+        "/directions/0/descriptions/1"
+      ]
+    },
+    "Texts": {
+      "Eng": " above us",
+      "Por": "acima de nós"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
+        "/directions/2/descriptions/0"
+      ]
+    },
+    "Texts": {
+      "Eng": " below",
+      "Por": "abaixo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
+        "/directions/2/descriptions/1"
+      ]
+    },
+    "Texts": {
+      "Eng": " below us",
+      "Por": "abaixo de nós"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
+        "/directions/2/descriptions/2"
+      ]
+    },
+    "Texts": {
+      "Eng": " down below",
+      "Por": "abaixo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
+        "/directions/1/descriptions/1"
+      ]
+    },
+    "Texts": {
+      "Eng": " east from here",
+      "Por": "a leste daqui"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
+        "/directions/1/descriptions/2"
+      ]
+    },
+    "Texts": {
+      "Eng": " east of us",
+      "Por": "a leste de nós"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
+        "/directions/1/descriptions/0"
+      ]
+    },
+    "Texts": {
+      "Eng": " to the east",
+      "Por": "para o leste"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
+        "/directions/3/descriptions/0"
+      ]
+    },
+    "Texts": {
+      "Eng": " to the west",
+      "Por": "para o oeste"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
+        "/directions/0/descriptions/2"
+      ]
+    },
+    "Texts": {
+      "Eng": " up above",
+      "Por": "acima"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
+        "/directions/3/descriptions/1"
+      ]
+    },
+    "Texts": {
+      "Eng": " west from here",
+      "Por": "a oeste daqui"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
+        "/directions/3/descriptions/2"
+      ]
+    },
+    "Texts": {
+      "Eng": " west of us",
+      "Por": "a oeste de nós"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
+        "/objectiveDescriptions/fetch",
+        "/objectiveDescriptions/gatherItem"
+      ]
+    },
+    "Texts": {
+      "Eng": "Acquire <itemName>: <current> / <required>",
+      "Por": "Adquira <itemName>: <current> / <required>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
+        "/objectiveDescriptions/gatherItemTag"
+      ]
+    },
+    "Texts": {
+      "Eng": "Find <tag> items: <current> / <required>",
+      "Por": "Encontre <tag> itens: <current> / <required>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
+        "/objectiveDescriptions/scanObjects"
+      ]
+    },
+    "Texts": {
+      "Eng": "Investigate objects",
+      "Por": "Investigue objetos"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
+        "/objectiveDescriptions/shipLevel"
+      ]
+    },
+    "Texts": {
+      "Eng": "Upgrade ship from Model <current> to Model <required>",
+      "Por": "Atualize a nave do Modelo <current> para o Modelo <required>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
+        "/pronouns/male/subject"
+      ]
+    },
+    "Texts": {
+      "Eng": "he",
+      "Por": "ele"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
+        "/pronouns/male/copulativePast"
+      ]
+    },
+    "Texts": {
+      "Eng": "he has",
+      "Por": "ele tem"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
+        "/pronouns/male/copulative"
+      ]
+    },
+    "Texts": {
+      "Eng": "he is",
+      "Por": "ele esta"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "dela"
+    ],
+    "Files": {
+      "quests/quests.config": [
+        "/pronouns/female/capitalObject",
+        "/pronouns/female/capitalPossessiveDet",
+        "/pronouns/female/object",
+        "/pronouns/female/possessiveDet"
+      ]
+    },
+    "Texts": {
+      "Eng": "her",
+      "Por": "ela"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
+        "/pronouns/female/capitalPossessive",
+        "/pronouns/female/possessive"
+      ]
+    },
+    "Texts": {
+      "Eng": "hers",
+      "Por": "dela"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
+        "/pronouns/female/capitalReflexive",
+        "/pronouns/female/reflexive"
+      ]
+    },
+    "Texts": {
+      "Eng": "herself",
+      "Por": "ela mesma"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
+        "/pronouns/male/capitalObject",
+        "/pronouns/male/object"
+      ]
+    },
+    "Texts": {
+      "Eng": "him",
+      "Por": "ele"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
+        "/pronouns/male/capitalReflexive",
+        "/pronouns/male/reflexive"
+      ]
+    },
+    "Texts": {
+      "Eng": "himself",
+      "Por": "ele mesmo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
+        "/pronouns/male/capitalPossessive",
+        "/pronouns/male/capitalPossessiveDet",
+        "/pronouns/male/possessive",
+        "/pronouns/male/possessiveDet"
+      ]
+    },
+    "Texts": {
+      "Eng": "his",
+      "Por": "dele"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
+        "/pronouns/female/capitalSubject",
+        "/pronouns/female/subject"
+      ]
+    },
+    "Texts": {
+      "Eng": "she",
+      "Por": "ela"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
+        "/pronouns/female/copulativePast"
+      ]
+    },
+    "Texts": {
+      "Eng": "she has",
+      "Por": "ela tem"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
+        "/pronouns/female/copulative"
+      ]
+    },
+    "Texts": {
+      "Eng": "she is",
+      "Por": "ela esta"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
+        "/pronouns/neutral/capitalPossessiveDet",
+        "/pronouns/neutral/possessiveDet"
+      ]
+    },
+    "Texts": {
+      "Eng": "their",
+      "Por": "deles"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
+        "/pronouns/neutral/capitalPossessive",
+        "/pronouns/neutral/possessive"
+      ]
+    },
+    "Texts": {
+      "Eng": "theirs",
+      "Por": "seus"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
+        "/pronouns/neutral/capitalObject",
+        "/pronouns/neutral/object"
+      ]
+    },
+    "Texts": {
+      "Eng": "them",
+      "Por": "eles"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "si mesmos"
+    ],
+    "Files": {
+      "quests/quests.config": [
+        "/pronouns/neutral/capitalReflexive",
+        "/pronouns/neutral/reflexive"
+      ]
+    },
+    "Texts": {
+      "Eng": "themself",
+      "Por": "ele mesmo"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "ele"
+    ],
+    "Files": {
+      "quests/quests.config": [
+        "/pronouns/neutral/capitalSubject",
+        "/pronouns/neutral/subject"
+      ]
+    },
+    "Texts": {
+      "Eng": "they",
+      "Por": "eles"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
+        "/pronouns/neutral/copulative"
+      ]
+    },
+    "Texts": {
+      "Eng": "they are",
+      "Por": "eles são"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/quests.config": [
+        "/pronouns/neutral/copulativePast"
+      ]
+    },
+    "Texts": {
+      "Eng": "they have",
+      "Por": "eles têm"
+    }
+  }
+]

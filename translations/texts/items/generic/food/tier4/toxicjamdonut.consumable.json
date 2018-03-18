@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier4/toxicjamdonut.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A harmless donut filled with toxictop jam.",
+      "Por": "Um donut inofensivo recheado com geléia de toxictop."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier4/toxicjamdonut.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Toxic Jam Donut",
+      "Por": "Toxic Jam Donut"
+    }
+  }
+]

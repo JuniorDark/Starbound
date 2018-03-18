@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/snowbush/snowbush.bush": [
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ],
+      "plants/bushes/ground/snowhappybush/snowhappybush.bush": [
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ],
+      "plants/bushes/ground/snowshrub1/snowshrub1.bush": [
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A snow-covered bush.",
+      "Por": "Um arbusto coberto de neve."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Arbusto nevado."
+    ],
+    "Files": {
+      "plants/bushes/ground/snowbush/snowbush.bush": [
+        "/floranDescription"
+      ],
+      "plants/bushes/ground/snowhappybush/snowhappybush.bush": [
+        "/floranDescription"
+      ],
+      "plants/bushes/ground/snowshrub1/snowshrub1.bush": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sssnowy bush.",
+      "Por": "Um arbusto nevado."
+    }
+  }
+]

@@ -1,0 +1,133 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/fossilstation/fossilstation.object": [
+        "/interactData/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": " Fossil Station",
+      "Por": "Estação de Fóssil"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/fossilstation/fossilstation.object": [
+        "/interactData/paneLayoutOverride/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": " Fossil brushes and display stands",
+      "Por": "Pincéis de fósseis e expositores"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/fossilstation/fossilstation.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A crafting station where I can make fossil hunting tools.",
+      "Por": "Uma estação de fabricação onde eu posso fazer ferramentas de caçar fósseis."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/fossilstation/fossilstation.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran is curiousss about fosssil rockss. Here Floran can make tools to find fosssils!",
+      "Por": "Floran está curioso sobre rochass fóssseis. Aqui Floran pode fazer ferramentas para encontrar fóssseis!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/fossilstation/fossilstation.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "For making fossil cleaning apparatus, to peer into the past.",
+      "Por": "Para fazer aparelhos de limpeza de fósseis, para ver o passado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/fossilstation/fossilstation.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "For the crafting of tools to identify fossils. I can't wait to use it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/fossilstation/fossilstation.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fossil restoration tools are cool. Let's learn about the history of these worlds!",
+      "Por": "Ferramentas de restauração de fósseis são legais. Vamos aprender sobre a história desses mundos!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/fossilstation/fossilstation.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can make fossil excavation tools here.",
+      "Por": "Eu posso fazer ferramentas de escavação de fósseis aqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/fossilstation/fossilstation.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I don't know much about things of the past. But maybe I could learn with these tools.",
+      "Por": "Eu não sei muito sobre coisas do passado. Mas talvez eu poderia aprender com essas ferramentas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/fossilstation/fossilstation.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Used to make fossil excavation tools and display cases.",
+      "Por": "Usada para fazer ferramentas de escavação de fósseis e expositores."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/fossilstation/fossilstation.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Fossil Station^white;",
+      "Por": "^orange;Fossil Station^white;"
+    }
+  }
+]

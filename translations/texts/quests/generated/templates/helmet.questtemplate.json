@@ -1,0 +1,273 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/helmet.questtemplate": [
+        "/scriptConfig/generatedText/title/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "<questGiver>'s need to stand out",
+      "Por": "<questGiver> precisa se destacar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/helmet.questtemplate": [
+        "/scriptConfig/generatedText/title/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "<questGiver>, the <adjective> guard",
+      "Por": "<questGiver>, o guarda <adjective>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/helmet.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "All that is left is to deliver the ^orange;<clothingIngredients>^green; to ^orange;<friend>^white;, so <friend.pronoun.subject> can craft me ^orange;something to wear."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/helmet.questtemplate": [
+        "/scriptConfig/generatedText/text/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "All that's left isss to ^green;take ^orange;<clothingIngredients>^green; to <friend>^white; so <friend.pronoun.subject> can make Floran ^orange;something to wear.^white; Hurry!",
+      "Por": "Tudo o que resta é ^green;levar ^orange;<clothingIngredients>^green; para <friend>^white; então <friend.pronoun.subject> pode fazer pra Floran ^orange;algo para vestir.^white; Depressa!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/helmet.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can you ^green;take the ^orange;<clothingIngredients>^green; to ^orange;<friend>,^white; so <friend.pronoun.subject> can make me something to wear?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/helmet.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Doesn't Floran look <adjective> now? Thanksss for your help!",
+      "Por": "Floran não parece <adjective> agora? Obrigado pela sua ajuda!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/helmet.questtemplate": [
+        "/scriptConfig/generatedText/text/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Finally, ^green;deliver our ^orange;<clothingIngredients>^green; to ^orange;<friend>^white; and ^green;ask <friend.pronoun.object> to make me some custom gear. I'm sure <friend.pronoun.subject> has the skills to do it!",
+      "Por": "Finalmente, ^green;entregue nosso ^orange;<clothingIngredients>^green; para ^orange;<friend>^white; e ^green;peça a <friend.pronoun.object> para me fazer um equipamento personalizado. Tenho certeza que <friend.pronoun.subject> tem as habilidades para fazê-lo!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/helmet.questtemplate": [
+        "/scriptConfig/generatedText/failureText/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I failed to help <questGiver> get a new look. <questGiver.pronoun.capitalSubject> looks fine as <questGiver.pronoun.subject> is.",
+      "Por": "Eu não consegui ajudar <questGiver> obter um novo visual. <questGiver.pronoun.capitalSubject> parece bem como <questGiver.pronoun.subject> esta."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/helmet.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I really look <adjective> now, don't I? Thank you for all your help."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/helmet.questtemplate": [
+        "/scriptConfig/generatedText/failureText/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I was unable to help <questGiver> get something new to wear. I like how <questGiver> looks already.",
+      "Por": "Eu fui incapaz de ajudar <questGiver> obter algo novo para vestir. Eu gosto de como <questGiver> esta."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/helmet.questtemplate": [
+        "/scriptConfig/generatedText/text/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Next run over and have ^orange;<friend>^white; assemble us some ^orange;custom gear.^white; Just ^green;mention my name, and give <friend.pronoun.object> our ^orange;<clothingIngredients>^white;.",
+      "Por": "Em seguida vá correndo e mande ^orange;<friend>^white; montar para nós alguns ^orange;equipamentos personalizados. ^white; Apenas ^green;mencione meu nome, e de a <friend.pronoun.object> nosso ^orange;<clothingIngredients>^white;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/helmet.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now Floran looks <adjective>, Floran can be legendary hunter! Thankss for your help.",
+      "Por": "Agora que Floran parece <adjective>, Floran pode ser um caçador lendário! Obrigado pela sua ajuda."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/helmet.questtemplate": [
+        "/scriptConfig/generatedText/text/default/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now Floran needs you to^green; take ^orange;<clothingIngredients>^green; to ^orange;<friend>.^white; <friend.pronoun.capitalSubject> can make something for Floran to wear!",
+      "Por": "Agora Floran precisa de você para^green; levar ^orange;<clothingIngredients>^green; para ^orange;<friend>.^white; <friend.pronoun.capitalSubject> pode fazer algo para Floran vestir!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/helmet.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now that I look <adjective>, our foes will think twice before challenging me!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/helmet.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thanks! No-one will mess with me now I look <adjective>!",
+      "Por": "Obrigado! Ninguém vai mexer comigo agora que pareço <adjective>!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/helmet.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "What do you think? Does looking <adjective> make me stand out more?",
+      "Por": "O que você acha? Será que parecer <adjective> me faz se destacar mais?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/helmet.questtemplate": [
+        "/scriptConfig/generatedText/goalText/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Aspirational. A Knight like me should look <adjective>! I know just what to do...",
+      "Por": "^cyan;Aspiracional. Um cavaleiro como eu deve parecer <adjective>! Eu sei exatamente o que fazer..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/helmet.questtemplate": [
+        "/scriptConfig/generatedText/goalText/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Eager. A Knight like me should stand out from everyone else! I think I know how to make it happen...",
+      "Por": "^cyan;Ansioso. Um cavaleiro como eu deve se destacar de todos os outros! Eu acho que sei como fazer isso acontecer..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/helmet.questtemplate": [
+        "/scriptConfig/generatedText/goalText/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Floran needs to look <adjective> to stand out from other huntersss! Floran has plan...",
+      "Por": "^cyan;Floran precisa parecer <adjective> para se destacar dos outros caçadoresss! Floran tem plano..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/helmet.questtemplate": [
+        "/scriptConfig/generatedText/goalText/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Floran wantsss to be a more recognisable hunter! Can you help Floran look <adjective>?",
+      "Por": "^cyan;Floran quer ser um caçador mais reconhecível! você pode ajudar a Floran parecer <adjective>?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/helmet.questtemplate": [
+        "/scriptConfig/generatedText/goalText/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Guards as good as me should stand out! Can you help me look <adjective>?",
+      "Por": "^cyan;Guardas tão bom quanto eu deveria se destacar! Você pode me ajudar a parecer <adjective>?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/helmet.questtemplate": [
+        "/scriptConfig/generatedText/goalText/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;I want to stand out as a guard! Will you help me find something that makes me look <adjective>?",
+      "Por": "^cyan;Quero me destacar como um guarda! Você vai me ajudar encontrar algo que me faça parecer <adjective>?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/helmet.questtemplate": [
+        "/parameters/adjective/example/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "strong"
+    }
+  }
+]

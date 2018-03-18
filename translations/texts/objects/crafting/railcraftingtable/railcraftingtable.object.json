@@ -1,0 +1,133 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/railcraftingtable/railcraftingtable.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can craft rails here! Perfect for getting around. And around, and around.",
+      "Por": "Eu posso criar trilhos aqui! Perfeito para se locomover. Se locomover e se locomover."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/railcraftingtable/railcraftingtable.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can use this station to construct rails for easy transport.",
+      "Por": "Eu posso usar esta estação para construir trilhos para fácil transporte."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/railcraftingtable/railcraftingtable.object": [
+        "/interactData/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rail Crafting Table",
+      "Por": "Mesa de Fabricação de Trilhos"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/railcraftingtable/railcraftingtable.object": [
+        "/interactData/paneLayoutOverride/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ride the Rails!",
+      "Por": "Monte nos trilhos!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/railcraftingtable/railcraftingtable.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ridin' the rails - still works as good as it ever did for gettin' around.",
+      "Por": "Montando os trilhos - ainda funciona tão bom como sempre fez para se locomover."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/railcraftingtable/railcraftingtable.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The rails I can construct here may be primitive, but their efficiency can't be questioned.",
+      "Por": "Os trilhos que posso construir aqui podem ser primitivos, mas a sua eficácia não pode ser questionada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/railcraftingtable/railcraftingtable.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The rails crafted here will make movement much more efficient."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/railcraftingtable/railcraftingtable.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This table will allow me to build rails which I can travel on.",
+      "Por": "Esta mesa vai me permitir construir trilhos que eu posso viajar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/railcraftingtable/railcraftingtable.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thiss table makes shiny rails for quick travel.",
+      "Por": "Esta mesa faz trilhos brilhantes para viagem rápida."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/railcraftingtable/railcraftingtable.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Used to produce rails, rail riding items and related objects.",
+      "Por": "Usada para produzir trilhos e objetos relacionados."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/railcraftingtable/railcraftingtable.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Rail Crafting Table^white;",
+      "Por": "^orange;Rail Crafting Table^white;"
+    }
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/logic/dlatch.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Latch. Can be used to sstore a wire sstate.",
+      "Por": "Um Trinco. Pode ser usado para armazenar um estado de fiação."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/logic/dlatch.object": [
+        "/description",
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Latch. Can be used to store a wire state.",
+      "Por": "Um Trinco. Pode ser usado para armazenar um estado de fiação."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/logic/dlatch.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Latch",
+      "Por": "Latch"
+    }
+  }
+]

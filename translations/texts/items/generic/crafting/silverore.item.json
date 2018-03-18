@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/silverore.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's silver. Can be used for smelting.",
+      "Por": "É prata. Pode ser derretida e transformada em barras."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/silverore.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Silver Ore",
+      "Por": "Silver Ore"
+    }
+  }
+]

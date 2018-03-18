@@ -1,0 +1,50 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/rebelvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "I am here to gather intel. Do you have any information on how we can overthrow Big Ape?",
+      "Por": "Estou aqui para coletar informações. Você tem alguma informação sobre como podemos derrubar Big Ape?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/rebelvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm going to defeat Big Ape along with my allies! I bet he isn't even that big.",
+      "Por": "Eu estou indo para derrotar Big Ape junto com meus aliados! Aposto que ele nem sequer é tão grande."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/rebelvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm here gathering crucial intel for our rebellion.",
+      "Por": "Eu estou aqui reunindo informações cruciais para nossa rebelião."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/rebelvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "We rebels fight for the freedom of our people. What is it that you fight for?",
+      "Por": "Nós rebeldes lutam pela liberdade de nosso povo. Pelo que você luta?"
+    }
+  }
+]

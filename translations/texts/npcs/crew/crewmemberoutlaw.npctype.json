@@ -1,0 +1,604 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberoutlaw.npctype": [
+        "/scriptConfig/crew/role/field"
+      ]
+    },
+    "Texts": {
+      "Eng": "Criminal",
+      "Por": "Criminoso(a)"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberoutlaw.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Do you have a ship? Floran needs to hide from sssome people. Can you help Floran?",
+      "Por": "Você tem uma nave? Floran precisa se esconder de algumas pessoas. Você pode ajudar Floran?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberoutlaw.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran appreciatess your help. Floran will you fight your enemies for you anytime!",
+      "Por": "Floran aprecia sua ajuda. Floran vai lutar contra seus inimigos para você a qualquer momento!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberoutlaw.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/floran/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran can hide out here until people forget what Floran did... Thank you! If you need help Floran is here.",
+      "Por": "Floran pode se esconder aqui até que as pessoas esqueçam o que Floran fez... Obrigado! Se precisar de ajuda Floran está aqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberoutlaw.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran good person really! Floran just needsss to lay low. Can you help Floran?",
+      "Por": "Floran boa pessoa, serio! Floran só precisa passar despercebido. Você pode ajudar Floran?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberoutlaw.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/floran/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran has offer for you - let Floran hide on your ship, and Floran will fight for you! Floran can't stay around here...",
+      "Por": "Floran tem oferta para você - deixe Floran se esconder na sua nave, e Floran vai lutar por você! Floran não pode ficar por aqui..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberoutlaw.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran isss laying low from some people! Can you help Floran out, maybe let Floran ssstow away on your ship?",
+      "Por": "Floran está fugindo de algumas pessoas! você pode ajudar Floran, talvez deixar Floran ficar clandestinamente em sua nave?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberoutlaw.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/floran/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran needs somewhere to hide. Do you have a ship? Floran has an offer for you...",
+      "Por": "Floran precisa de um lugar para se esconder. Você tem uma nave? Floran tem uma oferta para você..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberoutlaw.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/floran/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran needs to lay low! Please don't turn Floran in... Floran will work for you.",
+      "Por": "Floran precisa passar despercebido! Por favor não entregue Floran... Floran irá trabalhar para você."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberoutlaw.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/floran/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran needs to lay low. Floran will fight for you in return for a place on your ship!",
+      "Por": "Floran precisa passar despercebido. Floran vai lutar por você em troca de um lugar em sua nave!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberoutlaw.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran not so bad really, honest... This ship is perfect hiding spot. Come get Floran whenever you need help fighting!",
+      "Por": "Floran não é tão mau assim, honesto... Esta nave é um esconderijo perfeito. Venha pegar Floran sempre que você precisar de ajuda pra lutar!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Eu posso definitivamente passar despercebido aqui. Muito obrigado  - se você quiser algum apoio eu estarei aqui para ajudar!"
+    ],
+    "Files": {
+      "npcs/crew/crewmemberoutlaw.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/default/default/1",
+        "/scriptConfig/dialog/crewmember/roleDescription/hylotl/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can definitely lie low here. Thanks a bunch - if you ever want some backup I'll be here to help!",
+      "Por": "Eu posso definitivamente passar despercebido aqui. Muito obrigado - se você quiser algum reforço eu estarei aqui para ajudar!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberoutlaw.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/avian/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can definitely lie low here. Thanks a lot! If you ever want some backup I'll be here to help.",
+      "Por": "Eu posso definitivamente passar despercebido aqui. Muito obrigado! Se você quiser algum apoio eu vou estar aqui para ajudar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberoutlaw.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/apex/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can hide here until the heat dies down. I owe you everything - come and find me whenever you need me and my weapon.",
+      "Por": "Eu posso me esconder aqui até que a poeira baixe. Te devo tudo - venha e encontre sempre que precisar de mim e minha arma."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberoutlaw.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/avian/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can hide out here until the heat dies down! I owe you everything - if you ever need a helping hand, or sword, just come and fetch me.",
+      "Por": "Eu posso esconder aqui até que a poeira baixe! Te devo tudo - se você precisar de uma mão amiga, ou uma espada, basta vir e me buscar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberoutlaw.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/default/default/3",
+        "/scriptConfig/dialog/crewmember/roleDescription/hylotl/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can hide out here until the heat dies down! I owe you everything - if you ever need a helping hand, or sword, just come say hi!",
+      "Por": "Eu posso esconder aqui até que a poeira baixe! Te devo tudo - se você precisar de uma mão amiga, ou a espada, basta vir dizer oi!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberoutlaw.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/3/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can hide out here until the heat dies down! Whenever you need backup I am be here to help."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberoutlaw.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/apex/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can lie low here. Thank you - if you ever want some backup I will be here.",
+      "Por": "Eu posso passar despercebido aqui. Obrigado - se você quiser algum reforço eu estarei aqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberoutlaw.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/avian/default/3",
+        "/scriptConfig/dialog/crewmember/offer/default/default/3",
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/3/glitchEmotedText",
+        "/scriptConfig/dialog/crewmember/offer/hylotl/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I don't want to hurt you, I just need to lay low! Can I stow away with you?",
+      "Por": "Eu não quero te machucar, eu só preciso passar despercebido! Posso ficar clandestinamente com você?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberoutlaw.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/apex/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I don't want to hurt you, I just need to lay low. Can I stow away with you?",
+      "Por": "Eu não quero te machucar, eu só preciso passar despercebido. Posso ficar clandestinamente com você?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberoutlaw.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/apex/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have an offer for you - let me hide on your ship, and I will fight for you! There are people I need to avoid...",
+      "Por": "Tenho uma oferta para você - me deixe se esconder na sua nave, e eu vou lutar por você! Há pessoas que eu preciso evitar..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberoutlaw.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/avian/default/5",
+        "/scriptConfig/dialog/crewmember/offer/default/default/5",
+        "/scriptConfig/dialog/crewmember/offer/hylotl/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have an offer for you - let me hide on your ship, and I'll fight for you! There are people I need to avoid...",
+      "Por": "Tenho uma oferta para você - me deixe se esconder na sua nave, e eu vou lutar por você! Há pessoas que eu preciso evitar..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberoutlaw.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/4/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I need to lay low! I'll fight with you if you let me stay on your ship."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberoutlaw.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/avian/default/0",
+        "/scriptConfig/dialog/crewmember/offer/default/default/0",
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/0/glitchEmotedText",
+        "/scriptConfig/dialog/crewmember/offer/hylotl/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I need to lay low! Please don't turn me in, can I join your crew instead?",
+      "Por": "Eu preciso passar despercebido! Por favor, não me entregue, eu posso participar de sua tripulação em vez disso?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberoutlaw.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/apex/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "I need to lay low. I will fight for you if you let me stay on your ship.",
+      "Por": "Eu preciso passar despercebido. Eu vou lutar por você, se você me deixar ficar em sua nave."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberoutlaw.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/avian/default/4",
+        "/scriptConfig/dialog/crewmember/offer/default/default/4",
+        "/scriptConfig/dialog/crewmember/offer/hylotl/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "I need to lay low. I'll fight for you if you let me stay on your ship!",
+      "Por": "Eu preciso passar despercebido. Eu vou lutar por você, se você me deixar ficar em sua nave!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberoutlaw.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/apex/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I need to lay low. Please don't turn me in! Can I join your crew instead?",
+      "Por": "Eu preciso passar despercebido. Por favor, não me entregue! Posso entrar na sua tripulação em vez disso?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberoutlaw.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/6/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I really need to hide. Do you have a ship? I'll fight for you!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberoutlaw.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/apex/default/6",
+        "/scriptConfig/dialog/crewmember/offer/default/default/6",
+        "/scriptConfig/dialog/crewmember/offer/hylotl/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "I really need to stay somewhere to hide. Say, do you have a ship? I have an offer for you...",
+      "Por": "Eu realmente preciso ficar em algum lugar para se esconder. Diga, você tem uma nave? Tenho uma oferta para você..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberoutlaw.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/avian/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "I really need to stay somewhere to hide... Do you have a ship? I have an offer for you...",
+      "Por": "Eu realmente preciso ficar em algum lugar para se esconder... Você tem uma nave? Tenho uma oferta para você..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberoutlaw.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/avian/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I swear I'm not so bad really... This ship is a perfect place to lie low. If you need a helping hand in your travels, come and get me!",
+      "Por": "Eu juro que não sou realmente tão mau... Esta nave é um lugar perfeito para passar despercebido. Se você precisar de uma mão amiga em suas viagens, venha e me pegue!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Eu juro que não sou realmente tão mau... Esta nave é um lugar perfeito para passar despercebido. Se você precisar de uma mão extra para ajudar em suas viagens, venha me pegar!"
+    ],
+    "Files": {
+      "npcs/crew/crewmemberoutlaw.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/default/default/2",
+        "/scriptConfig/dialog/crewmember/roleDescription/hylotl/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I swear I'm not so bad really... This ship is a perfect place to lie low. If you need an extra helping hand in your travels, come get me!",
+      "Por": "Eu juro que não sou realmente tão mau... Esta nave é um lugar perfeito para passar despercebido. Se você precisar de uma mão extra para ajudar em suas viagens, venha me buscar!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberoutlaw.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm a good person really! Please, let me stow away on your ship with you!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberoutlaw.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/avian/default/1",
+        "/scriptConfig/dialog/crewmember/offer/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm a good person, really! Please, let me stow away on your ship!",
+      "Por": "Eu sou uma boa pessoa, serio! Por favor, deixe-me ficar clandestinamente em sua nave com você!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberoutlaw.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/apex/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm a good person, really! Please, let me stow away on your ship.",
+      "Por": "Eu sou uma boa pessoa, serio! Por favor, me deixe ficar clandestinamente em sua nave..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberoutlaw.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/hylotl/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm a good person, really! Please, let me stow away on your ship...",
+      "Por": "Eu sou uma boa pessoa, serio! Por favor, me deixe ficar clandestinamente em sua nave..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberoutlaw.npctype": [
+        "/scriptConfig/crew/role/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Outlaw",
+      "Por": "Bandido(a)"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberoutlaw.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/5/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Please, let me hide on your ship! I'll fight for you! There are people I need to avoid..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberoutlaw.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/apex/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Really, I'm not so bad. This ship is a perfect place to lie low. If you need any extra help, come and get me.",
+      "Por": "Serio, eu não sou tão mau. Esta nave é um lugar perfeito para passar despercebido. Se você precisar de alguma ajuda extra, venha e me pegue."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberoutlaw.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thank you for allowing me to stay here. I can join you in battle if you ever need me, I won't forget our bargain."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberoutlaw.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/apex/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thank you for giving me a place to hide away. I will be here to provide some extra force whenever you need me.",
+      "Por": "Obrigado por me dar um lugar para se esconder. Eu estarei aqui para fornecer força extra sempre que você precisar de mim."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberoutlaw.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thank you for giving me a place to hide. I will stay here, and fight for you when you require me."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberoutlaw.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
+        "/scriptConfig/dialog/crewmember/roleDescription/hylotl/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thanks for giving me a place to hide away! If you need a little extra muscle in your travels, I'll be here!",
+      "Por": "Obrigado por me dar um lugar para se esconder! Se você precisar de um pouco de músculo extra em suas viagens, eu vou estar aqui!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberoutlaw.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/avian/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thanks for giving me a place to hide! If you need a little extra muscle in your travels, I'm here!",
+      "Por": "Obrigado por me dar um lugar para se esconder! Se você precisar de um pouco de músculo extra em suas viagens, estou aqui!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberoutlaw.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/apex/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "There are people... Looking for me... I will work for you if you let me hide away on your ship!",
+      "Por": "Há pessoas... Me procurando... Vou trabalhar para você, se você me deixar se esconder em sua nave!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberoutlaw.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/avian/default/2",
+        "/scriptConfig/dialog/crewmember/offer/default/default/2",
+        "/scriptConfig/dialog/crewmember/offer/hylotl/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "There are people... Looking for me... I'll work for you if you let me hide away on your ship!",
+      "Por": "Há pessoas... Me procurando... Eu vou trabalhar para você, se você me deixar se esconder em sua nave!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberoutlaw.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "There are people... Looking for me... Let me hide away on your ship, I'll fight for you in return."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberoutlaw.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This ship is the ideal place to lay low. If you need backup, I shall be here!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberoutlaw.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thisss ship is the perfect hiding place for Floran! Floran will be here to help you any time!",
+      "Por": "Esta nave é o esconderijo perfeito para Floran! Floran estará aqui para ajudá-lo a qualquer momento!"
+    }
+  }
+]

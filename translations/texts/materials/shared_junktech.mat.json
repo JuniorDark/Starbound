@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/junktech.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/junktech.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bucha ol' tech smashed together into bricks.",
+      "Por": "Tecnologia completamente velha esmagada juntos em tijolos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/junktech.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/junktech.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Junk Tech",
+      "Por": "Junk Tech"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/junktech.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/junktech.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Technological trasssh.",
+      "Por": "Lixo tecnológico."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/junktech.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/junktech.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "There are a variety of technologies within this discarded junk."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/junktech.matitem": [
+        "/description"
+      ],
+      "tiles/materials/junktech.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Useless scrap metal, mostly remnants of outmoded technology.",
+      "Por": "Sucata de metal Inútil, principalmente restos de tecnologia ultrapassada."
+    }
+  }
+]

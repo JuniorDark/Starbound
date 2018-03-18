@@ -1,0 +1,78 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Blocos antigos e mal trabalhados, desenhos brutos são riscados na pedra."
+    ],
+    "Files": {
+      "items/materials/temple4.matitem": [
+        "/description"
+      ],
+      "tiles/materials/temple4.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Old and poorly crafted blocks, crude drawings are scratched into the stone.",
+      "Por": "Blocos antigos e mal trabalhados, gravuras imperfeitas estão riscadas na pedra."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/temple4.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/temple4.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Old carvingss in stone brickss.",
+      "Por": "Gravuras antigas em tijoloss de pedra."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/temple4.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/temple4.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Simple Temple Blocks",
+      "Por": "Simple Temple Blocks"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/temple4.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/temple4.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Someone's gone and carved a buncha pictures into these bricks.",
+      "Por": "Alguém se foi e gravou um monte de fotos nesses tijolos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/temple4.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/temple4.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These carvings are rather crudely done."
+    }
+  }
+]

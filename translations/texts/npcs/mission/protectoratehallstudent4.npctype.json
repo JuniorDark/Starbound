@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/protectoratehallstudent4.npctype": [
+        "/scriptConfig/dialog/converse/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Did you sleep through your SAIL alarms? That is so you.",
+      "Por": "Você dormiu sobre seu alarme SAIL? Isso é tão você."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/protectoratehallstudent4.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hey <entityname>! I was wondering if you were going to show up or not.",
+      "Por": "Ei <entityname>! Eu estava me perguntando se você iria comparecer ou não."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/protectoratehallstudent4.npctype": [
+        "/scriptConfig/dialog/converse/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "You don't look half bad, for having just woken up!",
+      "Por": "Você não parece tão ruim, por ter acabado de acordar!"
+    }
+  }
+]

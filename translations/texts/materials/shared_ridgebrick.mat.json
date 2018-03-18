@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ridgebrick.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/ridgebrick.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ridged Block",
+      "Por": "Ridged Block"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ridgebrick.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/ridgebrick.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ridged stone blocksss.",
+      "Por": "Blocosss de pedra rígidos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ridgebrick.matitem": [
+        "/description"
+      ],
+      "tiles/materials/ridgebrick.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stone bricks with a ridge carved near the top.",
+      "Por": "Tijolos de pedra com um cume esculpido perto do topo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ridgebrick.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/ridgebrick.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These ridged construction blocks are simple, yet effective."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ridgebrick.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/ridgebrick.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These stone blocks carved up mighty nice.",
+      "Por": "Estes blocos de pedra esculpidos até que são agradáveis."
+    }
+  }
+]

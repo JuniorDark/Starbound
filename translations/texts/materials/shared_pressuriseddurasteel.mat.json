@@ -1,0 +1,78 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Um painel de durasteel, especialmente feito para conter ambientes pressurizados."
+    ],
+    "Files": {
+      "items/materials/pressuriseddurasteel.matitem": [
+        "/description"
+      ],
+      "tiles/materials/pressuriseddurasteel.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A durasteel panel, specially designed to contain pressurised environments.",
+      "Por": "Um painel de durasteel, especialmente projetado para conter ambientes pressurizados."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/pressuriseddurasteel.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/pressuriseddurasteel.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A shiny lookin' durasteel panel.",
+      "Por": "Um painel de durasteel de aspecto brilhante."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/pressuriseddurasteel.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/pressuriseddurasteel.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pressurised Durasteel",
+      "Por": "Pressurised Durasteel"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/pressuriseddurasteel.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/pressuriseddurasteel.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssstrong durassteel panelling.",
+      "Por": "Revesstimento de durassteel forte."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/pressuriseddurasteel.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/pressuriseddurasteel.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This durasteel panel is designed to accommodate changes in pressurisation."
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/meat/rawtentacle.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A raw tentacle. Might be more edible if it's cooked...",
+      "Por": "Um tentáculo cru. Pode ser mais comestível se ele for cozido..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/meat/rawtentacle.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Raw Tentacle",
+      "Por": "Raw Tentacle"
+    }
+  }
+]

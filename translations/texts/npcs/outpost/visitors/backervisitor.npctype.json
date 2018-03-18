@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/backervisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hello! Everyone calls me ^orange;<selfname>^white;. I helped pay for this Outpost - I hope you like it!",
+      "Por": "Olá! Todo mundo me chama de ^orange;<selfname>^white;. Eu ajudei a pagar por este Posto Avançado - Espero que você goste!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/backervisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hey there. Your name is <entityname>? I'm ^orange;<selfname>^white;! I helped pay for the development of the Outpost!",
+      "Por": "Olá. Seu nome é <entityname>? Eu sou ^orange;<selfname>^white;! Eu ajudei a financiar o desenvolvimento do Posto Avançado!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/backervisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hey! My name is ^orange;<selfname>^white; - don't ask why. I helped pay for the creation of the Outpost!",
+      "Por": "Ei! Meu nome é ^orange;<selfname>^white; - não pergunte o porquê. Eu ajudei a pagar pela criação do Posto Avançado!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/backervisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hey, I'm ^orange;<selfname>^white;, patron of the Outpost. I hope you're enjoying it here!",
+      "Por": "Ei, eu sou ^orange;<selfname>^white;, patrono do Posto Avançado. Eu espero que você esteja gostando daqui!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/backervisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hi there! I'm ^orange;<selfname>^white; - I helped fund the creation of the Outpost!",
+      "Por": "Olá! Eu sou^orange;<selfname>^white; - Eu ajudei a financiar a criação do Posto Avançado!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/backervisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "My friends call me ^orange;<selfname>^white;. I'm a patron of this place - Do you like it?",
+      "Por": "Meus amigos me chamam de ^orange;<selfname>^white;. Eu sou um patrono deste lugar - Você gostou?"
+    }
+  }
+]

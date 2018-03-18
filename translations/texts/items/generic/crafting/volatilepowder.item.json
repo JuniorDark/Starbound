@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/volatilepowder.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A dangerous powder, useful for crafting explosives.",
+      "Por": "Um pó perigoso, útil para criar explosivos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/volatilepowder.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Volatile Powder",
+      "Por": "Volatile Powder"
+    }
+  }
+]

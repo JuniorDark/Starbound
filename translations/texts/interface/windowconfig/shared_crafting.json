@@ -1,0 +1,87 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Forjar "
+    ],
+    "Files": {
+      "interface/windowconfig/craftinganvil.config": [
+        "/paneLayout/btnCraft/caption"
+      ],
+      "interface/windowconfig/craftingmech.config": [
+        "/paneLayout/btnCraft/caption"
+      ],
+      "interface/windowconfig/craftingterraforge.config": [
+        "/paneLayout/btnCraft/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Forge",
+      "Por": "Forjar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/crafting3dprinter.config": [
+        "/paneLayout/btnCraft/caption"
+      ],
+      "interface/windowconfig/craftingcampfire.config": [
+        "/paneLayout/btnCraft/caption"
+      ],
+      "interface/windowconfig/craftingfood.config": [
+        "/paneLayout/btnCraft/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Prepare",
+      "Por": "Preparar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/craftingcampfire.config": [
+        "/paneLayout/lblProducttitle/value"
+      ],
+      "interface/windowconfig/craftingfood.config": [
+        "/paneLayout/lblProducttitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#b9b5b2;DISH",
+      "Por": "^#b9b5b2;PRATO"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/craftingcampfire.config": [
+        "/paneLayout/lblSchematics/value"
+      ],
+      "interface/windowconfig/craftingfood.config": [
+        "/paneLayout/lblSchematics/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#b9b5b2;RECIPE",
+      "Por": "^#b9b5b2;RECEITA"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "^#b9b5b2;PROJETOS"
+    ],
+    "Files": {
+      "interface/windowconfig/craftingnocategories.config": [
+        "/paneLayout/lblSchematics/value"
+      ],
+      "interface/windowconfig/craftingterraforge.config": [
+        "/paneLayout/lblSchematics/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#b9b5b2;SCHEMATICS",
+      "Por": "^#b9b5b2;ESQUEMÁTICOS"
+    }
+  }
+]

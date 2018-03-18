@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/woodenwindow2.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/woodenwindow2.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran can peak through large sslats of wood.",
+      "Por": "Floran pode falar através de grandes ripaas de madeira."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/woodenwindow2.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/woodenwindow2.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can see right through the spaces in this wood, clear to the other side.",
+      "Por": "Eu posso ver através dos espaços nesta madeira."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/woodenwindow2.matitem": [
+        "/description"
+      ],
+      "tiles/materials/woodenwindow2.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Old wooden slats that don't let much light through.",
+      "Por": "Ripas de madeira velha que não deixa muita luz passar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/woodenwindow2.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/woodenwindow2.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This wood filters light and acts as a barrier."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/woodenwindow2.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/woodenwindow2.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wooden Blinds",
+      "Por": "Wooden Blinds"
+    }
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/lavalamp1/lavalamp1.object": [
+        "/apexDescription"
+      ],
+      "objects/protectorate/objects/protectoratelavalamp/protectoratelavalamp.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hypnotising lamp.",
+      "Por": "Uma lâmpada hipnotizante."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/lavalamp1/lavalamp1.object": [
+        "/floranDescription"
+      ],
+      "objects/protectorate/objects/protectoratelavalamp/protectoratelavalamp.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Is thisss lamp living? It has moving insssides!",
+      "Por": "Essa lâmpada está viva? Tem movimentos internos!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/lavalamp1/lavalamp1.object": [
+        "/humanDescription"
+      ],
+      "objects/protectorate/objects/protectoratelavalamp/protectoratelavalamp.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reminds me of a bad dream I once had.",
+      "Por": "Faz-me lembrar um pesadelo que tive."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/lavalamp1/lavalamp1.object": [
+        "/hylotlDescription"
+      ],
+      "objects/protectorate/objects/protectoratelavalamp/protectoratelavalamp.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The way the liquid ebbs and flows makes me nostalgic.",
+      "Por": "A forma como o líquido flui e o fluxo me deixa nostálgico."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/lavalamp1/lavalamp1.object": [
+        "/avianDescription"
+      ],
+      "objects/protectorate/objects/protectoratelavalamp/protectoratelavalamp.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This lamp demands to be stared at.",
+      "Por": "Esta lâmpada exige ser encarada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/lavalamp1/lavalamp1.object": [
+        "/novakidDescription"
+      ],
+      "objects/protectorate/objects/protectoratelavalamp/protectoratelavalamp.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This lamp looks the way I feel. Peculiar.",
+      "Por": "Esta lâmpada parece como eu me sinto. Peculiar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/lavalamp1/lavalamp1.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/protectorate/objects/protectoratelavalamp/protectoratelavalamp.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This liquid moves in a mesmerising way."
+    }
+  }
+]

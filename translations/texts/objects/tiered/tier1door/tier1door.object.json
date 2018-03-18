@@ -1,0 +1,50 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/tiered/tier1door/tier1door.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A basic iron door.",
+      "Por": "Uma porta de ferro básica."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/tiered/tier1door/tier1door.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple iron door.",
+      "Por": "Uma porta de ferro simples."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/tiered/tier1door/tier1door.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sturdy iron door.",
+      "Por": "Uma porta de ferro resistente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/tiered/tier1door/tier1door.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Iron Door",
+      "Por": "Iron Door"
+    }
+  }
+]

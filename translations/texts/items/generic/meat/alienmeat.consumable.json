@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/meat/alienmeat.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A raw slab of weird, stringy alien meat. Maybe I should cook it.",
+      "Por": "Uma fatia de uma estranha carne alienígena pegajosa crua. Talvez eu deveria cozinhar isso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/meat/alienmeat.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Raw Steak",
+      "Por": "Raw Steak"
+    }
+  }
+]

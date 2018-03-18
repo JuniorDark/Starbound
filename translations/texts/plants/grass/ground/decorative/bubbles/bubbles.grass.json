@@ -1,0 +1,28 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/bubbles/bubbles.grass": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bubbles go pop!",
+      "Por": "Bolhas a estourar!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/bubbles/bubbles.grass": [
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bubbles.",
+      "Por": "Bolhas."
+    }
+  }
+]

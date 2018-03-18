@@ -1,0 +1,79 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/proximitywallsensor/proximitywallsensor.object": [
+        "/glitchDescription/glitchEmotedText",
+        "/humanDescription"
+      ],
+      "objects/wired/proximitysensor/proximitysensor.object": [
+        "/glitchDescription/glitchEmotedText",
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A proximity sensor.",
+      "Por": "Um sensor de proximidade."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/proximitywallsensor/proximitywallsensor.object": [
+        "/hylotlDescription"
+      ],
+      "objects/wired/proximitysensor/proximitysensor.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sensor.",
+      "Por": "Um sensor."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/proximitywallsensor/proximitywallsensor.object": [
+        "/avianDescription"
+      ],
+      "objects/wired/proximitysensor/proximitysensor.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't get too close!",
+      "Por": "Não se aproxime muito!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/proximitywallsensor/proximitywallsensor.object": [
+        "/apexDescription"
+      ],
+      "objects/wired/proximitysensor/proximitysensor.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This will go off if I get too close.",
+      "Por": "Isso vai desligar se eu chegar muito perto."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/proximitywallsensor/proximitywallsensor.object": [
+        "/novakidDescription"
+      ],
+      "objects/wired/proximitysensor/proximitysensor.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tread carefully.",
+      "Por": "Pise com cuidado."
+    }
+  }
+]

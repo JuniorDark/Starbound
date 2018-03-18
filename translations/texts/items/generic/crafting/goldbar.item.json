@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/goldbar.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gold Bar",
+      "Por": "Gold Bar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/goldbar.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ore for gold bars is found at great depths on most planets around all stars.",
+      "Por": "Ouro é encontrado em grandes profundidades da maioria dos planetas em torno de todas as estrelas."
+    }
+  }
+]

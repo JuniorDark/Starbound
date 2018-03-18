@@ -1,0 +1,28 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/tentacleshrub/tentacleshrub.bush": [
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A grotesque tentacle.",
+      "Por": "Um grotesco tentáculo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/tentacleshrub/tentacleshrub.bush": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fishy arm.",
+      "Por": "Um braço de peixe."
+    }
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/number5/number5.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A five.",
+      "Por": "Um cinco."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/number5/number5.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Five",
+      "Por": "Five"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/number5/number5.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Five marker.",
+      "Por": "Numero cinco."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/number5/number5.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Five! Looksss like hook.",
+      "Por": "Cinco! Parece um gancho."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/number5/number5.object": [
+        "/apexDescription",
+        "/avianDescription",
+        "/glitchDescription/glitchEmotedText",
+        "/humanDescription",
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Five.",
+      "Por": "Cinco."
+    }
+  }
+]

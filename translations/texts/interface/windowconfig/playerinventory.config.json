@@ -1,0 +1,194 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/playerinventory.config": [
+        "/paneLayout/defensetext/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "--"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/playerinventory.config": [
+        "/paneLayout/companionAttackStat/value",
+        "/paneLayout/companionDefenseStat/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "42"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/playerinventory.config": [
+        "/paneLayout/labeltech/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "ACTIVE TECHS",
+      "Por": "TECNOLOGIAS ATIVAS"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/playerinventory.config": [
+        "/paneLayout/labelappearance/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "ARMOUR SLOTS",
+      "Por": "ESPAÇOS DE ARMADURAS"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/playerinventory.config": [
+        "/paneLayout/back/data/tooltipText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Back Armour",
+      "Por": "Armadura das Costas"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/playerinventory.config": [
+        "/paneLayout/backCosmetic/data/tooltipText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Back Cosmetic",
+      "Por": "Cosmético das Costas"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/playerinventory.config": [
+        "/paneLayout/chestCosmetic/data/tooltipText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Chest Cosmetic",
+      "Por": "Cosmético de Peito"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/playerinventory.config": [
+        "/paneLayout/headCosmetic/data/tooltipText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Head Cosmetic",
+      "Por": "Cosmético de cabeça"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/playerinventory.config": [
+        "/paneLayout/labelinventory/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "INVENTORY",
+      "Por": "INVENTÁRIO"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/playerinventory.config": [
+        "/paneLayout/legsCosmetic/data/tooltipText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Leg Cosmetic",
+      "Por": "Cosmético de Perna"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/playerinventory.config": [
+        "/paneLayout/companionName/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "PET STATS",
+      "Por": "STATUS DO PET"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/playerinventory.config": [
+        "/paneLayout/labelstats/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "STATS",
+      "Por": "STATUS"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/playerinventory.config": [
+        "/paneLayout/trash/data/tooltipText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trash",
+      "Por": "Lixo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/playerinventory.config": [
+        "/defaultPetNameLabel"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#b9b5b2;PET STATS",
+      "Por": "^#b9b5b2;STATUS DO PET"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/playerinventory.config": [
+        "/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#b9b5b2;Your inventory and equipment ^green;[I]",
+      "Por": "^#b9b5b2;Seu inventário e equipamento ^green;[I]"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/playerinventory.config": [
+        "/paneLayout/energytext/value",
+        "/paneLayout/healthtext/value",
+        "/paneLayout/weapontext/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "set at runtime"
+    }
+  }
+]

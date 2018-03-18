@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/easel/signstoregui.config": [
+        "/gui/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "E.A.S.E.L",
+      "Por": "E.A.S.E.L"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/easel/signstoregui.config": [
+        "/gui/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#b9b5b2;Elegantly Automatic Sign Engineering Lithographer",
+      "Por": "^#b9b5b2;Elegantly Automatic Sign Engineering Lithographer"
+    }
+  }
+]

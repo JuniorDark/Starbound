@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/missions/lunar base mission/lunarmission2.codex": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Communication Failed",
+      "Por": "Falha na Comunicação"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/missions/lunar base mission/lunarmission2.codex": [
+        "/contentPages/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "PRINTED TRANSCRIPT #013:\n\nThis is Lunar 12 to Letheia HQ. Come in. Over. ... We have an emergency HQ - some kind of monster! Come in HQ! ... What's going on!? HQ, can you hea-\n\n^yellow;[INTERRUPTED] This is the Letheia automatic call response. The Letheia Corporation is aware of your situation. Outgoing communications from \"Lunar Base 12\" have now been shut down. We hope you have a nice day.",
+      "Por": "TRANSCRITO IMPRESSO # 013:\n\nEsta é Lunar 12 para QG Letheia. ... Nós temos uma emergência QG - algum tipo de monstro! Entrou QG! ... O que está acontecendo!? QG, você pode me ouv-\n\n^yellow;[INTERROMPIDO] Esta é a resposta de chamada automática Letheia. A Corporação Letheia está ciente de sua situação. As comunicações de saída da \"Base Lunar 12\" foram encerradas. Esperamos que você tenha um bom dia."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/missions/lunar base mission/lunarmission2.codex": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The transcript of a failed outgoing radio message with automated lock out response.",
+      "Por": "A transcrição de uma mensagem de rádio de saída falhada com resposta de bloqueio automático."
+    }
+  }
+]

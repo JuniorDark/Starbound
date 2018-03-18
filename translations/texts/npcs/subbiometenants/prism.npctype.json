@@ -1,0 +1,146 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/prism.npctype": [
+        "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Sells window materials",
+      "Por": "Vende materiais para janelas"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/prism.npctype": [
+        "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Window Salesman",
+      "Por": "Vendedor de Janelas"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/prism.npctype": [
+        "/scriptConfig/dialog/merchant/welcome/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Here we are - Would you like to buy some glass to make windows?",
+      "Por": "Aqui estamos nós - Gostaria de comprar um pouco de vidro para fazer janelas?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/prism.npctype": [
+        "/scriptConfig/dialog/merchant/end/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I hope you are happy with your windows!",
+      "Por": "Eu espero que você esteja feliz com as suas janelas!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/prism.npctype": [
+        "/scriptConfig/dialog/merchant/start/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I sell window materials! Build yourself a brighter home, today!",
+      "Por": "Eu vendo materiais para janelas! Construa você mesmo uma casa brilhante, hoje!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/prism.npctype": [
+        "/scriptConfig/dialog/merchant/end/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you need more windows, you know where to find me!",
+      "Por": "Se você precisar de mais janelas, você sabe onde me encontrar!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/prism.npctype": [
+        "/scriptConfig/dialog/merchant/start/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Improve your home with some elegant window installations!",
+      "Por": "Melhore a sua casa com algumas instalações de janelas elegantes!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/prism.npctype": [
+        "/scriptConfig/dialog/merchant/start/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Let some light into your home - Add some windows!",
+      "Por": "Deixe um pouco de luz entrar em sua casa - Adicione algumas janelas!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/prism.npctype": [
+        "/scriptConfig/dialog/merchant/end/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Let some light into your home - Come back soon!",
+      "Por": "Deixe um pouco de luz entrar em sua casa - Volte logo!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/prism.npctype": [
+        "/scriptConfig/dialog/merchant/start/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "People with windows in their homes live happier lives. It's a fact!",
+      "Por": "Pessoas com janelas em suas casas vivem vidas mais felizes. É um fato!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/prism.npctype": [
+        "/scriptConfig/dialog/merchant/welcome/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wonderful. Now, perhaps you would like to look at my windows?",
+      "Por": "Maravilhoso. Agora, talvez você gostaria de dar uma olhada nas minhas janelas?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/prism.npctype": [
+        "/scriptConfig/dialog/merchant/welcome/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You came! Now, would you like to purchase some window materials?",
+      "Por": "Você veio! Agora, gostaria de comprar alguns materiais para janelas?"
+    }
+  }
+]

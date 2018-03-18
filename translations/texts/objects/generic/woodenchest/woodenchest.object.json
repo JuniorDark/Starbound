@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodenchest/woodenchest.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A basic wooden chest.",
+      "Por": "Um baú de madeira básico."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodenchest/woodenchest.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's always a thrill to find an unopened chest.",
+      "Por": "É sempre uma emoção encontrar um baú fechado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodenchest/woodenchest.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wooden Chest",
+      "Por": "Wooden Chest"
+    }
+  }
+]

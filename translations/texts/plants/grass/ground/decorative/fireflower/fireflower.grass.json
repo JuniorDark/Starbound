@@ -1,0 +1,39 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/fireflower/fireflower.grass": [
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fire flower.",
+      "Por": "Uma flor de fogo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/fireflower/fireflower.grass": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A vibrant fire flower.",
+      "Por": "Uma flor de fogo vibrante."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/fireflower/fireflower.grass": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Burny flower confuse Floran.",
+      "Por": "Flor quente confunde Floran."
+    }
+  }
+]

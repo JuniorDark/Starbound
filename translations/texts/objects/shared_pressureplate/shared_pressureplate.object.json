@@ -1,0 +1,52 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/avianpressureplate/avianpressureplate.object": [
+        "/humanDescription"
+      ],
+      "objects/floran/huntingpressureplate/huntingpressureplate.object": [
+        "/humanDescription"
+      ],
+      "objects/glitch/medievalpressureplate/medievalpressureplate.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A giant pressure pad.",
+      "Por": "Uma placa de pressão gigante."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Um tipo de placa de pressão."
+    ],
+    "Files": {
+      "objects/floran/huntingpressureplate/huntingpressureplate.object": [
+        "/apexDescription"
+      ],
+      "objects/glitch/medievalpressureplate/medievalpressureplate.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some kind of pressure plate.",
+      "Por": "Algum tipo de placa de pressão."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/ancientpressureplate/ancientpressureplate.object": [
+        "/description"
+      ],
+      "objects/avian/avianpressureplate/avianpressureplate.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Use this pressure plate wisely.",
+      "Por": "Use esta placa de pressão sabiamente."
+    }
+  }
+]

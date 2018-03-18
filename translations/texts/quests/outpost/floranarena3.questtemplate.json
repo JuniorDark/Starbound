@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/floranarena3.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've got one last challenge for you! A creepy guy in armour called ^orange;Templar Inferno^white; wants to fight you. He likess fire, and I mean a lot. Maybe take some Burn Spray to defend yourself from his horde of flaming monsterss... ^green;Anyway, speak to me when you're ready and I'll warp you there^white;.",
+      "Por": "Eu tenho um último desafio para você! Um cara assustador de armadura chamado ^orange;Templar Inferno^white; quer lutar com você. Ele gossta de fogo, e eu quero dizer muito. Talvez seja bom você levar um ^orange;Burn Resistance Spray^white; para se defender de sua horda de monstross flamejantess... Enfim, fale comigo quando estiver pronto e eu vou te teleportar pra lá."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/floranarena3.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "You made it! Even with all the fire! Impresssive! Here, take Templar Inferno's sword - You deserve it, champion! Don't ask how I got it.",
+      "Por": "Você conseguiu! Mesmo com todo o fogo! Impressionante! Aqui, pegue a Templar Inferno's sword - Você merece isso, campeão! Não me pergunte como eu consegui."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/floranarena3.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Arena of Fire",
+      "Por": "^green;Arena de Fogo"
+    }
+  }
+]

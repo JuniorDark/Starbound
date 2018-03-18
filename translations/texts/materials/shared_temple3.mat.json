@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/temple3.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/temple3.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dussty small brickss.",
+      "Por": "Tijoloss pequenoss empoeiradoss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/temple3.matitem": [
+        "/description"
+      ],
+      "tiles/materials/temple3.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dusty but finely crafted bricks.",
+      "Por": "Tijolos empoeirados mas finamente trabalhados."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/temple3.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/temple3.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Small Temple Bricks",
+      "Por": "Small Temple Bricks"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/temple3.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/temple3.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some dusty lookin' little bricks.",
+      "Por": "Alguns tijolos empoeirados."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/temple3.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/temple3.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These small blocks display a high level of craftsmanship."
+    }
+  }
+]

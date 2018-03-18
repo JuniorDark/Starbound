@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/backitems/radiationprotection/radiationprotection.back": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Radiation EPP Upgrade",
+      "Por": "Radiation EPP Upgrade"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/backitems/radiationprotection/radiationprotection.back": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This upgrade adds radiation neutralisation to your EPP's capabilities. Use it on planets with ^red;high radiation levels^reset;.",
+      "Por": "Esta melhoria adiciona neutralização de radiação para as capacidades do seu EPP. Útil em planetas com ^red;níveis elevados de radiação^reset;."
+    }
+  }
+]

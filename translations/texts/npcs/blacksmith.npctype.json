@@ -1,0 +1,102 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/blacksmith.npctype": [
+        "/scriptConfig/dialog/attack/glitch/default/6/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A good chance to test me weapon out!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/blacksmith.npctype": [
+        "/scriptConfig/dialog/attack/glitch/default/3/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Didn't they tell ye, never aggro a smith?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/blacksmith.npctype": [
+        "/scriptConfig/dialog/attack/glitch/default/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Here we go again..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/blacksmith.npctype": [
+        "/scriptConfig/dialog/attack/glitch/default/5/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Huh, more disruption."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/blacksmith.npctype": [
+        "/scriptConfig/dialog/attack/glitch/default/4/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looks like I'll be messin' up me nice new weapon."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/blacksmith.npctype": [
+        "/scriptConfig/dialog/attack/glitch/default/7/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looks like I'll have to teach ye a lesson."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/blacksmith.npctype": [
+        "/scriptConfig/dialog/attack/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sullen. Looks like I'll be messin' up me nice new weapon.",
+      "Por": "Mal-humorado. Parece que eu vou ter que sujar a minha bela arma nova."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/blacksmith.npctype": [
+        "/scriptConfig/dialog/attack/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "You young'uns are always causin' trouble!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/blacksmith.npctype": [
+        "/scriptConfig/dialog/attack/glitch/default/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "You'll not make a mockery o' me!"
+    }
+  }
+]

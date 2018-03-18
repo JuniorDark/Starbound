@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/shop/oculemonade.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nothing better on a hot day than a cool, refreshing can of Oculemonade.",
+      "Por": "Nada melhor em um dia quente do que uma refrescante e gelada lata de Oculemonade."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/shop/oculemonade.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Oculemonade",
+      "Por": "Oculemonade"
+    }
+  }
+]

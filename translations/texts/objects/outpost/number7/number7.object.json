@@ -1,0 +1,66 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/number7/number7.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A seven.",
+      "Por": "Um sete."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/number7/number7.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Seven",
+      "Por": "Seven"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/number7/number7.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Seven marker.",
+      "Por": "Numero sete."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/number7/number7.object": [
+        "/apexDescription",
+        "/avianDescription",
+        "/glitchDescription/glitchEmotedText",
+        "/humanDescription",
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Seven.",
+      "Por": "Sete."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/number7/number7.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssseven.",
+      "Por": "Sssete."
+    }
+  }
+]

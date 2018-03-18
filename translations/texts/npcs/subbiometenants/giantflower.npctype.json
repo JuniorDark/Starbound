@@ -1,0 +1,218 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/giantflower.npctype": [
+        "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Naturalist Merchant",
+      "Por": "Comerciante Naturalista"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/giantflower.npctype": [
+        "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Sells plants, seeds and more",
+      "Por": "Vende plantas, sementes e muito mais"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/giantflower.npctype": [
+        "/scriptConfig/dialog/merchant/end/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Come back sssoon to buy more plants!",
+      "Por": "Volte em breve para comprar mais plantas!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/giantflower.npctype": [
+        "/scriptConfig/dialog/merchant/end/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran always happy to ssell you more!",
+      "Por": "Floran sempre feliz em te vender mais!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/giantflower.npctype": [
+        "/scriptConfig/dialog/merchant/end/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran likes sselling.",
+      "Por": "Floran gosta de vender."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/giantflower.npctype": [
+        "/scriptConfig/dialog/merchant/end/floran/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran pleased with transssaction.",
+      "Por": "Floran satisfeito com a transação."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/giantflower.npctype": [
+        "/scriptConfig/dialog/merchant/start/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran spreading nature, sselling plants.",
+      "Por": "Floran espalhando natureza, vendendo plantas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/giantflower.npctype": [
+        "/scriptConfig/dialog/merchant/start/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran wantsss pixelsss, can give ssseeds.",
+      "Por": "Floran quer pixels, pode dar sssementes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/giantflower.npctype": [
+        "/scriptConfig/dialog/merchant/start/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Go organic! Spread beauty!",
+      "Por": "Vá orgânico! espalhe a beleza!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/giantflower.npctype": [
+        "/scriptConfig/dialog/merchant/start/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hello, friend! Would you be interested in spreading natural beauty throughout the universe?",
+      "Por": "Olá amigo! Você estaria interessado em espalhar a beleza natural em todo o universo?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/giantflower.npctype": [
+        "/scriptConfig/dialog/merchant/start/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I am bringing nature back into the light. Spread the love!",
+      "Por": "Eu estou trazendo a natureza de volta para a luz. Espalhe o amor!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/giantflower.npctype": [
+        "/scriptConfig/dialog/merchant/end/hylotl/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I hope our transactions bring you satisfaction.",
+      "Por": "Espero que nossas transações lhe traga satisfação."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/giantflower.npctype": [
+        "/scriptConfig/dialog/merchant/end/hylotl/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I hope you found what you were searching for.",
+      "Por": "Eu espero que você encontrou o que estava procurando."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/giantflower.npctype": [
+        "/scriptConfig/dialog/merchant/end/hylotl/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "May the path ahead be clear to you.",
+      "Por": "Que o caminho à frente seja claro para você."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/giantflower.npctype": [
+        "/scriptConfig/dialog/merchant/end/hylotl/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stay strong in heart and in spirit.",
+      "Por": "Permaneça forte no coração e no espírito."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/giantflower.npctype": [
+        "/scriptConfig/dialog/merchant/end/default/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thank you for visiting my store.",
+      "Por": "Obrigado por visitar minha loja."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/giantflower.npctype": [
+        "/scriptConfig/dialog/merchant/end/default/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wonderful to see you!",
+      "Por": "Maravilhoso ver você!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/giantflower.npctype": [
+        "/scriptConfig/dialog/merchant/start/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "You want nature? Floran sells seeds and plantsss.",
+      "Por": "Você quer natureza? Floran vende sementes e plantasss."
+    }
+  }
+]

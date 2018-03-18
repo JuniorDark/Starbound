@@ -1,0 +1,106 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkerdisplay1/bunkerdisplay1.object": [
+        "/humanDescription"
+      ],
+      "objects/human/bunkerdisplay3/bunkerdisplay3.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A basic map display.",
+      "Por": "Parece algum tipo de mapa digital."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkerdisplay1/bunkerdisplay1.object": [
+        "/hylotlDescription"
+      ],
+      "objects/human/bunkerdisplay3/bunkerdisplay3.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Corridors and rooms are laid out on this map.",
+      "Por": "Corredores e salas são dispostos neste mapa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkerdisplay1/bunkerdisplay1.object": [
+        "/apexDescription"
+      ],
+      "objects/human/bunkerdisplay3/bunkerdisplay3.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looks like some kind of digital map.",
+      "Por": "Parece algum tipo de mapa digital."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkerdisplay1/bunkerdisplay1.object": [
+        "/avianDescription"
+      ],
+      "objects/human/bunkerdisplay3/bunkerdisplay3.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Perhaps a layout of this area?",
+      "Por": "Talvez um layout desta área?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkerdisplay1/bunkerdisplay1.object": [
+        "/novakidDescription"
+      ],
+      "objects/human/bunkerdisplay3/bunkerdisplay3.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pretty sure this is a map.",
+      "Por": "Certamente isso é um mapa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkerdisplay1/bunkerdisplay1.object": [
+        "/floranDescription"
+      ],
+      "objects/human/bunkerdisplay3/bunkerdisplay3.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Squiggly linesss make no sssense to Floran.",
+      "Por": "Linhasss onduladas não fazem sssentido para Floran."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkerdisplay1/bunkerdisplay1.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/human/bunkerdisplay3/bunkerdisplay3.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This appears to depict the layout of the area we're in."
+    }
+  }
+]

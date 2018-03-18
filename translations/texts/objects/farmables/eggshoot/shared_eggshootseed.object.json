@@ -1,0 +1,136 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/eggshoot/eggshootseed.object": [
+        "/humanDescription"
+      ],
+      "objects/farmables/eggshoot/wildeggshootseed.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A vegetarian egg.",
+      "Por": "Um ovo vegetariano."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/eggshoot/eggshootseed.object": [
+        "/hylotlDescription"
+      ],
+      "objects/farmables/eggshoot/wildeggshootseed.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An acceptable substitute for those of us who do not eat eggs.",
+      "Por": "Um substituto aceitável para aqueles de nós que não comem ovos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/eggshoot/eggshootseed.object": [
+        "/novakidDescription"
+      ],
+      "objects/farmables/eggshoot/wildeggshootseed.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An eggshoot looks like an egg and taste like an egg, but is not an egg.",
+      "Por": "Um eggshoot se parece com um ovo e tem gosto de um ovo, mas não é um ovo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/eggshoot/eggshootseed.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/farmables/eggshoot/wildeggshootseed.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avians happily eat these, despite their egg-like appearance."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/eggshoot/eggshootseed.object": [
+        "/avianDescription"
+      ],
+      "objects/farmables/eggshoot/wildeggshootseed.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eggshoot - for when Avians want omelettes.",
+      "Por": "Eggshoot - para quando Avians querem omeletes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/eggshoot/eggshootseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/eggshoot/wildeggshootseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eggshoot Seed",
+      "Por": "Eggshoot Seed"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/eggshoot/eggshootseed.object": [
+        "/description"
+      ],
+      "objects/farmables/eggshoot/wildeggshootseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eggshoot, full of runny goodness.",
+      "Por": "Eggshoot, cheio de bondade escorrendo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/eggshoot/eggshootseed.object": [
+        "/floranDescription"
+      ],
+      "objects/farmables/eggshoot/wildeggshootseed.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looksss like an egg, doesssn't hatch.",
+      "Por": "Parece um ovo, não choca."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/eggshoot/eggshootseed.object": [
+        "/apexDescription"
+      ],
+      "objects/farmables/eggshoot/wildeggshootseed.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The eggshoot has been known to trigger existential dilemmas in birds.",
+      "Por": "O eggshoot é conhecido por desencadear dilemas existenciais em aves."
+    }
+  }
+]

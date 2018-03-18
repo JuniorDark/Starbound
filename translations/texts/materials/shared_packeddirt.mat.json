@@ -1,0 +1,78 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/packeddirt.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/packeddirt.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Brickss made from packed dirt.",
+      "Por": "Tijoloss feitos de terra embalada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/packeddirt.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/packeddirt.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Packed Dirt",
+      "Por": "Packed Dirt"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/packeddirt.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/packeddirt.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Soft lookin' bricks, made from dirt.",
+      "Por": "Tijolos de aparência suave, feitos de terra."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Um pouco de terra embalada em pequenos tijolos."
+    ],
+    "Files": {
+      "items/materials/packeddirt.matitem": [
+        "/description"
+      ],
+      "tiles/materials/packeddirt.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some dirt packed into small bricks.",
+      "Por": "Um pouco de terra transformada em pequenos tijolos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/packeddirt.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/packeddirt.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These bricks are simply packed, shaped dirt."
+    }
+  }
+]

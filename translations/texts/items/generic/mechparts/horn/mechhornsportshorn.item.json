@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/horn/mechhornsportshorn.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shrill and loud, this horn is perfect for obnoxiously announcing your presence.",
+      "Por": "Estridente e barulhenta, esta buzina é perfeita para irritantemente anunciar sua presença."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/horn/mechhornsportshorn.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sports Mech Horn"
+    }
+  }
+]

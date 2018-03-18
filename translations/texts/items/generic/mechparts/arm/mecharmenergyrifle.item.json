@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/arm/mecharmenergyrifle.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A well made mech arm that fires beams of something akin to pure energy.",
+      "Por": "Um braço de mecha bem feito que dispara feixes de algo parecido com energia pura."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/arm/mecharmenergyrifle.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Energy Rifle Mech Arm"
+    }
+  }
+]

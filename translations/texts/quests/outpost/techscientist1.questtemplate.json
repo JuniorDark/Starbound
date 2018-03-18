@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/techscientist1.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've been developing technology that will enable the user to swiftly dash from one point to another, but I'm lacking a few crucial components for my ^orange;prototype^white;. Could you help me by ^green;bringing me ^orange;10 Copper Bars^white;?",
+      "Por": "Estou desenvolvendo uma tecnologia que irá permitir que o usuário corra rapidamente de um ponto a outro, mas estou sem alguns componentes cruciais para o meu ^orange;protótipo^white;. Você poderia me ajudar ^green;me trazendo ^orange;10 Coppers Bars^white;?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/techscientist1.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "You brought me the parts! Wonderful! With these the ^orange;Dash Tech^white; should be ready for action, but there's only one way to be sure...",
+      "Por": "Você me trouxe as peças! Maravilhoso! Com esta ^orange;Tecnologia de Corrida^white; você deve estar pronto para a ação, mas só há uma maneira de ter certeza..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/techscientist1.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Let's Get Technical",
+      "Por": "^orange;Vamos Ser Técnicos"
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/food/wateringcan.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Great! With this watering can and a hoe I should be set to start farming!",
+      "Por": "Ótimo! Com este regador e uma enxada eu devo estar pronto para começar a agricultura."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/food/wateringcan.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "To grow crops I'll need to keep the soil moist. I should ^orange;craft a wooden watering can^white;.",
+      "Por": "Para cultivar plantas vou precisar manter o solo úmido. Eu deveria ^orange;criar um wooden watering can^white;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/food/wateringcan.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Yes I Can!",
+      "Por": "^green;Sim eu Posso!"
+    }
+  }
+]

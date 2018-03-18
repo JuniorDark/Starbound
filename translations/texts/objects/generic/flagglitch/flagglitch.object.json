@@ -1,0 +1,97 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/flagglitch/flagglitch.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Glitch flag. I can use this as a waypoint for teleportation.",
+      "Por": "Uma bandeira Glitch. Eu posso usar isso como um ponto de rota para teletransportar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/flagglitch/flagglitch.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small locator module attached to this Glitch flag allows it to be bookmarked for teleportation."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/flagglitch/flagglitch.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Glitch Flag",
+      "Por": "Glitch Flag"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/flagglitch/flagglitch.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Glitch flag makess good point to teleport back to ussing teleporter!",
+      "Por": "Bandeira Glitch faz um bom ponto para teleportar de volta utilizando teletransportador!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/flagglitch/flagglitch.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The flag of the Glitch. Use ^green;[E]^white; to bookmark a teleportation location.",
+      "Por": "A bandeira dos Glitch. Use ^green;[E]^white; para favoritar um local de teletransporte."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/flagglitch/flagglitch.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This Glitch flag can act as a way point, enabling me to return to this point using a teleporter.",
+      "Por": "Esta bandeira Glitch pode agir como um ponto de passagem, me permitindo voltar a este ponto usando um teletransportador."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/flagglitch/flagglitch.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This Glitch flag can be bookmarked as a destination for my ship teleporter.",
+      "Por": "Esta bandeira Glitch pode ser favoritada como um destino para meu teletransportador da nave."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/flagglitch/flagglitch.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This Glitch flag can be saved as a location for my teleporter. Then I can return to it at any time.",
+      "Por": "Esta bandeira Glitch pode ser guardada como um local para o meu teletransportador. Então eu posso voltar a ela a qualquer momento."
+    }
+  }
+]

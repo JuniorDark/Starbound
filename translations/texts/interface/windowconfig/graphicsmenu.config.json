@@ -1,0 +1,122 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/graphicsmenu.config": [
+        "/paneLayout/accept/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Apply",
+      "Por": "Aplicar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/graphicsmenu.config": [
+        "/paneLayout/borderlessLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "BORDERLESS WINDOW",
+      "Por": "JANELA SEM BORDAS"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/graphicsmenu.config": [
+        "/paneLayout/fullscreenLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "FULLSCREEN",
+      "Por": "TELA CHEIA"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/graphicsmenu.config": [
+        "/paneLayout/resLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "FULLSCREEN RESOLUTION",
+      "Por": "RESOLUÇÃO DE TELA CHEIA"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/graphicsmenu.config": [
+        "/paneLayout/title/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "GRAPHICS",
+      "Por": "GRÁFICOS"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/graphicsmenu.config": [
+        "/paneLayout/monochromeLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "MONOCHROME LIGHTS",
+      "Por": "LUZES MONOCROMÁTICA"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/graphicsmenu.config": [
+        "/paneLayout/speechBubbleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "SPEECH BUBBLES",
+      "Por": "BALÕES DE FALA"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/graphicsmenu.config": [
+        "/paneLayout/interactiveHighlightLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "TARGET HIGHLIGHT",
+      "Por": "DESTACAR ALVO"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/graphicsmenu.config": [
+        "/paneLayout/textureLimitLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "TEXTURE LIMIT",
+      "Por": "LIMITE DE TEXTURA"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/graphicsmenu.config": [
+        "/paneLayout/zoomLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "ZOOM LEVEL",
+      "Por": "NÍVEL DE ZOOM"
+    }
+  }
+]

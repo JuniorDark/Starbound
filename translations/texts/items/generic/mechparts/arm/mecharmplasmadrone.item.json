@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/arm/mecharmplasmadrone.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A mech arm that at deploys an offensive turret drone.",
+      "Por": "Um braço de mecha que lança um drone torreta ofensivo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/arm/mecharmplasmadrone.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Plasma Drone Mech Arm"
+    }
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/body/mechbodyreactor.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An experimental mech body powered by an unstable radioactive core.",
+      "Por": "Um corpo de mecha experimental alimentado por um núcleo radioativo instável."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/body/mechbodyreactor.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reactor Mech Body"
+    }
+  }
+]

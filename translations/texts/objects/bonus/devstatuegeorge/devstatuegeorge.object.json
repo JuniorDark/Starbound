@@ -1,0 +1,43 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/bonus/devstatuegeorge/devstatuegeorge.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A tribute to GeorgeV! Developer Ultimate! ALL HAIL GEORGE!!!",
+      "Por": "Um tributo a GeorgeV! Desenvolvedor Supremo! TODOS SAUDEM GEORGE!!!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/bonus/devstatuegeorge/devstatuegeorge.object": [
+        "/apexDescription",
+        "/avianDescription",
+        "/floranDescription",
+        "/glitchDescription",
+        "/humanDescription",
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "ALL HAIL GEORGE!!!",
+      "Por": "TODOS SAUDEM GEORGE!!!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/bonus/devstatuegeorge/devstatuegeorge.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "GeorgeV Dev Statue",
+      "Por": "GeorgeV Dev Statue"
+    }
+  }
+]

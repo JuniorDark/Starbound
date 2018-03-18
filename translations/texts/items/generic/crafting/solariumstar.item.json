@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/solariumstar.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ore to make solarium stars is primarily found on planets orbiting fiery stars.",
+      "Por": "Solarium é encontrado principalmente em planetas que orbitam estrelas ardentes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/solariumstar.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Solarium Star",
+      "Por": "Solarium Star"
+    }
+  }
+]

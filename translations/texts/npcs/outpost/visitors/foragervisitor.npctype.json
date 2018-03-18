@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/foragervisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran isn't meat eater like other Floransss! Floran making farm inssstead.",
+      "Por": "Floran não é carnívoro como os outros Floransss! Floran esta fazendo fazenda em vez disso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/foragervisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran isss making farm! Floran just here for sssome ssseeds.",
+      "Por": "Floran essta fazendo fazenda! Floran esta aqui apenas para pegar algumass sssementes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/foragervisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran just here to buy ssseeds for Floran's farm.",
+      "Por": "Floran esta aqui apenas para comprar sssementes para a fazenda de Floran."
+    }
+  }
+]

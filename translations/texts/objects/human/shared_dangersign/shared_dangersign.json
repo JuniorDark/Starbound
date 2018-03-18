@@ -1,0 +1,121 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/dangersignh/dangersignh.object": [
+        "/hylotlDescription"
+      ],
+      "objects/human/dangersignv/dangersignv.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A clear, if garish, warning. ",
+      "Por": "Um aviso claro e espalhafatoso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/dangersignh/dangersignh.object": [
+        "/floranDescription"
+      ],
+      "objects/human/dangersignv/dangersignv.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran laugh in the face of danger. Haha!",
+      "Por": "Floran ri na cara do perigo. Haha!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/dangersignh/dangersignh.object": [
+        "/humanDescription"
+      ],
+      "objects/human/dangersignv/dangersignv.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Is the danger nearby, or is the sign itself dangerous? The edges do look pretty sharp...",
+      "Por": "O perigo está próximo, ou a própria placal é perigosa? As bordas parecem muito afiadas..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/dangersignh/dangersignh.object": [
+        "/avianDescription"
+      ],
+      "objects/human/dangersignv/dangersignv.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Something dangerous is nearby.",
+      "Por": "Algo perigoso está por perto."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/dangersignh/dangersignh.object": [
+        "/novakidDescription"
+      ],
+      "objects/human/dangersignv/dangersignv.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The only danger here is me. ",
+      "Por": "O único perigo aqui sou eu."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/dangersignh/dangersignh.object": [
+        "/description"
+      ],
+      "objects/human/dangersignv/dangersignv.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The sign says \"DANGER\". Wait, how do these people know my middle name?",
+      "Por": "A placa diz \"PERIGO\". Espere, como essas pessoas sabem meu nome do meio?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/dangersignh/dangersignh.object": [
+        "/apexDescription"
+      ],
+      "objects/human/dangersignv/dangersignv.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This says danger, but there's no indication of what's dangerous...",
+      "Por": "Isso diz perigo, mas não há indicação do que é perigoso..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/dangersignh/dangersignh.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/human/dangersignv/dangersignv.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This sign is more of a challenge than a warning."
+    }
+  }
+]

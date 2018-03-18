@@ -1,0 +1,145 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/sleepingbag/sleepingbag.object": [
+        "/humanDescription"
+      ],
+      "objects/generic/sleepingbaggreen/sleepingbaggreen.object": [
+        "/humanDescription"
+      ],
+      "objects/generic/sleepingbagred/sleepingbagred.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sleeping bag. Good protection against the elements in a pinch.",
+      "Por": "Um saco de dormir. Boa proteção contra os elementos em uma emergência pequena."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/sleepingbag/sleepingbag.object": [
+        "/hylotlDescription"
+      ],
+      "objects/generic/sleepingbaggreen/sleepingbaggreen.object": [
+        "/hylotlDescription"
+      ],
+      "objects/generic/sleepingbagred/sleepingbagred.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Do these work underwater?",
+      "Por": "Isso funciona debaixo d'água?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/sleepingbag/sleepingbag.object": [
+        "/floranDescription"
+      ],
+      "objects/generic/sleepingbaggreen/sleepingbaggreen.object": [
+        "/floranDescription"
+      ],
+      "objects/generic/sleepingbagred/sleepingbagred.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran does not like sssleeping in bag.",
+      "Por": "Floran não gosta de dormir em sssaco."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/sleepingbag/sleepingbag.object": [
+        "/novakidDescription"
+      ],
+      "objects/generic/sleepingbaggreen/sleepingbaggreen.object": [
+        "/novakidDescription"
+      ],
+      "objects/generic/sleepingbagred/sleepingbagred.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It won't get me the best night's sleep, but it'll do in a pinch.",
+      "Por": "Não vai me dar a melhor noite de sono, mas vai servir com uma emergência pequena."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/sleepingbag/sleepingbag.object": [
+        "/description"
+      ],
+      "objects/generic/sleepingbaggreen/sleepingbaggreen.object": [
+        "/description"
+      ],
+      "objects/generic/sleepingbagred/sleepingbagred.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a sleeping bag. It's not the comfiest, but it'll do.",
+      "Por": "É um saco de dormir. Não é o mais confortável, mas vai servir."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/sleepingbag/sleepingbag.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/generic/sleepingbaggreen/sleepingbaggreen.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/generic/sleepingbagred/sleepingbagred.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Oh how wonderful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/sleepingbag/sleepingbag.object": [
+        "/apexDescription"
+      ],
+      "objects/generic/sleepingbaggreen/sleepingbaggreen.object": [
+        "/apexDescription"
+      ],
+      "objects/generic/sleepingbagred/sleepingbagred.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rebel Apex spend many nights sleeping in these.",
+      "Por": "Apex rebeldes passam muitas noites dormindo nestes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/sleepingbag/sleepingbag.object": [
+        "/avianDescription"
+      ],
+      "objects/generic/sleepingbaggreen/sleepingbaggreen.object": [
+        "/avianDescription"
+      ],
+      "objects/generic/sleepingbagred/sleepingbagred.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sleeping here would be uncomfortable on the feathers.",
+      "Por": "Dormir aqui seria desconfortável nas penas."
+    }
+  }
+]

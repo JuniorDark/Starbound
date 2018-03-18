@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/protectoratelobbystudent1.npctype": [
+        "/scriptConfig/dialog/converse/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "A nice cold can of Oculemonade, just beyond my reach...",
+      "Por": "Uma lata gelada de limonada, um pouco além do meu alcance..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/protectoratelobbystudent1.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "The vending machine swallowed my pixels. Could this day get any worse?",
+      "Por": "A máquina de venda engoliu meus pixels. Poderia este dia ficar pior?"
+    }
+  }
+]

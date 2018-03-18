@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/creepling.npctype": [
+        "/scriptConfig/dialog/converse/human/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Do you like my outfit? It's very... Me.",
+      "Por": "Você gosta de minha roupa? É muito... Eu."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/creepling.npctype": [
+        "/scriptConfig/dialog/converse/human/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is an outfit, I swear.",
+      "Por": "Isso é uma roupa, Eu juro."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/creepling.npctype": [
+        "/scriptConfig/dialog/converse/human/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "This outfit didn't used to be an actual creature... Honest.",
+      "Por": "Essa roupa não costumava ser uma criatura real... Honesto."
+    }
+  }
+]

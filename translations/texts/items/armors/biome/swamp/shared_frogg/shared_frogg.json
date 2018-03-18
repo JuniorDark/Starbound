@@ -1,0 +1,32 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/biome/swamp/froggmerchant/froggmerchant.head": [
+        "/shortdescription"
+      ],
+      "items/armors/biome/swamp/froggsuit/frogg.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frogg Head",
+      "Por": "Frogg Head"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/biome/swamp/froggmerchant/froggmerchant.head": [
+        "/description"
+      ],
+      "items/armors/biome/swamp/froggsuit/frogg.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Somehow this mask keeps your head wet.",
+      "Por": "De alguma forma esta máscara mantém sua cabeça molhada."
+    }
+  }
+]

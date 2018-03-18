@@ -1,0 +1,2180 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/outOfSight/floran/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "... Floran can't find you.",
+      "Por": "... Floran não consegue encontrá-lo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A foe!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/killedTarget/glitch/default/5/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A marvelous victory!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/killedTarget/hylotl/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "A noble victory in the defense of my culture.",
+      "Por": "Uma nobre vitória em defesa da minha cultura."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/killedTarget/avian/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "A respectable effort on their part.",
+      "Por": "Um esforço respeitável de sua parte."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/reattack/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aha!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/killedTarget/apex/default/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "All done. I think I've earned a banana.",
+      "Por": "Tudo feito. Acho que ganhei uma banana."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/killedTarget/hylotl/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "An honourable victory.",
+      "Por": "Uma vitória honrosa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/avian/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Anhingaaa!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/killedTarget/default/default/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "Another easy win!",
+      "Por": "Outra vitória fácil!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/killedTarget/glitch/default/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Another job well done."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/killedTarget/default/default/3",
+        "/killedTarget/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Another victory!",
+      "Por": "Mais uma vitória!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/killedTarget/apex/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Area secure.",
+      "Por": "Área segura."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/apex/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Assemble formation!",
+      "Por": "Montar a formação!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/novakid/default/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bang!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/human/default/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Be warned, I put up a fight!",
+      "Por": "Esteja avisado, eu sei brigar!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/hylotl/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Begin the dance of war!",
+      "Por": "Começa a dança da guerra!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/avian/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Caaaw!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/avian/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cacique!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/avian/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Caracaraaa!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/floran/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Catch it! Eat it!",
+      "Por": "Pegue-o! Coma-o!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/avian/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Chachalacaaa!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/cantReach/glitch/default/4/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Come closer so we can fight!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/cantReach/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Come clossser!",
+      "Por": "Aproxime-ssse!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/cantReach/default/default/1",
+        "/cantReach/glitch/default/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Come here!",
+      "Por": "Vem cá!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/cheerOn/default/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Come on!",
+      "Por": "Vamos!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/killedTarget/floran/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Did it!",
+      "Por": "Consegui!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/lostTarget/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't come back!",
+      "Por": "Não volte!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/killedTarget/avian/default/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Easy work.",
+      "Por": "Trabalho fácil."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/apex/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enemy engaged!",
+      "Por": "Inimigo engajado!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/apex/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Engaging hostiles!",
+      "Por": "Engajando hostis!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/apex/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Engaging hostiles! Send reinforcements!",
+      "Por": "Engajando hostis! Envie reforços!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/cheerOn/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Everybody is in my way.",
+      "Por": "Todos estão no meu caminho."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/novakid/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fill your hands!",
+      "Por": "Saque sua arma!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/cantReach/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran can't reach!",
+      "Por": "Floran não alcança!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/killedTarget/floran/default/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran enjoyed that.",
+      "Por": "Floran gostou disso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/cheerOn/floran/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran excited!",
+      "Por": "Floran animado!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/reattack/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran furiousss you came back!",
+      "Por": "Floran furioso que você voltou!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/lostTarget/floran/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran hungry... maybe prey come back.",
+      "Por": "Floran com fome... talvez presa volte."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/floran/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran hunt!",
+      "Por": "Floran caça!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/cheerOn/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran is so happy to be part of thiss.",
+      "Por": "Floran esta tão feliz por fazer parte disso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/killedTarget/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran is the best hunter in hissstory!",
+      "Por": "Floran é o melhor caçador da hissstória!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/outOfSight/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran iss good hunter! Prey won't sstay hidden for long!",
+      "Por": "Floran é bom caçador! Presa não vai ficar escondida por muito tempo!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/killedTarget/floran/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran isss the best!",
+      "Por": "Floran é o melhor!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/cantReach/floran/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran not clossse enough!",
+      "Por": "Floran não esta perto o sssuficiente!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/outOfSight/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran sstill smells the prey!",
+      "Por": "Floran ainda sente cheiro da presa!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/lostTarget/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran will find ssomeone else to chase.",
+      "Por": "Floran vai encontrar alguém para perseguir."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/lostTarget/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran will go hunt ssomething else.",
+      "Por": "Floran vai caçar outra coisa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/reattack/floran/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran will ssstop you this time!",
+      "Por": "Floran vai parar você desta vez!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/killedTarget/floran/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran winsss!",
+      "Por": "Vitória de Floran!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/lostTarget/floran/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran's not given up! Just not sure what to do next...",
+      "Por": "Floran não desistiu! Só não sei o que fazer em seguida..."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Pegue!"
+    ],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/floran/default/3",
+        "/cheerOn/floran/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Get it!",
+      "Por": "Pegue-o!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/cantReach/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Get over here!",
+      "Por": "Venha aqui!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/cheerOn/glitch/default/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Get the foe!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/cheerOn/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Get the prey!",
+      "Por": "Pegue a presa!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/lostTarget/glitch/default/3/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Good riddance."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/glitch/default/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Have at thee!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/killedTarget/default/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Heh."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/reattack/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hello again, prey.",
+      "Por": "Olá novamente, presa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/apex/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hostile activity!",
+      "Por": "Atividade hostil!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/apex/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hostiles attacking!",
+      "Por": "Hostis atacando!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/apex/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hostiles!",
+      "Por": "Hostis!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/cantReach/glitch/default/3/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "How can we fight if I can't reach you?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/reattack/glitch/default/3/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "How dare you return!?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/outOfSight/default/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "How did this happen?",
+      "Por": "Como isso aconteceu?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/outOfSight/glitch/default/4/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "How did you disappear!?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/cantReach/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "How did you get over there?",
+      "Por": "Como você chegou ai?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/human/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "How do I keep ending up in situations like this?",
+      "Por": "Como eu continuo acabando em situações como esta?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hunt the prey!",
+      "Por": "Caçe a presa!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/novakid/default/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "I ain't got time for this!",
+      "Por": "Eu não tenho tempo para isso!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/reattack/glitch/default/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I am ready to battle you once again!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/cantReach/default/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can't reach!",
+      "Por": "Não consigo alcançar!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/killedTarget/default/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "I didn't even break a sweat!",
+      "Por": "Eu nem mesmo me esforcei!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/killedTarget/avian/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "I didn't even lose a feather.",
+      "Por": "Eu nem sequer perdi uma pena."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/human/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "I don't go down so easy!",
+      "Por": "Eu não desistirei facilmente!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/cheerOn/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have a plan!",
+      "Por": "Eu tenho um plano!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/killedTarget/hylotl/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have served my people.",
+      "Por": "Servi ao meu povo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/hylotl/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have trained to battle Floran!",
+      "Por": "Eu treinei para a batalha, Floran!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/outOfSight/glitch/default/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I know you're here somewhere!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/lostTarget/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I lost my adversary..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/killedTarget/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I need a glass o' root pop after all that.",
+      "Por": "Preciso de um copo de root pop depois de tudo isso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/killedTarget/glitch/default/3/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I need to get more exercise."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/glitch/default/4/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I shall defeat this foe!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/hylotl/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "I shall strike like lightning!",
+      "Por": "Vou atacar como um raio!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/cheerOn/glitch/default/4/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I want to kill it!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/killedTarget/avian/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I was born to win this battle.",
+      "Por": "Eu nasci para ganhar esta batalha."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/hylotl/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wield the might of the storm!",
+      "Por": "Eu tenho o poder da tempestade!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/hylotl/floran/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I will defeat the Floran barbarian, and honour my forebears!",
+      "Por": "Vou derrotar o Floran bárbaro, e honrar meus antepassados!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/hylotl/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "I will fight with honour!",
+      "Por": "Vou lutar com honra!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/lostTarget/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I will get you one day!",
+      "Por": "Eu vou te pegar um dia!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/glitch/default/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I will not be easily overcome."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/hylotl/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "I will rain down a torrent upon you.",
+      "Por": "Vou lutar com honra!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/hylotl/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I will take revenge for my ancestors!",
+      "Por": "Vou me vingar dos meus antepassados!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/outOfSight/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll just wait here 'til you come back."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/killedTarget/novakid/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm a natural winner at fightin', what can I say?",
+      "Por": "Sou um vencedor natural no combate, o que posso dizer?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/novakid/default/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm a sharper shot than you, friend!",
+      "Por": "Eu sou um pistoleiro melhor do que ocê, amigo!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/human/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm not much of a fighter...",
+      "Por": "Eu não sou muito de lutar..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/killedTarget/default/default/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm pretty good at this!",
+      "Por": "Eu sou muito bom nisso!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/novakid/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you're lookin' for trouble, then I'm your huckleberry!",
+      "Por": "Se ocê está procurando por problemas, então eu sou a pessoa que ocê tá procurando."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/killedTarget/hylotl/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "It is done.",
+      "Por": "Está feito."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/killedTarget/apex/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "It is so unwise to mess with an Apex.",
+      "Por": "É tão imprudente mexer com um Apex."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/lostTarget/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's not over!",
+      "Por": "Ainda não acabou!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/avian/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Jocotoco!."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/lostTarget/default/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Just you wait!",
+      "Por": "Espere só!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/human/default/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "Let's do this!",
+      "Por": "Vamos fazer isso!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/human/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Let's get this over with!",
+      "Por": "Vamos acabar com isto!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/human/default/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Let's get this over with...",
+      "Por": "Vamos acabar com isto..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/killedTarget/avian/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "My antagonists are so readily subdued...",
+      "Por": "Meus antagonistas são tão facilmente subjugados..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/killedTarget/avian/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Never challenge an Avian.",
+      "Por": "Nunca desafie um Avian."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/killedTarget/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Never mess with me!",
+      "Por": "Nunca mexa comigo!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/killedTarget/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now Floran has nothing to do...",
+      "Por": "Agora Floran não tem nada para fazer..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/killedTarget/hylotl/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now I have defeated my foe, I must reflect on this battle.",
+      "Por": "Agora que derrotei meu inimigo, devo refletir sobre esta batalha."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/lostTarget/glitch/default/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now what am I going to do?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/killedTarget/default/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Of course I won!",
+      "Por": "É claro que eu ganhei!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/glitch/default/6/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Prepare to lose your life!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/killedTarget/apex/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Problem solved.",
+      "Por": "Problema resolvido."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/outOfSight/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sneaky! This is sneaky! How did you disappear?",
+      "Por": "Sorrateiro! Este é sorrateiro! Como você desapareceu?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/reattack/default/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "So you came back.",
+      "Por": "Então você voltou."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/cheerOn/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sssave some for me!",
+      "Por": "Guarde alguns para mim!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/floran/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssstab it! Shoot it!",
+      "Por": "Esssfaqueie ele! Atire nele!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sssupper!",
+      "Por": "Ceia!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/cheerOn/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Strike them down!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/avian/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tapacuuulo!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/killedTarget/apex/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Target dispatched.",
+      "Por": "Alvo morto."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/killedTarget/apex/default/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Target down!",
+      "Por": "Alvo neutralizado!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/killedTarget/apex/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Target subdued.",
+      "Por": "Alvo subjugado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/killedTarget/glitch/default/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "That was exhilarating!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/killedTarget/floran/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "That was fun!",
+      "Por": "Isso foi divertido!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/killedTarget/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "That was fun. What should Floran do now..?",
+      "Por": "Isso foi divertido. O que Floran deve fazer agora..?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/killedTarget/default/default/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "That was stressful...",
+      "Por": "Isso foi estressante..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/killedTarget/avian/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "That's the consequence of engaging an Avian in battle.",
+      "Por": "Essa é a consequência de enfrentar um Avian numa batalha."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/killedTarget/default/default/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "That's what you get!",
+      "Por": "Isso é o que você merece!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/killedTarget/hylotl/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "The battle is over...",
+      "Por": "A batalha acabou..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/killedTarget/apex/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "The enemy has been dealt with.",
+      "Por": "O inimigo foi neutralizado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/reattack/floran/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "The prey came back!",
+      "Por": "A presa voltou!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/killedTarget/apex/default/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "The target has been neutralised!",
+      "Por": "O alvo foi neutralizado!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/hylotl/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "There is honour in battle.",
+      "Por": "Há honra em batalha."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/cantReach/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "They are beyond my reach!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/outOfSight/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "They're getting away!",
+      "Por": "Eles estão fugindo!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/cantReach/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "They're too far away to ssstab!",
+      "Por": "Eles estão muito longe para essfaquear!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/novakid/default/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "This ain't my first rodeo!",
+      "Por": "Este não é o meu primeiro rodeio!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/reattack/glitch/default/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This time you will not escape."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/killedTarget/apex/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Threat neutralised.",
+      "Por": "Ameaça neutralizada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/novakid/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Time for a ruckus!",
+      "Por": "Hora de um tumulto!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Time for an ol'-fashioned showdown!",
+      "Por": "Hora de um confronto à moda antiga!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Time to ssstab! Time to shoot!",
+      "Por": "Hora de esssfaquear! Hora de disssparar!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/glitch/default/3/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "To battle!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/cantReach/floran/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trickssy prey is out of reach!",
+      "Por": "Presa esperta está fora de alcance!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/human/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Uh-oh..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/lostTarget/glitch/default/4/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Um... Come back?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/killedTarget/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Victory!",
+      "Por": "Vitória!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/outOfSight/glitch/default/3/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wasn't I fighting someone a second ago?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/novakid/default/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "We don't want no trouble round here!",
+      "Por": "Não queremos problemas aqui!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/killedTarget/novakid/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Well wasn't that a right ol' rodeo?",
+      "Por": "Que excelente exibição de minha habilidade."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/lostTarget/default/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "What a hassle.",
+      "Por": "Que aborrecimento."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/killedTarget/glitch/default/4/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "What a triumph."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/lostTarget/glitch/default/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "What am I doing with my life?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/killedTarget/glitch/default/6/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "What an excellent display of my own skill."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/killedTarget/hylotl/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "What's done is done.",
+      "Por": "O que está feito está feito."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/lostTarget/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "When they get back, they'll get a ssstabbing...",
+      "Por": "Quando eles voltarem, eles vão ser essfaqueados..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/lostTarget/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Where are you...",
+      "Por": "Onde está você..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/outOfSight/glitch/default/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Where did they go?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/outOfSight/floran/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Where is the ssneaky thing?",
+      "Por": "Onde está a coisa sorrateira?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/outOfSight/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Where'd you go?",
+      "Por": "Onde você foi?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/cheerOn/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Why aren't they already dead?",
+      "Por": "Por que eles não estão mortos?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/cantReach/glitch/default/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Why didn't I bring a crossbow?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/cheerOn/glitch/default/3/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Why isn't this foe already dead?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/outOfSight/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wily prey is hiding!",
+      "Por": "Presa astuta está se escondendo!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/killedTarget/novakid/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Yee-haw! That was somethin'.",
+      "Por": "Yee-haw! Mais uma vitória!."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/novakid/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Yee-haw, here we go!",
+      "Por": "Yee-haw, aqui vamos nós!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/novakid/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Yer feelin' lucky, punk?",
+      "Por": "Hoje está com sorte? Bem, está, vagabundo?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/killedTarget/default/default/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "Yes!",
+      "Por": "Sim!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/reattack/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You again!",
+      "Por": "Você novamente!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/reattack/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "You came back again!?",
+      "Por": "Você voltou novamente!?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/reattack/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "You came back?",
+      "Por": "Você voltou?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/human/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "You don't have a snowflakes chance on a magma planet!",
+      "Por": "Você não tem a mínima chance contra mim!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/glitch/default/5/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "You have breathed your last!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/reattack/glitch/default/4/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "You have returned only to be vanquished!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/reattack/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "You returned!",
+      "Por": "Você voltou!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/reattack/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "You will regret returning."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/human/default/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "You won't know what hit you!",
+      "Por": "Você não sabera o que te atingiu!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/hylotl/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "You'd do better to fight the maelstrom than to fight me.",
+      "Por": "Seria melhor você lutar com o turbilhão do que lutar comigo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/killedTarget/avian/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "You'll never defeat a true warrior.",
+      "Por": "Você nunca derrotará um verdadeiro guerreiro."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/human/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You're dead meat!",
+      "Por": "Você esta morto!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/novakid/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "let's ride!",
+      "Por": "Vamos acabar com isso!"
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/dyes/dyeremover.augment": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Apply this dye remover to any clothing with a right-click to restore its base colour",
+      "Por": "Aplique este removedor de corante a qualquer roupa com o botão direito para restaurar a sua cor base."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/dyes/dyeremover.augment": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dye Remover",
+      "Por": "Dye Remover"
+    }
+  }
+]

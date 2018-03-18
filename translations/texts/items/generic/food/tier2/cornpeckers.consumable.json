@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier2/cornpeckers.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Beakseed and dried corn. A common Avian trail mix, or breakfast cereal.",
+      "Por": "Grão-de-bico e milho seco. Uma mistura Avian comum, ou cereal de café da manhã."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier2/cornpeckers.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Corn Peckers",
+      "Por": "Corn Peckers"
+    }
+  }
+]

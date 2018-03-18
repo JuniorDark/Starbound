@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/food/firstcrops.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Finally, farming begins to pay off! I should see what else I can find to grow.",
+      "Por": "Finalmente, a agricultura começa a se pagar! Eu deveria ver o que mais eu posso encontrar pra crescer."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/food/firstcrops.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now that I've got a hoe and a watering can, I can start farming! I should ^green;till and water some soil for planting^white; and ^orange;harvest 5 wheat and 5 pearlpeas^white;.",
+      "Por": "Agora que eu tenho uma enxada e um regador, posso começar a cultivar! Eu deveria ^green;arar e regar um pouco de terra para o plantio^white; e ^orange;colher 5 wheat e 5 pearlpeas^white;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/food/firstcrops.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;The First Harvest",
+      "Por": "^orange;A Primeira Colheita"
+    }
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Um armário para colocar as coisas dentro.",
+      "Um armário, para colocar as coisas em."
+    ],
+    "Files": {
+      "objects/ship/apexshiplocker/apexshiplocker.object": [
+        "/novakidDescription"
+      ],
+      "objects/ship/avianshiplocker/avianshiplocker.object": [
+        "/novakidDescription"
+      ],
+      "objects/ship/floranshiplocker/floranshiplocker.object": [
+        "/novakidDescription"
+      ],
+      "objects/ship/glitchshiplocker/glitchshiplocker.object": [
+        "/novakidDescription"
+      ],
+      "objects/ship/humanshiplocker/humanshiplocker.object": [
+        "/novakidDescription"
+      ],
+      "objects/ship/hylotlshiplocker/hylotlshiplocker.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A locker, for puttin' things in.",
+      "Por": "Um armário, para colocar coisas dentro."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/humanshiplocker/humanshiplocker.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/novakidshiplocker/novakidshiplocker.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A ship's locker.",
+      "Por": "Um armário de nave."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/humanshiplocker/humanshiplocker.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/novakidshiplocker/novakidshiplocker.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Any items of interest inside I wonder?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/humanshiplocker/humanshiplocker.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/novakidshiplocker/novakidshiplocker.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Could there be anything of value within this locker?",
+      "Por": "Poderia haver algo de valor dentro deste armário?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/humanshiplocker/humanshiplocker.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/novakidshiplocker/novakidshiplocker.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wonder if there are any secrets inside this locker?",
+      "Por": "Gostaria de saber se existem segredos dentro deste armário?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/humanshiplocker/humanshiplocker.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/novakidshiplocker/novakidshiplocker.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Perhaps something useful is inside this locker.",
+      "Por": "Talvez algo útil esteja dentro deste armário."
+    }
+  }
+]

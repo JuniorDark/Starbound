@@ -1,0 +1,68 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Um urso fofinho adorável."
+    ],
+    "Files": {
+      "objects/hylotl/bearplush/bearplush.object": [
+        "/apexDescription"
+      ],
+      "objects/outpost/teddybearplush/teddybearplush.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An adorable cuddly bear.",
+      "Por": "Um adorável urso fofinho."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Brinquedo macio está olhando para Floran."
+    ],
+    "Files": {
+      "objects/hylotl/bearplush/bearplush.object": [
+        "/floranDescription"
+      ],
+      "objects/outpost/teddybearplush/teddybearplush.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fluffy toy is ssstaring at Floran.",
+      "Por": "Brinquedo macio está encarando Floran."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/bearplush/bearplush.object": [
+        "/humanDescription"
+      ],
+      "objects/outpost/teddybearplush/teddybearplush.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I just wanna cuddle this bear forever.",
+      "Por": "Eu só quero abraçar este urso para sempre."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Esse carinha é muito bonito, eu acho."
+    ],
+    "Files": {
+      "objects/hylotl/bearplush/bearplush.object": [
+        "/novakidDescription"
+      ],
+      "objects/outpost/teddybearplush/teddybearplush.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This lil' guy is pretty cute, I guess.",
+      "Por": "Esse carinha é muito fofo, eu acho."
+    }
+  }
+]

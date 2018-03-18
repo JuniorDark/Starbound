@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/other/yellowstim.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A stimpack full of yellow liquid, this'll make you glow!",
+      "Por": "Uma injeção de estimulante cheia de líquido amarelo, isso vai fazer você brilhar!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/other/yellowstim.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Yellow Stim Pack",
+      "Por": "Yellow Stim Pack"
+    }
+  }
+]

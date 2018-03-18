@@ -1,0 +1,78 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Uma material de construção barato, mas eficaz."
+    ],
+    "Files": {
+      "items/materials/asphalt.matitem": [
+        "/description"
+      ],
+      "tiles/materials/asphalt.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A cheap but effective construction material.",
+      "Por": "Um material de construção barato, mas eficaz."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/asphalt.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/asphalt.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Asphalt",
+      "Por": "Asphalt"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/asphalt.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/asphalt.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a mash of sticky oil an' rocks.",
+      "Por": "É uma mistura de óleo pegajoso e pedras."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/asphalt.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/asphalt.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Readings suggest aesthetic value of asphalt is below 2%."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/asphalt.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/asphalt.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sssticky asphalt ssmelly like tar.",
+      "Por": "Asfalto grudento cheira como piche."
+    }
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ornateflooring.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/ornateflooring.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A beautiful ornate wooden floor."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ornateflooring.matitem": [
+        "/description"
+      ],
+      "tiles/materials/ornateflooring.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Delightful ornate flooring.",
+      "Por": "Piso ornamentado agradável."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ornateflooring.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/ornateflooring.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran feelss fancy walking on ornate floor.",
+      "Por": "Floran se sente chique caminhando em chão ornamentado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ornateflooring.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/ornateflooring.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ornate Flooring",
+      "Por": "Ornate Flooring"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ornateflooring.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/ornateflooring.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some fancy lookin' ornate floorin'.",
+      "Por": "Alguns pisos ornamentados chique."
+    }
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/blackglass.matitem": [
+        "/description"
+      ],
+      "tiles/materials/blackglass.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A dark-tinted panel of glass.",
+      "Por": "Uma painel de vidro tingido de preto."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/blackglass.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/blackglass.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Black Glass",
+      "Por": "Black Glass"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/blackglass.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/blackglass.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran can hide behind dark glasss.",
+      "Por": "Floran pode se esconder atráss de vidro escuro."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/blackglass.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/blackglass.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Glass so dark the sun'll hardly shine through.",
+      "Por": "Vidro tão escuro que o brilho do sol dificilmente vai passar por ele."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/blackglass.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/blackglass.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This glass has been so darkly tinted it is almost not transparent."
+    }
+  }
+]

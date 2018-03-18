@@ -1,0 +1,50 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/tiered/tier2door/tier2door.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A basic tungsten door.",
+      "Por": "Uma porta de tungstênio básica."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/tiered/tier2door/tier2door.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sturdy tungsten door.",
+      "Por": "Uma porta de tungstênio resistente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/tiered/tier2door/tier2door.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Just a door, does the job I guess.",
+      "Por": "Apenas uma porta, serve ao seu proposito, eu acho."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/tiered/tier2door/tier2door.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tungsten Door",
+      "Por": "Tungsten Door"
+    }
+  }
+]

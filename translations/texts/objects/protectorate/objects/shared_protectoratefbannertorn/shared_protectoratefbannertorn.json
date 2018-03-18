@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/protectorate/objects/protectoratefbannertorn1/protectoratefbannertorn1.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/protectorate/objects/protectoratefbannertorn2/protectoratefbannertorn2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A torn Protectorate banner..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/protectorate/objects/protectoratefbannertorn1/protectoratefbannertorn1.object": [
+        "/description"
+      ],
+      "objects/protectorate/objects/protectoratefbannertorn2/protectoratefbannertorn2.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A torn Protectorate wallbanner from the Protectorate academy.",
+      "Por": "Um estandarte de parede do Protetorado rasgado da academia do Protetorado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/protectorate/objects/protectoratefbannertorn1/protectoratefbannertorn1.object": [
+        "/avianDescription"
+      ],
+      "objects/protectorate/objects/protectoratefbannertorn2/protectoratefbannertorn2.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A torn banner! Devastating!",
+      "Por": "Um estandarte rasgado! Devastador!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/protectorate/objects/protectoratefbannertorn1/protectoratefbannertorn1.object": [
+        "/apexDescription"
+      ],
+      "objects/protectorate/objects/protectoratefbannertorn2/protectoratefbannertorn2.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This banner is torn...",
+      "Por": "Este estandarte está rasgado..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/protectorate/objects/protectoratefbannertorn1/protectoratefbannertorn1.object": [
+        "/shortdescription"
+      ],
+      "objects/protectorate/objects/protectoratefbannertorn2/protectoratefbannertorn2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Torn Protectorate Wall Banner",
+      "Por": "Torn Protectorate Wall Banner"
+    }
+  }
+]

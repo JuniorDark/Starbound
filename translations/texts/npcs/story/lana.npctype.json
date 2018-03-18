@@ -1,0 +1,122 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/lana.npctype": [
+        "/scriptConfig/dialog/lana/end/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "... What is this thing? This glowing thing is very distracting...",
+      "Por": "... O que é esta coisa? Essa coisa brilhante é muito perturbadora..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/lana.npctype": [
+        "/scriptConfig/dialog/lana/start/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hey! Soldier! Quick, we need you down in the tunnels!",
+      "Por": "Ei! Soldado! Rápido, precisamos de você em baixo nos túneis!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/lana.npctype": [
+        "/scriptConfig/dialog/lana/teleporter/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll see you on the other side!",
+      "Por": "Vejo você do outro lado!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/lana.npctype": [
+        "/scriptConfig/dialog/lana/end/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Oh, this is what you're here for? ...Take it.",
+      "Por": "Oh, é por isso que você está aqui? ... Pegue."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/lana.npctype": [
+        "/scriptConfig/dialog/lana/start/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Oh. Wait. You're not one of mine. If you're here to join us, we could use you! We need a scout underground!",
+      "Por": "Oh. Espere. Você não é um dos meus. Se você está aqui para se juntar a nós, poderíamos usá-lo! Precisamos de um escoteiro subterrâneo!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/lana.npctype": [
+        "/scriptConfig/dialog/lana/end/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Soldier, I'd like to help you, I think you've earned some assistance. I have skills that might be useful to you.",
+      "Por": "Soldado, eu gostaria de ajudá-lo, eu acho que você ganhou uma ajuda. Eu tenho habilidades que podem ser úteis para você."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/lana.npctype": [
+        "/scriptConfig/dialog/lana/start/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "The name's ^orange;Lana Blake^white;, and if you want into this Miniknog stronghold as bad as I do then get down there.",
+      "Por": "Meu nome é ^orange;Lana Blake^white;, e se você quiser entrar na Fortaleza Miniknog tanto quanto eu, então desça por aqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/lana.npctype": [
+        "/scriptConfig/dialog/lana/start/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Use the tunnel access to lower their defenses for us - I'm trusting you with this.",
+      "Por": "Use o túnel de acesso para baixar as suas defesas para nós - Eu estou confiando em você pra isso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/lana.npctype": [
+        "/scriptConfig/dialog/lana/end/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Well done, soldier! Thanks to you this was all worth it. Because of you this stronghold has fallen, and...",
+      "Por": "Muito bem, soldado! Graças a você tudo isso valeu a pena. Por causa de você essa fortaleza caiu, e..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/lana.npctype": [
+        "/scriptConfig/dialog/lana/mid/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You made it! Good... I'm wounded... I need you to finish what we started, to take out the final defenses.",
+      "Por": "Você conseguiu! Bom... Estou ferida... Eu preciso que você termine o que começamos, para eliminar as defesas finais."
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/fabric.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small square of woven fabric.",
+      "Por": "Um pequeno quadrado de tecido."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/fabric.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Woven Fabric",
+      "Por": "Woven Fabric"
+    }
+  }
+]

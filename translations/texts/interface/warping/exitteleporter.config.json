@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/warping/exitteleporter.config": [
+        "/destinations/0/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Back to Ship",
+      "Por": "Voltar a Nave"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/warping/exitteleporter.config": [
+        "/destinations/0/planetName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Leave this world behind",
+      "Por": "Deixar este mundo para trás"
+    }
+  }
+]

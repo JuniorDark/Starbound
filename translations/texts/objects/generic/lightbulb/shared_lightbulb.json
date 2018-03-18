@@ -1,0 +1,121 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/lightbulb/lightbulb.object": [
+        "/description"
+      ],
+      "objects/generic/lightbulb/lightbulb2.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bare lightbulb hanging from a metal rod in the ceiling.",
+      "Por": "Uma lâmpada pendurada em uma haste de metal no teto."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/lightbulb/lightbulb.object": [
+        "/humanDescription"
+      ],
+      "objects/generic/lightbulb/lightbulb2.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A depressing fixture.",
+      "Por": "Um dispositivo deprimente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/lightbulb/lightbulb.object": [
+        "/apexDescription"
+      ],
+      "objects/generic/lightbulb/lightbulb2.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A light bulb.",
+      "Por": "Uma lâmpada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/lightbulb/lightbulb.object": [
+        "/novakidDescription"
+      ],
+      "objects/generic/lightbulb/lightbulb2.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A lone lightbulb.",
+      "Por": "Uma lâmpada solitária."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/lightbulb/lightbulb.object": [
+        "/hylotlDescription"
+      ],
+      "objects/generic/lightbulb/lightbulb2.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An undecorated light.",
+      "Por": "Uma luz não decorada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/lightbulb/lightbulb.object": [
+        "/floranDescription"
+      ],
+      "objects/generic/lightbulb/lightbulb2.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bright!",
+      "Por": "Brilhante!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/lightbulb/lightbulb.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/generic/lightbulb/lightbulb2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wish to donate this lightbulb a lampshade."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/lightbulb/lightbulb.object": [
+        "/avianDescription"
+      ],
+      "objects/generic/lightbulb/lightbulb2.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Light!",
+      "Por": "Luz!"
+    }
+  }
+]

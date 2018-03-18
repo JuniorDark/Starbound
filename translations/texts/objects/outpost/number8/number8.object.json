@@ -1,0 +1,66 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/number8/number8.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An eight.",
+      "Por": "Um oito."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/number8/number8.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eight",
+      "Por": "Eight"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/number8/number8.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eight marker.",
+      "Por": "Numero oito."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/number8/number8.object": [
+        "/apexDescription",
+        "/avianDescription",
+        "/glitchDescription/glitchEmotedText",
+        "/humanDescription",
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eight.",
+      "Por": "Oito."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/number8/number8.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Number eight.",
+      "Por": "Número oito."
+    }
+  }
+]

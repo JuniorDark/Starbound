@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/fist/clawglove.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Claw Glove",
+      "Por": "Claw Glove"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/fist/clawglove.activeitem": [
+        "/upgradeParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Claw Glove ^yellow;^reset;",
+      "Por": "Claw Glove ^yellow;^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/fist/clawglove.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Not adamantium, but still cool.",
+      "Por": "Não é de adamantium, mas ainda é legal."
+    }
+  }
+]

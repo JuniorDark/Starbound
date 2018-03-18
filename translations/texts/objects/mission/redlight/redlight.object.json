@@ -1,0 +1,85 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/redlight/redlight.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A dim red light.",
+      "Por": "Uma luz vermelha fraca."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/redlight/redlight.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A moody red light.",
+      "Por": "Uma luz vermelha temperamental."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/redlight/redlight.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A passable light.",
+      "Por": "Uma luz razoável."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/redlight/redlight.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A red light.",
+      "Por": "Uma luz vermelha."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/redlight/redlight.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Red Light",
+      "Por": "Red Light"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/redlight/redlight.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Red light! Red!",
+      "Por": "Luz vermelha! Vermelha!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/redlight/redlight.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This light generates light on low power."
+    }
+  }
+]

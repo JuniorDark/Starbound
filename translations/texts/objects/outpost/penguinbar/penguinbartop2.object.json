@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/penguinbar/penguinbartop2.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bar fit for a Penguin.",
+      "Por": "Um bar adequado para um Pinguim."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/penguinbar/penguinbartop2.object": [
+        "/interactData/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Beakeasy Bar",
+      "Por": "Bar Beakeasy "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/penguinbar/penguinbartop2.object": [
+        "/interactData/paneLayoutOverride/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hire Penguin Mercenaries!",
+      "Por": "Contrate Pinguins Mercenários!"
+    }
+  }
+]

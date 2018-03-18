@@ -1,0 +1,136 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/kiwi/kiwiseed.object": [
+        "/avianDescription"
+      ],
+      "objects/farmables/kiwi/wildkiwiseed.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A weird fuzzy fruit, filled with delicious seeds.",
+      "Por": "Uma fruta estranha, cheia de sementes deliciosas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/kiwi/kiwiseed.object": [
+        "/hylotlDescription"
+      ],
+      "objects/farmables/kiwi/wildkiwiseed.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Another overly-sweet fruit. The surface is unpleasant to touch.",
+      "Por": "Outra fruta excessivamente doce. A superfície é desagradável ao toque."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/kiwi/kiwiseed.object": [
+        "/floranDescription"
+      ],
+      "objects/farmables/kiwi/wildkiwiseed.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Furry, squashy creature-fruit.",
+      "Por": "Fruta peluda e mole."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/kiwi/kiwiseed.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/farmables/kiwi/wildkiwiseed.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "It is remarkable how many foods resemble those who eat them."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/kiwi/kiwiseed.object": [
+        "/humanDescription"
+      ],
+      "objects/farmables/kiwi/wildkiwiseed.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a ground kiwi, a griwi.",
+      "Por": "É um kiwi de chão, um griwi."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/kiwi/kiwiseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/kiwi/wildkiwiseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Kiwi Seed",
+      "Por": "Kiwi Seed"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/kiwi/kiwiseed.object": [
+        "/apexDescription"
+      ],
+      "objects/farmables/kiwi/wildkiwiseed.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The space kiwi's fur feels similar to that of an Apex.",
+      "Por": "O pelo do kiwi espacial é semelhante à de um Apex."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/kiwi/kiwiseed.object": [
+        "/novakidDescription"
+      ],
+      "objects/farmables/kiwi/wildkiwiseed.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These taste just like a regular kiwis!",
+      "Por": "Estes tem gosto igual a um kiwi regular!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/kiwi/kiwiseed.object": [
+        "/description"
+      ],
+      "objects/farmables/kiwi/wildkiwiseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This particular variety of space kiwi grows close to the ground.",
+      "Por": "Esta variedade particular de kiwi espacial cresce perto do solo."
+    }
+  }
+]

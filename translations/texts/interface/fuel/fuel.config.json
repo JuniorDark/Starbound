@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/fuel/fuel.config": [
+        "/gui/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Erchius fuel repository",
+      "Por": "Repositório de combustível Erchius"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/fuel/fuel.config": [
+        "/gui/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "FTL Drive Fuel Hatch",
+      "Por": "Tanque de Combustível do Motor FTL "
+    }
+  }
+]

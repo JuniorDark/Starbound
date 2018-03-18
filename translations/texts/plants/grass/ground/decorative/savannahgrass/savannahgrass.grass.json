@@ -1,0 +1,39 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/savannahgrass/savannahgrass.grass": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dead grass.",
+      "Por": "Grama morta."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/savannahgrass/savannahgrass.grass": [
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dry grass.",
+      "Por": "Grama seca."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/savannahgrass/savannahgrass.grass": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dry, brittle grass.",
+      "Por": "Grama frágil e seca."
+    }
+  }
+]

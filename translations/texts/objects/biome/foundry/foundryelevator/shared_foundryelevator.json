@@ -1,0 +1,32 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/foundry/foundryelevator/foundryelevatorlong.object": [
+        "/hylotlDescription"
+      ],
+      "objects/biome/foundry/foundryelevator/foundryelevatorshort.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An industrial elevator.",
+      "Por": "Um elevador industrial."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/foundry/foundryelevator/foundryelevatorlong.object": [
+        "/description"
+      ],
+      "objects/biome/foundry/foundryelevator/foundryelevatorshort.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This elevator design is commonly seen in foundries.",
+      "Por": "Este projeto de elevador é comumente visto em fundições."
+    }
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/protectoratelobbystudent2.npctype": [
+        "/scriptConfig/dialog/speak/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hey <entityname>! Have a moment to chat?",
+      "Por": "Ei <entityname>! Tem um minuto para conversar?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/protectoratelobbystudent2.npctype": [
+        "/scriptConfig/dialog/converse/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I hear that those Matter Manipulators can disassemble all kinds of materials.",
+      "Por": "Ouvi dizer que esses Manipuladores de Matéria pode desmontar todos os tipos de materiais."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/protectoratelobbystudent2.npctype": [
+        "/scriptConfig/dialog/converse/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you get assigned to some distant world, don't forget you'll always have friends here on Earth!",
+      "Por": "Se você for designado para um mundo distante, não se esqueça que você sempre terá amigos aqui na Terra!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/protectoratelobbystudent2.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Soon you'll be a real Protector, with your very own Matter Manipulator. Must be exciting!",
+      "Por": "Logo você vai ser um verdadeiro Protetor(a), com o seu próprio Manipulador de Matéria. Deve ser emocionante!"
+    }
+  }
+]

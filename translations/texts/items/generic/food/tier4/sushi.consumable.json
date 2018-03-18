@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier4/sushi.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Delicious rolls of rice and seaweed. A Hylotl favourite.",
+      "Por": "Deliciosos rolos de arroz e algas marinhas. Um favorito dos Hylotl."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier4/sushi.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sushi",
+      "Por": "Sushi"
+    }
+  }
+]

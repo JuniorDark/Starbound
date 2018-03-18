@@ -1,0 +1,34 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tutorial.npctype": [
+        "/scriptConfig/dialog/converse/human/default/17"
+      ],
+      "npcs/tutorialtenant.npctype": [
+        "/scriptConfig/dialog/converse/human/default/16"
+      ]
+    },
+    "Texts": {
+      "Eng": "I haven't been to Earth in years! How is it doing these days?",
+      "Por": "Eu não vou para a Terra a anos! Como ela está indo esses dias?"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Só estou numa das minhas viagens, fazendo minhas coisas."
+    ],
+    "Files": {
+      "npcs/tutorial.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ],
+      "npcs/tutorialtenant.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm just on my travels, doing my own thing.",
+      "Por": "Só estou nas minhas viagens, fazendo minhas coisas."
+    }
+  }
+]

@@ -1,0 +1,1181 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/default/1",
+        "/scriptConfig/generatedText/completionText/default/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Did you find out what the <enemy> were up to? <appreciation>",
+      "Por": "Você descobriu o que o <enemy> estava fazendo? <appreciation>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/text/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran sssaw ^orange;<enemy>^white; whilst Floran was <floranmotivation> <earlier>. They were at the ^orange;<spawnPoint>^white;<spawnPoint.direction>. Floran <floransuspicious> - ^green;could you investigate^white;?",
+      "Por": "Floran viu ^orange;<enemy>^white; enquanto Floran estava <floranmotivation> <earlier>. Eles estavam no ^orange;<spawnPoint>^white; <spawnPoint.direction>. Floran <floransuspicious> - ^green;você poderia investigar^white;?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/text/default/default/0",
+        "/scriptConfig/generatedText/text/default/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I <activity> <earlier>, when ^orange;<enemy>^white; <crime1>. I'm feeling <reaction> and <justice1>. It happened near the ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Could you <request>^white;?",
+      "Por": "Eu <activity> <earlier>, quando ^orange;<enemy>^white; <crime1>. Estou me sentindo <reaction> e <justice1>. Isso aconteceu perto de ^orange;<spawnPoint>^white; <spawnPoint.direction>. ^green;Você poderia <request>^white;?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/text/default/default/1",
+        "/scriptConfig/generatedText/text/default/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I <overheard> some ^orange;<enemy>^white; who were near the ^orange;<spawnPoint>^white; <earlier>. <doubt> but I think they were <discussing> <discussion>. ^green;Could you go and <investigate>^white;?",
+      "Por": "Eu <overheard> alguns ^orange;<enemy>^white; que estavam perto do ^orange;<spawnPoint>^white; <earlier>. <doubt> mas eu acho que eles estavam <discussing> <discussion>. ^green;Você poderia ir e <investigate>^white;?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/12/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can't be certain",
+      "Por": "eu posso não estar certo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/10/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I feel so much safer now, thank you! Take this gift for all your help.",
+      "Por": "Eu me sinto muito mais seguro agora, obrigado! Pegue este presente por toda a sua ajuda."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/failureText/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I guess I wasn't able to help <questGiver>.",
+      "Por": "Eu acho que não fui capaz de ajudar <questGiver>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/12/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I might be wrong",
+      "Por": "eu posso estar errado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/10/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm impressed! Thank you so much!",
+      "Por": "Estou impressionado! Muito obrigado!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/12/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm not sure",
+      "Por": "não tenho certeza"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/failureText/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Oops, I wasn't much help to <questGiver>.",
+      "Por": "Oops, eu não fui de grande ajuda para <questGiver>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/title/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some <enemy> to take care of",
+      "Por": "Alguns <enemy> para cuidar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/title/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some <enemy> worth investigating",
+      "Por": "Alguns <enemy> vale a pena investigar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/text/default/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sssome ^orange;<enemy>^white; chased Floran whilst Floran was <floranmotivation> <earlier>! Floran <floransuspicious>, but Floran <floranexcuse>. It happened at the ^orange;<spawnPoint>^white;<spawnPoint.direction> -  ^green;can you <request> for Floran^white;?",
+      "Por": "Algunsss ^orange;<enemy>^white; perseguiu Floran enquanto Floran estava <floranmotivation> <earlier>! Floran <floransuspicious>, mas Floran <floranexcuse>. Aconteceu no ^orange;<spawnPoint>^white; <spawnPoint.direction> - ^green;você pode <request> para Floran^white;?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/10/1/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thank you! Hopefully this gift is enough to repay you.",
+      "Por": "Obrigado! Esperemos que este presente é o suficiente para recompensá-lo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/10/1/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thanks! I'll surely feel less nervous around here now.",
+      "Por": "Obrigado! Eu certamente vou se sentir menos nervoso por aqui agora."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/10/1/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thanks! I'm sure they weren't up to any good.",
+      "Por": "Obrigado! Tenho certeza que eles não estavam à altura de ninguém"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/default/0",
+        "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "You dealt with the <enemy>? <appreciation>",
+      "Por": "Você lidou com o <enemy>? <appreciation>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You dealt with the <enemy>? Floran appreciatesss the help!",
+      "Por": "Você lidou com o <enemy>? Floran agradece a ajuda!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "You dealt with the <enemy>? Thank you! Though, Floran could have done it if Floran had weapons...",
+      "Por": "Você lidou com o <enemy>? Obrigado! Embora, Floran poderia ter feito isso se Floran tivesse armas..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/10/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "You've helped make this planet just that bit safer!",
+      "Por": "Você ajudou a tornar este planeta um pouco mais seguro!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/goalText/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Floran had an encounter with sssome <enemy> <earlier>.",
+      "Por": "^cyan;Floran teve um encontro com algunsss <enemy> <earlier>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/goalText/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Floran overheard sssome <enemy> <earlier>.",
+      "Por": "^cyan;Floran ouviu algunsss <enemy> <earlier>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/goalText/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;I had an encounter with some <enemy> <earlier>.",
+      "Por": "^cyan;Eu tive um encontro com alguns <enemy> <earlier>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/goalText/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;I overheard some <enemy> <earlier>.",
+      "Por": "^cyan;Eu vi alguns <enemy> <earlier>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/goalText/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Tense. I overheard some <enemy> <earlier>.",
+      "Por": "^cyan;Tenso. Eu vi alguns <enemy> <earlier>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/goalText/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Worried. I had an encounter with some <enemy> <earlier>.",
+      "Por": "^cyan;Preocupado. Eu tive um encontro com alguns <enemy> <earlier>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/3/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "ambushed me and <crime2>",
+      "Por": "me emboscou e <crime2>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/3/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "appeared and <crime2>",
+      "Por": "apareceu e <crime2>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/5/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "backpack",
+      "Por": "mochila"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/8/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "blood",
+      "Por": "sangue"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "burn a few calories",
+      "Por": "queimar algumas calorias"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/3/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "came out of nowhere and <crime2>",
+      "Por": "surgiu do nada e <crime2>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/15/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "check it out",
+      "Por": "conferir"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/7/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "demand <justice2>",
+      "Por": "exijo <justice2>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/13/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "discussing",
+      "Por": "discutindo sobre"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/17/1/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "doesn't trussst them",
+      "Por": "não confia nelesss"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "expand my emotional horizons",
+      "Por": "expandir meus horizontes emocionais"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "explore the area",
+      "Por": "explorar a área"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/14/1/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "future business opportunities",
+      "Por": "oportunidades de negócios futuros"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/14/1/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "future crimes they've planned",
+      "Por": " futuros crimes que eles planejaram"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "get away from my troubles",
+      "Por": "ficar longe de meus problemas"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "get over a recent break-up",
+      "Por": "superar uma separação recente"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/16/1/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "going for a walk",
+      "Por": "indo para uma caminhada"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/14/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "guns",
+      "Por": "armas"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/18/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "has no hunting weaponsss",
+      "Por": "não tem armasss de caça"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/14/1/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "historical literature",
+      "Por": "literatura histórica"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/6/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "humiliated",
+      "Por": "humilhado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/4/1/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "interrogated me",
+      "Por": "me interrogou"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/15/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "investigate",
+      "Por": "investigar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/17/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "isss nervous about them",
+      "Por": "está nervoso sobre elesss"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/18/1/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "isss not prepared for fighting",
+      "Por": "não está preparado para combate"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/17/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "isss suspicious",
+      "Por": "é suspeito"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/18/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "isss too nervous",
+      "Por": "está muito nervoso"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/8/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "justice",
+      "Por": "justiça"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/5/1/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "life savings",
+      "Por": "economias"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/15/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "look into it",
+      "Por": "dar uma olhada"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/16/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "looking for food",
+      "Por": "à procura de comida"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/16/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "looking for hiding places",
+      "Por": "à procura de esconderijos"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/5/1/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "lunch",
+      "Por": "almoço"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/4/1/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "made me dance at gunpoint whilst laughing",
+      "Por": "me fez dançar com uma arma, enquanto rindo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/4/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "made me hand over my <crime3>",
+      "Por": "me fez entregar meu/minha <crime3>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/5/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "money"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/7/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "need <justice2>",
+      "Por": "quero <justice2>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/16/1/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "out for walksss",
+      "Por": "para passear"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/16/1/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "out thinking about ssstuff",
+      "Por": "a pensar sobre coisasss"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/11/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "overheard",
+      "Por": "ouvi por acaso"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/8/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "payback",
+      "Por": "vingança"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/6/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "pretty embarassed",
+      "Por": "muito envergonhado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/6/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "quite upset",
+      "Por": "bem chateado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/14/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "science",
+      "Por": "ciência"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/14/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "secret plans",
+      "Por": "planos secretos"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/5/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "socks",
+      "Por": "meias"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/14/1/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "some nasty plot",
+      "Por": "alguns pensamento maléficos"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/5/1/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "spare change",
+      "Por": "trocados"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/4/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "stole my <crime3>",
+      "Por": "roubou meu/minha <crime3>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/4/1/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "stole my <crime3> at gunpoint",
+      "Por": "roubou meu/minha <crime3> a mão armada"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "stretch my legs",
+      "Por": "esticar minhas pernas"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/13/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "talking about",
+      "Por": "falando sobre"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/14/1/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "their cooking techniques",
+      "Por": "suas técnicas de culinária"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/14/1/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "their feelings",
+      "Por": "seus sentimentos"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "think about life and stuff",
+      "Por": "pensar sobre a vida e outras coisas"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/18/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "thinks you might deal with thisss better",
+      "Por": "acho que você pode lidar com isso melhor"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/17/1/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "thinkss we might be in danger",
+      "Por": "acha que nós podemos estar em perigo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/17/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "thinksss they're up to no good",
+      "Por": "acha que eles estão fazendo algo ruim"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "took a short trip to <personal>",
+      "Por": "fiz uma viagem curta para <personal>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "took an excursion to <personal>",
+      "Por": "fiz uma excursão para <personal>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/4/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "took my <crime3>",
+      "Por": "levou meu/minha <crime3>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/4/1/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "took my <crime3> without me realising",
+      "Por": "levou meu/minha <crime3> sem eu perceber"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "try and remember a weird dream I had",
+      "Por": "tentar lembrar um sonho estranho que eu tive"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "try and solve a difficult mental math problem",
+      "Por": "tentar resolver um problema de matemática mental difícil"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/16/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "trying to be sssneaky",
+      "Por": "tentando ser sssorrateiro"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/8/1/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "vengeance",
+      "Por": "vingança"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/5/1/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "wallet",
+      "Por": "carteira"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/7/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "want <justice2>",
+      "Por": "quero <justice2>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/11/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "was spying on",
+      "Por": "estava espionando"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "went for a walk to <personal>",
+      "Por": "fui para uma caminhada para <personal>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/1/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "went jogging to <personal>",
+      "Por": "fui correr para <personal>"
+    }
+  }
+]

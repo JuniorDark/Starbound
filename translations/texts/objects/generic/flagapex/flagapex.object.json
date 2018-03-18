@@ -1,0 +1,109 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/flagapex/flagapex.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small locator module attached to this Apex flag allows it to be bookmarked for teleportation."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/flagapex/flagapex.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Apex flag. I can use this as a waypoint for teleportation.",
+      "Por": "Uma bandeira Apex. Eu posso usar isso como um ponto de rota para teletransportar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/flagapex/flagapex.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Apex flag. The symbol of the Miniknog. Use ^green;[E]^white; to bookmark a teleportation location.",
+      "Por": "Uma bandeira Apex. O símbolo da Miniknog. Use ^green;[E]^white; para favoritar um local de teletransporte."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/flagapex/flagapex.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Apex Flag",
+      "Por": "Apex Flag"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/flagapex/flagapex.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Apex flag makess good point to teleport back to ussing teleporter!",
+      "Por": "Bandeira Apex faz um bom ponto para teleportar de volta utilizando teletransportador!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/flagapex/flagapex.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can bookmark this Apex flag for quick teleportin'.",
+      "Por": "Eu posso favoritar esta bandeira Apex para teleporte rápido."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/flagapex/flagapex.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This Apex flag can act as a way point, enabling me to return to this point using a teleporter.",
+      "Por": "Esta bandeira Apex pode agir como um ponto de passagem, me permitindo voltar a este ponto usando um teletransportador."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/flagapex/flagapex.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This Apex flag can be bookmarked as a destination for my ship teleporter.",
+      "Por": "Esta bandeira Apex pode ser favoritada como um destino para meu teletransportador da nave."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/flagapex/flagapex.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This Apex flag can be saved as a location for my teleporter. Then I can return to it any time.",
+      "Por": "Esta bandeira Apex pode ser guardada como um local para o meu teletransportador. Então eu posso voltar a ela a qualquer momento."
+    }
+  }
+]

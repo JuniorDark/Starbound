@@ -1,0 +1,34 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Inventor's Table"
+    ],
+    "Files": {
+      "interface/windowconfig/inventorstable.config": [
+        "/paneLayout/windowtitle/title"
+      ],
+      "objects/crafting/upgradeablecraftingobjects/inventorstable/inventorstable.object": [
+        "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Inventor's Table",
+      "Por": "Mesa do Inventor"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/inventorstable.config": [
+        "/paneLayout/windowtitle/subtitle"
+      ],
+      "objects/crafting/upgradeablecraftingobjects/inventorstable/inventorstable.object": [
+        "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "  ^#b9b5b2;Innovation station",
+      "Por": "^#b9b5b2;Estação de Inovação"
+    }
+  }
+]

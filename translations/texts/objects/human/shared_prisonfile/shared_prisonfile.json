@@ -1,0 +1,32 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisonfile1/prisonfile1.object": [
+        "/novakidDescription"
+      ],
+      "objects/human/prisonfile2/prisonfile2.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Inmate files. We all have our dark secrets n' regrets. I won't snoop.",
+      "Por": "Arquivos de detento. Todos temos nossos segredos obscuros e arrependimentos. Não vou bisbilhotar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisonfile1/prisonfile1.object": [
+        "/description"
+      ],
+      "objects/human/prisonfile2/prisonfile2.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "There were some office supplies and inmate files in this filing cabinet.",
+      "Por": "Havia alguns materiais de escritório e arquivos de presos neste armário de arquivos."
+    }
+  }
+]

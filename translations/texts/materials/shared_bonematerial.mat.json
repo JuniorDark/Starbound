@@ -1,0 +1,61 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/bonematerial.matitem": [
+        "/description"
+      ],
+      "tiles/materials/bonematerial.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A collection of bones tightly packed together.",
+      "Por": "Uma coleção de ossos bem embalados juntos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/bonematerial.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/bonematerial.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bones from a variety of sources packed together."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/bonematerial.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/bonematerial.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bunch of bones. Who needs 'em!",
+      "Por": "Punhado de ossos. Quem precisa deles!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/bonematerial.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/bonematerial.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Packed Bones",
+      "Por": "Packed Bones"
+    }
+  }
+]

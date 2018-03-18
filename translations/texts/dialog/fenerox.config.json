@@ -1,0 +1,985 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/otherDeed/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Another deed. Rather rude. Quite unhappy.",
+      "Por": "Outro deed. Bastante rude. Muito infeliz."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/helpthem/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Attack happening. Not armed. Someone help!",
+      "Por": "Ataque acontecendo. Desarmado. Alguém ajude!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/attack/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Attack occuring. Spear ready. Combat happening!",
+      "Por": "Ataque ocorrendo. Lança pronta. Combate acontecendo!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/reattack/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Attack reoccuring. Spear ready. Combat happening!",
+      "Por": "Ataque reocorrendo. Lança pronta. Combate acontecendo!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/reattack/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Attacker returns. Feeling eager. Let's fight!",
+      "Por": "Atacante retorna. Sentindo ansioso. Vamos lutar!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/attack/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Attacker seen. Feeling eager. Let's fight!",
+      "Por": "Atacante visto. Sentindo-se ansioso. Vamos lutar!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/severe/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bad conditions. Feeling ignored. Considering leaving.",
+      "Por": "Más condições. Sentindo-se ignorado. Considerando sair."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/attack/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Battle beginning. Not afraid. Fenerox brave!",
+      "Por": "Batalha começando. Não tenho medo. Fenerox corajoso!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/reattack/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Battle returns. Not afraid. Fenerox brave!",
+      "Por": "Batalha retorna. Não tenho medo. Fenerox corajoso!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/killedTarget/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Battle successful. Not dead. Fenerox victorious!",
+      "Por": "Batalha bem sucedida. Não está morto. Fenerox vitorioso!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/beacon/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Being summoned. Feeling friendly. Let's talk!",
+      "Por": "Sendo convocado. Sentindo-se amigável. Vamos conversar!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/cantReach/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can't reach. Quite surprised. Enemy far!",
+      "Por": "Não pode alcançar. Bastante surpreso. Inimigo longe!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/safe/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Danger gone. Feeling exhausting. Scary experience!",
+      "Por": "Perigo acabou. Sentindo-se cansado. Experiência assustadora!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/safe/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Danger passed. Not dead. Good outcome!",
+      "Por": "Perigo passou. Não morto. Bom resultado!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Ajudante ansioso. Fornecendo aconselhamento. Ganha luta!"
+    ],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/cheerOn/default/default/1",
+        "/encourage/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eager helper. Providing advice. Win fight!",
+      "Por": "Ajudante ansiosos. Fornecer aconselhamento. Vencer a luta!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/killedTarget/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enemy defeated. Fenerox strong. Victory time!",
+      "Por": "Inimigo derrotado. Fenerox forte. Hora de vitória!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/lostTarget/default/default/0",
+        "/outOfSight/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enemy disppeared. Cannot see. Enemy scared?",
+      "Por": "Inimigo desapareceu. Não pode ver. Inimigo com medo?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/lostTarget/default/default/2",
+        "/outOfSight/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enemy gone. Probably fled. Fenerox succesful...?",
+      "Por": "Inimigo que se foi. Provavelmente fugiu. Fenerox bem sucedido...?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/rent/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling appreciative. Have gift. Hopefully liked!",
+      "Por": "Sentindo-se grato. Pegue este presente. Esperemos que goste!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Sentindo ansioso. Contribuindo com apoio. Ganha luta!",
+      "Sentindo-se ansioso. dando apoio. Vencer a luta!"
+    ],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/cheerOn/default/default/2",
+        "/encourage/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling eager. Contributing support. Win fight!",
+      "Por": "Sentindo-se ansioso. Dando apoio. Vencer a luta!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/rent/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling satisfied. Bringing gift. Take gift!",
+      "Por": "Sentindo-se satisfeito. Trazendo presente. Tome presente!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Fenerox apoiativo. Fornece suporte. Ganha batalha!"
+    ],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/cheerOn/default/default/0",
+        "/encourage/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fenerox supportive. Providing support. Win battle!",
+      "Por": "Fenerox apoia. Fornecendo suporte. Vencer a batalha!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/reattack/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fight resuming. Have spear. battle time!",
+      "Por": "Luta retomando. Tenho uma lança. Hora da batalha"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/attack/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fight started. Have spear. battle time!",
+      "Por": "Luta começou. Tenho lança. Hora da batalha!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/killedTarget/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Foe defeated. Spear strong. Now safe?",
+      "Por": "Inimigo derrotado. Lança forte. Agora seguro?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/lostTarget/default/default/1",
+        "/outOfSight/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Foe disappeared. Maybe fled. Maybe hiding?",
+      "Por": "Inimigo desapareceu. Talvez tenha fugido. Talvez escondido?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/cantReach/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Foe far. Cannot reach. Spear short!",
+      "Por": "Inimigo longe. Não pode alcançar. Lança curta!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Desconhecido amigável. Sentindo estranho. Cautelosamente otimista!",
+      "Estranho amigável. Sentindo estranho. Cautelosamente otimista!",
+      "Estranho amigável. Sentindo estranho. Ser legal!"
+    ],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/converse/default/apex/5",
+        "/converse/default/avian/5",
+        "/converse/default/default/5",
+        "/converse/default/floran/5",
+        "/converse/default/glitch/5",
+        "/converse/default/hylotl/5",
+        "/converse/default/novakid/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Friendly stranger. Feeling awkward. Cautiously optimistic!",
+      "Por": "Estranho amigável. Sentindo-se estranho. Cautelosamente otimista!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/tagCriteria/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Home changed. Quite disappointing. Not happy.",
+      "Por": "Casa alterada. Bastante decepcionante. Infeliz."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/enclosedArea/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Home damaged. Needs repairs. Feeling upset!",
+      "Por": "Casa danificada. Necessita de obras. Sentindo chateado!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/enclosedArea/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Home damaged. Walls broken. Needs fixing!",
+      "Por": "Casa danificada. Paredes quebradas. Precisa de conserto!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/killedTarget/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I survived. Battle won. Exhausting experience!",
+      "Por": "Eu sobrevivi. Batalha ganha. Experiência desgastante!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/beacon/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm needed. Conversing now. Let's chat!",
+      "Por": "Eu sou necessário. Conversando agora. Vamos conversar!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/helpme/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "In danger. Being hurt. Must run!",
+      "Por": "Em perigo. Sendo ferido. Devo correr!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/final/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Leaving now. Being ignored. Poor home! ",
+      "Por": "Saindo agora. Ignorando. Pobre casa!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Conhecendo estranho. Ser amigável. Nova experiência!",
+      "Conhecendo um estranho. Ser amigável. Nova experiência!",
+      "Encontro estranho. Ser amigável. Nova experiência!"
+    ],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/converse/default/apex/3",
+        "/converse/default/avian/3",
+        "/converse/default/default/3",
+        "/converse/default/floran/3",
+        "/converse/default/glitch/3",
+        "/converse/default/hylotl/3",
+        "/converse/default/novakid/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Meeting stranger. Being friendly. New experience!",
+      "Por": "Conhecendo estranho. Sendo amigável. Nova experiência!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/converse/default/avian/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "New person. Bird face. Quite exciting!",
+      "Por": "Nova pessoa. Rosto de pássaro. Muito emocionante!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/converse/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "New person. Flowery smell. Quite exciting!",
+      "Por": "Nova pessoa. cheira à flores. Muito emocionante!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/converse/default/novakid/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "New person. Glowing brightly. Quite exciting!",
+      "Por": "Uma pessoa diferente. Brilhando intensamente. Muito emocionante!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/converse/default/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "New person. Looks metal. Quite exciting!",
+      "Por": "Nova pessoa. Parece ser de metal. Muito emocionante!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/converse/default/hylotl/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "New person. Smells fishy. Quite exciting!",
+      "Por": "Nova pessoa. Cheira bem. Muito emocionante!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Nova pessoa. Odores estranhos. Muito emocionante!",
+      "Uma nova pessoa. Odores estranhos. Muito emocionante!"
+    ],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/converse/default/apex/0",
+        "/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "New person. Smells strange. Quite exciting!",
+      "Por": "\"Nova pessoa. Cheira estranho. Bem emocionante!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Estranho amigável. Sentindo estranho. Cautelosamente otimista!",
+      "Novo desconhecido. Não confiante. Dizer olá!",
+      "Novo e estranho. Não confiante. Dizer olá!",
+      "Um novo desconhecido. Não confiante. Dizer olá!",
+      "Um novo estranho. Não confiante. Dizendo olá!",
+      "Um novo estranho. Não confiante. Dizer olá!"
+    ],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/converse/default/apex/6",
+        "/converse/default/avian/6",
+        "/converse/default/default/6",
+        "/converse/default/floran/6",
+        "/converse/default/glitch/6",
+        "/converse/default/hylotl/6",
+        "/converse/default/novakid/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "New stranger. Not confident. Saying hello!",
+      "Por": "Novo estranho. Não confiante. Dizendo olá!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/attack/default/default/4",
+        "/reattack/default/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "No fear. Only brave. Spears forward!",
+      "Por": "Sem medo. Apenas corajoso. Lanças para frente!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/helpme/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "No weapons. Quite defenseless. Under attack!",
+      "Por": "Nenhuma arma. Indefeso. Sob ataque!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/helpme/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Not armed. Being attacked. Need help!",
+      "Por": "Desarmado. Sendo atacado. Preciso de ajuda!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/safe/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Not dead. Danger over. Need rest!",
+      "Por": "Não morto. Sem perigo. Preciso descansar!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Pessoa desconhecida. Parece ser agradável. Sentindo-se cauteloso!",
+      "Pessoa estranha. Espero ser agradável. Sentindo-se cauteloso!",
+      "Pessoa estranha. Parece ser agradável. Sentindo-se cauteloso!",
+      "Pessoa estranha. Sentindo agradável. Sentindo-se cauteloso!"
+    ],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/converse/default/apex/1",
+        "/converse/default/avian/1",
+        "/converse/default/default/1",
+        "/converse/default/floran/1",
+        "/converse/default/glitch/1",
+        "/converse/default/hylotl/1",
+        "/converse/default/novakid/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Odd person. Hopefully nice. Feeling cautious!",
+      "Por": "Pessoa estranha. Parece ser legal. Sentindo-se cauteloso!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Pessoa estranha. Diz olá. Não é Fenerox?",
+      "Pessoa estranha. Dizer olá. Não é Fenerox?",
+      "Pessoa estranha. Dizer olá. Né Fenerox?"
+    ],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/converse/default/apex/4",
+        "/converse/default/avian/4",
+        "/converse/default/default/4",
+        "/converse/default/floran/4",
+        "/converse/default/glitch/4",
+        "/converse/default/hylotl/4",
+        "/converse/default/novakid/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Odd person. Saying hello. Not Fenerox?",
+      "Por": "Pessoa estranha. Dizendo olá. Não é Fenerox?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/safe/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Peril over. Survived encounter. Still shaken!",
+      "Por": "Perigo acabou. Sobreviveu ao encontro. Ainda abalado!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/helpme/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Quite vulnerable. Under threat. Must flee!",
+      "Por": "Bastante vulnerável. Sob ameaça. Devo fugir!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/severe/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Really upset. Feeling ignored. Might leave.",
+      "Por": "Muito chateado. Sentindo-se ignorado. Devo sair."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/otherDeed/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Second deed. My home. Not happy.",
+      "Por": "Segundo deed. Minha casa. Infeliz."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/accuse/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shocking development. Thievery afoot. Very appalled!",
+      "Por": "Desenvolvimento chocante. Ladroagem a pé. Muito chocado!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/tagCriteria/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Something missing. Home changed. Quite upsetting.",
+      "Por": "Algo faltando. Casa alterada. Muito preocupante."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/alert/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stealing awful. Need help. Finding guards!",
+      "Por": "Roubar é horrível. Preciso de ajuda. Procurando guardas!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/alert/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stealing wrong. Calling backup. Locating guards!",
+      "Por": "Roubar é errado. Chamando reforços. Localizando guardas!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/accuse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stranger stealing. Not okay. Very worried!",
+      "Por": "Estranho roubando. Não está certo. Muito preocupado!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/accuse/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thief stealing. Not polite. Rather upsetting.",
+      "Por": "Ladrão roubando. Não educado. Socorro!."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/tagCriteria/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Things missing. Home different. Feels wrong.",
+      "Por": "Coisas faltando. Casa diferente. Parece errado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/alert/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thivery terrible. Must stop. Alerting guards!",
+      "Por": "Crime é terrível. Deve parar. Alertando guardas!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/severe/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unacceptable conditions. Feeling ignored. Complaining loudly!",
+      "Por": "Condições inaceitáveis. Sentindo-se ignorado. Queixando-se!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/converse/default/avian/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unknown person. Feathery body. Quite strange.",
+      "Por": "Pessoa desconhecida. corpo de penas. Muito estranho."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/converse/default/novakid/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unknown person. Fiery person. No face?",
+      "Por": "Pessoa desconhecida. pessoa de fogo. Nenhum rosto?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/converse/default/floran/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unknown person. Leafy body. Creepy smile...",
+      "Por": "Pessoa desconhecida. Corpo de folhas. Sorriso assustador..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/converse/default/default/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unknown person. Not hairy. Looking weird.",
+      "Por": "Pessoa desconhecida. Sem pelos. Aparência estranha."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/converse/default/apex/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unknown person. Quite hairy. Nice beard!",
+      "Por": "Pessoa desconhecida. Muito cabeluda. Bela barba!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/converse/default/glitch/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unknown person. glowing eyes. Metal skin?",
+      "Por": "Pessoa desconhecida. olhos brilhantes. pele de metal?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/converse/default/hylotl/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unknown person. rubbery skin. Looks weird.",
+      "Por": "Pessoa desconhecida. pele de borracha. Parece estranho."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/rent/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Very pleased. Nice home. Take gift!",
+      "Por": "Muito satisfeito. Casa legal. Tome presente!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/final/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Very upset. Leaving now. Disappointing experience!",
+      "Por": "Muito chateado. Saindo agora. Experiência decepcionante!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/enclosedArea/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Walls broken. Needs repairs. Quite concerning.",
+      "Por": "Paredes quebradas. Necessita de obras. Muito preocupante."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Pessoa estranha. Não Fenerox. Sendo educado!",
+      "Pessoa estranha. Não é Fenerox. Sendo educado!",
+      "Pessoa estranha. Não é o Fenerox. Ser educado!",
+      "Pessoa estranha. Não é um Fenerox. Ser educado!"
+    ],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/converse/default/apex/2",
+        "/converse/default/avian/2",
+        "/converse/default/default/2",
+        "/converse/default/floran/2",
+        "/converse/default/glitch/2",
+        "/converse/default/hylotl/2",
+        "/converse/default/novakid/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Weird person. Not Fenerox. Being polite!",
+      "Por": "Pessoa estranha. Não é um Fenerox. Sendo educado!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/helpthem/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Witnessing attack. Can't help. Need assistance!",
+      "Por": "Testemunhando ataque. não pode ajudar. Precisa de assistência!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/fenerox.config": [
+        "/accuse/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Witnessing robbery. Very concerned. Awful behaviour!",
+      "Por": "Testemunhando roubo. Muito preocupado. comportamento horrível!"
+    }
+  }
+]

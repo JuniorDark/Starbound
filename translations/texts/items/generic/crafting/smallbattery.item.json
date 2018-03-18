@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/smallbattery.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "AA Battery",
+      "Por": "AA Battery"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/smallbattery.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This battery can be used to power small electronic devices!",
+      "Por": "Esta bateria pode ser usada para alimentar dispositivos eletrônicos pequenos!"
+    }
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/small/sabertoothfossil.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fossilised sabertooth skull.",
+      "Por": "Um crânio de sabertooth fossilizado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/small/sabertoothfossil.item": [
+        "/completeSetDescriptions/shortdescription",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sabertooth Skull",
+      "Por": "Sabertooth Skull"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/small/sabertoothfossil.item": [
+        "/completeSetDescriptions/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sabertooth are widely recognised fossils, easily identifiable by their elongated canine teeth.",
+      "Por": "Fósseis de sabertooth são amplamente reconhecidos, facilmente identificáveis por seus dentes caninos alongados."
+    }
+  }
+]

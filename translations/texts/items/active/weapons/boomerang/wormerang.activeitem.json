@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/boomerang/wormerang.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A terrifying giant worm, throw it at someone!",
+      "Por": "Um verme gigante aterrorizante, jogue em alguém."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/boomerang/wormerang.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Giant Worm",
+      "Por": " Giant Worm "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/boomerang/wormerang.activeitem": [
+        "/upgradeParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Giant Worm ^yellow;^reset;",
+      "Por": "Giant Worm ^yellow;^reset;"
+    }
+  }
+]

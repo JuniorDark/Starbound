@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/setuniformconfirmation.config": [
+        "/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "\n\nI just love that outfit! Would you like to make it your crew's new uniform?",
+      "Por": "\n\nEu simplesmente amo essa roupa! Gostaria de fazê-la o novo uniforme de sua tripulação?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/setuniformconfirmation.config": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Update your crew's uniform?",
+      "Por": "Atualizar o uniforme de sua tripulação?"
+    }
+  }
+]

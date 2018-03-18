@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/ancientcrystaltrap/ancientcrystaltrap.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ancient Crystal Trap",
+      "Por": "Ancient Crystal Trap"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/ancientcrystaltrap/ancientcrystaltrap.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crazy crystal shootin' light right at me!",
+      "Por": "Cristal louco atirando luz direitamente em mim!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/ancientcrystaltrap/ancientcrystaltrap.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wouldn't want to get caught in its beam.",
+      "Por": "Eu não quero ser pego neste feixe."
+    }
+  }
+]

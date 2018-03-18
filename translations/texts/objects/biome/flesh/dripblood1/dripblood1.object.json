@@ -1,0 +1,65 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/flesh/dripblood1/dripblood1.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Blood Drop Source",
+      "Por": "Blood Drop Source"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/flesh/dripblood1/dripblood1.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Blood is dripping from this place.",
+      "Por": "Sangue está pingando deste lugar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/flesh/dripblood1/dripblood1.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Uugh.."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/flesh/dripblood1/dripblood1.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "nasssty",
+      "Por": "Desagradável."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/flesh/dripblood1/dripblood1.object": [
+        "/apexDescription",
+        "/avianDescription",
+        "/humanDescription",
+        "/hylotlDescription",
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "ugh..",
+      "Por": "ugh.."
+    }
+  }
+]

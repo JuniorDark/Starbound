@@ -1,0 +1,37 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/vaultconsole/vaultconsolegui.config": [
+        "/gui/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Activated with a Vault Key",
+      "Por": "Ativado com uma Vault Key"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/vaultconsole/vaultconsolegui.config": [
+        "/gui/costDescription/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "VAULT KEY"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/vaultconsole/vaultconsolegui.config": [
+        "/gui/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vault Gate Console",
+      "Por": "Console do Portal do Vault"
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/meat/cookedfish.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A tasty fillet of cooked fish.",
+      "Por": "Um filé saboroso de peixe cozido."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/meat/cookedfish.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cooked Fish",
+      "Por": "Cooked Fish"
+    }
+  }
+]

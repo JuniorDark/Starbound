@@ -1,0 +1,97 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/miningbelt/miningbelt.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Conveyer Belt, currently not moving.",
+      "Por": "Uma Esteira Transportadora, atualmente não está em movimento."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/miningbelt/miningbelt.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Conveyer Belt, for moving heavy loads a short distance.",
+      "Por": "Uma Esteira Transportadora, para mover cargas pesadas a uma curta distância."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/miningbelt/miningbelt.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A device for carryin' heavy things from one place to another.",
+      "Por": "Um dispositivo para transportar coisas pesadas de um lugar para outro."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/miningbelt/miningbelt.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A machine used to move large amounts of mined material.",
+      "Por": "Uma máquina utilizada para movimentar grandes quantidades de material extraído."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/miningbelt/miningbelt.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A short Conveyer Belt for moving heavy loads.",
+      "Por": "Uma Esteira Transportadora curta para mover cargas pesadas"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/miningbelt/miningbelt.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An uninteresting human construct.",
+      "Por": "Uma construção humana desinteressante."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/miningbelt/miningbelt.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mining Conveyer Belt",
+      "Por": "Mining Conveyer Belt"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/miningbelt/miningbelt.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The conveyer belt is seemingly nonfunctional."
+    }
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Este seria um local perfeito para uma loja."
+    ],
+    "Files": {
+      "objects/outpost/frogfurnishing/frogfurnishingclosed.object": [
+        "/description"
+      ],
+      "objects/outpost/penguinbay/penguinbayclosed.object": [
+        "/description"
+      ],
+      "objects/outpost/penguinweaponshop/penguinweaponshopclosed.object": [
+        "/description"
+      ],
+      "objects/outpost/terramart/terramartclosed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This would be a neat venue for a shop.",
+      "Por": "Este seria um excelente local para uma loja."
+    }
+  }
+]

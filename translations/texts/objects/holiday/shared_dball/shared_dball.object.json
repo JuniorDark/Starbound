@@ -1,0 +1,63 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/holiday/goldball/goldball.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/holiday/redball/redball.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A lovely decoration."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/holiday/goldball/goldball.object": [
+        "/floranDescription"
+      ],
+      "objects/holiday/redball/redball.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran kick shiny ball!",
+      "Por": "Floran chuta bola brilhante!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Tenho que ter cuidado para não esmagar esta bugiganga."
+    ],
+    "Files": {
+      "objects/holiday/goldball/goldball.object": [
+        "/humanDescription"
+      ],
+      "objects/holiday/redball/redball.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gotta be careful not to smash this bauble.",
+      "Por": "Tenho que ter cuidado para não esmagar esta decoração."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/holiday/goldball/goldball.object": [
+        "/hylotlDescription"
+      ],
+      "objects/holiday/redball/redball.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "There's something hypnotising about this shiny ball.",
+      "Por": "Há algo de hipnótico sobre essa bola brilhante."
+    }
+  }
+]

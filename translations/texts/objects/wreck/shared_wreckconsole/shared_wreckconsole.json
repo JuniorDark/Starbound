@@ -1,0 +1,127 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wreck/wreckconsole1/wreckconsole1.object": [
+        "/avianDescription"
+      ],
+      "objects/wreck/wreckconsole2/wreckconsole2.object": [
+        "/avianDescription"
+      ],
+      "objects/wreck/wreckconsole3/wreckconsole3.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A console. It doesn't work.",
+      "Por": "Um console. Não funciona."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wreck/wreckconsole1/wreckconsole1.object": [
+        "/apexDescription"
+      ],
+      "objects/wreck/wreckconsole2/wreckconsole2.object": [
+        "/apexDescription"
+      ],
+      "objects/wreck/wreckconsole3/wreckconsole3.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A useless wrecked console.",
+      "Por": "Um console destruído inútil."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wreck/wreckconsole1/wreckconsole1.object": [
+        "/novakidDescription"
+      ],
+      "objects/wreck/wreckconsole2/wreckconsole2.object": [
+        "/novakidDescription"
+      ],
+      "objects/wreck/wreckconsole3/wreckconsole3.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A wrecked console. I wonder if this thing ever worked.",
+      "Por": "Um console destruído. Eu me pergunto se isso já funcionou."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wreck/wreckconsole1/wreckconsole1.object": [
+        "/humanDescription"
+      ],
+      "objects/wreck/wreckconsole2/wreckconsole2.object": [
+        "/humanDescription"
+      ],
+      "objects/wreck/wreckconsole3/wreckconsole3.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This console doesn't work. Half the buttons are missing.",
+      "Por": "Este console não funciona. A metade dos botões está faltando."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wreck/wreckconsole1/wreckconsole1.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/wreck/wreckconsole2/wreckconsole2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/wreck/wreckconsole3/wreckconsole3.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This console is broken and useless."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wreck/wreckconsole1/wreckconsole1.object": [
+        "/hylotlDescription"
+      ],
+      "objects/wreck/wreckconsole2/wreckconsole2.object": [
+        "/hylotlDescription"
+      ],
+      "objects/wreck/wreckconsole3/wreckconsole3.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This console is broken beyond repair.",
+      "Por": "Esta console está quebrado além do reparo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wreck/wreckconsole1/wreckconsole1.object": [
+        "/floranDescription"
+      ],
+      "objects/wreck/wreckconsole2/wreckconsole2.object": [
+        "/floranDescription"
+      ],
+      "objects/wreck/wreckconsole3/wreckconsole3.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This consssole is broken.",
+      "Por": "Este consssole está quebrado."
+    }
+  }
+]

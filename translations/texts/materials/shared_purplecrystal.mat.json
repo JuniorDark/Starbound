@@ -1,0 +1,78 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/purplecrystal.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/purplecrystal.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Light appears to dance through this purple crystal."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "A luz parece retorcer dentro desses cristais roxos."
+    ],
+    "Files": {
+      "items/materials/purplecrystal.matitem": [
+        "/description"
+      ],
+      "tiles/materials/purplecrystal.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Light seems to twist inside these purple crystals.",
+      "Por": "A luz parece retorcer dentro destes cristais roxos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/purplecrystal.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/purplecrystal.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pretty purple crysstal.",
+      "Por": "Crisstal roxo bonito."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/purplecrystal.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/purplecrystal.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Purple Crystal Block",
+      "Por": "Purple Crystal Block"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/purplecrystal.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/purplecrystal.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This purple crystal is purdy lookin'.",
+      "Por": "Este cristal roxo é bastante bonito."
+    }
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/unsorted/filledcapturepod/filledcapturepod.activeitem": [
+        "/shortdescription"
+      ],
+      "items/active/unsorted/filledcapturepod/npcpetcapturepod.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Filled Capture Pod",
+      "Por": "Filled Capture Pod"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Jogue isso para soltar a criatura capturada dentro!"
+    ],
+    "Files": {
+      "items/active/unsorted/filledcapturepod/filledcapturepod.activeitem": [
+        "/description"
+      ],
+      "items/active/unsorted/filledcapturepod/npcpetcapturepod.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Throw it down to release the creature captured inside!",
+      "Por": "Jogue-o para para liberar a criatura capturada dentro!"
+    }
+  }
+]

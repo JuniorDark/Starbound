@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/foundry/foundrylogic/foundrydlatch.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "<A Latch. You'll only need to use this if you already know what it is.>",
+      "Por": "<Um Trinco. Você só precisará usar isto se você já sabe o que é.>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/foundry/foundrylogic/foundrydlatch.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Foundry Latch",
+      "Por": "Foundry Latch"
+    }
+  }
+]

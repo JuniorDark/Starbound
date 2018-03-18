@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/tomato.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A ripe, juicy tomato!",
+      "Por": "Um tomate suculento maduro!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/tomato.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tomato",
+      "Por": "Tomato"
+    }
+  }
+]

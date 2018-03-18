@@ -1,0 +1,338 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/tonauac.npctype": [
+        "/scriptConfig/dialog/tonauac/giveRelic/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "... I see what you were up to! The whole time!!",
+      "Por": "... Eu vi o que você estava fazendo! O tempo todo!!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/tonauac.npctype": [
+        "/scriptConfig/dialog/tonauac/end/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "A teleporter! Thank Kluex! Oh, he's so wonderful.",
+      "Por": "Um teletransportador! Obrigado Kluex! Oh, ele é tão maravilhoso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/tonauac.npctype": [
+        "/scriptConfig/dialog/tonauac/doorGreeting/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Actually, I shouldn't be here either - I've not been this deep into the temple before...",
+      "Por": "Na verdade, eu não deveria estar aqui também - eu não estive tão fundo no templo antes..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/tonauac.npctype": [
+        "/scriptConfig/dialog/tonauac/start/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are you here to learn about our wondrous god Kluex? I'd be very pleased to help! I'll show you around.",
+      "Por": "Você está aqui para aprender sobre o nosso maravilhoso Deus Kluex? Eu ficaria muito contente de ajudar! Vou lhe mostrar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/tonauac.npctype": [
+        "/scriptConfig/dialog/tonauac/altarDescription/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gosh! He is mighty and wondrous, isn't he?",
+      "Por": "Puxa! Ele é poderoso e maravilhoso, não é?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/tonauac.npctype": [
+        "/scriptConfig/dialog/tonauac/statueDescription/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "He doesn't use them anymore, because, um, he's dead.",
+      "Por": "Ele não usá mais elas, porque, um, ele está morto."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/tonauac.npctype": [
+        "/scriptConfig/dialog/tonauac/start/default/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "I know you'd never dream of taking anything, but not all people are as trustworthy. It's quite upsetting...",
+      "Por": "Eu sei que você nunca sonhou em pegar qualquer coisa, mas nem todas as pessoas são tão confiáveis. É bem preocupante..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/tonauac.npctype": [
+        "/scriptConfig/dialog/tonauac/giveRelic/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a sign that this artifact is here for you: these Avolite crystals hold fragments of Kluex's will!",
+      "Por": "É um sinal que este artefato está aqui para você: esses cristais Avolite mantem fragmentos da vontade de Kluex!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/tonauac.npctype": [
+        "/scriptConfig/dialog/tonauac/feelingTired/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mm, so nice to make a new friend. But these tours are... A bit... Tiring...",
+      "Por": "Mm, tão bom fazer um novo amigo. Mas esses tours são... Um pouco... Cansativos..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/tonauac.npctype": [
+        "/scriptConfig/dialog/tonauac/start/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Oh!... A visitor!",
+      "Por": "Oh!... Um visitante!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/tonauac.npctype": [
+        "/scriptConfig/dialog/tonauac/doorGreeting/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Oh, there you are! I'm so relieved you're safe! I suppose you got lost...You really shouldn't be here...",
+      "Por": "Ah, aí está você! Estou tão aliviado que você está seguro! Suponho que você se perdeu... Você realmente não deveria estar aqui..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/tonauac.npctype": [
+        "/scriptConfig/dialog/tonauac/start/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "One thing though, please don't touch anything. You see, we've had problems with theft in the past.",
+      "Por": "Uma coisa, por favor, não toque em nada. Você entende, tivemos problemas com roubo no passado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/tonauac.npctype": [
+        "/scriptConfig/dialog/tonauac/feelingTired/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "PLEASE don't try and go further in, it's just too dangerous...",
+      "Por": "POR FAVOR não tente ir mais alem, é muito perigoso..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/tonauac.npctype": [
+        "/scriptConfig/dialog/tonauac/continue/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Please do come in! Mind your head, and your feet, and your... self. It can be a bit dangerous in here.",
+      "Por": "Por favor, entre! Cuidado com a cabeça e os pés, e você... mesmo. Pode ser um pouco perigoso aqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/tonauac.npctype": [
+        "/scriptConfig/dialog/tonauac/giveRelic/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Please, let me join you? I'm a dedicated and enthusiastic servant of Kluex - I promise I'm worthy!",
+      "Por": "Por favor, deixe-me acompanhá-lo? Eu sou um servo dedicado e entusiasta de Kluex - Eu prometo que eu sou digno!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/tonauac.npctype": [
+        "/scriptConfig/dialog/tonauac/endTour/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sadly this is the last door that's open to our visitors. Only caretakers and almighty deities beyond this point.",
+      "Por": "Infelizmente esta é a última porta que está aberta aos nossos visitantes. Somente guardas e divindades onipotentes podem ir além deste ponto."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/tonauac.npctype": [
+        "/scriptConfig/dialog/tonauac/endTour/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "There's lovely items in the chambers above, then you leave by coming back this way. Let me get the door.",
+      "Por": "Há belos itens nas câmaras acima, então você pode voltar por este caminho. Deixe-me abrir a porta."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/tonauac.npctype": [
+        "/scriptConfig/dialog/tonauac/maskDescription/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "These ceremonial masks are very ancient, and imbued with the cosmic power of Kluex. We think.",
+      "Por": "Estas máscaras cerimoniais são muito antigas, e imbuído com o poder cósmico de Kluex. Nós achamos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/tonauac.npctype": [
+        "/scriptConfig/dialog/tonauac/maskDescription/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "They're so ancient we've sort of lost track... But we know for sure that Kluex is a big fan of ceremonial masks!",
+      "Por": "Eles são tão antigas que nós meio que perdemos o rastro... Mas sabemos com certeza que Kluex é um grande fã de máscaras cerimoniais!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/tonauac.npctype": [
+        "/scriptConfig/dialog/tonauac/doorOpened/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "This door is a little too small for me. I'm sure you'll fit though.",
+      "Por": "Esta porta é pequena demais para mim. Tenho certeza que você vai caber no entanto."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/tonauac.npctype": [
+        "/scriptConfig/dialog/tonauac/statueDescription/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is a statue of an old Avian warrior! These are his spears...",
+      "Por": "Esta é uma estátua de um velho guerreiro Avian! Estas são suas lanças..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/tonauac.npctype": [
+        "/scriptConfig/dialog/tonauac/altarDescription/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is our sacrificial altar. It's a very fine example. These grooves channel the blood along its full length.",
+      "Por": "Este é o nosso altar sacrificial. É uma amostra muito fina. Estes sulcos canalizam o sangue ao longo do seu comprimento total."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/tonauac.npctype": [
+        "/scriptConfig/dialog/tonauac/altarDescription/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "This temple was one of those built by Kluex himself.",
+      "Por": "Este templo foi um daqueles construídos pelo próprio Kluex."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/tonauac.npctype": [
+        "/scriptConfig/dialog/tonauac/doorGreeting/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Truthfully, um, I'm lost too... But between us I'm sure we can find a way back!",
+      "Por": "Na verdade, hum, eu estou perdido também... Mas entre nós Eu tenho certeza que podemos encontrar um caminho de volta!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/tonauac.npctype": [
+        "/scriptConfig/dialog/tonauac/start/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welcome to the temple! It's lovely to have you here. I'm ^orange;Tonauac^white;, the temple caretaker.",
+      "Por": "Bem-vindo ao templo! É adorável ter você aqui. Sou ^orange;Tonauac^white;, o cuidador do templo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/tonauac.npctype": [
+        "/scriptConfig/dialog/tonauac/endTour/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Well, I hope you enjoyed the tour! Please feel free to have a wander round. ",
+      "Por": "Bem, espero que tenha gostado do passeio! Por favor, sinta-se livre para vaguear por ai."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/tonauac.npctype": [
+        "/scriptConfig/dialog/tonauac/doorOpened/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "You have a check around through there, and I'll hunt about for an exit on this side.",
+      "Por": "Você verifica por ali, e eu vou procurar por uma saída deste lado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/tonauac.npctype": [
+        "/scriptConfig/dialog/tonauac/giveRelic/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "You're here to serve Kluex! I mean, you simply couldn't have gotten this far without his favour and guidance.",
+      "Por": "Você está aqui para servir Kluex! Quero dizer, você simplesmente não poderia ter chegado tão longe sem o seu favor e orientação."
+    }
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Um muco espesso. Ele balança quando cutucado."
+    ],
+    "Files": {
+      "items/materials/slime.matitem": [
+        "/description"
+      ],
+      "tiles/materials/slime.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A thick mucus. It jiggles when poked.",
+      "Por": "Um muco espesso. Ele balança quando mechido."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/slime.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/slime.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran lovess sslime!",
+      "Por": "Floran ama lodo!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/slime.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/slime.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Slime Glob",
+      "Por": "Slime Glob"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/slime.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/slime.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This slime is some nasty lookin' stuff.",
+      "Por": "Esse lodo é um material de aparência desagradável."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/slime.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/slime.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This slime looks sticky."
+    }
+  }
+]

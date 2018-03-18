@@ -1,0 +1,108 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wreck/wreckpanel1/wreckpanel1.object": [
+        "/humanDescription"
+      ],
+      "objects/wreck/wreckpanel2/wreckpanel2.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A broken and dirty input panel. I don't think this is going to work.",
+      "Por": "Um painel de entrada quebrado e sujo. Eu não acho que isso vai funcionar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wreck/wreckpanel1/wreckpanel1.object": [
+        "/avianDescription"
+      ],
+      "objects/wreck/wreckpanel2/wreckpanel2.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's an input panel, but it's completely dead.",
+      "Por": "É um painel de entrada, mas está completamente morto."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wreck/wreckpanel1/wreckpanel1.object": [
+        "/apexDescription"
+      ],
+      "objects/wreck/wreckpanel2/wreckpanel2.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This input panel doesn't work.",
+      "Por": "Este painel de entrada não funciona."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wreck/wreckpanel1/wreckpanel1.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/wreck/wreckpanel2/wreckpanel2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This input panel is completely dead."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wreck/wreckpanel1/wreckpanel1.object": [
+        "/hylotlDescription"
+      ],
+      "objects/wreck/wreckpanel2/wreckpanel2.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This input panel is past saving.",
+      "Por": "Este painel de entrada está completamente destruido."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wreck/wreckpanel1/wreckpanel1.object": [
+        "/novakidDescription"
+      ],
+      "objects/wreck/wreckpanel2/wreckpanel2.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This ol' thing is beyond useless now.",
+      "Por": "Essa coisa velha está além de inútil agora."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Este painel está muito quebrado"
+    ],
+    "Files": {
+      "objects/wreck/wreckpanel1/wreckpanel1.object": [
+        "/floranDescription"
+      ],
+      "objects/wreck/wreckpanel2/wreckpanel2.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This panel isss very broken.",
+      "Por": "Este painel está muito quebrado."
+    }
+  }
+]

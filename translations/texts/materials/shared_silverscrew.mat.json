@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/silverscrew.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/silverscrew.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A big ol' screw outta silver.",
+      "Por": "Um grande parafuso velho feito da prata."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/silverscrew.matitem": [
+        "/description"
+      ],
+      "tiles/materials/silverscrew.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A giant screw crafted from silver.",
+      "Por": "Um parafuso gigante feito de prata."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/silverscrew.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/silverscrew.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shiny sscrew made from ssilver.",
+      "Por": "Parafuso brilhante feito de prata."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/silverscrew.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/silverscrew.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Silver Screw",
+      "Por": "Silver Screw"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/silverscrew.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/silverscrew.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "What purpose could a screw this large serve?"
+    }
+  }
+]

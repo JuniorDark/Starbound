@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/penguin1.questtemplate": [
+        "/scriptConfig/descriptions/findGoal"
+      ]
+    },
+    "Texts": {
+      "Eng": "Defeat ^orange;Dreadwing^reset;",
+      "Por": "Derrote ^orange;Dreadwing^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/penguin1.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Help me out, would ya? Business around here hasn't been so great since all my regulars are on the run from ^orange;Dreadwing^white; and his gang of crooks! Can you ^green;go and defeat Dreadwing^white; for me? Come speak when you're ready, I'll send ya right to him!",
+      "Por": "Você poderia me ajudar? Os negócios por aqui não estão indo muito bem desde que todos os meus freguêses estão fugindo do ^orange;Dreadwing^white; e sua gangue de bandidos! você poderia ^green;ir e derrotar Dreadwing^white; para mim? Venha falar quando estiver pronto, vou te enviar direito a ele!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/penguin1.questtemplate": [
+        "/scriptConfig/descriptions/turnIn"
+      ]
+    },
+    "Texts": {
+      "Eng": "Return to the ^orange;Bartender^reset; at the ^orange;Outpost^reset;",
+      "Por": "Volte ao ^orange;Bartender^reset; no ^orange;Posto Avançado^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/penguin1.questtemplate": [
+        "/scriptConfig/descriptions/enterInstance"
+      ]
+    },
+    "Texts": {
+      "Eng": "Talk to the ^orange;Bartender^reset; to go to ^orange;Dreadwing^reset;",
+      "Por": "Fale com o ^orange;Bartender^reset; para ir para ^orange;Dreadwing^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/penguin1.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "You sorted him out for me? Thanks, now I'm back in business! ^green;Come speak to me if you want a ^orange;Dubloon^green; to hire a penguin merc^white;.",
+      "Por": "Você derrotou ele para mim? Obrigado, agora estou de volta aos negócios! ^green;Venha falar comigo se você quiser um ^orange;Dubloon^green; para contratar um pinguim mercenário^white;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/penguin1.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Dreadwing the Penguin",
+      "Por": "^green;Dreadwing o Pinguim"
+    }
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/temple2.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/temple2.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran likess old brickss.",
+      "Por": "Floran gossta de tijoloss velhoss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/temple2.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/temple2.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reckon these bricks have been around a while.",
+      "Por": "Esses tijolos já estão ai a um bom tempo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/temple2.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/temple2.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Temple Bricks",
+      "Por": "Temple Bricks"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/temple2.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/temple2.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The age of these bricks cannot be accurately determined."
+    }
+  }
+]

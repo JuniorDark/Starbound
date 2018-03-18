@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rainbowwoodblock.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/rainbowwoodblock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran lovess colourful rainbow plankss.",
+      "Por": "Floran ama tábuass arco-íris coloridas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rainbowwoodblock.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/rainbowwoodblock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Planks made from some mighty colourful wood.",
+      "Por": "Tábuas feitas de alguma madeira colorida."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rainbowwoodblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/rainbowwoodblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rainbow Wood Planks",
+      "Por": "Rainbow Wood Planks"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rainbowwoodblock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/rainbowwoodblock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Simply fabulous.",
+      "Por": "Simplesmente fabuloso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rainbowwoodblock.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/rainbowwoodblock.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These colourful planks are bright and cheerful."
+    }
+  }
+]

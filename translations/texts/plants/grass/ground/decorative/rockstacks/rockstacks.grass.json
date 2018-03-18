@@ -1,0 +1,28 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/rockstacks/rockstacks.grass": [
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A pile of rocks.",
+      "Por": "Um monte de rochas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/rockstacks/rockstacks.grass": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rocksss.",
+      "Por": "Rochas."
+    }
+  }
+]

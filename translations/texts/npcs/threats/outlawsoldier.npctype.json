@@ -1,0 +1,62 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/outlawsoldier.npctype": [
+        "/scriptConfig/dialog/attack/human/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Get out of my way or you'll be sorry!",
+      "Por": "Saia do meu caminho ou você vai se arrepender!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/outlawsoldier.npctype": [
+        "/scriptConfig/dialog/attack/human/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have skills beyond your capabilities! You're outta luck!",
+      "Por": "Eu tenho habilidades além de suas capacidades! Você está sem sorte!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/outlawsoldier.npctype": [
+        "/scriptConfig/dialog/attack/human/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've been doing this for years, you've got no chance!",
+      "Por": "Eu venho fazendo isso há anos, você não tem chance!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/outlawsoldier.npctype": [
+        "/scriptConfig/dialog/attack/human/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "My skills far excel yours!",
+      "Por": "minhas habilidades superam as suas!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/outlawsoldier.npctype": [
+        "/scriptConfig/dialog/attack/human/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "You want a shootout with me? So be it!",
+      "Por": "Você quer trocar tiros comigo? Que assim seja!"
+    }
+  }
+]

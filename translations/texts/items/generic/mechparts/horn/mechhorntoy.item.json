@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/horn/mechhorntoy.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This horn module is surprisingly small... I wonder what it sounds like?",
+      "Por": "Esta buzina é surpreendentemente pequena... Eu me pergunto como soa?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/horn/mechhorntoy.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Toy Mech Horn"
+    }
+  }
+]

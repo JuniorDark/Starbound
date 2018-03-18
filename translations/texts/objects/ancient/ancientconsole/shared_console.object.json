@@ -1,0 +1,131 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Uma peça extremamente velha de tecnologia."
+    ],
+    "Files": {
+      "objects/ancient/ancientconsole/ancientconsole.object": [
+        "/apexDescription"
+      ],
+      "objects/ancient/ancientconsole/returnconsole.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An extremely old piece of technology.",
+      "Por": "Uma peça de tecnologia extremamente antiga."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Controlesss antigos para o antigo portal."
+    ],
+    "Files": {
+      "objects/ancient/ancientconsole/ancientconsole.object": [
+        "/floranDescription"
+      ],
+      "objects/ancient/ancientconsole/returnconsole.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ancient controlsss for the ancient gate.",
+      "Por": "Controlesss antigos para o portal antigo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/ancientconsole/ancientconsole.object": [
+        "/novakidDescription"
+      ],
+      "objects/ancient/ancientconsole/returnconsole.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Let's see if I can't get this old thing workin'.",
+      "Por": "Vamos ver se eu não consigo fazer essa coisa velha funcionar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/ancientconsole/ancientconsole.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ancient/ancientconsole/returnconsole.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The control panel for the gate, it looks very old indeed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/ancientconsole/ancientconsole.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ancient/ancientconsole/returnconsole.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The gate console. Like the gate, it is a mystery.",
+      "Por": "O console do portal. Como o portal, é um mistério."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "O painel de controle do portal. Deve ser tão antigo quanto o portal."
+    ],
+    "Files": {
+      "objects/ancient/ancientconsole/ancientconsole.object": [
+        "/humanDescription"
+      ],
+      "objects/ancient/ancientconsole/returnconsole.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The gate control panel. It must be as old as the gate.",
+      "Por": "O painel de controle do portal. Deve ser tão velho quanto o portal."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Este console deve ser tão antigo quanto o portal. Isso é velho!"
+    ],
+    "Files": {
+      "objects/ancient/ancientconsole/ancientconsole.object": [
+        "/avianDescription"
+      ],
+      "objects/ancient/ancientconsole/returnconsole.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This console must be as old at the gate itself. That's old!",
+      "Por": "Este console deve ser tão antigo quanto o próprio portal. Isso é velho!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Este parece ser o painel de controle para o portal. Ele ainda parece funcionar."
+    ],
+    "Files": {
+      "objects/ancient/ancientconsole/ancientconsole.object": [
+        "/description"
+      ],
+      "objects/ancient/ancientconsole/returnconsole.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This looks like the control panel for the gate. It still seems to work.",
+      "Por": "Isso parece o painel de controle do portal. Ainda parece funcionar."
+    }
+  }
+]

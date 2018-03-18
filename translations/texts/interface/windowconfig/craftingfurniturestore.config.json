@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/craftingfurniturestore.config": [
+        "/paneLayout/lblProduct/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "CAN AFFORD",
+      "Por": "PODE PAGAR"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/craftingfurniturestore.config": [
+        "/paneLayout/lblDeeds/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Deeds",
+      "Por": "Escrituras"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/craftingfurniturestore.config": [
+        "/paneLayout/lblCommunity/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Featured",
+      "Por": "Destaque"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/craftingfurniturestore.config": [
+        "/paneLayout/lblSchematics/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#b9b5b2;COLLECTION",
+      "Por": "^#b9b5b2;COLEÇÃO"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/craftingfurniturestore.config": [
+        "/paneLayout/lblFilters/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#b9b5b2;FILTERS",
+      "Por": "^#b9b5b2;FILTROS"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/craftingfurniturestore.config": [
+        "/paneLayout/lblProducttitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#b9b5b2;PIECE",
+      "Por": "^#b9b5b2;PEÇA"
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/floranarena2.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssomeone else has challenged you in arena combat! It's a Floran beast tamer named ^orange;Volo^white;. ^green;Come talk to me when you're ready to go^white;.",
+      "Por": "Alguém te desafiou em um combate de arena! É um Floran domador de bestas chamado ^orange;Volo^white;. ^green;Venha falar comigo quando estiver pronto para ir."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/floranarena2.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "You beat Volo! This is a lot of fun. Here's your second trophy!",
+      "Por": "Você derrotou Volo! Isto é muito divertido. Aqui está o seu segundo troféu!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/floranarena2.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;The Glory That's Inside",
+      "Por": "^green;A Glória Que Está Por Dentro"
+    }
+  }
+]

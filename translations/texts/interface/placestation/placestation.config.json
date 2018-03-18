@@ -1,0 +1,254 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/placestation/placestation.config": [
+        "/coordinateText"
+      ]
+    },
+    "Texts": {
+      "Eng": "(%s, %s)"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/placestation/placestation.config": [
+        "/gui/coordinateLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "(0, 0)"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/placestation/placestation.config": [
+        "/gui/descriptionLabel/value",
+        "/gui/nameLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "> "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/placestation/placestation.config": [
+        "/gui/configure/children/configureLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Configuration",
+      "Por": "Configuração"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/placestation/placestation.config": [
+        "/gui/connectingLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Connecting to S.A.I.L...",
+      "Por": "Conectando-se ao S.A.I.L..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/placestation/placestation.config": [
+        "/gui/configure/children/description/hint"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enter station description",
+      "Por": "Descrição da estação"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/placestation/placestation.config": [
+        "/gui/configure/children/name/hint"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enter station name",
+      "Por": "Nome da estação"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/placestation/placestation.config": [
+        "/deployingText/error"
+      ]
+    },
+    "Texts": {
+      "Eng": "Error deploying probe. \nConnection lost...",
+      "Por": "Erro ao implantar a sonda. \nConexão perdida..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/placestation/placestation.config": [
+        "/gui/configure/children/saveButton/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "SAVE",
+      "Por": "SALVAR"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/placestation/placestation.config": [
+        "/gui/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Station Transponder Configuration",
+      "Por": "Configuração do Transponder de Estação"
+    }
+  },
+  {
+    "Comment": "Expressão regular (não para tradução, mas para apoiar nomes em alfabeto cirílico)",
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/placestation/placestation.config": [
+        "/gui/configure/children/description/regex"
+      ]
+    },
+    "Texts": {
+      "Eng": "[a-zA-Z0-9 '-?!.]{0,130}",
+      "Por": "[a-zA-ZÀ-ɏ0-9 '-?!.]{0,130}"
+    }
+  },
+  {
+    "Comment": "Expressão regular (não para tradução, mas para apoiar nomes em alfabeto cirílico)",
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/placestation/placestation.config": [
+        "/gui/configure/children/name/regex"
+      ]
+    },
+    "Texts": {
+      "Eng": "[a-zA-Z0-9 '-?!.]{0,30}",
+      "Por": "[a-zA-ZÀ-ɏ0-9 '-?!.]{0,30}"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/placestation/placestation.config": [
+        "/gui/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#b9b5b2;Configure and launch your station deployment probe",
+      "Por": "^#b9b5b2;Configure e lance sua sonda de implantação de estação"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/placestation/placestation.config": [
+        "/connect/connectText"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Connecting to S.A.I.L",
+      "Por": "^green;Conectando-se ao S.A.I.L"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/placestation/placestation.config": [
+        "/connect/successText"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;High-bandwidth connection established\nTransferring system data",
+      "Por": "^green;Conexão de alta largura de banda estabelecida\nTransferindo dados do sistema"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/placestation/placestation.config": [
+        "/connectedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Link established",
+      "Por": "^green;Link estabelecido"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/placestation/placestation.config": [
+        "/deployingText/traveling"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Probe dispatched.\nProbe approaching target orbit",
+      "Por": "^green;Sonda despachada.\nSonda se aproximando da órbita alvo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/placestation/placestation.config": [
+        "/deployingText/deploying"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Probe has reached target orbit.\nDeploying station",
+      "Por": "^green;A sonda atingiu a órbita alvo.\nImplantando estação"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/placestation/placestation.config": [
+        "/deployingText/dispatching"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Requesting probe dispatch",
+      "Por": "^green;Solicitando despacho de sonda"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/placestation/placestation.config": [
+        "/deployingText/deployed"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Station deployed",
+      "Por": "^green;Estação implantada"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/placestation/placestation.config": [
+        "/connect/failText"
+      ]
+    },
+    "Texts": {
+      "Eng": "^red;Unable to establish high-bandwidth connection to S.A.I.L\nTry again from your ship",
+      "Por": "^red;Não é possível estabelecer uma conexão de alta largura de banda com S.A.I.L\nTente novamente de sua nave"
+    }
+  }
+]

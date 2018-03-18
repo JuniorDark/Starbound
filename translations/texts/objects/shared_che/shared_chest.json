@@ -1,0 +1,105 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/scorchedcity/scorchedcitychest/scorchedcitychest.object": [
+        "/apexDescription"
+      ],
+      "objects/generic/stonechest/ironchest.object": [
+        "/apexDescription"
+      ],
+      "objects/generic/woodenchest/woodenchest.object": [
+        "/apexDescription"
+      ],
+      "objects/mission/miningchest/miningchest.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A chest! Let's look inside.",
+      "Por": "Um baú! Vamos olhar dentro."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/scorchedcity/scorchedcitychest/scorchedcitychest.object": [
+        "/humanDescription"
+      ],
+      "objects/generic/stonechest/ironchest.object": [
+        "/humanDescription"
+      ],
+      "objects/generic/woodenchest/woodenchest.object": [
+        "/humanDescription"
+      ],
+      "objects/mission/miningchest/miningchest.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A chest! Let's open it up.",
+      "Por": "Um baú! Vamos abrir."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/scorchedcity/scorchedcitychest/scorchedcitychest.object": [
+        "/floranDescription"
+      ],
+      "objects/generic/stonechest/ironchest.object": [
+        "/floranDescription"
+      ],
+      "objects/generic/woodenchest/woodenchest.object": [
+        "/floranDescription"
+      ],
+      "objects/mission/miningchest/miningchest.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Chessst! Floran musst sssearch!",
+      "Por": "Baú! Floran deve procurar!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Há pouco como emocionante como um baú fechado."
+    ],
+    "Files": {
+      "objects/biome/scorchedcity/scorchedcitychest/scorchedcitychest.object": [
+        "/hylotlDescription"
+      ],
+      "objects/generic/stonechest/ironchest.object": [
+        "/hylotlDescription"
+      ],
+      "objects/generic/woodenchest/woodenchest.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "There is little as exciting as an unopened chest.",
+      "Por": "Há poucas coisas tão emocionante como um baú fechado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/scorchedcity/scorchedcitychest/scorchedcitychest.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/generic/stonechest/ironchest.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/generic/woodenchest/woodenchest.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/mission/miningchest/miningchest.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "What could be inside?"
+    }
+  }
+]

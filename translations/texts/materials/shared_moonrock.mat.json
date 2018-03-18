@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/moonrock.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/moonrock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran disslike dry moonrockss.",
+      "Por": "Floran não gosta de rochass lunares secass."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/moonrock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/moonrock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Moonrock",
+      "Por": "Moonrock"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/moonrock.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/moonrock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some dry n' dusty lookin' moonrock.",
+      "Por": "Algumas rochas lunares secas e poeirentas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/moonrock.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/moonrock.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This rock is lunar in nature."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/moonrock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/moonrock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tough, gritty moon rock.",
+      "Por": "Rocha lunar resistente e arenosa."
+    }
+  }
+]

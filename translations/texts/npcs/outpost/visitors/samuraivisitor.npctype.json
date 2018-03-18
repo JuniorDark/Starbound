@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/samuraivisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Hylotl warrior always needs to be well fed! I am simply here to purchase food.",
+      "Por": "Um guerreiro Hylotl sempre precisa estar bem alimentado! Estou aqui simplesmente para comprar comida."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/samuraivisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "If I am to protect my people, I must be as strong as I can be. This means being well fed... I am just here for a snack.",
+      "Por": "Se eu for para proteger o meu povo, devo ser tão forte o quanto eu puder. Isto significa estar bem alimentado... Eu estou aqui apenas para um lanche."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/samuraivisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Isn't this place wondrous? It makes me want to write a poem, or sing a ballad.",
+      "Por": "Este lugar não é maravilhoso? Me faz querer escrever um poema, ou cantar uma balada."
+    }
+  }
+]

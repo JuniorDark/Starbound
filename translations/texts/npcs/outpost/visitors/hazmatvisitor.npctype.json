@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/hazmatvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Even if all culture was somehow lost, people would still eventually rediscover science. Isn't that fascinating?",
+      "Por": "Mesmo se toda a cultura fosse de alguma forma perdida, as pessoas ainda acabaria por redescobrir a ciência. Isso não é fascinante?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/hazmatvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I won't be here long, I just came to get some supplies for my research trip!",
+      "Por": "Eu não vou ficar aqui por muito tempo, Eu só vim pegar alguns suprimentos para a minha viagem de pesquisa!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/hazmatvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm just visiting here to pick up some research materials!",
+      "Por": "Eu estou apenas visitando aqui para pegar alguns materiais de pesquisa!"
+    }
+  }
+]

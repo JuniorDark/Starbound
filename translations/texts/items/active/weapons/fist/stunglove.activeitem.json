@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/fist/stunglove.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shockingly effective.",
+      "Por": "Chocantemente eficaz."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/fist/stunglove.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stun Glove",
+      "Por": "Stun Glove"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/fist/stunglove.activeitem": [
+        "/upgradeParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stun Glove ^yellow;^reset;",
+      "Por": "Stun Glove ^yellow;^reset;"
+    }
+  }
+]

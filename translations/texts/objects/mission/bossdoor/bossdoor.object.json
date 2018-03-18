@@ -1,0 +1,109 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/bossdoor/bossdoor.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A force field which can only be passed through one way.",
+      "Por": "Um campo de força que só pode ser passado através de um lado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/bossdoor/bossdoor.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Force Field",
+      "Por": "Force Field"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/bossdoor/bossdoor.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Old door won't let Floran come back through it.",
+      "Por": "Porta velha não vai deixar Floran voltar através dela."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/bossdoor/bossdoor.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "There ain't no turnin' back once I go through this ol' door.",
+      "Por": "Não há volta uma vez que eu atravessar esta porta."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/bossdoor/bossdoor.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This ancient looking door can only be entered from one direction.",
+      "Por": "Esta porta de aparência antiga só pode ser atravessada de uma direção."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/bossdoor/bossdoor.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This door can only be entered from one direction. There's no going back through it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/bossdoor/bossdoor.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This door creates a force field that can only be entered from one side. One cannot turn back through it.",
+      "Por": "Esta porta cria um campo de força que só pode ser atravessado por um lado. Não se pode voltar atrás através dela."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/bossdoor/bossdoor.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This door creates a one-way force field. Anyone going through isn't coming back the same way...",
+      "Por": "Esta porta cria um campo de força unidirecional. Qualquer um que passar não vai poder voltar da mesma maneira"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/bossdoor/bossdoor.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This door is going to keep me marching forward - I will not be able to come back through it.",
+      "Por": "Uma vez que eu atravessar esta porta não vou ser capaz de voltar através dela."
+    }
+  }
+]

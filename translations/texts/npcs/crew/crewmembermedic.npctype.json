@@ -1,0 +1,226 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembermedic.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran hasss things to help out!",
+      "Por": "Floran tem coisas que podem ajudar!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembermedic.npctype": [
+        "/scriptConfig/dialog/crewmember/fieldBenefit/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran is medic! Trust Floran!",
+      "Por": "Floran é médico! Confie em Floran!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembermedic.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran will heal you whenever we're on the ship!",
+      "Por": "Floran vai curá-lo sempre que estivermos na nave!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembermedic.npctype": [
+        "/scriptConfig/dialog/crewmember/fieldBenefit/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hey, I can heal you! Just hold still!",
+      "Por": "Ei, eu posso curá-lo! Apenas aguente firme!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembermedic.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/default/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can heal you! Come to me, quickly!",
+      "Por": "Eu posso curar você! Venha até mim, rápido!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembermedic.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll heal you whenever we're on the ship!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembermedic.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll heal you whenever we're on the ship.",
+      "Por": "Eu vou curá-lo sempre que estivermos na nave!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembermedic.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm a combat medic - let me help you!",
+      "Por": "Eu sou um médico de combate - deixe-me ajudá-lo!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembermedic.npctype": [
+        "/scriptConfig/crew/role/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Medic",
+      "Por": "Médico(a)"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembermedic.npctype": [
+        "/scriptConfig/crew/role/field"
+      ]
+    },
+    "Texts": {
+      "Eng": "Medical",
+      "Por": "Médico"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembermedic.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/1/glitchEmotedText",
+        "/scriptConfig/dialog/crewmember/fieldBenefit/glitch/default/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Perhaps you could do with some healing?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembermedic.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This should heal you!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembermedic.npctype": [
+        "/scriptConfig/dialog/crewmember/fieldBenefit/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "You look hurt. Floran can help you!",
+      "Por": "Você parece estar machucado. Floran pode ajudá-lo!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembermedic.npctype": [
+        "/scriptConfig/dialog/crewmember/fieldBenefit/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You look hurt. Let me help you out!",
+      "Por": "Você parece estar machucado. Floran pode ajudá-lo!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembermedic.npctype": [
+        "/scriptConfig/dialog/crewmember/fieldBenefit/glitch/default/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "You look like you could be in better shape. Let me assist you!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembermedic.npctype": [
+        "/scriptConfig/dialog/crewmember/fieldBenefit/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "You look like you could do with some healing!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembermedic.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You look like you could use some healing!",
+      "Por": "Parece que você precisa de um pouco de cura!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembermedic.npctype": [
+        "/scriptConfig/dialog/crewmember/fieldBenefit/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "You look like you wouldn't mind some healing. Here!",
+      "Por": "Parece que você não se importaria com uma cura. Aqui!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembermedic.npctype": [
+        "/scriptConfig/dialog/crewmember/fieldBenefit/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You look wounded. Floran can help!",
+      "Por": "Você parece estar ferido. Floran pode ajudar!"
+    }
+  }
+]

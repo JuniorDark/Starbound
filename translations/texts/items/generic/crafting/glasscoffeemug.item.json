@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/glasscoffeemug.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A coffee mug made of glass.",
+      "Por": "Uma caneca de café feita de vidro."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/glasscoffeemug.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Glass Coffee Mug",
+      "Por": "Glass Coffee Mug"
+    }
+  }
+]

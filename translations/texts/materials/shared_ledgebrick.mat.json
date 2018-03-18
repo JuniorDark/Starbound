@@ -1,0 +1,61 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ledgebrick.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/ledgebrick.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Carved stone brickss.",
+      "Por": "Tijoloss de pedra esculpidos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ledgebrick.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/ledgebrick.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ledge Brick",
+      "Por": "Ledge Brick"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ledgebrick.matitem": [
+        "/description"
+      ],
+      "tiles/materials/ledgebrick.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stone stepped bricks with a small ledge.",
+      "Por": "Tijolos de pedra com uma pequena saliência."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ledgebrick.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/ledgebrick.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This stone has a small carved ledge."
+    }
+  }
+]

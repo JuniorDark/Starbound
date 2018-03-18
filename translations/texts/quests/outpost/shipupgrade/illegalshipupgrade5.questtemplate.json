@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/shipupgrade/illegalshipupgrade5.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "This ship license is... Fine, probably. ^green;Bring ^orange;10 upgrade modules^green; to Penguin Pete^white; to upgrade your ship.",
+      "Por": "Esta licença é... Boa, provavelmente. ^green;Traga ^orange;10 Upgrade Modules^green; para Pinguim Pete^white; para atualizar sua nave."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/shipupgrade/illegalshipupgrade5.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Crooked Condor Ship Upgrade",
+      "Por": "^green;Atualização de Nave Crooked Condor"
+    }
+  }
+]

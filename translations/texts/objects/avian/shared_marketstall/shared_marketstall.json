@@ -1,0 +1,108 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/marketstall4/marketstall4.object": [
+        "/apexDescription"
+      ],
+      "objects/avian/marketstall5/marketstall5.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An empty stall.",
+      "Por": "Uma barraca vazia."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/marketstall4/marketstall4.object": [
+        "/novakidDescription"
+      ],
+      "objects/avian/marketstall5/marketstall5.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An empty stall. Nothin' to buy here.",
+      "Por": "Uma barraca vazia. Nada para comprar aqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/marketstall4/marketstall4.object": [
+        "/floranDescription"
+      ],
+      "objects/avian/marketstall5/marketstall5.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Empty sstall.",
+      "Por": "Barraca vazia."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Barracas vazias são sempre meio tristes."
+    ],
+    "Files": {
+      "objects/avian/marketstall4/marketstall4.object": [
+        "/humanDescription"
+      ],
+      "objects/avian/marketstall5/marketstall5.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Empty stalls are always kind of sad.",
+      "Por": "As barracas vazias são sempre meio tristes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/marketstall4/marketstall4.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avian/marketstall5/marketstall5.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This stall is empty."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/marketstall4/marketstall4.object": [
+        "/avianDescription"
+      ],
+      "objects/avian/marketstall5/marketstall5.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This stall is empty. The grounded can find wares difficult to source.",
+      "Por": "Esta barraca está vazia. Os grounded pode encontrar produtos difíceis de serem encontrados."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/marketstall4/marketstall4.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avian/marketstall5/marketstall5.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This stall needs stock.",
+      "Por": "Esta barraca precisa de estoque."
+    }
+  }
+]

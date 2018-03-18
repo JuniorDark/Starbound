@@ -1,0 +1,730 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/intimidate.questtemplate": [
+        "/scriptConfig/generatedText/completionText/first/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "<target>'s obedience will no doubt come in useful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/intimidate.questtemplate": [
+        "/scriptConfig/objectives/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Equip <item>",
+      "Por": "Equipe <item>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/intimidate.questtemplate": [
+        "/scriptConfig/generatedText/text/last/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Finally, I need the subservience of ^orange;<target>^white; - And I have been informed <target.pronoun.subject>'s afraid of ^orange;<target>s. ^green;Why not point one at <target.pronoun.object> and strike up a conversation ^white;- <target.pronoun.capitalSubject>'ll get the message!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/intimidate.questtemplate": [
+        "/scriptConfig/generatedText/text/last/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Finally, I need to make ^orange;<target>^white; respect me. There's only one way to achieve this - You should ^green;threaten <target.pronoun.object> with a big ^orange;<item>^white; so <target.pronoun.subject> learns to fear me! This is a foolproof plan."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/intimidate.questtemplate": [
+        "/scriptConfig/generatedText/text/last/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Finally, my plan comes together. Did you know ^orange;<target>^white; is afraid of ^orange;<item>s?^white; You should ^green;point one at <target.pronoun.object> and strike up a conversation ^white;- <target.pronoun.capitalSubject>'ll be so scared that <target.pronoun.subject>'ll do anything I say! It's a perfect plan.",
+      "Por": "Finalmente, o meu plano dá certo. Você sabia que ^orange;<target>^white; tem medo de ^orange;<item>s?^white; Você deve ^green;apontar para <target.pronoun.object> e iniciar uma conversa ^white;- <target.pronoun.capitalSubject> estará tão assustado que <target.pronoun.subject> vai fazer qualquer coisa que eu dizer! É um plano perfeito."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/intimidate.questtemplate": [
+        "/scriptConfig/generatedText/text/first/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "First I need ^orange;<target>^white; to be willing to help me with whatever I ask - Could you ^green;intimidate <target.pronoun.object>^white; on my behalf? ^green;Talk to <target.pronoun.object> with a nice ^orange;<item>^white; in hand, and I'm sure <target.pronoun.subject>'ll get the message."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/intimidate.questtemplate": [
+        "/scriptConfig/generatedText/text/first/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "First of all, I need ^orange;<target>^white; to fear me. Could you go and ^green;point a large ^orange;<item>^green; at <target.pronoun.object>?^white; That will let <target.pronoun.object> know who has the power around here..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/intimidate.questtemplate": [
+        "/scriptConfig/generatedText/text/first/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "First, Floran doesn't think that ^orange;<target>^white; knows how important Floran isss. ^green;Point a deadly ^orange;<item>^white; at <target.pronoun.object> and ^green;ssstart a conversation^white; - <target.pronoun.capitalSubject>'ll know to respect me.",
+      "Por": "Antes de tudo, Floran não acha que ^orange;<target>^white; sabe o quão importante Floran é. ^green;Aponte um mortal ^orange;<item>^white; para <target.pronoun.object> e ^green;inicie uma conversa^white; - <target.pronoun.capitalSubject> saberá me respeitar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/intimidate.questtemplate": [
+        "/scriptConfig/generatedText/text/first/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "First, I need ^orange;<target>'s^white; obedience. If you could ^green;go and point a big ^orange;<item> ^green;at <target.pronoun.object> and strike up a conversation, ^white;I'm sure <target.pronoun.subject>'ll get the message...",
+      "Por": "Primeiramente, eu preciso da obediência de ^orange;<target>^white;. Se você pudesse ^green;ir e apontam um grande ^orange;<item> ^green;para <target.pronoun.object> e iniciar uma conversa, ^white;tenho certeza que <target.pronoun.subject> entendera a mensagem..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/intimidate.questtemplate": [
+        "/scriptConfig/generatedText/text/first/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "First, I need ^orange;<target>^white; to bend to my every whim. This means <target.pronoun.subject> needs to fear me, of course! ^green;Talk to <target.pronoun.object> whilst pointing a nice ^orange;<item>^green; in <target.pronoun.possessiveDet> face ^white;and I'm sure <target.pronoun.subject>'ll know to do what I say in future...",
+      "Por": "Primeiro, eu preciso que ^orange;<target>^white; se curve a todos meus caprichos. Isso significa que <target.pronoun.subject> precisa me temer, é claro! ^green;Fale com <target.pronoun.object> enquanto apontando uma belo ^orange;<item>^green; na cara <target.pronoun.possessiveDet> ^white;e tenho certeza que <target.pronoun.subject> ira fazer o que eu digo no futuro..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/intimidate.questtemplate": [
+        "/scriptConfig/generatedText/completionText/last/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran could not be more sssatisfied with these results. You are a true friend!",
+      "Por": "Floran não poderia estar mais sssatisfeito com estes resultados. Você é um amigo verdadeiro!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/intimidate.questtemplate": [
+        "/scriptConfig/generatedText/completionText/last/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran is pleasssed! With this new ally, Floran's life will be easssier. ",
+      "Por": "Floran está contente! Com este novo aliado, a vida de Floran ssserá mais fácil."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/intimidate.questtemplate": [
+        "/scriptConfig/generatedText/text/default/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran needs to make sssure ^orange;<target>^white; knows Floran is big deal. Please ^green;go and talk to <target.pronoun.object>^white; for Floran. Oh, and ^green;point a big ^orange;<item>^white; at <target.pronoun.object>, it'll make <target.pronoun.object> lisssten.",
+      "Por": "Floran precisa ter certeza que ^orange;<target>^white; saiba que Floran é grande coisa. Por favor ^green;vá e fale com <target.pronoun.object>^white; por Floran. Ah, e ^green;aponte um grande ^orange;<item>^white; para <target.pronoun.object>, isso fará <target.pronoun.object> essscutar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/intimidate.questtemplate": [
+        "/scriptConfig/generatedText/text/last/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran needss final favour now. ^orange;<target> ^white;would be a great ally to Floran. If you ^green;chat to <target.pronoun.object> while holding a shiny ^orange;<item>^white;, Floran is sssure <target.pronoun.subject> will get the message!",
+      "Por": "Floran precisa de um último favor agora. ^orange;<target> ^white;seria um grande aliado para Floran. If you ^green;converse com <target.pronoun.object> enquanto segura um brilhante ^orange;<item>^white;, Floran tem certeza que <target.pronoun.subject> entendera a mensagem!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/intimidate.questtemplate": [
+        "/scriptConfig/generatedText/text/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran thinkss it's good to have sstrong network in town. Floran thinks ^orange;<target> ^white;would be good to have on our side. No better way to do thiss than to ^green;talk to <target.pronoun.object> with a big ^orange;<item>^green; in hand.^white; Floran is convinced you can do this ssuccessfully. ",
+      "Por": "Floran acha que é bom ter ligações fortess na cidade. Floran acha que ^orange;<target> ^white;seria bom de ter ao nosso lado. Não há melhor maneira de fazer isso do que ^green;falar com <target.pronoun.object> com um grande ^orange;<item>^green; na mão.^white; Floran está convencido de que você pode fazer isso com ssucesso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/intimidate.questtemplate": [
+        "/scriptConfig/generatedText/completionText/next/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Good work. This will make rest of plan much sssmoother. Floran thanks you.",
+      "Por": "Bom trabalho. Isto irá tornar o resto do plano muito mais sssuave. Floran agradece."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/intimidate.questtemplate": [
+        "/scriptConfig/generatedText/completionText/last/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Having <target>'s subservience will prove useful in future, I'm sure. Thank you for your... Assistance."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/intimidate.questtemplate": [
+        "/scriptConfig/generatedText/failureText/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I didn't manage to intimidate <target> in the end. Hopefully <questGiver> isn't too disappointed with me.",
+      "Por": "Eu não consegui intimidar <target> no final das contas. Espero que <questGiver> não esteja muito desapontado comigo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/intimidate.questtemplate": [
+        "/scriptConfig/generatedText/failureText/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I failed to help <questGiver> intimidate <target>. It's maybe for the best - Intimidation isn't very nice.",
+      "Por": "Eu não consegui ajudar <questGiver> intimidar <target>. Isso talvez seja o melhor - Intimidação não é muito legal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/intimidate.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have many plans which will benefit from <target>'s obedience. Now I can act! I appreciate your help."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/intimidate.questtemplate": [
+        "/scriptConfig/generatedText/completionText/next/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm looking forward to taking advantage of <target>'s obedience. Thank you for your help!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/intimidate.questtemplate": [
+        "/scriptConfig/generatedText/text/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've been informed that ^orange;<target> ^white;is afraid of ^orange;<item>s! ^green;Could you go and threaten <target.pronoun.object> with one for me?^white; I'm sure <target.pronoun.subject>'ll swear to obey me with a big <item> pointed at <target.pronoun.object>!",
+      "Por": "Fui informado que ^orange;<target> ^white;tem medo de ^orange;<item>s! ^green;Você poderia ir e ameaçar <target.pronoun.object> com um para mim?^white; Tenho certeza que <target.pronoun.subject> vai jurar me obedecer com um grande <item> apontado para <target.pronoun.object>!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/intimidate.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "In order for ^orange;<target>^white; to fear me, you should ^green;find a nice big ^orange;<item>^green; and point it in <target.pronoun.possessiveDet> face.^white; I'm sure <target.pronoun.subject>'ll understand the message!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/intimidate.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "In order to win ^orange;<target>'s^white; obedience, I need <target.pronoun.object> to fear me. ^green;Could you point a large ^orange;<item>^green; at <target.pronoun.object> on my behalf?^white; I'm sure <target.pronoun.subject>'ll understand."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/intimidate.questtemplate": [
+        "/scriptConfig/generatedText/title/0",
+        "/scriptConfig/objectives/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intimidate <target>",
+      "Por": "Intimide <target>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/intimidate.questtemplate": [
+        "/scriptConfig/generatedText/completionText/first/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intimidating <target> was simpler than expected. This is going to help me out."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/intimidate.questtemplate": [
+        "/scriptConfig/generatedText/completionText/next/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intimidation is easier than I thought! Thank you for your efforts - They were not wasted, I assure you."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/intimidate.questtemplate": [
+        "/scriptConfig/generatedText/completionText/first/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "It worked! <target> now utterly fears me, and will probably do whatever I ask! Manipulating others is so easy...",
+      "Por": "Funcionou! <target> agora totalmente me teme, e provavelmente vai fazer o que eu pedir! Manipular os outros é tão fácil..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/intimidate.questtemplate": [
+        "/scriptConfig/generatedText/completionText/last/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "It worked! Now <target> will do whatever I say. This will be useful one day. Thank you for your... Assistance.",
+      "Por": "Funcionou! Agora <target> vai fazer o que eu dizer. Isto irá ser útil um dia. Obrigado por sua... Assistência."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/intimidate.questtemplate": [
+        "/scriptConfig/generatedText/text/last/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's time to show ^orange;<target>^white; who's the big Floran in town. ^green;Usse a nice ^orange;<item>^green; and have a chat with <target.pronoun.object>^white;. I'm sure <target.pronoun.subject>'ll come round quickly. Floran hass faith in you.",
+      "Por": "É hora de mostrar a ^orange;<target>^white; quem é o grande Floran na cidade. ^green;Usse um belo ^orange;<item>^green; e tenha uma conversa com <target.pronoun.object>^white;. Tenho certeza que <target.pronoun.subject> mudara de idéia rapidamente. Floran tem fé em você."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/intimidate.questtemplate": [
+        "/scriptConfig/generatedText/text/last/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "My plan is finally coming together! But I still need ^orange;<target>'s^white; utter obedience. If <target.pronoun.subject> fears me <target.pronoun.subject>'ll help me out with anything I need in the future! Can you ^green; point a nice ^orange;<item> ^green;at <target.pronoun.object> and strike up a conversation? ^white;<target.pronoun.capitalSubject>'ll know I sent you, don't worry.",
+      "Por": "Meu plano está finalmente se tornando realidade! Mas eu ainda preciso da obediência absoluta de ^orange;<target>^white;. Se <target.pronoun.subject> me temer <target.pronoun.subject> vai me ajudar com qualquer coisa que eu precisar no futuro! Você pode ^green; apontar um belo ^orange;<item> ^green;para <target.pronoun.object> e iniciar uma conversa? ^white;<target.pronoun.capitalSubject> saberá que lhe enviei, não se preocupe."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/intimidate.questtemplate": [
+        "/scriptConfig/generatedText/text/next/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Next I need ^orange;<target>'s^white; obedience - If <target.pronoun.subject> fears me, <target.pronoun.subject>'ll do what I say. I hear ^green;<target.pronoun.subject> is afraid of ^orange;<item>s^white; - Could you ^green;point one at <target.pronoun.object>^white; and let <target.pronoun.object> know who holds the power around here?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/intimidate.questtemplate": [
+        "/scriptConfig/generatedText/text/next/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Next you need to ^green;use a shiny ^orange;<item>^white; to ^green;have a ssserious chat^white; with ^orange;<target>^white;. Make sure <target.pronoun.subject> knows who's the bossss around here. It's Floran of course!",
+      "Por": "Em seguida você precisa ^green;usar um ^orange;<item>^white; brilhante para ^green;ter uma conversa séria^white; com ^orange;<target>^white;. Certifique-se de que <target.pronoun.subject> saiba quem é o chefe por aqui. É Floran, é claro!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/intimidate.questtemplate": [
+        "/scriptConfig/generatedText/text/next/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Next, I'm going to need ^orange;<target>^white; to do anything I say. That will be easy if <target.pronoun.subject> fears me. Can you ^green;go and point a nice ^orange;<item> ^green;at <target.pronoun.object> and start up a conversation on my behalf?^white; That should work just fine!",
+      "Por": "Em seguida, eu vou precisar que ^orange;<target>^white; faça qualquer coisa que eu dizer. Isso vai ser fácil se <target.pronoun.subject> me temer. Você pode ^green;ir e apontar um belo ^orange;<item> ^green;para <target.pronoun.object> e iniciar uma conversa em meu nome?^white; Isso deve funcionar muito bem!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/intimidate.questtemplate": [
+        "/scriptConfig/generatedText/text/next/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Next, my plans require ^orange;<target>^white; to be willing to do anything for me - Which means ^green;<target.pronoun.subject> needs to fear me.^white; <target.pronoun.capitalSubject>'s afraid of ^orange;<item>s - ^green;Strike up a conversation^white; with <target.pronoun.object> ^green;with one in your hands^white; and <target.pronoun.subject>'ll get the message."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/intimidate.questtemplate": [
+        "/scriptConfig/generatedText/completionText/next/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now <target> will do anything I say! Intimidation is pretty easy, huh? This will come in handy soon enough...",
+      "Por": "Agora <target> fará qualquer coisa que eu dizer! Intimidação é muito fácil, né? Isto virá a calhar em breve..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/intimidate.questtemplate": [
+        "/scriptConfig/generatedText/completionText/next/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now that <target> fears for <target.pronoun.possessiveDet> life, <target.pronoun.subject>'ll do whatever I say! I should intimidate people more often!",
+      "Por": "Agora que <target> teme por <target.pronoun.possessiveDet> vida, <target.pronoun.subject> vai fazer o que eu digo! Eu deveria intimidar as pessoas mais vezes!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/intimidate.questtemplate": [
+        "/scriptConfig/generatedText/completionText/last/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now that <target> will do anything I say, I see plenty of opportunities for future plans to come to fruition... Thank you for your co-operation!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/intimidate.questtemplate": [
+        "/scriptConfig/generatedText/completionText/first/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Perfect! Now <target> is sssure to help us in the future!",
+      "Por": "Perfeito! Agora <target> com certeza nos ajudara no futuro!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/intimidate.questtemplate": [
+        "/scriptConfig/objectives/2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Report back to <questGiver>",
+      "Por": "Informe a <questGiver>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/intimidate.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Social manipulation is easy! <target> is now loyal to me, through fear. Thank you for helping make this happen.",
+      "Por": "Manipulação social é fácil! <target> é agora leal a mim, através do medo. Obrigado por ajudar a fazer isso acontecer."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/intimidate.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Successs! Floran iss thankful for your hard work. With new connection Floran feelsss powerful. ",
+      "Por": "Sucessso! Floran é grato por seu trabalho duro. Com nova conexão Floran se sssente poderoso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/intimidate.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thank you, Floran knew you were reliable from the ssstart!",
+      "Por": "Obrigado, Floran sabia que você era confiável desde o início!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/intimidate.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thanks for your assistance. Now <target> will do anything I say in future! That's going to be useful...",
+      "Por": "Obrigado pela ajuda. Agora que <target> vai fazer tudo o que dizer no futuro! Isso vai ser útil..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/intimidate.questtemplate": [
+        "/scriptConfig/generatedText/completionText/first/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "That was quick! All thanksss to good old <item>. Floran is pleased. ",
+      "Por": "Isso foi rápido! Tudo graças ao bom e velho <item>. Floran está contente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/intimidate.questtemplate": [
+        "/scriptConfig/generatedText/completionText/first/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "The intimidation worked! <target> is willing to help me do whatever I ask. This will be useful, I'm sure. Thanks for your help!",
+      "Por": "A intimidação funcionou! <target> está disposto a me ajudar a fazer o que eu pedir. Isso será útil, tenho certeza. Obrigado pela ajuda!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/intimidate.questtemplate": [
+        "/scriptConfig/generatedText/text/next/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "The next part of my plan requires ^orange;<target>'s^white; obedience. There's no better way to achieve this than to threaten <target.pronoun.possessiveDet> life! ^green;Hold a big ^orange;<item> ^green;and go talk to <target.pronoun.object>^white;. <target.pronoun.capitalSubject>'ll get the message.",
+      "Por": "A próxima parte do meu plano exige a obediência de ^orange;<target>^white;. Não há melhor maneira de conseguir isso do que ameaçar <target.pronoun.possessiveDet> vida! ^green;Segure um grande ^orange;<item> ^green;e vá falar com <target.pronoun.object>^white;. <target.pronoun.capitalSubject> entendera a mensagem."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/intimidate.questtemplate": [
+        "/scriptConfig/generatedText/failureText/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "This quest didn't go as planned. <questGiver> should probably do <questGiver.pronoun.possessiveDet> own dirty work from now on. ",
+      "Por": "Essa missão não saiu como planejado. <questGiver> provavelmente deveria fazer <questGiver.pronoun.possessiveDet> próprio trabalho sujo a partir de agora."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/intimidate.questtemplate": [
+        "/scriptConfig/generatedText/text/next/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thiss is a good time to aquire sssome allies. ^green;Use a ssscary ^orange;<item>^green; and tell ^orange;<target>^green; to listen to Floran from now on!^white; Don't worry, it's easy. Floran has done thisss before.",
+      "Por": "Essta é uma boa hora para adquirir algunsss aliados. ^green;Use um ^orange;<item> assustador^green; e diga a ^orange;<target>^green; para escutar Floran a partir de agora!^white; Não se preocupe, é fácil. Floran já fez issso antesss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/intimidate.questtemplate": [
+        "/scriptConfig/generatedText/title/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Threaten someone for <questGiver>",
+      "Por": "Ameace alguém para <questGiver>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/intimidate.questtemplate": [
+        "/scriptConfig/generatedText/text/first/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "We will begin by making sssure ^orange;<target> ^white;acknowledges Floran's authority. Floran knows a great way of doing this - ^green;grab a shiny ^orange;<item> ^green;and go and have a chat with <target>. ^white;Never failsss!",
+      "Por": "Vamos começar por ter certeza que ^orange;<target> ^white;reconheça a autoridade de Floran. Floran conhece uma ótima maneira de fazer isso - ^green;pegue um brilhante ^orange;<item> ^green;e vá e tenha uma conversa com <target>. ^white;Nunca falha!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/intimidate.questtemplate": [
+        "/scriptConfig/generatedText/completionText/last/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Why get people to like you when they can fear you instead? Thanks for your help! I'm sure <target> will come in useful to me one day...",
+      "Por": "Por que fazer as pessoas gostar de você quando elas podem teme-lo em vez disso? Obrigado pela ajuda! Tenho certeza que <target> virá a ser útil para mim um dia..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/intimidate.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "With <target> doing anything I say, more opportunities open up for me. Your co-operation has been... Appreciated."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/intimidate.questtemplate": [
+        "/scriptConfig/generatedText/completionText/next/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "You executed thisss part of the plan perfectly. Let's move on to next part!",
+      "Por": "Você executou esssta parte do plano perfeitamente. Vamos passar para a próxima parte!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/intimidate.questtemplate": [
+        "/scriptConfig/generatedText/goalText/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;<target> needsss to know that Floran is one to fear!",
+      "Por": "^cyan;<target> precisa saber que Floran é um a se temer!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/intimidate.questtemplate": [
+        "/scriptConfig/generatedText/goalText/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Aggressive. I need <target> to be compliant, and I have a plan to make it happen.",
+      "Por": "^cyan;Agressivo. Eu preciso que <target> seja obediente, e eu tenho um plano para que isso aconteça."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/intimidate.questtemplate": [
+        "/scriptConfig/generatedText/goalText/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Cunning. I have decided that <target> could be a little more terrified of me... I have a plan.",
+      "Por": "^cyan;Astuto. Eu decidi que <target> poderia ter um pouco mais medo de mim... Eu tenho um plano."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/intimidate.questtemplate": [
+        "/scriptConfig/generatedText/goalText/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Floran wants more ressspect around here.",
+      "Por": "^cyan;Floran quer mais ressspeito por aqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/intimidate.questtemplate": [
+        "/scriptConfig/generatedText/goalText/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;I want <target>'s respect, but friendship takes too long. I have a better idea...",
+      "Por": "^cyan;Eu quero o respeito de <target>, mas amizade demora muito. Tenho uma ideia melhor..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/intimidate.questtemplate": [
+        "/scriptConfig/generatedText/goalText/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;I've decided that it would be quite nice to have <target> obey me, in case I ever need <target.pronoun.object> for something. I have just the plan to make this happen...",
+      "Por": "^cyan;Eu decidi que seria muito bom fazer <target> me obedecer, no caso de eu precisar <target.pronoun.object> para algo. Eu tenho um plano para que isso aconteça..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/intimidate.questtemplate": [
+        "/scriptConfig/generatedText/text/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;<target>,^white; as it turns out, is particularly afraid of ^orange;<item>s. ^white;This is perfect! ^green;Go and point one at <target.pronoun.object> and start a conversation ^white;- I'm sure <target.pronoun.subject>'ll know I sent you! <target.pronoun.capitalSubject>'ll be so scared, <target.pronoun.subject>'ll do anything I say in future!",
+      "Por": "^orange;<target>,^white; ao que parece, tem particularmente medo de ^orange;<item>s. ^white;Isto é perfeito! ^green;Vá e aponte um para <target.pronoun.object> e inicie uma conversa ^white;- Tenho certeza que <target.pronoun.subject> saberá que lhe enviei! <target.pronoun.capitalSubject> estará tão assustado, que <target.pronoun.subject> vai fazer qualquer coisa que eu dizer no futuro!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/intimidate.questtemplate": [
+        "/parameters/item/example/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "hammer"
+    }
+  }
+]

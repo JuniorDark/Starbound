@@ -1,0 +1,99 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/brick.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/brick.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bricks",
+      "Por": "Bricks"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/brick.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/brick.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nice lookin' brickwork.",
+      "Por": "Belo tijolo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/brick.matitem": [
+        "/description"
+      ],
+      "tiles/materials/brick.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Small but perfectly formed bricks made from clay.",
+      "Por": "Tijolos pequenos feitos de argila."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Alguns tijolos muito antigos."
+    ],
+    "Files": {
+      "items/materials/ancientbrick.matitem": [
+        "/novakiddescription"
+      ],
+      "items/materials/ledgebrick.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/ancientbrick.material": [
+        "/novakidDescription"
+      ],
+      "tiles/materials/ledgebrick.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some mighty old lookin' bricks.",
+      "Por": "Alguns tijolos de aparência velha."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/brick.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/brick.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssimple bricksss.",
+      "Por": "Tijoloss ssimpless."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/brick.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/brick.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These bricks have been carefully formed and arranged."
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/proximitywallsensor/proximitywallsensor.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Proximity Wall Sensor",
+      "Por": "Proximity Wall Sensor"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/proximitywallsensor/proximitywallsensor.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sssensor is looking at Floran!",
+      "Por": "Floran sabe ter cuidado com isso!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/proximitywallsensor/proximitywallsensor.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Watch your step!",
+      "Por": "Cuidado onde pisa!"
+    }
+  }
+]

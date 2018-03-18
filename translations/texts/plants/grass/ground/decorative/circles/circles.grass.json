@@ -1,0 +1,28 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/circles/circles.grass": [
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A plant with berries.",
+      "Por": "Uma planta com bagas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/circles/circles.grass": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Purple berries.",
+      "Por": "Bagas roxas."
+    }
+  }
+]

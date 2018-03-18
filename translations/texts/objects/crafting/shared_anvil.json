@@ -1,0 +1,51 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/ironanvil/ironanvil.object": [
+        "/interactData/paneLayoutOverride/windowtitle/subtitle"
+      ],
+      "objects/crafting/upgradeablecraftingobjects/craftinganvil/craftinganvil.object": [
+        "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle",
+        "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle",
+        "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": " ^#b9b5b2;Armour and weapons",
+      "Por": "^#b9b5b2;Armadura e armas"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/ironanvil/ironanvil.object": [
+        "/novakidDescription"
+      ],
+      "objects/crafting/upgradeablecraftingobjects/craftinganvil/craftinganvil.object": [
+        "/novakidDescription",
+        "/upgradeStages/0/itemSpawnParameters/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An anvil. I'm no stranger to these.",
+      "Por": "Uma bigorna. Eu não sou um estranho para isso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/ironanvil/ironanvil.object": [
+        "/apexDescription"
+      ],
+      "objects/crafting/upgradeablecraftingobjects/craftinganvil/craftinganvil.object": [
+        "/apexDescription",
+        "/upgradeStages/0/itemSpawnParameters/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An anvil. The Apex haven't used these for metalwork for a long, long time.",
+      "Por": "Uma bigorna. Os Apex não tem usado isto para metalurgia por um longo, longo tempo."
+    }
+  }
+]

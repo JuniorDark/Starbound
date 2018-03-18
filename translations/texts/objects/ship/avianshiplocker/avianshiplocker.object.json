@@ -1,0 +1,51 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/avianshiplocker/avianshiplocker.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A locker, for storing lots of useful items.",
+      "Por": "Um armário, para armazenar muitos itens úteis."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/avianshiplocker/avianshiplocker.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Avian storage hatch.",
+      "Por": "Uma escotilha de armazenamento Avian."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/avianshiplocker/avianshiplocker.object": [
+        "/apexDescription",
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avian storage locker.",
+      "Por": "Armário de armazenamento Avian."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/avianshiplocker/avianshiplocker.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Storage.",
+      "Por": "Armazenamento."
+    }
+  }
+]

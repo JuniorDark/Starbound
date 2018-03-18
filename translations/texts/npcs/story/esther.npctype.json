@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/esther.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm here whenever you need me, dear. Especially if you'd like a mint humbug.",
+      "Por": "Estou aqui sempre que você precisar de mim, querido(a). Especialmente se você gostaria de uma bala de hortelã."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/esther.npctype": [
+        "/scriptConfig/dialog/arkOpened/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "The ark is open! You know what awaits, dear.",
+      "Por": "O ark está aberto! Você sabe o que o espera, querido(a)."
+    }
+  }
+]

@@ -1,0 +1,158 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/hylotl_mission1.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Find Clues to Locate the Hylotl Artifact",
+      "Por": "Encontre Pistas para Localizar o Artefato Hylotl"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/hylotl_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can't help but respect how much traditional Hylotl culture values knowledge.",
+      "Por": "Eu não posso ajudar, mas respeito o quanto a cultura tradicional Hylotl valoriza o conhecimento."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/hylotl_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/complete/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Interesting - I'd never heard of the Grand Pagoda Library. I don't need any more information now - ^#71f2f6;come back to the Ark when you're ready^white;, dear.",
+      "Por": "Interessante - eu nunca tinha ouvido falar da Grande Biblioteca Pagoda. Eu não preciso de mais informações agora - ^#71f2f6;Volte para o Ark quando você estiver pronto(a)^white;, querido(a)."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/hylotl_mission1.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "That was the last clue we needed to find the Hylotl artifact. Wonderful work, dear.",
+      "Por": "Essa foi a última pista que precisávamos para encontrar o artefato Hylotl. Trabalho maravilhoso, querido(a)."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/hylotl_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/librarycodex/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Hylotl protect and preserve knowledge like the most precious treasure... Books are their most precious commodity, could their artifact be stored amongst a repository of tomes?",
+      "Por": "Os Hylotl protegem e preservam o conhecimento como o tesouro mais precioso... Os livros são seu bem mais precioso, poderia o seu artefato estar armazenado entre um repositório de tomos?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/hylotl_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/librarymodel/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "This Library is modelled in exquisite detail - a palace of knowledge! Perhaps their artifact is housed in a place such as this.",
+      "Por": "Esta biblioteca é feita em detalhes requintados - um palácio de conhecimento! Talvez o seu artefato está guardado em um lugar como este."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/hylotl_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/pagodaaquarium/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "This aquarium has a model island on top of it! How curious.",
+      "Por": "Este aquário tem a maquete de uma ilha em cima dele! Que curioso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/hylotl_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/hylotllibraryposter1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "This image is hand made and obviously depicts a building of cultural importance...",
+      "Por": "Esta imagem é feita à mão e obviamente representa um edifício de importância cultural..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/hylotl_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/9/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is all useful, dear. Keep looking!",
+      "Por": "Tudo Isso é muito útil, querido(a). Continue procurando!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/hylotl_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/hylotlmusicbox/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "This music box plays an ancient tune... It's a commemorative object, I will research what its origins are.",
+      "Por": "Esta caixa de música toca uma melodia antiga... É um objeto comemorativo, vou pesquisar de onde suas origens são."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/hylotl_mission1.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "We should start work on finding the ^orange;Hylotl artifact^reset; now. Search around ^orange;temperate stars^reset;, ^green;and hunt for ^orange;clues^white; on planets with vast tracts of ^orange;ocean^reset;, where the Hylotl reside both above and below the waves. ^green;Come back here when your search is complete^reset;; and look after yourself.",
+      "Por": "Devemos agora começar a trabalhar em encontrar o ^orange;artefato Hylotl^reset;. Procure em torno de ^orange;estrelas temperadas^reset;, ^green;e cace por ^orange;pistas^white; em planetas com vastas áreas de ^orange;oceano^reset;, onde os Hylotl residem acima e abaixo das ondas. ^green;Volte aqui quando a sua pesquisa estiver completa^reset;; e se cuide."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/hylotl_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/startAlreadyComplete/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "You're quite the collector of Hylotl antiquities! It appears you've already located enough clues to to allow me to identify the location of the Artifact!",
+      "Por": "Você é um bom colecionador de antiguidades Hylotl! Parece que você já localizou pistas suficientes que me permita identificar a localização do Artefato!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/hylotl_mission1.questtemplate": [
+        "/scriptConfig/descriptions/findClues"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Scan objects^reset; to find ^orange;Hylotl clues^reset;",
+      "Por": "^green;Escaneie objetos^reset; para achar ^orange;pistas sobre o Artefato Hylotl^reset;"
+    }
+  }
+]

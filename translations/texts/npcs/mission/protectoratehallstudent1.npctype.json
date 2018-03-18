@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/protectoratehallstudent1.npctype": [
+        "/scriptConfig/dialog/converse/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran hopess there will be time for a toilet break.",
+      "Por": "Floran espera que haverá tempo para uma pausa pro banheiro."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/protectoratehallstudent1.npctype": [
+        "/scriptConfig/dialog/converse/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran regretss drinking five Oculemonades for breakfast...",
+      "Por": "Floran se arrepende de beber cinco Oculemonades no almoço..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/protectoratehallstudent1.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Not many Florans become Protectorsss. Floran is proud to be chosen!",
+      "Por": "Não são muitos os Floran que se tornam Protetoresss. Floran se orgulha de ser escolhido!"
+    }
+  }
+]

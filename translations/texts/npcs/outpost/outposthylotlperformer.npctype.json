@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/outposthylotlperformer.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0",
+        "/scriptConfig/dialog/converse/hylotl/default/0",
+        "/scriptConfig/dialog/converse/hylotl/hylotl/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nobody appreciates a good joke anymore! My comic genius is wasted on the cretins here.",
+      "Por": "Ninguém mais aprecia uma boa piada! Meu gênio cômico é desperdiçado nestes cretinos aqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/outposthylotlperformer.npctype": [
+        "/scriptConfig/dialog/converse/hylotl/avian/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Out on your own? Guess you really... flew the coop!",
+      "Por": "Fora de si? Acho que você realmente... pulou do galinheiro!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/outposthylotlperformer.npctype": [
+        "/scriptConfig/dialog/converse/hylotl/apex/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "What did the enamoured Apex say to his wife? You drive me bananas!",
+      "Por": "O que um Apex apaixonado disse a sua esposa? Você me deixa bananas!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/outposthylotlperformer.npctype": [
+        "/scriptConfig/dialog/converse/hylotl/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "What do you call a Floran friend? A Flower Bud!",
+      "Por": "Do que você chama um amigo Floran? Um Botão de Flor!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/outposthylotlperformer.npctype": [
+        "/scriptConfig/dialog/converse/hylotl/human/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "What do you get when you shave an Apex? A human!",
+      "Por": "O que você ganha quando você raspa um Apex? Um humano!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/outposthylotlperformer.npctype": [
+        "/scriptConfig/dialog/converse/hylotl/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "What is a Glitch's favourite dance? The robot!",
+      "Por": "Qual é a dança favorita de um Glitch? A robôtica!"
+    }
+  }
+]

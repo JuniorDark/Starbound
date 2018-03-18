@@ -1,0 +1,316 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/eyepatch.config": [
+        "/severe/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Angry. I can SEE there is a problem here!",
+      "Por": "Irritado. Eu posso VER que há um problema aqui!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/eyepatch.config": [
+        "/cantReach/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Angry. Our foe is a coward, who does not face me directly!",
+      "Por": "Bravo. Nosso inimigo é um covarde, que não me enfrenta diretamente!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/eyepatch.config": [
+        "/rent/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Appreciative. You have helped me, and the All-Seeing Knights always repay in kind.",
+      "Por": "Agradecido. Você me ajudou, e os Cavaleiros Que Tudo Vêem sempre pagam na mesma moeda."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/eyepatch.config": [
+        "/cheerOn/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Contemplative. Perhaps simply observing the battle is enough.",
+      "Por": "Pensativo. Talvez simplesmente observar a batalha seja suficiente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/eyepatch.config": [
+        "/converse/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Contemplative. The symbol of the eye is one that stares eternal.",
+      "Por": "Contemplativo. O símbolo do olho é aquele que olha eternamente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/eyepatch.config": [
+        "/lostTarget/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disappointed. I have lost our foe... For the time being.",
+      "Por": "Desapontado. Eu perdi nosso inimigo... Por enquanto."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/eyepatch.config": [
+        "/severe/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frustrated. Can you not SEE the problem?",
+      "Por": "Frustrado. Você não consegue VER o problema?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/eyepatch.config": [
+        "/cantReach/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frustrated. This cowardly foe will not face me up close!",
+      "Por": "Frustrado. Este inimigo covarde não vai me enfrentar de perto!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/eyepatch.config": [
+        "/rent/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Grateful. Here is a token of my thanks, for providing me with a home.",
+      "Por": "Grato. Aqui é um símbolo de minha gratidão, para me fornecer uma casa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/eyepatch.config": [
+        "/attack/default/default/3",
+        "/reattack/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hostile. Observe your own defeat at my hands!",
+      "Por": "Hostil. Observe sua própria derrota em minhas mãos!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/eyepatch.config": [
+        "/final/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intimidating. It is not wise to disrespect the All-Seeing Knights!",
+      "Por": "Intimidador. Não é sábio desrespeitar os Cavaleiros Que Tudo Veem!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/eyepatch.config": [
+        "/converse/default/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intimidating. None can escape the gaze of the All-Seeing Knights!",
+      "Por": "Intimidador. Ninguém pode escapar do olhar dos Cavaleiros Que Tudo Vêem!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/eyepatch.config": [
+        "/attack/default/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Menacing. I have SEEN our next target!",
+      "Por": "Ameaçador. Eu VI o nosso próximo alvo!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/eyepatch.config": [
+        "/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Menacing. The All-Seeing Knights let nothing avert our gaze.",
+      "Por": "Ameaçador. Os Cavaleiros Que Tudo Vêem não deixa que nada desvie o nosso olhar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/eyepatch.config": [
+        "/final/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Menacing. Your disrespect has not gone unobserved...",
+      "Por": "Ameaçador. O seu desrespeito não passou despercebido..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/eyepatch.config": [
+        "/beacon/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. I SEE you require my presence.",
+      "Por": "Atento. Eu VEJO que você exige a minha presença."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/eyepatch.config": [
+        "/attack/default/default/1",
+        "/reattack/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. I spy a foe approaching!",
+      "Por": "Atento. Eu vejo um inimigo se aproximando!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/eyepatch.config": [
+        "/beacon/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Patient. Do you have need of the All-Seeing Knights?",
+      "Por": "Paciente. Você precisa dos Cavaleiros Que Tudo Vêem?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/eyepatch.config": [
+        "/killedTarget/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased. This joust has satiated my lust for battle. For now.",
+      "Por": "Satisfeito. Esta luta saciou minha luxúria por batalha. Por enquanto."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/eyepatch.config": [
+        "/converse/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Practical. The All-Seeing Knights help those who help us.",
+      "Por": "Prático. Os Cavaleiros Que Tudo Vêem ajudam aqueles que nos ajudam."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/eyepatch.config": [
+        "/beacon/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Respectful. Do you have need of me?",
+      "Por": "Respeitoso. Você precisa de mim?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/eyepatch.config": [
+        "/killedTarget/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Satisfied. An acceptable battle.",
+      "Por": "Satisfeito. Uma batalha aceitável."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/eyepatch.config": [
+        "/converse/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sinister. We aid those who give us homes, as long as we see fit...",
+      "Por": "Sinistro. Nós ajudamos aqueles que nos dão casas, enquanto acharmos conveniente..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/eyepatch.config": [
+        "/cheerOn/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Supportive. I shall SEE this victory!",
+      "Por": "Encorajador. Eu devo VER esta vitória!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/eyepatch.config": [
+        "/cheerOn/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Supportive. I wish to witness our foe's defeat!",
+      "Por": "Encorajador. Quero testemunhar a derrota de nosso inimigo!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/eyepatch.config": [
+        "/outOfSight/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Surprised. How did they escape my eternal gaze?!",
+      "Por": "Surpreso. Como eles escaparam do meu olhar eterno?!"
+    }
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/shadowy/shadowy.grass": [
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A mysterious flower.",
+      "Por": "Uma flor misteriosa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/shadowy/shadowy.grass": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Weird.",
+      "Por": "Estranha."
+    }
+  }
+]

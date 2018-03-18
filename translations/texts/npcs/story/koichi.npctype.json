@@ -1,0 +1,62 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/koichi.npctype": [
+        "/scriptConfig/dialog/koichi/giveRelic/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "But, um... May I come with you? This object, the artifact - I would love to know more.",
+      "Por": "Mas, um... Posso ir com você? Este objeto, o artefato - Eu adoraria saber mais sobre ele."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/koichi.npctype": [
+        "/scriptConfig/dialog/koichi/giveRelic/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I think it's best to entrust it to you - a reward for your decency. It's certainly not safe here.",
+      "Por": "Eu acho que é melhor confiá-lo a você - uma recompensa por sua decência. Certamente ele não esta seguro aqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/koichi.npctype": [
+        "/scriptConfig/dialog/koichi/greet/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "So you're here for this artifact too? How intriguing...",
+      "Por": "Então você está aqui por este artefato também? Que intrigante..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/koichi.npctype": [
+        "/scriptConfig/dialog/koichi/end/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "The great thinkers tell us that 'Experience is the Mother of Wisdom'. I am going to become SO WISE!",
+      "Por": "Os grandes pensadores nos dizem que \"A experiência é a mãe da sabedoria\". Eu estou indo para me tornar TÃO SÁBIO!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/koichi.npctype": [
+        "/scriptConfig/dialog/koichi/greet/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You're here! You made it! You defeated those cowled villains!",
+      "Por": "Você está aqui! Você conseguiu! Você derrotou esses bandidos encapuzados!"
+    }
+  }
+]

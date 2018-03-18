@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/teaminvite.config": [
+        "/paneLayout/titleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "INVITE TO PARTY",
+      "Por": "CONVIDAR PRO GRUPO"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/teaminvite.config": [
+        "/paneLayout/ok/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Invite",
+      "Por": "Convidar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/teaminvite.config": [
+        "/paneLayout/name/hint"
+      ]
+    },
+    "Texts": {
+      "Eng": "Player name",
+      "Por": "Nome do jogador"
+    }
+  }
+]

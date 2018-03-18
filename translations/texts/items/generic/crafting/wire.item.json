@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/wire.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A spool of copper wire.",
+      "Por": "Um rolo de fio de cobre."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/wire.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Copper Wire",
+      "Por": "Copper Wire"
+    }
+  }
+]

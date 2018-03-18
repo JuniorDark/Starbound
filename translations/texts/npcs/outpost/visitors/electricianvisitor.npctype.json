@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/electricianvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm an electrician by trade. I'm just visiting to buy some new batteries from Infinity Express.",
+      "Por": "Eu sou eletricista de profissão. Eu estou apenas visitando para comprar algumas novas baterias da Infinity Express."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/electricianvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm an electrician! I'm here to buy some fresh batteries from the Infinity Express.",
+      "Por": "Eu sou um eletricista! Estou aqui para comprar algumas baterias novas da Infinity Express."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/electricianvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm an electrician, so I come to the Outpost often to get supplies for my trade.",
+      "Por": "Eu sou um eletricista, então eu venho para o Posto Avançado muitas vezes para obter suprimentos para o meu comércio."
+    }
+  }
+]

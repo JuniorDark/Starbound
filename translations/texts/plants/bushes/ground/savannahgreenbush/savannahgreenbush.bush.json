@@ -1,0 +1,39 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/savannahgreenbush/savannahgreenbush.bush": [
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A brittle, dry bush.",
+      "Por": "Um arbusto seco e frágil."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/savannahgreenbush/savannahgreenbush.bush": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A dry, savannah bush.",
+      "Por": "Um arbusto de savana seco."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/savannahgreenbush/savannahgreenbush.bush": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dry busssh.",
+      "Por": "Arbusto seco."
+    }
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/body/mechbodycultist.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A crudely engineered mech body, designed by members of the Occasus cult.",
+      "Por": "Um corpo de mecha de engenharia crua, desenhado por membros do culto Occasus."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/body/mechbodycultist.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Occasus Mech Body"
+    }
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/mediummetal.matitem": [
+        "/description"
+      ],
+      "tiles/materials/mediummetal.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A solid tungsten block.",
+      "Por": "Um bloco de tungstênio sólido."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/mediummetal.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/mediummetal.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shiny tungssten blockss.",
+      "Por": "Blocoss de tungstênio brilhante."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/mediummetal.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/mediummetal.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some smooth lookin' blocks made outta tungsten.",
+      "Por": "Alguns blocos lisos feitos de tungsténio."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/mediummetal.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/mediummetal.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These blocks have been constructed from tungsten."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/mediummetal.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/mediummetal.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tungsten Block",
+      "Por": "Tungsten Block"
+    }
+  }
+]

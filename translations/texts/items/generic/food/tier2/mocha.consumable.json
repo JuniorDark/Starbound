@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier2/mocha.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A mild blend of coffee and hot chocolate.",
+      "Por": "Uma mistura suave de café e chocolate quente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier2/mocha.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mochaccino",
+      "Por": "Mochaccino"
+    }
+  }
+]

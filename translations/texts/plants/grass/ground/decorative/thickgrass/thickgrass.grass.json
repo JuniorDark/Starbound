@@ -1,0 +1,28 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/thickgrass/thickgrass.grass": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Grassy.",
+      "Por": "Coberta de grama."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/thickgrass/thickgrass.grass": [
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thick grass.",
+      "Por": "Uma grama espessa."
+    }
+  }
+]

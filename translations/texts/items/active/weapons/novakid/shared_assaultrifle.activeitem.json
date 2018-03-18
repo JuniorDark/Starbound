@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Um rifle de nível militar totalmente automático."
+    ],
+    "Files": {
+      "items/active/weapons/novakid/durasteelassaultrifle.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/novakid/ironassaultrifle.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fully automatic military grade rifle.",
+      "Por": "Um rifle militar totalmente automático."
+    }
+  }
+]

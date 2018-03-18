@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/wheat.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Essential for making bread.",
+      "Por": "Essencial para fazer pão."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/wheat.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wheat",
+      "Por": "Wheat"
+    }
+  }
+]

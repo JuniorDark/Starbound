@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/bolt.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small metal bolt.",
+      "Por": "Um parafuso de metal pequeno."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/bolt.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bolt",
+      "Por": "Bolt"
+    }
+  }
+]

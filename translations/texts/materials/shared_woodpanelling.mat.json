@@ -1,0 +1,78 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/woodpanelling.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/woodpanelling.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "It appears these panels of wood are decorative."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/woodpanelling.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/woodpanelling.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sstrange wood panelss for decoration.",
+      "Por": "Painéiss estranhos de madeira para decoração."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Este painel de madeira estava na moda numa era distante."
+    ],
+    "Files": {
+      "items/materials/woodpanelling.matitem": [
+        "/description"
+      ],
+      "tiles/materials/woodpanelling.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This wood panelling was fashionable in a distant era.",
+      "Por": "Este painéis de madeira estavam na moda em uma era distante."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/woodpanelling.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/woodpanelling.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wood Panelling",
+      "Por": "Wood Panelling"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/woodpanelling.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/woodpanelling.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wood panels, that's how y'know this place is fancy.",
+      "Por": "Painéis de madeira, é assim que você sabe que esse lugar é chique."
+    }
+  }
+]

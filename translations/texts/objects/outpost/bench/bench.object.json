@@ -1,0 +1,88 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/bench/bench.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A basic bench.",
+      "Por": "Um banco básico."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/bench/bench.object": [
+        "/avianDescription",
+        "/glitchDescription/glitchEmotedText",
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bench.",
+      "Por": "Um banco."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/bench/bench.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A plain bench.",
+      "Por": "Um banco simples."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/bench/bench.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple bench.",
+      "Por": "Um banco simples."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/bench/bench.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple place for restin' tired legs.",
+      "Por": "Um lugar simples para descansar as pernas cansadas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/bench/bench.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bench",
+      "Por": "Bench"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/bench/bench.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssseat.",
+      "Por": "Asssento."
+    }
+  }
+]

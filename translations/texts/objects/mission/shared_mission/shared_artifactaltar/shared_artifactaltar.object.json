@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [
+      "\"Parece que foi feito para segurar algo importante.",
+      "Parece que ele foi feito para segurar alguma coisa importante.",
+      "Parece que foi feito para guardar algo importante."
+    ],
+    "Files": {
+      "objects/mission/apexmission/apexartifactaltar/apexartifactaltar.object": [
+        "/description"
+      ],
+      "objects/mission/avianmission/avianartifactaltar/avianartifactaltar.object": [
+        "/description"
+      ],
+      "objects/mission/floranmission/floranartifactaltar/floranartifactaltar.object": [
+        "/description"
+      ],
+      "objects/mission/glitchmission/glitchartifactaltar/glitchartifactaltar.object": [
+        "/description"
+      ],
+      "objects/mission/hylotlmission/hylotlartifactaltar/hylotlartifactaltar.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "It looks like it was made to hold something important.",
+      "Por": "Parece que foi feito para segurar algo importante."
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mannequin/mannequingui.config": [
+        "/gui/equipCosmetic/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Equip (Cosmetic)",
+      "Por": "Equipar (Cosmético)"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mannequin/mannequingui.config": [
+        "/gui/equipFunctional/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Equip (Functional)",
+      "Por": "Equipar (Funcional)"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mannequin/mannequingui.config": [
+        "/gui/swapGender/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Swap Gender",
+      "Por": "Mudar Gênero"
+    }
+  }
+]

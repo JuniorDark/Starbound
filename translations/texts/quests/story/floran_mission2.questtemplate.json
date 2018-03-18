@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/floran_mission2.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excellent, you did wonderfully! We're one sixth of the way there, dear. Nothing to sniff at. And now we have ^orange;Nuru^reset; to help us, too.",
+      "Por": "Excelente, você conseguiu maravilhosamente! Estamos a um sexto do caminho, querido(a). E agora temos ^orange;Nuru^reset; para nos ajudar também."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/floran_mission2.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fetch the Floran Artifact",
+      "Por": "Busque o Artefato Floran"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/floran_mission2.questtemplate": [
+        "/scriptConfig/descriptions/artifact"
+      ]
+    },
+    "Texts": {
+      "Eng": "Find the ^orange;artifact^reset; in ^green;the Hunting Grounds^reset;",
+      "Por": "Encontre o ^orange;artefato^reset; nos ^orange;Campos de Caça^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/floran_mission2.questtemplate": [
+        "/scriptConfig/missionRadioMessage/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have received coordinates for the ^orange;The Ceremonial Hunting Caverns^reset;. ^green;Use the mission interface^reset; to access the location.",
+      "Por": "Recebi as coordenadas para ^orange;As Cavernas Cerimoniais de Caça^reset;. ^green;Use o computador da nave^reset; para acessar o local."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/floran_mission2.questtemplate": [
+        "/scriptConfig/descriptions/turnIn"
+      ]
+    },
+    "Texts": {
+      "Eng": "Return to ^orange;Esther^reset; at ^green;the Ark^reset;",
+      "Por": "Volte a ^orange;Esther^reset; no ^orange;Ark^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/floran_mission2.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The clues you collected reveal that the ^orange;Floran artifact^reset; is enshrined in ^orange;The Ceremonial Hunting Caverns^reset;. Judging from what I've found out, you'll need to ^green;compete in a ritual hunt to get it^reset;. I've given SAIL the co-ordinates you need. Be careful dear.",
+      "Por": "As pistas que você coletou revelam que o ^orange;artefato Floran^reset; está consagrado nas ^orange;Cavernas Cerimoniais de Caça^reset;. A julgar pelo que eu descobri, você vai precisar ^green;competir em um ritual de caçada para obtê-lo^reset;. Eu dei a SAIL as coordenadas que você precisa. Tenha cuidado querido(a)."
+    }
+  }
+]

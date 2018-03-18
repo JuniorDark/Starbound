@@ -1,0 +1,97 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/spawner/spawners/spawner_wizard.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran want wizard in party!",
+      "Por": "Floran quer o feiticeiro na festa!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/spawner/spawners/spawner_wizard.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Magic and science. What a beautiful union.",
+      "Por": "Mágica e ciência. Que bela união."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/spawner/spawners/spawner_wizard.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Maybe I can become this sorcerer's apprentice.",
+      "Por": "Talvez eu possa me tornar o aprendiz de feiticeiro."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/spawner/spawners/spawner_wizard.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Spawn your very own wizard!",
+      "Por": "Spawne seu próprio mago!\r\n"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/spawner/spawners/spawner_wizard.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Surely a wizard could just teleport here.",
+      "Por": "Certamente um mago poderia apenas se teletransportar aqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/spawner/spawners/spawner_wizard.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Glitch are not fond of magic."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/spawner/spawners/spawner_wizard.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Will this spawn a wizard, or yet another charlatan?",
+      "Por": "Será que isso gerará um feiticeiro, ou outro charlatão?\r\n"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/spawner/spawners/spawner_wizard.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wizard Spawner",
+      "Por": "Wizard Spawner\r\n"
+    }
+  }
+]

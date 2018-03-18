@@ -1,0 +1,78 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Uma nuvem densa o suficiente para caminhar encima."
+    ],
+    "Files": {
+      "items/materials/cloudblock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/cloudblock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A cloud dense enough to walk on.",
+      "Por": "Uma nuvem densa o suficiente para caminhar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/cloudblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/cloudblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cloud",
+      "Por": "Cloud"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/cloudblock.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/cloudblock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cloud iss sso fluffy!",
+      "Por": "Nuvem é tão fofa!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/cloudblock.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/cloudblock.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The density of this cloud could support my weight."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/cloudblock.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/cloudblock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This here cloud is made from some heavy fluff stuff.",
+      "Por": "Este nuvem aqui é feita de material fofo pesado."
+    }
+  }
+]

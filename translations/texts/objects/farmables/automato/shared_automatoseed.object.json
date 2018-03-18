@@ -1,0 +1,121 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/automato/automatoseed.object": [
+        "/hylotlDescription"
+      ],
+      "objects/farmables/automato/wildautomatoseed.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A common Glitch peasant food. Not to my taste.",
+      "Por": "Uma comida Glitch comum. Não é do meu gosto."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/automato/automatoseed.object": [
+        "/humanDescription"
+      ],
+      "objects/farmables/automato/wildautomatoseed.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A tomato filled with screws. Tasty yet hazardous.",
+      "Por": "Um tomate cheio de parafusos. Saboroso mas perigoso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/automato/automatoseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/automato/wildautomatoseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Automato Seed",
+      "Por": "Automato Seed"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/automato/automatoseed.object": [
+        "/novakidDescription"
+      ],
+      "objects/farmables/automato/wildautomatoseed.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Automatoes have a tangy, metalic flavour.",
+      "Por": "Automates têm um sabor picante e metálico."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/automato/automatoseed.object": [
+        "/avianDescription"
+      ],
+      "objects/farmables/automato/wildautomatoseed.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Automatoes. The seeds are pretty tasty by themselves.",
+      "Por": "Automates. As sementes são muito saborosas por si só."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/automato/automatoseed.object": [
+        "/apexDescription"
+      ],
+      "objects/farmables/automato/wildautomatoseed.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Automatoes... pretty standard, if you don't break your teeth on the screws.",
+      "Por": "Automates... bastante padrão, se você não quebrar seus dentes nos parafusos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/automato/automatoseed.object": [
+        "/floranDescription"
+      ],
+      "objects/farmables/automato/wildautomatoseed.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fleshy and juicy, with crunchy bitsss. Like humansss.",
+      "Por": "Carnudo e suculento, com pedaços crocantesss. Como os humanosss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/automato/automatoseed.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/farmables/automato/wildautomatoseed.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Others remove the screws. The Glitch feel they enhance the flavour."
+    }
+  }
+]

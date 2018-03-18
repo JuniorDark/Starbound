@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier1/pearlpeabroth.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A slightly more substantial meal than just boiling pearlpeas.",
+      "Por": "Uma refeição um pouco mais substancial do que apenas pearlpeas cozidas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier1/pearlpeabroth.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pearlpea Broth",
+      "Por": "Pearlpea Broth"
+    }
+  }
+]

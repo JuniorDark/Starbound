@@ -1,0 +1,172 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Um ladrilho barulhento.",
+      "Uma telha que balança."
+    ],
+    "Files": {
+      "objects/ancient/ancientswitchhidden/ancientswitchhidden.object": [
+        "/humanDescription"
+      ],
+      "objects/avian/avianswitchhidden/avianswitchhidden1.object": [
+        "/humanDescription"
+      ],
+      "objects/avian/avianswitchhidden/avianswitchhidden2.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A rattling tile.",
+      "Por": "Um ladrilho chacoalhante."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/ancientswitchhidden/ancientswitchhidden.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avian/avianswitchhidden/avianswitchhidden1.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avian/avianswitchhidden/avianswitchhidden2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A slightly out of place tile."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Um azulejo estranho.",
+      "Uma telha estranha."
+    ],
+    "Files": {
+      "objects/ancient/ancientswitchhidden/ancientswitchhidden.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avian/avianswitchhidden/avianswitchhidden1.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avian/avianswitchhidden/avianswitchhidden2.object": [
+        "/hylotlDescription"
+      ],
+      "objects/glitch/medievalswitchhidden/medievalswitchhidden.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strange tile.",
+      "Por": "Um ladrilho estranho."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Há algo de errado com esta telha."
+    ],
+    "Files": {
+      "objects/ancient/ancientswitchhidden/ancientswitchhidden.object": [
+        "/novakidDescription"
+      ],
+      "objects/avian/avianswitchhidden/avianswitchhidden1.object": [
+        "/novakidDescription"
+      ],
+      "objects/avian/avianswitchhidden/avianswitchhidden2.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "There's somethin' wrong with this tile.",
+      "Por": "Há algo errado com esse ladrilho."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Esta telha parece ser solta.",
+      "Este azulejo parece estar solto."
+    ],
+    "Files": {
+      "objects/ancient/ancientswitchhidden/ancientswitchhidden.object": [
+        "/apexDescription"
+      ],
+      "objects/avian/avianswitchhidden/avianswitchhidden1.object": [
+        "/apexDescription"
+      ],
+      "objects/avian/avianswitchhidden/avianswitchhidden2.object": [
+        "/apexDescription"
+      ],
+      "objects/glitch/medievalswitchhidden/medievalswitchhidden.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This tile appears to be loose.",
+      "Por": "Este ladrilho parece estar solto."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Essa telha tem uma aparência ruim.",
+      "Este azulejo esta mal colocado."
+    ],
+    "Files": {
+      "objects/ancient/ancientswitchhidden/ancientswitchhidden.object": [
+        "/avianDescription"
+      ],
+      "objects/avian/avianswitchhidden/avianswitchhidden1.object": [
+        "/avianDescription"
+      ],
+      "objects/avian/avianswitchhidden/avianswitchhidden2.object": [
+        "/avianDescription"
+      ],
+      "objects/glitch/medievalswitchhidden/medievalswitchhidden.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This tile is a bad fit.",
+      "Por": "Este ladrilho esta mal colocado."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Esta telha parece diferente do resto."
+    ],
+    "Files": {
+      "objects/ancient/ancientswitchhidden/ancientswitchhidden.object": [
+        "/description"
+      ],
+      "objects/avian/avianswitchhidden/avianswitchhidden1.object": [
+        "/description"
+      ],
+      "objects/avian/avianswitchhidden/avianswitchhidden2.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This tile looks different from the rest.",
+      "Por": "Esta ladrilho parece diferente do resto."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Agitação de telha."
+    ],
+    "Files": {
+      "objects/ancient/ancientswitchhidden/ancientswitchhidden.object": [
+        "/floranDescription"
+      ],
+      "objects/avian/avianswitchhidden/avianswitchhidden1.object": [
+        "/floranDescription"
+      ],
+      "objects/avian/avianswitchhidden/avianswitchhidden2.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tile wobble.",
+      "Por": "Ladrilho balançante."
+    }
+  }
+]

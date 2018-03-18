@@ -1,0 +1,62 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/rotting.config": [
+        "/rotTimeDescriptions/4/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Extremely well preserved^reset;",
+      "Por": "^green;Extremamente bem preservada^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/rotting.config": [
+        "/rotTimeDescriptions/3/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Should stay fresh for awhile^reset;",
+      "Por": "^green;Deve ficar fresca por um tempo^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/rotting.config": [
+        "/rotTimeDescriptions/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Starting to smell rotten^reset;",
+      "Por": "^orange;Começando a cheirar podre^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/rotting.config": [
+        "/rotTimeDescriptions/0/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^red;Almost too rotten to eat^reset;",
+      "Por": "^red;Quase muito podre para comer^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/rotting.config": [
+        "/rotTimeDescriptions/2/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^yellow;Will probably go bad soon^reset;",
+      "Por": "^yellow;Provavelmente vai estragar em breve^reset;"
+    }
+  }
+]

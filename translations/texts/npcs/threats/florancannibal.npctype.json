@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/florancannibal.npctype": [
+        "/scriptConfig/dialog/attack/floran/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran can ssssee food!",
+      "Por": "Floran pode ver a comida!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/florancannibal.npctype": [
+        "/scriptConfig/dialog/attack/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran hasss spotted dinner!",
+      "Por": "Floran avistou o jantar!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/florancannibal.npctype": [
+        "/scriptConfig/dialog/attack/floran/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran hungry!",
+      "Por": "Floran faminto!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/florancannibal.npctype": [
+        "/scriptConfig/dialog/attack/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran isss getting hungry!",
+      "Por": "Floran está ficando com fome!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/florancannibal.npctype": [
+        "/scriptConfig/dialog/attack/floran/default/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran knows who isss for dinner!",
+      "Por": "Floran ssabe quem ssserá o jantar!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/florancannibal.npctype": [
+        "/scriptConfig/dialog/attack/floran/default/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Food hasss arrived!",
+      "Por": "A comida chegou!"
+    }
+  }
+]

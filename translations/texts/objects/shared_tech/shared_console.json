@@ -1,0 +1,80 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/techlab/techlabconsole2.object": [
+        "/humanDescription"
+      ],
+      "objects/upgrade/techconsole/techconsole.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can equip techs here! What a handy machine.",
+      "Por": "Eu posso equipar tecnologias aqui! Que máquina útil."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/techlab/techlabconsole2.object": [
+        "/apexDescription"
+      ],
+      "objects/upgrade/techconsole/techconsole.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This complex machine allows me to equip techs.",
+      "Por": "Esta máquina complexa me permite equipar tecnologias."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/techlab/techlabconsole2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/upgrade/techconsole/techconsole.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This console allows me to equip and remove techs."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Este consssole permite que Floran equipe tecnologias! Novas tecnologiasss são sempre muito emocionantesss."
+    ],
+    "Files": {
+      "objects/outpost/techlab/techlabconsole2.object": [
+        "/floranDescription"
+      ],
+      "objects/upgrade/techconsole/techconsole.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This consssole lets Floran equip techs! New techsss always very exciting.",
+      "Por": "Este consssole permite que Floran equipe tecnologias! Novas tecnologiasss é sempre muito emocionante."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Com um pouco de conhecimento posso usar esta máquina para equipar tecnologias."
+    ],
+    "Files": {
+      "objects/outpost/techlab/techlabconsole2.object": [
+        "/novakidDescription"
+      ],
+      "objects/upgrade/techconsole/techconsole.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "With a little know-how, I can use this machine to equip techs.",
+      "Por": "Com um pouco de conhecimento, eu posso usar esta máquina para equipar tecnologias."
+    }
+  }
+]

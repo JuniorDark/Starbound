@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier2/mushroomrice.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Delicious eggy fried rice with mushrooms.",
+      "Por": "Arroz frito delicioso com cogumelos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier2/mushroomrice.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mushroom Rice",
+      "Por": "Mushroom Rice"
+    }
+  }
+]

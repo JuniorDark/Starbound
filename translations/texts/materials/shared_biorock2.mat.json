@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/biorock2.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/biorock2.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Blue Glow Rock",
+      "Por": "Blue Glow Rock"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/biorock2.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/biorock2.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Blue rockss faintly glow.",
+      "Por": "Rochass azul brilhando fraco."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/biorock2.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/biorock2.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "There's a faint blue glow coming from the bacteria in this rock."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/biorock2.matitem": [
+        "/description"
+      ],
+      "tiles/materials/biorock2.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This blue rock is faintly glowing with bioluminescence.",
+      "Por": "Esta rocha azul esta fracamente brilhando com bioluminescência."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/biorock2.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/biorock2.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This blue rock is shinin' a bit.",
+      "Por": "Esta rocha azul está brilhando um pouco."
+    }
+  }
+]

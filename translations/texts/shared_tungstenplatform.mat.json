@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/tungstenplatform.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/platforms/tungstenplatform.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Platforms made outta tungsten.",
+      "Por": "Plataformas feitas de tungstênio."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/tungstenplatform.matitem": [
+        "/florandescription"
+      ],
+      "tiles/platforms/tungstenplatform.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sstrong metal platformss.",
+      "Por": "Plataformass de metal forte."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/tungstenplatform.matitem": [
+        "/description"
+      ],
+      "tiles/platforms/tungstenplatform.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Strong platforms made from tungsten.",
+      "Por": "Plataformas fortes feitas de tungstênio."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/tungstenplatform.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/tungstenplatform.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tungsten Platform",
+      "Por": "Tungsten Platform"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/tungstenplatform.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/platforms/tungstenplatform.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tungsten can be made into extremely solid platforms."
+    }
+  }
+]

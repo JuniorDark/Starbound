@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/glass.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A pane of glass used for crafting.",
+      "Por": "Um painel de vidro usado para fabricação."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/glass.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Glass",
+      "Por": "Glass"
+    }
+  }
+]

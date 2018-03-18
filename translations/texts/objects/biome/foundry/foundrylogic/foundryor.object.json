@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/foundry/foundrylogic/foundryor.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "<An /'Or'/ switch. Allows you to have multiple individual inputs.>",
+      "Por": "<Um interruptor /'Or'/ . Permite que você tenha várias entradas individuais.>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/foundry/foundrylogic/foundryor.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Foundry Or Switch",
+      "Por": "Foundry Or Switch"
+    }
+  }
+]

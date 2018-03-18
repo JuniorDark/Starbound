@@ -1,0 +1,114 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Uma fonte de luz brilhante. Talvez eu não devesse olhar para ela."
+    ],
+    "Files": {
+      "objects/mission/apexfightlantern/apexfightlantern.object": [
+        "/humanDescription"
+      ],
+      "objects/mission/lunarbaselantern/lunarbaselantern.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bright light source. I probably shouldn't stare into it.",
+      "Por": "Uma fonte de luz brilhante. Eu provavelmente não deveria olhar para ela."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Uma lanterna pequena porém efetiva."
+    ],
+    "Files": {
+      "objects/mission/apexfightlantern/apexfightlantern.object": [
+        "/apexDescription"
+      ],
+      "objects/mission/lunarbaselantern/lunarbaselantern.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small but effective lantern.",
+      "Por": "Uma lanterna pequena mas eficaz."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/apexfightlantern/apexfightlantern.object": [
+        "/avianDescription"
+      ],
+      "objects/mission/lunarbaselantern/lunarbaselantern.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An electric lantern with a simple design.",
+      "Por": "Uma lanterna elétrica com um design simples."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Um brilho encorajador que me lembra de dias brilhantes."
+    ],
+    "Files": {
+      "objects/mission/apexfightlantern/apexfightlantern.object": [
+        "/hylotlDescription"
+      ],
+      "objects/mission/lunarbaselantern/lunarbaselantern.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An encouraging shimmer that reminds me of bright days.",
+      "Por": "Um brilho encorajador que me faz lembrar de dias brilhantes."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "É uma lanterna elétrica."
+    ],
+    "Files": {
+      "objects/mission/apexfightlantern/apexfightlantern.object": [
+        "/novakidDescription"
+      ],
+      "objects/mission/lunarbaselantern/lunarbaselantern.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's an electric lantern so it won't run out of juice.",
+      "Por": "É uma lanterna elétrica, então isso não vai funcionar sem bateria."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/apexfightlantern/apexfightlantern.object": [
+        "/floranDescription"
+      ],
+      "objects/mission/lunarbaselantern/lunarbaselantern.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shiny device for lighting Floran's path.",
+      "Por": "Dispositivo brilhante para iluminar o caminho de Floran."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/apexfightlantern/apexfightlantern.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/mission/lunarbaselantern/lunarbaselantern.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These lights are splendid."
+    }
+  }
+]

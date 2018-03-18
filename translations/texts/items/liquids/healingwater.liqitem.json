@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/liquids/healingwater.liqitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A measure of cool, clear, healing water. Drinking it will restore your body.",
+      "Por": "Uma medida de água fresca, limpa e curativa. Beber ela vai restaurar seu corpo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/liquids/healingwater.liqitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Healing Water",
+      "Por": "Healing Water"
+    }
+  }
+]

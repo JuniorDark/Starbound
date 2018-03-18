@@ -1,0 +1,77 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/opensign/opensign.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bright neon \"open\" sign.",
+      "Por": "Uma placa brilhante de néon que diz \"aberto\"."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/opensign/opensign.object": [
+        "/description",
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A neon \"open\" sign.",
+      "Por": "Uma placa de néon que diz \"aberto\"."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/opensign/opensign.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sign indicating whether or not this place is open.",
+      "Por": "Uma placa indicando se este lugar está ou não aberto."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/opensign/opensign.object": [
+        "/avianDescription",
+        "/glitchDescription/glitchEmotedText",
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An \"open\" sign.",
+      "Por": "Uma placa que diz \"aberto\"."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/opensign/opensign.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neon Open Sign",
+      "Por": "Neon Open Sign"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/opensign/opensign.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thiss place is open?",
+      "Por": "Este lugar está aberto?"
+    }
+  }
+]

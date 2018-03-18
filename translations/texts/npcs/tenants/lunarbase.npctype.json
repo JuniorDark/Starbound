@@ -1,0 +1,50 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/lunarbase.npctype": [
+        "/scriptConfig/dialog/converse/human/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I may not be a great fighter in close combat, but my mining days have given me a keen eye.",
+      "Por": "Posso não ser um grande lutador no combate próximo, mas meus dias de mineração me deram um olhar aguçado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/lunarbase.npctype": [
+        "/scriptConfig/dialog/converse/human/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I used to be stationed in a lunar mining facility. I'm glad I'm retired now, though.",
+      "Por": "Eu costumava estar estacionado em uma unidade de mineração lunar. Estou feliz que eu sou aposentado agora, embora."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/lunarbase.npctype": [
+        "/scriptConfig/dialog/converse/human/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm so sick of the smell of liquid Erchius. It is like... Syrup.",
+      "Por": "Estou tão enjoado do cheiro de Erchius líquido. É como... Xarope."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/lunarbase.npctype": [
+        "/scriptConfig/dialog/converse/human/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "We all had to be armed back in my mining facility days. In case of space pirates, mostly.",
+      "Por": "Todos nós tivemos que estar armados em meus dias na instalações de mineração. Em caso de piratas espaciais, principalmente."
+    }
+  }
+]

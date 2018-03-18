@@ -1,0 +1,88 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostterminal/outpostterminal.object": [
+        "/avianDescription",
+        "/glitchDescription/glitchEmotedText",
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A terminal.",
+      "Por": "Um terminal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostterminal/outpostterminal.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A terminal. Useful, probably.",
+      "Por": "Um terminal. Útil, provavelmente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostterminal/outpostterminal.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An interface terminal.",
+      "Por": "Um terminal de interface."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostterminal/outpostterminal.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Basic Terminal",
+      "Por": "Basic Terminal"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostterminal/outpostterminal.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Beeping terminal.",
+      "Por": "Terminal barulhento."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostterminal/outpostterminal.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Just a terminal, prob'ly connects to somethin'.",
+      "Por": "Apenas um terminal, provavelmente se conecta a algo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostterminal/outpostterminal.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some kind of terminal.",
+      "Por": "Algum tipo de terminal."
+    }
+  }
+]

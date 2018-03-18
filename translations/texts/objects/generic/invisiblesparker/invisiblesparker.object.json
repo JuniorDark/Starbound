@@ -1,0 +1,86 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/invisiblesparker/invisiblesparker.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'd best try to repair the damage as soon as possible.",
+      "Por": "Eu deveria tentar reparar o dano o mais rápido possível."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/invisiblesparker/invisiblesparker.object": [
+        "/description",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Invisible Sparker",
+      "Por": "Invisible Sparker"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/invisiblesparker/invisiblesparker.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Not good. These components are heavily damaged.",
+      "Por": "Não é bom. Esses componentes estão fortemente danificados."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/invisiblesparker/invisiblesparker.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Partssss are broken.",
+      "Por": "Peçasss estão quebradas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/invisiblesparker/invisiblesparker.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These components have been destroyed.",
+      "Por": "Esses componentes foram destruídos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/invisiblesparker/invisiblesparker.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This damage is not going to be easy to fix.",
+      "Por": "Este dano não será fácil de consertar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/invisiblesparker/invisiblesparker.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This has sustained heavy damage."
+    }
+  }
+]

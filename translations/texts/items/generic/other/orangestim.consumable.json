@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/other/orangestim.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A stimpack full of orange liquid, it will get you all fired up!",
+      "Por": "Uma injeção de estimulante cheia de líquido laranja, que vai te deixar todo animadinho."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/other/orangestim.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Orange Stim Pack",
+      "Por": "Orange Stim Pack"
+    }
+  }
+]

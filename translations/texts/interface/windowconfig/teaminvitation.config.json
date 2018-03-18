@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/teaminvitation.config": [
+        "/paneLayout/titleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "PARTY INVITATION",
+      "Por": "CONVITE DE GRUPO"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/teaminvitation.config": [
+        "/paneLayout/inviterName/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Red Leader",
+      "Por": "Lider Vermelho"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/teaminvitation.config": [
+        "/paneLayout/inviteLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Would you like to join their party?",
+      "Por": "Você gostaria de se juntar ao grupo?"
+    }
+  }
+]

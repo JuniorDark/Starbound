@@ -1,0 +1,97 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/trapchest/trapchest.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A chest created from wood and metal. It looks slightly weathered.",
+      "Por": "Um baú criado a partir de madeira e metal. Parece ligeiramente resistido."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/trapchest/trapchest.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A chest filled with treasure! Or is it...?",
+      "Por": "Um baú cheio de tesouro! Ou é...?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/trapchest/trapchest.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A classic treasure chest. Or is it...?",
+      "Por": "Um baú de tesouro clássico. Ou é...?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/trapchest/trapchest.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A treasure chest! It must be my lucky day! Or is it...?",
+      "Por": "Um baú de tesouro! Deve ser o meu dia de sorte! Ou é...?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/trapchest/trapchest.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A treasure chest! What could be inside...?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/trapchest/trapchest.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a treasure chest. But does it contain a treasure...?",
+      "Por": "É um baú de tesouro. Mas ele contém um tesouro...?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/trapchest/trapchest.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This chest is rigged with a sensor that sends a signal when its opened.",
+      "Por": "Este baú esta equipado com um sensor que envia um sinal quando é aberto."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/trapchest/trapchest.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trap Chest",
+      "Por": "Trap Chest"
+    }
+  }
+]

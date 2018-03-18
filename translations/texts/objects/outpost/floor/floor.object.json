@@ -1,0 +1,79 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Placa escrito Floor."
+    ],
+    "Files": {
+      "objects/outpost/floor/floor.object": [
+        "/avianDescription",
+        "/humanDescription",
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A floor sign.",
+      "Por": "Uma placa escrito Floor."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/floor/floor.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floor",
+      "Por": "Floor"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/floor/floor.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floor marker.",
+      "Por": "Uma placa escrito Floor."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/floor/floor.object": [
+        "/apexDescription",
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floor sign.",
+      "Por": "Placa escrito Floor."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/floor/floor.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floor sssign.",
+      "Por": "Placa escrito Floor."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/floor/floor.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a floor sign! Whoopie!",
+      "Por": "É um placa de floor! Whoopie!"
+    }
+  }
+]

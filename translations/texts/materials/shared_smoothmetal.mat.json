@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/smoothmetal.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/smoothmetal.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Metal polished as smooth as a Glitch chassis."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/smoothmetal.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/smoothmetal.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Smooth Metal",
+      "Por": "Smooth Metal"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/smoothmetal.matitem": [
+        "/description"
+      ],
+      "tiles/materials/smoothmetal.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Smooth metal, cold to the touch.",
+      "Por": "Metal liso, frio ao toque."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/smoothmetal.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/smoothmetal.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sssmooth metal.",
+      "Por": "Metal lissso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/smoothmetal.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/smoothmetal.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These metal panels feel mighty smooth.",
+      "Por": "Estes painéis de metal são muito lisos."
+    }
+  }
+]

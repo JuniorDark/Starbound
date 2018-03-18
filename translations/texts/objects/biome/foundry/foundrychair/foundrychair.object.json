@@ -1,0 +1,109 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/foundry/foundrychair/foundrychair.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A delightful chair."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/foundry/foundrychair/foundrychair.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A heavy metallic chair.",
+      "Por": "Uma cadeira metálica pesada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/foundry/foundrychair/foundrychair.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An industrial looking chair.",
+      "Por": "Uma cadeira de aparência industrial."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/foundry/foundrychair/foundrychair.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Heavy Chair",
+      "Por": "Heavy Chair"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/foundry/foundrychair/foundrychair.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "How about that! A chair that looks like machinery!",
+      "Por": "Que tal isso! Uma cadeira que se parece com máquinas!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/foundry/foundrychair/foundrychair.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Machinery chair.",
+      "Por": "Cadeira maquinaria."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/foundry/foundrychair/foundrychair.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This chair looks like part of a foundry machine.",
+      "Por": "Esta cadeira parece parte de uma máquina de fundição."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/foundry/foundrychair/foundrychair.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This chair looks like reclaimed machinery.",
+      "Por": "Esta cadeira parece máquinas recuperadas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/foundry/foundrychair/foundrychair.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This looks like it could be cold to sit on without a cushion.",
+      "Por": "Isto parece que poderia ser frio para se sentar sem uma almofada."
+    }
+  }
+]

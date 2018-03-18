@@ -1,0 +1,89 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/apexresearchlab.npctype": [
+        "/scriptConfig/dialog/converse/apex/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't believe the rebel lies - The Miniknog are here to help the universe.",
+      "Por": "Não acredite no que os rebeldes dizem - A Miniknog está aqui para ajudar o universo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/apexresearchlab.npctype": [
+        "/scriptConfig/dialog/converse/apex/apex/0",
+        "/scriptConfig/dialog/converse/apex/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I am here doing ground research for the Miniknog. Don't worry, I'll be nice.",
+      "Por": "Eu estou aqui fazendo pesquisa de campo para a Miniknog. Não se preocupe, eu vou ser agradável."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/apexresearchlab.npctype": [
+        "/scriptConfig/dialog/converse/apex/apex/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "I hope you are a supporter of the Miniknog. We both know what happens to rebels...",
+      "Por": "Eu espero que você seja um ajudante da Miniknog. Nós dois sabemos o que acontece com os rebeldes..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/apexresearchlab.npctype": [
+        "/scriptConfig/dialog/converse/apex/apex/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I hope you aren not a defector. Either you are with the Miniknog, or against us.",
+      "Por": "Espero que não seja um desertor. Ou você está com a Miniknog, ou contra nós."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/apexresearchlab.npctype": [
+        "/scriptConfig/dialog/converse/apex/apex/3",
+        "/scriptConfig/dialog/converse/apex/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm here doing research on behalf of the Miniknog. Try not to interrupt me.",
+      "Por": "Eu estou aqui fazendo a pesquisa em nome da Miniknog. Tente não me interromper."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/apexresearchlab.npctype": [
+        "/scriptConfig/dialog/converse/apex/apex/2",
+        "/scriptConfig/dialog/converse/apex/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Miniknog have ordered me to do field research. I wish I wasn't stationed here...",
+      "Por": "A Miniknog me mandou fazer pesquisa de campo. Eu gostaria de não estar posicionado aqui..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/apexresearchlab.npctype": [
+        "/scriptConfig/dialog/converse/apex/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Miniknog stationed me out here for field research. It wasn't my idea, trust me.",
+      "Por": "A Miniknog posicionou-me aqui para pesquisa de campo. Não foi minha ideia, acredite em mim."
+    }
+  }
+]

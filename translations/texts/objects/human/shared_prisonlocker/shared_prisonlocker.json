@@ -1,0 +1,121 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisonlocker1/prisonlocker1.object": [
+        "/description"
+      ],
+      "objects/human/prisonlocker2/prisonlocker2.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A good place to stash contraband.",
+      "Por": "Um bom lugar para esconder o contrabando."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisonlocker1/prisonlocker1.object": [
+        "/novakidDescription"
+      ],
+      "objects/human/prisonlocker2/prisonlocker2.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A locker for criminals.",
+      "Por": "Um armário para criminosos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisonlocker1/prisonlocker1.object": [
+        "/apexDescription"
+      ],
+      "objects/human/prisonlocker2/prisonlocker2.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A locker. I wonder what's inside.",
+      "Por": "Um armário. Eu me pergunto o que está dentro."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisonlocker1/prisonlocker1.object": [
+        "/avianDescription"
+      ],
+      "objects/human/prisonlocker2/prisonlocker2.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A locker. Possibly filled with prisoner belongings.",
+      "Por": "Um armário. Possivelmente cheio de pertences de prisioneiros."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisonlocker1/prisonlocker1.object": [
+        "/humanDescription"
+      ],
+      "objects/human/prisonlocker2/prisonlocker2.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've always wanted to raid a prison locker, and now my dreams can come true!",
+      "Por": "Eu sempre quis roubar um armário de prisão, e agora meus sonhos podem se tornar realidade!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisonlocker1/prisonlocker1.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/human/prisonlocker2/prisonlocker2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Is it a crime to steal stolen goods?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisonlocker1/prisonlocker1.object": [
+        "/floranDescription"
+      ],
+      "objects/human/prisonlocker2/prisonlocker2.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssstealing from thieves and robbers! Floran doesn't even feel bad.",
+      "Por": "Roubando de ladrões e assaltantes! Floran nem se sente mal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisonlocker1/prisonlocker1.object": [
+        "/hylotlDescription"
+      ],
+      "objects/human/prisonlocker2/prisonlocker2.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The prisoners are long-gone. It's fair to take what's inside.",
+      "Por": "Os prisioneiros já se foram há muito tempo. É justo levar o que está por dentro."
+    }
+  }
+]

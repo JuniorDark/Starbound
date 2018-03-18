@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/ironbar.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Iron Bar",
+      "Por": "Iron Bar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/ironbar.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ore for iron bars is primarily found on planets orbiting gentle stars.",
+      "Por": "Ferro é encontrado principalmente em planetas que orbitam estrelas suaves."
+    }
+  }
+]

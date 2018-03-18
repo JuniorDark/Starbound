@@ -1,0 +1,2169 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/crew/ranks/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "3rd Rear Lieutenant <role>",
+      "Por": "<role> 3 Vice-Tenente"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/crew/ranks/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "3rd Technical Assistant <field> Officer",
+      "Por": "3 Assistente Técnico de <field>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/crew/ranks/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "64th Commodore <role>",
+      "Por": "<role> de 64 Comodoro"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/crew/ranks/41"
+      ]
+    },
+    "Texts": {
+      "Eng": "<field> Forum Moderator",
+      "Por": "<field> Estagiário"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/crew/ranks/25"
+      ]
+    },
+    "Texts": {
+      "Eng": "<field> Innovation Manager",
+      "Por": "<field> Gerente de Inovação"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/crew/ranks/40"
+      ]
+    },
+    "Texts": {
+      "Eng": "<field> Student",
+      "Por": "<field> Estudante"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A life among the stars is the one for me. Please, can I join your crew?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/penguin/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alright, boss, I'll wait here.",
+      "Por": "Tudo bem, chefe, eu vou esperar aqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alright, partner, I'll jus' be right here.",
+      "Por": "Tudo bem, parceiro, eu vou estar bem aqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/crew/ranks/35"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alternative <field> Advisory Representative",
+      "Por": "<field> Representante Consultivo Alternativo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/penguin/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Anyone else feel like there's been some cosmic turbulence lately?",
+      "Por": "Mais ninguém se sentir como se tivesse havido alguma turbulência cósmica ultimamente?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/default/default/4",
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/3/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are we going somewhere?",
+      "Por": "Será que estamos indo para algum lugar?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/floran/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are we going ssomewhere?",
+      "Por": "Será que estamos indo para algum lugar?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/crew/ranks/45"
+      ]
+    },
+    "Texts": {
+      "Eng": "Armchair <field> Expert",
+      "Por": "<field> Especialista em Poltrona"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/crew/ranks/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Assistant Deputy <role> Guy/Gal",
+      "Por": "<role> Assistente Adjunto"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/crew/ranks/16"
+      ]
+    },
+    "Texts": {
+      "Eng": "Backup <role>",
+      "Por": "<role> Reserva"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can I join you in the stars? I have skills that could help you!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/penguin/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can't believe I died when I was right in the middle of something.",
+      "Por": "Não acredito que morri quando eu estava bem no meio de alguma coisa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Captain wantss Floran to follow?",
+      "Por": "Capitão quer que Floran siga?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Captain!",
+      "Por": "Capitão!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/hylotl/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Combat is an art, and I am an artist! I'll be here if you need me.",
+      "Por": "O combate é uma arte, e eu sou um artista! Estarei aqui se precisar de mim."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/novakid/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Comin' back to bein' gives me the shakes...",
+      "Por": "Voltar me da tremedeiras..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/crew/ranks/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "Command Master Chief Petty <field> Officer",
+      "Por": "<field> Mestre de Comando"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/crew/ranks/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dependant <field> Auditor",
+      "Por": "Auditor Dependente de <field>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Do you need me to stay here?",
+      "Por": "Você precisa que eu fique aqui?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/penguin/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't get too far off!",
+      "Por": "Não vá muito longe!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't go too far!",
+      "Por": "Não vá muito longe!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/novakid/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't worry about me, I'll hold up here until you have need of me again, partner.",
+      "Por": "Não se preocupe comigo, eu vou ficar aqui até que você precisa de mim novamente, parceiro."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/crew/ranks/13"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dreadnought <field> Officer",
+      "Por": "Oficial Dreadnought de <field>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/crew/ranks/37"
+      ]
+    },
+    "Texts": {
+      "Eng": "Emergency <field> Officer",
+      "Por": "Oficial de <field> de Emergência"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/crew/ranks/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "Executive Coffee-Making <role>",
+      "Por": "<role> Executivo Fazedor de Café"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/crew/ranks/24"
+      ]
+    },
+    "Texts": {
+      "Eng": "Expert in <field> Diplomacy",
+      "Por": "<field> Especialista em Diplomacia"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/crew/ranks/38"
+      ]
+    },
+    "Texts": {
+      "Eng": "First Mate's Second-Cousin's Third <role>",
+      "Por": "<role> Mediano"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran feelsss funny.",
+      "Por": "Floran se sente engraçado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran here to help you fight if you need it!",
+      "Por": "Floran esta aqui para ajudá-lo a lutar se você precisar!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran interesssted in long term employment. Can you give Floran a job?",
+      "Por": "Floran esta interessado em um emprego a longo prazo. Você pode dar um emprego para Floran?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran is bessst hunter! Ask Floran if you need help some time.",
+      "Por": "Floran é o melhor caçador! Peça a Floran se precisar de ajuda alguma hora."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran iss left behind!",
+      "Por": "Floran é deixado para trás!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran not a fan of dying.",
+      "Por": "Floran não é um fã de morrer."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran not close enough to you!",
+      "Por": "Floran não esta perto o suficiente de você!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/floran/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran ready to go again!",
+      "Por": "Floran pronto para ir novamente!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran should sstay here?",
+      "Por": "Floran deve ficar aqui?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran too far away!",
+      "Por": "Floran muito longe!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran wantss to join ship crew!",
+      "Por": "Floran quer se juntar a tripulação da nave!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/floran/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran will fight better next time...",
+      "Por": "Floran vai lutar melhor da próxima vez..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran will sstay here.",
+      "Por": "Floran vai ficar aqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran will sstay, then...",
+      "Por": "Floran vai ficar, então..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran will stay here until you need Floran to ssstab or shoot something.",
+      "Por": "Floran vai ficar aqui até que você precise que Floran esfaqueie ou atire em alguma coisa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/crew/ranks/22"
+      ]
+    },
+    "Texts": {
+      "Eng": "Head of <field> Relations",
+      "Por": "<field> Chefe de Relações"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/crew/ranks/20"
+      ]
+    },
+    "Texts": {
+      "Eng": "Head of <field> operations",
+      "Por": "<field> Chefe de Operações"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/crew/ranks/15"
+      ]
+    },
+    "Texts": {
+      "Eng": "Head of Petty <field> Arguments",
+      "Por": "<field> Chefe Mesquinho de Argumentos"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/default/default/0",
+        "/scriptConfig/dialog/crewmember/respawned/penguin/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Heh... Dying tickles.",
+      "Por": "Heh... Morrendo de cócegas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/novakid/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hey partner, you lookin' for an ol' starry wanderer to ride with you?",
+      "Por": "Ei parceiro, você está procurando um velho andarilho estrelado para andar com você?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/penguin/default/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hey, I'm <selfname>, nice to meet ya!",
+      "Por": "Ei, eu sou <selfname>, prazer em conhecê-lo!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/penguin/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hey, biggun! Let me catch up!",
+      "Por": "Ei, grandalhão! Deixe-me acompanha-lo!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hey, wait up!",
+      "Por": "Ei, espere!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/crew/ranks/33"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hobbyist <role>",
+      "Por": "<role> Amador"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/hylotl/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I believe I could aid you in your travels. Perhaps I could become a crew member on your ship?",
+      "Por": "Eu acredito que eu poderia ajudá-lo em suas viagens. Talvez eu poderia me tornar um membro da tripulação na sua nave?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can always lend you my sword and skill in battle, should you need it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/novakid/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can hold up here, if you'd like.",
+      "Por": "Eu posso esperar aqui, se você gostaria."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/3/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can stay here if you prefer, captain."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can wait here, captain."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/penguin/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can wait here.",
+      "Por": "Posso esperar aqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/default/default/0",
+        "/scriptConfig/dialog/crewmember/cantreach/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can't reach you!",
+      "Por": "Eu não te alcanço!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/penguin/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I climbed an Apex once. Nice view.",
+      "Por": "Escalei um Apex uma vez. Bela Vista."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/default/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "I don't think I respawned properly...",
+      "Por": "Eu não acho que eu renasci adequadamente..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/apex/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have skills that may help you on your ventures. Would you like to hire me?",
+      "Por": "Eu tenho habilidades que podem ajudá-lo em seus empreendimentos. Gostaria de me contratar?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I hope I respawned properly. Do I look alright?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I may forget where I came from, but I know where I wanna go - with you, partner!",
+      "Por": "Eu posso ter esquecido de onde eu vim, mas eu sei onde eu quero ir - com você, parceiro!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I saw a bright light... No, wait, that was just me.",
+      "Por": "Eu vi uma luz brilhante... Não, espere, era só eu."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I shall follow, captain."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I will remain here for now, then."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/glitch/default/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I will remain here if you want me to, captain."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/apex/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I will remain on guard here until you need me, captain.",
+      "Por": "Vou permanecer em guarda aqui até que você precise de mim, capitão."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/apex/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I will stay posted here until you need backup.",
+      "Por": "Eu vou ficar aqui até que você precise de reforços."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll be here for you if you need someone to help you fight bad guys!",
+      "Por": "Eu vou estar aqui para você se você precisar de alguém para ajudá-lo a lutar contra os bandidos!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/avian/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll be here for you if you need someone to help you in battle.",
+      "Por": "Eu vou estar aqui por você, se você precisar de alguém para ajudá-lo em batalha."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll be here if you need a warrior to defend you!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/hylotl/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll be here if you need help to defend yourself",
+      "Por": "Estarei aqui se precisar de ajuda para se defender"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/penguin/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll be waiting here big guy, come get me when it's time to fight.",
+      "Por": "Eu vou estar esperando aqui  grandalhão, venha me pegar quando for a hora de lutar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/novakid/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll coop up here until when ya next need my services.",
+      "Por": "Vou ficar enfiado aqui até quando você voltar a precisar dos meus serviços."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll hold up here for now. Come say howdy when you need me again, partner.",
+      "Por": "Eu vou ficar aqui por enquanto. Venha dizer oi quando você precisar de mim de novo, parceiro."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/novakid/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll jus' stay here for a moment.",
+      "Por": "Eu só vou ficar aqui por um momento."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/penguin/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll just be here... Waiting...",
+      "Por": "Eu vou estar aqui... Esperando..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/penguin/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll just wait here, rest my flippers.",
+      "Por": "Vou esperar aqui, descansar minhas barbatanas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll stay here for now, captain.",
+      "Por": "Vou ficar aqui por agora, capitão."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/default/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll stay here for now, then.",
+      "Por": "Vou ficar aqui por agora, então."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/avian/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll stay here so you know where I'll be if you need protection!",
+      "Por": "Vou ficar aqui então você saberá onde estarei se você precisar de proteção!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/default/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll stay here.",
+      "Por": "Eu vou ficar aqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll stay here. Come back when you need me, captain!",
+      "Por": "Eu vou ficar aqui. Volte quando precisar de mim, capitão!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/penguin/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll wait here until you need me to fight something for you.",
+      "Por": "Vou esperar aqui até que você precise de mim para lutar contra algo para você."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm <selfname>, and I really want to join a ship. Do you want to employ me?",
+      "Por": "Eu sou <selfname>, e eu realmente quero participar de uma nave. Você quer me contratar?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm a very useful person! Can I join you?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/default/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm alive again! That's good.",
+      "Por": "Estou vivo novamente! Isso é bom."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm back and in one piece!",
+      "Por": "Estou de volta e inteiro!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm back!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm back! And alive!",
+      "Por": "Estou de volta! E vivo!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/penguin/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm coming.",
+      "Por": "Estou chegando."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/default/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm looking for a place among a crew. Can I join yours?",
+      "Por": "Estou à procura de um lugar entre uma tripulação. Posso me juntar a sua?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm looking for a ship's crew to join. Are you interested?",
+      "Por": "Estou à procura de uma tripulação para participar. Você está interessado?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/apex/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm looking to escape to a new life. Are you hiring?",
+      "Por": "Estou querendo escapar para uma vida nova. Você está contratando?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/penguin/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've got an itchy trigger flipper.",
+      "Por": "Eu tenho uma barbatana no gatilho."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/apex/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "If I join your crew, can you protect me from Big Ape?",
+      "Por": "Se eu entrar na sua tripulação, você pode me proteger do Big Ape?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/novakid/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "If yer someone to join your mighty fine star crew, then I'm your huckleberry!",
+      "Por": "Se você quiser alguém para se juntar a sua tripulação, então eu serei seu Alfaiate!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/avian/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you need a hand in battle, you know where to find me!",
+      "Por": "Se você precisar de uma mão no campo de batalha, você sabe onde me encontrar!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you need assistance on your travels, I will be here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you need me in battle, I'll be here!",
+      "Por": "Se precisar de mim em batalha eu estarei aqui!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/apex/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you need me in battle, you know where I am.",
+      "Por": "Se precisar de mim em batalha você sabe onde estou."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/apex/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you need military support, I will be here.",
+      "Por": "Se você precisar de apoio militar, eu estarei aqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you need protection, you know where to find me!",
+      "Por": "Se você precisar de proteção, você sabe onde me encontrar!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/3/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you need someone to help you fight, I shall be here waiting!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/hylotl/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you need support in the art of battle, you can find me here.",
+      "Por": "Se você precisar de apoio na arte da batalha, você pode me encontrar aqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/crew/ranks/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "Independent <field> Auditor",
+      "Por": "Auditor Independente de <field>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/crew/ranks/31"
+      ]
+    },
+    "Texts": {
+      "Eng": "Independent Head of <field> Operations",
+      "Por": "<field> Chefe Independente de Operações"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Is it time to move, captain?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/crew/ranks/32"
+      ]
+    },
+    "Texts": {
+      "Eng": "Just your average <role>",
+      "Por": "<role> Mediano"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/crew/ranks/23"
+      ]
+    },
+    "Texts": {
+      "Eng": "Last-Minute <role>",
+      "Por": "<role> de Último minuto"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/penguin/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lawless, godless, flightless - that's me!",
+      "Por": "Sem lei, ateu, que não voa - isso sou eu!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/default/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Let me catch up!",
+      "Por": "Deixe-me pegar!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Let's get going!",
+      "Por": "Vamos indo!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/penguin/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Let's go then.",
+      "Por": "Vamos então."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Let's go, captain!",
+      "Por": "Vamos, capitão!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Let'ss go!",
+      "Por": "Vamoss!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/crew/ranks/26"
+      ]
+    },
+    "Texts": {
+      "Eng": "Loose Cannon <role>",
+      "Por": "<role> Canhão Solto"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/crew/ranks/44"
+      ]
+    },
+    "Texts": {
+      "Eng": "Low Quality <field> Negotiations",
+      "Por": "<field> de Negociações de Baixa Qualidade"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/crew/ranks/34"
+      ]
+    },
+    "Texts": {
+      "Eng": "Master of <field> Matters",
+      "Por": "<field> Mestre dos Assuntos"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/penguin/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "My feathers are all gummed up with gun oil.",
+      "Por": "Minhas penas estão todas grudentas com óleo de arma."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/default/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "My head hurts.",
+      "Por": "Minha cabeça dói."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/crew/ranks/43"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neutral Third Party <role>",
+      "Por": "<role> 2 Vice-Tenente"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/penguin/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "No self-respecting penguin would stay dead for long.",
+      "Por": "Sem auto-respeito pinguim gostaria ficar morto por muito tempo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "No time to dally - let's ride!",
+      "Por": "Sem tempo para paquerar - vamos montar!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/penguin/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Not all penguins are troublemakers! Who am I kidding, yes we are.",
+      "Por": "Nem todos os pinguins são encrenqueiros! Quem estou enganando, sim nós somos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/hylotl/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nothing sounds as inspiring as travelling through the stars. May I join your ship?",
+      "Por": "Nada soa tão inspirador como a viagem através das estrelas. Posso me juntar a sua nave?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/penguin/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Okay, I'm ready, waddle on.",
+      "Por": "Ok, eu estou pronto, andando."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/penguin/default/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "People think penguins are cute. People are wrong.",
+      "Por": "As pessoas pensam que os pinguins são bonitinhos. As pessoas estão erradas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/apex/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Perhaps the life aboard a ship is the one for me. Can I join you?",
+      "Por": "Talvez a vida a bordo de uma nave é a única para mim. Posso me juntar a você?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/hylotl/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Perhaps the life of a traveller is the one for me? May I enquire about joining your crew?",
+      "Por": "Talvez a vida de viajante é a única para mim? Posso perguntar sobre se juntar a sua tripulação?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/crew/ranks/28"
+      ]
+    },
+    "Texts": {
+      "Eng": "Private <field> Investigator",
+      "Por": "Investigador de <field> Privado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/crew/ranks/30"
+      ]
+    },
+    "Texts": {
+      "Eng": "Radical <field> Innovator",
+      "Por": "<field> Radical Inovador"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/crew/ranks/27"
+      ]
+    },
+    "Texts": {
+      "Eng": "Regional <field> Director",
+      "Por": "Diretor de <field> Regional"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/crew/ranks/19"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reliable <field> Lackey",
+      "Por": "<field> Confiável"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/crew/ranks/17"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reliable <field> Lacky",
+      "Por": "<field> Confiável"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/novakid/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Respawnin' sure does take the hurry from my heels.",
+      "Por": "Voltar me da tremedeiras..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/4/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Respawning is exhausting."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/penguin/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Respawning makes my head feel fuzzy. I like it.",
+      "Por": "Renascer faz minha cabeça se sentir confusa. Eu gosto disso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ressspawning tickles.",
+      "Por": "Renascer faz cócegas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/crew/ranks/42"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rogue <field> Profiteer",
+      "Por": "<field> Avaliador"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/crew/ranks/36"
+      ]
+    },
+    "Texts": {
+      "Eng": "Runner-Up <field> Officer",
+      "Por": "<field> Oficial de Segundo Lugar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/crew/ranks/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Second-to-Last <role>",
+      "Por": "<role> Secundário"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/glitch/default/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shall we go, captain?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/crew/ranks/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sitting <field> Officer",
+      "Por": "Oficial de <field>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/crew/ranks/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Standing <field> Officer",
+      "Por": "Oficial de <field> Permanente"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/avian/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tell me, are you looking for crew members? Because to sail among the stars would be wonderful...",
+      "Por": "Diga-me, você está procurando por tripulantes? Porque navegar entre as estrelas seria maravilhoso..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/crew/ranks/29"
+      ]
+    },
+    "Texts": {
+      "Eng": "Temporal <field> Surveyor",
+      "Por": "<field> Topógrafo Temporal"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/crew/ranks/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Temporary Relief <role>",
+      "Por": "<role> Substituto Temporário"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/crew/ranks/18"
+      ]
+    },
+    "Texts": {
+      "Eng": "Theoretical <field> Advisor",
+      "Por": "<field> Conselheiro Teórico"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/novakid/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Time to ride, partner?",
+      "Por": "Hora de montar, parceiro?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/novakid/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Time to up stakes and go!",
+      "Por": "Hora de partir!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/avian/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "To sail among the stars... Perhaps you are looking for some crew members?",
+      "Por": "Para navegar entre as estrelas... Talvez você esteja procurando por alguns tripulantes?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/crew/ranks/14"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trainee <field> Mastermind",
+      "Por": "<field> Estagiário Mestre"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/crew/ranks/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trainee Apprentice <role>",
+      "Por": "<role> Aprendiz Estagiário"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/crew/ranks/39"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unpaid <field> Intern",
+      "Por": "<field> Estagiário não Remunerado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/penguin/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Us penguins are unflappable.",
+      "Por": "Nós pinguins somos imperturbáveis."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/glitch/default/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wait for me!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/penguin/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wait up, big guy!",
+      "Por": "Espere ai, grandalhão"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/3/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Was I dead for a little while?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Was I dead?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/novakid/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Was I dead? Well I guess I ain't now!",
+      "Por": "Eu estava morto? Bem, eu acho que não estou agora!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "What just happened?",
+      "Por": "O que acabou de acontecer?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/default/default/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "What was I doing just before I died?",
+      "Por": "O que eu estava fazendo exatamente antes de eu morrer?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/penguin/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "When you need my protection come get me, boss.",
+      "Por": "Quando você precisar de minha proteção venha me pegar, chefe."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/crew/ranks/21"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wild Card <role>",
+      "Por": "<role> Amador"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/novakid/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Y'know, you an' I could get along mighty fine. Fancy hirin' me for your crew?",
+      "Por": "Você sabe, você e eu poderíamos nos dar muito bem. Gostaria me contratar para a sua tripulação?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/novakid/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Yee-haw, let's go!",
+      "Por": "Yee-haw, vamos lá!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Yes, captain!",
+      "Por": "Sim, capitão!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Yesss, Captain!",
+      "Por": "Sim, capitão!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/penguin/default/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Yesterday I laughed so hard I almost choked on my mackerel.",
+      "Por": "Ontem eu ri tanto que quase engasguei com minha cavala."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "You are JUST the kind of person I should work with! Fancy employing me?",
+      "Por": "Você é EXATAMENTE o tipo de pessoa com quem eu deveria trabalhar! Gostaria de contratar?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/avian/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "You have a ship? Perhaps you're looking for people to join a crew?",
+      "Por": "Você tem uma nave? Talvez você esteja procurando pessoas para entrar pra uma tripulação?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "You look ssstrong. Floran wants to join you!",
+      "Por": "Você parece forte. Floran quer se juntar a você!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/penguin/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "You're the boss!",
+      "Por": "Você é o chefe!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmember.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "You're too far!",
+      "Por": "Você esta muito longe!"
+    }
+  }
+]

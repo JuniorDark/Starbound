@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/shieldgenerator/shieldgenerator.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A basic switch. It can be used to activate the shield generator.",
+      "Por": "Um interruptor básico. Pode ser usado para ativar o gerador do escudos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/shieldgenerator/shieldgenerator.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A switch. It activates the shield generator.",
+      "Por": "Um interruptor. Ele ativa o gerador de escudos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/shieldgenerator/shieldgenerator.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can flip this here switch to toggle the shield generator.",
+      "Por": "Eu posso virar este interruptor aqui para ativar o gerador de escudos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/shieldgenerator/shieldgenerator.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "If I flip this switch it will turn the shield generator on and off.",
+      "Por": "Se eu virar este interruptor, ele ativará e desativará o gerador de escudos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/shieldgenerator/shieldgenerator.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "It sure doesn't look like this could generate a shield.",
+      "Por": "Com certeza não parece que isso pode gerar um escudo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/shieldgenerator/shieldgenerator.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This switch generates the shield.",
+      "Por": "Este interruptor gera o escudo."
+    }
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/glowmushroom/glowmushroom.grass": [
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A glowing mushroom.",
+      "Por": "Um cogumelo brilhante."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/glowmushroom/glowmushroom.grass": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A glowing mushroom. May be toxic.",
+      "Por": "Um cogumelo brilhante. Pode ser tóxico."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/glowmushroom/glowmushroom.grass": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pretty mushroom.",
+      "Por": "Cogumelo bonito."
+    }
+  }
+]

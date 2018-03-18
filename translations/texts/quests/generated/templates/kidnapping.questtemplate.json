@@ -1,0 +1,1070 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/14/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "<victim.pronoun.capitalSubject> and I are very grateful!",
+      "Por": "<victim.pronoun.capitalSubject> e eu estamos muito gratos!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/10/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "<victimNpcType.pronoun.subject> went missing",
+      "Por": "<victimNpcType.pronoun.subject> desapareceu"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/text/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran's <friendfloran> ^orange;<victimNpcType>^white; wasss meant to be here for <activityfloran> <earlier>, but Floran hasn't seen them! Floran heard that there are sssome ^orange;<enemy>^white; sssneaking around the ^orange;<spawnPoint>^white;<spawnPoint.direction> - Floran thinks they <involvedfloran>. ^green;Can you investigate for Floran^white;?",
+      "Por": "<friendfloran> de Floran ^orange;<victimNpcType>^white; era para estar aqui para <activityfloran> <earlier>, mas Floran não o viu! Floran ouvi dizer que existem alguns ^orange;<enemy>^white; se esssgueirando perto de ^orange;<spawnPoint>^white; <spawnPoint.direction> - Floran acha que eles <involvedfloran>. ^green;Você pode investigar para Floran^white;?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/title/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hostage situation",
+      "Por": "Situação de refém"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/7/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I don't doubt",
+      "Por": "não duvido"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/7/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have no doubt",
+      "Por": "eu não tenho dúvidas"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/7/1/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have suspicions",
+      "Por": "tenho suspeitas"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/10/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I suddenly couldn't find <victimNpcType.pronoun.object>",
+      "Por": "De repente eu não poderia encontrar <victimNpcType.pronoun.object>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/text/default/default/1",
+        "/scriptConfig/generatedText/text/default/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I was out <activity> with my <friend> ^orange;<victimNpcType>^white; <earlier>, when <separated>. I saw some ^orange;<enemy>^white; sneaking around and worry <victimNpcType> has been <kidnapped>! I last saw <victimNpcType.pronoun.object> near the ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Can you go and find <victimNpcType.pronoun.object>^white;?",
+      "Por": "Eu estava fora <activity> com meu <friend> ^orange;<victimNpcType>^white; <earlier>, quando <separated>. Vi alguns ^orange;<enemy>^white; se esgueirando na região e <victimNpcType> foi <kidnapped>! Vi <victimNpcType.pronoun.object> pela última vez perto de ^orange;<spawnPoint>^white; <spawnPoint.direction>. ^green;Você poderia ir e encontrar <victimNpcType.pronoun.object>^white;?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/failureText/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wasn't able to help reunite <questGiver> with their <friend>. I'm sure they'll find their way to each other without my help.",
+      "Por": "Eu não fui capaz de ajudar <questGiver> se reunir com seu <friend>. Tenho certeza de que eles vão se encontrar um com o outro sem a minha ajuda."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/failureText/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wasn't able to help reunite <questGiver> with their friend. I'm sure they'll find their way to each other without my help.",
+      "Por": "Eu não fui capaz de ajudar <questGiver> se reunir com seu amigo. Tenho certeza de que eles vão se encontrar um com o outro sem a minha ajuda."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/7/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm sure",
+      "Por": "tenho certeza"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/14/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm sure <victim.pronoun.copulative> relieved to have you around!",
+      "Por": "Tenho certeza que <victim.pronoun.copulative> esta aliviado por ter você por perto!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "My <friend> ^orange;<victimNpcType>^white; was meant to visit <earlier> so we could <activity1>, but <victimNpcType.pronoun.subject> hasn't <turned> up! <suspicion> the ^orange;<enemy>^white; I saw near the ^orange;<spawnPoint>^white;<spawnPoint.direction> <involved>. ^green;Can you please save <victimNpcType>^white;?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/text/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "My <friend> ^orange;<victimNpcType>^white; was meant to visit <earlier> so we could <activity1>, but they haven't <turned> up! <suspicion> the ^orange;<enemy>^white; I saw near the ^orange;<spawnPoint>^white;<spawnPoint.direction> <involved>. ^green;Can you please save <victimNpcType>^white;?",
+      "Por": "Meu <friend> ^orange;<victimNpcType>^white; deveria me visitar <earlier> para que pudéssemos <activity1>, mas ele não <turned>! <suspicion> que o ^orange;<enemy>^white; que eu vi perto de ^orange;<spawnPoint>^white; <spawnPoint.direction> <involved>. ^green;Você pode por favor salvar <victimNpcType>^white;?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/failureText/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Not to worry - I'm sure <questGiver>'s <friend> will respawn somewhere safer.",
+      "Por": "Não se preocupe - Tenho certeza que o <friend> de <questGiver> vai reaparecer em algum lugar mais seguro."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/title/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rescue mission",
+      "Por": "Missão de resgate"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/objectives/2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Return <victimNpcType> safely",
+      "Por": "Retorne com <victimNpcType> em segurança "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/title/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Saving <questGiver>'s <friend>",
+      "Por": "Salvando o <friend> de <questGiver>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/default/0",
+        "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thanks for rescuing <victimNpcType> from those <enemy>. <appreciation>",
+      "Por": "Obrigado por resgatar <victimNpcType> daqueles <enemy>. <appreciation>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You found <victimNpcType>? Floran appreciatesss the help!",
+      "Por": "Você encontrou <victimNpcType>? Floran agradece a ajuda!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "You found <victimNpcType>? Thank you! Though, Floran could have done it if Floran had weapons...",
+      "Por": "Você encontrou <victimNpcType>? Obrigado! Embora, Floran poderia ter feito isso se Floran tivesse armasss..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "You rescued <victimNpcType>? <appreciation>",
+      "Por": "Você resgatou <victimNpcType>? <appreciation>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "You were able to rescue <victimNpcType>? <appreciation>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/14/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "You're my hero! Take this as a token of my appreciation.",
+      "Por": "Você é meu herói! Leve isso como um sinal de minha gratidão."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/goalText/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Anxious. My <friend> has gone missing.",
+      "Por": "^cyan;Aflito. Meu <friend> desapareceu."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/goalText/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Floran's <friendfloran> has gone misssing.",
+      "Por": "^cyan;<friendfloran> de Floran desapareceu."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/goalText/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Floran's <friendfloran> hasss disappeared...",
+      "Por": "^cyan;<friendfloran> de Floran desssapareceu..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/goalText/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;I'm worried about my <friend> <victimNpcType>.",
+      "Por": "^cyan;Estou preocupado com meu <friend> <victimNpcType>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/goalText/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;My <friend> has gone missing.",
+      "Por": "^cyan;Meu <friend> desapareceu."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/goalText/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Upset. I'm worried about my <friend> <victimNpcType>.",
+      "Por": "^cyan;Chateado. Estou preocupado com meu <friend> <victimNpcType>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/11/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "accosted",
+      "Por": "abordado"
+    }
+  },
+  {
+    "Comment": "Preposição",
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/5/1/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "alpacas",
+      "Por": "alpacas"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/8/1/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "bird watching",
+      "Por": "observando pássaros"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/3/1/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "bond over our appreciation for <activity3>",
+      "Por": "vínculo sobre o nosso apreço por <activity3>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/4/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "book",
+      "Por": "livro"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/3/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "brainstorm ideas for a <activity2>",
+      "Por": "debater idéias para um <activity2>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/8/1/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "bug catching",
+      "Por": "capturando inseto"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/11/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "captured",
+      "Por": "capturado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/3/1/13"
+      ]
+    },
+    "Texts": {
+      "Eng": "catch up",
+      "Por": "por a conversa em dia"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/8/1/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "catching up",
+      "Por": "botando a conversa em dia"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/8/1/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "chatting",
+      "Por": "conversando"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/8/1/13"
+      ]
+    },
+    "Texts": {
+      "Eng": "climbing",
+      "Por": "escalar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/8/1/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "debating",
+      "Por": "debatendo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/3/1/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "discuss our dreams",
+      "Por": "discutir nossos sonhos"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/3/1/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "discuss out love for <activity3>",
+      "Por": "discutir o nosso amor por <activity3>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/8/1/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "exercising",
+      "Por": "exercitando"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/4/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "film",
+      "Por": "filme"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/8/1/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "foraging",
+      "Por": "forrageando"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/3/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "hang out",
+      "Por": "sair para curtir"
+    }
+  },
+  {
+    "Comment": "Preposição",
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/5/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "hats",
+      "Por": "chapéus"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/12/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "have something to do with it",
+      "Por": "tem algo a ver com isso"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/13/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "have sssomething to do with it",
+      "Por": "tem algo a ver com issso"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "hunting partner",
+      "Por": "parceiro de caça"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/11/1/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "hurt",
+      "Por": "ferido"
+    }
+  },
+  {
+    "Comment": "Preposição",
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/5/1/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "interpretive dance",
+      "Por": "dança interpretativa"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/11/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "kidnapped",
+      "Por": "seqüestrado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/3/1/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "learn to craft things together",
+      "Por": "aprender a fazer coisas juntos"
+    }
+  },
+  {
+    "Comment": "Preposição",
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/5/1/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "lemons",
+      "Por": "limões"
+    }
+  },
+  {
+    "Comment": "Preposição",
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/5/1/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "long walks",
+      "Por": "longas caminhadas"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/8/1/15"
+      ]
+    },
+    "Texts": {
+      "Eng": "looking for a place to swim",
+      "Por": "procurando um lugar para nadar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/4/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "meal",
+      "Por": "refeição"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "pode essstar envolvido"
+    ],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/12/1/1",
+        "/scriptConfig/generatedText/fluff/13/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "might be involved",
+      "Por": "pode estar envolvido"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/4/1/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "musical",
+      "Por": "musical"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/3/1/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "nerd out over our forbidden love of <activity3>",
+      "Por": "nerdar sobre o nosso amor proibido por <activity3>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/3/1/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "play cards",
+      "Por": "jogar cartas"
+    }
+  },
+  {
+    "Comment": "Preposição",
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/5/1/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "pop culture references",
+      "Por": "referências da cultura pop"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/3/1/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "practice our comedy routine",
+      "Por": "praticar nossa rotina de comédia"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/8/1/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "running",
+      "Por": "correndo"
+    }
+  },
+  {
+    "Comment": "Preposição",
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/5/1/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "shoes",
+      "Por": "sapatos"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/6/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "shown",
+      "Por": "apareceu"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/8/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "singing",
+      "Por": "cantando"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/9/1/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "some ssspear practice",
+      "Por": "praticar um pouco com lança"
+    }
+  },
+  {
+    "Comment": "Preposição",
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/5/1/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "space travel",
+      "Por": "viagem espacial"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "sssparring partner",
+      "Por": "parceiro de sssparring"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/3/1/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "stand around awkwardly together",
+      "Por": "ficar parado estranhamente juntos"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/3/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "swordfight",
+      "Por": "luta de espadas"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/3/1/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "talk about a <activity2> we like",
+      "Por": "falar de um <activity2> que nós gostamos"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/3/1/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "talk about our feelings",
+      "Por": "falar sobre nossos sentimentos"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/8/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "talking",
+      "Por": "conversando"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "training partner",
+      "Por": "parceiro de treino"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/8/1/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "treasure hunting",
+      "Por": "caçando tesouros"
+    }
+  },
+  {
+    "Comment": "Preposição",
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/5/1/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "trees that look like people",
+      "Por": "árvores que se parecem com pessoas"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/8/1/14"
+      ]
+    },
+    "Texts": {
+      "Eng": "trying to build a treehouse",
+      "Por": "tentando construir uma casa na árvore"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/6/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "turned",
+      "Por": "apareceu"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/parameters/victimNpcType/example/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "victim"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/10/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "we were separated",
+      "Por": "nos separados"
+    }
+  },
+  {
+    "Comment": "Preposição",
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/fluff/5/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "weird art",
+      "Por": "arte estranha"
+    }
+  }
+]

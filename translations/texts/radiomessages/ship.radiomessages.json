@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/ship.radiomessages": [
+        "/gainedCrewMember/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "You've found your first crew member! Talk to me on your ship to manage crew members and monitor their status.",
+      "Por": "Você encontrou o primeiro membro de sua tripulação! Fale comigo na sua nave para administrar os membros da tripulação e monitorar seus status."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/ship.radiomessages": [
+        "/activeCrewLimit/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "You've reached the limit of how many crew members you can bring with you. Drop some off on your ship to expand your crew further.",
+      "Por": "Você chegou ao limite de quantos tripulantes você consegue trazer com você. Deixe alguns na sua nave para expandir sua tripulação depois."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/ship.radiomessages": [
+        "/crewLimit/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Your ship can't support any more crew members. Either find a way to increase the size of your ship, or dismiss some staff through the terminal on your ship.",
+      "Por": "Sua nave não pode suportar mais nenhum tripulante. Encontre uma maneira de aumentar o tamanho da sua nave, ou demita alguns membros pelo terminal na sua nave."
+    }
+  }
+]

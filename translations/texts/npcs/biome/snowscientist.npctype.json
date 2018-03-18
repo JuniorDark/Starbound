@@ -1,0 +1,62 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/biome/snowscientist.npctype": [
+        "/scriptConfig/dialog/converse/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can barely feel my fingers in this cold climate. How can I take notes like this?",
+      "Por": "Eu mal posso sentir meus dedos neste clima frio. Como posso fazer anotações como esta?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/biome/snowscientist.npctype": [
+        "/scriptConfig/dialog/converse/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wish my research didn't involve being sent to THIS planet...",
+      "Por": "Como gostaria que minha pesquisa não envolvesse ser enviado pare ESTE planeta..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/biome/snowscientist.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's pretty cold here! My lab coat isn't very warm.",
+      "Por": "É muito frio aqui! Meu casaco de laboratório não é muito quente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/biome/snowscientist.npctype": [
+        "/scriptConfig/dialog/converse/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "This place may be cold, but it sure is beautiful.",
+      "Por": "Este lugar pode ser frio, mas com certeza é bonito."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/biome/snowscientist.npctype": [
+        "/scriptConfig/dialog/converse/default/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "What brings you here? Are you conducting research too?",
+      "Por": "O que traz você aqui? Você está conduzindo uma pesquisa também?"
+    }
+  }
+]

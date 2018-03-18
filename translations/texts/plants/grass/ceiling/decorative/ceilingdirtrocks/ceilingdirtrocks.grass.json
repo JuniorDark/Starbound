@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ceiling/decorative/ceilingdirtrocks/ceilingdirtrocks.grass": [
+        "/description",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dirt rocks.",
+      "Por": "Rochas de areia."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ceiling/decorative/ceilingdirtrocks/ceilingdirtrocks.grass": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dirt rocksss!",
+      "Por": "Rochas de areia!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ceiling/decorative/ceilingdirtrocks/ceilingdirtrocks.grass": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rocks made of dirt."
+    }
+  }
+]

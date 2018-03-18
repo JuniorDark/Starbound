@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ceiling/decorative/ceilingfleshplant/ceilingfleshplant.grass": [
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ],
+      "plants/grass/ground/decorative/fleshplant/fleshplant.grass": [
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A globule of flesh.",
+      "Por": "Um glóbulo de carne."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Carne'sss"
+    ],
+    "Files": {
+      "plants/grass/ceiling/decorative/ceilingfleshplant/ceilingfleshplant.grass": [
+        "/floranDescription"
+      ],
+      "plants/grass/ground/decorative/fleshplant/fleshplant.grass": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flesssh!",
+      "Por": "Carne."
+    }
+  }
+]

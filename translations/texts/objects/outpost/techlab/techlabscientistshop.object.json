@@ -1,0 +1,50 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/techlab/techlabscientistshop.object": [
+        "/interactData/paneLayoutOverride/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": " ^#b9b5b2;Sells tech installation stations.",
+      "Por": "^#b9b5b2;Vende estações de instalação de tecnologia."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/techlab/techlabscientistshop.object": [
+        "/interactData/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Elliott's Supplies",
+      "Por": "Suprimentos de Elliott"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/techlab/techlabscientistshop.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tech Lab Shop",
+      "Por": "Tech Lab Shop"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/techlab/techlabscientistshop.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tech lab scientist shop.",
+      "Por": "Loja do cientista do laboratório de tecnologia."
+    }
+  }
+]

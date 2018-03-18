@@ -1,0 +1,61 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/ceilingfridge1/largecooler1.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A cooler. Hopefully it contains banana milkshake.",
+      "Por": "Um refrigerador. Espero que contenha milkshake de banana."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/ceilingfridge1/largecooler1.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A cooler. Ideally filled with drinks and snacks.",
+      "Por": "Um refrigerador. Idealmente preenchido com bebidas e lanches."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/ceilingfridge1/largecooler1.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A plain ol' cooler.",
+      "Por": "Um refrigerador simples."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/ceilingfridge1/largecooler1.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Large Cooler",
+      "Por": "Large Cooler"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/ceilingfridge1/largecooler1.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This cooler is operating at the optimal temperature."
+    }
+  }
+]

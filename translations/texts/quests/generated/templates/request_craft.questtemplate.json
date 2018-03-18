@@ -1,0 +1,282 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/request_craft.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "<target.pronoun.capitalSubject> really made this for me? I can really keep this? Wow!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/request_craft.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excellent, thiss <item> is perfect.",
+      "Por": "Excelente, este <item> é perfeito."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/request_craft.questtemplate": [
+        "/scriptConfig/generatedText/text/first/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "First, I need you to grab something for me. ^orange;<target>^white; knows how to make the best ^orange;<item>^white; in the star system, ^green;head over and ask for one.^white; We'll need it later.",
+      "Por": "Primeiro, eu preciso de você para pegar algo para mim. ^orange;<target>^white; sabe como fazer o melhor ^orange;<item>^white; no sistema estelar, ^green;vá e peça por um.^white; Nós vamos precisar dele mais tarde."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/request_craft.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran knew you could do it. With thisss <item> we are well prepared.",
+      "Por": "Floran sabia que você poderia fazer isso. Com este <item> nós estamos bem preparados."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/request_craft.questtemplate": [
+        "/scriptConfig/generatedText/text/first/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran knowsss that ^orange;<target> can make what we need. ^green;Go get one ^orange;<item> ^white;from <target.pronoun.object>.",
+      "Por": "Floran sabe que ^orange;<target> pode fazer o que precisamos. ^green;Vá buscar um ^orange;<item> ^white; <target.pronoun.object>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/request_craft.questtemplate": [
+        "/scriptConfig/generatedText/text/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran needs your help to retrieve something sspecial from ^orange;<target>. ^green;You should go and ask for one ^orange;<item>. ^white;<target.pronoun.capitalSubject>'ll make it for us.",
+      "Por": "Floran precisa de sua ajuda para recuperar algo especial de ^orange;<target>. ^green;Você deve ir e pedir um ^orange;<item>. ^white;<target.pronoun.capitalSubject> vai fazer isso para nós."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/request_craft.questtemplate": [
+        "/scriptConfig/generatedText/completionText/last/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Great, you got the <item>! Now we need to put it to use as part of my grand plan!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/request_craft.questtemplate": [
+        "/scriptConfig/generatedText/completionText/last/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've never seen anyone make any <item> as fine as <target> does. This is going to be perfect for what I've got planned.",
+      "Por": "Eu nunca vi ninguém fazer algum <item> tão bom quanto <target> faz. Isso vai ser perfeito para o que eu tenho planejado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/request_craft.questtemplate": [
+        "/scriptConfig/generatedText/text/first/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "My friend ^orange;<target>^white; said <target.pronoun.subject> would help make the ^orange;<item>^white; I need, but <target.pronoun.subject> has not shown up.  ^green;Would you go to <target.pronoun.object> and ask <target.pronoun.object> for it?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/request_craft.questtemplate": [
+        "/scriptConfig/generatedText/text/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Next, run over and have ^orange;<target>^white; assemble us a custom ^orange;<item>.^white; Just ^green;mention my name, <target> knows how I like them made.",
+      "Por": "Em seguida, vá e faça ^orange;<target>^white; crie para nos um ^orange;<item> personalizado.^white; Apenas ^green;mencione meu nome, <target> sabe como eu gosto deles feitos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/request_craft.questtemplate": [
+        "/scriptConfig/generatedText/completionText/last/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nice one, I knew <target> would come up trumps. That's one thing off the list...",
+      "Por": "Bom, eu sabia que <target> conseguiria. Isso é uma coisa fora da lista..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/request_craft.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "No one makes them like <target>! That's one more thing sorted. Thank you!",
+      "Por": "Ninguém faz eles como <target>! Isso é mais uma coisa ordenada. Obrigado!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/request_craft.questtemplate": [
+        "/scriptConfig/generatedText/text/default/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now, Floran needs to asssk you to ^green;get one ^orange;<item>. ^white;Floran is ssure ^orange;<target> ^green;can make one. ",
+      "Por": "Agora, Floran precisa pedir para você ^green;pegar um ^orange;<item>. ^white;Floran tem certeza que ^orange;<target> ^green;pode fazer um."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/request_craft.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Oh, the quality of this <item> is not what I had expected. I suppose it will have to do."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/request_craft.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thanks! <target> makes them just right, I couldn't just get any old <item> for what I've got in mind.",
+      "Por": "Obrigado! <target> fez ele exatamente como queria, eu não podia simplesmente usar qualquer <item> velho para o que eu tenho em mente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/request_craft.questtemplate": [
+        "/scriptConfig/generatedText/text/first/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "The first thing I'll need is one ^orange;<item>. <target>^white; is good at making them, so we'll ^green;ask <target.pronoun.object> to make one^white; specifically for us.",
+      "Por": "A primeira coisa que você precisa é de um ^orange;<item>. <target>^white; é bom em faze-los, por isso vamos ^green;pedir a <target.pronoun.object> para fazer um^white; especificamente para nós."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/request_craft.questtemplate": [
+        "/scriptConfig/generatedText/text/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "The next thing I need is one ^orange;<item>. <target>^white; can make just about anything, ^green;ask <target.pronoun.object> to put it together.",
+      "Por": "A próxima coisa que eu preciso é um ^orange;<item>. <target>^white; pode fazer praticamente qualquer coisa, ^green;peça a <target.pronoun.object> para fazer."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/request_craft.questtemplate": [
+        "/scriptConfig/generatedText/text/first/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "To start with there's sssomething Floran needs from <target>, <target.pronoun.subject> shouldn't mind. ^green;Go ask ^orange;<target> ^green;to craft Floran one ^orange;<item>.",
+      "Por": "Para começar há algo que Floran precisa de <target>, <target.pronoun.subject> não deve se importar. ^green;Vá perguntar a ^orange;<target> ^green;para criar pra Floran um ^orange;<item>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/request_craft.questtemplate": [
+        "/scriptConfig/generatedText/completionText/last/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Well done; <target> is generally friendly towards me, but not always so generous. Thank you for your help."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/request_craft.questtemplate": [
+        "/scriptConfig/generatedText/completionText/last/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Yes! Isn't <target> the best? This <item> will be so useful in the next ssstage of our plan.",
+      "Por": "Sim! <target> não é o melhor? Este <item> será tão útil na próxima fase do nosso plano."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/request_craft.questtemplate": [
+        "/scriptConfig/generatedText/completionText/last/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "You got the <item>! Thisss is a good day for!",
+      "Por": "Você conseguiu o <item>! Este é um bom dia!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/request_craft.questtemplate": [
+        "/scriptConfig/generatedText/text/first/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;I need you to pay a visit^white; to ^orange;<target>^white;. The ^orange;<item>^white; <target.pronoun.subject> promised to craft for me should be ready."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/request_craft.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;If you speak to ^orange;<target>^white; <target.pronoun.subject> should give you the ^orange;<item>^white; <target.pronoun.subject> is making for me."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/request_craft.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;<target>^white; knows how to make ^orange;<item>s^white; better than I do. ^green;Please ask <target.pronoun.object> to make one for me."
+    }
+  }
+]

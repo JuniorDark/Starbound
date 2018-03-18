@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/arm/mecharmguidedmissiles.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A heavy mech arm that launches a trio of remote-guided missiles.",
+      "Por": "Um braço de mecha pesado que lança um trio de mísseis guiados remotamente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/arm/mecharmguidedmissiles.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Guided Missile Mech Arm"
+    }
+  }
+]

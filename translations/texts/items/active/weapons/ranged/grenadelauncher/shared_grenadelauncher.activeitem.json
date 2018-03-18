@@ -1,0 +1,22 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Para quando suas granadas precisam de um pouco de distância."
+    ],
+    "Files": {
+      "items/active/weapons/ranged/grenadelauncher/commongrenadelauncher.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/grenadelauncher/raregrenadelauncher.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/grenadelauncher/uncommongrenadelauncher.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "For when your grenades need some distance.",
+      "Por": "Para quando suas granadas precisam de alguma distância."
+    }
+  }
+]

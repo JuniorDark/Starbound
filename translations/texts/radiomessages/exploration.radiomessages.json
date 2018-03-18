@@ -1,0 +1,86 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/exploration.radiomessages": [
+        "/ancientgateway/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ancient ruins such as this can be found throughout the galaxy. I'm detecting a spatial anomaly nearby... Perhaps some form of teleportation device?",
+      "Por": "Ruínas antigas como esta podem ser encontradas em toda galáxia. Estou detectando uma anomalia espacial próxima... Talvez algum tipo de aparelho de teletransporte?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/exploration.radiomessages": [
+        "/erchiussickness/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I am detecting entities attracted by the moon's erchius deposits. Their interest in you will grow as you collect more fuel. I would define these entities as 'intractably deadly'. I salute your fearlessness.",
+      "Por": "Estou detectando entidades atraídas pelos depósitos de erchius da lua. Seu interesse em você irá crescer conforme você coleta mais combustível. Eu definiria essas entidades como 'intratávelmente mortal'. Eu saúdo o seu destemor."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/exploration.radiomessages": [
+        "/biomeairless/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "It may be worth noting that this location has no atmosphere and that you are slowly suffocating. I suggest you leave, and return when you have crafted a breathing EPP.",
+      "Por": "Pode ser interessante notar que este corpo celeste não tem atmosfera e que você está lentamente sufocando. Eu sugiro que você saia, e volte quando tiver criado um breathing EPP."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/exploration.radiomessages": [
+        "/techconsole/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The console in this room is configured to alter the Tech abilities you have equipped. Interacting with it will allow you to install new Tech.",
+      "Por": "O console nesta sala esta configurado para alterar as Tecnologias das habilidades que você tem equipado. Interagindo com ele irá permitir que você instale uma nova Tecnologia."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/exploration.radiomessages": [
+        "/biomeradiation/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "WARNING! RADIATION LEVELS ON THIS PLANET ARE EXTREMELY HAZARDOUS!\nYou should not attempt further exploration without proper protective equipment!",
+      "Por": "AVISO! OS NÍVEIS DE RADIAÇÃO NESTE PLANETA SÃO EXTREMAMENTE PERIGOSOS!\nVocê não deve tentar fazer uma exploração profunda sem equipamentos adequados de proteção!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/exploration.radiomessages": [
+        "/biomeheat/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "WARNING! TEMPERATURE ON THIS PLANET IS DANGEROUSLY HIGH!\nYou should not attempt further exploration without proper protective equipment!",
+      "Por": "AVISO! A TEMPERATURA NESTE PLANETA É PERIGOSAMENTE ALTA!\nVocê não deve tentar fazer uma exploração profunda sem equipamentos adequados de proteção!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/exploration.radiomessages": [
+        "/biomecold/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "WARNING! TEMPERATURE ON THIS PLANET IS DANGEROUSLY LOW!\nYou should not attempt further exploration without proper protective equipment!",
+      "Por": "AVISO! A TEMPERATURA NESTE PLANETA É PERIGOSAMENTE BAIXA!\nVocê não deve tentar fazer uma exploração profunda sem equipamentos adequados de proteção!"
+    }
+  }
+]

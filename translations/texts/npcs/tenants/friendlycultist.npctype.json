@@ -1,0 +1,62 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/friendlycultist.npctype": [
+        "/scriptConfig/dialog/converse/human/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't worry about me. I'm perfectly trustworthy. Hee hee.",
+      "Por": "Não se preocupe comigo. Sou perfeitamente confiável. he he."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/friendlycultist.npctype": [
+        "/scriptConfig/dialog/converse/human/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fear not, I am perfectly harmless.",
+      "Por": "Não tenha medo, sou perfeitamente inofensivo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/friendlycultist.npctype": [
+        "/scriptConfig/dialog/converse/human/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "No need to be nervous around me. My goals are beyond your understanding.",
+      "Por": "Não precisa ficar nervoso perto de mim. Meus objetivos são além de sua compreensão."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/friendlycultist.npctype": [
+        "/scriptConfig/dialog/converse/human/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Protectorate are a cult in their own way.",
+      "Por": "O Protetorado é um culto à sua própria maneira."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/friendlycultist.npctype": [
+        "/scriptConfig/dialog/converse/human/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "The terrors that lurk in the night... If you can't beat them, why not join them?",
+      "Por": "Os terrores que se escondem no meio da noite... Se você não pode vencê-los, por que não se juntar a eles?"
+    }
+  }
+]

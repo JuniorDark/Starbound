@@ -1,0 +1,73 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/hylotlshiplocker/hylotlshiplocker.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A locker. Pretty easy to break into!",
+      "Por": "Um armário. Muito fácil de arrombar!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/hylotlshiplocker/hylotlshiplocker.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A secure locker. Only the most cunning of thieves could break in.",
+      "Por": "Um armário seguro. Somente os mais astutos dos ladrões podem arrombar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/hylotlshiplocker/hylotlshiplocker.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Even a Floran could break into this simple locker."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/hylotlshiplocker/hylotlshiplocker.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran ssstruggle to break into locker, but manage eventually.",
+      "Por": "Floran luta para arrombar o armário, mas consegue eventualmente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/hylotlshiplocker/hylotlshiplocker.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I don't know why the Hylotl have even bothered to lock this storage compartment. Anyone could easily break in.",
+      "Por": "Eu não sei por que os Hylotl sequer se preocuparam em trancar este compartimento de armazenamento. Qualquer um poderia facilmente arrombar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/hylotlshiplocker/hylotlshiplocker.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Hylotl haven't exactly designed this locker with security in mind.",
+      "Por": "Os Hylotl não projetou exatamente este armário com segurança em mente."
+    }
+  }
+]

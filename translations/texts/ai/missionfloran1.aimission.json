@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ai/missionfloran1.aimission": [
+        "/speciesText/default/selectSpeech/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Esther's research concludes that this is the probable location of the Floran Artifact.",
+      "Por": "A pesquisa de Esther concluiu que esta é a provável localização do Artefato Floran."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ai/missionfloran1.aimission": [
+        "/speciesText/default/repeatButtonText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Revisit The Ceremonial Hunting Caverns",
+      "Por": "Revisite As Cavernas Cerimoniais de Caça"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ai/missionfloran1.aimission": [
+        "/speciesText/default/buttonText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Ceremonial Hunting Caverns",
+      "Por": "As Cavernas Cerimoniais de Caça"
+    }
+  }
+]

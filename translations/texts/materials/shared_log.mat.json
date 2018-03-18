@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/log.matitem": [
+        "/description"
+      ],
+      "tiles/materials/log.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A wooden log. Good for building simple structures.",
+      "Por": "Um tronco de madeira. Bom para construir estruturas simples."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/log.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/log.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ain't uncommon to see logs laid like this in cabins.",
+      "Por": "Não é incomum ver troncos como este colocado em cabanas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/log.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/log.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran likess wooden log wallss.",
+      "Por": "Floran gossta de paredess de troncos de madeira."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/log.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/log.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These logs fit together closely and are effective for building."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/log.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/log.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wooden Log",
+      "Por": "Wooden Log"
+    }
+  }
+]

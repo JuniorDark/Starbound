@@ -1,0 +1,106 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/capsulebig/capsulebig.object": [
+        "/avianDescription"
+      ],
+      "objects/generic/capsulemed/capsulemed.object": [
+        "/avianDescription"
+      ],
+      "objects/generic/capsulesmall/capsulesmall.object": [
+        "/avianDescription"
+      ],
+      "objects/generic/capsulespace/capsulespace.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A capsule. Something is inside, I wonder what it is...",
+      "Por": "Uma cápsula. Algo está dentro, eu me pergunto o que é..."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Uma cápsula. Estas, muitas vezes contêm suprimentos."
+    ],
+    "Files": {
+      "objects/generic/capsulebig/capsulebig.object": [
+        "/apexDescription"
+      ],
+      "objects/generic/capsulemed/capsulemed.object": [
+        "/apexDescription"
+      ],
+      "objects/generic/capsulesmall/capsulesmall.object": [
+        "/apexDescription"
+      ],
+      "objects/generic/capsulespace/capsulespace.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A capsule. These often contain supplies.",
+      "Por": "Uma cápsula. Isso geralmente contém suprimentos."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Uma grande cápsula quebrável. Pergunto o que há dentro."
+    ],
+    "Files": {
+      "objects/generic/capsulebig/capsulebig.object": [
+        "/description"
+      ],
+      "objects/generic/capsulespace/capsulespace.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large breakable capsule. Wonder what's inside.",
+      "Por": "Uma grande cápsula quebrável. Queria saber o que está dentro."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/capsulebig/capsulebig.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/generic/capsulemed/capsulemed.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/generic/capsulesmall/capsulesmall.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/generic/capsulespace/capsulespace.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "It is difficult to resist the urge to break this capsule."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Esta cápsula deve ser perfeita para a prática de tiro ao alvo."
+    ],
+    "Files": {
+      "objects/generic/capsulebig/capsulebig.object": [
+        "/novakidDescription"
+      ],
+      "objects/generic/capsulemed/capsulemed.object": [
+        "/novakidDescription"
+      ],
+      "objects/generic/capsulesmall/capsulesmall.object": [
+        "/novakidDescription"
+      ],
+      "objects/generic/capsulespace/capsulespace.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This capsule'd be perfect for target practice.",
+      "Por": "Esta cápsula seria perfeita para praticar tiro ao alvo."
+    }
+  }
+]

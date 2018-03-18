@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/hoe.tillingtool": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This hoe lets you till soil. The tilled soil can then be used to grow all sorts of crops!",
+      "Por": "Esta enxada permite arar o solo. O solo arado pode então ser usado para plantar todos os tipos de colheitas!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/hoe.tillingtool": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Hoe^white;",
+      "Por": "^orange;Hoe^white;"
+    }
+  }
+]

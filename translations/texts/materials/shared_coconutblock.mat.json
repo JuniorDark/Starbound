@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/coconutblock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/coconutblock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bricks made from coconut and mortar.",
+      "Por": "Tijolos feitos de coco e argamassa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/coconutblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/coconutblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Coconut Block",
+      "Por": "Coconut Block"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/coconutblock.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/coconutblock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Coconutss are sstong brickss.",
+      "Por": "Cocoss são tijoloss fortess."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/coconutblock.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/coconutblock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'd reckon these coconut bricks are mighty strong.",
+      "Por": "Eu acho que esses tijolos de coco são fortíssimos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/coconutblock.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/coconutblock.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The primary component of these bricks are coconuts."
+    }
+  }
+]

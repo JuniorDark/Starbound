@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/paper.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a sheet of paper.",
+      "Por": "É uma folha de papel."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/paper.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Paper",
+      "Por": "Paper"
+    }
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/ursaminer1.questtemplate": [
+        "/scriptConfig/portraits/questComplete/title",
+        "/scriptConfig/portraits/questFailed/title",
+        "/scriptConfig/portraits/questStarted/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bernard"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/ursaminer1.questtemplate": [
+        "/scriptConfig/failConditions/0/failureText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Little Dipper already got his teddy from someone else!",
+      "Por": "Ursa Menor já obteve o seu ursinho de outra pessoa!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/ursaminer1.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Little Dipper is happy now! Thank you, now I can finish opening up the shop.",
+      "Por": "Ursa Menor está feliz agora! Obrigado, agora eu posso terminar a abertura da loja."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/ursaminer1.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "My Little Dipper lost his dear ^orange;teddy bear^white;. I just can't finish setting up shop with him like this - can you help me ^green;get a new teddy bear^white; for him, please?",
+      "Por": "Meu Ursa Menor perdeu seu amado ^orange;teddy bear^white;. Eu não posso terminar a criação da loja com ele assim - você pode me ajudar a ^green;conseguir um novo teddy bear^white; para ele, por favor?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/ursaminer1.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;The Lost Teddy",
+      "Por": "^green;O Ursinho Perdido"
+    }
+  }
+]

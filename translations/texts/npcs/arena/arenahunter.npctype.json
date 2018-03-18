@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/arena/arenahunter.npctype": [
+        "/scriptConfig/dialog/lostTarget/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can sstill smell you!",
+      "Por": "Eu ainda posso ssentir seu cheiro!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/arena/arenahunter.npctype": [
+        "/scriptConfig/dialog/cantReach/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Jusst out of reach!",
+      "Por": "Apenass fora de alcance!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/arena/arenahunter.npctype": [
+        "/scriptConfig/dialog/reattack/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "No esscape this time!",
+      "Por": "Sem esscapatória desta vez!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/arena/arenahunter.npctype": [
+        "/scriptConfig/dialog/attack/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Petss! Attack!",
+      "Por": "Petss! Ataque!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/arena/arenahunter.npctype": [
+        "/scriptConfig/dialog/outOfSight/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sstop hiding!",
+      "Por": "Pare de sse essconder!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/arena/arenahunter.npctype": [
+        "/scriptConfig/dialog/killedTarget/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You were eassy prey!",
+      "Por": "Você era uma presa fácil!"
+    }
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rustyrail.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/rails/rustyrail.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rusty Rail",
+      "Por": "Rusty Rail"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rustyrail.matitem": [
+        "/florandescription"
+      ],
+      "tiles/rails/rustyrail.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rusty metal rails.",
+      "Por": "Trilhoss de metal enferrujadoss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rustyrail.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/rails/rustyrail.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some rusty lookin' rails, gettin' the itch to ride 'em.",
+      "Por": "Alguns trilhos de enferrujados."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Estes trilhos são um pouco áspero, mas funcional."
+    ],
+    "Files": {
+      "items/materials/rustyrail.matitem": [
+        "/description"
+      ],
+      "tiles/rails/rustyrail.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "These rails are a bit rough, but functional.",
+      "Por": "Estes trilhos são um pouco ásperos, mas funcional."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rustyrail.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/rails/rustyrail.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These rails look worn and rusted."
+    }
+  }
+]

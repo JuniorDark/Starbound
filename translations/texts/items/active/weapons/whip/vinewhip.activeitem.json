@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/whip/vinewhip.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A whip made from a thorny vine. Get cracking!",
+      "Por": "Um chicote feito de uma vinha espinhosa. Faça estralar!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/whip/vinewhip.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vine Whip",
+      "Por": "Vine Whip"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/whip/vinewhip.activeitem": [
+        "/upgradeParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vine Whip ^yellow;^reset;",
+      "Por": "Vine Whip ^yellow;^reset;"
+    }
+  }
+]

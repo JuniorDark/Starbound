@@ -1,0 +1,92 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Um lugar altamente decente para sentar."
+    ],
+    "Files": {
+      "objects/themed/geometric/geometricchair/geometricchair.object": [
+        "/avianDescription"
+      ],
+      "objects/themed/serene/serenechair/serenechair.object": [
+        "/avianDescription"
+      ],
+      "objects/themed/wave/wavechair/wavechair.object": [
+        "/avianDescription"
+      ],
+      "objects/tiered/tier3chair/tier3chair.object": [
+        "/avianDescription"
+      ],
+      "objects/tiered/tier4chair/tier4chair.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A highly decent place to sit.",
+      "Por": "Um lugar altamente decente para se sentar."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Floran sssenta na cadeira e pensa sobre caça.",
+      "Floran sssenta-se na cadeira e pensa sobre caçar.",
+      "Floran sssentar-se na cadeira e pensa sobre caçar.",
+      "Floran sssente-se na cadeira e pensa sobre caça."
+    ],
+    "Files": {
+      "objects/themed/geometric/geometricchair/geometricchair.object": [
+        "/floranDescription"
+      ],
+      "objects/themed/opulent/opulentchair/opulentchair.object": [
+        "/floranDescription"
+      ],
+      "objects/themed/serene/serenechair/serenechair.object": [
+        "/floranDescription"
+      ],
+      "objects/themed/wave/wavechair/wavechair.object": [
+        "/floranDescription"
+      ],
+      "objects/tiered/tier1chair/tier1chair.object": [
+        "/floranDescription"
+      ],
+      "objects/tiered/tier2chair/tier2chair.object": [
+        "/floranDescription"
+      ],
+      "objects/tiered/tier3chair/tier3chair.object": [
+        "/floranDescription"
+      ],
+      "objects/tiered/tier4chair/tier4chair.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran sssit on chair and think about hunting.",
+      "Por": "Floran ssenta na cadeira e pensa sobre caça."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/doom/doomchair/doomchair.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/themed/geometric/geometricchair/geometricchair.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/themed/opulent/opulentchair/opulentchair.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/themed/serene/serenechair/serenechair.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/tiered/tier3chair/tier3chair.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/tiered/tier4chair/tier4chair.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This chair is exceptionally comfortable for the Glitch."
+    }
+  }
+]

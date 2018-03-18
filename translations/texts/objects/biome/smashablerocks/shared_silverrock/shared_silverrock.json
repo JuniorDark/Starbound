@@ -1,0 +1,106 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/smashablerocks/silverrock/silverrock.object": [
+        "/description"
+      ],
+      "objects/biome/smashablerocks/silverrocksmall/silverrocksmall.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A cracked rock full of silver.",
+      "Por": "Uma rocha rachada cheia de prata."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/smashablerocks/silverrock/silverrock.object": [
+        "/humanDescription"
+      ],
+      "objects/biome/smashablerocks/silverrocksmall/silverrocksmall.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A rock full of silver! Maybe I can break it.",
+      "Por": "Uma rocha cheia de prata! Talvez eu possa quebrá-la."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/smashablerocks/silverrock/silverrock.object": [
+        "/novakidDescription"
+      ],
+      "objects/biome/smashablerocks/silverrocksmall/silverrocksmall.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A rock rich with silver. I should break it.",
+      "Por": "Uma rocha rica em prata. Eu deveria quebrá-la."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/smashablerocks/silverrock/silverrock.object": [
+        "/hylotlDescription"
+      ],
+      "objects/biome/smashablerocks/silverrocksmall/silverrocksmall.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A swift blow to this rock would free the silver within.",
+      "Por": "Um golpe rápido nesta pedra liberaria a prata dentro."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/smashablerocks/silverrock/silverrock.object": [
+        "/avianDescription"
+      ],
+      "objects/biome/smashablerocks/silverrocksmall/silverrocksmall.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "If I break this rock I should be able to gather the silver ore within it.",
+      "Por": "Se eu quebrar esta rocha devo ser capaz de recolher o minério de prata dentro dela."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/smashablerocks/silverrock/silverrock.object": [
+        "/apexDescription"
+      ],
+      "objects/biome/smashablerocks/silverrocksmall/silverrocksmall.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "There appears to be silver within this fragile rock.",
+      "Por": "Parece haver prata dentro desta frágil rocha."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/smashablerocks/silverrock/silverrock.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/biome/smashablerocks/silverrocksmall/silverrocksmall.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This rock contains silver, and is covered in cracks."
+    }
+  }
+]

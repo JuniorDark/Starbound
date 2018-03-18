@@ -1,0 +1,36 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Uma planta de plástico falsa e nojenta."
+    ],
+    "Files": {
+      "objects/hylotl/hylotlplant1/hylotlplant1.object": [
+        "/hylotlDescription"
+      ],
+      "objects/outpost/plasticplant/plasticplant.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A disgusting fake plastic plant.",
+      "Por": "Uma planta de plastico falsa, repugnante."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Esta planta me faz lembrar de salas de espera."
+    ],
+    "Files": {
+      "objects/hylotl/hylotlplant1/hylotlplant1.object": [
+        "/humanDescription"
+      ],
+      "objects/outpost/plasticplant/plasticplant.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reminds me of waiting rooms.",
+      "Por": "Me lembra de salas de espera."
+    }
+  }
+]

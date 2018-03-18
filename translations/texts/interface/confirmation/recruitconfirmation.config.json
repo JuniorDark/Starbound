@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/recruitconfirmation.config": [
+        "/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "<name> would like to join your crew as a <role>. Invite <name> aboard?^gray;\n\n^white;Job:^gray; <role>\n^white;Rank:^gray; <rank>\n^white;Status:^gray; <status>",
+      "Por": "<name> gostaria de se juntar a sua tripulação como um <role>. Convidar <name> a bordo?^gray;\n\n^white;Trabalho:^gray; <role>\n^white;Rank:^gray; <rank>\n^white;Status:^gray; <status>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/recruitconfirmation.config": [
+        "/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Someone wants to join your adventures",
+      "Por": "Alguém quer se juntar a suas aventuras"
+    }
+  }
+]

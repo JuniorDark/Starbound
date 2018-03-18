@@ -1,0 +1,55 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/oasis/reeddoor/reeddoor.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A door made of wood and reed.",
+      "Por": "Uma porta feita de madeira e junco."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/oasis/reeddoor/reeddoor.object": [
+        "/apexDescription",
+        "/avianDescription",
+        "/glitchDescription/glitchEmotedText",
+        "/humanDescription",
+        "/hylotlDescription",
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A door made of wood and reeds.",
+      "Por": "Uma porta feita de madeira e juncos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/oasis/reeddoor/reeddoor.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reed Door",
+      "Por": "Reed Door"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/oasis/reeddoor/reeddoor.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reed door.",
+      "Por": "Porta de junco."
+    }
+  }
+]

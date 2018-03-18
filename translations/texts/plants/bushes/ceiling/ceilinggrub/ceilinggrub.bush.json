@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ceiling/ceilinggrub/ceilinggrub.bush": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "An unknown form of grub."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ceiling/ceilinggrub/ceilinggrub.bush": [
+        "/description",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some kind of vile grub.",
+      "Por": "Algum tipo de larva desprezível."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ceiling/ceilinggrub/ceilinggrub.bush": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wiggly worm.",
+      "Por": "Minhoca ondulada."
+    }
+  }
+]

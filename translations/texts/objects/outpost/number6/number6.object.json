@@ -1,0 +1,66 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/number6/number6.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A six.",
+      "Por": "Um seis."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/number6/number6.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Number sssix.",
+      "Por": "Numero ssseis."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/number6/number6.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Six",
+      "Por": "Six"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/number6/number6.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Six marker.",
+      "Por": "Numero seis."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/number6/number6.object": [
+        "/apexDescription",
+        "/avianDescription",
+        "/glitchDescription/glitchEmotedText",
+        "/humanDescription",
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Six.",
+      "Por": "Seis."
+    }
+  }
+]

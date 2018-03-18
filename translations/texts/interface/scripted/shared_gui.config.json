@@ -1,0 +1,28 @@
+[
+  {
+    "DeniedAlternatives": [
+      "0/ --"
+    ],
+    "Files": {
+      "interface/scripted/ancientconsole/ancientconsolegui.config": [
+        "/gui/costLabel/value"
+      ],
+      "interface/scripted/techupgrade/techupgradegui.config": [
+        "/gui/lblChipsCount/value"
+      ],
+      "interface/scripted/vaultconsole/vaultconsolegui.config": [
+        "/gui/costLabel/value"
+      ],
+      "interface/scripted/vehiclerepair/vehiclerepairgui.config": [
+        "/gui/chipCost/value"
+      ],
+      "interface/scripted/weaponupgrade/weaponupgradegui.config": [
+        "/gui/essenceCost/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "0 / --",
+      "Por": "0 / --"
+    }
+  }
+]

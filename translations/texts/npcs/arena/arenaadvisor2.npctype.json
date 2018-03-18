@@ -1,0 +1,50 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/arena/arenaadvisor2.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shots from Volo's rifle will severely slow your movement, make sure to avoid getting hit.",
+      "Por": "Tiros de rifle de Volo irá diminuir gravemente o seu movimento, certifique-se de evitar ser acertado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/arena/arenaadvisor2.npctype": [
+        "/scriptConfig/dialog/converse/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Volo will attempt to stay behind her pets to attack from a distance, use the arena to protect yourself from her shots.",
+      "Por": "Volo tentará ficar atrás de seus pets para atacar à distância, use a arena para se proteger de seus tiros."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/arena/arenaadvisor2.npctype": [
+        "/scriptConfig/dialog/converse/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Volo's pets are weak compared to her. I recommend removing them from the fight first.",
+      "Por": "Os pets de Volo são fracos em comparação à ela. Eu recomendo removê-los da luta primeiro."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/arena/arenaadvisor2.npctype": [
+        "/scriptConfig/dialog/converse/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "You can use ledges to lure Volo into closer range. That's the best time to strike!",
+      "Por": "Você pode usar as bordas para atrair Volo para mais perto. Essa é a melhor hora para atacar!"
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/protectorate/aegisaltbow/aegisaltbow.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aegisalt Bow",
+      "Por": "Aegisalt Bow"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/protectorate/aegisaltbow/aegisaltbow.activeitem": [
+        "/altAbility/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Chaos Arrow",
+      "Por": "Flecha de Caos"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/protectorate/aegisaltbow/aegisaltbow.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The traditional weapon for hunting Laser Deer.",
+      "Por": "A arma tradicional para caçar Laser Deer."
+    }
+  }
+]

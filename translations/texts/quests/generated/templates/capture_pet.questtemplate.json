@@ -1,0 +1,552 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/capture_pet.questtemplate": [
+        "/scriptConfig/objectives/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Capture a <monster>",
+      "Por": "Capture um <monster>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/capture_pet.questtemplate": [
+        "/scriptConfig/generatedText/text/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran caught a <tradedMonster> in a trap, but Floran really wanted a ^orange;<monster>^white; instead. If Floran had a <monster> Floran could <florandreams>. ^green;Could you catch Floran a <monster> with thisss ^orange;Capture Pod^white;?\nFloran saw some near the ^orange;<spawnPoint>^white;<spawnPoint.direction>.",
+      "Por": "Floran capturou um <tradedMonster> numa armadilha, mas Floran queria muito um ^orange;<monster>^white;. Se Floran tivesse um <monster>, Floran podia <florandreams>. ^green; Você poderia trazer pra Floran um <monster> com esse ^orange;Capture Pod^white;?\nFloran viu um perto de ^orange;<spawnPoint>^white; <spawnPoint.direction>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/capture_pet.questtemplate": [
+        "/scriptConfig/generatedText/fluff/8/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran hopesss you like thiss <tradedMonster>!",
+      "Por": "Floran essspera que você gossste dessse <tradedMonster>!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/capture_pet.questtemplate": [
+        "/scriptConfig/objectives/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Give the <monster> to <questGiver>",
+      "Por": "De o <monster> para <questGiver>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/capture_pet.questtemplate": [
+        "/scriptConfig/generatedText/fluff/7/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Here, you're now the proud owner of your own pet <tradedMonster>!",
+      "Por": "Aqui, agora você é o mais novo dono de um <tradedMonster> de estimação!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/capture_pet.questtemplate": [
+        "/scriptConfig/generatedText/fluff/7/1/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Here, you've earned this <tradedMonster>. Treat it well!",
+      "Por": "Aqui. Você merece esse <tradedMonster>. Cuide bem dele!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/capture_pet.questtemplate": [
+        "/scriptConfig/generatedText/fluff/4/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I heard there was a group of them near there",
+      "Por": "fiquei sabendo que tem um grupo deles lá perto"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/capture_pet.questtemplate": [
+        "/scriptConfig/generatedText/fluff/7/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I hope this <tradedMonster> serves you well!",
+      "Por": "Espero que esse <tradedMonster> te sirva bem!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/capture_pet.questtemplate": [
+        "/scriptConfig/generatedText/fluff/4/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I saw a few over that way",
+      "Por": "eu vi uns para aquele lado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/capture_pet.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I tried to capture myself a pet ^orange;<monster>^white; <earlier>, but missed and caught this <tradedMonster> instead. You <request> - ^green;can you take this ^orange;Capture Pod^green; and catch me a <monster>^white;? I'll give you my <tradedMonster> in return."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/capture_pet.questtemplate": [
+        "/scriptConfig/generatedText/text/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I tried to capture myself a pet ^orange;<monster>^white; <earlier>, but missed and caught this <tradedMonster> instead. You <request> - ^green;can you take this ^orange;Capture Pod^green; and catch me a <monster>^white;? I'll give you my <tradedMonster> in return.\nIf you're not sure where to start, <guide1> ^orange;<spawnPoint>^white;<spawnPoint.direction> - <guide2>.",
+      "Por": "Eu mesmo tentei capturar um ^orange;<monster>^white; de estimação <earlier>, mas errei e peguei este <tradedMonster> invés. Você <request> - ^green;você pode pegar este ^orange;Capture Pod^green; e capturar pra mim um <monster>^white;? Eu vou dar o meu <tradedMonster> em troca.\nSe você não tem certeza por onde começar, <guide1> ^orange;<spawnPoint>^white; <spawnPoint.direction> - <guide2>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/capture_pet.questtemplate": [
+        "/scriptConfig/generatedText/fluff/7/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm sure this <tradedMonster> will be happier with you!",
+      "Por": "Tenho certeza que esse <tradedMonster> será mais feliz com você!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/capture_pet.questtemplate": [
+        "/scriptConfig/generatedText/fluff/6/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Oh, you managed to find a <monster>?",
+      "Por": "Ah, você conseguiu encontrar um <monster>?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/capture_pet.questtemplate": [
+        "/scriptConfig/generatedText/title/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pet <monster>",
+      "Por": "<monster> de estimação"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/capture_pet.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Someone gave me a <tradedMonster>, but I <reason>. I'd be happier with a pet ^orange;<monster>^white;. ^green;Could you catch me one with this ^orange;Capture Pod^white;?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/capture_pet.questtemplate": [
+        "/scriptConfig/generatedText/text/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Someone gave me a <tradedMonster>, but I <reason>. I'd be happier with a pet ^orange;<monster>^white;. ^green;Could you catch me one with this ^orange;Capture Pod^white;?\nIf you're not sure where to start, <guide1> ^orange;<spawnPoint>^white;<spawnPoint.direction> - <guide2>.",
+      "Por": "Alguém me deu um <tradedMonster>, mas eu <reason>. Ficaria bem mais feliz com um ^orange;<monster>^white; de estimação. ^green;Você pode me capturar um com esse ^orange;Capture Pod^white;?\nSe você não souber onde procurar, <guide1>^orange;<spawnPoint>^white; <spawnPoint.direction> - <guide2>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/capture_pet.questtemplate": [
+        "/scriptConfig/generatedText/fluff/8/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thisss <tradedMonster> can be your new hunting partner!",
+      "Por": "Essse <tradedMonster> pode ssser seu novo parceiro de caça."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/capture_pet.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You brought Floran a <monster>? <floranappreciation>",
+      "Por": "Você trouxe um <monster> pra Floran? <floranappreciation>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/capture_pet.questtemplate": [
+        "/scriptConfig/generatedText/fluff/6/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You brought me a <monster>?! Thank you!",
+      "Por": "Você me trouxe um <monster>!? Obrigado!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/capture_pet.questtemplate": [
+        "/scriptConfig/generatedText/fluff/6/1/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "You brought me my very own <monster>?! Thanks!",
+      "Por": "Você me trouxe meu próprio <monster>?! Valeu!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/capture_pet.questtemplate": [
+        "/scriptConfig/generatedText/fluff/6/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "You managed to catch me a <monster>? Wonderful!",
+      "Por": "Você conseguiu trazer um <monster>? Maravilhoso!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/capture_pet.questtemplate": [
+        "/scriptConfig/generatedText/goalText/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Discontent. I want a <monster> to call my own.",
+      "Por": "^cyan;Descontente. Eu quero um <monster> para chamar de meu."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/capture_pet.questtemplate": [
+        "/scriptConfig/generatedText/goalText/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Floran wants a <monster>, and needss help getting one.",
+      "Por": "^cyan;Floran quer um <monster>, e precisa de ajuda para obter um."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/capture_pet.questtemplate": [
+        "/scriptConfig/generatedText/goalText/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;I want a <monster> to keep me company.",
+      "Por": "^cyan;Eu quero um <monster> para me fazer companhia."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/capture_pet.questtemplate": [
+        "/scriptConfig/generatedText/goalText/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;If I had my own <monster>, I'd be so happy!",
+      "Por": "^cyan;Se eu tivesse meu próprio <monster>, eu ficaria tão feliz!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/capture_pet.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/1/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "am honestly pretty weirded out by it",
+      "Por": "estou honestamente bem incomodado com ele"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/capture_pet.questtemplate": [
+        "/scriptConfig/generatedText/fluff/2/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "are probably better at this than me",
+      "Por": "provavelmente é melhor nisso que eu"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/capture_pet.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "don't know what to feed it",
+      "Por": "não sei o que dar de comer pra ele"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/capture_pet.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/1/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "don't like the creepy looks it keeps giving me",
+      "Por": "não gosto dos olhares assustadores que ele dá pra mim"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/capture_pet.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/1/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "don't think it suits me very much",
+      "Por": "não serve para mim"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/capture_pet.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/1/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "don't think it's the pet for me",
+      "Por": "não acho que seja o animal de estimação certo para mim"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/capture_pet.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "find it kind of gross",
+      "Por": "acho um pouco nojento"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/capture_pet.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/1/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "have a mortal fear of them",
+      "Por": "tenho um medo mortal deles"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/capture_pet.questtemplate": [
+        "/scriptConfig/generatedText/fluff/5/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "have a new beassst friend",
+      "Por": "ter um novo melhor amigo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/capture_pet.questtemplate": [
+        "/scriptConfig/generatedText/fluff/5/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "hunt alongssside it",
+      "Por": "caçar ao lado dele"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/capture_pet.questtemplate": [
+        "/scriptConfig/generatedText/fluff/2/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "look like you have better aim than me",
+      "Por": "parece que você tem uma mira melhor que eu"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/capture_pet.questtemplate": [
+        "/scriptConfig/generatedText/fluff/2/1/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "look like you have the skills I need",
+      "Por": "parece que você tem as habilidades que eu preciso"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/capture_pet.questtemplate": [
+        "/scriptConfig/generatedText/fluff/2/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "might be able to help me catch one",
+      "Por": "pode me ajudar a capturar um"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/capture_pet.questtemplate": [
+        "/scriptConfig/generatedText/fluff/2/1/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "might be skilled enough to help",
+      "Por": "pode ser hábil o bastante para ajudar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/capture_pet.questtemplate": [
+        "/scriptConfig/generatedText/fluff/4/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "someone told me there were some around there",
+      "Por": "alguém me disse que tem alguns por lá"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/capture_pet.questtemplate": [
+        "/scriptConfig/generatedText/fluff/5/1/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "teach it to hunt",
+      "Por": "ensina-lo a caçar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/capture_pet.questtemplate": [
+        "/scriptConfig/generatedText/fluff/5/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "teach it tricksss",
+      "Por": "ensinar truquesss"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/capture_pet.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "think it smells weird",
+      "Por": "acho que cheira estranho"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/capture_pet.questtemplate": [
+        "/scriptConfig/generatedText/fluff/3/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "why not look around the",
+      "Por": "por que não olhar perto de"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/capture_pet.questtemplate": [
+        "/scriptConfig/generatedText/fluff/3/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "you could try looking around the",
+      "Por": "você poderia olhar perto de"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/capture_pet.questtemplate": [
+        "/scriptConfig/generatedText/fluff/3/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "you should try looking near the",
+      "Por": "você devia tentar procurar perto de"
+    }
+  }
+]

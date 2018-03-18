@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/moltencore.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A very powerful molten core. Can be used to craft a metalwork station!",
+      "Por": "Um núcleo fundido muito poderoso. Pode ser usado para criar uma metalwork station!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/moltencore.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Molten Core",
+      "Por": "Molten Core"
+    }
+  }
+]

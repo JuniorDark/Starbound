@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier4/saltsalad.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Coralcreep, reefpod and pearlpea make for a salty, crunchy salad.",
+      "Por": "Coralcreep, reefpod e pearlpea faz uma salada salgada e crocante."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier4/saltsalad.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Salt Salad",
+      "Por": "Salt Salad"
+    }
+  }
+]

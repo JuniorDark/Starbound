@@ -1,0 +1,97 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/ironanvil/ironanvil.object": [
+        "/avianDescription"
+      ],
+      "objects/crafting/upgradeablecraftingobjects/craftinganvil/craftinganvil.object": [
+        "/avianDescription",
+        "/upgradeStages/0/itemSpawnParameters/avianDescription"
+      ],
+      "objects/glitch/anvil/anvil.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large slab of iron with a flat surface.",
+      "Por": "Um grande laje de ferro com uma superfície plana."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/ironanvil/ironanvil.object": [
+        "/humanDescription"
+      ],
+      "objects/crafting/upgradeablecraftingobjects/craftinganvil/craftinganvil.object": [
+        "/upgradeStages/0/itemSpawnParameters/humanDescription"
+      ],
+      "objects/glitch/anvil/anvil.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An anvil. Humans haven't used these since early in their history.",
+      "Por": "Uma bigorna. Os humanos não têm utilizado isto desde o início de sua história."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/ironanvil/ironanvil.object": [
+        "/hylotlDescription"
+      ],
+      "objects/crafting/upgradeablecraftingobjects/craftinganvil/craftinganvil.object": [
+        "/hylotlDescription",
+        "/upgradeStages/0/itemSpawnParameters/hylotlDescription"
+      ],
+      "objects/glitch/anvil/anvil.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Probably used in metal work.",
+      "Por": "Provavelmente usada em metalurgia."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/ironanvil/ironanvil.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/crafting/upgradeablecraftingobjects/craftinganvil/craftinganvil.object": [
+        "/glitchDescription/glitchEmotedText",
+        "/upgradeStages/0/itemSpawnParameters/glitchDescription/glitchEmotedText"
+      ],
+      "objects/glitch/anvil/anvil.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Glitch craft all sorts of weapons on these anvils. They even craft anvils on these anvils."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Muito pessada, útil em uma armadilha."
+    ],
+    "Files": {
+      "objects/crafting/ironanvil/ironanvil.object": [
+        "/floranDescription"
+      ],
+      "objects/crafting/upgradeablecraftingobjects/craftinganvil/craftinganvil.object": [
+        "/floranDescription",
+        "/upgradeStages/0/itemSpawnParameters/floranDescription"
+      ],
+      "objects/glitch/anvil/anvil.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Very heavy, usseful in a trap.",
+      "Por": "Muito pesada, útil em uma armadilha."
+    }
+  }
+]

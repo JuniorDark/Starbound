@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fullwood1.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/fullwood1.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Although this wood looks freshly chopped, it has been carefully treated."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fullwood1.matitem": [
+        "/description"
+      ],
+      "tiles/materials/fullwood1.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Carefully treated wood that maintains a freshly chopped appearance.",
+      "Por": "Madeira cuidadosamente tratada que mantém uma aparência de recentemente cortada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fullwood1.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/fullwood1.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It looks fresh cut, but this wood has been treated with somethin'.",
+      "Por": "Parece cortada recentemente, mas esta madeira foi tratada com alguma coisa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fullwood1.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/fullwood1.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Jusst some bassic wood.",
+      "Por": "Apenass um pouco de madeira básica."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fullwood1.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/fullwood1.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Treated Wood",
+      "Por": "Treated Wood"
+    }
+  }
+]

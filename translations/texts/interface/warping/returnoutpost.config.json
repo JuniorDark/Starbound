@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/warping/returnoutpost.config": [
+        "/destinations/0/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Back to the Outpost",
+      "Por": "Voltar ao Posto Avançado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/warping/returnoutpost.config": [
+        "/destinations/0/planetName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Return to the 2 Stop Teleshop",
+      "Por": "Voltar para o 2 Stop Teleshop"
+    }
+  }
+]

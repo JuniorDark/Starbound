@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/drysand.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/drysand.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dry Sand",
+      "Por": "Dry Sand"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/drysand.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/drysand.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dry lookin' packed sand.",
+      "Por": "Areia embalada seca."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/drysand.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/drysand.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hard dry ssandy sand.",
+      "Por": "Areia arenosa seca e dura."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/drysand.matitem": [
+        "/description"
+      ],
+      "tiles/materials/drysand.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hard, cracked sand that shatters underfoot.",
+      "Por": "Areia dura e rachada que quebra sob os pés."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/drysand.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/drysand.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This sand is dry and hard."
+    }
+  }
+]

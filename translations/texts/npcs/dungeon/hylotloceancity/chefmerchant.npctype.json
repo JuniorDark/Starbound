@@ -1,0 +1,671 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/hylotloceancity/chefmerchant.npctype": [
+        "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Chef",
+      "Por": "Chefe de cozinha"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/hylotloceancity/chefmerchant.npctype": [
+        "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Sells delicious food!",
+      "Por": "Vende comida deliciosa!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/hylotloceancity/chefmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/start/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "All your cooking needs, right here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/hylotloceancity/chefmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/end/avian/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Always a pleasure. Enjoy the food!",
+      "Por": "Sempre um prazer. Aprecie a comida!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/hylotloceancity/chefmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/start/glitch/default/3/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Best produce around! What can I get you?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/hylotloceancity/chefmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/start/avian/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can I interest you in some very fine supplies?",
+      "Por": "Posso interessá-lo em alguns suprimentos muito finos?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/hylotloceancity/chefmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/end/avian/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Come back again, won't you?",
+      "Por": "Você vai voltar, não vai?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/hylotloceancity/chefmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/end/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Come back any time."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/hylotloceancity/chefmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/end/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Come back anytime!",
+      "Por": "Volte a qualquer hora!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/hylotloceancity/chefmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/end/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Come back sssoon for more food!",
+      "Por": "Volta logo para maisss comida!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/hylotloceancity/chefmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/end/apex/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Come back whenever you are hungry.",
+      "Por": "Volte sempre que você estiver com fome."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/hylotloceancity/chefmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/end/human/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Come back whenever you're hungry!",
+      "Por": "Volte sempre que você estiver com fome!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/hylotloceancity/chefmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/start/hylotl/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Come, sample my ambrosial fare!",
+      "Por": "Venha, prove minha comida!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/hylotloceancity/chefmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/end/apex/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't be a stranger.",
+      "Por": "Não seja um estranho."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/hylotloceancity/chefmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/end/human/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enjoy it, you won't find better!",
+      "Por": "Aproveite, você não vai encontrar melhor!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/hylotloceancity/chefmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/start/hylotl/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Everything I sell has been grown with love. And compost.",
+      "Por": "Tudo o que eu vendo foi cultivado com amor. E adubo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/hylotloceancity/chefmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/end/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran can't wait to sssell more food!",
+      "Por": "Floran mal pode esperar para vender mais comida!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/hylotloceancity/chefmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/start/floran/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran is at your sservice.",
+      "Por": "Floran está ao seu sserviço."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/hylotloceancity/chefmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/start/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran sssell food!",
+      "Por": "Floran vende comida!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/hylotloceancity/chefmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/end/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran will see you again!",
+      "Por": "Floran vai vê-lo novamente!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/hylotloceancity/chefmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/start/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran's food is the besst! Buy it all!",
+      "Por": "A comida de Floran é a melhor! Compre tudo!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/hylotloceancity/chefmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/end/apex/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fresh produce every day!",
+      "Por": "Produtos frescos todos os dias!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/hylotloceancity/chefmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/start/avian/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fresh produce for all your cooking needs!",
+      "Por": "Produtos frescos para todas as suas necessidades de culinária!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/hylotloceancity/chefmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/start/glitch/default/4/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Glitch grow the best produce."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/hylotloceancity/chefmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/end/glitch/default/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Go forth and become hungry."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/hylotloceancity/chefmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/start/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Greenfinger says Floran is \"liability in the kitchen\", but good produce merchant.",
+      "Por": "Greenfinger diz que Floran é \"desastrado na cozinha\", mas um bom comerciante de produtos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/hylotloceancity/chefmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/start/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hungry? I've got plenty of fresh produce right here!",
+      "Por": "Com fome? Eu tenho uma abundância de produtos frescos aqui!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/hylotloceancity/chefmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/end/hylotl/default/1",
+        "/scriptConfig/dialog/merchant/end/novakid/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can see you are a connoisseur.",
+      "Por": "Eu posso ver que você é um apreciador."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Eu espero que você aprecie a comida."
+    ],
+    "Files": {
+      "npcs/dungeon/hylotloceancity/chefmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/end/hylotl/default/2",
+        "/scriptConfig/dialog/merchant/end/novakid/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I do hope you enjoy the food.",
+      "Por": "Eu espero que você goste da comida."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/hylotloceancity/chefmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/start/hylotl/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I doubt you'll find food more toothsome than what I have available here.",
+      "Por": "Eu duvido que você encontre comida mais gostosa do que a que eu tenho disponível aqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/hylotloceancity/chefmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/start/apex/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "I hope you are hungry!",
+      "Por": "Eu espero que você esteja com fome!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/hylotloceancity/chefmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/start/apex/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I hope you like bananas.",
+      "Por": "Eu espero que você goste de bananas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/hylotloceancity/chefmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/end/hylotl/default/0",
+        "/scriptConfig/dialog/merchant/end/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I look forward to your future custom.",
+      "Por": "Estou ansioso por sua encomenda futura."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/hylotloceancity/chefmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/start/novakid/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I serve up the best food this side o' the solar system!",
+      "Por": "Eu sirvo a melhor comida deste lado do sistema solar!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/hylotloceancity/chefmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/end/glitch/default/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm sure you will enjoy that."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/hylotloceancity/chefmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/start/avian/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm sure you'll love my food.",
+      "Por": "Tenho certeza que você vai adorar a minha comida."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/hylotloceancity/chefmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/start/apex/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you want food, get it here.",
+      "Por": "Se você quiser comida, pegue aqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/hylotloceancity/chefmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/start/glitch/default/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you're hungry, you have come to the right person."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/hylotloceancity/chefmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/start/human/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "In need of fresh suppplies? Look no further!",
+      "Por": "Precisando de suprimentos frescos? Não procure mais!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/hylotloceancity/chefmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/start/novakid/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "My meals are ace-high!",
+      "Por": "Minhas refeições são deliciosas!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/hylotloceancity/chefmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/start/novakid/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "My mighty fine food will send you to the stars!",
+      "Por": "Minha comida multa poderosa vai mandar você para as estrelas!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/hylotloceancity/chefmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/start/apex/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "My produce is delicious, you won't find better.",
+      "Por": "Meu produto é delicioso, você não vai encontrar melhor."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/hylotloceancity/chefmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/start/hylotl/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "My produce is more than palatable - it is a delight!",
+      "Por": "Meu produto é mais do que gostoso - é uma delícia!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/hylotloceancity/chefmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/start/glitch/default/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "My produce is of excellent quality!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/hylotloceancity/chefmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/start/hylotl/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "My produce is simply delectable.",
+      "Por": "Meu produto é simplesmente delicioso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/hylotloceancity/chefmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/start/apex/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "My supplies come from secure sources.",
+      "Por": "Meus suprimentos vêm de fontes seguras."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/hylotloceancity/chefmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/start/avian/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Please, try my produce. I know you'll love it.",
+      "Por": "Por favor, experimente meu produto. Eu sei que você vai adorar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/hylotloceancity/chefmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/end/human/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleasure to be of service!",
+      "Por": "Prazer de estar servindo!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/hylotloceancity/chefmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/end/avian/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "See you soon!",
+      "Por": "Te vejo em breve!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/hylotloceancity/chefmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/start/human/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "This grub is genuinely delicious.",
+      "Por": "Esta larva é realmente deliciosa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/hylotloceancity/chefmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/start/avian/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "What can I get you?",
+      "Por": "O que posso fazer por você?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/hylotloceancity/chefmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/start/human/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "What can I get you? Have a look at my range.",
+      "Por": "O que posso fazer por você? Dê uma olhada na minha tenda."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/hylotloceancity/chefmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/start/human/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "What can I interest you in?",
+      "Por": "O que eu posso interessá-lo?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/hylotloceancity/chefmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/start/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You hankerin' to fill yer belly?",
+      "Por": "Você esta com vontade de encher sua barriga?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/hylotloceancity/chefmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/start/floran/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "You look like poor hunter, so Floran ssell you dinner.",
+      "Por": "Você parece com um caçador pobre, então Floran vende o seu jantar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/hylotloceancity/chefmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/start/human/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "You won't find better food! Not around here anyway.",
+      "Por": "Você não vai encontrar comida melhor ! Não por aqui de qualquer maneira."
+    }
+  }
+]

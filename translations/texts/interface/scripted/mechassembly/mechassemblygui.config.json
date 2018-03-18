@@ -1,0 +1,182 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mechassembly/mechassemblygui.config": [
+        "/gui/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Mech Assembly Station",
+      "Por": "  Estação de Montagem de Mecha"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mechassembly/mechassemblygui.config": [
+        "/gui/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "  ^#b9b5b2;Equip and customise your personal mech!",
+      "Por": "^#b9b5b2;Equipe e personalize o seu mecha pessoal!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mechassembly/mechassemblygui.config": [
+        "/gui/lblSlot_body/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Body",
+      "Por": "Corpo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mechassembly/mechassemblygui.config": [
+        "/gui/lblSlot_booster/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Booster",
+      "Por": "Propulsor"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mechassembly/mechassemblygui.config": [
+        "/gui/lblPrimaryColor/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Colour 1",
+      "Por": "Cor 1"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mechassembly/mechassemblygui.config": [
+        "/gui/lblSecondaryColor/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Colour 2",
+      "Por": "Cor 2"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mechassembly/mechassemblygui.config": [
+        "/energyFormat"
+      ]
+    },
+    "Texts": {
+      "Eng": "Energy: %d MJ",
+      "Por": "Energia: %d MJ"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mechassembly/mechassemblygui.config": [
+        "/gui/lblSlot_horn/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Horn",
+      "Por": "Buzina"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mechassembly/mechassemblygui.config": [
+        "/gui/lblSlot_leftArm/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "L Arm",
+      "Por": "Braço E"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mechassembly/mechassemblygui.config": [
+        "/gui/lblSlot_legs/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Legs",
+      "Por": "Pernas"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mechassembly/mechassemblygui.config": [
+        "/gui/lblSlot_rightArm/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "R Arm",
+      "Por": "Braço D"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mechassembly/mechassemblygui.config": [
+        "/drainFormat"
+      ]
+    },
+    "Texts": {
+      "Eng": "Usage: %.02f MJ/s",
+      "Por": "Uso: %.02f MJ/s"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mechassembly/mechassemblygui.config": [
+        "/completeText"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Ready to Deploy!",
+      "Por": "^cyan;Pronto para Lançar!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mechassembly/mechassemblygui.config": [
+        "/incompleteText"
+      ]
+    },
+    "Texts": {
+      "Eng": "^red;Configuration Incomplete",
+      "Por": "^red;Configuração Incompleta"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mechassembly/mechassemblygui.config": [
+        "/disabledText"
+      ]
+    },
+    "Texts": {
+      "Eng": "^red;Unauthorized User",
+      "Por": "^red;Usuário Não Autorizado"
+    }
+  }
+]

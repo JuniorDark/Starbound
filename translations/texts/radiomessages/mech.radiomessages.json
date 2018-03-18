@@ -1,0 +1,160 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/mech.radiomessages": [
+        "/lava_mech/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "DANGER! Your mech's temperature control systems are failing! Evacuate immediately!",
+      "Por": "PERIGO! Os sistemas de controle de temperatura do seu mecha estão falhando! Evacue imediatamente!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/mech.radiomessages": [
+        "/testdrive05/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hostile entities also exist in zero-gravity environments. My cosmonautical records indicate that defeating them may result in obtaining an energy battery, which your mech can absorb.",
+      "Por": "Entidades hostis também existem em ambientes de gravidade zero. Meus registros cosmonáuticos indicam que derrotá-los pode resultar na obtenção de uma bateria de energia, que o seu motor pode absorver."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/mech.radiomessages": [
+        "/spaceencounter01/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I am recieving some unusual bio-signatures on this ship. Sufficient caution is recommended.",
+      "Por": "Estou recebendo algumas assinaturas biológicas incomuns nesta nave. Precaução suficiente é recomendada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/mech.radiomessages": [
+        "/testdrive08/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Initial environmental scans indicate that this area is particularly hazardous, even when in a mech. Caution is advised.",
+      "Por": "As varreduras ambientais iniciais indicam que esta área é particularmente perigosa, mesmo quando em um mecha. Aconselha-se precaução."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/mech.radiomessages": [
+        "/testdrive04/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Please be aware of your mech's energy reserves, visualised as the ^#60b8ea;blue bar^white; you can see above your vehicle. Your mech's energy will deplete over time or when the vehicle takes damage.",
+      "Por": "Por favor esteja ciente das reservas de energia do seu mecha, visualizada na ^#60b8ea;barra azul^white; que você pode ver acima de seu veículo. A energia de seu mecha irá se esgotar ao longo do tempo ou quando o veículo sofrer danos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/mech.radiomessages": [
+        "/testdrive06/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The mech is too large to continue through this area. ^#71f2f6;Press E to enter and exit the mech^white; - I advise that you proceed on foot.",
+      "Por": "O mecha é muito grande para continuar por esta área. ^#71f2f6;Pressione E para entrar e sair do mecha^white; - Eu aconselho que você prossiga a pé."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/mech.radiomessages": [
+        "/testdrive02/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "These targets can be destroyed with your mech's primary weapon. My probability matrix has concluded that destroying them may allow you to progress.",
+      "Por": "Esses alvos podem ser destruídos com a arma principal do seu mecha. Minha matriz de probabilidade concluiu que destruí-los pode permitir que você progresse."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/mech.radiomessages": [
+        "/spaceencounter02/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "This appears to be an old Terrene Protectorate Storage Facility. No such place exists on my records.",
+      "Por": "Isso parece ser uma antiga Instalação de Armazenamento do Protetorado Terreno. Nenhum lugar assim existe nos meus registros."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/mech.radiomessages": [
+        "/testdrive09/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "This teleporter indicates that ^green;you have completed Dr. Akaggy's advanced test course^white;. You should report back to her.",
+      "Por": "Este teletransportador indica que ^green;você completou a pista de teste avançada do Dr. Akaggy ^white;. Você deve informar para ele."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/mech.radiomessages": [
+        "/biomecold_mech/text",
+        "/biomeheat_mech/text",
+        "/biomeradiation_mech/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "WARNING: Your vehicle is not certified for this environment!\nDisregarding this warning may cause pilot death and/or invalidation of vehicle warranty.",
+      "Por": "AVISO: Seu veículo não está certificado para este ambiente!\nDesconsiderar este aviso pode causar a morte do piloto e/ou a invalidação da garantia do veículo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/mech.radiomessages": [
+        "/testdrive01/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "You are now suspended in a zero-gravity environment. The mech you are piloting is designed to travel through space - I would strongly advise that you do not attempt to exit the vehicle for now.",
+      "Por": "Agora você está em um ambiente de gravidade zero. O mecha que você está pilotando é projetado para viajar pelo espaço - Eu recomendaria fortemente que você não tente sair do veículo por enquanto."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/mech.radiomessages": [
+        "/testdrive03/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Your mech switches to a ground-movement configuration when in an environment with gravity. I would advise you continue to proceed in your mech.",
+      "Por": "O seu mecha muda para uma configuração de movimento no chão quando está um ambiente com gravidade. Eu recomendaria que você continue a prosseguir no seu mecha."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/mech.radiomessages": [
+        "/testdrive07/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;You appear to have completed Dr. Akaggy's test course^white;. I must declare that I am curious as to how such a large ship came to be abandoned, but my records present no conclusion.",
+      "Por": "^green;Você parece ter concluído a pista de teste do Dr. Akaggy^white;. Devo declarar que tenho curiosidade em saber como uma nave tão grande veio a ser abandonada, mas meus registros não apresentam conclusão."
+    }
+  }
+]

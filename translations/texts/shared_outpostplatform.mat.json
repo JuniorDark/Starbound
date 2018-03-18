@@ -1,0 +1,78 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Uma simples plataforma leve comumente encontrada em postos remotos."
+    ],
+    "Files": {
+      "items/materials/outpostplatform.matitem": [
+        "/description"
+      ],
+      "tiles/platforms/outpostplatform.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple light platform commonly found in remote outposts.",
+      "Por": "Uma simples plataforma leve comumente encontrada em postos avançados."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/outpostplatform.matitem": [
+        "/florandescription"
+      ],
+      "tiles/platforms/outpostplatform.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Jusst another metal platform.",
+      "Por": "Só maiss uma plataforma metálica."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/outpostplatform.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/outpostplatform.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Outpost Platform",
+      "Por": "Outpost Platform"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/outpostplatform.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/platforms/outpostplatform.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pretty strange lookin' metal platform.",
+      "Por": "Plataforma de metal de aparência muito estranha."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/outpostplatform.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/platforms/outpostplatform.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These platforms are light and favoured for their portability."
+    }
+  }
+]

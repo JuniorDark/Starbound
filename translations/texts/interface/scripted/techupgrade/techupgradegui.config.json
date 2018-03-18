@@ -1,0 +1,110 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/techupgrade/techupgradegui.config": [
+        "/gui/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Choose your techs",
+      "Por": "Escolha suas tecnologias"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/techupgrade/techupgradegui.config": [
+        "/gui/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Tech Upgrade Console",
+      "Por": "Console de Evolução de Tecnologia"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/techupgrade/techupgradegui.config": [
+        "/gui/lblTechSlotBody/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "BODY TECH",
+      "Por": "TEC. DO CORPO"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/techupgrade/techupgradegui.config": [
+        "/gui/lblTechSlotHead/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "HEAD TECH",
+      "Por": "TEC. DA CABEÇA"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/techupgrade/techupgradegui.config": [
+        "/gui/lblSlot/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Head",
+      "Por": "Cabeça"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/techupgrade/techupgradegui.config": [
+        "/gui/lblTechSlotLeg/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "LEG TECH",
+      "Por": "TEC. DAS PERNAS"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/techupgrade/techupgradegui.config": [
+        "/gui/lblChipsLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "REQUIRED TECH CARDS",
+      "Por": "TECH CARDS NECESSÁRIOS"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/techupgrade/techupgradegui.config": [
+        "/gui/lblDescription/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Select a slot to modify",
+      "Por": "Selecione um espaço para modificar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/techupgrade/techupgradegui.config": [
+        "/selectTechDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Select a tech to equip or upgrade",
+      "Por": "Selecione uma tecnologia para equipar ou melhorar"
+    }
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/tar/tar.grass": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gross, sticky tar.",
+      "Por": "Piche grosso e grudento"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/tar/tar.grass": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sticky tar.",
+      "Por": "Piche grudento."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/tar/tar.grass": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Useful tar."
+    }
+  }
+]

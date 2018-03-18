@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/fist/vinefist.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unleash the power of nature!",
+      "Por": "Liberte o poder da natureza!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/fist/vinefist.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vine Fist",
+      "Por": "Vine Fist"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/fist/vinefist.activeitem": [
+        "/upgradeParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vine Fist ^yellow;^reset;",
+      "Por": "Vine Fist ^yellow;^reset;"
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/teleportdialog.config": [
+        "/paneLayout/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Choose a destination",
+      "Por": "Escolha um destino"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/teleportdialog.config": [
+        "/paneLayout/btnTeleport/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Teleport",
+      "Por": "Teleportar"
+    }
+  }
+]

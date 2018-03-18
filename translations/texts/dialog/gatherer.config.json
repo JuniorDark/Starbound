@@ -1,0 +1,186 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/gatherer.config": [
+        "/safe/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Am I safe now?",
+      "Por": "Estou seguro agora?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/gatherer.config": [
+        "/helpme/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flee, like the wolf!",
+      "Por": "Fugir, como o lobo!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/gatherer.config": [
+        "/rent/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Here's something I found while I was out gathering supplies!",
+      "Por": "Aqui está algo que eu encontrei enquanto eu estava fora colhendo suprimentos!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/gatherer.config": [
+        "/rent/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I came across this whilst out hunting and gathering!",
+      "Por": "Me deparei com isso enquanto estava fora caçando e colhendo!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/gatherer.config": [
+        "/beacon/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I was gathering. Did you need me?",
+      "Por": "Eu estava colhendo. Você precisa de mim?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/gatherer.config": [
+        "/helpme/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I will escape!",
+      "Por": "Eu escaparei!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Eu sou um caçador-coletor. Vou te trazer algumas das coisas que eu achar!"
+    ],
+    "Files": {
+      "dialog/gatherer.config": [
+        "/converse/apex/default/0",
+        "/converse/default/default/0",
+        "/converse/human/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm a hunter-gatherer. I'll bring you some of the things I find!",
+      "Por": "Eu sou um caçador-coletor. Vou te trazer algumas das coisas que eu encontrar!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/gatherer.config": [
+        "/converse/human/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm planning my next gathering trip! I'll bring some nice things back for you.",
+      "Por": "Estou planejando minha próxima viagem de colheita! Vou trazer algumas coisas boas de volta para você."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/gatherer.config": [
+        "/beacon/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've been out scavenging - Did you need me for something?",
+      "Por": "Eu estive fora coletando - Você precisa de mim para alguma coisa?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/gatherer.config": [
+        "/converse/apex/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Life under the Miniknog is too restrained, I prefer to live with more freedom!",
+      "Por": "A vida sob a Miniknog é muito reprimida, eu prefiro viver com mais liberdade!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/gatherer.config": [
+        "/helpthem/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Oh no!",
+      "Por": "Ah não!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/gatherer.config": [
+        "/converse/human/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Technology is overrated, the life of the hunter-gatherer is the one for me!",
+      "Por": "A tecnologia está superestimada, a vida do caçador-coletor é a única para mim!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/gatherer.config": [
+        "/rent/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is for you, from my recent scavenging trip!",
+      "Por": "Isto é para você, da minha recente viagem de coleta!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/gatherer.config": [
+        "/converse/apex/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Why live as a slave with the rest of my people when I can be one with nature?",
+      "Por": "Por que viver como um escravo com o resto do meu povo, quando eu posso estar com a natureza?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/gatherer.config": [
+        "/beacon/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "You have need of me? I've been gathering supplies.",
+      "Por": "Você precisa de mim? Estive recolhendo suprimentos."
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/crafting.config": [
+        "/paneLayout/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": " Basic Crafting",
+      "Por": "Fabricação Básica"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/crafting.config": [
+        "/paneLayout/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": " ^#b9b5b2;Just you, your ingredients and your hands ^green;[C]",
+      "Por": "^#b9b5b2;Só você, seus ingredientes e suas mãos ^green;[C]"
+    }
+  }
+]

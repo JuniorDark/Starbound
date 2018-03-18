@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/fishing/small/worm/fishingworm.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Banded Wormeel",
+      "Por": "Banded Wormeel"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/fishing/small/worm/fishingworm.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The long antenna on the Wormeel's head can pick up radio waves from nearby planets.",
+      "Por": "A antena longa na cabeça do Wormeel pode capturar ondas de rádio de planetas próximos."
+    }
+  }
+]

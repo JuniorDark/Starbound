@@ -1,0 +1,110 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/geode.npctype": [
+        "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Geological Merchant",
+      "Por": "Comerciante Geológico"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/geode.npctype": [
+        "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Sells materials for building!",
+      "Por": "Vendo materiais para construção!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/geode.npctype": [
+        "/scriptConfig/dialog/merchant/end/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Desperate. Please come back soon. I need more customers!",
+      "Por": "Desesperado. Por favor, volte logo. Preciso de mais clientes!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/geode.npctype": [
+        "/scriptConfig/dialog/merchant/start/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Despondent. No-one wants to buy my rocks... But perhaps you might?",
+      "Por": "Desanimado. Ninguém quer comprar minhas pedras... Mas talvez você possa?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/geode.npctype": [
+        "/scriptConfig/dialog/merchant/start/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eager. Perhaps you will be interested in my rocks?",
+      "Por": "Ansioso. Talvez você esteja interessado em minhas rochas?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/geode.npctype": [
+        "/scriptConfig/dialog/merchant/welcome/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excited. You actually want to buy rocks?",
+      "Por": "Animado. Você realmente quer comprar pedras?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/geode.npctype": [
+        "/scriptConfig/dialog/merchant/start/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Friendly. Would you like some rocks? I have plenty!",
+      "Por": "Amigável. Gostaria de algumas rochas? Eu tenho muitas!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/geode.npctype": [
+        "/scriptConfig/dialog/merchant/welcome/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased. You actually came to my store? How wonderful!",
+      "Por": "Satisfeito. Você realmente veio a minha loja? Que maravilhoso!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/subbiometenants/geode.npctype": [
+        "/scriptConfig/dialog/merchant/welcome/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welcoming. Now you're here, would you like to buy some rocks?",
+      "Por": "Acolhedor. Agora que você está aqui, você gostaria de comprar algumas pedras?"
+    }
+  }
+]

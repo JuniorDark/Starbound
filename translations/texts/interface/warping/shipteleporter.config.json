@@ -1,0 +1,15 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/warping/shipteleporter.config": [
+        "/destinations/0/planetName",
+        "/destinations/1/planetName"
+      ]
+    },
+    "Texts": {
+      "Eng": "current orbited world",
+      "Por": "mundo orbitado atualmente"
+    }
+  }
+]

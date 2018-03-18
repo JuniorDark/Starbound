@@ -1,0 +1,78 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/wallpaper.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/wallpaper.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Classic Wallpaper",
+      "Por": "Classic Wallpaper"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Um papel de parede clássico, o toque final perfeito."
+    ],
+    "Files": {
+      "items/materials/wallpaper.matitem": [
+        "/description"
+      ],
+      "tiles/materials/wallpaper.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some classy wallpaper, the perfect finishing touch.",
+      "Por": "Papel de parede elegante, o toque final perfeito."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/wallpaper.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/wallpaper.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sstrange paper covers wallss.",
+      "Por": "Papel estranho cobre paredess."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/wallpaper.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/wallpaper.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Glitch have never understood the concept of glued wall papering."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/wallpaper.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/wallpaper.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wallpaper. Perfect for classin' up the place.",
+      "Por": "Papel de parede. Perfeito para dar classe ao lugar."
+    }
+  }
+]

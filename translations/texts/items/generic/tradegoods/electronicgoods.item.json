@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/tradegoods/electronicgoods.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sealed crate of electronic components, valuable for interstellar trade.",
+      "Por": "Uma caixa selada de componentes eletrônicos, valiosa para o comércio interestelar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/tradegoods/electronicgoods.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Electronic Parts"
+    }
+  }
+]

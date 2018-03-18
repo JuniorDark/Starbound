@@ -1,0 +1,49 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/barrel/barrel.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A barrel, good storage for cheap items."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/barrel/barrel.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A barrel. Anything could be inside!",
+      "Por": "Um barril. Qualquer coisa poderia estar dentro!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/barrel/barrel.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A plain ol' barrel.",
+      "Por": "Um barril velho liso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/barrel/barrel.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Small Barrel",
+      "Por": "Small Barrel"
+    }
+  }
+]

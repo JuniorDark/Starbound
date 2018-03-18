@@ -1,0 +1,52 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/arttrophies/paintingapexpixellisa/paintingapexpixellisa.object": [
+        "/description"
+      ],
+      "objects/arttrophies/paintingmonalisa/paintingmonalisa.object": [
+        "/description"
+      ],
+      "objects/arttrophies/tenstudiesoffemalehylotlgy/tenstudiesinfemalehylotlgy.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A very famous portrait of a mysterious lady.",
+      "Por": "Um retrato muito famoso de uma senhora misteriosa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/arttrophies/paintingapexpixellisa/paintingapexpixellisa.object": [
+        "/floranDescription"
+      ],
+      "objects/arttrophies/selfportraitofhylotlshu/selfportraitofhylotlshu.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran want to sssteal painting and sssell on black market.",
+      "Por": "Floran quer roubar pintura e vender no mercado negro."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Isso sim é uma mulher estranha."
+    ],
+    "Files": {
+      "objects/arttrophies/paintingapexpixellisa/paintingapexpixellisa.object": [
+        "/novakidDescription"
+      ],
+      "objects/arttrophies/tenstudiesoffemalehylotlgy/tenstudiesinfemalehylotlgy.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now that's one strange lookin' dame.",
+      "Por": "Essa sim é uma dama estranha."
+    }
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkerslidingdoor/bunkerslidingdoor.object": [
+        "/hylotlDescription"
+      ],
+      "objects/outpost/outpostslidingdoor/outpostslidingdoor.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sleek sliding door.",
+      "Por": "Uma porta deslizante elegante."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkerslidingdoor/bunkerslidingdoor.object": [
+        "/apexDescription"
+      ],
+      "objects/outpost/outpostslidingdoor/outpostslidingdoor.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sliding door. Exciting.",
+      "Por": "Uma porta deslizante. Emocionante."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkerslidingdoor/bunkerslidingdoor.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/outpost/outpostslidingdoor/outpostslidingdoor.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "There is something fascinating about the movement of these doors."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Esta porta deslizante me faz sentir como se estivesse num jogo de ficção científica..."
+    ],
+    "Files": {
+      "objects/human/bunkerslidingdoor/bunkerslidingdoor.object": [
+        "/description"
+      ],
+      "objects/outpost/outpostslidingdoor/outpostslidingdoor.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This sliding door makes me feel like I'm in a sci-fi game...",
+      "Por": "Esta porta deslizante me faz sentir como se estivesse em um jogo de ficção científica..."
+    }
+  }
+]

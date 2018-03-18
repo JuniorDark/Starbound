@@ -1,0 +1,107 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/coffee/coffeeseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/coffee/wildcoffeeseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Coffee Seed",
+      "Por": "Coffee Seed"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/coffee/coffeeseed.object": [
+        "/description"
+      ],
+      "objects/farmables/coffee/wildcoffeeseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Coffee beans can be brewed to make a tasty beverage.",
+      "Por": "Os grãos de café podem ser fervidos para fazer uma bebida saborosa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/coffee/coffeeseed.object": [
+        "/avianDescription"
+      ],
+      "objects/farmables/coffee/wildcoffeeseed.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Coffee beans look a tempting treat, but are extremely bitter.",
+      "Por": "Grãos de café são um convite tentador, mas são extremamente amargos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/coffee/coffeeseed.object": [
+        "/floranDescription"
+      ],
+      "objects/farmables/coffee/wildcoffeeseed.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Coffee keepsss Floran awake.",
+      "Por": "Café mantém Floran acordado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/coffee/coffeeseed.object": [
+        "/novakidDescription"
+      ],
+      "objects/farmables/coffee/wildcoffeeseed.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Coffee smells good, but I've never noticed any beneficial side-effects to drinkin' the stuff.",
+      "Por": "Café tem um cheiro bom, mas nunca notei qualquer efeitos colaterais benéficos por beber."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/coffee/coffeeseed.object": [
+        "/humanDescription"
+      ],
+      "objects/farmables/coffee/wildcoffeeseed.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Coffee, the perkiest plant known to man.",
+      "Por": "Café, a planta mais adorada conhecida pelo homem."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/coffee/coffeeseed.object": [
+        "/hylotlDescription"
+      ],
+      "objects/farmables/coffee/wildcoffeeseed.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "See beyond its bitter taste and coffee is a useful resource.",
+      "Por": "Vendo além de seu sabor amargo o café é um recurso útil."
+    }
+  }
+]

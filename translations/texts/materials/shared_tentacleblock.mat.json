@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/tentacleblock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/tentacleblock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A mass of wriggling tentacles.",
+      "Por": "Uma massa de tentáculos retorcidos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/tentacleblock.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/tentacleblock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Buncha creepy lookin' tentacles all mashed together.",
+      "Por": "Monte de tentáculos assustadores todos triturados juntos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/tentacleblock.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/tentacleblock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran dislikess wriggling tentacless.",
+      "Por": "Floran não gosta de tentáculoss franzindos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/tentacleblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/tentacleblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tentacle Cluster",
+      "Por": "Tentacle Cluster"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/tentacleblock.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/tentacleblock.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These tentacles have been mashed together into a solid mass."
+    }
+  }
+]

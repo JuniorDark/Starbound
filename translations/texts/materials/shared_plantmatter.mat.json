@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/plantmatter.matitem": [
+        "/description"
+      ],
+      "tiles/materials/plantmatter.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A block made of packed plant matter.",
+      "Por": "Um bloco feito de matéria vegetal embalada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/plantmatter.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/plantmatter.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Buncha plants and leaves all mashed together.",
+      "Por": "Maço de plantas e folhas todos triturados juntos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/plantmatter.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/plantmatter.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran likess plantss.",
+      "Por": "Floran gossta de plantass."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/plantmatter.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/plantmatter.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Plant Matter",
+      "Por": "Plant Matter"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/plantmatter.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/plantmatter.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Plant matter has somehow been compressed into this block."
+    }
+  }
+]

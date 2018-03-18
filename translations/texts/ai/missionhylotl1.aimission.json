@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ai/missionhylotl1.aimission": [
+        "/speciesText/default/repeatButtonText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Revisit the Grand Pagoda Library",
+      "Por": "Revisite a Grande Biblioteca Pagoda"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ai/missionhylotl1.aimission": [
+        "/speciesText/default/buttonText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Grand Pagoda Library",
+      "Por": "A Grande Biblioteca Pagoda"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ai/missionhylotl1.aimission": [
+        "/speciesText/default/selectSpeech/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "This ancient island complex has been calculated to be the approximate location of the Hylotl Artifact.",
+      "Por": "Esta antiga ilha complexo foi calculada para ser a localização aproximada do Artefato Hylotl."
+    }
+  }
+]

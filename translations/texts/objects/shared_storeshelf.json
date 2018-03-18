@@ -1,0 +1,66 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Eu com certeza poderia fazer bom uso desses itens aqui."
+    ],
+    "Files": {
+      "objects/apex/apexstoreshelf/apexstoreshelf.object": [
+        "/novakidDescription"
+      ],
+      "objects/biome/scorchedcity/scorchedcitystoreshelf/scorchedcitystoreshelf.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I sure could make good use of these here items.",
+      "Por": "Eu certamente faria bom uso destes itens aqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/apexstoreshelf/apexstoreshelf.object": [
+        "/floranDescription"
+      ],
+      "objects/biome/scorchedcity/scorchedcitystoreshelf/scorchedcitystoreshelf.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shelf hasss good itemss.",
+      "Por": "Prateleira tem bons itenss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/apexstoreshelf/apexstoreshelf.object": [
+        "/apexDescription"
+      ],
+      "objects/biome/scorchedcity/scorchedcitystoreshelf/scorchedcitystoreshelf.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This shelf contains some useful items.",
+      "Por": "Esta prateleira contém alguns itens úteis."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Esta prateleira está cheia de itens, eu aposto que ele pode conter ainda mais."
+    ],
+    "Files": {
+      "objects/apex/apexstoreshelf/apexstoreshelf.object": [
+        "/humanDescription"
+      ],
+      "objects/biome/scorchedcity/scorchedcitystoreshelf/scorchedcitystoreshelf.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This shelf is full of items, I bet it can hold even more.",
+      "Por": "Esta prateleira está cheia de itens, eu aposto que ela pode conter ainda mais."
+    }
+  }
+]

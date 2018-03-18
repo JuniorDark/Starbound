@@ -1,0 +1,42 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodencrate1/woodencrate1.object": [
+        "/apexDescription"
+      ],
+      "objects/generic/woodencrate2/woodencrate2.object": [
+        "/apexDescription"
+      ],
+      "objects/glitch/largewoodencrate/largewoodencrate.object": [
+        "/apexDescription",
+        "/description",
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/glitch/smallwoodencrate/smallwoodencrate.object": [
+        "/apexDescription",
+        "/description",
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A wooden crate.",
+      "Por": "Uma caixa de madeira."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodencrate2/woodencrate2.object": [
+        "/shortdescription"
+      ],
+      "objects/glitch/largewoodencrate/largewoodencrate.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Large Wooden Crate",
+      "Por": "Large Wooden Crate"
+    }
+  }
+]

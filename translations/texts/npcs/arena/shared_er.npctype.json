@@ -1,0 +1,113 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/arena/arenabruiser.npctype": [
+        "/scriptConfig/dialog/cantReach/default/default/0"
+      ],
+      "npcs/arena/arenafighter.npctype": [
+        "/scriptConfig/dialog/cantReach/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Come closer!",
+      "Por": "Chegue mais perto!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Vou pegar você!"
+    ],
+    "Files": {
+      "npcs/arena/arenabruiser.npctype": [
+        "/scriptConfig/dialog/cantReach/default/default/1"
+      ],
+      "npcs/arena/arenafighter.npctype": [
+        "/scriptConfig/dialog/cantReach/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll get you!",
+      "Por": "Eu vou te pegar!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/arena/arenabruiser.npctype": [
+        "/scriptConfig/dialog/attack/default/default/0"
+      ],
+      "npcs/arena/arenafighter.npctype": [
+        "/scriptConfig/dialog/attack/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Prepare to be crushed!",
+      "Por": "Prepare-se para ser esmagado!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/arena/arenabruiser.npctype": [
+        "/scriptConfig/dialog/outOfSight/default/default/0"
+      ],
+      "npcs/arena/arenafighter.npctype": [
+        "/scriptConfig/dialog/outOfSight/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "There is no escape!",
+      "Por": "Não há escapatória!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Eles não são páreos para o nosso poder combinado!"
+    ],
+    "Files": {
+      "npcs/arena/arenabruiser.npctype": [
+        "/scriptConfig/dialog/cheerOn/default/default/0"
+      ],
+      "npcs/arena/arenafighter.npctype": [
+        "/scriptConfig/dialog/cheerOn/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "They're no match for our combined power!",
+      "Por": "Eles não são páreo para nosso poder combinado!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Desta vez eu vou acabar com você!"
+    ],
+    "Files": {
+      "npcs/arena/arenabruiser.npctype": [
+        "/scriptConfig/dialog/reattack/default/default/0"
+      ],
+      "npcs/arena/arenafighter.npctype": [
+        "/scriptConfig/dialog/reattack/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "This time I'll end you!",
+      "Por": "Desta vez vou acabar com você!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/arena/arenabruiser.npctype": [
+        "/scriptConfig/dialog/lostTarget/default/default/0"
+      ],
+      "npcs/arena/arenafighter.npctype": [
+        "/scriptConfig/dialog/lostTarget/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You can't hide from me!",
+      "Por": "Você não pode se esconder de mim!"
+    }
+  }
+]

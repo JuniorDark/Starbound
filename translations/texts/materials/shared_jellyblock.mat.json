@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/jellyblock.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/jellyblock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A mess 'o slimy lookin' jelly.",
+      "Por": "Uma bagunça de geléia de aparência viscosa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/jellyblock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/jellyblock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A slimy, bright coloured mass of jelly.",
+      "Por": "Uma massa de geléia viscosa, brilhante e colorida."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/jellyblock.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/jellyblock.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I dislike the way this jelly jiggles."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/jellyblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/jellyblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Jelly Blob",
+      "Por": "Jelly Blob"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/jellyblock.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/jellyblock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Jiggly wiggly jelly.",
+      "Por": "Geléia melequenta."
+    }
+  }
+]

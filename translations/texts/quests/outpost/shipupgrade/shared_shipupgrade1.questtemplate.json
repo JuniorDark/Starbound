@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Vou atualizar a sua nave agora. Tenho certeza que você estará satisfeito com o nível de habilidade."
+    ],
+    "Files": {
+      "quests/outpost/shipupgrade/illegalshipupgrade1.questtemplate": [
+        "/completionText"
+      ],
+      "quests/outpost/shipupgrade/shipupgrade1.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll upgrade yer ship now. I'm sure yer'll be pleased with the level of craftsmanship.",
+      "Por": "Vou atualizar sua nave agora. Tenho certeza que você estará satisfeito com o nível de habilidade."
+    }
+  }
+]

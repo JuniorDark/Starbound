@@ -1,0 +1,458 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/survivor.npctype": [
+        "/scriptConfig/dialog/follower/join/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Another survivor?! Looks like you can handle yourself - I'll follow you.",
+      "Por": "Outro sobrevivente?! Parece que você sabe se cuidar - Vou te seguir."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/survivor.npctype": [
+        "/scriptConfig/dialog/follower/attack/default/default/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are we attacking? We're attacking!",
+      "Por": "Nós estamos atacando? Estamos atacando!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/survivor.npctype": [
+        "/scriptConfig/dialog/follower/attack/default/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Be careful!",
+      "Por": "Tenha cuidado!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/survivor.npctype": [
+        "/scriptConfig/dialog/follower/wait/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Do you need a moment?",
+      "Por": "Você precisa de uma pausa?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/survivor.npctype": [
+        "/scriptConfig/dialog/follower/returnFromCombat/default/default/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "Even if we don't make it out of here, at least we made them sore.",
+      "Por": "Mesmo se não conseguirmos sair daqui, pelo menos nós ferimos eles."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/survivor.npctype": [
+        "/scriptConfig/dialog/follower/returnFromWait/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hello again.",
+      "Por": "Olá de novo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/survivor.npctype": [
+        "/scriptConfig/dialog/follower/join/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hey, a friendly face! Did they trap you here too? I'll stick with you.",
+      "Por": "Ei, um rosto amigável! eles te prenderam aqui também? Eu vou ficar com você."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/survivor.npctype": [
+        "/scriptConfig/dialog/follower/returnFromCombat/default/default/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hopefully that's all of them...",
+      "Por": "Espero que isso é tudo deles..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/survivor.npctype": [
+        "/scriptConfig/dialog/follower/returnFromCombat/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "How did you get here anyway?",
+      "Por": "Como você chegou aqui?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/survivor.npctype": [
+        "/scriptConfig/dialog/follower/attack/default/default/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "I came prepared!",
+      "Por": "Eu vim preparado!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/survivor.npctype": [
+        "/scriptConfig/dialog/follower/join/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I didn't expect to see other survivors down here! Let's stick together.",
+      "Por": "Eu não esperava ver outros sobreviventes aqui em baixo! Vamos ficar juntos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/survivor.npctype": [
+        "/scriptConfig/dialog/follower/returnFromCombat/default/default/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "I hope all these skeletons are just props...",
+      "Por": "Espero que todos esses esqueletos sejam apenas adereços..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/survivor.npctype": [
+        "/scriptConfig/dialog/follower/returnFromCombat/default/default/13"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wonder how many more like us have been hunted down here...",
+      "Por": "Eu me pergunto quantos mais como nós têm sido caçados aqui embaixo..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/survivor.npctype": [
+        "/scriptConfig/dialog/follower/attack/default/default/14"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll escape or die trying!",
+      "Por": "Vou fugir ou morrer tentando!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/survivor.npctype": [
+        "/scriptConfig/dialog/follower/wait/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll stay here, don't leave me alone too long!",
+      "Por": "Eu vou ficar aqui, não me deixe sozinho por muito tempo!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/survivor.npctype": [
+        "/scriptConfig/dialog/follower/attack/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll take these guys on!",
+      "Por": "Eu vou pegar esses caras!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/survivor.npctype": [
+        "/scriptConfig/dialog/follower/returnFromCombat/default/default/14"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm hoping to make many more Floran hurt before leaving.",
+      "Por": "Estou esperança de machucar muito mais Florans antes de sair."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/survivor.npctype": [
+        "/scriptConfig/dialog/follower/returnFromCombat/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm impressed.",
+      "Por": "Estou impressionado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/survivor.npctype": [
+        "/scriptConfig/dialog/follower/returnFromCombat/default/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've been here too long to let them stop me.",
+      "Por": "Eu estive aqui por muito tempo para que eles me parem."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/survivor.npctype": [
+        "/scriptConfig/dialog/follower/returnFromCombat/default/default/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "Let's go.",
+      "Por": "Vamos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/survivor.npctype": [
+        "/scriptConfig/dialog/follower/returnFromWait/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Let's head off.",
+      "Por": "Vamos cair fora."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/survivor.npctype": [
+        "/scriptConfig/dialog/follower/returnFromCombat/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Let's move on.",
+      "Por": "Vamos continuar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/survivor.npctype": [
+        "/scriptConfig/dialog/follower/attack/default/default/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "Let's teach these guys a lesson!",
+      "Por": "Vamos ensinar esses caras uma lição!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/survivor.npctype": [
+        "/scriptConfig/dialog/follower/attack/default/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Look out!",
+      "Por": "Olhe!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/survivor.npctype": [
+        "/scriptConfig/dialog/follower/attack/default/default/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "No time for chit-chat, we've been spotted!",
+      "Por": "Não há tempo para bate-papo, fomos avistados!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/survivor.npctype": [
+        "/scriptConfig/dialog/follower/returnFromCombat/default/default/15"
+      ]
+    },
+    "Texts": {
+      "Eng": "Phew, you handle yourself quite well.",
+      "Por": "Ufa, você sabe se cuidar muito bem."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/survivor.npctype": [
+        "/scriptConfig/dialog/follower/returnFromCombat/default/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Phew.",
+      "Por": "Ufa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/survivor.npctype": [
+        "/scriptConfig/dialog/follower/attack/default/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Quick, we're under attack!",
+      "Por": "Rápido, estamos sob ataque!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/survivor.npctype": [
+        "/scriptConfig/dialog/follower/attack/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sneak attack!",
+      "Por": "Ataque surpresa!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/survivor.npctype": [
+        "/scriptConfig/dialog/follower/returnFromCombat/default/default/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stay alert, there could be more.",
+      "Por": "Fique alerta, pode ter mais."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/survivor.npctype": [
+        "/scriptConfig/dialog/follower/attack/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Strike!",
+      "Por": "Ataque!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/survivor.npctype": [
+        "/scriptConfig/dialog/follower/returnFromCombat/default/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Take that.",
+      "Por": "Pegue isso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/survivor.npctype": [
+        "/scriptConfig/dialog/follower/returnFromCombat/default/default/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "That's what you get for messing with US!",
+      "Por": "Isso é o que você ganha por mexer com NOS!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/survivor.npctype": [
+        "/scriptConfig/dialog/follower/returnFromCombat/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "They didn't see that coming!",
+      "Por": "Eles não viram essa chegando!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/survivor.npctype": [
+        "/scriptConfig/dialog/follower/attack/default/default/13"
+      ]
+    },
+    "Texts": {
+      "Eng": "They want a hunt? I'll give them a hunt!",
+      "Por": "Eles querem uma caça? Vou dar a eles uma caça!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/survivor.npctype": [
+        "/scriptConfig/dialog/follower/attack/default/default/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Uh-oh!",
+      "Por": "Uh-oh!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/survivor.npctype": [
+        "/scriptConfig/dialog/follower/attack/default/default/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "We've been spotted!",
+      "Por": "Fui avistado!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/survivor.npctype": [
+        "/scriptConfig/dialog/follower/returnFromWait/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "You ready to move on?",
+      "Por": "Você está pronto para seguir em frente?"
+    }
+  }
+]

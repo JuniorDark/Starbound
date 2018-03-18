@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/sprout/sprout.grass": [
+        "/description",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A little sprout.",
+      "Por": "Um pequeno broto."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/sprout/sprout.grass": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small sprout."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/sprout/sprout.grass": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sssprout.",
+      "Por": "Broto."
+    }
+  }
+]

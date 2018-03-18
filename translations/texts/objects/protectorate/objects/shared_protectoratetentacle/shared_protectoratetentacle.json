@@ -1,0 +1,34 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Um tentáculo invasora."
+    ],
+    "Files": {
+      "objects/protectorate/objects/protectoratetentacle/protectoratetentacle.object": [
+        "/description"
+      ],
+      "objects/protectorate/objects/protectoratetentacle2/protectoratetentacle2.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An invading tentacle.",
+      "Por": "Um tentáculo invasor."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/protectorate/objects/protectoratetentacle/protectoratetentacle.object": [
+        "/shortdescription"
+      ],
+      "objects/protectorate/objects/protectoratetentacle2/protectoratetentacle2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Protectorate Tentacle",
+      "Por": "Protectorate Tentacle"
+    }
+  }
+]

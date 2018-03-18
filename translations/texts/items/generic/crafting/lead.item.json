@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/lead.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A block of lead.",
+      "Por": "Um bloco de chumbo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/lead.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lead",
+      "Por": "Lead"
+    }
+  }
+]

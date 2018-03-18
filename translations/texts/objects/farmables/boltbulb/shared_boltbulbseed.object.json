@@ -1,0 +1,109 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/boltbulb/boltbulbseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/boltbulb/wildboltbulbseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Boltbulb Seed",
+      "Por": "Boltbulb Seed"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/boltbulb/boltbulbseed.object": [
+        "/humanDescription"
+      ],
+      "objects/farmables/boltbulb/wildboltbulbseed.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gross, eating this is like eating bits of a truck.",
+      "Por": "Nojento, comer isso é como comer pedaços de um caminhão."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/boltbulb/boltbulbseed.object": [
+        "/apexDescription"
+      ],
+      "objects/farmables/boltbulb/wildboltbulbseed.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Soft like a banana, but with a horrible metallic taste.",
+      "Por": "Macio como uma banana, mas com um gosto metálico horrível."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Metal mole, não gosto de carne Glitch",
+      "Metal mole, não gosto de carne Glitch."
+    ],
+    "Files": {
+      "objects/farmables/boltbulb/boltbulbseed.object": [
+        "/floranDescription"
+      ],
+      "objects/farmables/boltbulb/wildboltbulbseed.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sssquishy metal, not like Glitch flesh.",
+      "Por": "Metal mole, não é como carne Glitch."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/boltbulb/boltbulbseed.object": [
+        "/hylotlDescription"
+      ],
+      "objects/farmables/boltbulb/wildboltbulbseed.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The boltbulb is one of the few genuinely tasty vegetables, for true connoisseurs.",
+      "Por": "O boltbulb é um dos poucos vegetais genuinamente saborosos, para verdadeiros conhecedores."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/boltbulb/boltbulbseed.object": [
+        "/avianDescription"
+      ],
+      "objects/farmables/boltbulb/wildboltbulbseed.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The grounded have become quite fond of this weird, metallic vegetable.",
+      "Por": "Os grounded se tornaram completamente apaixonados por este estranho vegetal metálico."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/boltbulb/boltbulbseed.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/farmables/boltbulb/wildboltbulbseed.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This vegetable tastes like home."
+    }
+  }
+]

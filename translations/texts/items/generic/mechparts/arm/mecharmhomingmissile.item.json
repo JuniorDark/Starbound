@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/arm/mecharmhomingmissile.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A military mech arm that fires a homing missile with onboard guidance systems.",
+      "Por": "Um braço de mecha militar que dispara um míssil teleguiado com sistemas de orientação a bordo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/arm/mecharmhomingmissile.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Homing Missile Mech Arm"
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/string.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "String",
+      "Por": "String"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/string.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "You never know when a bit of string might come in handy.",
+      "Por": "Você nunca sabe quando um pouco de barbante pode vir a calhar."
+    }
+  }
+]

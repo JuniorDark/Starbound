@@ -1,0 +1,266 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mmupgrade/mmupgradegui.config": [
+        "/gui/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Matter Manipulator upgrades",
+      "Por": "Melhorias do Manipulador de Matéria"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mmupgrade/mmupgradegui.config": [
+        "/gui/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "  ^#b9b5b2;Manipulate what matters on your matter manipulator!",
+      "Por": "^#b9b5b2;Manipule o que importa no seu manipulador de matéria!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mmupgrade/mmupgradegui.config": [
+        "/upgrades/paintmode/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enable Paint Mode, for painting tiles in a variety of colours",
+      "Por": "Habilita o Modo Pintura, para pintar blocos em varias cores"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mmupgrade/mmupgradegui.config": [
+        "/upgrades/wiremode/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enable Wire Mode, for wiring together functional objects",
+      "Por": "Habilita o Modo Fiação, para conectar objetos funcionais"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mmupgrade/mmupgradegui.config": [
+        "/upgrades/liquidcollection/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enable the collection of liquids using Excavation Mode",
+      "Por": "Permite recolher líquidos utilizando o Modo de Escavação"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mmupgrade/mmupgradegui.config": [
+        "/upgrades/size1/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Increase area of effect to 3x3 tiles",
+      "Por": "Aumenta a área de destruição de blocos para 3x3"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mmupgrade/mmupgradegui.config": [
+        "/upgrades/size2/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Increase area of effect to 4x4 tiles",
+      "Por": "Aumenta a área de destruição de blocos para 4x4"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mmupgrade/mmupgradegui.config": [
+        "/upgrades/size3/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Increase area of effect to 5x5 tiles",
+      "Por": "Aumenta a área de destruição de blocos para 5x5"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mmupgrade/mmupgradegui.config": [
+        "/upgrades/range1/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Increase effective manipulator range by 2 tiles",
+      "Por": "Aumenta 2 blocos de alcance do manipulador"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mmupgrade/mmupgradegui.config": [
+        "/upgrades/range2/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Increase effective manipulator range by 4 tiles",
+      "Por": "Aumenta 4 blocos de alcance do manipulador"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mmupgrade/mmupgradegui.config": [
+        "/upgrades/range3/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Increase effective manipulator range by 6 tiles",
+      "Por": "Aumenta 6 blocos de alcance do manipulador"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mmupgrade/mmupgradegui.config": [
+        "/upgrades/power1/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Increase matter deconstruction rate by 100%",
+      "Por": "Aumenta a taxa de destruição do manipulador em 100%"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mmupgrade/mmupgradegui.config": [
+        "/upgrades/power2/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Increase matter deconstruction rate by 200%",
+      "Por": "Aumenta a taxa de destruição do manipulador em 200%"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mmupgrade/mmupgradegui.config": [
+        "/upgrades/power3/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Increase matter deconstruction rate by 300%",
+      "Por": "Aumenta a taxa de destruição do manipulador em 300%"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mmupgrade/mmupgradegui.config": [
+        "/defaultDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Select an upgrade to view its cost and benefits",
+      "Por": "Escolha uma melhoria para ver seu custo e beneficio"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mmupgrade/mmupgradegui.config": [
+        "/gui/lblUpgradeDescription/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "You don't have a Matter Manipulator yet.",
+      "Por": "Você não tem um Manipulador de Materia ainda."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mmupgrade/mmupgradegui.config": [
+        "/gui/lblGroup2/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;EXPANSION SLOT^white;",
+      "Por": "^green;ESPAÇO DE EXPANSÃO^white;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mmupgrade/mmupgradegui.config": [
+        "/gui/lblModuleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;MANIPULATOR MODULES^white;",
+      "Por": "^green;MANIPULATOR MODULES^white;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mmupgrade/mmupgradegui.config": [
+        "/gui/lblGroup1/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;MATTER PROC UNIT^white;",
+      "Por": "^green;PROCESSADOR DE MATERIA^white;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mmupgrade/mmupgradegui.config": [
+        "/gui/lblGroup4/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;OPTICS^white;",
+      "Por": "^green;ÓTICOS^white;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mmupgrade/mmupgradegui.config": [
+        "/gui/lblGroup3/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;POWER GENERATOR^white;",
+      "Por": "^green;GERADOR DE ENERGIA^white;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/mmupgrade/mmupgradegui.config": [
+        "/gui/lblModuleCount/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^yellow;0 / 0^white;",
+      "Por": "^yellow;0 / 0^white;"
+    }
+  }
+]

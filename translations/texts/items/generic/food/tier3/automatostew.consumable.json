@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier3/automatostew.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A surprisingly tasty stew, if you watch out for the bits of metal.",
+      "Por": "Um ensopado surpreendentemente saboroso, se você tomar cuidado com os pedaços de metal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier3/automatostew.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Automato Stew",
+      "Por": "Automato Stew"
+    }
+  }
+]

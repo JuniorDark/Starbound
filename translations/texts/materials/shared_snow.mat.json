@@ -1,0 +1,61 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/snow.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/snow.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Buncha fresh snow.",
+      "Por": "Monte de neve fresca."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/snow.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/snow.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cold ssnowy sstuff.",
+      "Por": "Coisass nevadass friass."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/snow.matitem": [
+        "/description"
+      ],
+      "tiles/materials/snow.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Soft and fluffy snow.",
+      "Por": "Neve macia e fofa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/snow.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/snow.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This snow looks freshly fallen."
+    }
+  }
+]

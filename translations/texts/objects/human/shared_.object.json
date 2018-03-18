@@ -1,0 +1,80 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Um aquecedor. Eu nunca senti a necessidade de um."
+    ],
+    "Files": {
+      "objects/human/bunkerheater1/bunkerheater1.object": [
+        "/novakidDescription"
+      ],
+      "objects/human/prisonradiator/prisonradiator.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A radiator. I never felt the need for one.",
+      "Por": "Um aquecedor. Nunca senti a necessidade de um."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkerheater1/bunkerheater1.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/human/prisonradiator/prisonradiator.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small heater."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Um aquecedor espacial. O nome faz soar futurista e legal."
+    ],
+    "Files": {
+      "objects/human/bunkerheater1/bunkerheater1.object": [
+        "/humanDescription"
+      ],
+      "objects/human/prisonradiator/prisonradiator.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A space heater. The name makes it sound futuristic and cool.",
+      "Por": "Um aquecedor de ambiente. O nome faz soar futurista e legal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkerheater1/bunkerheater1.object": [
+        "/apexDescription"
+      ],
+      "objects/human/prisonradiator/prisonradiator.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A warm, cosy portable heater.",
+      "Por": "Um aquecedor portátil quente e acolhedor."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkerheater1/bunkerheater1.object": [
+        "/avianDescription"
+      ],
+      "objects/human/prisonradiator/prisonradiator.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Perfect for warming the feathers.",
+      "Por": "Perfeito para aquecer as penas."
+    }
+  }
+]

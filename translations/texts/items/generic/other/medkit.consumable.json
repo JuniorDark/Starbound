@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/other/medkit.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Medical Kit",
+      "Por": "Medical Kit"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/other/medkit.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Restores 100 health over 10 seconds, and instantly cures most status effects.",
+      "Por": "Restaura 100 de vida ao longo de 10 segundos, e cura instantaneamente a maioria dos efeitos negativos."
+    }
+  }
+]

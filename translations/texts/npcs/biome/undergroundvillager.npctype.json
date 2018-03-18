@@ -1,0 +1,298 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/biome/undergroundvillager.npctype": [
+        "/scriptConfig/dialog/converse/human/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "A stranger! I'm not used to company down here. Do you come in peace?",
+      "Por": "Um estranho! Eu não estou acostumado a companhia aqui em baixo. Você veio em paz?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/biome/undergroundvillager.npctype": [
+        "/scriptConfig/dialog/converse/apex/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are you down here to hide as well, my friend?",
+      "Por": "Você está aqui embaixo para se esconder também, meu amigo?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/biome/undergroundvillager.npctype": [
+        "/scriptConfig/dialog/converse/human/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are you down here to mine? Or perhaps you're looking for those mysterious doors...",
+      "Por": "Você está aqui para minerar? Ou talvez você esteja procurando as portas misteriosas..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/biome/undergroundvillager.npctype": [
+        "/scriptConfig/dialog/converse/hylotl/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Did you come down here to meditate? Or perhaps you are lost?",
+      "Por": "Você veio até aqui para meditar? Ou talvez você esteja perdido?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/biome/undergroundvillager.npctype": [
+        "/scriptConfig/dialog/converse/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran not used to ssseeing people down here.",
+      "Por": "Floran não esta acostumado a ver pessoas aqui em baixo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/biome/undergroundvillager.npctype": [
+        "/scriptConfig/dialog/converse/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran prefers hunting underground. Easier to ssneak.",
+      "Por": "Floran prefere caçar no subterrâneo. Mais fácil de esgueirar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/biome/undergroundvillager.npctype": [
+        "/scriptConfig/dialog/converse/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran surprised to see ssstranger here! Floran mostly alone...",
+      "Por": "Floran surpreso de ver estranho aqui! Floran quase sempre sozinho..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/biome/undergroundvillager.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Greetings, are you planning on staying here a while?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/biome/undergroundvillager.npctype": [
+        "/scriptConfig/dialog/converse/hylotl/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Greetings, stranger. Have you come to these caves to find personal enlightenment?",
+      "Por": "Saudações, estranho. Você veio a essas cavernas para encontrar a iluminação pessoal?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/biome/undergroundvillager.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/3/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "How did you manage to get down here? You must be brave."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/biome/undergroundvillager.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I live underground! It's the best lifestyle.",
+      "Por": "Eu vivo no subterrâneo! É o melhor estilo de vida."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/biome/undergroundvillager.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I was not expecting company down here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/biome/undergroundvillager.npctype": [
+        "/scriptConfig/dialog/converse/human/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've been down here for quite some time. How is the Protectorate doing?",
+      "Por": "Estive aqui por algum tempo. Como o Protetorado esta indo?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/biome/undergroundvillager.npctype": [
+        "/scriptConfig/dialog/converse/human/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "If I hide down here, my enemies won't find me...",
+      "Por": "Se eu esconder aqui, meus inimigos não vão me encontrar..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/biome/undergroundvillager.npctype": [
+        "/scriptConfig/dialog/converse/apex/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Not even Big Ape and his Miniknog could find me down here... That is my hope.",
+      "Por": "Nem mesmo Big Ape e seu Miniknog poderiam me encontrar aqui em baixo... Essa é a minha esperança."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/biome/undergroundvillager.npctype": [
+        "/scriptConfig/dialog/converse/apex/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Not even the Miniknog's scouts would come down to these caverns...",
+      "Por": "Nem mesmo os escoteiros de Miniknog iriam descer nessas cavernas..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/biome/undergroundvillager.npctype": [
+        "/scriptConfig/dialog/converse/avian/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Seeing you sent a shock through my feathers! I am not accustomed to company.",
+      "Por": "Vendo que você enviou um choque através de minhas penas! Não estou acostumado a companhia."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/biome/undergroundvillager.npctype": [
+        "/scriptConfig/dialog/converse/floran/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssstranger! Floran not expecting company down here!",
+      "Por": "Estranho! Floran não estava esperando companhia aqui em baixo!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/biome/undergroundvillager.npctype": [
+        "/scriptConfig/dialog/converse/apex/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "The dark hides many things down here. Are you a treasure hunter?",
+      "Por": "A escuridão esconde muitas coisas aqui em baixo. Você é um caçador de tesouros?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/biome/undergroundvillager.npctype": [
+        "/scriptConfig/dialog/converse/avian/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "These caverns can be a little dangerous.",
+      "Por": "Estas cavernas podem ser um pouco perigosas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/biome/undergroundvillager.npctype": [
+        "/scriptConfig/dialog/converse/avian/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Travellers like you come through here occasionally. I never see them again...",
+      "Por": "Viajantes como você chegam até aqui ocasionalmente. Eu nunca mais os vejo novamente..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/biome/undergroundvillager.npctype": [
+        "/scriptConfig/dialog/converse/avian/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welcome! Are you hoping to live down here? I could do with a neighbour.",
+      "Por": "Bem vindo! Você está esperando viver aqui em baixo? Eu poderia ter um vizinho."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/biome/undergroundvillager.npctype": [
+        "/scriptConfig/dialog/converse/hylotl/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welcome, traveller! Are you in these caves to search for treasures?",
+      "Por": "Bem-vindo, viajante! Você está nestas cavernas para procurar tesouros?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/biome/undergroundvillager.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "You are the first individual I have seen in some time."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/biome/undergroundvillager.npctype": [
+        "/scriptConfig/dialog/converse/hylotl/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "You are welcome company! I have survived down here alone for some time.",
+      "Por": "Você é uma companhia bem-vinda! Tenho sobrevivido até aqui sozinho por algum tempo."
+    }
+  }
+]

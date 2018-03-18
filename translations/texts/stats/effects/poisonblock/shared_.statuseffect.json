@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Resistência a Veneno"
+    ],
+    "Files": {
+      "stats/effects/poisonblock/antidote.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/poisonblock/poisonblock.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Poison Resistance",
+      "Por": "Resistençia a Veneno"
+    }
+  }
+]

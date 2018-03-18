@@ -1,0 +1,39 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/outposthylotlwarrior.npctype": [
+        "/scriptConfig/dialog/converse/hylotl/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Many among my people despise your kind, but I think the tenacity of the Floran is worthy of praise.",
+      "Por": "Muitos entre os meus desprezam o seu tipo, mas acho que a tenacidade do Floran é digno de louvor."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/outposthylotlwarrior.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0",
+        "/scriptConfig/dialog/converse/hylotl/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "We Hylotl are not widely regarded as great warriors, but in reality our fighters are some of the finest around.",
+      "Por": "Nós Hylotl não somos amplamente considerados como grandes guerreiros, mas na realidade os nossos lutadores são alguns dos melhores por ai."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/outposthylotlwarrior.npctype": [
+        "/scriptConfig/dialog/converse/hylotl/hylotl/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You honour me with your presence.",
+      "Por": "Você me honra com a sua presença."
+    }
+  }
+]

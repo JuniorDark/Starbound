@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/mossypackeddirt.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/mossypackeddirt.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mossy Packed Dirt",
+      "Por": "Mossy Packed Dirt"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/mossypackeddirt.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/mossypackeddirt.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Packed dirt covered in growing mosss.",
+      "Por": "Terra batida coberta de mussgo crescendo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/mossypackeddirt.matitem": [
+        "/description"
+      ],
+      "tiles/materials/mossypackeddirt.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Packed dirt, covered in moss.",
+      "Por": "Terra batida, coberta de musgo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/mossypackeddirt.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/mossypackeddirt.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This here dirt's all cover'd in moss.",
+      "Por": "Esta terra aqui esta toda coberta de musgo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/mossypackeddirt.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/mossypackeddirt.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This packed dirt has moss growing on it."
+    }
+  }
+]

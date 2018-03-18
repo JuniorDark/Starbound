@@ -1,0 +1,78 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Um tesouro cintilante de tesouro valioso."
+    ],
+    "Files": {
+      "items/materials/treasurehoard.matitem": [
+        "/description"
+      ],
+      "tiles/materials/treasurehoard.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A shimmering hoard of valuable treasure.",
+      "Por": "Uma cintilante acumulação de tesouro valioso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/treasurehoard.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/treasurehoard.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran likes ssshiny gold!",
+      "Por": "Floran gosta de ouro brilhante!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/treasurehoard.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/treasurehoard.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gold! I can hardly contain my excitement!",
+      "Por": "Ouro! Eu mal consigo conter a minha excitação!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/treasurehoard.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/treasurehoard.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can't take my eyes off this treasure."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/treasurehoard.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/treasurehoard.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Treasure Hoard",
+      "Por": "Treasure Hoard"
+    }
+  }
+]

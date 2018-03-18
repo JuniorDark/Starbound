@@ -1,0 +1,50 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/arena/arenaadvisor1.npctype": [
+        "/scriptConfig/dialog/converse/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Berserker's electric blade will slow your movement leaving you vulnerable to Bruiser's attacks. Keep your distance.",
+      "Por": "A espada elétrica do Berserker vai te deixar lento, deixando você vulnerável aos ataques do Brutamonte. Mantenha distância."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/arena/arenaadvisor1.npctype": [
+        "/scriptConfig/dialog/converse/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bruiser is the largest, and strongest of the gladiators, but size makes him slow and easy to outrun.",
+      "Por": "O Brutamonte é o maior e o mais forte dos gladiadores, mas o tamanho o torna lento e um alvo fácil."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/arena/arenaadvisor1.npctype": [
+        "/scriptConfig/dialog/converse/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "The shooter will keep at range from you. If you manage to get close, she'll be the easiest to take out.",
+      "Por": "A atiradora vai manter distância de você. Se você conseguir chegar perto, ela será um alvo mais fácil."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/arena/arenaadvisor1.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "There are three gladiators, and each fights differently.",
+      "Por": "Existem três gladiadores, cada um com um estilo de luta diferente."
+    }
+  }
+]

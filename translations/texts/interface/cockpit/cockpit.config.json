@@ -1,0 +1,1929 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/gui/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": " Navigation Console",
+      "Por": " Console de Navegação"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/clusterMoons/plural"
+      ]
+    },
+    "Texts": {
+      "Eng": "%s orbiting bodies",
+      "Por": "%s corpos em órbita"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/threatLevelText/default/7",
+        "/threatLevelText/default/8",
+        "/threatLevelText/default/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "***"
+    }
+  },
+  {
+    "Comment": "Expressão regular (não para tradução, mas para apoiar nomes em alfabeto cirílico)",
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/gui/coordinatesFrame/children/x/regex",
+        "/gui/coordinatesFrame/children/y/regex"
+      ]
+    },
+    "Texts": {
+      "Eng": "-?[0-9]{0,10}"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/jungle/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "A ^#12a003;jungle^white; landing site densely inhabited by flora and fauna of many kinds. The area is rich with resources but ^red;phenomenally high in radiation^white;.",
+      "Por": "O local de pouso é uma ^#12a003;selva^white; densamente habitada por fauna e flora de vários tipos. A área é rica em recursos, mas ^red;fenomenalmente alta em radiação^white;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/tundra/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "A ^#61ffe3;frozen^white; place, formed of ice - the permafrost runs deep here. Snow storms are common, and ^red;temperatures are dangerously low^white;.",
+      "Por": "Um lugar ^#61ffe3;congelado^white;, formado de gelo - o permafrost é mais profundo aqui. Tempestades de neve são comuns, e as ^red;temperaturas são perigosamente baixas^white;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/desert/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "A ^#e6c801;desert^white; area populated by cacti, as well as various animal life. A relatively safe landing site, so long as you avoid the sandstorms.",
+      "Por": "Uma área de ^#e6c801;deserto^white; habitada por cactos, bem como várias vida animais. Um local de pouso relativamente seguro, desde que você evite as tempestades de areia."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/asteroids/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bare cluster of ^#d7711e;asteroids^white;. Readings indicate ^red;there is no atmosphere^white; or life here. Just endless nothingness, with plenty of space for construction.",
+      "Por": "Um aglomerado de ^#d7711e;asteróides^white;. Leituras indicam que ^red;não há atmosfera^white; ou vida aqui. Apenas o nada sem fim, com muito espaço para construção."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/asteroids/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "A clutch of ^#d7711e;asteroids^white; drifting along an elliptical orbit. Readings indicate ^red;there is no atmosphere here^white;. Or anything else for that matter...",
+      "Por": "Um punhado de ^#d7711e;asteróides^white; derivam ao longo de uma órbita elíptica. Leituras indicam que ^red;não há atmosfera aqui^white;. Ou qualquer outra coisa que importe..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/worldTypeDescription/GasGiant/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "A gas giant. There is no solid substance to this planet, just a collection of swirling gases.",
+      "Por": "Um planeta gasoso. Não há nenhuma substância sólida neste planeta, apenas uma coleção de gases rodando."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/worldTypeDescription/GasGiant/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "A giant ball of gases intermingling with one another. There is simply nothing here to land on.",
+      "Por": "Uma gigantesca bola de gases misturam-se umas com as outras. Simplesmente não há nada aqui para pousar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/alien/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "A landing site characterised by odd flora, aggressive fauna and ^red;sickeningly high levels of radiation^white;. The area's inhabitants are severely ^#7800ff;mutated^white;.",
+      "Por": "Um local de pouso caracterizado pela flora estranha, fauna agressiva e ^red;níveis elevados de radiação^white;. Os habitantes da região são severamente ^#7800ff;mutantes^white;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/asteroids/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "A lifeless band of ^#d7711e;asteroids^white; ^red;without atmosphere^white;: drifting through space, anchored to a distant star... A nice place to build a house.",
+      "Por": "Um grupo de ^#d7711e;asteróides^white; sem vida e ^red;sem atmosfera^white;: à deriva pelo espaço, ancorado a uma estrela distante... Um bom lugar para construir uma casa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/moon/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "A lonely ^#949493;moon^white; with ^red;no breathable atmosphere^white;; the sky is open to the stars, there is fuel below the ground. Likelihood of feeling lonesome and desolate: 92%.",
+      "Por": "Uma ^#949493;lua^white; solitária ^red;sem atmosfera respirável^white;; o céu está aberto para as estrelas, existe combustível abaixo do solo. Probabilidade de se sentir solitário e desolado: 92%."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/ocean/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "A planet of deep ^#008aff;oceans^white; and small islands. My readings indicate that aquatic life is abundant and that the islets of the surface are extremely picturesque.",
+      "Por": "Um planeta de ^#008aff;oceanos^white; profundos e pequenas ilhas. Minhas leituras indicam que a vida aquática é abundante e que as ilhotas da superfície são extremamente pitorescas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/arctic/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "A site of ^red;dangerously low temperatures^white;. There are few animals here, and no plant-life at all - just forsaken islands in a ^#00ffe4;frigid ocean^white;.",
+      "Por": "Um local de ^red;temperaturas perigosamente baixas^white;. Há poucos animais aqui, e nenhuma vida vegetal apesar de tudo - apenas  ilhas abandonadas em um ^#00ffe4;oceano gelado^white;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/gui/objectinfo/children/inner/children/bookmark/caption",
+        "/gui/planetinfo/children/inner/children/bookmark/caption",
+        "/objectInfoBox/bookmarkButtonCaption/add",
+        "/planetInfoBox/bookmarkButtonCaption/add"
+      ]
+    },
+    "Texts": {
+      "Eng": "ADD BOOKMARK",
+      "Por": "ADICIONAR AOS FAVORITOS"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayWeathers/acidrain/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Acid Rain",
+      "Por": "Chuva Ácida"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayOres/aegisalt/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aegisalt"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/ocean/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "An ^#008aff;ocean^white; covered planet spotted with islands and teeming with life. My readings indicate that there is a great deal of activity in the depths of the waters.",
+      "Por": "Um planeta coberto por ^#008aff;oceano^white; manchado com ilhas e repleto de vida. Minhas leituras indicam que há uma grande quantidade de atividade nas profundezas das águas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/ancientgateway/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "An ^#571cff;Ancient Gateway^white; of unknown provenance; an edifice of great power and mystery.",
+      "Por": "Um ^#571cff;Portal Antigo^white; de proveniência desconhecida; um edifício de grande poder e mistério."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayWeathers/ash/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ashfall",
+      "Por": "Cinzas Vulcânicas"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayWeathers/snowstorm/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Blizzards",
+      "Por": "Nevascas"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/topLeftButtonTooltips/showBookmarkList"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bookmarks",
+      "Por": "Favoritos"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/objectInfoBox/bookmarkButtonCaption/disabled",
+        "/planetInfoBox/bookmarkButtonCaption/disabled"
+      ]
+    },
+    "Texts": {
+      "Eng": "CANNOT BOOKMARK",
+      "Por": "IMPOSSIVEL FAVORITAR"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/worldTypeDescription/GasGiant/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can't land. The crushing pressure and tearing winds of this gas giant would kill you instantly.",
+      "Por": "Não é possivel pousar. A pressão esmagadora e os ventos dilacerantes deste planeta gasoso iria matá-lo instantaneamente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayWeathers/ember/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cinder Showers",
+      "Por": "Chuva de Brasas"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/gui/jumpDialog/children/title/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Confirm FTL",
+      "Por": "Confirmar FTL"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/topLeftButtonTooltips/showCoordinates"
+      ]
+    },
+    "Texts": {
+      "Eng": "Coordinates",
+      "Por": "Coordenadas"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayOres/copper/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Copper"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayWeathers/crystalrain/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crystal Rain",
+      "Por": "Chuva de Cristal"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/gui/planetinfo/children/inner/children/description/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "DESCRIPTION OF THIS PLANET",
+      "Por": "DESCRIÇÃO DESTE PLANETA"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Perigoso"
+    ],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/objectThreatText/available/3",
+        "/threatLevelText/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dangerous",
+      "Por": "Perigosa"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/forest/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Densely colonized by trees and other flora, this ^#15ce02;forest ^white;landing site is a hospitable location that supports a diversity of life - potentially including your own.",
+      "Por": "Densamente colonizada por árvores e outras floras, esta ^#15ce02;floresta^white; é um local de pouso hospitaleiro que suporta uma diversidade de vida - potencialmente incluindo a sua própria."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayWeathers/drizzle/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Drizzle",
+      "Por": "Garoa"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayOres/durasteel/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Durasteel"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayWeathers/duststorm/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dust Storms",
+      "Por": "Tempestade de Poeira"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/bookmarks/editTitle",
+        "/objectInfoBox/bookmarkButtonCaption/edit",
+        "/planetInfoBox/bookmarkButtonCaption/edit"
+      ]
+    },
+    "Texts": {
+      "Eng": "EDIT BOOKMARK",
+      "Por": "EDITAR FAVORITO"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/objectThreatText/available/4",
+        "/threatLevelText/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Extreme",
+      "Por": "Extrema"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/jumpDialog/invalid"
+      ]
+    },
+    "Texts": {
+      "Eng": "FTL travel requires ^red;%i fuel^reset;.\n Not enough fuel to proceed.",
+      "Por": "A viagem FTL requer ^red;%i combustível^reset;.\n Sem combustível suficiente para prosseguir."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/jumpDialog/valid"
+      ]
+    },
+    "Texts": {
+      "Eng": "FTL travel will consume ^green;%i fuel^reset;.\nConfirm to proceed.",
+      "Por": "A viagem FTL consumirá ^green;%i combustível^reset;.\nConfirme para prosseguir."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/gui/jumpDialog/children/text/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "FTL travel will consume ^green;%s fuel^reset;.\nConfirm to proceed.",
+      "Por": "A viagem FTL consumirá ^green;%s combustível^reset;.\nConfirme para prosseguir."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayOres/ferozium/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ferozium"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/starTypeNames/redstar"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fiery Star",
+      "Por": "Estrela Ardente"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/ocean/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floating desert islands pepper the surface of this ^#008aff;ocean^white; planet. An environment of tropical ambiance and aesthetic.",
+      "Por": "Ilhas flutuantes desertas apimentam a superfície deste planeta ^#008aff;oceânico^white;. Um local de ambiente tropical e estético."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayWeathers/fog/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fog",
+      "Por": "Névoa"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/starTypeNames/bluestar"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frozen Star",
+      "Por": "Estrela Congelada"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/gui/coordinatesFrame/children/go/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "GO",
+      "Por": "IR"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/ancientgateway"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gateway",
+      "Por": "Portal"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/starTypeNames/whitestar"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gentle Star",
+      "Por": "Estrela Suave"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/gui/planetinfo/children/inner/children/ores/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Geological Analysis",
+      "Por": "Análise Geológica"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayOres/gold/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gold"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayWeathers/hailstones/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hail",
+      "Por": "Granizo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayWeathers/icestorm/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ice Storms",
+      "Por": "Tempestades de Gelo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/threatLevelText/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Inconceivable",
+      "Por": "Inconcebível"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayOres/iron/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Iron"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayWeathers/largemeteor/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Large Meteorites",
+      "Por": "Meteoritos Grandes"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/forest/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Leafy trees abound in this ^#15ce02;forest ^white;location. The area is hospitable to life, my database indicates that you may encounter woodland creatures.",
+      "Por": "Arvores folhosas são abundantes nesta área de ^#15ce02;floresta^white;. A área é favorável à vida, o meu banco de dados indica que você pode encontrar criaturas da floresta."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayWeathers/lightash/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Light Ashfall",
+      "Por": "Cinzas Vulcânicas Leve"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/objectThreatText/available/1",
+        "/threatLevelText/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Low",
+      "Por": "Baixa"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayWeathers/glowingrain/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Luminous Rain",
+      "Por": "Chuva Luminosa"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/moon"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lunar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/garden"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lush",
+      "Por": "Exuberante"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/gui/clusterinfo/children/inner/children/moons/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "MANY MOONS",
+      "Por": "MUITAS LUAS"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/midnight"
+      ]
+    },
+    "Texts": {
+      "Eng": "Midnight",
+      "Por": "Meia-noite"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayWeathers/groundmist/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mist",
+      "Por": "Neblina"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/objectThreatText/available/2",
+        "/threatLevelText/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Moderate",
+      "Por": "Moderada"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/starTypeNames/default"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mysterious Star",
+      "Por": "Estrela Misteriosa"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/gui/disabledLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "NAVIGATION OFFLINE",
+      "Por": "NAVEGAÇÃO OFFLINE"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/bookmarks/newTitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "NEW BOOKMARK",
+      "Por": "NOVO FAVORITO"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/clusterMoons/none"
+      ]
+    },
+    "Texts": {
+      "Eng": "No orbiting bodies",
+      "Por": "Nenhum corpo em órbita"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/objectThreatText/available/0",
+        "/objectThreatText/friendly"
+      ]
+    },
+    "Texts": {
+      "Eng": "None",
+      "Por": "Nenhuma"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/ocean"
+      ]
+    },
+    "Texts": {
+      "Eng": "Oceanic",
+      "Por": "Oceânico"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/clusterMoons/singular"
+      ]
+    },
+    "Texts": {
+      "Eng": "One orbiting body",
+      "Por": "Um corpo em órbita"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayWeathers/spacejunk/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Orbital Debris",
+      "Por": "Lixo Espacial"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/gui/systeminfo/children/inner/children/planetList/schema/listTemplate/type/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "PLANET TYPE",
+      "Por": "TIPO DE PLANETA"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/gui/bookmarksFrame/children/bookmarkList/children/bookmarkItemList/schema/listTemplate/planetName/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Planet Name",
+      "Por": "Nome do Planeta"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/gui/remoteTitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "REMOTE SYSTEM VIEW",
+      "Por": "VISÃO REMOTA DO SISTEMA"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/gui/objectinfo/children/inner/children/threat/value",
+        "/objectThreatText/unavailable"
+      ]
+    },
+    "Texts": {
+      "Eng": "REQUIRES MECH TO DEPLOY",
+      "Por": "REQUERIDO MECHA PARA LANÇAR"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/starTypeNames/yellowstar"
+      ]
+    },
+    "Texts": {
+      "Eng": "Radioactive Star",
+      "Por": "Estrela Radioativa"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayWeathers/rain/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rain",
+      "Por": "Chuva"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/barren/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Readings indicate that the landing site is of unusual hue. Also, that it is a ^#999966;barren^white; location and would be suitable for construction.",
+      "Por": "Leituras indicam que o local de pouso é de uma tonalidade incomum. Também que é um local ^#999966;estéril^white; e seria adequado para construção."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/garden/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Readings indicate the landing site is not unfavourable - the area is safe, and lavish with both flora and fauna. A ^#76fe68;lush ^white;and hospitable place.",
+      "Por": "Leituras indicam que o local de pouso não é desfavorável - a área é segura, e abundante com flora e fauna. Um local ^#76fe68;exuberante^white; e hospitaleiro."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/threatLevelText/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Risky",
+      "Por": "Arriscado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/gui/transitLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "SHIP IN TRANSIT",
+      "Por": "NAVE EM TRÂNSITO"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/gui/objectinfo/children/inner/children/name/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "SPACE OBJECT",
+      "Por": "OBJETO ESPACIAL"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/gui/systeminfo/children/inner/children/type/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "STAR TYPE",
+      "Por": "TIPO DE ESTRELA"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/gui/systeminfo/children/inner/children/name/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "SYSTEM",
+      "Por": "SISTEMA"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/gui/systemName/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "SYSTEM NAME"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/desert/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sand. Readings indicate sand. Also some cacti... but predominantly sand. Given the available information I speculate that the landing site is situated in a ^#e6c801;desert^white;.",
+      "Por": "Areia. Leituras indicam areia. Além disso, alguns cactos... mas predominantemente areia. Dada a informação disponível, eu especulo que o local de pouso está situado em um ^#e6c801;deserto^white;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayWeathers/sandstorm/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sandstorms",
+      "Por": "Tempestades de Areia"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/midnight/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scans show that the surface is ^#e11212;dark^white;. In fact, scans show little else on account of all the darkness. However, I surmise that the surface is ^red;dangerously cold^white;.",
+      "Por": "Varreduras mostram que a superfície é ^#e11212;escura^white;. De fato, as varreduras mostram um pouco mais por conta de toda a escuridão. No entanto, eu suponho que a superfície é ^red;perigosamente fria^white;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/scorchedcity"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scorched",
+      "Por": "Chamuscado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayWeathers/meteorshower/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Small Meteorites",
+      "Por": "Meteoritos Pequenos"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/snow"
+      ]
+    },
+    "Texts": {
+      "Eng": "Snowy",
+      "Por": "Nevado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayOres/solarium/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Solarium"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayWeathers/spacedustshower/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stardust",
+      "Por": "Poeira Estelar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayWeathers/storm/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Storms",
+      "Por": "Tempestades"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/gui/clusterinfo/children/inner/children/name/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "THIS IS A CLUSTER",
+      "Por": "ISTO É UM GRUPO"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/gui/planetinfo/children/inner/children/name/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "THIS IS A PLANET",
+      "Por": "ESTE É UM PLANETA"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/gui/objectinfo/children/inner/children/description/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "THIS IS A VERY NICE SPACE OBJECT",
+      "Por": "ESTE É UM OBJETO ESPACIAL MUITO AGRADÁVEL"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/starTypeNames/orangestar"
+      ]
+    },
+    "Texts": {
+      "Eng": "Temperate Star",
+      "Por": "Estrela Temperada"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/terraformedPlanetDescription/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Terraforming has made this planet safe for habitation, though unnatural in appearance.",
+      "Por": "Terraformação tornou este planeta seguro para habitação, embora não natural em aparência."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/volcanic/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "The ^#e11212;volcanic^white; landing site is ^red;catastrophically hot^white;. If you wish, I can calculate your likelihood of immediately bursting into flame upon beam down...",
+      "Por": "O local de pouso ^#e11212;vulcânico^white; é ^red;catastroficamente quente^white;. Se quiser, posso calcular sua probabilidade de imediatamente explodir nas chamas ao aterrissar..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/alien/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "The beam location is situated in a ^#7800ff;mutated^white; landscape. The ^red;high levels of radiation^white; create a noxious environment. I advise you to avoid swimming.",
+      "Por": "O local de pouso está situado em uma paisagem ^#7800ff;mutante^white;. Os ^red;altos níveis de radiação^white; criam um ambiente nocivo. Eu aconselho você evitar nadar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/scorchedcity/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "The beam site is ^#b24301;scorched^white; and desolate. Little is capable of surviving here as the ^red;temperature is fatally high^white;. People live in the area, but I cannot fathom why.",
+      "Por": "O local de pouso é ^#b24301;chamuscado^white; e desolado. Pouco é capaz de sobreviver aqui como a ^red;temperatura é fatalmente elevada^white;. Pessoas vivem na área, mas eu não consigo entender o porquê."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/arctic/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "The beam site is ^red;intensely cold^white;: a tiny island in a ^#00ffe4;frigid ocean^white;. There is a 0.025% chance you will mis-beam into the water, quickly succumbing to the awful chill.",
+      "Por": "O local de pouso é ^red;intensamente frio^white;: uma pequena ilha em um ^#00ffe4;oceano gelado^white;. Há uma chance de 0,025% de você pousar na água, rapidamente sucumbindo ao frio terrível."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/magma/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "The beam site is a tiny island isolated in a sea of ^#ff1818;magma^white;. That you would consider visiting this ^red;searingly hot^white; planet speaks volumes of your fortitude.",
+      "Por": "O local de pouso é uma pequena ilha isolada em um mar de ^#ff1818;magma^white;. O que faria você querer visitar este planeta ^red;extremamente quente^white; fala muito de sua coragem."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/garden/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "The beam site is located in a tranquil area of great bio-diversity. There are resources here that you could use. A ^#76fe68;lush ^white;and pleasant land.",
+      "Por": "O local de pouso está localizado em uma área tranquila de grande biodiversidade. Existem recursos aqui que você poderia usar. Uma terra ^#76fe68;exuberante^white; e agradável."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/volcanic/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "The beam site is situated in ^#e11212;volcanic^white; terrain and is ^red;exquisitely hot^white;. Your interest in this place certainly displays your dauntless tenacity.",
+      "Por": "O local de pouso está situado em terreno ^#e11212;vulcânico^white; e é ^red;primorosamente quente^white;. O seu interesse por este lugar certamente exibe sua persistência destemida."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/scorchedcity/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "The landing location is a ^#b24301;scorched^white; wasteland. The atmospheric ^red;temperature is dangerously high^white;. It is impressively brave of you to consider this destination.",
+      "Por": "O local de pouso é um deserto ^#b24301;chamuscado^white;. ^red;A temperatura da atmosfera é perigosamente elevada^white;. É impressionantemente corajoso da sua parte considerar este destino."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/snow/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "The landing location is cold, but not perilously so. ^#69f1fd;Snow^white; covers the area and blizzards are a possibility. A hat and gloves may be advisable.",
+      "Por": "O local de pouso é frio, mas não tão perigoso. ^#69f1fd;Neve^white; cobre a área e tempestades de neve são uma possibilidade. Um chapéu e luvas podem ser aconselháveis."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/savannah/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "The landing location is located in an area of ^#ffe21d;dry grassland^white;. Trees and shrubs grow sparsely in the heat. A dusty place of wide, flat vistas.",
+      "Por": "O local de pouso está localizado em uma área de ^#ffe21d;pastagem seca^white;. Árvores e arbustos crescem escassamente no calor. Um lugar empoeirado de vastas áreas planas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/scorchedcity/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "The landing site is ^#b24301;scorched^white; by the ^red;intense heat of the planet's surface^white;. Only a few hardy individuals remain, possibly out of pure habit.",
+      "Por": "O local de pouso é ^#b24301;chamuscado^white; pelo ^red;intenso calor da superfície do planeta^white;. Apenas uns poucos indivíduos resistentes permanecem, possivelmente fora do puro hábito."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/jungle/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "The landing site is in a dense ^#12a003;jungle^white;. A menagerie of astounding creatures live amongst the lush flora. It is a shame about the ^red;lethally high levels of radiation^white;.",
+      "Por": "O local de pouso é em uma ^#12a003;selva^white; densa. Uma mistura variada de criaturas surpreendentes vivem entre a flora exuberante. É uma pena que tenha ^red;altos níveis de radiação letal^white;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/savannah/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "The landing site is situated in an area of ^#ffe21d;dry grassland ^white;that is hot and prone to dust storms. It is neither especially pleasant, nor especially dangerous.",
+      "Por": "O local de pouso está situado em uma área de ^#ffe21d;grama seca^white; que é quente e propensa a tempestades de poeira. Não é nem especialmente agradável, nem especialmente perigoso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/magma/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "The planet surface is ^red;dangerously hot^white;. Few creatures eek out an existence amongst the planet's vast oceans of ^#ff1818;magma^white;.",
+      "Por": "A superfície do planeta é ^red;perigosamente quente^white;. Poucas criaturas sobrevivem entre os vastos oceanos do planeta de ^#ff1818;magma^white;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/desert/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "There is limited flora here, but the location does support life. There is also an abundance of sand. Simply put, it is a ^#e6c801;desert^white;.",
+      "Por": "Há uma flora limitada aqui, mas o local suporta vida. Há também uma grande quantidade de areia. Simplificando, é um ^#e6c801;deserto^white;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/moon/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "This ^#949493;moon^white; supports no life and has ^red;no atmosphere^white;. However, fuel is abundant here - scans indicate that there is a wealth of it buried below the surface. ",
+      "Por": "Esta ^#949493;lua^white; não suporta vida e ^red;não tem atmosfera^white;. No entanto, o combustível é abundante aqui - varreduras indicam que há uma riqueza dele enterrado abaixo da superfície."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/midnight/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "This ^#e11212;dark^white; world is ^red;perilously cold^white;. Strange shadowy figures dwell here, hidden in the unremitting night.",
+      "Por": "Este mundo ^#e11212;escuro^white; é ^red;perigosamente frio^white;. Estranhas figuras sombrias moram aqui, escondidas no meio da noite incessante."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/tundra/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "This ^red;dangerously cold.^white; landing site is ^#61ffe3;frozen^white; solid. High likelihood of accidental self-cryopreservation. Protect yourself from the cold.",
+      "Por": "Este local de pouso ^red;perigosamente frio^white; é ^#61ffe3;congelado^white;. Alta probabilidade de acidentalmente se auto-congelar. Proteja-se do frio."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/magma/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "This ^red;dangerously hot^white; planet is chiefly composed of ^#ff1818;magma^white;. Remember, your resilient spirit is admirable, but it is not flame retardant.",
+      "Por": "Este planeta ^red;perigosamente quente^white; é principalmente composto de ^#ff1818;magma^white;. Lembre-se, o seu espírito resistente é admirável, mas não é imune a chamas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/toxic/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "This ^red;highly radioactive^white; planet is a poisonous wilderness inhabited by irradiated lifeforms. It's luminescent surface is ^#06ff00;toxic^white;. An uninviting destination.",
+      "Por": "Este planeta ^red;altamente radioativo^white; é um deserto venenoso habitado por formas de vida irradiadas. Sua superfície luminescente é ^#06ff00;toxica^white;. Um destino pouco atraente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/savannah/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "This area of ^#ffe21d;dry grassland ^white;is sparsely populated by trees. It is not excessively inhospitable - readings indicate that there is a hare bouncing around.",
+      "Por": "Esta área de ^#ffe21d;pastagem seca^white; é pouco povoada por árvores. Não é excessivamente inóspita - leituras indicam que há uma lebre saltando ao redor."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/snow/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "This chilly landing site is laden with ^#69f1fd;snow^white;. Sundry trees grow here and various animals also thrive in the cold conditions. An excellent place to make snowballs.",
+      "Por": "Este local de pouso frio está repleto de ^#69f1fd;neve^white;. Diversas árvores crescem aqui e vários animais também prosperam em condições frias. Um excelente lugar para fazer bolas de neve."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/toxic/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is a ^#06ff00;toxic^white; planet replete with ^red;radiation^white;. The noxious oceans are lethally poisonous... May I remind you that other destinations are available.",
+      "Por": "Este é um planeta ^#06ff00;tóxico^white; repleto de ^red;radiação^white;. Os oceanos nocivos são letalmente venenosos... Devo lembrá-lo que outros destinos estão disponíveis."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/midnight/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is a ^#e11212;dark^white; world where the sun never rises. The surface is ^red;dangerously cold^white;. You should prepare yourself both mentally and physically before landing here.",
+      "Por": "Este é um mundo ^#e11212;escuro^white; onde o sol nunca nasce. A superfície é ^red;perigosamente fria^white;. Você deve preparar-se mentalmente e fisicamente antes de pousar aqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/alien/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is a somewhat risky landing site - ^red;radiation levels are extremely high^white;. However, the ^#7800ff;mutated^white; terrain could be described as darkly whimsical.",
+      "Por": "Este é um local de pouso um pouco arriscado - ^red;os níveis de radiação são extremamente elevados^white;. No entanto, o terreno ^#7800ff;mutante^white; poderia ser descrito como sombriamente bizarro."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/barren/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "This location is ^#999966;barren^white; and lifeless. Readings show there is nothing here. An empty, empty place.",
+      "Por": "Esta local é ^#999966;estéril^white; e sem vida. Leituras mostram que não há nada aqui. Um lugar vazio, vazio."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/snow/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "This location is relatively chill, and ^#69f1fd;snow^white; lies thickly on the ground. My sensors indicate that there are critters scampering through the soft blanket of white.",
+      "Por": "Este local é relativamente frio, e ^#69f1fd;neve^white; encontra-se espessamente no chão. Meus sensores indicam que existem criaturas correndo através do cobertor macio de branco."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/terraformedPlanetDescription/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "This planet has been altered beyond recognition by extensive terraforming.",
+      "Por": "Este planeta foi alterado além do reconhecimento por terraformação extensiva."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/toxic/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "This planet is ^#06ff00;toxic^white; - the air is putrefied and the oceans are poisonous. ^red;Radiation exceeds safe levels^white; by a factor of thousands.",
+      "Por": "Este planeta é ^#06ff00;tóxico^white; - o ar é putrefato e os oceanos são venenosos. ^red;A radiação excede os níveis seguros^white; por um fator de milhares."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/barren/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "This planet is ^#999966;barren^white;, supporting no life of any kind. There is nothing here at all...",
+      "Por": "Este planeta é ^#999966;estéril^white;, não suportando vida de qualquer tipo. Não há nada aqui..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/terraformedPlanetDescription/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "This planet's climate and ecosystems have been dramatically altered by terraforming.",
+      "Por": "O clima e os ecossistemas deste planeta foram dramaticamente alterados pela terraformação."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/moon/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "This vacant ^#949493;moon^white; has ^red;no breathable atmosphere^white;, but there are caverns below ground that contain vast fuel deposits. In summation: useful, but not enticing.",
+      "Por": "Esta ^#949493;lua^white; vaga ^red;não tem atmosfera respirável^white;, mas há cavernas abaixo do solo que contêm vastos depósitos de combustível. Em resumo: útil, mas não atraente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/gui/planetinfo/children/inner/children/threatLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Threat: ",
+      "Por": "Ameaça: "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayOres/titanium/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Titanium"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayOres/tungsten/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tungsten"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/clusterInfoBox/viewButtonCaption/disabled",
+        "/gui/clusterinfo/children/inner/children/view/caption",
+        "/gui/systeminfo/children/inner/children/view/caption",
+        "/objectInfoBox/bookmarkButtonCaption/unexplored",
+        "/systemInfoBox/viewButtonCaption/disabled",
+        "/systemTooltip/exploredLabel/unexplored"
+      ]
+    },
+    "Texts": {
+      "Eng": "UNEXPLORED",
+      "Por": "INEXPLORADO"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/gui/remoteDescription/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "UNMAPPED CELESTIAL OBJECTS UNAVAILABLE",
+      "Por": "OBJETOS CELESTES NÃO MAPEADOS INDISPONÍVEIS"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/threatLevelText/moon/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unknown",
+      "Por": "Desconhecida"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/threatLevelText/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unreal",
+      "Por": "Irreal"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/clusterInfoBox/viewButtonCaption/enabled",
+        "/systemInfoBox/viewButtonCaption/enabled"
+      ]
+    },
+    "Texts": {
+      "Eng": "VIEW",
+      "Por": "VER"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/systemTooltip/exploredLabel/explored"
+      ]
+    },
+    "Texts": {
+      "Eng": "VISITED",
+      "Por": "VISITADA"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/topLeftButtonTooltips/goToQuest"
+      ]
+    },
+    "Texts": {
+      "Eng": "View quest location",
+      "Por": "Ver localização da missão"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/topLeftButtonTooltips/goToShip"
+      ]
+    },
+    "Texts": {
+      "Eng": "View ship",
+      "Por": "Ver nave"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayOres/violium/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Violium"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/gui/planetinfo/children/inner/children/weather/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Weather",
+      "Por": "Clima"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayWeathers/windstorm/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Windstorms",
+      "Por": "Vendavais"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/gui/coordinatesFrame/children/xLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "X"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/gui/coordinatesFrame/children/yLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Y"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/forest/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Your beam site for this planet is located in a ^#15ce02;forest^white;. Readings indicate that this wooded area is relatively tranquil.",
+      "Por": "Seu local de pouso para este planeta está localizado em uma ^#15ce02;floresta^white;. Leituras indicam que esta área florestal é relativamente tranquila."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/garden/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#76fe68;Lush ^white;foothills mark this landing location. Both flora and fauna are abundant here. A beam site of immeasurable safety.",
+      "Por": "Colinas ^#76fe68;exuberantes^white; marcam esse local de pouso. A flora e fauna são abundantes aqui. Um local de pouso de segurança imensurável."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/gui/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#b9b5b2; Select your destination",
+      "Por": "^#b9b5b2; Selecione seu destino"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/volcanic/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#e11212;Volcanic^white; activity blights this planet and the beam site is in an area of particular virulence. The ^red;temperature is far beyond normally survivable levels^white;.",
+      "Por": "A atividade ^#e11212;vulcânica^white; desfaz este planeta e o local de pouso está em uma área de particular virulência. A ^red;temperatura está muito além dos níveis normais de sobrevivência^white;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/jungle/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "^red;High levels of radiation^white; render this ^#12a003;jungle^white; location an extremely hostile environment and local fauna is similarly unwelcoming.",
+      "Por": "^red;Altos níveis de radiação^white; tornam este local de ^#12a003;selva^white; um ambiente extremamente hostil e a fauna local é similarmente hostil."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/tundra/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "^red;Temperatures at the beam site are dangerously low^white;. The area is ^#61ffe3;frozen^white;, and inhabited only by flora and fauna that are extremely resistant to the cold. ",
+      "Por": "^red;As temperaturas no local de pouso estão perigosamente baixas^white;. A área está ^#61ffe3;congelada^white;, e habitada apenas por flora e fauna que são extremamente resistentes ao frio."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/visitableTypeDescription/arctic/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^red;Temperatures at the landing site are dangerously low.^white; You will be beaming onto a small island surrounded by ^#00ffe4;frigid ocean^white;. I strongly advise you to wear a scarf.",
+      "Por": "^red;As temperaturas no local de pouso estão perigosamente baixas. ^white;Você estará pousando em uma pequena ilha cercada por um ^#00ffe4;oceano glacial^white;. Eu recomendo fortemente que você use um cachecol."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/threatTextPrefix"
+      ]
+    },
+    "Texts": {
+      "Eng": "^white;Threat: ^reset;",
+      "Por": "^white;Ameaça: ^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/gui/planetinfo/children/inner/children/threatValue/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "dangerous"
+    }
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Eu te vejo!"
+    ],
+    "Files": {
+      "npcs/mission/floranpredator.npctype": [
+        "/scriptConfig/dialog/attack/floran/default/0"
+      ],
+      "npcs/story/nurufight.npctype": [
+        "/scriptConfig/dialog/attack/default/default/0"
+      ],
+      "npcs/threats/florancannibal.npctype": [
+        "/scriptConfig/dialog/attack/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I sssee you!",
+      "Por": "Eu vejo você!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/lanaoutpost.npctype": [
+        "/npcname"
+      ],
+      "npcs/story/lana.npctype": [
+        "/npcname"
+      ],
+      "npcs/story/lanafight.npctype": [
+        "/npcname"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lana"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "A caçada começou!"
+    ],
+    "Files": {
+      "npcs/mission/floranpredator.npctype": [
+        "/scriptConfig/dialog/attack/floran/default/7"
+      ],
+      "npcs/threats/florancannibal.npctype": [
+        "/scriptConfig/dialog/attack/floran/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Hunt isss on!",
+      "Por": "A Caçada começou!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/floranpredator.npctype": [
+        "/scriptConfig/dialog/attack/floran/default/6"
+      ],
+      "npcs/threats/florancannibal.npctype": [
+        "/scriptConfig/dialog/attack/floran/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "You can't run from me!",
+      "Por": "Você não pode fugir de mim!"
+    }
+  }
+]

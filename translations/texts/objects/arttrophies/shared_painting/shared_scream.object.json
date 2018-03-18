@@ -1,0 +1,34 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Floran vê esse rosto em todos que caçamos!"
+    ],
+    "Files": {
+      "objects/arttrophies/paintingapescream/paintingapescream.object": [
+        "/floranDescription"
+      ],
+      "objects/arttrophies/paintingscream/paintingscream.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran sssee this face from everyone we hunt!",
+      "Por": "Floran vê esse rosto em todos que nós caçamos!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/arttrophies/paintingapescream/paintingapescream.object": [
+        "/avianDescription"
+      ],
+      "objects/arttrophies/paintingscream/paintingscream.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is how it feels not to know about Kluex.",
+      "Por": "É assim que se sente ao não saber sobre Kluex."
+    }
+  }
+]

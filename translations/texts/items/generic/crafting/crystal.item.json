@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/crystal.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crystal",
+      "Por": "Crystal"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/crystal.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shiny crystal.",
+      "Por": "Cristal brilhante."
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier4/seafoodgratin.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fish baked with fish-like fruit. A fishy dish!",
+      "Por": "Peixe assado com frutos do mar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier4/seafoodgratin.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Seafood Gratin",
+      "Por": "Seafood Gratin"
+    }
+  }
+]

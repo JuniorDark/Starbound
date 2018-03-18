@@ -1,0 +1,73 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/claypot2/claypot2.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A cracked clay pot. It might have something useful in it!",
+      "Por": "Um pote de argila rachado. Pode ter algo de útil nisso!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/claypot2/claypot2.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A cracked clay pot. Should I smash it?",
+      "Por": "Um pote de argila rachado. Devo destruí-lo?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/claypot2/claypot2.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A cracked clay pot. Wonder what's inside?",
+      "Por": "Um pote de argila rachado decorativo. Me pergunto o que há dentro?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/claypot2/claypot2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Breaking this cracked pot will reveal the contents inside."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/claypot2/claypot2.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This cracked pot was carefully crafted, but the contents cannot be explored without breaking it.",
+      "Por": "Este pote de argila rachado foi cuidadosamente trabalhado, mas o conteúdo não pode ser explorado sem quebrá-lo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/claypot2/claypot2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unusual Clay Pot",
+      "Por": "Unusual Clay Pot"
+    }
+  }
+]

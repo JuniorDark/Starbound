@@ -1,0 +1,50 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/techscientist2.questtemplate": [
+        "/scriptConfig/descriptions/findGoal"
+      ]
+    },
+    "Texts": {
+      "Eng": "Complete the ^orange;Dash Tech obstacle course^reset;",
+      "Por": "Complete a ^orange;pista de obstáculos da Tecnologia de Corrida^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/techscientist2.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "My ^orange;Dash Tech^white; needs to be properly tested before I can go into mass-production. Would you mind ^green;putting it through its paces on my ^orange;obstacle course^white;? ^green;Talk to me again when you're ready^white; and I can send you there.",
+      "Por": "Minha ^orange;Tecnologia de Corrida^white; precisa ser devidamente testada antes que eu possa iniciar a produção em massa. Você se importaria de ^green;colocá-la em pratica na minha ^orange;pista de obstáculos^white;? ^green;Fale comigo novamente quando estiver pronto^white; e eu posso te enviar lá."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/techscientist2.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The ^orange;Dash Tech^white; appears to be functioning perfectly! Wonderful! Please, keep the Tech as a token of my thanks. I also have other prototypes that need testing, so come and see me again when you're ready.",
+      "Por": "A ^orange;Tecnologia de Corrida^white; parece estar funcionando perfeitamente! Maravilhoso! Por favor, fique com a tecnologia como um símbolo da minha gratidão. Eu também tenho outros protótipos que precisam de testes, então venha me ver novamente quando estiver pronto."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/techscientist2.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;A Dashing Individual",
+      "Por": "^orange;Uma Corrida Individual"
+    }
+  }
+]

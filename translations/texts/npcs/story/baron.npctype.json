@@ -1,0 +1,194 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/baron.npctype": [
+        "/scriptConfig/dialog/baron/start/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Affable. Hello, stranger! Welcome to my keep!",
+      "Por": "Gentil. Olá estranho! Bem-vindo ao meu forte!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/baron.npctype": [
+        "/scriptConfig/dialog/baron/start/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Attentive. What's that? You have a request? The thing behind me? Oh, that...",
+      "Por": "Atencioso. O que foi? Você tem um pedido Aquela coisa atrás de mim? Oh aquilo..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/baron.npctype": [
+        "/scriptConfig/dialog/baron/alerted/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Decisive. Right, I propose a trade; you get rid of these loathsome cultists for me, I give you the shiny bauble.",
+      "Por": "Decisivo. Certo, eu proponho uma troca; você se livra desses cultistas repugnantes para mim, eu te dou a esfera brilhante."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/baron.npctype": [
+        "/scriptConfig/dialog/baron/missionComplete/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Galvanised. Take the artifact, and take me too.",
+      "Por": "Galvanizado. Leve o artefato, e me leve também."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/baron.npctype": [
+        "/scriptConfig/dialog/baron/missionComplete/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have a teleporter you can use. I'm coming with you, I think this business needs sorting out.",
+      "Por": "Eu tenho um teletransportador que você pode usar. Eu vou com você, acho que este negócio precisa de organização."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/baron.npctype": [
+        "/scriptConfig/dialog/baron/start/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've been expecting you... Ever since you walked through the door! Ha ha ha!",
+      "Por": "Eu estive esperando por você... Desde que você entrou pela porta! Ha ha ha!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/baron.npctype": [
+        "/scriptConfig/dialog/baron/showRelic/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Imperious. Well! Goodbye then, strange person!",
+      "Por": "Arrogante. Bem! Adeus então, pessoa estranha!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/baron.npctype": [
+        "/scriptConfig/dialog/baron/finalWaveComplete/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. Brilliant work! I doubt I'll suffer a return visit from them... Hmm, you remind me of a young me.",
+      "Por": "Impressionado. Trabalho brilhante! Eu duvido que eles voltarão... Hmm, você me lembra de um jovem eu."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/baron.npctype": [
+        "/scriptConfig/dialog/baron/beamOut/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Invigorated. Out into the great unknown!",
+      "Por": "Revigorado. Para o grande desconhecido!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/baron.npctype": [
+        "/scriptConfig/dialog/baron/missionComplete/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reflective. Also, it's quite boring here.",
+      "Por": "Reflexivo. Além disso, é muito chato aqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/baron.npctype": [
+        "/scriptConfig/dialog/baron/finalWaveComplete/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shocked. What's that in the sky?!",
+      "Por": "Chocado. O que é aquilo no céu?!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/baron.npctype": [
+        "/scriptConfig/dialog/baron/finalWaveComplete/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Speechless. ...",
+      "Por": "Sem palavras. ..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/baron.npctype": [
+        "/scriptConfig/dialog/baron/alerted/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Startled. Do you hear that?",
+      "Por": "Assustado. Você ouviu isso?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/baron.npctype": [
+        "/scriptConfig/dialog/baron/alerted/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Those cloaked vagrants! Back again! This is the fourth time!",
+      "Por": "Esses vagabundos encapuzados! Voltaram! Esta é a quarta vez!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/baron.npctype": [
+        "/scriptConfig/dialog/baron/showRelic/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Yes, I found it some years ago. You can't have it; it's pretty and I like it.",
+      "Por": "Sim, eu encontrei isso há alguns anos. Você não pode tê-lo; é bonito e eu gosto."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/baron.npctype": [
+        "/scriptConfig/dialog/baron/finalWaveComplete/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "You've certainly earned your bauble!",
+      "Por": "Você certamente ganhou sua bugiganga!"
+    }
+  }
+]

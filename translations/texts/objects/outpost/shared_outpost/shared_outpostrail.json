@@ -1,0 +1,121 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostairlocklarge/outpostrailairlock.object": [
+        "/hylotlDescription"
+      ],
+      "objects/outpost/outposthatchlarge/outpostrailhatch.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A basic airlock for rail systems.",
+      "Por": "Uma eclusa de ar básica para sistemas ferroviários."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostairlocklarge/outpostrailairlock.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/outpost/outposthatchlarge/outpostrailhatch.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sturdy airlock with a rail running through it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostairlocklarge/outpostrailairlock.object": [
+        "/humanDescription"
+      ],
+      "objects/outpost/outposthatchlarge/outpostrailhatch.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An airlock that includes a rail. Useful!",
+      "Por": "Uma eclusa de ar que inclui um trilho. Útil!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostairlocklarge/outpostrailairlock.object": [
+        "/avianDescription"
+      ],
+      "objects/outpost/outposthatchlarge/outpostrailhatch.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An airlock with a rail running through it.",
+      "Por": "Uma eclusa de ar com um trilho passando por ela."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostairlocklarge/outpostrailairlock.object": [
+        "/apexDescription"
+      ],
+      "objects/outpost/outposthatchlarge/outpostrailhatch.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An airlock with a rail.",
+      "Por": "Uma eclusa de ar com trilho."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostairlocklarge/outpostrailairlock.object": [
+        "/floranDescription"
+      ],
+      "objects/outpost/outposthatchlarge/outpostrailhatch.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It'ss an airlock with railsss.",
+      "Por": "É uma eclusa de ar com trilhosss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostairlocklarge/outpostrailairlock.object": [
+        "/novakidDescription"
+      ],
+      "objects/outpost/outposthatchlarge/outpostrailhatch.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looks like an airlock with rails running through the middle.",
+      "Por": "Parece uma eclusa de ar com trilhos correndo pelo meio."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostairlocklarge/outpostrailairlock.object": [
+        "/description"
+      ],
+      "objects/outpost/outposthatchlarge/outpostrailhatch.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This door is made of some sort of bulletproof material. It has a composite rail running through it.",
+      "Por": "Esta porta é feita de algum tipo de material à prova de balas. Possui um trilho composto que corre por ela."
+    }
+  }
+]

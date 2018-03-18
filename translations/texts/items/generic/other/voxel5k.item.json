@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/other/voxel5k.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "5000 pixels compressed into a voxel. Decompress it to get those pixels back.",
+      "Por": "5000 pixels comprimidos em um voxel. Descompacte-o para obter os pixels de volta."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/other/voxel5k.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "5k Voxel",
+      "Por": "5k Voxel"
+    }
+  }
+]

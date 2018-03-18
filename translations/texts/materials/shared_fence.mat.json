@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fence.matitem": [
+        "/description"
+      ],
+      "tiles/materials/fence.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sturdy wooden fence.",
+      "Por": "Uma cerca de madeira resistente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fence.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/fence.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nothin' like a sturdy wooden fence.",
+      "Por": "Nada como uma cerca de madeira resistente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fence.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/fence.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sssturdy fence.",
+      "Por": "Cerca resissstente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fence.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/fence.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This wooden fence is quite sturdy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fence.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/fence.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wooden Fence",
+      "Por": "Wooden Fence"
+    }
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/stonetiles.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/stonetiles.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sstones polished into beautiful tiless.",
+      "Por": "Pedrass polidass em azulejoss bonitoss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/stonetiles.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/stonetiles.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stone Tiles",
+      "Por": "Stone Tiles"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/stonetiles.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/stonetiles.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stone cut 'n polished into some fancy lookin' tiles.",
+      "Por": "Pedra cortada e polida em alguns azulejos chiques."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/stonetiles.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/stonetiles.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This stone has been carefully smoothed into tiles."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/stonetiles.matitem": [
+        "/description"
+      ],
+      "tiles/materials/stonetiles.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tiles made from smoothly polished stone.",
+      "Por": "Azulejos feitos de pedra polida com suavidade."
+    }
+  }
+]

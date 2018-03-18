@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/philanthropist.npctype": [
+        "/scriptConfig/dialog/converse/human/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm feeling a little sluggish. You know why? Because I'm weighed down by all my money!",
+      "Por": "Eu estou me sentindo um pouco lento. Você sabe porque? Porque eu estou sobrecarregado por todo o meu dinheiro!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/philanthropist.npctype": [
+        "/scriptConfig/dialog/converse/human/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm lucky to have escaped Earth with my vast, vast fortune intact!",
+      "Por": "Eu tenho sorte de ter escapado da Terra com minha enorme fortuna, intacta!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/philanthropist.npctype": [
+        "/scriptConfig/dialog/converse/human/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you're truly wealthy, you need everyone to know. You wouldn't understand.",
+      "Por": "Se você é verdadeiramente rico, é necessário que todos saibam. Você não entenderia."
+    }
+  }
+]

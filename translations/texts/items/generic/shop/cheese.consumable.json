@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/shop/cheese.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A wedge of cheese.",
+      "Por": "Uma fatia de queijo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/shop/cheese.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cheese",
+      "Por": "Cheese"
+    }
+  }
+]

@@ -1,0 +1,131 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/glitchcastle/castlelord.npctype": [
+        "/scriptConfig/dialog/attack/glitch/1/glitchEmotedText"
+      ],
+      "npcs/dungeon/glitchcastle/friendlycastlelord.npctype": [
+        "/scriptConfig/dialog/attack/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A brigand! Guards!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/glitchcastle/castlelord.npctype": [
+        "/scriptConfig/dialog/attack/glitch/3/glitchEmotedText"
+      ],
+      "npcs/dungeon/glitchcastle/friendlycastlelord.npctype": [
+        "/scriptConfig/dialog/attack/glitch/3/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Guards! Guards, help!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/glitchcastle/castlelord.npctype": [
+        "/scriptConfig/dialog/attack/glitch/0/glitchEmotedText"
+      ],
+      "npcs/dungeon/glitchcastle/friendlycastlelord.npctype": [
+        "/scriptConfig/dialog/attack/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Guards! To me!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/glitchcastle/castlelord.npctype": [
+        "/scriptConfig/dialog/attack/glitch/4/glitchEmotedText"
+      ],
+      "npcs/dungeon/glitchcastle/friendlycastlelord.npctype": [
+        "/scriptConfig/dialog/attack/glitch/4/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Guards, hack this scoundrel apart!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/glitchcastle/castlelord.npctype": [
+        "/scriptConfig/dialog/attack/glitch/5/glitchEmotedText"
+      ],
+      "npcs/dungeon/glitchcastle/friendlycastlelord.npctype": [
+        "/scriptConfig/dialog/attack/glitch/5/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'd take you down myself, but I have guards for that."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/glitchcastle/castlelord.npctype": [
+        "/scriptConfig/dialog/attack/glitch/2/glitchEmotedText"
+      ],
+      "npcs/dungeon/glitchcastle/friendlycastlelord.npctype": [
+        "/scriptConfig/dialog/attack/glitch/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm too young to die!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Com Medo. Guardas! Venham!"
+    ],
+    "Files": {
+      "npcs/dungeon/glitchcastle/castlelord.npctype": [
+        "/scriptConfig/dialog/attack/default/default/0"
+      ],
+      "npcs/dungeon/glitchcastle/friendlycastlelord.npctype": [
+        "/scriptConfig/dialog/attack/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Terrified. Guards! To me!",
+      "Por": "Aterrorizado. Guardas! Venham!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/glitchcastle/castlelord.npctype": [
+        "/scriptConfig/dialog/attack/glitch/7/glitchEmotedText"
+      ],
+      "npcs/dungeon/glitchcastle/friendlycastlelord.npctype": [
+        "/scriptConfig/dialog/attack/glitch/7/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "You will leave this place... in pieces!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/glitchcastle/castlelord.npctype": [
+        "/scriptConfig/dialog/attack/glitch/6/glitchEmotedText"
+      ],
+      "npcs/dungeon/glitchcastle/friendlycastlelord.npctype": [
+        "/scriptConfig/dialog/attack/glitch/6/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "You will rue the day you invaded this place, rogue!"
+    }
+  }
+]

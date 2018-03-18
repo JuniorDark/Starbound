@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/protectorate.questtemplate": [
+        "/scriptConfig/descriptions/graduate"
+      ]
+    },
+    "Texts": {
+      "Eng": "Attend your graduation ceremony",
+      "Por": "Compareça à sua cerimônia de formatura"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/protectorate.questtemplate": [
+        "/scriptConfig/descriptions/escape"
+      ]
+    },
+    "Texts": {
+      "Eng": "Escape the destruction",
+      "Por": "Escape da destruição"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/protectorate.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Survive graduation day.",
+      "Por": "Sobreviva o dia da formatura."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/protectorate.questtemplate": [
+        "/scriptConfig/descriptions/matterManipulator"
+      ]
+    },
+    "Texts": {
+      "Eng": "Take the matter manipulator",
+      "Por": "Pegue o manipulador de matéria"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/protectorate.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Protectorate",
+      "Por": "O Protetorado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/protectorate.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The years of training paid off - you survived graduation day!",
+      "Por": "Os anos de treinamento valeram a pena - você sobreviveu ao dia da formatura!"
+    }
+  }
+]

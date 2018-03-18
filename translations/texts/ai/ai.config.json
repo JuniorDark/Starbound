@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ai/ai.config": [
+        "/shipStatus/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "> Zzz... Zzz... Zzz...",
+      "Por": "> Zzz... Zzz... Zzz... "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ai/ai.config": [
+        "/noCrewSpeech/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#6f6f6f;$ crew\n^cyan;> You are the only registered crew member of this ship.\n> Recruiting additional crew members may allow for increased operational efficiency.",
+      "Por": "^#6f6f6f;$ tripulação\n^cyan;> Você é o único membro da tripulação registrado desta nave.\n> Recrutando membros adicionais para a tripulação pode permitir uma maior eficiência operacional."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ai/ai.config": [
+        "/noMissionsSpeech/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#6f6f6f;$ missions\n^cyan;> No mission co-ordinates currently available.",
+      "Por": "^#6f6f6f;$ missões\n^cyan;> Nenhuma coordenada de missão disponível atualmente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ai/ai.config": [
+        "/shipStatus/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#6f6f6f;$ status\n^cyan;> Ship thrusters are currently offline.\n> Ship teleportation system functioning correctly.\n> ^green;Currently only the planet below is accessible.",
+      "Por": "^#6f6f6f;$ status\n^cyan;> Propulsores da nave estão atualmente offline.\n> Sistema de teletransporte da nave funcionando corretamente.\n> ^green;Atualmente apenas o planeta abaixo é acessível."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ai/ai.config": [
+        "/shipStatus/2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#6f6f6f;$ status\n^cyan;> Ship thrusters are online.\n> Ship teleportation system functioning correctly.\n> ^green;Planets within this star system are accessible.",
+      "Por": "^#6f6f6f;$ status\n^cyan;> Propulsores da nave estão online.\n> Sistema de teletransporte da nave funcionando corretamente.\n> ^green;Planetas dentro deste sistema estelar são acessíveis."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ai/ai.config": [
+        "/shipStatus/3/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#6f6f6f;$ status -f\n^cyan;> Ship thrusters are online.\n> FTL drive is online.\n> Ship teleportation system functioning correctly.\n> ^green;The entire universe is accessible.",
+      "Por": "^#6f6f6f;$ status -f\n^cyan;> Propulsores da nave estão online.\n> Motor FTL esta online.\n> Sistema de teletransporte da nave funcionando corretamente.\n> ^green;O universo inteiro está acessível."
+    }
+  }
+]

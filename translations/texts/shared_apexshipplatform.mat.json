@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/apexshipplatform.matitem": [
+        "/description"
+      ],
+      "tiles/platforms/apexshipplatform.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Durable enough to withstand the demands of space travel.",
+      "Por": "Durável o suficiente para suportar as exigências das viagens espaciais."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/apexshipplatform.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/platforms/apexshipplatform.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Platforms like this are used in space ship construction."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/apexshipplatform.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/apexshipplatform.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ship Platform",
+      "Por": "Ship Platform"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/apexshipplatform.matitem": [
+        "/florandescription"
+      ],
+      "tiles/platforms/apexshipplatform.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sstrong sship platform.",
+      "Por": "Plataforma da nave forte."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/apexshipplatform.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/platforms/apexshipplatform.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This platform's strong enough t'keep from gettin' boot scuffed.",
+      "Por": "Esta plataforma é forte o suficiente para se manter sem se desgastar."
+    }
+  }
+]

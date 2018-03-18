@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier2/carrotjuice.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Carrot Juice",
+      "Por": "Carrot Juice"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier2/carrotjuice.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Carrots in liquid form. Surprisingly sweet, unsurprisingly nutritious.",
+      "Por": "Cenouras na forma líquida. Doce e nutritivo."
+    }
+  }
+]

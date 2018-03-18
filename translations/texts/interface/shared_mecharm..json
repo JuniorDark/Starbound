@@ -1,0 +1,32 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/mecharm.itemdescription": [
+        "/energyDrainLabelLabel/value"
+      ],
+      "interface/tooltips/mecharm.tooltip": [
+        "/energyDrainLabelLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Energy Usage",
+      "Por": "Uso de Energia"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/mecharm.itemdescription": [
+        "/powerStatLabel/value"
+      ],
+      "interface/tooltips/mecharm.tooltip": [
+        "/powerStatLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Power",
+      "Por": "Força"
+    }
+  }
+]

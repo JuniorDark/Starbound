@@ -1,0 +1,231 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/outpostclue.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/signstore/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "At this store you're able to create your own custom signs.",
+      "Por": "Nesta loja você é capaz de criar suas próprias placas personalizadas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/outpostclue.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Before you go jetting off, I'll teach you how to ^green;access and use^white; the ^orange;scan mode^white; on your ^orange;Matter Manipulator^white;. There is a lot to be learned from your surroundings, and the Outpost is no exception. ^green;Press ^#71f2f6;[N]^green; to equip your ^orange;scanner^white;, key areas of interest will appear green. Let me know how you get on!",
+      "Por": "Antes de você partir, eu vou te ensinar como ^green;acessar e usar ^white;o ^orange;modo de escaneamento^white; no seu ^orange;Manipulador de Matéria^white;. Há muito a ser aprendido sobre ele, e o Posto Avançado não é exceção. ^green;Pressione ^#71f2f6;[N]^green; para equipar o seu ^orange;escaneador^white;, as principais áreas de interesse aparecerão em verde. Me avise como foi!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/outpostclue.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excellent work. It may seem trivial, but scanning is an essential skill that will be pivotal in our search for the artifacts.",
+      "Por": "Excelente trabalho. Pode parecer insignificante, mas o escaneamento é uma habilidade essencial que será fundamental na nossa busca por artefatos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/outpostclue.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/shipyardcaptain/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Penguin Pete is an authority on automobiles, from hi-tech spacecrafts to humble hoverbikes.",
+      "Por": "Penguin Pete é uma autoridade em automóveis, de naves espaciais de alta tecnologia até simples hoverbikes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/outpostclue.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scanning is such a rewarding hobby.",
+      "Por": "Escaneamento é um hobby gratificante."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/outpostclue.questtemplate": [
+        "/scriptConfig/radioMessages/complete/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "That concludes our tour for today! ^#71f2f6;Come and find me^white; when you're ready.",
+      "Por": "Isso conclui nosso passeio por hoje! ^#71f2f6;Venha me encontrar ^white;quando estiver pronto."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/outpostclue.questtemplate": [
+        "/scriptConfig/radioMessages/startWithProgress/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Outpost is a wonderful, vibrant place full of curiosities. There's still more to see!",
+      "Por": "O Posto Avançado é um lugar maravilhoso, vibrante e cheio de curiosidades. Ainda há muito para ver!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/outpostclue.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/terramart/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Terramart stocks farming and gardening supplies, among other things. They will even buy home-grown produce from you through their remote shipping service.",
+      "Por": "O Terramart estoca suplementos de agricultura e jardinagem, entre outras coisas. Eles vão até comprar produtos caseiros de você através de seu serviço de envio remoto."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/outpostclue.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/penguinbartop/text",
+        "/scriptConfig/radioMessages/uniqueProgress/penguinbartop2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The barkeep in the Beakeasy will happily trade any diamonds you may have for penguin dubloons, which are popular among his mercenary clientele.",
+      "Por": "O barman no Beakeasy terá todo o prazer negociar qualquer diamantes que você tiver por dubloons pinguim, que são populares entre sua clientela mercenária."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/outpostclue.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/techlabconsole2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "This console will allow you to equip Techs, greatly enhancing your mobility and dexterity.",
+      "Por": "Este console te permite equipar Tecnologias, que aumentam muito a sua mobilidade e destreza."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/outpostclue.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/frogfurnishing/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "This furniture shop sells a large selection of exotic pieces from across the universe, and regularly has new stock. It also sells colony deeds, which attract tenants when placed in dwellings.",
+      "Por": "Esta loja de móveis vende uma seleção de peças exóticas de todo o universo, e regularmente têm novo estoque. Ela também irá vender colony deeds, que atraem inquilinos quando colocada em casas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/outpostclue.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/frogfurnishingclosed/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "This furniture shop will sell a selection of exotic pieces from across the universe, and regularly have new stock. It will also sell colony deeds, which attract tenants when placed in dwellings.",
+      "Por": "Esta loja de móveis vai vender uma seleção de peças exóticas de todo o universo, e regularmente têm novo estoque. Ela também irá vender colony deeds, que atraem inquilinos quando colocada em casas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/outpostclue.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Visit The Outpost",
+      "Por": "Visite o Posto Avançado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/outpostclue.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/terramartclosed/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "When Terramart is open, it will stock farming and gardening supplies, among other things. They will even buy home-grown produce from you through their remote shipping service.",
+      "Por": "Quando o Terramart estiver aberto, ele ira estocar suplementos de agricultura e jardinagem, entre outras coisas. Eles vão até comprar produtos caseiros de você através de seu serviço de envio remoto."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/outpostclue.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/signstoreclosed/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "When this store is open for business you'll be able to create custom signs here.",
+      "Por": "Quando esta loja estiver aberta você vai ser capaz de criar placas personalizados aqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/outpostclue.questtemplate": [
+        "/scriptConfig/radioMessages/startAlreadyComplete/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wonderful! You certainly do possess an inquiring mind.",
+      "Por": "Maravilhoso! Você certamente possui uma mente curiosa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/outpostclue.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/2stopshopclosed/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "You can buy personal teleporters from this shop once it opens. Extremely useful things.",
+      "Por": "Você pode comprar teletransportadores pessoais desta loja, quando ela abrir. Coisas extremamente úteis."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/outpostclue.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/2stopshop/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "You can buy personal teleporters from this shop, extremely useful things.",
+      "Por": "Você pode comprar teletransportadores pessoais desta loja, coisas extremamente úteis."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/outpostclue.questtemplate": [
+        "/scriptConfig/descriptions/findClues"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Scan objects^reset; to learn more about the ^orange;Outpost^reset;",
+      "Por": "^green;Escaneie objetos^reset; para aprender mais sobre o ^orange;Posto Avançado^reset;"
+    }
+  }
+]

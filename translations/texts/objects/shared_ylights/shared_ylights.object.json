@@ -1,0 +1,68 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Eu sempre gostei de pisca-piscas."
+    ],
+    "Files": {
+      "objects/generic/fairylights/fairylights.object": [
+        "/humanDescription"
+      ],
+      "objects/holiday/holidaylights/holidaylights.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've always been fond of fairy lights.",
+      "Por": "Sempre gostei de pisca-piscas."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "É difícil não amar essas belas luzes."
+    ],
+    "Files": {
+      "objects/generic/fairylights/fairylights.object": [
+        "/avianDescription"
+      ],
+      "objects/holiday/holidaylights/holidaylights.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's hard not to love these pretty little lights.",
+      "Por": "É difícil não amar essas belas luzinhas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/fairylights/fairylights.object": [
+        "/hylotlDescription"
+      ],
+      "objects/holiday/holidaylights/holidaylights.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Such simple beauty.",
+      "Por": "Que beleza simples."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Essas pequenas luzes são bastante bonitas."
+    ],
+    "Files": {
+      "objects/generic/fairylights/fairylights.object": [
+        "/apexDescription"
+      ],
+      "objects/holiday/holidaylights/holidaylights.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These little lights are quite pretty.",
+      "Por": "Estas pequenas luzes são bastante bonitas."
+    }
+  }
+]

@@ -1,0 +1,194 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/floran_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/9/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Every clue gets us closer!",
+      "Por": "Cada pista nos deixa mais próximos!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/floran_mission1.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Find Clues to Locate the Floran Artifact",
+      "Por": "Encontre Pistas para Localizar o Artefato Floran"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/floran_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/6/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Interesting find! Keep going, you're doing well!",
+      "Por": "Achado Interessante! Continue, você está indo bem!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/floran_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/7/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Interesting that they should value such an item, and display it in this way.",
+      "Por": "Interessante que eles deviam valorizar esse item, e exibi-lo desta forma."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/floran_mission1.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now that you're familiar with scanning, ^green;we need to start finding these ^orange;artifacts^white;, dear. Yes, the Floran one first... Their colonies will contain vital ^orange;clues^reset; to its whereabouts. Floran live all over nowadays, but still prefer the dense ^orange;forest^white; vegetation of planets found around ^orange;gentle stars^white;. Good luck dear, and thank you.",
+      "Por": "Agora que você está familiarizado com o escaneamento, ^green;precisamos começar a encontrar esses ^orange;artefatos^white; querido(a). Sim, o Floran primeiro... Suas colônias irão conter ^orange;pistas^reset; vitais para o seu paradeiro. Florans vivem em tudo que é lugar hoje em dia, mas ainda preferem a vegetação densa da ^orange;floresta^white; de planetas encontrados em torno de ^orange;estrelas suaves^white;. Boa sorte, querido(a), e obrigada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/floran_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Floran don't pay much attention to history, but they greatly value tradition. It's helpful to build a picture of the culture.",
+      "Por": "Os Floran não dão muita atenção para história, mas eles valorizam muito a tradição. Isso ajuda a construir uma imagem da cultura."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/floran_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/ixolingpike/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The creature that these remains belonged to aren't native to this area - I'll look through my taxonomic records and see if I can discover its origins and importance.",
+      "Por": "A criatura a que esses restos pertenciam não são nativos desta área - Vou olhar nos meus registros taxonômicos e ver se consigo descobrir suas origens e importância."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/floran_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/floranwebbing/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "This glutinous webbing is of unusual hue and texture. The species that produced it must be unique in its characteristics, and probably limited in its environment.",
+      "Por": "Essa teia pegajosa tem uma cor e textura incomum. As espécies que produziram deve ser únicas nas suas características, e provavelmente limitada em seu ambiente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/floran_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/floranhunterpainting/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "This image depicts a Floran hunter, their garb seems almost ceremonial.",
+      "Por": "Esta imagem descreve um caçador Floran, seus trajes parecem quase cerimonial."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/floran_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/floranspinneret/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "This spinneret is unusually large - what kind of creature could support such an organ? This is evidently a prized trophy. I wonder...",
+      "Por": "Esta fieira é incomumente grande - que tipo de criatura poderia suportar tal órgão? Este é evidentemente um troféu premiado. Eu me pergunto..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/floran_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/championspeardisplay/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Traditional Floran culture places great importance on their hunts and their hunters... I'm certain that will have an impact upon the location of their artifact.'.",
+      "Por": "A cultura Floran tradicional da grande importância a suas caçadas e seus caçadores... Estou certa de que isso terá um impacto na localização de seu artefato.'."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/floran_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/4/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Violence reigns in Floran culture - sometimes disorderly, sometimes organised in nature.",
+      "Por": "Violência reina na cultura Floran - às vezes desordenadamente, às vezes organizada na natureza."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/floran_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/complete/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wonderful - I believe I now know just where the Artifact might be! ^#71f2f6;Come and meet me back at the Ark when you're ready^white;, dear.",
+      "Por": "Maravilhoso - Acredito que agora sei exatamente onde o artefato possa estar! ^#71f2f6;Venha e me encontre novamente no Ark quando estiver pronto, querido(a)."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/floran_mission1.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "You did it! That was the last clue we needed. I know just where the Floran artifact is now.",
+      "Por": "Você conseguiu! Essa foi a última pista que precisávamos. Eu sei exatamente onde o artefato Floran esta agora."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/floran_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/startAlreadyComplete/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "You're quite the collector of Floran antiquities! It appears you've already located enough clues to to allow me to identify the location of the Artifact!",
+      "Por": "Você é um bom colecionador de antiguidades Floran! Parece que você já localizou pistas suficientes que me permita identificar a localização do Artefato!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/floran_mission1.questtemplate": [
+        "/scriptConfig/descriptions/findClues"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Scan objects^reset; to find ^orange;Floran clues^reset;",
+      "Por": "^green;Escaneie objetos^reset; para achar ^orange;pistas sobre o Artefato Floran^reset;"
+    }
+  }
+]

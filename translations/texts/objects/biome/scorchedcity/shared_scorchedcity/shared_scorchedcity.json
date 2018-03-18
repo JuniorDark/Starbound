@@ -1,0 +1,94 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/scorchedcity/scorchedcitycrate/scorchedcitycrate.object": [
+        "/hylotlDescription"
+      ],
+      "objects/biome/scorchedcity/scorchedcitysmallcrate/scorchedcitysmallcrate.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A crate that appears to have rusted.",
+      "Por": "Uma caixa que parece estar enferrujada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/scorchedcity/scorchedcitycrate/scorchedcitycrate.object": [
+        "/novakidDescription"
+      ],
+      "objects/biome/scorchedcity/scorchedcitysmallcrate/scorchedcitysmallcrate.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A rusty lookin' crate.",
+      "Por": "Uma caixa enferrujada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/scorchedcity/scorchedcitycrate/scorchedcitycrate.object": [
+        "/apexDescription",
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/biome/scorchedcity/scorchedcitysmallcrate/scorchedcitysmallcrate.object": [
+        "/apexDescription",
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A rusty looking crate.",
+      "Por": "Uma caixa enferrujada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/scorchedcity/scorchedcitycrate/scorchedcitycrate.object": [
+        "/avianDescription"
+      ],
+      "objects/biome/scorchedcity/scorchedcitysmallcrate/scorchedcitysmallcrate.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A rusty storage box.",
+      "Por": "Uma caixa de armazenamento enferrujada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/scorchedcity/scorchedcitycrate/scorchedcitycrate.object": [
+        "/humanDescription"
+      ],
+      "objects/biome/scorchedcity/scorchedcitysmallcrate/scorchedcitysmallcrate.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's just a crate. A little rusty but still intact.",
+      "Por": "É apenas uma caixa. Um pouco enferrujada, mas ainda intacta."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/scorchedcity/scorchedcitycrate/scorchedcitycrate.object": [
+        "/floranDescription"
+      ],
+      "objects/biome/scorchedcity/scorchedcitysmallcrate/scorchedcitysmallcrate.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Russsty box.",
+      "Por": "Caixa enferrujada."
+    }
+  }
+]

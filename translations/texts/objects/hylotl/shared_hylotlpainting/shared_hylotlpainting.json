@@ -1,0 +1,49 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Tenho quase a certeza que tínhamos esta mesma pintura na terra."
+    ],
+    "Files": {
+      "objects/hylotl/hylotlpainting1/hylotlpainting1.object": [
+        "/humanDescription"
+      ],
+      "objects/hylotl/hylotlpainting2/hylotlpainting2.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm pretty sure we had this exact same painting on Earth.",
+      "Por": "Tenho quase a certeza que tínhamos esta mesma pintura na Terra."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/hylotlpainting1/hylotlpainting1.object": [
+        "/avianDescription"
+      ],
+      "objects/hylotl/hylotlpainting2/hylotlpainting2.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Not bad! Brushwork's a bit sloppy, though.",
+      "Por": "Nada mau! As pinceladas são um pouco desleixadas, no entanto."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/hylotlpainting1/hylotlpainting1.object": [
+        "/apexDescription"
+      ],
+      "objects/hylotl/hylotlpainting2/hylotlpainting2.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This painting is quite nice.",
+      "Por": "Esta pintura é muito agradável."
+    }
+  }
+]

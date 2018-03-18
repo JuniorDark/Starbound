@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/direstone.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/direstone.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dire Stone",
+      "Por": "Dire Stone"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/direstone.matitem": [
+        "/description"
+      ],
+      "tiles/materials/direstone.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Little wormlike forms wriggle beneath the surface of this glassy stone.",
+      "Por": "Vermezinhos se contorcem sob a superfície desta pedra vítrea."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/direstone.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/direstone.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The worms in this stone appear to help maintain its rigidity."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/direstone.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/direstone.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "There's little wigglin' worms inside this stone.",
+      "Por": "Há vermezinhos se contorcendo dentro desta pedra."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/direstone.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/direstone.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wiggly wormssstone!",
+      "Por": "Pedra de vermes se contorcendo!"
+    }
+  }
+]

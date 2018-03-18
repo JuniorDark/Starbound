@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/booster/mechboostersimple.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Basic Mech Boosters"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/booster/mechboostersimple.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mass-produced mech boosters, with external fuel tank attachments.",
+      "Por": "Propulsores de mecha produzidos em massa, com anexos externos de tanque de combustível."
+    }
+  }
+]

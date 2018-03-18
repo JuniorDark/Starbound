@@ -1,0 +1,91 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/locker1/locker1.object": [
+        "/avianDescription"
+      ],
+      "objects/generic/locker2/locker2.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal box, probably built for storage.",
+      "Por": "Uma caixa de metal, provavelmente construída para armazenamento."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/locker1/locker1.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/generic/locker2/locker2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small amount of wall storage."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/locker1/locker1.object": [
+        "/apexDescription"
+      ],
+      "objects/generic/locker2/locker2.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A storage locker.",
+      "Por": "Um armário de armazenamento."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/locker1/locker1.object": [
+        "/humanDescription"
+      ],
+      "objects/generic/locker2/locker2.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "There's no lock on this locker...",
+      "Por": "Não há fechadura neste armário..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/locker1/locker1.object": [
+        "/novakidDescription"
+      ],
+      "objects/generic/locker2/locker2.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This locker doesn't actually lock.",
+      "Por": "Este armário na verdade não tranca."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/locker1/locker1.object": [
+        "/hylotlDescription"
+      ],
+      "objects/generic/locker2/locker2.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Useful storage.",
+      "Por": "Armazenamento útil."
+    }
+  }
+]

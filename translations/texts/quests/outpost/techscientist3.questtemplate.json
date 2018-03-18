@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/techscientist3.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've been working on a new piece of tech that enables the user to perform a jump in mid-air, allowing them to reach incredible new heights! Unfortunately, I require a few more components before I can finish it. ^green;Could you bring me ^orange;10 Silver Bars^white;?",
+      "Por": "Eu estive trabalhando em uma tecnologia que permite o usuário executar um salto no ar, permitindo alcançar incríveis alturas! Infelizmente, eu preciso de mais alguns componentes antes que eu possa terminar. ^green;Você poderia me trazer ^orange;10 Silver Bars^white;?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/techscientist3.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Marvelous! With these additions the ^orange;Pulse Jump Tech^white; is ready for testing! Come and speak to me again if you'd like to help.",
+      "Por": "Maravilhoso! Com estas adições a ^orange;Tecnologia de Pulo de Pulso^white; está pronta para teste! Venha falar comigo se você gostaria de ajudar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/techscientist3.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Jump-starting Development",
+      "Por": "^orange;Desenvolvimento de Pulo"
+    }
+  }
+]

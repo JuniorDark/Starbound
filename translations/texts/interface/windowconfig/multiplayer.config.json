@@ -1,0 +1,62 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/multiplayer.config": [
+        "/connect/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Join server",
+      "Por": "Entrar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/multiplayer.config": [
+        "/port/hint"
+      ]
+    },
+    "Texts": {
+      "Eng": "port",
+      "Por": "porta"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/multiplayer.config": [
+        "/account/hint"
+      ]
+    },
+    "Texts": {
+      "Eng": "server account",
+      "Por": "conta do servidor"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/multiplayer.config": [
+        "/address/hint"
+      ]
+    },
+    "Texts": {
+      "Eng": "server address",
+      "Por": "endereço do servidor"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/multiplayer.config": [
+        "/password/hint"
+      ]
+    },
+    "Texts": {
+      "Eng": "server password",
+      "Por": "senha do servidor"
+    }
+  }
+]

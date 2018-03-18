@@ -1,0 +1,136 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/techchest/techchest.object": [
+        "/avianDescription"
+      ],
+      "objects/generic/techchest2/techchest2.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A chest that looks like it stores something valuable.",
+      "Por": "Um baú que parece que armazena algo valioso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/techchest/techchest.object": [
+        "/description"
+      ],
+      "objects/generic/techchest2/techchest2.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A chest with bright glowing markings throughout.",
+      "Por": "Um baú com marcas brilhantes por toda parte."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/techchest/techchest.object": [
+        "/apexDescription"
+      ],
+      "objects/generic/techchest2/techchest2.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hi-tech chest. It looks as if it might contain something valuable.",
+      "Por": "Um baú de alta tecnologia. Parece que ele pode conter algo valioso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/techchest/techchest.object": [
+        "/shortdescription"
+      ],
+      "objects/generic/techchest2/techchest2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hi-Tech Chest",
+      "Por": "Hi-Tech Chest"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/techchest/techchest.object": [
+        "/novakidDescription"
+      ],
+      "objects/generic/techchest2/techchest2.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ooh, I bet it's chock full o' valuable technology.",
+      "Por": "Ooh, aposto que esta repleto de tecnologia valiosa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/techchest/techchest.object": [
+        "/floranDescription"
+      ],
+      "objects/generic/techchest2/techchest2.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sspecial shiny chesst.",
+      "Por": "Baú brilhante especial."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/techchest/techchest.object": [
+        "/hylotlDescription"
+      ],
+      "objects/generic/techchest2/techchest2.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "There is amazing technology built into the chest itself.",
+      "Por": "Há incrível tecnologia construída no próprio baú."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/techchest/techchest.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/generic/techchest2/techchest2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This chest is of unknown origin."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/techchest/techchest.object": [
+        "/humanDescription"
+      ],
+      "objects/generic/techchest2/techchest2.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Who made this? What's in it?",
+      "Por": "Quem fez isso? O que está nele?"
+    }
+  }
+]

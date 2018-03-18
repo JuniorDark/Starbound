@@ -1,0 +1,63 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/tombbrick2.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/tombbrick2.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran likess smooth brickss.",
+      "Por": "Floran gosta de tijolos lisos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/tombbrick2.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/tombbrick2.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These bricks have held up well considering their age."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Estes tijolos foram se desgastando com o tempo."
+    ],
+    "Files": {
+      "items/materials/tombbrick2.matitem": [
+        "/description"
+      ],
+      "tiles/materials/tombbrick2.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "These bricks have worn smooth with age.",
+      "Por": "Estes tijolos ficaram lisos com o tempo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/tombbrick2.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/tombbrick2.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unmarked Tomb Brick",
+      "Por": "Unmarked Tomb Brick"
+    }
+  }
+]

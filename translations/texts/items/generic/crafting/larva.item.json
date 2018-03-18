@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/larva.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alien, baby larva. It's small, squishy, and defenseless.",
+      "Por": "Uma larva bebê alienígena, é pequena, mole, e indefesa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/larva.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Baby Larva",
+      "Por": "Baby Larva"
+    }
+  }
+]

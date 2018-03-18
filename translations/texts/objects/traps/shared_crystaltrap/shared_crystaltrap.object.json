@@ -1,0 +1,97 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/ancientcrystaltrap/ancientcrystaltrap.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/traps/crystaltrap/crystaltrap.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A crystal that projects deadly beams of light! Now I have seen everything."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Uma armadilha de cristal feita para deter intrusos."
+    ],
+    "Files": {
+      "objects/traps/ancientcrystaltrap/ancientcrystaltrap.object": [
+        "/description"
+      ],
+      "objects/traps/crystaltrap/crystaltrap.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A crystal trap designed to deter invaders.",
+      "Por": "Uma armadilha de cristal projetada para deter invasores."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/ancientcrystaltrap/ancientcrystaltrap.object": [
+        "/floranDescription"
+      ],
+      "objects/traps/crystaltrap/crystaltrap.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crystal beam hurtsss Floran.",
+      "Por": "Feixe de cristal machuca Floran."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Se eu memorizar o padrão dos feixe do cristal eu posso agir em conformidade."
+    ],
+    "Files": {
+      "objects/traps/ancientcrystaltrap/ancientcrystaltrap.object": [
+        "/hylotlDescription"
+      ],
+      "objects/traps/crystaltrap/crystaltrap.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "If I memorise the pattern of the crystal's beam I can act accordingly.",
+      "Por": "Se eu memorizar o padrão do feixe do cristal, posso agir em conformidade."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Este feixe parece que feriria."
+    ],
+    "Files": {
+      "objects/traps/ancientcrystaltrap/ancientcrystaltrap.object": [
+        "/humanDescription"
+      ],
+      "objects/traps/crystaltrap/crystaltrap.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "That beam looks like it would hurt.",
+      "Por": "Esse feixe parece que pode machucar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/ancientcrystaltrap/ancientcrystaltrap.object": [
+        "/apexDescription"
+      ],
+      "objects/traps/crystaltrap/crystaltrap.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This crystal forms a deadly light beam.",
+      "Por": "Este cristal forma um feixe de luz mortal."
+    }
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/hive.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/hive.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hive made from crusshed animalss.",
+      "Por": "Colmeia feita de animaiss esmagadoss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/hive.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/hive.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some sorta hive made from crushed critters.",
+      "Por": "Algum tipo de colmeia feita de criaturas esmagadas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/hive.matitem": [
+        "/description"
+      ],
+      "tiles/materials/hive.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sticky hive combs made from the remains of fallen creatures.",
+      "Por": "Favos de colmeia grudentos feito de restos de criaturas mortas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/hive.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/hive.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This hive material is made up of crushed creatures."
+    }
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/opulent/opulentdoor/opulentdoor.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/themed/wave/wavedoor/wavedoor.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/tiered/tier3door/tier3door.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/tiered/tier4door/tier4door.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A useful door."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Floran se esconde atrás de porta. Pular fora. Essfaqueia!"
+    ],
+    "Files": {
+      "objects/themed/executive/executivedoor/executivedoor.object": [
+        "/floranDescription"
+      ],
+      "objects/themed/opulent/opulentdoor/opulentdoor.object": [
+        "/floranDescription"
+      ],
+      "objects/themed/serene/serenedoor/serenedoor.object": [
+        "/floranDescription"
+      ],
+      "objects/themed/wave/wavedoor/wavedoor.object": [
+        "/floranDescription"
+      ],
+      "objects/tiered/tier1door/tier1door.object": [
+        "/floranDescription"
+      ],
+      "objects/tiered/tier2door/tier2door.object": [
+        "/floranDescription"
+      ],
+      "objects/tiered/tier3door/tier3door.object": [
+        "/floranDescription"
+      ],
+      "objects/tiered/tier4door/tier4door.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran hide behind door. Jump out. Ssstab!",
+      "Por": "Floran se esconde atrás da porta. Pula fora. Essfaqueia!"
+    }
+  }
+]

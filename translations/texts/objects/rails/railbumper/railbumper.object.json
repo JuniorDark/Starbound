@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/rails/railbumper/railbumper.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Caps rail endpoints to send riders back the way they came",
+      "Por": "Limita o ponto final do trilho para enviar rail riders para o caminho que eles vieram"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/rails/railbumper/railbumper.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rail Bumper",
+      "Por": "Rail Bumper"
+    }
+  }
+]

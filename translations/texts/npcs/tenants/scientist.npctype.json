@@ -1,0 +1,110 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/scientist.npctype": [
+        "/scriptConfig/dialog/converse/apex/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't worry, my research is private - Not for the Miniknog.",
+      "Por": "Não se preocupe, minha pesquisa é privada - Não é para a Miniknog."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/scientist.npctype": [
+        "/scriptConfig/dialog/converse/apex/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I am conducting some field tests, and this location represents the ideal environment.",
+      "Por": "Estou realizando alguns testes de campo, e este local representa o ambiente ideal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/scientist.npctype": [
+        "/scriptConfig/dialog/converse/human/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I am recording all of our social interactions for data. I hope you don't mind.",
+      "Por": "Estou gravando todas as nossas interações sociais para dados. Eu espero que você não se importe."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/scientist.npctype": [
+        "/scriptConfig/dialog/converse/apex/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I am running some experiments, and this place will do nicely.",
+      "Por": "Estou fazendo alguns experimentos, e este lugar vai servir muito bem."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/scientist.npctype": [
+        "/scriptConfig/dialog/converse/hylotl/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I feel silly doing research without properly fitting glasses. Such is life as a Hylotl.",
+      "Por": "Eu me sinto bobo em fazer a pesquisa sem óculos do tamanho adequado. Essa é a vida como um Hylotl."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/scientist.npctype": [
+        "/scriptConfig/dialog/converse/hylotl/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wish these glasses fit me properly.",
+      "Por": "Eu queria que estes óculos cabecem corretamente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/scientist.npctype": [
+        "/scriptConfig/dialog/converse/human/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm writing a research paper on biodiversity. It will be extremely important.",
+      "Por": "Eu estou escrevendo um trabalho de pesquisa sobre a biodiversidade. Será extremamente importante."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/scientist.npctype": [
+        "/scriptConfig/dialog/converse/hylotl/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "It is so hard to find a good pair of glasses for Hylotl these days.",
+      "Por": "É tão difícil encontrar um bom par de óculos para Hylotl estes dias."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/scientist.npctype": [
+        "/scriptConfig/dialog/converse/human/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "There's so much data for me to record around here. It's fascinating.",
+      "Por": "Há tantos dados para mim gravar por aqui. É fascinante."
+    }
+  }
+]

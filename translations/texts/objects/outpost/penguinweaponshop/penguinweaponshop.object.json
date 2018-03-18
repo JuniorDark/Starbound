@@ -1,0 +1,124 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/penguinweaponshop/penguinweaponshop.object": [
+        "/interactData/paneLayoutOverride/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": " ^#b9b5b2;Offers new weapon upgrades every day!",
+      "Por": "^#b9b5b2;Oferece novos aprimoramentos de armas todos os dias!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Biggy's Reputable Weaponry"
+    ],
+    "Files": {
+      "objects/outpost/penguinweaponshop/penguinweaponshop.object": [
+        "/interactData/paneLayoutOverride/windowtitle/title",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Biggy's Reputable Weaponry",
+      "Por": "Armamento Respeitável do Biggy"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/penguinweaponshop/penguinweaponshop.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran sees lotsss of weapons. Floran excited.",
+      "Por": "Floran vê muitasss armas. Floran animado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/penguinweaponshop/penguinweaponshop.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "How does this diminutive shopkeeper even lift his merchandise?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/penguinweaponshop/penguinweaponshop.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Offers upgrades to rare weapons.",
+      "Por": "Oferece aprimoramentos para armas raras."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/penguinweaponshop/penguinweaponshop.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "So many swords. Most of them are bigger than the merchant!",
+      "Por": "Tantas espadas. A maioria delas é maior do que o comerciante!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/penguinweaponshop/penguinweaponshop.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The merchant to this back alley establishment has an eccentric taste in headwear.",
+      "Por": "O comerciante deste estabelecimento no beco tem um gosto excêntrico em chapelaria."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/penguinweaponshop/penguinweaponshop.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This appears to be some sort of black market trading post for weapons.",
+      "Por": "Isso parece ser algum tipo de mercado negro de armas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/penguinweaponshop/penguinweaponshop.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This looks like a perfectly respectable establishment!",
+      "Por": "Isto parece um estabelecimento perfeitamente respeitável!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/penguinweaponshop/penguinweaponshop.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This place seems to stock a lot of hard-hittin' tools. It might come in handy.",
+      "Por": "Este lugar parece estocar um monte de ferramentas contundentes. Pode vir a calhar."
+    }
+  }
+]

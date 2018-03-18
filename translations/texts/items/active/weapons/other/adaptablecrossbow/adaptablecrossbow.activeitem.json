@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/other/adaptablecrossbow/adaptablecrossbow.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Adaptable Crossbow",
+      "Por": "Adaptable Crossbow"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/other/adaptablecrossbow/adaptablecrossbow.activeitem": [
+        "/upgradeParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Adaptable Crossbow ^yellow;^reset;",
+      "Por": "Adaptable Crossbow ^yellow;^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/other/adaptablecrossbow/adaptablecrossbow.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Launches interchangeable bolts by magnetic force.",
+      "Por": "Lança dardos intercambiáveis por força magnética."
+    }
+  }
+]

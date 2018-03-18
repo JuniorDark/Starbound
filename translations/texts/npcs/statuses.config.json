@@ -1,0 +1,6037 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/nocturnal/30"
+      ]
+    },
+    "Texts": {
+      "Eng": "Afraid of becoming a vampire",
+      "Por": "Com medo de se tornar um vampiro"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/clumsy/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "Afraid of breaking something",
+      "Por": "Com medo de quebrar alguma coisa"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/anxious/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Afraid of the end of the world",
+      "Por": "Com medo do fim do mundo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/ambitious/29"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aiming for a promotion",
+      "Por": "Visando uma promoção"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/intrusive/24"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alienating",
+      "Por": "Alienando"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/excited/18"
+      ]
+    },
+    "Texts": {
+      "Eng": "Anticipating",
+      "Por": "Esperando"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/flirty/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ashamed of their thoughts",
+      "Por": "Envergonhado de seus pensamentos"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/emo/28"
+      ]
+    },
+    "Texts": {
+      "Eng": "Attempting to repair their self esteem",
+      "Por": "Tentando reparar sua auto-estima"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/nocturnal/21"
+      ]
+    },
+    "Texts": {
+      "Eng": "Battling sleep",
+      "Por": "Lutando contra o sono"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/49"
+      ]
+    },
+    "Texts": {
+      "Eng": "Beating a dead horse",
+      "Por": "Apostando num cavalo morto"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/intrusive/26"
+      ]
+    },
+    "Texts": {
+      "Eng": "Being irritating",
+      "Por": "Sendo irritante"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/cheerful/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "Believes everything is a-okay",
+      "Por": "Acredita que tudo está bem"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/jerk/27"
+      ]
+    },
+    "Texts": {
+      "Eng": "Believing they're superior",
+      "Por": "Acreditando que eles são superiores"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/ambitious/25"
+      ]
+    },
+    "Texts": {
+      "Eng": "Besting the competition",
+      "Por": "Visando uma promoção"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/jerk/29"
+      ]
+    },
+    "Texts": {
+      "Eng": "Beyond criticism",
+      "Por": "Além da crítica"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/dumb/19"
+      ]
+    },
+    "Texts": {
+      "Eng": "Blissfully unaware",
+      "Por": "Felizmente inconsciente"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/dumb/26"
+      ]
+    },
+    "Texts": {
+      "Eng": "Blundering",
+      "Por": "Desajeitado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/dumb/30"
+      ]
+    },
+    "Texts": {
+      "Eng": "Blushing uncontrollably",
+      "Por": "Incontrolavelmente envergonhado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/clumsy/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Breaking everything they touch",
+      "Por": "Quebrando tudo o que toca"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/ambitious/15"
+      ]
+    },
+    "Texts": {
+      "Eng": "Breaking records",
+      "Por": "Quebrando recordes"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/intrusive/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "Breaking social boundaries",
+      "Por": "Quebrando fronteiras sociais"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/ambitious/22"
+      ]
+    },
+    "Texts": {
+      "Eng": "Brokering deals",
+      "Por": "Tentando seu melhor"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/dumb/17"
+      ]
+    },
+    "Texts": {
+      "Eng": "Calculating pi to 2 decimal places",
+      "Por": "Calculando pi com 2 casas decimais"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/cheerful/16"
+      ]
+    },
+    "Texts": {
+      "Eng": "Calm and cheerful",
+      "Por": "Calmo e alegre"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/cheerful/15"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can smell something nice",
+      "Por": "Pode sentir o cheiro de algo bom"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/excited/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can't believe it",
+      "Por": "Não consigue acreditar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can't believe it's true",
+      "Por": "Não acredita que é verdade"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/jerk/19"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can't believe they're still here",
+      "Por": "Não consigue acreditar que ainda esta aqui"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/15"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can't believe this is happening",
+      "Por": "Não acredita que isso está acontecendo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/excited/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can't calm down",
+      "Por": "Não consigue se acalmar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/flirty/29"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can't decide if they're hot or not",
+      "Por": "Não consegue decidir se está quente ou não"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/dumb/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can't remember what they were doing",
+      "Por": "Não consigue lembrar o que estava fazendo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/34"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can't see the forest for the trees",
+      "Por": "Não pode ver a floresta através das árvores"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/excited/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can't sit still",
+      "Por": "Não consegue ficar quieto"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/58"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can't stop blinking",
+      "Por": "Não consegue parar de piscar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/excited/14"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can't stop giggling",
+      "Por": "Não consigue parar de rir"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/cheerful/20"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can't stop thinking of cute animals",
+      "Por": "Não consigue parar de pensar em animais fofos"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/nocturnal/22"
+      ]
+    },
+    "Texts": {
+      "Eng": "Checking out mentally",
+      "Por": "Desesperado por café"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/easilyspooked/26"
+      ]
+    },
+    "Texts": {
+      "Eng": "Checking to ensure they're armed",
+      "Por": "Verificando para garantir que ele esta armado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/cheerful/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cheeks hurt from grinning",
+      "Por": "As bochechas doem de sorrir"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/fast/21"
+      ]
+    },
+    "Texts": {
+      "Eng": "Clearing hurdles",
+      "Por": "Limpando os obstáculos"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/intrusive/16"
+      ]
+    },
+    "Texts": {
+      "Eng": "Compulsively licking lips",
+      "Por": "Compulsivamente lambendo os lábios"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/anxious/26"
+      ]
+    },
+    "Texts": {
+      "Eng": "Compulsively nail biting",
+      "Por": "Compulsivamente roendo as unhas"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/clumsy/18"
+      ]
+    },
+    "Texts": {
+      "Eng": "Compulsively wobbling",
+      "Por": "Compulsivamente tremendo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/easilyspooked/25"
+      ]
+    },
+    "Texts": {
+      "Eng": "Concerned about their blood pressure",
+      "Por": "Preocupado com a pressão arterial"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/easilyspooked/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Concerned the dead might be rising",
+      "Por": "Preocupado com o morto que pôde estar se levantando"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/dumb/16"
+      ]
+    },
+    "Texts": {
+      "Eng": "Confusing themselves",
+      "Por": "Confundindo-se"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/emo/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "Considering a fringe",
+      "Por": "Considerando uma franja"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/41"
+      ]
+    },
+    "Texts": {
+      "Eng": "Considering a hunting trip",
+      "Por": "Considerando fazer uma viagem de caça"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/39"
+      ]
+    },
+    "Texts": {
+      "Eng": "Considering becoming a vegetarian",
+      "Por": "Pensando em se tornar vegetariano"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/clumsy/13"
+      ]
+    },
+    "Texts": {
+      "Eng": "Considering buying insurance",
+      "Por": "Considerando a compra de um seguro"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/jerk/18"
+      ]
+    },
+    "Texts": {
+      "Eng": "Considering destroying their house for the insurance",
+      "Por": "Considerando destruir sua casa pelo seguro"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/easilyspooked/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "Considering learning a martial art",
+      "Por": "Considerando aprender uma arte marcial"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/clumsy/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Considering learning juggling",
+      "Por": "Considerando aprender malabarismo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/28"
+      ]
+    },
+    "Texts": {
+      "Eng": "Considering living underground",
+      "Por": "Considerando viver no subsolo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/flirty/15"
+      ]
+    },
+    "Texts": {
+      "Eng": "Considering online dating",
+      "Por": "Considerando namorar on-line"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/ambitious/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Considering positive change",
+      "Por": "Considerando uma mudança positiva"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/jerk/26"
+      ]
+    },
+    "Texts": {
+      "Eng": "Considering starting a cult",
+      "Por": "Considerando começar um culto"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Considering taking up a new hobby",
+      "Por": "Considerando ter um novo hobby"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/anxious/29"
+      ]
+    },
+    "Texts": {
+      "Eng": "Considering therapy",
+      "Por": "Considerando terapia"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/socialite/27"
+      ]
+    },
+    "Texts": {
+      "Eng": "Considering who they really trust",
+      "Por": "Considerando quem ele realmente confia"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/emo/29"
+      ]
+    },
+    "Texts": {
+      "Eng": "Contemplating a piercing",
+      "Por": "Contemplando um piercing"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/jerk/21"
+      ]
+    },
+    "Texts": {
+      "Eng": "Contemplating breaking promises",
+      "Por": "Contemplando quebrar promessas"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/17"
+      ]
+    },
+    "Texts": {
+      "Eng": "Contemplating the vastness of the universe",
+      "Por": "Contemplando a vastidão do universo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/easilyspooked/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "Convinced something is hunting them",
+      "Por": "Convencido de que algo está o caçando"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/nocturnal/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "Coping with insomnia",
+      "Por": "Lidando com a insônia"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/cheerful/30"
+      ]
+    },
+    "Texts": {
+      "Eng": "Could die happy",
+      "Por": "Poderia morrer feliz"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/cheerful/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Couldn't be happier",
+      "Por": "Não poderia estar mais feliz"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/easilyspooked/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "Counting their phobias",
+      "Por": "Contando suas fobias"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/26"
+      ]
+    },
+    "Texts": {
+      "Eng": "Craving some spicy food",
+      "Por": "Desejando uma comida picante"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/anxious/19"
+      ]
+    },
+    "Texts": {
+      "Eng": "Creating awkward silences",
+      "Por": "Criando silêncios constrangedores"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/ambitious/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "Creating opportunities",
+      "Por": "Criando oportunidades"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/intrusive/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "Creeping",
+      "Por": "Rastejando"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/intrusive/14"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crossing the line",
+      "Por": "Passando da linha"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/clumsy/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cursing their dexterity",
+      "Por": "Amaldiçoando sua destreza"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/clumsy/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cursing their luck",
+      "Por": "Amaldiçoando sua sorte"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/fast/17"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cutting corners",
+      "Por": "Colocando a carroça na frente dos bois"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/ambitious/21"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dangerously motivated",
+      "Por": "Perigosamente motivado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/nocturnal/29"
+      ]
+    },
+    "Texts": {
+      "Eng": "Daydreaming",
+      "Por": "Sonhando acordado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/52"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dead inside",
+      "Por": "Morto por dentro"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/cheerful/17"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dealing well with the futility of their existence",
+      "Por": "Lidando bem com a futilidade de sua existência"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/nocturnal/25"
+      ]
+    },
+    "Texts": {
+      "Eng": "Desperate for coffee",
+      "Por": "Desesperado por café"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/intrusive/23"
+      ]
+    },
+    "Texts": {
+      "Eng": "Destroying friendships",
+      "Por": "Destruindo amizades"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/flirty/21"
+      ]
+    },
+    "Texts": {
+      "Eng": "Developing a crush",
+      "Por": "Desenvolvendo uma paixão"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/nocturnal/31"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disregarding sleep",
+      "Por": "Desconsiderando dormir"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/intrusive/27"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disrespecting personal property",
+      "Por": "Desrespeitando a propriedade pessoal"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/intrusive/28"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disrespecting personal space",
+      "Por": "Desrespeitando o espaço pessoal"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/anxious/13"
+      ]
+    },
+    "Texts": {
+      "Eng": "Doesn't feel cut out for this",
+      "Por": "Não se sente que serve para isso"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "Doesn't want anyone to discover their secret",
+      "Por": "Não quer que ninguém descubra seu segredo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/easilyspooked/27"
+      ]
+    },
+    "Texts": {
+      "Eng": "Doesn't want to be alone",
+      "Por": "Não quer ficar sozinho"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/23"
+      ]
+    },
+    "Texts": {
+      "Eng": "Doesn't want to be part of the system",
+      "Por": "Não quer fazer parte do sistema"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/dumb/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dorf"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/intrusive/18"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dressing inappropriately",
+      "Por": "Vestindo-se de forma inadequada"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/clumsy/26"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dropping the ball",
+      "Por": "Cometeu um erro"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/fast/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "Embarrassed about their speed",
+      "Por": "Envergonhado com a sua velocidade"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/cheerful/13"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enjoying the feeling of needing to pee",
+      "Por": "Apreciando a sensação de precisar fazer xixi"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/cheerful/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enjoying the local wildlife",
+      "Por": "Apreciando a vida selvagem local"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/67"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enjoying the moment",
+      "Por": "Aproveitando o momento"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/cheerful/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enjoying the simple life",
+      "Por": "Aproveitando a vida simples"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/intrusive/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enjoying the sound people make when prodded",
+      "Por": "Apreciando o som que as pessoas fazem quando são cutucadas"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/easilyspooked/28"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fearful for their safety",
+      "Por": "Temendo por sua segurança"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/easilyspooked/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling acutely aware of strange noises",
+      "Por": "Se sentindo agudamente consciente de ruídos estranhos"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/nocturnal/17"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling addicted to cat pictures",
+      "Por": "Viciado em imagens de gato"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/easilyspooked/17"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling afraid of monsters",
+      "Por": "Sentindo medo de monstros"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/excited/22"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling aggressive",
+      "Por": "Se sentindo agressivo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/intrusive/25"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling alienated",
+      "Por": "Se sentindo alienado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/emo/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling alone",
+      "Por": "Se sentindo sozinho"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/ambitious/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling ambitious",
+      "Por": "Se sentindo ambicioso"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/anxious/24"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling an intense sense of pressure",
+      "Por": "Sentindo uma intensa sensação de pressão"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/excited/25"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling angry",
+      "Por": "Sentindo raiva"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/emo/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling angry at the world",
+      "Por": "Se sentindo irritado com o mundo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/nocturnal/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling awake",
+      "Por": "Se sentindo acordado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/excited/30"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling boisterous",
+      "Por": "Se sentindo energético"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/fast/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling bored",
+      "Por": "Se sentindo entediado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/flirty/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling broody",
+      "Por": "Se sentindo infeliz"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/fast/27"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling busy",
+      "Por": "Se Sentindo ocupado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/ambitious/14"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling capable",
+      "Por": "Sentindo-se capaz"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/socialite/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling chatty",
+      "Por": "Se sentindo tagarela"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/clumsy/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling clumsy",
+      "Por": "Se sentindo desajeitado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/ambitious/16"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling competitive",
+      "Por": "Sentindo-se competitivo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/55"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling confident",
+      "Por": "Se sentindo confiante"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/dumb/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling confused",
+      "Por": "Se sentindo confuso"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/socialite/25"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling considerate",
+      "Por": "Se sentindo atencioso"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/62"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling content",
+      "Por": "Se sentindo satisfeito"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/clumsy/17"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling dangerous",
+      "Por": "Se sentindo perigoso"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/53"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling deeply disturbed",
+      "Por": "Se sentindo profundamente perturbado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/emo/22"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling depressed",
+      "Por": "Se sentindo deprimido"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/emo/26"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling deserted",
+      "Por": "Se sentindo excluído"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/jerk/15"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling disagreeable",
+      "Por": "Se sentindo desagradável"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/emo/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling down",
+      "Por": "Se sentindo para baixo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/ambitious/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling driven",
+      "Por": "Se sentindo controlado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/dumb/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling dumb",
+      "Por": "Se sentindo burro"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/fast/23"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling efficient",
+      "Por": "Se sentimento eficiente"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/emo/16"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling emotional",
+      "Por": "Se sentindo emocional"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/excited/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling excited",
+      "Por": "Se sentindo animado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/ambitious/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling excited about their future",
+      "Por": "Sentindo-se animado com seu futuro"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/emo/19"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling excluded",
+      "Por": "Se sentindo excluído"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/nocturnal/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling exhausted",
+      "Por": "Se sentindo esgotado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/excited/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling exhilarated",
+      "Por": "Se sentindo muito animado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/40"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling fancy",
+      "Por": "Se sentindo extravagante"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/easilyspooked/15"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling fearful",
+      "Por": "Se sentindo com medo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/emo/14"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling feelings",
+      "Por": "Sentindo sentimentos"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/59"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling fine",
+      "Por": "Se sentindo bem"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/flirty/18"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling flirtatious",
+      "Por": "Paquerando alguem"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/excited/29"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling frisky",
+      "Por": "Se sentindo energético"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/excited/15"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling full of gumption",
+      "Por": "Cheio de energia"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/excited/26"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling furious",
+      "Por": "Se sentindo furioso"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/nocturnal/18"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling fuzzy",
+      "Por": "Sentindo-se confuso"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/63"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling good",
+      "Por": "Se sentindo bem"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/flirty/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling groovy, baby",
+      "Por": "Nunca se sentiu assim antes"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/nocturnal/19"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling half asleep",
+      "Por": "Sentindo-se meio adormecido"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/easilyspooked/19"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling helpless",
+      "Por": "Se sentindo desamparado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/flirty/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling hormonal",
+      "Por": "Se sentindo hormonal"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/excited/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling hyperactive",
+      "Por": "Se sentindo hiperativo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/dumb/20"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling ignorant",
+      "Por": "Se sentindo ignorante"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/excited/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling impulsive",
+      "Por": "Se sentindo impulsivo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/excited/23"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling influenced",
+      "Por": "Se sentindo influenciado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/emo/23"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling introverted",
+      "Por": "Se sentindo introvertido"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/intrusive/29"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling intrusive",
+      "Por": "Se sentindo intrusivo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/easilyspooked/23"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling jumpy",
+      "Por": "Se sentindo nervoso"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/emo/13"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling like a failure",
+      "Por": "Se sentindo como um fracasso"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/emo/21",
+        "/statuses/emo/27"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling like sobbing",
+      "Por": "Tem vontade de soluçar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/socialite/13"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling like the life of the party",
+      "Por": "Se sentindo o centro das atenções"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/clumsy/25"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling like they can't be trusted",
+      "Por": "Se sentindo como não pode ser confiável"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/nocturnal/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling like they have a vitamin C deficiency",
+      "Por": "Sentindo como se ele têm uma deficiência de vitamina C"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/clumsy/16"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling like they've lost something",
+      "Por": "Se sentindo como ele perdeu alguma coisa"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/emo/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling lost",
+      "Por": "Se sentindo perdido"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/jerk/25"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling mean",
+      "Por": "Se sentindo desprezível"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/dumb/18"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling mentally overwhelmed",
+      "Por": "Se sentindo mentalmente sobrecarregado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/dumb/14"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling mentally taxed",
+      "Por": "Se sentindo mentalmente tributado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/emo/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling miserable",
+      "Por": "Se sentindo infeliz"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/emo/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling misunderstood",
+      "Por": "Se sentindo incompreendido"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/nocturnal/20"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling mopy",
+      "Por": "Lidando com a insônia"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/anxious/16"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling more comfortable in front of a computer",
+      "Por": "Se sentindo mais confortável na frente de um computador"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/cheerful/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling motivated",
+      "Por": "Se sentindo motivado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/dumb/31"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling mystified",
+      "Por": "Se sentindo iludido"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/22"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling nostalgic",
+      "Por": "Sentindo saudades"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/easilyspooked/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling on edge",
+      "Por": "Se sentindo no limite"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/socialite/28"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling open minded",
+      "Por": "Se Sentindo aberto de espírito"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/nocturnal/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling out of sync",
+      "Por": "Se sentindo fora de sincronia"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/jerk/24"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling overly critical",
+      "Por": "Se sentindo excessivamente crítico"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/easilyspooked/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling panicked",
+      "Por": "Se sentindo em pânico"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/socialite/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling popular",
+      "Por": "Sentindo-se popular"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/cheerful/28"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling positive",
+      "Por": "Se sentindo positivo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/clumsy/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling prone to mistakes",
+      "Por": "Se sentindo propenso a erros"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/fast/26"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling punctual",
+      "Por": "Se Sentindo pontual"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/nocturnal/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling restless",
+      "Por": "Se sentindo inquieto"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/cheerful/18"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling right at home",
+      "Por": "Se sentindo em casa"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/fast/22"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling right on track",
+      "Por": "Se sentindo no caminho certo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/emo/15"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling sad",
+      "Por": "Se sentindo triste"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/nocturnal/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling sneaky",
+      "Por": "Se sentindo sorrateiro"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/socialite/17"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling social",
+      "Por": "Se sentindo social"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/anxious/17"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling socially awkward",
+      "Por": "Se sentindo socialmente desajeitado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/intrusive/17"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling socially unacceptable",
+      "Por": "Se sentindo socialmente inaceitável"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/38"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling sophisticated",
+      "Por": "Se sentindo sofisticado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/excited/16"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling spirited",
+      "Por": "Se sentindo espirituoso"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/easilyspooked/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling spooked",
+      "Por": "Se sentindo assustado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/dumb/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling stupid",
+      "Por": "Se sentindo estúpido"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/easilyspooked/22"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling tense",
+      "Por": "Se sentindo tenso"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/easilyspooked/16"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling terrified",
+      "Por": "Se sentindo aterrorizado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/socialite/29"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling the need for affection",
+      "Por": "Sentindo necessidade de afeto"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/nocturnal/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling they're outside the system",
+      "Por": "Sentindo que ele esta fora do sistema"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/nocturnal/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling tired",
+      "Por": "Se sentindo cansado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/dumb/13"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling tired of thinking",
+      "Por": "Se sentindo cansado de pensar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/dumb/21"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling tongue tied",
+      "Por": "Sem palavras"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/intrusive/13"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling touchy feely",
+      "Por": "Pensando em letras para uma música sobre você"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/dumb/27"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling unable",
+      "Por": "Se sentindo incapaz"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/dumb/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling unable to express themselves",
+      "Por": "Se sentindo incapaz de se expressar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/anxious/18"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling unattractive",
+      "Por": "Se sentindo pouco atraente"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/jerk/16"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling unforgiving",
+      "Por": "Se sentindo implacável"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/clumsy/30"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling ungainly",
+      "Por": "Se sentindo desajeitado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/jerk/23"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling unloved",
+      "Por": "Se sentindo mal-amado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/nocturnal/16"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling unsociable",
+      "Por": "Se sentindo insociável"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/dumb/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling unsure",
+      "Por": "Se sentindo inseguro"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/anxious/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling unsure of themselves",
+      "Por": "Se sentindo inseguro de si mesmo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/nocturnal/26"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling unwell",
+      "Por": "Se sentindo mal"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/emo/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling very emotional",
+      "Por": "Se sentindo muito emocional"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/easilyspooked/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling watched",
+      "Por": "Se sentindo observado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/socialite/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feeling well liked",
+      "Por": "Se sentindo bem gostado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/anxious/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feels a panic attack coming on",
+      "Por": "Sente um ataque de pânico vindo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/ambitious/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feels capable of anything",
+      "Por": "Sente-se capaz de qualquer coisa"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/fast/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feels it's important to go quickly",
+      "Por": "Sente que é importante ir rapidamente"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/50"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feels like a new kid on the block",
+      "Por": "Se sente como um novo garoto no quarteirão"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feels like breaking into song",
+      "Por": "Se sente dentro da musica"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/excited/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feels like dancing",
+      "Por": "Tem vontade de dançar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/57"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feels like dancing the night away",
+      "Por": "Se sente como dançar pela noite a fora"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/intrusive/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feels like giving someone a hug",
+      "Por": "Tem vontade de dar um abraço em alguém"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/socialite/30"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feels like laughing",
+      "Por": "Sente vontade de rir"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/emo/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feels like no one understands them",
+      "Por": "Parece que ninguém o entende"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/21"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feels like snacking",
+      "Por": "Deseja que tivesse super poderes"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/anxious/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feels like the walls are closing in",
+      "Por": "Se sente como se as paredes estão se fechando"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feels like they're stuck in a video game",
+      "Por": "Se sente como se estivesse preso em um video game"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/anxious/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feels nervous",
+      "Por": "Nervoso"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/fast/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feels the world moves too slowly",
+      "Por": "Sente o mundo se mover muito lentamente"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/cheerful/21"
+      ]
+    },
+    "Texts": {
+      "Eng": "Finally has a place to call home",
+      "Por": "Finalmente tem um lugar para chamar de lar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/ambitious/20"
+      ]
+    },
+    "Texts": {
+      "Eng": "Finding a niche",
+      "Por": "Pronto para aproveitar o dia"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/68"
+      ]
+    },
+    "Texts": {
+      "Eng": "Finding answers",
+      "Por": "Encontrando respostas"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/anxious/22"
+      ]
+    },
+    "Texts": {
+      "Eng": "Finding conversation difficult",
+      "Por": "Achando conversação difícil"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/48"
+      ]
+    },
+    "Texts": {
+      "Eng": "Finding inspiration for their blog",
+      "Por": "Encontrando inspiração para o seu blog"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/flirty/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "Finding it hard to control their desires",
+      "Por": "Acha difícil controlar seus desejos"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/flirty/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Finds the local flora seductive",
+      "Por": "Acha a flora local sedutora"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/clumsy/23"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fingers are buttery",
+      "Por": "Os dedos são amanteigados"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/fast/18"
+      ]
+    },
+    "Texts": {
+      "Eng": "Firing on all cylinders",
+      "Por": "Trabalhando com força total"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/socialite/23"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flashing their smile",
+      "Por": "Sente vontade de rir"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/flirty/20"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flirty",
+      "Por": "Flertando"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/excited/28"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flowing",
+      "Por": "Fluindo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/cheerful/26"
+      ]
+    },
+    "Texts": {
+      "Eng": "Following their dreams",
+      "Por": "Seguindo seus sonhos"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/dumb/23"
+      ]
+    },
+    "Texts": {
+      "Eng": "Forgetting things",
+      "Por": "Esquecendo coisas"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/excited/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "Full of beans",
+      "Por": "Agitado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/clumsy/29"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gangling",
+      "Por": "Desengonçado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/fast/16"
+      ]
+    },
+    "Texts": {
+      "Eng": "Getting quicker",
+      "Por": "Se esforçando para ir mais devagar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/fast/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Getting things done quickly",
+      "Por": "Fazendo as coisas rapidamente"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/emo/25"
+      ]
+    },
+    "Texts": {
+      "Eng": "Giving in",
+      "Por": "Cedendo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/emo/24"
+      ]
+    },
+    "Texts": {
+      "Eng": "Giving up",
+      "Por": "Desistindo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/dumb/29"
+      ]
+    },
+    "Texts": {
+      "Eng": "Going red",
+      "Por": "Envergonhado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/clumsy/22"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hands are slippery",
+      "Por": "As mãos são escorregadias"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/cheerful/23"
+      ]
+    },
+    "Texts": {
+      "Eng": "Happy despite everything",
+      "Por": "Feliz apesar de tudo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/cheerful/29"
+      ]
+    },
+    "Texts": {
+      "Eng": "Happy to be alive",
+      "Por": "Feliz por estar vivo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/cheerful/25"
+      ]
+    },
+    "Texts": {
+      "Eng": "Happy with their appearance",
+      "Por": "Feliz com sua aparência"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/easilyspooked/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Has a bad feeling about this...",
+      "Por": "Tem um mau pressentimento sobre isso..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/14"
+      ]
+    },
+    "Texts": {
+      "Eng": "Has a feeling that their life is a lie",
+      "Por": "Tem a sensação de que sua vida é uma mentira"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/socialite/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Has a great anecdote to share",
+      "Por": "Tem uma grande anedota para compartilhar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/35"
+      ]
+    },
+    "Texts": {
+      "Eng": "Has a great idea for a video game",
+      "Por": "Tem uma grande idéia para um jogo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/socialite/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Has a great joke to tell",
+      "Por": "Tem uma grande piada para contar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/socialite/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Has a great story to tell",
+      "Por": "Tem uma grande história para contar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/flirty/26"
+      ]
+    },
+    "Texts": {
+      "Eng": "Has a gun in their pocket",
+      "Por": "Tem uma arma no bolso"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Has a song stuck in their head",
+      "Por": "Tem uma música presa em sua cabeça"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/cheerful/27"
+      ]
+    },
+    "Texts": {
+      "Eng": "Has a tasty bag of treats",
+      "Por": "Tem um saboroso saco de doces"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/30"
+      ]
+    },
+    "Texts": {
+      "Eng": "Has an itchy toe",
+      "Por": "Tem uma coceira no dedo do pé"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/flirty/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Has been reading erotic literature",
+      "Por": "Tem lido literatura erótica"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/nocturnal/14"
+      ]
+    },
+    "Texts": {
+      "Eng": "Has blood shot eyes",
+      "Por": "Tem olhos vermelhos"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/excited/13"
+      ]
+    },
+    "Texts": {
+      "Eng": "Has butterflies in their tummy",
+      "Por": "Agitado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/cheerful/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Has faith",
+      "Por": "Tem fé"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/60"
+      ]
+    },
+    "Texts": {
+      "Eng": "Has great expectations",
+      "Por": "Tem grandes expectativas"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/emo/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Has much sadness in their heart",
+      "Por": "Tem muita tristeza em seu coração"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/flirty/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Has never felt this way before",
+      "Por": "Nunca se sentiu assim antes"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/29"
+      ]
+    },
+    "Texts": {
+      "Eng": "Has no idea what they're doing and hopes no-one notices",
+      "Por": "Não tem idéia do que esta fazendo e espera que ninguém perceba"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/emo/18"
+      ]
+    },
+    "Texts": {
+      "Eng": "Having an existential crisis",
+      "Por": "Tendo uma crise existencial"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/ambitious/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "Having big ideas",
+      "Por": "Tendo grandes idéias"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/dumb/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Herrr"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/anxious/23"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hiccuping at inappropriate times",
+      "Por": "Soluçando em momentos inapropriados"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hiding something",
+      "Por": "Escondendo algo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/ambitious/23"
+      ]
+    },
+    "Texts": {
+      "Eng": "High on life",
+      "Por": "Alto na vida"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/61"
+      ]
+    },
+    "Texts": {
+      "Eng": "Holding a grudge",
+      "Por": "Guardando rancor"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/flirty/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hoping to meet their perfect match",
+      "Por": "Na esperança de encontrar seu par perfeito"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/nocturnal/27"
+      ]
+    },
+    "Texts": {
+      "Eng": "Humming a lullaby",
+      "Por": "Cantarolando uma canção de ninar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/fast/13"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hurrying up",
+      "Por": "Se apressando"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/excited/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hyperventilating",
+      "Por": "Respirando profundamente"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/cheerful/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Immune to crippling loneliness",
+      "Por": "Imune à solidão paralisante"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/fast/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "In a rush",
+      "Por": "Com pressa"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/nocturnal/23"
+      ]
+    },
+    "Texts": {
+      "Eng": "In danger of collapsing",
+      "Por": "Em perigo de colapso"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/clumsy/21"
+      ]
+    },
+    "Texts": {
+      "Eng": "In fear of falling down",
+      "Por": "Com medo de cair"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/socialite/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "In need of company",
+      "Por": "Precisando de companhia"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/51"
+      ]
+    },
+    "Texts": {
+      "Eng": "In pain",
+      "Por": "Com dor"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/fast/29"
+      ]
+    },
+    "Texts": {
+      "Eng": "Increasing endurance",
+      "Por": "Aumentando a resistencia"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/fast/19"
+      ]
+    },
+    "Texts": {
+      "Eng": "Increasing productivity",
+      "Por": "Aumentando a produtividade"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/flirty/16"
+      ]
+    },
+    "Texts": {
+      "Eng": "Insatiable",
+      "Por": "Insaciável"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/socialite/26"
+      ]
+    },
+    "Texts": {
+      "Eng": "Inspecting their position in society",
+      "Por": "Inspecionando sua posição na sociedade"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/jerk/28"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intentionally missing the point",
+      "Por": "Intencionalmente perdendo o ponto"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/emo/17"
+      ]
+    },
+    "Texts": {
+      "Eng": "Inventing a new kind of sadness",
+      "Por": "Inventando um novo tipo de tristeza"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/intrusive/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Is contemplating the concept of personal space",
+      "Por": "Está contemplando o conceito de espaço pessoal"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/emo/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Is full of regret",
+      "Por": "Está cheio de arrependimento"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/44"
+      ]
+    },
+    "Texts": {
+      "Eng": "Is hot and bothered",
+      "Por": "Esta com calor e incomodado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/anxious/15"
+      ]
+    },
+    "Texts": {
+      "Eng": "Isn't sure these clothes are cool after all",
+      "Por": "Não tem certeza se essas roupas são legais depois de tudo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/dumb/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "Isn't sure what's going on",
+      "Por": "Não tem certeza do que está acontecendo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/easilyspooked/13"
+      ]
+    },
+    "Texts": {
+      "Eng": "Jumping at their own shadow",
+      "Por": "Se assustando com a propia sombra"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/fast/24"
+      ]
+    },
+    "Texts": {
+      "Eng": "Jumping the gun",
+      "Por": "Trabalhando com força total"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/excited/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Just can't wait",
+      "Por": "Mal pode esperar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/easilyspooked/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Just heard something... Probably",
+      "Por": "Acabou de ouvir algo... Provavelmente"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/flirty/13"
+      ]
+    },
+    "Texts": {
+      "Eng": "Just trying to make friends",
+      "Por": "Apenas tentando fazer amigos"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/intrusive/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "Just wanting to be loved",
+      "Por": "Apenas querendo ser amado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/anxious/28"
+      ]
+    },
+    "Texts": {
+      "Eng": "Just wants to be at home",
+      "Por": "Apenas quer estar em casa"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/emo/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Just wants to stay in the dark forever",
+      "Por": "Apenas quer ficar no escuro para sempre"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/easilyspooked/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Just wet themselves a little bit",
+      "Por": "Apenas se molhou um pouco"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/fast/30"
+      ]
+    },
+    "Texts": {
+      "Eng": "Keeping fit",
+      "Por": "Mantendo a forma"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/socialite/21"
+      ]
+    },
+    "Texts": {
+      "Eng": "Keeping the peace",
+      "Por": "Mantendo a paz"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/clumsy/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Keeps insulting people by mistake",
+      "Por": "Continua insultando pessoas por engano"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/anxious/30"
+      ]
+    },
+    "Texts": {
+      "Eng": "Keeps snorting",
+      "Por": "Continua bufando"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/clumsy/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Keeps tripping up",
+      "Por": "Continua tropeçando"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/jerk/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Kicked a small alien creature earlier",
+      "Por": "Chutou uma pequena criatura alienígena mais cedo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/excited/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Knows it's going to be great",
+      "Por": "Sabe que vai ser ótimo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/anxious/14"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lacking confidence",
+      "Por": "Não confiante"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/clumsy/27"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lacking dignity",
+      "Por": "Na falta de dignidade"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/fast/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Leaping before looking",
+      "Por": "Pensando rápido"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/jerk/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Left the toilet seat up",
+      "Por": "Saiu do assento do vaso sanitário"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/flirty/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Likes you in that outfit",
+      "Por": "Gosta de você nessa roupa"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/jerk/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looking for a fight",
+      "Por": "Procurando por uma briga"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/flirty/22"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looking for romance",
+      "Por": "Procurando por um romance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/jerk/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looking for someone to irritate",
+      "Por": "Procurando alguém para irritar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/jerk/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looking for someone to pick on",
+      "Por": "Procurando alguém para azucrinar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/cheerful/14"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looking for someone to tickle",
+      "Por": "Procurando alguém para fazer cócegas"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/fast/28"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looking for something",
+      "Por": "Procurando por algo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/flirty/14"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looking for something long-term",
+      "Por": "Procurando algo a longo prazo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/ambitious/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looking for something to do",
+      "Por": "Procurando algo para fazer"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/easilyspooked/29"
+      ]
+    },
+    "Texts": {
+      "Eng": "Losing their marbles",
+      "Por": "Perdendo a cabeça"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/flirty/30"
+      ]
+    },
+    "Texts": {
+      "Eng": "Loves the way you handle that matter manipulator",
+      "Por": "Ama a maneira como você manuseia esse manipulador de matéria"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/socialite/15"
+      ]
+    },
+    "Texts": {
+      "Eng": "Making an embarrassing faux pas",
+      "Por": "Fazer um falso embaraço"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/intrusive/21"
+      ]
+    },
+    "Texts": {
+      "Eng": "Making assumptions",
+      "Por": "Fazendo suposições"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/intrusive/22"
+      ]
+    },
+    "Texts": {
+      "Eng": "Making enemies",
+      "Por": "Fazendo inimigos"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/dumb/22"
+      ]
+    },
+    "Texts": {
+      "Eng": "Making mistakes",
+      "Por": "Cometendo erros"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/ambitious/13"
+      ]
+    },
+    "Texts": {
+      "Eng": "Making moves",
+      "Por": "Fazendo movimentos"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/socialite/24"
+      ]
+    },
+    "Texts": {
+      "Eng": "Making peace",
+      "Por": "Fazendo a paz"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/intrusive/19"
+      ]
+    },
+    "Texts": {
+      "Eng": "Making strange sounds",
+      "Por": "Fazendo sons estranhos"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/fast/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Making their own pace",
+      "Por": "Fazendo seu próprio ritmo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/intrusive/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "Missing social cues",
+      "Por": "Sentindo falta de pistas sociais"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/dumb/28"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mistelling jokes",
+      "Por": "Desejando que ele fosse mais esperto"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/dumb/24"
+      ]
+    },
+    "Texts": {
+      "Eng": "Misunderstanding",
+      "Por": "Mal entendido"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "More than a number",
+      "Por": "Não tem idéia do que esta fazendo e espera que ninguém perceba"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/fast/20"
+      ]
+    },
+    "Texts": {
+      "Eng": "Moving quickly",
+      "Por": "Se sentimento eficiente"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/socialite/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Needing to speak to everyone today",
+      "Por": "Precisando falar com todos hoje"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/nocturnal/13"
+      ]
+    },
+    "Texts": {
+      "Eng": "Needs a better sleep schedule",
+      "Por": "Precisa de um horário de sono melhor"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Needs a break",
+      "Por": "Precisa de uma pausa"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/flirty/25"
+      ]
+    },
+    "Texts": {
+      "Eng": "Needs a cold shower",
+      "Por": "Precisa de um banho frio"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/flirty/24"
+      ]
+    },
+    "Texts": {
+      "Eng": "Needs a massage",
+      "Por": "Precisa de uma massagem"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/flirty/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nervous about a date",
+      "Por": "Nervoso sobre um encontro"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/anxious/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nervous wreck",
+      "Por": "Muito nervoso"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/anxious/27"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nervously giggling",
+      "Por": "Rindo nervosamente"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/dumb/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Not really feeling anything",
+      "Por": "Não esta sentindo nada"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/42"
+      ]
+    },
+    "Texts": {
+      "Eng": "On the ball",
+      "Por": "Atento"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/cheerful/19"
+      ]
+    },
+    "Texts": {
+      "Eng": "One with the universe",
+      "Por": "Em harmonia com o universo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/jerk/14"
+      ]
+    },
+    "Texts": {
+      "Eng": "Openly discussing spoilers today",
+      "Por": "Abertamente discutindo spoilers hoje"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/dumb/15"
+      ]
+    },
+    "Texts": {
+      "Eng": "Operating poorly",
+      "Por": "Operando mal"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/18"
+      ]
+    },
+    "Texts": {
+      "Eng": "Out of their depth",
+      "Por": "Fora de si"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/jerk/20"
+      ]
+    },
+    "Texts": {
+      "Eng": "Owes people money",
+      "Por": "Deve dinheiro para pessoas"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/intrusive/20"
+      ]
+    },
+    "Texts": {
+      "Eng": "Picking their nose",
+      "Por": "Cutucando seu nariz"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/easilyspooked/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Picturing scary skeletons",
+      "Por": "Imaginando esqueletos assustadores"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/socialite/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "Planning a party",
+      "Por": "Planejando uma festa"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/socialite/18"
+      ]
+    },
+    "Texts": {
+      "Eng": "Planning what to wear",
+      "Por": "Planejando o que vestir"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/jerk/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Playing devil's advocate",
+      "Por": "Jogando advogado do diabo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/flirty/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "Playing the field",
+      "Por": "Saindo com varias pessoas ao mesmo tempo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/excited/20"
+      ]
+    },
+    "Texts": {
+      "Eng": "Playing the game",
+      "Por": "Jogando o jogo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/easilyspooked/18"
+      ]
+    },
+    "Texts": {
+      "Eng": "Praying for protection",
+      "Por": "Orando por proteção"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/cheerful/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pretending everything is okay",
+      "Por": "Fingindo que tudo está bem"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/jerk/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pretending to have kleptomania",
+      "Por": "Fingindo ter cleptomania"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/ambitious/28"
+      ]
+    },
+    "Texts": {
+      "Eng": "Psyching themselves up",
+      "Por": "Quer governar a galáxia algum dia"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/fast/25"
+      ]
+    },
+    "Texts": {
+      "Eng": "Putting the cart before the horse",
+      "Por": "Colocando a carroça na frente dos bois"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/emo/20"
+      ]
+    },
+    "Texts": {
+      "Eng": "Questioning the point",
+      "Por": "Questionando o ponto"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/excited/17"
+      ]
+    },
+    "Texts": {
+      "Eng": "Questioning their sugar levels",
+      "Por": "Questionando seus níveis de açúcar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/socialite/19"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ranking their friendships",
+      "Por": "Classificando suas amizades"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/54"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reacting badly",
+      "Por": "Reagindo mal"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/easilyspooked/31"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ready to attack",
+      "Por": "Pronto para atacar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/ambitious/19"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ready to seize the day",
+      "Por": "Pronto para aproveitar o dia"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/socialite/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reconsidering their party members",
+      "Por": "Reconsiderando seus membros do grupo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/jerk/30"
+      ]
+    },
+    "Texts": {
+      "Eng": "Referring to people by their second name",
+      "Por": "Chamando às pessoas pelo seu segundo nome"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/fast/15"
+      ]
+    },
+    "Texts": {
+      "Eng": "Refusing to slow down",
+      "Por": "Recusando-se a ir mais devagar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/jerk/22"
+      ]
+    },
+    "Texts": {
+      "Eng": "Regrets their behaviour",
+      "Por": "Lamenta seu comportamento"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/cheerful/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Remembering not to skip in public",
+      "Por": "Lembrando-se de não pular em público"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/clumsy/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Repeatedly dropping expensive possessions",
+      "Por": "Repetidamente derrubando bens caros"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/jerk/13"
+      ]
+    },
+    "Texts": {
+      "Eng": "Repeating the same joke over and over",
+      "Por": "Repetindo a mesma piada repetidamente"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/excited/24"
+      ]
+    },
+    "Texts": {
+      "Eng": "Risking everything",
+      "Por": "Arriscando tudo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/nocturnal/24"
+      ]
+    },
+    "Texts": {
+      "Eng": "Risking insanity",
+      "Por": "Arriscando insanidade"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/65"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rocking the boat",
+      "Por": "Balançando o barco"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/flirty/23"
+      ]
+    },
+    "Texts": {
+      "Eng": "Romantically frustrated",
+      "Por": "Romanticamente frustrado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/socialite/16"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ruffling feathers",
+      "Por": "Despenteando penas"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/fast/14"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rushing",
+      "Por": "Correndo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/socialite/22"
+      ]
+    },
+    "Texts": {
+      "Eng": "Schmoozing",
+      "Por": "Fofocando"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/anxious/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "Second guessing their taste in music",
+      "Por": "Segundo adivinhando seu gosto musical"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/25"
+      ]
+    },
+    "Texts": {
+      "Eng": "Secretly knows they should exercise more",
+      "Por": "Secretamente sabe que deve se exercitar mais"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/69"
+      ]
+    },
+    "Texts": {
+      "Eng": "Seeking distraction",
+      "Por": "Buscando distração"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/socialite/14"
+      ]
+    },
+    "Texts": {
+      "Eng": "Seeking more attention",
+      "Por": "Buscando mais atenção"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/excited/21"
+      ]
+    },
+    "Texts": {
+      "Eng": "Seizing the moment",
+      "Por": "Aproveitando o momento"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/anxious/25"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sensing dread",
+      "Por": "Sentindo medo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/emo/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shedding a single tear",
+      "Por": "Derramando uma única lágrima"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/nocturnal/28"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sleepwalking",
+      "Por": "Sonambulando"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/nocturnal/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Slipping into insanity",
+      "Por": "Deslizando na insanidade"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/clumsy/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Slipping up",
+      "Por": "Se sentindo desajeitado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/anxious/21"
+      ]
+    },
+    "Texts": {
+      "Eng": "Speaking before they think",
+      "Por": "Falando antes de pensar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/jerk/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Speaking entirely in puns",
+      "Por": "Falando inteiramente em trocadilhos"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/fast/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Speeding things up",
+      "Por": "Acelerando as coisas"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/intrusive/15"
+      ]
+    },
+    "Texts": {
+      "Eng": "Staring",
+      "Por": "Encarando"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/27"
+      ]
+    },
+    "Texts": {
+      "Eng": "Staring into the abyss",
+      "Por": "Olhando para o abismo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/socialite/20"
+      ]
+    },
+    "Texts": {
+      "Eng": "Starting a club",
+      "Por": "Começando um clube"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/intrusive/30"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stroking their thighs",
+      "Por": "Acariciando suas coxas"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/fast/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Struggling to slow down",
+      "Por": "Se esforçando para ir mais devagar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/clumsy/28"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stubbed their toe",
+      "Por": "Esmagou seu dedo do pé"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/clumsy/14"
+      ]
+    },
+    "Texts": {
+      "Eng": "Swearing he didn't do it",
+      "Por": "Jura que ele não fez isso"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/anxious/20"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sweating uncontrollably",
+      "Por": "Suando incontrolavelmente"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/36"
+      ]
+    },
+    "Texts": {
+      "Eng": "Systematically counting every pixel",
+      "Por": "Sistematicamente contando cada pixel"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/clumsy/19"
+      ]
+    },
+    "Texts": {
+      "Eng": "Systematically ruining everything",
+      "Por": "Sistematicamente arruinando tudo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/64"
+      ]
+    },
+    "Texts": {
+      "Eng": "Taking their time",
+      "Por": "Tomando seu tempo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/flirty/28"
+      ]
+    },
+    "Texts": {
+      "Eng": "Telling themselves they're not a stalker",
+      "Por": "Dizendo a si mesmo que não é um stalker"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/fast/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Their mind is racing",
+      "Por": "Sua mente está acelerada"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/ambitious/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thinking about starting a colony of their own",
+      "Por": "Pensando em começar uma colônia própria"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/ambitious/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thinking about their finances",
+      "Por": "Pensando em suas finanças"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/47"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thinking about their lost pet",
+      "Por": "Pensando sobre seu animal de estimação perdido"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/fast/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thinking fast",
+      "Por": "Pensando rápido"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/intrusive/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thinking how great everyone is",
+      "Por": "Pensando em como todo mundo é ótimo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/cheerful/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thinking it's a nice day",
+      "Por": "Pensando que é um bom dia"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/intrusive/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thinking of lyrics for a song about you",
+      "Por": "Pensando em letras para uma música sobre você"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/clumsy/15"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thinking they left something behind",
+      "Por": "Pensando que ele deixou algo para trás"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/dumb/25"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thinking very hard",
+      "Por": "Pensando muito"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/cheerful/22"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thinking you're a lovely person",
+      "Por": "Pensando que você é uma pessoa adorável"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/jerk/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thinks everyone should listen to them",
+      "Por": "Acha que todo mundo deve ouvi-lo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/easilyspooked/24"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thinks something bad is about to happen",
+      "Por": "Acha que algo ruim está prestes a acontecer"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tired after a long day of doing nothing",
+      "Por": "Cansado após um longo dia de não fazer nada"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/anxious/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trembling",
+      "Por": "Tremendo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/excited/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trembling with excitement",
+      "Por": "Tremendo de emoção"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tripped over a rock earlier",
+      "Por": "Tropeçou em uma pedra mais cedo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/43"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trying not to vomit",
+      "Por": "Tentando não vomitar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/ambitious/24"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trying their best",
+      "Por": "Tentando seu melhor"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/66"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trying their luck",
+      "Por": "Tentando sua sorte"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/dumb/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trying to figure things out",
+      "Por": "Tentando descobrir coisas"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/easilyspooked/20"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trying to keep their phobias in check",
+      "Por": "Tentando manter suas fobias sob controle"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trying to remember how old they are",
+      "Por": "Tentando lembrar sua idade"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/nocturnal/15"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trying to wake the dead",
+      "Por": "Tentando acordar os mortos"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/excited/19"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unable to calm down",
+      "Por": "Incapaz de acalmar-se"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/excited/27"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unable to contain themselves",
+      "Por": "Incapaz de conter-se"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/flirty/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unable to control themselves",
+      "Por": "Incapaz de se controlar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/nocturnal/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unable to sleep",
+      "Por": "Incapaz de dormir"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/jerk/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unaccepting of alternative life style choices",
+      "Por": "Ausência de alternativas de estilo de vida"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/clumsy/20"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unhappy with the physics",
+      "Por": "Infeliz com a física"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/16"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unwilling to give up",
+      "Por": "Recusando-se a desistir"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/flirty/17"
+      ]
+    },
+    "Texts": {
+      "Eng": "Very open-minded",
+      "Por": "Muito mente aberta"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/nocturnal/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Waiting for the right moment",
+      "Por": "Esperando o momento certo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/ambitious/17"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wanting more",
+      "Por": "Querendo mais"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/intrusive/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wanting to be best friends",
+      "Por": "Querendo ser melhores amigos"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/ambitious/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wanting to become mayor",
+      "Por": "Quer se tornar prefeito"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/socialite/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wanting to form a band",
+      "Por": "Querer formar uma banda"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/intrusive/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wanting to hear secrets",
+      "Por": "Querendo ouvir segredos"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/intrusive/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wanting to know what your face feels like",
+      "Por": "Quer saber como seu rosto se parece"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/dumb/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wanting to learn something new",
+      "Por": "Quer aprender algo novo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/ambitious/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wanting to own their own ship",
+      "Por": "Querendo possuir sua própria nave"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/ambitious/27"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wanting to reach the top",
+      "Por": "Querendo chegar ao topo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/ambitious/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wanting to rule the galaxy someday",
+      "Por": "Quer governar a galáxia algum dia"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/intrusive/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wanting to smell people",
+      "Por": "Querendo cheirar as pessoas"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/anxious/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wants to avoid social interaction for a while",
+      "Por": "Quer evitar interações sociais por um tempo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/24"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wants to break free",
+      "Por": "Quer se libertar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/flirty/19"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wants to know what love is",
+      "Por": "Quer saber o que é o amor"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/jerk/17"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wants to spread rumours",
+      "Por": "Quer espalhar rumores"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/nocturnal/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wants to strike fear into the hearts of their enemies",
+      "Por": "Quer golpear o medo nos corações de seus inimigos"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/socialite/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wants to throw a party",
+      "Por": "Quer fazer uma festa"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/13"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wants to try new things",
+      "Por": "Quer tentar coisas novas"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/20"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wants to write a song",
+      "Por": "Quer escrever uma música"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/ambitious/26"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wheeling and dealing",
+      "Por": "Querendo chegar ao topo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/easilyspooked/21"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wide eyed",
+      "Por": "De olhos arregalados"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/ambitious/18"
+      ]
+    },
+    "Texts": {
+      "Eng": "Willing to gamble",
+      "Por": "Disposto a apostar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/flirty/27"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wishes flirting was as easy as fighting monsters",
+      "Por": "O desejo de flertar eram tão fáceis quanto lutar contra monstros"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/33"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wishes they had a colouring book",
+      "Por": "Deseja que tivesse um livro de colorir"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/31"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wishes they had superpowers",
+      "Por": "Deseja que tivesse superpoderes"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/jerk/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wishes they were in charge",
+      "Por": "Deseja que ele estivesse no comando"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/anxious/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wishes they were invisible",
+      "Por": "Deseja que fosse invisível"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wishes things were different",
+      "Por": "Deseja que as coisas fossem diferentes"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/clumsy/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wishing somebody could help open a jar",
+      "Por": "Desejando que alguém pudesse ajudar a abrir um jarro"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/fast/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wishing they could run faster",
+      "Por": "Desejando que ele podesse correr mais rápido"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/dumb/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wishing they were smarter",
+      "Por": "Desejando que ele fosse mais esperto"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/clumsy/24"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wobbling like jelly",
+      "Por": "Balançando como geléia"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/jerk/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Won't be reasoned with",
+      "Por": "Não será persuadido"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/jerk/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Won't stop making loud noises",
+      "Por": "Não para de fazer barulhos altos"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/32"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wondering how they would handle a zombie apocalypse",
+      "Por": "Imaginando como iria lidar com um apocalipse zumbi"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/46"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wondering if brushing your teeth is cleaning your skeleton",
+      "Por": "Querendo saber se escovar seus dentes está limpando seu esqueleto"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/56"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wondering if bugs mind being caught",
+      "Por": "Querendo saber se insetos se importam de ser pegos"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/clumsy/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wondering if they could operate a space ship",
+      "Por": "Perguntando-se se poderia operar uma nave espacial"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/socialite/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wondering if they have any real friends",
+      "Por": "Querendo saber se ele têm amigos de verdade"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/anxious/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wondering just how fast they can run",
+      "Por": "Querendo saber o quão rápido ele podem correr"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/45"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wondering what snails are even trying to do",
+      "Por": "Querendo saber o que caracóis estão tentando fazer"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/19"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wondering what's for lunch",
+      "Por": "Quer saber o que tem para o almoço"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/easilyspooked/30"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wondering what's out there",
+      "Por": "Se perguntando o que está lá fora"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/generic/37"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wonders if someone is secretly controlling their life",
+      "Por": "Se pergunta se alguém está secretamente controlando sua vida"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/cheerful/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wonders why they can't stop smiling",
+      "Por": "Se pergunta por que ele não pode parar de sorrir"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/anxious/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Worrying that they might have undiagnosed illnesses",
+      "Por": "Preocupando-se por ter doenças não diagnosticadas"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/cheerful/24"
+      ]
+    },
+    "Texts": {
+      "Eng": "Would like to do a good deed",
+      "Por": "Gostaria de fazer uma boa ação"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/cheerful/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wouldn't want to be anywhere else",
+      "Por": "Não gostaria de estar em qualquer outro lugar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/statuses.config": [
+        "/statuses/easilyspooked/14"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wrestling with anxiety",
+      "Por": "Lutando com a ansiedade"
+    }
+  }
+]

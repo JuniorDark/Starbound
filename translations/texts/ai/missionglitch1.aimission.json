@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ai/missionglitch1.aimission": [
+        "/speciesText/default/selectSpeech/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "It seems that the Glitch Artifact belongs to the owner of a small stone Keep on a lonely planet.",
+      "Por": "Parece que o Artefato Glitch pertence ao dono de um pequeno Forte de pedra em um planeta solitário."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ai/missionglitch1.aimission": [
+        "/speciesText/default/repeatButtonText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Revisit The Baron's Keep",
+      "Por": "Revisite O Forte do Barão"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ai/missionglitch1.aimission": [
+        "/speciesText/default/buttonText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Baron's Keep",
+      "Por": "O Forte do Barão"
+    }
+  }
+]

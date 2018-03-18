@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/siliconboard.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A silicon board. Can be used to craft electronics.",
+      "Por": "Uma placa de silício. Pode ser usada para criar eletrônicos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/siliconboard.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Silicon Board",
+      "Por": "Silicon Board"
+    }
+  }
+]

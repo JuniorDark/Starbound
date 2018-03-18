@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Não vejo muitos sapos comerciantes por estas bandas!"
+    ],
+    "Files": {
+      "objects/generic/frogmerchant/frogmerchant.object": [
+        "/novakidDescription"
+      ],
+      "objects/outpost/frogfurnishing/frogfurnishing.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't see many frog merchants round these parts!",
+      "Por": "Não vejo muitos comerciantes sapo por essas bandas!"
+    }
+  }
+]

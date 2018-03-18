@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/other/nanowrap.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nanowrap Bandage",
+      "Por": "Nanowrap Bandage"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/other/nanowrap.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This bandage knits wounds together fast. Restores 100 health over 1 second.",
+      "Por": "Essa atadura cura ferimentos rapidamente. Restaura 100 de vida ao longo de 1 segundo."
+    }
+  }
+]

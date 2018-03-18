@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fleshblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/fleshblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flesh Chunk",
+      "Por": "Flesh Chunk"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fleshblock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/fleshblock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some hideous, foul-smelling kind of flesh.",
+      "Por": "Algum tipo de carne horrorosa e fedida."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fleshblock.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/fleshblock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sssquishy meat.",
+      "Por": "Carne mole."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fleshblock.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/fleshblock.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is made of squishy flesh."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fleshblock.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/fleshblock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is some sorta flesh.",
+      "Por": "Isto é algum tipo de carne."
+    }
+  }
+]

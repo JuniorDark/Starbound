@@ -1,0 +1,146 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/arena/arenapyro.npctype": [
+        "/scriptConfig/dialog/attack/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Burn!",
+      "Por": "Queime!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/arena/arenapyro.npctype": [
+        "/scriptConfig/dialog/killedTarget/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Consumed by fire!",
+      "Por": "Consumido pelo fogo!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/arena/arenapyro.npctype": [
+        "/scriptConfig/dialog/attack/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cower before the flames!",
+      "Por": "Acovarde-se diante das chamas!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/arena/arenapyro.npctype": [
+        "/scriptConfig/dialog/killedTarget/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fire gives life, and takes it away!",
+      "Por": "Fogo dá a vida, e a leva embora!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/arena/arenapyro.npctype": [
+        "/scriptConfig/dialog/outOfSight/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "It is pointless to hide!",
+      "Por": "É inútil se esconder!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/arena/arenapyro.npctype": [
+        "/scriptConfig/dialog/attack/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now you face the wrath of Templar Inferno!",
+      "Por": "Agora você vai enfrentar a ira do Templar Inferno!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/arena/arenapyro.npctype": [
+        "/scriptConfig/dialog/reattack/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Once again, face my wrath!",
+      "Por": "Mais uma vez, enfrente a minha ira!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/arena/arenapyro.npctype": [
+        "/scriptConfig/dialog/cheerOn/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Onward!",
+      "Por": "Avante!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/arena/arenapyro.npctype": [
+        "/scriptConfig/dialog/killedTarget/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Strong are those who can master the power of fire!",
+      "Por": "Fortes são aqueles que podem dominar o poder de fogo!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/arena/arenapyro.npctype": [
+        "/scriptConfig/dialog/lostTarget/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "There is no where you go my flames cannot reach!",
+      "Por": "Não há onde você possa ir onde minhas chamas não alcance!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/arena/arenapyro.npctype": [
+        "/scriptConfig/dialog/cantReach/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You cannot escape the reach of my flames!",
+      "Por": "Você não pode escapar do alcance das minhas chamas!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/arena/arenapyro.npctype": [
+        "/scriptConfig/dialog/attack/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "You will be consumed in fire!",
+      "Por": "Você será consumido no fogo!"
+    }
+  }
+]

@@ -1,0 +1,215 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface.config": [
+        "/cursorTooltip/beamUpText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Beam Up",
+      "Por": "Subir"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface.config": [
+        "/largeCharPlate/noPlayerText"
+      ]
+    },
+    "Texts": {
+      "Eng": "CREATE CHARACTER",
+      "Por": "CRIAR PERSONAGEM"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface.config": [
+        "/modeTypeTextAndColor/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Casual"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface.config": [
+        "/escapeDialog/lblcopyright/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Chucklefish Games 2016 - Made in London, UK",
+      "Por": "Chucklefish Games 2016 - Feito em Londres, UK"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface.config": [
+        "/cursorTooltip/collectionsText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Collections",
+      "Por": "Coleções"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface.config": [
+        "/cursorTooltip/craftingText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crafting",
+      "Por": "Fabricação"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface.config": [
+        "/cursorTooltip/disabledText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disabled",
+      "Por": "Desativado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface.config": [
+        "/modeTypeTextAndColor/3/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hardcore"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface.config": [
+        "/modsWarningMessage"
+      ]
+    },
+    "Texts": {
+      "Eng": "Installing and uninstalling mods can corrupt your save files, you may want to back up the 'storage' directory before continuing.",
+      "Por": "Instalar e desinstalar mods pode corromper seus arquivos salvos, você pode querer fazer um backup da pasta 'storage' antes de continuar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface.config": [
+        "/cursorTooltip/inventoryText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Inventory",
+      "Por": "Inventário"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface.config": [
+        "/cursorTooltip/mmUpgradeText"
+      ]
+    },
+    "Texts": {
+      "Eng": "M.M. Upgrade",
+      "Por": "Melhorar M.M"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface.config": [
+        "/largeCharPlate/modeText"
+      ]
+    },
+    "Texts": {
+      "Eng": "MODE:",
+      "Por": "MODO:"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface.config": [
+        "/escapeDialog/showOptions/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Options",
+      "Por": "Opções"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface.config": [
+        "/cursorTooltip/questsText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Quests",
+      "Por": "Missões"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface.config": [
+        "/escapeDialog/returnToGame/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Return to Game",
+      "Por": "Retornar ao Jogo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface.config": [
+        "/escapeDialog/saveAndQuit/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Save & Quit",
+      "Por": "Salvar & Sair"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface.config": [
+        "/modeTypeTextAndColor/2/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Survival"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface.config": [
+        "/overflowMessageText"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;+<count> more^reset;",
+      "Por": "^green;+<count> mais^reset;"
+    }
+  }
+]

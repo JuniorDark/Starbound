@@ -1,0 +1,34 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Negócios não estão bons por aqui esses dias..."
+    ],
+    "Files": {
+      "objects/outpost/penguinbar/penguinbartop.object": [
+        "/chatOptions/0"
+      ],
+      "objects/outpost/ursaminer/ursaminerclosed.object": [
+        "/chatOptions/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Business ain't so great around here these days...",
+      "Por": "Negócios não estão bons por aqui hoje em dia..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/penguinbar/penguinbartop.object": [
+        "/chatOptions/1"
+      ],
+      "objects/outpost/ursaminer/ursaminerclosed.object": [
+        "/chatOptions/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "You here to sort out my problems, huh?",
+      "Por": "Você está aqui para resolver meus problemas, hein?"
+    }
+  }
+]

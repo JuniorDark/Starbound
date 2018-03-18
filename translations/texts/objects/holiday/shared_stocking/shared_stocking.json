@@ -1,0 +1,121 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/holiday/stocking1/stocking1.object": [
+        "/description"
+      ],
+      "objects/holiday/stocking2/stocking2.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fuzzy red stocking. A little too big for anyone's foot.",
+      "Por": "Uma meia vermelha felpuda. Um pouco grande para o pé de qualquer um."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/holiday/stocking1/stocking1.object": [
+        "/hylotlDescription"
+      ],
+      "objects/holiday/stocking2/stocking2.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A gaudy sock. Why is it hanging on the wall? Is there anything inside?",
+      "Por": "Uma meia berrante. Por que está pendurada na parede? Há alguma coisa dentro?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/holiday/stocking1/stocking1.object": [
+        "/apexDescription"
+      ],
+      "objects/holiday/stocking2/stocking2.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strange tradition. Why hang socks on the wall? Is there anything in it?",
+      "Por": "Uma tradição estranha. Por que pendurar meias na parede? Há alguma coisa dentro dela?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/holiday/stocking1/stocking1.object": [
+        "/humanDescription"
+      ],
+      "objects/holiday/stocking2/stocking2.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Did Santa leave me anything this year? A lump of coal, perhaps?",
+      "Por": "O Pai Noel me deixou alguma coisa este ano? Um pedaço de carvão, talvez?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/holiday/stocking1/stocking1.object": [
+        "/avianDescription"
+      ],
+      "objects/holiday/stocking2/stocking2.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wouldn't be caught dead wearing that. Is there something in it?",
+      "Por": "Eu nunca usaria isso. Há alguma coisa dentro dela?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/holiday/stocking1/stocking1.object": [
+        "/novakidDescription"
+      ],
+      "objects/holiday/stocking2/stocking2.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Socks ain't no good on a wall, what will keep your feet warm?",
+      "Por": "Meias não são boas em uma parede, o que vai manter seus pés aquecidos?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/holiday/stocking1/stocking1.object": [
+        "/floranDescription"
+      ],
+      "objects/holiday/stocking2/stocking2.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssstupid fuzzy sock. Sssomething inside?",
+      "Por": "Meia felpuda essstúpida. Algo dentro?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/holiday/stocking1/stocking1.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/holiday/stocking2/stocking2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Why has a sock been hung on the wall? Is there something inside?"
+    }
+  }
+]

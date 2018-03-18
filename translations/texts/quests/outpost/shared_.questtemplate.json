@@ -1,0 +1,164 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/techscientist1.questtemplate": [
+        "/scriptConfig/portraits/questComplete/title",
+        "/scriptConfig/portraits/questStarted/title"
+      ],
+      "quests/outpost/techscientist2.questtemplate": [
+        "/scriptConfig/portraits/questComplete/title",
+        "/scriptConfig/portraits/questStarted/title"
+      ],
+      "quests/outpost/techscientist3.questtemplate": [
+        "/scriptConfig/portraits/questComplete/title",
+        "/scriptConfig/portraits/questStarted/title"
+      ],
+      "quests/outpost/techscientist4.questtemplate": [
+        "/scriptConfig/portraits/questComplete/title",
+        "/scriptConfig/portraits/questStarted/title"
+      ],
+      "quests/outpost/techscientist5.questtemplate": [
+        "/scriptConfig/portraits/questComplete/title",
+        "/scriptConfig/portraits/questStarted/title"
+      ],
+      "quests/outpost/techscientist6.questtemplate": [
+        "/scriptConfig/portraits/questComplete/title",
+        "/scriptConfig/portraits/questStarted/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Elliott",
+      "Por": "Elliott"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/mechunlock.questtemplate": [
+        "/scriptConfig/descriptions/turnIn"
+      ],
+      "quests/outpost/mechupgrade2.questtemplate": [
+        "/scriptConfig/descriptions/turnIn"
+      ],
+      "quests/outpost/penguin2.questtemplate": [
+        "/scriptConfig/descriptions/turnIn"
+      ]
+    },
+    "Texts": {
+      "Eng": "Return to ^orange;Dr. Akaggy^reset; at the ^orange;Outpost^reset;",
+      "Por": "Volte ao ^orange;Dr. Akaggy^reset; no ^orange;Posto Avançado^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/techscientist2.questtemplate": [
+        "/scriptConfig/descriptions/turnIn"
+      ],
+      "quests/outpost/techscientist4.questtemplate": [
+        "/scriptConfig/descriptions/turnIn"
+      ],
+      "quests/outpost/techscientist6.questtemplate": [
+        "/scriptConfig/descriptions/turnIn"
+      ]
+    },
+    "Texts": {
+      "Eng": "Return to ^orange;Elliott^reset; at the ^orange;Outpost^reset;",
+      "Por": "Volte para ^orange;Elliott^reset; no ^orange;Posto Avançado^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Volte para ^orange;Nuru^reset; No ^orange;Posto Avançado^reset;"
+    ],
+    "Files": {
+      "quests/outpost/floranarena1.questtemplate": [
+        "/scriptConfig/descriptions/turnIn"
+      ],
+      "quests/outpost/floranarena2.questtemplate": [
+        "/scriptConfig/descriptions/turnIn"
+      ],
+      "quests/outpost/floranarena3.questtemplate": [
+        "/scriptConfig/descriptions/turnIn"
+      ]
+    },
+    "Texts": {
+      "Eng": "Return to ^orange;Nuru^reset; at the ^orange;Outpost^reset;",
+      "Por": "Volte a ^orange;Nuru^reset; no ^orange;Posto Avançado^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/techscientist1.questtemplate": [
+        "/scriptConfig/turnInDescription"
+      ],
+      "quests/outpost/techscientist3.questtemplate": [
+        "/scriptConfig/turnInDescription"
+      ],
+      "quests/outpost/techscientist5.questtemplate": [
+        "/scriptConfig/turnInDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Speak to ^orange;Elliott^reset; at the ^orange;Outpost^reset;",
+      "Por": "Fale com ^orange;Elliott^reset; no ^orange;Posto Avançado^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/techscientist2.questtemplate": [
+        "/scriptConfig/descriptions/enterInstance"
+      ],
+      "quests/outpost/techscientist4.questtemplate": [
+        "/scriptConfig/descriptions/enterInstance"
+      ]
+    },
+    "Texts": {
+      "Eng": "Talk to ^orange;Elliott^reset; to enter the ^orange;obstacle course^reset;",
+      "Por": "Fale com ^orange;Elliott^reset; para entrar na ^orange;pista de obstáculos^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Fale com ^orange;Nuru^reset; Para viajar para a ^orange;arena^reset;"
+    ],
+    "Files": {
+      "quests/outpost/floranarena1.questtemplate": [
+        "/scriptConfig/descriptions/enterInstance"
+      ],
+      "quests/outpost/floranarena2.questtemplate": [
+        "/scriptConfig/descriptions/enterInstance"
+      ],
+      "quests/outpost/floranarena3.questtemplate": [
+        "/scriptConfig/descriptions/enterInstance"
+      ]
+    },
+    "Texts": {
+      "Eng": "Talk to ^orange;Nuru^reset; to travel to the ^orange;arena^reset;",
+      "Por": "Fale com ^orange;Nuru^reset; para viajar para a ^orange;arena^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Vença a batalha da arena"
+    ],
+    "Files": {
+      "quests/outpost/floranarena1.questtemplate": [
+        "/scriptConfig/descriptions/findGoal"
+      ],
+      "quests/outpost/floranarena2.questtemplate": [
+        "/scriptConfig/descriptions/findGoal"
+      ],
+      "quests/outpost/floranarena3.questtemplate": [
+        "/scriptConfig/descriptions/findGoal"
+      ]
+    },
+    "Texts": {
+      "Eng": "Win the arena battle",
+      "Por": "Vença a batalha de arena"
+    }
+  }
+]

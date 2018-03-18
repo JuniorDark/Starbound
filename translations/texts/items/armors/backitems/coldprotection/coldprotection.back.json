@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/backitems/coldprotection/coldprotection.back": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Heating EPP Upgrade",
+      "Por": "Heating EPP Upgrade"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/backitems/coldprotection/coldprotection.back": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This upgrade adds heat generation to your EPP's capabilities. Useful on ^red;dangerously cold^reset; planets.",
+      "Por": "Esta melhoria adiciona a geração de calor para as capacidades do seu EPP. Útil em planetas ^red;perigosamente frios^reset;."
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/fishing/small/chirp/fishingchirp.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Coral Chirpfish",
+      "Por": "Coral Chirpfish"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/fishing/small/chirp/fishingchirp.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "It chirps when it's happy. Does it think it's a bird?",
+      "Por": "Ele emite um som quando está feliz. Será que ele acha que é um pássaro?"
+    }
+  }
+]

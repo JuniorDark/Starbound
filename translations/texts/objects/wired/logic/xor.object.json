@@ -1,0 +1,39 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/logic/xor.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An /'XOR'/ sswitch. Requiresss one input to be on, and one off.",
+      "Por": "Um interruptor /'XOR'/. Requer uma entrada ativada, e uma desativada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/logic/xor.object": [
+        "/description",
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "An /'XOR'/ switch. Requires one input to be on, and one off.",
+      "Por": "Um interruptor /'XOR'/. Requer uma entrada ativada, e uma desativada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/logic/xor.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "XOR Switch",
+      "Por": "XOR Switch"
+    }
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/codex.config": [
+        "/paneLayout/pageNum/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "0 of 0",
+      "Por": "0 de 0"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/codex.config": [
+        "/paneLayout/prevButton/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "< Previous",
+      "Por": "< Anterior"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/codex.config": [
+        "/selectText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Choose <species> Codex",
+      "Por": "Codice <species>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/codex.config": [
+        "/paneLayout/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Codex Library",
+      "Por": "Biblioteca de Códices"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/codex.config": [
+        "/paneLayout/nextButton/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Next >",
+      "Por": "Próxima >"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/codex.config": [
+        "/paneLayout/pageLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Page",
+      "Por": "Página"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/codex.config": [
+        "/paneLayout/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#b9b5b2;Books found on your travels ^green;[L]",
+      "Por": "^#b9b5b2;Livros encontrados em suas viagens ^green;[L]"
+    }
+  }
+]

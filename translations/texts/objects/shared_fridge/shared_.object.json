@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Floran pode sssentir cheiro de carne dentro."
+    ],
+    "Files": {
+      "objects/generic/ceilingfridge1/largecooler1.object": [
+        "/floranDescription"
+      ],
+      "objects/human/fridge/fridge.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran can sssmell meat inside.",
+      "Por": "Floran pode sssentir o cheiro de carne dentro."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Estou praticamente vibrando com a emoção pensando sobre o possível conteúdo."
+    ],
+    "Files": {
+      "objects/generic/ceilingfridge1/largecooler1.object": [
+        "/humanDescription"
+      ],
+      "objects/human/fridge/fridge.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm practically vibrating with excitement thinking about the possible contents.",
+      "Por": "Estou praticamente vibrando com entusiasmo pensando sobre o possível conteúdo."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Perfeita para armazenar um monte de alimentos e mantê-los fresco.",
+      "Perfeito para armazenar muitos alimentos e mantê-los frescos."
+    ],
+    "Files": {
+      "objects/generic/ceilingfridge1/largecooler1.object": [
+        "/description"
+      ],
+      "objects/human/fridge/fridge.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Perfect for storing a lot of food and keeping it fresh.",
+      "Por": "Perfeito para armazenar um monte de alimentos e mantê-los fresco."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Debaixo da água, a refrigeração é mais fácil. Estes dispositivos são um substituto inteligente."
+    ],
+    "Files": {
+      "objects/generic/ceilingfridge1/largecooler1.object": [
+        "/hylotlDescription"
+      ],
+      "objects/generic/minifridge/minifridge.object": [
+        "/hylotlDescription"
+      ],
+      "objects/human/fridge/fridge.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Underwater, refrigeration is easier. These devices are a clever substitute.",
+      "Por": "Debaixo d'água, refrigeração é mais fácil. Estes dispositivos são um substituto inteligente."
+    }
+  }
+]

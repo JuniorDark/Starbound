@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier4/ricecake.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple snack formed of rice, held together by seaweed.",
+      "Por": "Um simples lanche feito de arroz, mantidos juntos por algas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier4/ricecake.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rice Cake",
+      "Por": "Rice Cake"
+    }
+  }
+]

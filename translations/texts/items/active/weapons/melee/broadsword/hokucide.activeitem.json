@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/broadsword/hokucide.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Accidentally formed from a sword at the bottom of the ocean during a particle accelerator explosion.",
+      "Por": "Acidentalmente formada a partir de uma espada no fundo do oceano durante uma explosão de um acelerador de partículas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/broadsword/hokucide.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hokucide",
+      "Por": "Hokucide"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/broadsword/hokucide.activeitem": [
+        "/upgradeParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hokucide ^yellow;^reset;",
+      "Por": "Hokucide ^yellow;^reset;"
+    }
+  }
+]

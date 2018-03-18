@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/bossdrop/soluskatana/soluskatana.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A solarium-infused sword, forged by Asra Nox.",
+      "Por": "Uma espada infundida com solarium, forjada por Asra Nox."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/bossdrop/soluskatana/soluskatana.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Solus Katana",
+      "Por": "Solus Katana"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/bossdrop/soluskatana/soluskatana.activeitem": [
+        "/upgradeParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Solus Katana ^yellow;^reset;",
+      "Por": "Solus Katana ^yellow;^reset;"
+    }
+  }
+]

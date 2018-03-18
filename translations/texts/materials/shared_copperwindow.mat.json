@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/copperwindow.matitem": [
+        "/description"
+      ],
+      "tiles/materials/copperwindow.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A window with a frame made from solid copper.",
+      "Por": "Uma janela com uma moldura feita de cobre sólido."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/copperwindow.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/copperwindow.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Copper Window",
+      "Por": "Copper Window"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/copperwindow.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/copperwindow.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Copper has been used to construct the frame for this window."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/copperwindow.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/copperwindow.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is a nice lookin' copper window frame.",
+      "Por": "Esta é uma bela moldura de janela de cobre."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/copperwindow.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/copperwindow.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Windowsss made from copper.",
+      "Por": "Janelasss feita de cobre."
+    }
+  }
+]

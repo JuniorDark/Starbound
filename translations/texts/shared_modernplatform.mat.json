@@ -1,0 +1,61 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/modernplatform.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/modernplatform.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Modern Platform",
+      "Por": "Modern Platform"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/modernplatform.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/platforms/modernplatform.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some fancy lookin' metal platforms.",
+      "Por": "Algumas plataformas de metal extravagantes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/modernplatform.matitem": [
+        "/florandescription"
+      ],
+      "tiles/platforms/modernplatform.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssmooth modern platformsss.",
+      "Por": "Plataformasss modernass lisass."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/modernplatform.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/platforms/modernplatform.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This smooth modern platform is attractive and sturdy."
+    }
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/glitchcastle.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I am minor royalty! It would be wise to treat me well."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/glitchcastle.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I am used to living in grander places than this."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/glitchcastle.npctype": [
+        "/scriptConfig/dialog/converse/glitch/glitch/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have had much bigger homes than this. Someone like you would not understand."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/glitchcastle.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I suppose I could live here. I've lived in bigger places, though..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/glitchcastle.npctype": [
+        "/scriptConfig/dialog/converse/glitch/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I used to have a servant that looked just like you."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/glitchcastle.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/3/glitchEmotedText",
+        "/scriptConfig/dialog/converse/glitch/glitch/3/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I used to live in a grand castle, tall enough to touch the sky itself."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/glitchcastle.npctype": [
+        "/scriptConfig/dialog/converse/glitch/glitch/4/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you haven't any servants, who does all your chores?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/glitchcastle.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/4/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This home will do, but it isn't as grand as I'd like."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/glitchcastle.npctype": [
+        "/scriptConfig/dialog/converse/glitch/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "You look like a peasant, but that does not mean you can't achieve great things."
+    }
+  }
+]

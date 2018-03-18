@@ -1,0 +1,121 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/bathroomtrash/bathroomtrash.object": [
+        "/novakidDescription"
+      ],
+      "objects/outpost/bathroomtrashquest/bathroomtrashquest.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ain't nothin' but trash.",
+      "Por": "Não é nada além de lixo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/bathroomtrash/bathroomtrash.object": [
+        "/apexDescription"
+      ],
+      "objects/outpost/bathroomtrashquest/bathroomtrashquest.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Garbage day!",
+      "Por": "Dia do lixeiro!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/bathroomtrash/bathroomtrash.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/outpost/bathroomtrashquest/bathroomtrashquest.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Garbage."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/bathroomtrash/bathroomtrash.object": [
+        "/floranDescription"
+      ],
+      "objects/outpost/bathroomtrashquest/bathroomtrashquest.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pretty rubbish.",
+      "Por": "Muito lixo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/bathroomtrash/bathroomtrash.object": [
+        "/humanDescription"
+      ],
+      "objects/outpost/bathroomtrashquest/bathroomtrashquest.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Time to take out the trash!",
+      "Por": "Hora de tirar o lixo!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/bathroomtrash/bathroomtrash.object": [
+        "/avianDescription"
+      ],
+      "objects/outpost/bathroomtrashquest/bathroomtrashquest.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trash.",
+      "Por": "Lixo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/bathroomtrash/bathroomtrash.object": [
+        "/description"
+      ],
+      "objects/outpost/bathroomtrashquest/bathroomtrashquest.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trash. Just trash. Or is it? Answer: yes.",
+      "Por": "Lixo. Apenas lixo. Ou é? Resposta: sim."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/bathroomtrash/bathroomtrash.object": [
+        "/hylotlDescription"
+      ],
+      "objects/outpost/bathroomtrashquest/bathroomtrashquest.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vile garbage.",
+      "Por": "Lixo mau."
+    }
+  }
+]

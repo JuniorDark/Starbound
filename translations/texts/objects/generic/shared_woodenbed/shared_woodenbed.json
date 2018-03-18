@@ -1,0 +1,121 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodenbed/woodenbed.object": [
+        "/novakidDescription"
+      ],
+      "objects/generic/woodenbed2/woodenbed2.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A decent place to get some shut-eye.",
+      "Por": "Um lugar decente para ficar de olhos fechados."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodenbed/woodenbed.object": [
+        "/hylotlDescription"
+      ],
+      "objects/generic/woodenbed2/woodenbed2.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A good place to close one's eyes.",
+      "Por": "Um bom lugar para fechar os olhos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodenbed/woodenbed.object": [
+        "/apexDescription"
+      ],
+      "objects/generic/woodenbed2/woodenbed2.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple wooden bed, nice and comfortable.",
+      "Por": "Uma cama de madeira simples, agradável e confortável."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodenbed/woodenbed.object": [
+        "/avianDescription"
+      ],
+      "objects/generic/woodenbed2/woodenbed2.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A wooden frame and a comfortable mattress. What more could you need?",
+      "Por": "Uma moldura de madeira e um colchão confortável. Do que mais você precisa?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodenbed/woodenbed.object": [
+        "/floranDescription"
+      ],
+      "objects/generic/woodenbed2/woodenbed2.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran rarely ssleep in ssuch nice bed.",
+      "Por": "Floran raramente dorme em cama tão agradável."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodenbed/woodenbed.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/generic/woodenbed2/woodenbed2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "My power levels are low. This bed looks inviting."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodenbed/woodenbed.object": [
+        "/shortdescription"
+      ],
+      "objects/generic/woodenbed2/woodenbed2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wooden Bed",
+      "Por": "Wooden Bed"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodenbed/woodenbed.object": [
+        "/humanDescription"
+      ],
+      "objects/generic/woodenbed2/woodenbed2.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Your basic, comfy bed.",
+      "Por": "Sua cama básica e confortável."
+    }
+  }
+]

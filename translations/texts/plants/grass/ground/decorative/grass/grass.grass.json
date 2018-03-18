@@ -1,0 +1,39 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/grass/grass.grass": [
+        "/glitchDescription/glitchEmotedText",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Grass.",
+      "Por": "Grama. "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/grass/grass.grass": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Grass. Simply grass.",
+      "Por": "Grama. Só grama."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/grass/grass.grass": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nice grass.",
+      "Por": "Grama legal."
+    }
+  }
+]

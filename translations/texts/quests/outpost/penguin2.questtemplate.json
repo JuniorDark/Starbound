@@ -1,0 +1,62 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/penguin2.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "A weapon distributor of mine needs a shipment from me, but I've been busy fixing up my new experimental ^orange;Shockhopper mech^white;. Naturally ^green;I'll need a budding warrior to test it against^white; - catch my drift? Speak to me when you're geared up and ready, and we can go to my ^orange;weapon testing site^white;.",
+      "Por": "Um distribuidor de armas meu precisa de um carregamento de mim, mas eu estive ocupado consertando o meu novo ^orange;mecha Shockhopper^white; experimental. Naturalmente ^green;Eu vou precisar de um guerreiro em desenvolvimento para testa-lo contra^white; - entende? Fale comigo quando você estiver preparado e pronto, e nós podemos ir para o meu ^orange;local de teste de armas^white;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/penguin2.questtemplate": [
+        "/scriptConfig/descriptions/findGoal"
+      ]
+    },
+    "Texts": {
+      "Eng": "Defeat ^orange;Shockhopper MK I^reset;",
+      "Por": "Derrote ^orange;Shockhopper MK I^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/penguin2.questtemplate": [
+        "/scriptConfig/descriptions/enterInstance"
+      ]
+    },
+    "Texts": {
+      "Eng": "Talk to ^orange;Dr. Akaggy^reset; to go to the ^orange;Testing Site^reset;",
+      "Por": "Fale com o ^orange;Dr. Akaggy^reset; para ir ao ^orange;Local de Teste^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/penguin2.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thanks for the intense testing session, friendo - it gave me a lot of useful data! I've also sent out a shipment to my weapon distributor - ^green;his stall should be open right here on the Outpost^white; already.",
+      "Por": "Obrigado pela intensa sessão de testes, amigo - isso me deu muitos dados úteis! Também enviei uma remessa para o meu distribuidor de armas - ^green;Sua tenda já deve estar aberta aqui no Posto Avançado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/penguin2.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Penguin Weaponry Testing Site",
+      "Por": "^orange;Local de Teste de Armamento Pinguim"
+    }
+  }
+]

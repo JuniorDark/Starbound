@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/violiumore.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Violium Ore",
+      "Por": "Violium Ore"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/violiumore.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Violium ore. Can be used for smelting.",
+      "Por": "Minério de violium. Pode ser refinado."
+    }
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/arena/arenaadvisor3.npctype": [
+        "/scriptConfig/dialog/converse/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Burn spray can be effective at preventing you from catching fire, but it will not nullify damage from direct contact.",
+      "Por": "Burn Spray pode ser eficaz em impedi-lo de pegar fogo, mas não anulará dano de contato direto."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/arena/arenaadvisor3.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Templar Inferno and his pets draw strength from fire. Keep them away from traps.",
+      "Por": "Templar Inferno e seus pets tiram a força do fogo. Mantenha-os longe das armadilhas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/arena/arenaadvisor3.npctype": [
+        "/scriptConfig/dialog/converse/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Use the platforms to carefully avoid traps and distance yourself from Inferno's blade.",
+      "Por": "Use as plataformas para evitar as armadilhas e distanciar-se da lâmina do Inferno."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/arena/arenaadvisor3.npctype": [
+        "/scriptConfig/dialog/converse/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Your best chance is to take out Inferno quickly, otherwise more and more of his pets will come join the fray.",
+      "Por": "Sua melhor chance consiste em acabar com Inferno rapidamente, caso contrário, mais e mais de seus pets entrará na briga."
+    }
+  }
+]

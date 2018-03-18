@@ -1,0 +1,78 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Uma rocha tão escura como a sombra."
+    ],
+    "Files": {
+      "items/materials/shadowblock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/shadowblock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A rock as pitch black as shadow.",
+      "Por": "Uma rocha tão escura como sombra."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/shadowblock.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/shadowblock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mighty dark lookin' rocks.",
+      "Por": "Rochas muito escuras."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/shadowblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/shadowblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shadow Rock",
+      "Por": "Shadow Rock"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/shadowblock.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/shadowblock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shadowy black blockss.",
+      "Por": "Blocoss pretos sombrioss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/shadowblock.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/shadowblock.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This dark block seems to absorb light around it."
+    }
+  }
+]

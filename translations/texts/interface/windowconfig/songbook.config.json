@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/songbook.config": [
+        "/paneLayout/group/hint"
+      ]
+    },
+    "Texts": {
+      "Eng": "Band name",
+      "Por": "Nome da banda"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/songbook.config": [
+        "/paneLayout/lblSong/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Choose a song",
+      "Por": "Escolha uma musica"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/songbook.config": [
+        "/paneLayout/lblBand/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enter the same band name as other\n players to play music in unison",
+      "Por": "Digite o mesmo nome de banda que outros\njogadores para tocar em conjunto."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/songbook.config": [
+        "/paneLayout/btnPlay/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Play",
+      "Por": "Tocar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/songbook.config": [
+        "/paneLayout/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Songbook Library",
+      "Por": "Biblioteca de Músicas"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/songbook.config": [
+        "/paneLayout/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#b9b5b2;All your music in one space",
+      "Por": "^#b9b5b2;Todas suas músicas em um só local"
+    }
+  }
+]

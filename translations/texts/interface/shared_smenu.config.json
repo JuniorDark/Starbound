@@ -1,0 +1,20 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/optionsmenu/optionsmenu.config": [
+        "/paneLayout/backButton/caption"
+      ],
+      "interface/windowconfig/graphicsmenu.config": [
+        "/paneLayout/cancel/caption"
+      ],
+      "interface/windowconfig/keybindingsmenu.config": [
+        "/paneLayout/cancel/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Back",
+      "Por": "Voltar"
+    }
+  }
+]

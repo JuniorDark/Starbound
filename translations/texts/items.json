@@ -1,0 +1,107 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Bumerangue"
+    ],
+    "Files": {
+      "items/active/weapons/boomerang/boomerang.activeitem": [
+        "/shortdescription"
+      ],
+      "items/categories.config": [
+        "/labels/boomerang"
+      ]
+    },
+    "Texts": {
+      "Eng": "Boomerang",
+      "Por": "Boomerang"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/chakram/chakram.activeitem": [
+        "/shortdescription"
+      ],
+      "items/categories.config": [
+        "/labels/chakram"
+      ]
+    },
+    "Texts": {
+      "Eng": "Chakram",
+      "Por": "Chakram"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Vara de Pesca"
+    ],
+    "Files": {
+      "items/active/fishingrod/fishingrod.activeitem": [
+        "/shortdescription"
+      ],
+      "items/categories.config": [
+        "/labels/fishingRod"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fishing Rod",
+      "Por": "Fishing Rod"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Flashlight"
+    ],
+    "Files": {
+      "items/active/weapons/ranged/abilities/flashlight/flashlight.weaponability": [
+        "/ability/name"
+      ],
+      "items/tools/flashlight.flashlight": [
+        "/shortdescription"
+      ],
+      "items/tools/greenflashlight.flashlight": [
+        "/shortdescription"
+      ],
+      "items/tools/redflashlight.flashlight": [
+        "/shortdescription"
+      ],
+      "items/tools/yellowflashlight.flashlight": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flashlight",
+      "Por": "Lanterna"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/biome/swamp/froggsuit/frogg.legs": [
+        "/shortdescription"
+      ],
+      "items/fossils/humanoid/froggfossil3.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frogg Legs",
+      "Por": "Frogg Legs"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/abilities/grenadelauncher/grenadelauncher.weaponability": [
+        "/ability/name"
+      ],
+      "items/categories.config": [
+        "/labels/grenadeLauncher"
+      ]
+    },
+    "Texts": {
+      "Eng": "Grenade Launcher",
+      "Por": "Lança-Granadas"
+    }
+  }
+]

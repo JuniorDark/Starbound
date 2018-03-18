@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/socialitevisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Is my attire not the finest you've ever seen?",
+      "Por": "Meu traje não é o melhor que você já viu?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/socialitevisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "My priceless coin collection was on Earth when... It happened. Now I'm ruined!",
+      "Por": "Minha coleção de moedas de valor inestimável estava na Terra quando... Isso aconteceu. Agora estou arruinado!"
+    }
+  }
+]

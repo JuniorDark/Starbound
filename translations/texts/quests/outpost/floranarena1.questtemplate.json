@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/floranarena1.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hey, champion! A guy invited me to a ^orange;gladiator arena tournament^white;, but I think you should go inssstead. If you're feeling tough, ^green;talk to me and I can ssend you there for the first round^white;!",
+      "Por": "Ei, campeão! Um cara me convidou para um ^orange;torneio na arena de gladiador^white;, mas eu acho que você deve ir em meu lugar. Se você estiver se sentindo forte, ^green;fale comigo e eu posso te enviar para a primeira rodada^white;!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/floranarena1.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "You ssurvived! Knew you'd make it. Good job, champ!",
+      "Por": "Você sobreviveu! Sabia que você conseguiria. Bom trabalho, campeão!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/floranarena1.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;A Challenger Approaches",
+      "Por": "^green;Um Desafiador se Aproxima"
+    }
+  }
+]

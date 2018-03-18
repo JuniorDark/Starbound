@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/logic/not.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "<A /'NOT'/ switch. Inverts the input on the circuit.>",
+      "Por": "<Um interruptor /'NOT'/. Inverte a entrada no circuito.>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/logic/not.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "NOT Switch",
+      "Por": "NOT Switch"
+    }
+  }
+]

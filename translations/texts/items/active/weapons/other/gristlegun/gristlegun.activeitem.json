@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/other/gristlegun/gristlegun.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cartilage Gun",
+      "Por": "Cartilage Gun"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/other/gristlegun/gristlegun.activeitem": [
+        "/upgradeParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cartilage Gun ^yellow;^reset;",
+      "Por": "Cartilage Gun ^yellow;^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/other/gristlegun/gristlegun.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This pistol generates its own natural ammo. Ew.",
+      "Por": "Esta pistola gera sua própria munição natural."
+    }
+  }
+]

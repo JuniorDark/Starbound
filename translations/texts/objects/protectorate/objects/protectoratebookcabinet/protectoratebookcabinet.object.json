@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/protectorate/objects/protectoratebookcabinet/protectoratebookcabinet.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A book cabinet.",
+      "Por": "Um armário de livros."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/protectorate/objects/protectoratebookcabinet/protectoratebookcabinet.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A book cabinet. You can borrow books for free.",
+      "Por": "Um armário de livros. Você pode emprestar livros gratuitamente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/protectorate/objects/protectoratebookcabinet/protectoratebookcabinet.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Protectorate Book Cabinet",
+      "Por": "Protectorate Book Cabinet"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/protectorate/objects/protectoratebookcabinet/protectoratebookcabinet.object": [
+        "/description",
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "So many books, so little time!",
+      "Por": "Tantos livros, tão pouco tempo!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/protectorate/objects/protectoratebookcabinet/protectoratebookcabinet.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These books are communal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/protectorate/objects/protectoratebookcabinet/protectoratebookcabinet.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "We can borrow books from here.",
+      "Por": "Podemos emprestar livros daqui."
+    }
+  }
+]

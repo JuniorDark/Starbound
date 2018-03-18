@@ -1,0 +1,546 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aviantechstation/aviantechstation.object": [
+        "/dialog/wakeUp/3/0"
+      ],
+      "objects/ship/florantechstation/florantechstation.object": [
+        "/dialog/wakeUp/3/0"
+      ],
+      "objects/ship/glitchtechstation/glitchtechstation.object": [
+        "/dialog/wakeUp/3/0"
+      ],
+      "objects/ship/humantechstation/humantechstation.object": [
+        "/dialog/wakeUp/3/0"
+      ],
+      "objects/ship/hylotltechstation/hylotltechstation.object": [
+        "/dialog/wakeUp/3/0"
+      ],
+      "objects/ship/novakidtechstation/novakidtechstation.object": [
+        "/dialog/wakeUp/3/0"
+      ],
+      "objects/ship/techstation/techstation.object": [
+        "/dialog/wakeUp/3/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Earth was attacked by an unknown force, and was subsequently annihilated.",
+      "Por": "A Terra foi atacada por uma força desconhecida, e subsequentemente aniquilada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aviantechstation/aviantechstation.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/florantechstation/florantechstation.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/glitchtechstation/glitchtechstation.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/humantechstation/humantechstation.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/hylotltechstation/hylotltechstation.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/novakidtechstation/novakidtechstation.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/techstation/techstation.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran use thisss magic panel to talk to SAIL!",
+      "Por": "Floran usa este painel mágico para conversar com SAIL!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aviantechstation/aviantechstation.object": [
+        "/dialog/wakeUp/1/0"
+      ],
+      "objects/ship/florantechstation/florantechstation.object": [
+        "/dialog/wakeUp/1/0"
+      ],
+      "objects/ship/glitchtechstation/glitchtechstation.object": [
+        "/dialog/wakeUp/1/0"
+      ],
+      "objects/ship/humantechstation/humantechstation.object": [
+        "/dialog/wakeUp/1/0"
+      ],
+      "objects/ship/hylotltechstation/hylotltechstation.object": [
+        "/dialog/wakeUp/1/0"
+      ],
+      "objects/ship/novakidtechstation/novakidtechstation.object": [
+        "/dialog/wakeUp/1/0"
+      ],
+      "objects/ship/techstation/techstation.object": [
+        "/dialog/wakeUp/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I am S.A.I.L, your Ship-based Artificial Intelligence Lattice. I manage the maintainance of your ship.",
+      "Por": "Eu sou S.A.I.L, sua Ship-based Artificial Intelligence Lattice. Eu gerencio a manutenção da sua nave."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aviantechstation/aviantechstation.object": [
+        "/dialog/wakeUp/2/0"
+      ],
+      "objects/ship/florantechstation/florantechstation.object": [
+        "/dialog/wakeUp/2/0"
+      ],
+      "objects/ship/glitchtechstation/glitchtechstation.object": [
+        "/dialog/wakeUp/2/0"
+      ],
+      "objects/ship/humantechstation/humantechstation.object": [
+        "/dialog/wakeUp/2/0"
+      ],
+      "objects/ship/hylotltechstation/hylotltechstation.object": [
+        "/dialog/wakeUp/2/0"
+      ],
+      "objects/ship/novakidtechstation/novakidtechstation.object": [
+        "/dialog/wakeUp/2/0"
+      ],
+      "objects/ship/techstation/techstation.object": [
+        "/dialog/wakeUp/2/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I am also programmed to offer you information and advice.",
+      "Por": "Também sou programado para lhe oferecer informações e conselhos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aviantechstation/aviantechstation.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/florantechstation/florantechstation.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/glitchtechstation/glitchtechstation.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/humantechstation/humantechstation.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/hylotltechstation/hylotltechstation.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/novakidtechstation/novakidtechstation.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/techstation/techstation.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can talk to SAIL through this console.",
+      "Por": "Eu posso falar com SAIL através deste console."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aviantechstation/aviantechstation.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/florantechstation/florantechstation.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/glitchtechstation/glitchtechstation.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/humantechstation/humantechstation.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/hylotltechstation/hylotltechstation.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/novakidtechstation/novakidtechstation.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/techstation/techstation.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can use this station to talk to SAIL.",
+      "Por": "Eu posso usar esta estação de falar com SAIL."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aviantechstation/aviantechstation.object": [
+        "/dialog/wakePlayer/1/0"
+      ],
+      "objects/ship/florantechstation/florantechstation.object": [
+        "/dialog/wakePlayer/1/0"
+      ],
+      "objects/ship/glitchtechstation/glitchtechstation.object": [
+        "/dialog/wakePlayer/1/0"
+      ],
+      "objects/ship/humantechstation/humantechstation.object": [
+        "/dialog/wakePlayer/1/0"
+      ],
+      "objects/ship/hylotltechstation/hylotltechstation.object": [
+        "/dialog/wakePlayer/1/0"
+      ],
+      "objects/ship/novakidtechstation/novakidtechstation.object": [
+        "/dialog/wakePlayer/1/0"
+      ],
+      "objects/ship/techstation/techstation.object": [
+        "/dialog/wakePlayer/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Please reboot the system.",
+      "Por": "Por favor reinicie o sistema."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aviantechstation/aviantechstation.object": [
+        "/dialog/wakePlayer/2/0"
+      ],
+      "objects/ship/florantechstation/florantechstation.object": [
+        "/dialog/wakePlayer/2/0"
+      ],
+      "objects/ship/glitchtechstation/glitchtechstation.object": [
+        "/dialog/wakePlayer/2/0"
+      ],
+      "objects/ship/humantechstation/humantechstation.object": [
+        "/dialog/wakePlayer/2/0"
+      ],
+      "objects/ship/hylotltechstation/hylotltechstation.object": [
+        "/dialog/wakePlayer/2/0"
+      ],
+      "objects/ship/novakidtechstation/novakidtechstation.object": [
+        "/dialog/wakePlayer/2/0"
+      ],
+      "objects/ship/techstation/techstation.object": [
+        "/dialog/wakePlayer/2/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reboot process remains uninitiated.",
+      "Por": "Processo de reinicialização permanece não iniciado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aviantechstation/aviantechstation.object": [
+        "/dialog/wakePlayer/4/0"
+      ],
+      "objects/ship/florantechstation/florantechstation.object": [
+        "/dialog/wakePlayer/4/0"
+      ],
+      "objects/ship/glitchtechstation/glitchtechstation.object": [
+        "/dialog/wakePlayer/4/0"
+      ],
+      "objects/ship/humantechstation/humantechstation.object": [
+        "/dialog/wakePlayer/4/0"
+      ],
+      "objects/ship/hylotltechstation/hylotltechstation.object": [
+        "/dialog/wakePlayer/4/0"
+      ],
+      "objects/ship/novakidtechstation/novakidtechstation.object": [
+        "/dialog/wakePlayer/4/0"
+      ],
+      "objects/ship/techstation/techstation.object": [
+        "/dialog/wakePlayer/4/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rebooting has shown to improve ship interaction satisfaction levels by 73%.",
+      "Por": "A reinicialização tem demonstrado melhorar os níveis de satisfação de interação da nave em 73%."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aviantechstation/aviantechstation.object": [
+        "/dialog/wakePlayer/5/0"
+      ],
+      "objects/ship/florantechstation/florantechstation.object": [
+        "/dialog/wakePlayer/5/0"
+      ],
+      "objects/ship/glitchtechstation/glitchtechstation.object": [
+        "/dialog/wakePlayer/5/0"
+      ],
+      "objects/ship/humantechstation/humantechstation.object": [
+        "/dialog/wakePlayer/5/0"
+      ],
+      "objects/ship/hylotltechstation/hylotltechstation.object": [
+        "/dialog/wakePlayer/5/0"
+      ],
+      "objects/ship/novakidtechstation/novakidtechstation.object": [
+        "/dialog/wakePlayer/5/0"
+      ],
+      "objects/ship/techstation/techstation.object": [
+        "/dialog/wakePlayer/5/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rebooting requires a conscious entity to interact with the S.A.I.L console.",
+      "Por": "O reinício exige uma entidade consciente para interagir com o console S.A.I.L."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aviantechstation/aviantechstation.object": [
+        "/dialog/wakeUp/0/0"
+      ],
+      "objects/ship/florantechstation/florantechstation.object": [
+        "/dialog/wakeUp/0/0"
+      ],
+      "objects/ship/glitchtechstation/glitchtechstation.object": [
+        "/dialog/wakeUp/0/0"
+      ],
+      "objects/ship/humantechstation/humantechstation.object": [
+        "/dialog/wakeUp/0/0"
+      ],
+      "objects/ship/hylotltechstation/hylotltechstation.object": [
+        "/dialog/wakeUp/0/0"
+      ],
+      "objects/ship/novakidtechstation/novakidtechstation.object": [
+        "/dialog/wakeUp/0/0"
+      ],
+      "objects/ship/techstation/techstation.object": [
+        "/dialog/wakeUp/0/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rebooting...",
+      "Por": "Reiniciando..."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Por favor reinicie o sistema.",
+      "Sistema desligado, favor reinicie."
+    ],
+    "Files": {
+      "objects/ship/aviantechstation/aviantechstation.object": [
+        "/dialog/wakePlayer/0/0"
+      ],
+      "objects/ship/florantechstation/florantechstation.object": [
+        "/dialog/wakePlayer/0/0"
+      ],
+      "objects/ship/glitchtechstation/glitchtechstation.object": [
+        "/dialog/wakePlayer/0/0"
+      ],
+      "objects/ship/humantechstation/humantechstation.object": [
+        "/dialog/wakePlayer/0/0"
+      ],
+      "objects/ship/hylotltechstation/hylotltechstation.object": [
+        "/dialog/wakePlayer/0/0"
+      ],
+      "objects/ship/novakidtechstation/novakidtechstation.object": [
+        "/dialog/wakePlayer/0/0"
+      ],
+      "objects/ship/techstation/techstation.object": [
+        "/dialog/wakePlayer/0/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "System is down, please reboot.",
+      "Por": "Sistema desligado, por favor reinicie.\""
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aviantechstation/aviantechstation.object": [
+        "/dialog/wakeUp/4/0"
+      ],
+      "objects/ship/florantechstation/florantechstation.object": [
+        "/dialog/wakeUp/4/0"
+      ],
+      "objects/ship/glitchtechstation/glitchtechstation.object": [
+        "/dialog/wakeUp/4/0"
+      ],
+      "objects/ship/humantechstation/humantechstation.object": [
+        "/dialog/wakeUp/4/0"
+      ],
+      "objects/ship/hylotltechstation/hylotltechstation.object": [
+        "/dialog/wakeUp/4/0"
+      ],
+      "objects/ship/novakidtechstation/novakidtechstation.object": [
+        "/dialog/wakeUp/4/0"
+      ],
+      "objects/ship/techstation/techstation.object": [
+        "/dialog/wakeUp/4/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "The ship's navigation systems were damaged in our escape. Our location is currently unknown.",
+      "Por": "Os sistemas de navegação da nave foram danificados em nossa fuga. A nossa localização é atualmente desconhecida."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Esta console me permite se comunicar com SAIL."
+    ],
+    "Files": {
+      "objects/ship/aviantechstation/aviantechstation.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/florantechstation/florantechstation.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/glitchtechstation/glitchtechstation.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/humantechstation/humantechstation.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/hylotltechstation/hylotltechstation.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/novakidtechstation/novakidtechstation.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/techstation/techstation.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This console allows me to communicate with SAIL.",
+      "Por": "Este console me permite se comunicar com SAIL."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aviantechstation/aviantechstation.object": [
+        "/novakidDescription"
+      ],
+      "objects/ship/florantechstation/florantechstation.object": [
+        "/novakidDescription"
+      ],
+      "objects/ship/glitchtechstation/glitchtechstation.object": [
+        "/novakidDescription"
+      ],
+      "objects/ship/humantechstation/humantechstation.object": [
+        "/novakidDescription"
+      ],
+      "objects/ship/hylotltechstation/hylotltechstation.object": [
+        "/novakidDescription"
+      ],
+      "objects/ship/novakidtechstation/novakidtechstation.object": [
+        "/novakidDescription"
+      ],
+      "objects/ship/techstation/techstation.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This here station lets me talk with SAIL.",
+      "Por": "Esta estação aqui me deixa falar com SAIL."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aviantechstation/aviantechstation.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/florantechstation/florantechstation.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/glitchtechstation/glitchtechstation.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/humantechstation/humantechstation.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/hylotltechstation/hylotltechstation.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/novakidtechstation/novakidtechstation.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/techstation/techstation.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This station allows me to communicate with SAIL.",
+      "Por": "Esta estação permite que eu me comunique com SAIL."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aviantechstation/aviantechstation.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/florantechstation/florantechstation.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/glitchtechstation/glitchtechstation.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/humantechstation/humantechstation.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/hylotltechstation/hylotltechstation.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/novakidtechstation/novakidtechstation.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/techstation/techstation.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This station allows me to talk to SAIL."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aviantechstation/aviantechstation.object": [
+        "/dialog/wakePlayer/3/0"
+      ],
+      "objects/ship/florantechstation/florantechstation.object": [
+        "/dialog/wakePlayer/3/0"
+      ],
+      "objects/ship/glitchtechstation/glitchtechstation.object": [
+        "/dialog/wakePlayer/3/0"
+      ],
+      "objects/ship/humantechstation/humantechstation.object": [
+        "/dialog/wakePlayer/3/0"
+      ],
+      "objects/ship/hylotltechstation/hylotltechstation.object": [
+        "/dialog/wakePlayer/3/0"
+      ],
+      "objects/ship/novakidtechstation/novakidtechstation.object": [
+        "/dialog/wakePlayer/3/0"
+      ],
+      "objects/ship/techstation/techstation.object": [
+        "/dialog/wakePlayer/3/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "To make use of your S.A.I.L please reboot.",
+      "Por": "Para fazer uso do seu S.A.I.L favor reinicie."
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/tungstenore.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's tungsten. It can be used for smelting.",
+      "Por": "É tungsténio. Pode ser derretido e transformado em barras."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/tungstenore.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tungsten Ore",
+      "Por": "Tungsten Ore"
+    }
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/neon.npctype": [
+        "/scriptConfig/dialog/converse/apex/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can you tell I'm an Apex in this outfit?",
+      "Por": "Você pode dizer que eu sou um Apex nesta roupa"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/neon.npctype": [
+        "/scriptConfig/dialog/converse/human/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can interact with computers with my mind in this suit!",
+      "Por": "Eu posso interagir com computadores com minha mente desta roupa!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/neon.npctype": [
+        "/scriptConfig/dialog/converse/apex/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I use this outfit to interface directly with computers.",
+      "Por": "Eu uso essa roupa para interagir diretamente com computadores."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/neon.npctype": [
+        "/scriptConfig/dialog/converse/apex/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I used to be a technician for the Miniknog.",
+      "Por": "Eu costumava ser um técnico para a Miniknog."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/neon.npctype": [
+        "/scriptConfig/dialog/converse/human/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm interfacing with computers wirelessly in this suit!",
+      "Por": "Estou interagindo com computadores sem fio nessa roupa!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/neon.npctype": [
+        "/scriptConfig/dialog/converse/human/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "It gets really sweaty in this techno suit!",
+      "Por": "Fico muito suado nessa roupa tecnológica!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/neon.npctype": [
+        "/scriptConfig/dialog/converse/apex/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "My suit wirelessly updates me with galactic server information.",
+      "Por": "Minha roupa se atualiza sem fios com informações do servidor galáctico."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/neon.npctype": [
+        "/scriptConfig/dialog/converse/human/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "This suit allows me to interface directly with computer networks. It's cool stuff.",
+      "Por": "Essa roupa me permite interagir diretamente com redes de computadores. É uma coisa legal."
+    }
+  }
+]

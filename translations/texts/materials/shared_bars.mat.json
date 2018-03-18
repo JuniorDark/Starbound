@@ -1,0 +1,61 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/bars.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/bars.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Metal Bars",
+      "Por": "Metal Bars"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/bars.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/bars.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Metal bars like this can be found in Glitch dungeons."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/bars.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/bars.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some strong lookin' metal bars.",
+      "Por": "Algumas barras de metal forte."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/bars.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/bars.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sstrong metal barsss.",
+      "Por": "Barrasss de ferro pesadass."
+    }
+  }
+]

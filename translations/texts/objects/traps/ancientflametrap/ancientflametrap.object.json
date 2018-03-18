@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/ancientflametrap/ancientflametrap.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ancient Flame Trap",
+      "Por": "Ancient Flame Trap"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/ancientflametrap/ancientflametrap.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Simple yet deadly. My favourite kind.",
+      "Por": "Simples mas mortal. Meu tipo favorito."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/ancientflametrap/ancientflametrap.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This trap spews flames to deter invaders.",
+      "Por": "Esta armadilha solta chamas para intimidar os invasores."
+    }
+  }
+]

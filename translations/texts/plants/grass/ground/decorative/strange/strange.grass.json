@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/strange/strange.grass": [
+        "/description",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bizarre plant.",
+      "Por": "Uma planta bizarra."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/strange/strange.grass": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "An ugly plant."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/strange/strange.grass": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Weird plant. Floran relate to it.",
+      "Por": "Planta esquisita. Os Floran se referem a ela."
+    }
+  }
+]

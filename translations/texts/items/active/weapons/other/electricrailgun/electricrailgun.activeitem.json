@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/other/electricrailgun/electricrailgun.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tesla's Wrath",
+      "Por": "Tesla's Wrath"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/other/electricrailgun/electricrailgun.activeitem": [
+        "/upgradeParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tesla's Wrath ^yellow;^reset;",
+      "Por": "Tesla's Wrath ^yellow;^reset;"
+    }
+  }
+]

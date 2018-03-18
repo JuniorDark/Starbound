@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier2/carrotcake.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Carrot Cake",
+      "Por": "Carrot Cake"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier2/carrotcake.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a delicious carrot cake! Tastes better than it sounds.",
+      "Por": "É um delicioso bolo de cenoura! Tem um gosto melhor do que parece."
+    }
+  }
+]

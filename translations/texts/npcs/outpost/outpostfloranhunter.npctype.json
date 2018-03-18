@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/outpostfloranhunter.npctype": [
+        "/scriptConfig/dialog/converse/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "All Floran should hunt and ssseek glory. Is that what you're here to do?",
+      "Por": "Todos os Floran devem caçar e busscar a glória. É pra isso que você está aqui?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/outpostfloranhunter.npctype": [
+        "/scriptConfig/dialog/converse/floran/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Another Floran. You must undersstand the glory of the hunt.",
+      "Por": "Outra Floran. Você deve compreender a glória da caça."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/outpostfloranhunter.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Only the sstrong get Floran's respect.",
+      "Por": "Só os fortess obtem o respeito de Floran."
+    }
+  }
+]

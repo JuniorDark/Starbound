@@ -1,0 +1,62 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/techscientist6.questtemplate": [
+        "/scriptConfig/descriptions/findGoal"
+      ]
+    },
+    "Texts": {
+      "Eng": "Complete the ^orange;Distortion Sphere Tech obstacle course^reset;",
+      "Por": "Complete a ^orange;pista de obstáculos da Tecnologia de Esfera de Distorção^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/techscientist6.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excellent! The ^orange;Distortion Sphere Tech^white; performed just as I'd hoped it would. Please, keep it - thanks to you I've been able to make significant strides in my research!",
+      "Por": "Excelente! A ^orange;Tecnologia de Esfera de Distorção^white; funcionou como eu esperava que seria. Por favor, fique com ela - graças a você que eu fui capaz de fazer avanços significativos em minha pesquisa!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/techscientist6.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "My ^orange;Distortion Sphere Tech^white; is ready to roll! I'd like you to ^green;test it on the new obstacle course^white; I've set up. You should have no problems getting into any of the narrow spaces inside. ^green;Talk to me again when you're ready to go in.",
+      "Por": "Minha ^orange;Tecnologia de Esfera de Distorção^white; está pronta para rolar! Eu gostaria que você ^green;testasse na nova pista de obstáculos^white; que eu arrumei. Você não deve ter problemas em entrar em qualquer um dos espaços estreitos la dentro. ^green;Fale comigo novamente quando você estiver pronto para entrar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/techscientist6.questtemplate": [
+        "/scriptConfig/descriptions/enterInstance"
+      ]
+    },
+    "Texts": {
+      "Eng": "Talk to ^orange;Elliott^reset; to enter the ^orange;obsctacle course^reset;",
+      "Por": "Fale com ^orange;Elliott^reset; para entrar na ^orange;pista de obstáculos^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/techscientist6.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Getting The Ball Rolling",
+      "Por": "^orange;Fazendo A Bola Rolar"
+    }
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Viu algo que gostou?"
+    ],
+    "Files": {
+      "dialog/merchant.config": [
+        "/merchantStart/default/default/1"
+      ],
+      "npcs/wizardmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/start/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "See anything you like?",
+      "Por": "Viu algo que você gostou?"
+    }
+  }
+]

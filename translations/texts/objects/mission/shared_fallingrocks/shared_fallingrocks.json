@@ -1,0 +1,65 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Melhor tomar cuidado com as pedras caindo à frente."
+    ],
+    "Files": {
+      "objects/mission/fallingrocks/fallingrocks.object": [
+        "/novakidDescription"
+      ],
+      "objects/mission/fallingrocksmodern/fallingrocksmodern.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Better watch out for fallin' rocks ahead.",
+      "Por": "Melhor tomar cuidado com pedras caindo à frente."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Pedras caindo. Por que uma caverna não pode ser segura pelo menos uma vez?"
+    ],
+    "Files": {
+      "objects/mission/fallingrocks/fallingrocks.object": [
+        "/humanDescription"
+      ],
+      "objects/mission/fallingrocksmodern/fallingrocksmodern.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Falling rocks. Why can't a cave just be safe for once?",
+      "Por": "Rochas caindo. Por que uma caverna não pode ser segura pelo menos uma vez?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/fallingrocks/fallingrocks.object": [
+        "/hylotlDescription"
+      ],
+      "objects/mission/fallingrocksmodern/fallingrocksmodern.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Perhaps the artist was trying to warn others.",
+      "Por": "Talvez o artista estivesse tentando alertar os outros."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/fallingrocks/fallingrocks.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/mission/fallingrocksmodern/fallingrocksmodern.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Perhaps this represents that the area is unsafe?"
+    }
+  }
+]

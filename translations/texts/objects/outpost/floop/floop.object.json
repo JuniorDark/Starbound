@@ -1,0 +1,77 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/floop/floop.object": [
+        "/avianDescription",
+        "/humanDescription",
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A floop sign.",
+      "Por": "Uma placa escrito Floop."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/floop/floop.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floop",
+      "Por": "Floop"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/floop/floop.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floop marker.",
+      "Por": "Uma placa escrito Floop."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/floop/floop.object": [
+        "/apexDescription",
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floop sign.",
+      "Por": "Uma placa escrito Floop."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/floop/floop.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floopy sssign.",
+      "Por": "Placa de Floopy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/floop/floop.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a floop sign! Whoopie!",
+      "Por": "É um placa de floop! Whoopie!"
+    }
+  }
+]

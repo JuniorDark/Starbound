@@ -1,0 +1,136 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/wheat/wheatseed.object": [
+        "/novakidDescription"
+      ],
+      "objects/farmables/wheat/wildwheatseed.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I get a hankerin' for fresh bread whenever I see wheat.",
+      "Por": "Tenho vontade de pão fresco sempre que vejo trigo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/wheat/wheatseed.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/farmables/wheat/wildwheatseed.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wonder if all the possible uses for wheat have been found."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/wheat/wheatseed.object": [
+        "/hylotlDescription"
+      ],
+      "objects/farmables/wheat/wildwheatseed.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "On land, wheat has many uses. Underwater, almost none.",
+      "Por": "Em terra, o trigo tem muitos usos. Embaixo da água, quase nenhum."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/wheat/wheatseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/wheat/wildwheatseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wheat Seed",
+      "Por": "Wheat Seed"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/wheat/wheatseed.object": [
+        "/floranDescription"
+      ],
+      "objects/farmables/wheat/wildwheatseed.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wheat has earsss. Floran pull off earsss for fun.",
+      "Por": "Trigo tem orelhasss. Floran puxa orelhasss por diversão."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/wheat/wheatseed.object": [
+        "/avianDescription"
+      ],
+      "objects/farmables/wheat/wildwheatseed.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wheat is delicious on its own, or when used to make breadcrumbs.",
+      "Por": "Trigo é delicioso por conta própria, ou quando usado para fazer trilha de migalhas de pão."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/wheat/wheatseed.object": [
+        "/apexDescription"
+      ],
+      "objects/farmables/wheat/wildwheatseed.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wheat is unpleasant when unprocressed, but can be used to make all manner of dishes.",
+      "Por": "O trigo é desagradável quando não processado, mas pode ser usado para fazer todos os tipos de pratos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/wheat/wheatseed.object": [
+        "/description"
+      ],
+      "objects/farmables/wheat/wildwheatseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wheat, a staple crop with many uses.",
+      "Por": "Trigo, uma planta básica com muitos usos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/wheat/wheatseed.object": [
+        "/humanDescription"
+      ],
+      "objects/farmables/wheat/wildwheatseed.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wheat, perfect for baking some fresh bread.",
+      "Por": "Trigo, perfeito para assar um pouco de pão fresco."
+    }
+  }
+]

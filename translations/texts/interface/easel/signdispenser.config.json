@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/easel/signdispenser.config": [
+        "/gui/count/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "INPUT",
+      "Por": "ENTRADA"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/easel/signdispenser.config": [
+        "/gui/dragDrop/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "OUTPUT",
+      "Por": "SAÍDA"
+    }
+  }
+]

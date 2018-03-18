@@ -1,0 +1,49 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Lança-Chamas"
+    ],
+    "Files": {
+      "items/active/weapons/melee/abilities/broadsword/flamethrowersword/flamethrowersword.weaponability": [
+        "/ability/name"
+      ],
+      "items/active/weapons/ranged/abilities/flamethrower/flamethrower.weaponability": [
+        "/ability/name"
+      ],
+      "items/active/weapons/ranged/flamethrower/flamethrower.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flamethrower",
+      "Por": "Flamethrower"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/novakid/titaniumsniperrifle.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/npc/npcsniperrifle.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/other/electricrailgun/electricrailgun.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/sniperrifle/commonsniperrifle.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/sniperrifle/raresniperrifle.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/sniperrifle/uncommonsniperrifle.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Powerfully strong to cover long distances.",
+      "Por": "Poderosamente forte para cobrir longas distâncias."
+    }
+  }
+]

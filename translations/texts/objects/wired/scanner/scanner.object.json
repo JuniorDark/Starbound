@@ -1,0 +1,109 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/scanner/scanner.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A proximity device. It could trigger something if I'm near.",
+      "Por": "Um dispositivo de proximidade. Isso poderia desencadear algo se eu estiver perto."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/scanner/scanner.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A proximity scanner. Is it watching me right now?",
+      "Por": "Um scanner de proximidade. Ele está me observando agora mesmo?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/scanner/scanner.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A proximity sensor. It can tell when I'm near.",
+      "Por": "Um sensor de proximidade. Pode dizer quando estou perto."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/scanner/scanner.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a proximity device. It'll sense when I get close to it.",
+      "Por": "É um dispositivo de proximidade. Isso vai sentir quando eu chegar perto disso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/scanner/scanner.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Perfect for all your automated door needs!",
+      "Por": "Perfeito para todas as suas necessidades automatizadas de porta!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/scanner/scanner.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Proximity Scanner",
+      "Por": "Proximity Scanner"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/scanner/scanner.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssscanning eye on the wall. It's looking at me!",
+      "Por": "Olho essscaneador na parede. Está olhando para mim!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/scanner/scanner.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This proximity scanner might be aware of me."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/scanner/scanner.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This scanning device can tell when I'm present.",
+      "Por": "Este dispositivo de escaneamento pode dizer quando estou presente."
+    }
+  }
+]

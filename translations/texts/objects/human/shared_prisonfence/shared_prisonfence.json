@@ -1,0 +1,64 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisonfence1/prisonfence1.object": [
+        "/apexDescription",
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/human/prisonfence2/prisonfence2.object": [
+        "/apexDescription",
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A chain-link fence.",
+      "Por": "Uma cerca de tela."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisonfence1/prisonfence1.object": [
+        "/novakidDescription"
+      ],
+      "objects/human/prisonfence2/prisonfence2.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal fence.",
+      "Por": "Uma cerca de metal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisonfence1/prisonfence1.object": [
+        "/humanDescription"
+      ],
+      "objects/human/prisonfence2/prisonfence2.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strong chain-link fence.",
+      "Por": "Uma forte cerca de tela."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisonfence1/prisonfence1.object": [
+        "/description"
+      ],
+      "objects/human/prisonfence2/prisonfence2.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a chain-link fence.",
+      "Por": "É uma cerca de tela."
+    }
+  }
+]

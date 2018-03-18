@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/divingscavenger.npctype": [
+        "/scriptConfig/dialog/attack/hylotl/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I hope you're ready for a watery grave!",
+      "Por": "Eu espero que você esteja pronto para uma sepultura aquática!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/divingscavenger.npctype": [
+        "/scriptConfig/dialog/attack/hylotl/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rival submariners! Get them!",
+      "Por": "Submarinistas rivais! Pegue eles!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/divingscavenger.npctype": [
+        "/scriptConfig/dialog/attack/hylotl/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "These oceans are ours!",
+      "Por": "Estes oceanos são nossos!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/divingscavenger.npctype": [
+        "/scriptConfig/dialog/attack/hylotl/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is our ocean - you'll regret coming here!",
+      "Por": "Este é o nosso oceano - Você vai se arrepender de vir aqui!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/divingscavenger.npctype": [
+        "/scriptConfig/dialog/attack/hylotl/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "You can't beat us! We rule these oceans!",
+      "Por": "Você não pode nos derrotar! Nós governamos estes oceanos!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/divingscavenger.npctype": [
+        "/scriptConfig/dialog/attack/hylotl/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "You'll be sleeping with the fishes when we're done with you!",
+      "Por": "Você vai dormir com os peixes quando acabarmos com você!"
+    }
+  }
+]

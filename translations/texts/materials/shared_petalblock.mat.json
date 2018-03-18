@@ -1,0 +1,63 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/petalblock.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/petalblock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran lovess flowery plantss.",
+      "Por": "Floran ama plantass floridass."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Cheiro doce de folhas escuras e flores."
+    ],
+    "Files": {
+      "items/materials/petalblock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/petalblock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sweet smelling dark leaves and flowers.",
+      "Por": "Flores e folhas negras que tem um cheiro doce."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/petalblock.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/petalblock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "There's some real nice flowers growin' here.",
+      "Por": "Há algumas flores realmente agradáveis ​​crescendo aqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/petalblock.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/petalblock.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These leaves smell of earth and flowers."
+    }
+  }
+]

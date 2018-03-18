@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/aztectech.matitem": [
+        "/description"
+      ],
+      "tiles/materials/aztectech.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An advanced synthetic Avian material with printed markings.",
+      "Por": "Um material sintético Avian avançado com marcações impressas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/aztectech.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/aztectech.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avian Tech Block",
+      "Por": "Avian Tech Block"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/aztectech.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/aztectech.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Brickss covered in sstrange markingss.",
+      "Por": "Tijoloss cobertos de marcass estranhass."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/aztectech.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/aztectech.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sturdy lookin' bricks all marked up with symbols.",
+      "Por": "Tijolos resistentes todos marcados com símbolos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/aztectech.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/aztectech.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These blocks are made from an unknown artificial material."
+    }
+  }
+]

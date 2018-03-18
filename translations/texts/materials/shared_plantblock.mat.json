@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/plantblock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/plantblock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A block made of plant matter.",
+      "Por": "Um bloco feito de matéria vegetal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/plantblock.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/plantblock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran feelss kinship with thiss plant block.",
+      "Por": "Floran sente parentesco com este bloco de planta."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/plantblock.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/plantblock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looks t'me like a block made outta plants.",
+      "Por": "Me parece um bloco feito de plantas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/plantblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/plantblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Plant Block",
+      "Por": "Plant Block"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/plantblock.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/plantblock.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This block is completely constructed from plant matter."
+    }
+  }
+]

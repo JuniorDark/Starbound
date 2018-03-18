@@ -1,0 +1,91 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/miningverticaldoor/miningverticaldoor.object": [
+        "/avianDescription"
+      ],
+      "objects/mission/penguinbasedoor/penguinbasedoor.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A crudely engineered hatch.",
+      "Por": "Uma escotilha de engenharia crua."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/miningverticaldoor/miningverticaldoor.object": [
+        "/novakidDescription"
+      ],
+      "objects/mission/penguinbasedoor/penguinbasedoor.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hatchway in the floor. I can climb through it.",
+      "Por": "Uma escotilha no chão. Eu posso subir por isso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/miningverticaldoor/miningverticaldoor.object": [
+        "/hylotlDescription"
+      ],
+      "objects/mission/penguinbasedoor/penguinbasedoor.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A rusty hatchway, made with function in mind.",
+      "Por": "Uma escotilha enferrujada, feita com a função em mente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/miningverticaldoor/miningverticaldoor.object": [
+        "/description"
+      ],
+      "objects/mission/penguinbasedoor/penguinbasedoor.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A vertical hatch doorway.",
+      "Por": "Uma escotilha vertical."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/miningverticaldoor/miningverticaldoor.object": [
+        "/floranDescription"
+      ],
+      "objects/mission/penguinbasedoor/penguinbasedoor.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hatch opensss... Hatch closesss.",
+      "Por": "Escotilha abre... Escotilha fecha."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/miningverticaldoor/miningverticaldoor.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/mission/penguinbasedoor/penguinbasedoor.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This hatch is for vertical access."
+    }
+  }
+]

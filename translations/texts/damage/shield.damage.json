@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "damage/shield.damage": [
+        "/effects/organic/hit/particles/0/text",
+        "/effects/robotic/hit/particles/0/text",
+        "/effects/stone/hit/particles/0/text",
+        "/effects/wooden/hit/particles/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "^shadow;BLOCK",
+      "Por": "^shadow;BLOQUEIO"
+    }
+  }
+]

@@ -1,0 +1,124 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/planturn2/planturn2.object": [
+        "/apexDescription"
+      ],
+      "objects/floran/planturn3/planturn3.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small urn, I'll doubt it holds much inside.",
+      "Por": "Uma pequena urna, duvido que guarde muita coisa dentro."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/planturn1/planturn1.object": [
+        "/hylotlDescription"
+      ],
+      "objects/floran/planturn2/planturn2.object": [
+        "/hylotlDescription"
+      ],
+      "objects/floran/planturn3/planturn3.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A well crafted urn, it's almost a shame to break it.",
+      "Por": "Uma urna bem trabalhada, é quase uma pena quebra-la."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/planturn1/planturn1.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/floran/planturn2/planturn2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/floran/planturn3/planturn3.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Is the urn half full, or half empty?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/planturn1/planturn1.object": [
+        "/avianDescription"
+      ],
+      "objects/floran/planturn2/planturn2.object": [
+        "/avianDescription"
+      ],
+      "objects/floran/planturn3/planturn3.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some sort of urn.  It's not as elegant as those found inside Avian tombs.",
+      "Por": "Alguma espécie de urna. Não é tão elegante quanto as encontradas nas tumbas Avian."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/planturn1/planturn1.object": [
+        "/floranDescription"
+      ],
+      "objects/floran/planturn2/planturn2.object": [
+        "/floranDescription"
+      ],
+      "objects/floran/planturn3/planturn3.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sssmash all the urnss.",
+      "Por": "Esmague todas as urnass."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/planturn1/planturn1.object": [
+        "/humanDescription"
+      ],
+      "objects/floran/planturn2/planturn2.object": [
+        "/humanDescription"
+      ],
+      "objects/floran/planturn3/planturn3.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "There's a quick way to find out what's inside this urn. Smash it.",
+      "Por": "Há uma maneira rápida de descobrir o que está dentro dessa urna. Quebrando."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/planturn1/planturn1.object": [
+        "/novakidDescription"
+      ],
+      "objects/floran/planturn2/planturn2.object": [
+        "/novakidDescription"
+      ],
+      "objects/floran/planturn3/planturn3.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This urn is beggin' to be smashed.",
+      "Por": "Esta urna está implorando para ser esmagada."
+    }
+  }
+]

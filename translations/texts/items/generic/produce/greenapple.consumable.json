@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/greenapple.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A tart green apple, ripe for baking or consuming with my face!",
+      "Por": "Uma maçã verde azeda."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/greenapple.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Green Apple",
+      "Por": "Green Apple"
+    }
+  }
+]

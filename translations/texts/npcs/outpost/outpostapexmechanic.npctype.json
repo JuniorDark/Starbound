@@ -1,0 +1,27 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/outpostapexmechanic.npctype": [
+        "/scriptConfig/dialog/converse/apex/default/0",
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "It is not much, but I do what I can to keep this place ticking over.",
+      "Por": "Não é muito, mas eu faço o que posso para manter este lugar mais típico."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/outpostapexmechanic.npctype": [
+        "/scriptConfig/dialog/converse/apex/apex/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welcome my friend! Good to see others have escaped the tyranny of Big Ape.",
+      "Por": "Bem-vindo meu amigo! É bom ver que outros que escaparam da tirania do Big Ape."
+    }
+  }
+]

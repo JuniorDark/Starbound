@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier2/tomatojuice.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hearty tomato juice.",
+      "Por": "Um suco de tomate saudável."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier2/tomatojuice.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tomato Juice",
+      "Por": "Tomato Juice"
+    }
+  }
+]

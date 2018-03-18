@@ -1,0 +1,78 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Ehh, um material de aparência carnuda!"
+    ],
+    "Files": {
+      "items/materials/hellstone.matitem": [
+        "/description"
+      ],
+      "tiles/materials/hellstone.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eww, a fleshy looking material!",
+      "Por": "Eca, um material de aparência carnuda!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/hellstone.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/hellstone.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flesh Pile",
+      "Por": "Flesh Pile"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/hellstone.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/hellstone.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sssquishy, sslimy flesh.",
+      "Por": "Carne mole e visscosa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/hellstone.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/hellstone.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This appears to be pulsating flesh."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/hellstone.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/hellstone.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This flesh is pretty nasty lookin'.",
+      "Por": "Esta carne é bastante desagradável de olhar."
+    }
+  }
+]

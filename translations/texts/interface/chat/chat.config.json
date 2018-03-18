@@ -1,0 +1,73 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/chat/chat.config": [
+        "/gui/filterGroup/buttons/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "ALL",
+      "Por": "TODOS"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/chat/chat.config": [
+        "/gui/filterGroup/buttons/4/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "LOCAL",
+      "Por": "LOCAL"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/chat/chat.config": [
+        "/gui/filterGroup/buttons/2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "LOG",
+      "Por": "REGISTRO"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/chat/chat.config": [
+        "/gui/filterGroup/buttons/3/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "PARTY",
+      "Por": "GRUPO"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/chat/chat.config": [
+        "/gui/say/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Say:",
+      "Por": "Falar:"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/chat/chat.config": [
+        "/config/colors/radioMessage"
+      ]
+    },
+    "Texts": {
+      "Eng": "^shadow,cyan;"
+    }
+  }
+]

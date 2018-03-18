@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/ancientconsole/ancientconsolegui.config": [
+        "/gui/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Activated with Core Fragments",
+      "Por": "Ativado com Core Fragments"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/ancientconsole/ancientconsolegui.config": [
+        "/gui/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ancient Gate Console",
+      "Por": "Console do Antigo Portal"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/ancientconsole/ancientconsolegui.config": [
+        "/gui/costDescription/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "REQUIRED FRAGMENTS",
+      "Por": "FRAGMENTOS NECESSÁRIOS"
+    }
+  }
+]

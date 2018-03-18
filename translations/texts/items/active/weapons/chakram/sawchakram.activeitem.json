@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/chakram/sawchakram.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A favourite weapon of the sacred order of lumbermonks.",
+      "Por": "Uma arma favorita da ordem sagrada dos lumbermonks."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/chakram/sawchakram.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Saw Chakram",
+      "Por": "Saw Chakram"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/chakram/sawchakram.activeitem": [
+        "/upgradeParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Saw Chakram ^yellow;^reset;",
+      "Por": "Saw Chakram ^yellow;^reset;"
+    }
+  }
+]

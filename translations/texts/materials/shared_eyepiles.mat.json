@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/eyepiles.matitem": [
+        "/description"
+      ],
+      "tiles/materials/eyepiles.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A tumbling heap of squishy eyeballs.",
+      "Por": "Uma pilha desabando de globos oculares macios."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/eyepiles.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/eyepiles.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Other than those on top of the pile, most of these eyes will only ever know darkness."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/eyepiles.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/eyepiles.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pile of Eyes",
+      "Por": "Pile of Eyes"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/eyepiles.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/eyepiles.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some of these eyes are lookin' right at me.",
+      "Por": "Alguns destes olhos estão olhando diretamente para mim."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/eyepiles.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/eyepiles.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssquisshy eyess!",
+      "Por": "Olhoss moless!"
+    }
+  }
+]

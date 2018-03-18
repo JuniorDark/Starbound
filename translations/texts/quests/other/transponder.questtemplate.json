@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/other/transponder.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Here is your very own ^orange;Station Transponder^white;! ^green;Use it on your ship^white; to deploy a space station in your local solar system!",
+      "Por": "Aqui esta o seu próprio ^orange;Station Transponder^white;! ^green;Use-o em sua nave^white; para implantar uma estação espacial em seu sistema estelar local!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/other/transponder.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Would you like to deploy your very own space station? I can craft for you your very own ^orange;Station Transponder^white;, and all it will take is some resources! \nSimply ^green;bring 50 ^orange;Titanium Bars^white;, ^green;50 ^orange;Gold Bars^white;, ^green;50 ^orange;Silver Bars^white; and ^green;1000^orange; pixels ^green;to me or any other Transponder vendor^white;!",
+      "Por": "Você gostaria de implantar sua própria estação espacial? Eu posso criar para você seu próprio ^orange;Station Transponder^white;, e tudo o que será necessário são alguns recursos! \nSimplesmente ^green;traga 50 ^orange;Titanium Bars^white;, ^green;50 ^orange;Gold Bars^white;, ^green;50 ^orange;Silver Bars^white; e ^green;1000^orange; pixels ^green;Para mim ou para qualquer outro fornecedor de Transponder^white;!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/other/transponder.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Your Very Own Space Station",
+      "Por": "^orange;Sua Própria Estação Espacial"
+    }
+  }
+]

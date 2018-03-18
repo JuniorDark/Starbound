@@ -1,0 +1,32 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/mechbody.itemdescription": [
+        "/protectionStatLabel/value"
+      ],
+      "interface/tooltips/mechbody.tooltip": [
+        "/protectionStatLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Defense",
+      "Por": "Defesa"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/mechbody.itemdescription": [
+        "/energyStatLabel/value"
+      ],
+      "interface/tooltips/mechbody.tooltip": [
+        "/energyStatLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Max Energy",
+      "Por": "Energia Máxima"
+    }
+  }
+]

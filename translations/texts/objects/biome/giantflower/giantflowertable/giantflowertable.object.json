@@ -1,0 +1,61 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/giantflower/giantflowertable/giantflowertable.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A giant flower. Perfect to use as a table.",
+      "Por": "Uma flor gigante. Perfeita para usar como uma mesa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/giantflower/giantflowertable/giantflowertable.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A naturally grown table. Did it grow from a table seed?",
+      "Por": "Uma mesa naturalmente crescida. Cresceu a partir de uma semente de mesa?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/giantflower/giantflowertable/giantflowertable.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Giant Flower Table",
+      "Por": "Giant Flower Table"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/giantflower/giantflowertable/giantflowertable.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Table will wobble when Floran ssslice meat.",
+      "Por": "Mesa vai balançar quando Floran fatiar carne."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/giantflower/giantflowertable/giantflowertable.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This giant flower is the product of years of careful cultivation."
+    }
+  }
+]

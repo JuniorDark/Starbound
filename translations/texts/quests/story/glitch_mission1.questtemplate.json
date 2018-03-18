@@ -1,0 +1,134 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/glitch_mission1.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Find Clues to Locate the Glitch Artifact",
+      "Por": "Encontre Pistas para Localizar o Artefato Glitch"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/glitch_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/glitchhorndisplay/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Heraldry is important among the Glitch. The sigil on this banner is unique, and I believe it may indirectly relate to the artifact. I will research its origins.",
+      "Por": "Heráldica é importante entre os Glitch. O simbolo nesta bandeira é único, e eu acredito que pode indiretamente se relacionar com o artefato. Vou pesquisar suas origens."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/glitch_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/complete/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "My theories were correct! ^#71f2f6;Come back to the Ark when you're ready^white; and I'll tell you where the Artifact is being kept, dear.",
+      "Por": "Minhas teorias estavam corretas! ^#71f2f6;Volte para o Ark quando você estiver pronto(a)^white; e eu vou te dizer onde o artefato está sendo mantido, querido(a)."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/glitch_mission1.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now we need to find the ^orange;Glitch artifact^reset;. Glitch tend to reside on planets with a lot of ^orange;volcanic activity^reset; (they seem to find them vaguely comforting). Volcanic planets occur around ^orange;fiery stars^reset;. ^green;Best to search there for ^orange;clues^white;. I know the Glitch are a little offbeat, but don't underestimate them: look after yourself dear.",
+      "Por": "Agora precisamos encontrar o ^orange;artefato Glitch^reset;. Os Glitch tendem a residir em planetas com um monte de ^orange;atividade vulcânica^reset; (eles parecem achar eles vagamente reconfortante). Planetas vulcânicos ocorrem em torno de ^orange;estrelas ardentes^reset;. ^green;Melhor procurar lá por ^orange;pistas^white;. Eu sei que os Glitch são um pouco incomum, mas não os subestime: tome cuidado querido(a)."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/glitch_mission1.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "That last clue has confirmed the location of the Glitch artifact! Excellent. Congratulations dear.",
+      "Por": "Essa última pista confirmou a localização do artefato Glitch! Excelente. Parabéns querido(a)."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/glitch_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/glitchscribe/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The letter on this desk mentions a figure of great notoriety amongst the Glitch. Amongst other things, he is a proprietor of many riches...",
+      "Por": "A carta sobre esta mesa menciona uma figura de grande notoriedade entre os Glitch. Entre outras coisas, ele é proprietário de muitas riquezas..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/glitch_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/glitchdecree/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The text you just scanned mentions a treasure repository - a keep that stores a cache of valuable items. Could it hold something of as much worth as the artifact?",
+      "Por": "O texto que você acabou de escanear menciona um deposito de tesouro - uma torre que esconde itens valiosos. Sera que ela poderia conter algo tão valioso como o artefato?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/glitch_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/glitchchess/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "This chess table is curious - the pieces are all hand-carved, made by a skilled individual. The design is somewhat idiosyncratic. I wonder what its provenance is.",
+      "Por": "Esta mesa de xadrez é curiosa - as peças são todas esculpidas a mão, feito por um indivíduo qualificado. O design é um pouco peculiar. Me pergunto de que procedência é."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/glitch_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/glitchbaronfigure/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "This statuette... I've seen this individual before! Was it in a book somewhere? I'll investigate...",
+      "Por": "Esta estatueta... Eu já vi essa pessoa antes! Foi em um livro em algum lugar? Vou investigar..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/glitch_mission1.questtemplate": [
+        "/scriptConfig/radioMessages/startAlreadyComplete/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "You're quite the collector of Glitch antiquities! It appears you've already located enough clues to to allow me to identify the location of the Artifact!",
+      "Por": "Você é um bom colecionador de antiguidades Glitch! Parece que você já localizou pistas suficientes que me permita identificar a localização do Artefato!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/glitch_mission1.questtemplate": [
+        "/scriptConfig/descriptions/findClues"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Scan objects^reset; to find ^orange;Glitch clues^reset;",
+      "Por": "^green;Escaneie objetos^reset; para achar ^orange;pistas sobre o Artefato Glitch^reset;"
+    }
+  }
+]

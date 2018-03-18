@@ -1,0 +1,91 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/biome/forestvillager.npctype": [
+        "/scriptConfig/dialog/converse/floran/apex/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran help monkey man take down mini log.",
+      "Por": "Floran ajuda homem macaco derrubar mini tora."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/biome/forestvillager.npctype": [
+        "/scriptConfig/dialog/converse/floran/apex/0",
+        "/scriptConfig/dialog/converse/floran/avian/0",
+        "/scriptConfig/dialog/converse/floran/floran/0",
+        "/scriptConfig/dialog/converse/floran/glitch/0",
+        "/scriptConfig/dialog/converse/floran/human/0",
+        "/scriptConfig/dialog/converse/floran/hylotl/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran like living in the foresst - knows all the plants and all the trails.",
+      "Por": "Floran gosta de viver na floressta - conhece todas as plantas e todas as trilhas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/biome/forestvillager.npctype": [
+        "/scriptConfig/dialog/converse/floran/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran's a big shot in thiss village.",
+      "Por": "Floran é um grande caçador nesta aldeia."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/biome/forestvillager.npctype": [
+        "/scriptConfig/dialog/converse/floran/avian/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flyyyyyyyy!",
+      "Por": "Voarrrrrrrr!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/biome/forestvillager.npctype": [
+        "/scriptConfig/dialog/converse/floran/hylotl/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Let'ss be friends!",
+      "Por": "Vamoss ser amigos!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/biome/forestvillager.npctype": [
+        "/scriptConfig/dialog/converse/floran/human/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Living one with nature iss the life for me!",
+      "Por": "Viver com a natureza é a vida para mim!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/biome/forestvillager.npctype": [
+        "/scriptConfig/dialog/converse/floran/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "You need Floran to stab anything?",
+      "Por": "Você precisa que Floran esfaqueie alguma coisa?"
+    }
+  }
+]

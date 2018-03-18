@@ -1,0 +1,91 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostlamp/outpostlamp.object": [
+        "/apexDescription"
+      ],
+      "objects/outpost/outpostlight/outpostlight.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A functional wall light.",
+      "Por": "Uma luz de parede funcional."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostlamp/outpostlamp.object": [
+        "/humanDescription"
+      ],
+      "objects/outpost/outpostlight/outpostlight.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A pretty standard wall light.",
+      "Por": "Uma luz de parede bastante padrão."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostlamp/outpostlamp.object": [
+        "/hylotlDescription"
+      ],
+      "objects/outpost/outpostlight/outpostlight.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A wall light. It is functional but unpleasant.",
+      "Por": "Uma luz de parede. É funcional mas desagradável."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostlamp/outpostlamp.object": [
+        "/floranDescription"
+      ],
+      "objects/outpost/outpostlight/outpostlight.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shiny light!",
+      "Por": "Luz brilhante!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostlamp/outpostlamp.object": [
+        "/novakidDescription"
+      ],
+      "objects/outpost/outpostlight/outpostlight.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This light's okay, but it ain't as bright as me!",
+      "Por": "Esta luz é boa, mas não é tão brilhante quanto eu!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostlamp/outpostlamp.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/outpost/outpostlight/outpostlight.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This wall mounted light is effective."
+    }
+  }
+]

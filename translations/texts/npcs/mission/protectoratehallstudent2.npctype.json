@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/protectoratehallstudent2.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eager. My very own Matter Manipulator. I figuratively cannot wait.",
+      "Por": "Ansioso. Meu próprio Manipulador de Matéria. Eu mal posso esperar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/protectoratehallstudent2.npctype": [
+        "/scriptConfig/dialog/converse/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nervous. Do my bolts look big in this?",
+      "Por": "Nervoso. Meus parafusos parecem grande nisso?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/protectoratehallstudent2.npctype": [
+        "/scriptConfig/dialog/converse/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased. I am glad I ironed my uniform this morning.",
+      "Por": "Satisfeito. Estou feliz que eu passei meu uniforme esta manhã."
+    }
+  }
+]

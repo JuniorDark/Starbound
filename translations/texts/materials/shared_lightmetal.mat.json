@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/lightmetal.matitem": [
+        "/description"
+      ],
+      "tiles/materials/lightmetal.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A light metallic tile, perfect for a research laboratory.",
+      "Por": "Uma telha metálica leve, perfeita para um laboratório de pesquisa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/lightmetal.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/lightmetal.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Light Metal",
+      "Por": "Light Metal"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/lightmetal.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/lightmetal.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Smooth metal tiless.",
+      "Por": "Telhass metálicass lisass."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/lightmetal.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/lightmetal.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some tiles made outta metal.",
+      "Por": "Algumas telhas feitas de metal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/lightmetal.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/lightmetal.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These tiles are easy to keep sterilized."
+    }
+  }
+]

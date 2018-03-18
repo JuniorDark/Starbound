@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/hazmat.npctype": [
+        "/scriptConfig/dialog/converse/human/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Back on Earth, we'd cured most diseases. I hope that data wasn't lost...",
+      "Por": "La na Terra, nós curamos a maioria das doenças. Espero que os dados não foram perdidos..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/hazmat.npctype": [
+        "/scriptConfig/dialog/converse/human/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bacteria is everywhere! I'm concerned about infection.",
+      "Por": "As bactérias estão em toda parte! Estou preocupado com a infecção."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/hazmat.npctype": [
+        "/scriptConfig/dialog/converse/human/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm doing research into alien bacteria. I used to be stationed elsewhere.",
+      "Por": "Eu estou fazendo uma pesquisa em bactérias alienígenas. Eu costumava estar posicionado em outro lugar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/hazmat.npctype": [
+        "/scriptConfig/dialog/converse/apex/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've seen the kind of diseases that the MiniKnog researches. Nasty stuff.",
+      "Por": "Eu vi o tipo de doenças que a MiniKnog pesquisa. Coisas nojentas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/hazmat.npctype": [
+        "/scriptConfig/dialog/converse/apex/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "The universe is full of deadly bacteria! I'm safer in this suit.",
+      "Por": "O universo é cheio de bactérias mortais! Estou mais seguro nessa roupa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/hazmat.npctype": [
+        "/scriptConfig/dialog/converse/apex/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "This suit is to protect me from local contamination. You probably shouldn't touch me.",
+      "Por": "Esta roupa é para me proteger da contaminação local. Você provavelmente não deveria me tocar."
+    }
+  }
+]

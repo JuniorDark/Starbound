@@ -1,0 +1,127 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/cactiflowerpot/cactiflowerpot.object": [
+        "/humanDescription"
+      ],
+      "objects/protectorate/objects/protectoratecactiflowerpot/protectoratecactiflowerpot.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A cactus! Easy to grow, easy to look after.",
+      "Por": "Um cacto! Fácil de crescer, fácil de cuidar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/cactiflowerpot/cactiflowerpot.object": [
+        "/hylotlDescription"
+      ],
+      "objects/protectorate/objects/protectoratecactiflowerpot/protectoratecactiflowerpot.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A painful-looking plant. I'd better not touch it.",
+      "Por": "Uma planta de aparência dolorosa. É melhor eu não tocar nisso."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Um cacto envasado. Eu não vejo o apelo."
+    ],
+    "Files": {
+      "objects/generic/cactiflowerpot/cactiflowerpot.object": [
+        "/apexDescription"
+      ],
+      "objects/protectorate/objects/protectoratecactiflowerpot/protectoratecactiflowerpot.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A potted cactus. I don't see the appeal.",
+      "Por": "Um cacto em vaso. Não vejo o apelo."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Uma planta espinhosa com uma flor colorida pequena."
+    ],
+    "Files": {
+      "objects/generic/cactiflowerpot/cactiflowerpot.object": [
+        "/avianDescription"
+      ],
+      "objects/protectorate/objects/protectoratecactiflowerpot/protectoratecactiflowerpot.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A thorny plant with a small colourful flower.",
+      "Por": "Uma planta espinhosa com uma pequena flor colorida."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/cactiflowerpot/cactiflowerpot.object": [
+        "/description"
+      ],
+      "objects/protectorate/objects/protectoratecactiflowerpot/protectoratecactiflowerpot.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An exotic-looking cactus in a flower pot.",
+      "Por": "Um cacto de aparência exótica em um vaso de flores."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/cactiflowerpot/cactiflowerpot.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/protectorate/objects/protectoratecactiflowerpot/protectoratecactiflowerpot.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cacti like these require almost no water to remain healthy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/cactiflowerpot/cactiflowerpot.object": [
+        "/novakidDescription"
+      ],
+      "objects/protectorate/objects/protectoratecactiflowerpot/protectoratecactiflowerpot.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can't explain it, but I really like this here cactus.",
+      "Por": "Não posso explicar, mas eu realmente gosto deste cacto aqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Planta sssuculenta tem auto-defesa."
+    ],
+    "Files": {
+      "objects/generic/cactiflowerpot/cactiflowerpot.object": [
+        "/floranDescription"
+      ],
+      "objects/protectorate/objects/protectoratecactiflowerpot/protectoratecactiflowerpot.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssucculent hass sself defensse.",
+      "Por": "Planta ssuculenta tem auto-defessa."
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Ice"
+    ],
+    "Files": {
+      "biomes/surface_detached/ice.biome": [
+        "/friendlyName"
+      ],
+      "items/materials/ice.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/ice.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ice",
+      "Por": "Gelo"
+    }
+  }
+]

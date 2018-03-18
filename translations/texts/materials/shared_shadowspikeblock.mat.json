@@ -1,0 +1,78 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Um bloco cravado formado de material sombrio."
+    ],
+    "Files": {
+      "items/materials/shadowspikeblock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/shadowspikeblock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A spiked block formed from shadowy material.",
+      "Por": "Um bloco espinhento formado de material sombrio."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/shadowspikeblock.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/shadowspikeblock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dark blockss are black as night.",
+      "Por": "Blocoss escuros são pretos como a noite."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/shadowspikeblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/shadowspikeblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shadow Spike Block",
+      "Por": "Shadow Spike Block"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/shadowspikeblock.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/shadowspikeblock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These blocks're darker'n a moonless night.",
+      "Por": "Estes blocos são mais escuros que uma noite sem lua."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/shadowspikeblock.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/shadowspikeblock.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This block is made from an unknown material."
+    }
+  }
+]

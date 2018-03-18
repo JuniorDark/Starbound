@@ -1,0 +1,106 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/smashablerocks/diamondrock/diamondrock.object": [
+        "/description"
+      ],
+      "objects/biome/smashablerocks/diamondrocksmall/diamondrocksmall.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A cracked rock full of diamond.",
+      "Por": "Uma rocha rachada cheia de diamante."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/smashablerocks/diamondrock/diamondrock.object": [
+        "/humanDescription"
+      ],
+      "objects/biome/smashablerocks/diamondrocksmall/diamondrocksmall.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A rock full of diamond! Maybe I can break it.",
+      "Por": "Uma rocha cheia de diamante! Talvez eu possa quebrá-la."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/smashablerocks/diamondrock/diamondrock.object": [
+        "/novakidDescription"
+      ],
+      "objects/biome/smashablerocks/diamondrocksmall/diamondrocksmall.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A rock rich with diamond. I should break it.",
+      "Por": "Uma rocha rica em diamante. Eu deveria quebrá-la."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/smashablerocks/diamondrock/diamondrock.object": [
+        "/hylotlDescription"
+      ],
+      "objects/biome/smashablerocks/diamondrocksmall/diamondrocksmall.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A swift blow to this rock would free the diamond within.",
+      "Por": "Um golpe rápido nesta pedra liberaria o diamante dentro."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/smashablerocks/diamondrock/diamondrock.object": [
+        "/avianDescription"
+      ],
+      "objects/biome/smashablerocks/diamondrocksmall/diamondrocksmall.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "If I break this rock I should be able to gather the diamond ore within it.",
+      "Por": "Se eu quebrar esta rocha devo ser capaz de recolher o diamante dentro dela."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/smashablerocks/diamondrock/diamondrock.object": [
+        "/apexDescription"
+      ],
+      "objects/biome/smashablerocks/diamondrocksmall/diamondrocksmall.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "There appears to be diamond within this fragile rock.",
+      "Por": "Parece haver siamante dentro desta frágil rocha."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/smashablerocks/diamondrock/diamondrock.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/biome/smashablerocks/diamondrocksmall/diamondrocksmall.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This rock contains diamond, and is covered in cracks."
+    }
+  }
+]

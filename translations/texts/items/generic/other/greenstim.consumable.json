@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/other/greenstim.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A stimpack full of green liquid, gives your run a boost!",
+      "Por": "Uma injeção de estimulante cheia de líquido verde, que dá uma melhoria na sua corrida."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/other/greenstim.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Green Stim Pack",
+      "Por": "Green Stim Pack"
+    }
+  }
+]

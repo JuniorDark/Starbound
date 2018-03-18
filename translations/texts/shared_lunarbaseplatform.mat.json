@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/lunarbaseplatform.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/platforms/lunarbaseplatform.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A shiny lookin' platform.",
+      "Por": "Uma plataforma brilhante."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/lunarbaseplatform.matitem": [
+        "/description"
+      ],
+      "tiles/platforms/lunarbaseplatform.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A well-constructed metal platform.",
+      "Por": "Uma plataforma de metal bem construída."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/lunarbaseplatform.matitem": [
+        "/florandescription"
+      ],
+      "tiles/platforms/lunarbaseplatform.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran disslike cold metal platformss.",
+      "Por": "Floran não gosta de plataformass de metal frio."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/lunarbaseplatform.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/lunarbaseplatform.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lunar Base Platform",
+      "Por": "Lunar Base Platform"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/lunarbaseplatform.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/platforms/lunarbaseplatform.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This metal platform can support great weight."
+    }
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/number4/number4.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A four.",
+      "Por": "Um quatro."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/number4/number4.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Four",
+      "Por": "Four"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/number4/number4.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Four marker.",
+      "Por": "Numero quatro."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/number4/number4.object": [
+        "/apexDescription",
+        "/avianDescription",
+        "/floranDescription",
+        "/glitchDescription/glitchEmotedText",
+        "/humanDescription",
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Four.",
+      "Por": "Quatro."
+    }
+  }
+]

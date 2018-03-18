@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/lunarbaseblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/lunarbaseblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lunar Base Block",
+      "Por": "Lunar Base Block"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/lunarbaseblock.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/lunarbaseblock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some sorta tough lookin' metal.",
+      "Por": "Algum tipo de metal resistente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/lunarbaseblock.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/lunarbaseblock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssstrong metal blockss.",
+      "Por": "Blocoss de metal forte."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/lunarbaseblock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/lunarbaseblock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This alloy looks incredibly durable.",
+      "Por": "Esta liga parece incrivelmente durável."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/lunarbaseblock.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/lunarbaseblock.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This durable alloy is not familiar."
+    }
+  }
+]

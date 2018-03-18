@@ -1,0 +1,109 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkerpanel1/bunkerpanel1.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Data is being broadcast to this screen, which is displaying many measurements.",
+      "Por": "Isso não parece ser muito científico. A leitura diz que o ambiente é *muito bom eu acho*."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkerpanel1/bunkerpanel1.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Data on the surrounding environment. The changes measured are on a miniscule level.",
+      "Por": "Dados sobre o ambiente circundante. Muito parecido com os Hylotl, os humanos têm de ser cauteloso com as áreas que visitam."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkerpanel1/bunkerpanel1.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Environmental Data Panel",
+      "Por": "Environmental Data Panel"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkerpanel1/bunkerpanel1.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran hasss no time for tiny wordsss.",
+      "Por": "Floran não esta muito entretido por esses dados."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkerpanel1/bunkerpanel1.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm sure this data is interestin' to someone out there. That someone ain't me.",
+      "Por": "Tenho certeza que esses dados são interessantes para alguém lá fora. Esse alguém não sou eu."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkerpanel1/bunkerpanel1.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Someone was doing a lot of obscure data analysis with the aid of this screen.",
+      "Por": "O ambiente exterior é seguro para os humanos. Isso é bom saber, já que eu já estava andando por aí."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkerpanel1/bunkerpanel1.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This appears to be a panel displaying local sub-proton changes.",
+      "Por": "De acordo com estes dados, o ambiente exterior é habitável."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkerpanel1/bunkerpanel1.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This panel appears to monitor some obscure environmental data.",
+      "Por": "Esta parece ser uma análise do ambiente fora do bunker."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkerpanel1/bunkerpanel1.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This panel is displaying extraordinarily small environmental changes. For what purpose?"
+    }
+  }
+]

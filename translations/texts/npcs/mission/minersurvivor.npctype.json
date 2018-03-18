@@ -1,0 +1,170 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/minersurvivor.npctype": [
+        "/scriptConfig/dialog/follower/returnFromWait/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are you an adventurer?",
+      "Por": "Você é um aventureiro?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/minersurvivor.npctype": [
+        "/scriptConfig/dialog/follower/wait/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Did anyone else in the mine survive this attack?",
+      "Por": "Alguém mais na mina sobreviveu a este ataque?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/minersurvivor.npctype": [
+        "/scriptConfig/dialog/follower/wait/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I guess I better start fixing up the mine...",
+      "Por": "Eu acho que é melhor eu começar a consertar a mina..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/minersurvivor.npctype": [
+        "/scriptConfig/dialog/follower/join/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I survived?! You've saved me! Thank you!",
+      "Por": "Eu sobrevivi?! Você me salvou! Obrigado!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/minersurvivor.npctype": [
+        "/scriptConfig/dialog/follower/attack/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll live, or die trying!",
+      "Por": "Eu vou viver, ou morrer tentando!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/minersurvivor.npctype": [
+        "/scriptConfig/dialog/follower/returnFromWait/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll never forget you and your help!",
+      "Por": "Eu nunca vou esquecer você e sua ajuda!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/minersurvivor.npctype": [
+        "/scriptConfig/dialog/follower/returnFromWait/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's going to take a big clean up crew to sort this mess out.",
+      "Por": "Vai ter um grande equipe de limpeza para arrumar essa bagunça."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/minersurvivor.npctype": [
+        "/scriptConfig/dialog/follower/attack/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Let's teach these things a lesson!",
+      "Por": "Vamos dar uma lição a essas coisas!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/minersurvivor.npctype": [
+        "/scriptConfig/dialog/follower/returnFromCombat/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Phew, you handle yourself pretty well.",
+      "Por": "Ufa, você se segura muito bem."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/minersurvivor.npctype": [
+        "/scriptConfig/dialog/follower/join/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "That thing captured me. I'd be a mutant by now if you didn't destroy it! Thank you!",
+      "Por": "Essa coisa me capturou. Eu seria um mutante agora, se você não tivesse destruído ele! Obrigado!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/minersurvivor.npctype": [
+        "/scriptConfig/dialog/follower/wait/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "There's a chest up ahead, you should take the things inside it.",
+      "Por": "Há um baú à frente, você deveria pegar as coisas dentro dele."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/minersurvivor.npctype": [
+        "/scriptConfig/dialog/follower/join/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "You destroyed the monster! I was trapped inside it, it would have mutated me like the rest...",
+      "Por": "Você destruiu o monstro! Eu estava preso dentro dele, ele teria me transformado como o resto..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/minersurvivor.npctype": [
+        "/scriptConfig/dialog/follower/wait/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "You have the respect of everyone here.",
+      "Por": "Você tem o respeito de todos aqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/minersurvivor.npctype": [
+        "/scriptConfig/dialog/follower/join/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You saved me! I thought I was done for when that thing captured me. You're my hero!",
+      "Por": "Você me salvou! Eu pensei que estava acabado quando essa coisa me capturou. Você é meu herói!"
+    }
+  }
+]

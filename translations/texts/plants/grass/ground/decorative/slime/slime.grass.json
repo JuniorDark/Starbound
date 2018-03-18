@@ -1,0 +1,37 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/slime/slime.grass": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gross, sticky slime.",
+      "Por": "Um lodo grande e viscoso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/slime/slime.grass": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sticky slime.",
+      "Por": "Um lodo viscoso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/slime/slime.grass": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Useful slime."
+    }
+  }
+]

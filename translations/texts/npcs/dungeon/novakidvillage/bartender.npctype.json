@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/novakidvillage/bartender.npctype": [
+        "/scriptConfig/dialog/merchant/end/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Come back soon, partner!",
+      "Por": "Volte logo, parceiro!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/novakidvillage/bartender.npctype": [
+        "/scriptConfig/dialog/merchant/follow/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Come with me if yer lookin' for a drink!",
+      "Por": "Venha comigo se você estiver procurando por uma bebida!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/novakidvillage/bartender.npctype": [
+        "/scriptConfig/dialog/merchant/tout/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Howdy! Y'all fancyin' a drink?",
+      "Por": "Oi! Vocês estão querendo uma bebida?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/novakidvillage/bartender.npctype": [
+        "/scriptConfig/dialog/merchant/welcome/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now then, what can I serve you?",
+      "Por": "Agora, então, o que posso servi-lo?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/novakidvillage/bartender.npctype": [
+        "/scriptConfig/dialog/merchant/start/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "What can I getcha?",
+      "Por": "O que posso fazer por você?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/dungeon/novakidvillage/bartender.npctype": [
+        "/scriptConfig/dialog/merchant/tout/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Y'all lookin' for a drink?",
+      "Por": "Vocês estão procurando por uma bebida?"
+    }
+  }
+]

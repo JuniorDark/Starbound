@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ornatewall.matitem": [
+        "/description"
+      ],
+      "tiles/materials/ornatewall.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A traditional looking wall.",
+      "Por": "Uma parede de aparência tradicional."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ornatewall.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/ornatewall.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ornate Wall",
+      "Por": "Ornate Wall"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ornatewall.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/ornatewall.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is a real fancy lookin' wall.",
+      "Por": "Esta é uma parede realmente chique."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ornatewall.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/ornatewall.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This wall is subtly decorated in a traditional method."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ornatewall.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/ornatewall.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wall iss too pretty to sssmash.",
+      "Por": "Parede é muito bonita para quebrar."
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/doom/doomswitch/doomswitch.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A doom console. Be careful how you operate it - it's watching.",
+      "Por": "Um console. Tenha cuidado como você operá-lo - ele está observando."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/doom/doomswitch/doomswitch.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Doom Console",
+      "Por": "Doom Console"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/doom/doomswitch/doomswitch.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I just gotta push that button.",
+      "Por": "Eu só tenho que apertar esse botão."
+    }
+  }
+]

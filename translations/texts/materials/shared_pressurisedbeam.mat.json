@@ -1,0 +1,61 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/pressurisedbeam.matitem": [
+        "/description"
+      ],
+      "tiles/materials/pressurisedbeam.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A support beam made for pressurised environments.",
+      "Por": "Uma viga de suporte feita para ambientes pressurizados."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/pressurisedbeam.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/pressurisedbeam.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pressurised Beam",
+      "Por": "Pressurised Beam"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/pressurisedbeam.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/pressurisedbeam.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sstrong metal beam.",
+      "Por": "Viga de metal forte."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/pressurisedbeam.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/pressurisedbeam.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This beam is specially designed for pressurised environments."
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/potato.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Po-ta-to.",
+      "Por": "Ba-ta-ta."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/potato.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Potato",
+      "Por": "Potato"
+    }
+  }
+]

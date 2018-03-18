@@ -1,0 +1,87 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/lanaoutpost.npctype": [
+        "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Acquires powerful augments",
+      "Por": "Adquira augments poderosos"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/lanaoutpost.npctype": [
+        "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Lana Blake",
+      "Por": "Lana Blake"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/lanaoutpost.npctype": [
+        "/scriptConfig/dialog/merchant/end/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Come back tomorrow, soldier - I'll have a new shipment by then.",
+      "Por": "Volte amanhã, soldado - Vou ter uma nova remessa até lá."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/lanaoutpost.npctype": [
+        "/scriptConfig/dialog/merchant/start/default/default/0",
+        "/scriptConfig/dialog/merchant/welcome/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hello, soldier. I've acquired a shipment of Augments. Are these of any use to you?",
+      "Por": "Olá, soldado. Eu adquiri um carregamento de Augments. Eles são de alguma utilidade para você?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/lanaoutpost.npctype": [
+        "/scriptConfig/dialog/merchant/tout/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I got a shipment of Augments straight from the rebel camps.",
+      "Por": "Eu recebi um carregamento de Augments diretamente dos acampamentos rebeldes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/lanaoutpost.npctype": [
+        "/scriptConfig/dialog/merchant/end/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll have a new shipment tomorrow, come back when you need to.",
+      "Por": "Eu vou ter uma nova remessa amanhã, volte quando você precisar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/lanaoutpost.npctype": [
+        "/scriptConfig/dialog/merchant/tout/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Soldier - the rebels have shipped me a new batch of Augments.",
+      "Por": "Soldado - os rebeldes me enviaram um novo lote de Augments."
+    }
+  }
+]

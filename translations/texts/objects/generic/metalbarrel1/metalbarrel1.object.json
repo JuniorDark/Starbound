@@ -1,0 +1,109 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/metalbarrel1/metalbarrel1.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A generic metal barrel. It's sealed.",
+      "Por": "Um barril de metal genérico. Está selado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/metalbarrel1/metalbarrel1.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal barrel, I can't open it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/metalbarrel1/metalbarrel1.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal barrel. It's sealed.",
+      "Por": "Uma barril de metal. Está selado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/metalbarrel1/metalbarrel1.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal drum. I can't get inside.",
+      "Por": "Um tambor de metal. Não consigo entrar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/metalbarrel1/metalbarrel1.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sealed metal barrel.",
+      "Por": "Um barril de metal selado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/metalbarrel1/metalbarrel1.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Metal Barrel",
+      "Por": "Metal Barrel"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/metalbarrel1/metalbarrel1.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Metal container. I can't get into it.",
+      "Por": "Recipiente de metal. Não consigo entrar nisso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/metalbarrel1/metalbarrel1.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Metal container. It's closed.",
+      "Por": "Recipiente de metal. Está fechado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/metalbarrel1/metalbarrel1.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Round metal cube. No door.",
+      "Por": "Cubo redondo de metal. Sem porta."
+    }
+  }
+]

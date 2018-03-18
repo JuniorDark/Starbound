@@ -1,0 +1,78 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/dirt.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/dirt.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dirt",
+      "Por": "Dirt"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/dirt.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/dirt.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dirty lookin' dirt.",
+      "Por": "Terra suja."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Terra suja."
+    ],
+    "Files": {
+      "items/materials/dirt.matitem": [
+        "/description"
+      ],
+      "tiles/materials/dirt.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dirty looking dirt.",
+      "Por": "Um poco de terra suja."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/dirt.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/dirt.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Filthy dirt!",
+      "Por": "Terra imunda!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/dirt.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/dirt.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is basic soil."
+    }
+  }
+]

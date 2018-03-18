@@ -1,0 +1,142 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/cooking.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I am very grateful to benefit from your excellent cooking skills. Thank you!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/cooking.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mmmmm! Floran not too a great at cooking, so this wasss an excellent plan!",
+      "Por": "Mmmm! Floran não é um grande cozinheiro, então isso foi um excelente plano!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/cooking.questtemplate": [
+        "/scriptConfig/generatedText/text/default/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Next <player> needss to ^green;cook Floran ^orange;<cookedItems> ^green;from the ^orange;<ingredients>.",
+      "Por": "Em seguida <player> precisa ^green;cozinhar para Floran ^orange;<cookedItems> ^green;com os ^orange;<ingredients>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/cooking.questtemplate": [
+        "/scriptConfig/generatedText/text/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now comes the tricky part - cooking. You should be able to ^green;assemble ^orange;<ingredients>^white; into ^orange;<cookedItems>^white;. The recipe seems simple, but my attempts at cooking never work out.",
+      "Por": "Agora vem a parte difícil - cozinhar. Você deve ser capaz de ^green;transformar ^orange;<ingredients>^white; em ^orange;<cookedItems>^white;. A receita parece simples, mas minhas tentativas de cozinhar nunca funcionam."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/cooking.questtemplate": [
+        "/scriptConfig/generatedText/text/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now for the worst part! Floran hatesss cooking! ^green;You need to cook ^orange;<cookedItems> ^white;for Floran using the ^orange;<ingredients>.",
+      "Por": "Agora pra pior parte! Floran odeia cozinhar! ^green;Você precisa cozinhar ^orange;<cookedItems> ^white;para Floran usando os ^orange;<ingredients>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/cooking.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now that you have all the ^orange;ingredients^white;, ^green;they just need to be fashioned into ^orange;<cookedItems>^white; somehow. I will leave this part to you!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/cooking.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thank you <player>, you sssure are a better chef than Floran!",
+      "Por": "Obrigado <player>, você certamente é um chefe de cozinha melhor que Floran!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/cooking.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The <cookedItems> look splendid. "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/cooking.questtemplate": [
+        "/scriptConfig/generatedText/text/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "The ^orange;<ingredients>^white; will need some preparing. You should be able to ^green;whip up ^orange;<cookedItems>^white;. Why don't you give it a try?",
+      "Por": "Os ^orange;<ingredients>^white; vão precisar de algum preparo. Você deve ser capaz de ^green;fazer ^orange;<cookedItems>^white;. Por que você não experimentá?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/cooking.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wow! That looks delicious! I wish we could eat this right now but we'll need it for what comes next...",
+      "Por": "Uau! Isso parece delicioso! Eu gostaria que pudéssemos comer isso agora, mas vamos precisar dele para o que vem a seguir..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/cooking.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "You didn't seem to have any trouble cooking that! Thank you - this is exactly what's needed to complete my plan.",
+      "Por": "Parece que você não teve nenhuma dificuldade pra cozinhar isso! Obrigado - isto é exatamente o que é necessário para completar o meu plano."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/cooking.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Now you just need to prepare ^orange;<cookedItems>^white; from the ^orange;<ingredients>^white;. Simple!"
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/chakram/hardchakram.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hard Chakram",
+      "Por": "Hard Chakram"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/chakram/hardchakram.activeitem": [
+        "/upgradeParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hard Chakram ^yellow;^reset;",
+      "Por": "Hard Chakram ^yellow;^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/chakram/hardchakram.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Solid, heavy, and brutally effective.",
+      "Por": "Sólido, pesado e brutalmente eficaz."
+    }
+  }
+]

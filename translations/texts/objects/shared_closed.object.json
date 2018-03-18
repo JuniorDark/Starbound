@@ -1,0 +1,23 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Este seria um local bom para uma tenda.",
+      "Este seria um local perfeito para uma tenda."
+    ],
+    "Files": {
+      "objects/generic/arcadegame/arcadegameclosed.object": [
+        "/description"
+      ],
+      "objects/outpost/2stopteleshop/2stopshopclosed.object": [
+        "/description"
+      ],
+      "objects/outpost/signstore/signstoreclosed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This would be a neat venue for a stall.",
+      "Por": "Este seria um lugar agradável para uma tenda."
+    }
+  }
+]

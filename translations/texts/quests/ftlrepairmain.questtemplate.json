@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/ftlrepairmain.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's working! I can finally visit other star systems!",
+      "Por": "Está funcionando! Eu finalmente posso visitar outros sistemas estelares!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/ftlrepairmain.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now that I can visit the planets within this solar system ^green;I need to start looking at how to repair my FTL drive, ^orange;SAIL will probably know more.",
+      "Por": "Agora que eu posso visitar os planetas dentro deste sistema solar ^green;eu preciso começar a procurar como reparar o meu motor FTL, ^orange;SAIL provavelmente sabe mais."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/ftlrepairmain.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Free as a Bird",
+      "Por": "^orange;Livre como um Pássaro"
+    }
+  }
+]

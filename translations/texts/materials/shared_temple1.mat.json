@@ -1,0 +1,63 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/temple1.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/temple1.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran likes sstone picturess.",
+      "Por": "Floran gosta de figurass na pedra."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/temple1.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/temple1.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ol' blocks with some sorta carvin'.",
+      "Por": "Bloco velho com algum tipo de gravura."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Temple Block"
+    ],
+    "Files": {
+      "items/materials/temple1.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/temple1.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Temple Block",
+      "Por": "Temple Rock"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/temple1.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/temple1.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These stone carvings depict an unknown language."
+    }
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/lightsensor/lightsensor.object": [
+        "/description",
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Activates the bottom node in dim light and the top node in bright light.",
+      "Por": "Ativa o nódulo inferior em luz fraca e o nódulo superior em luz brilhante."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/lightsensor/lightsensor.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Activatesss the bottom node in dim light and the top node in bright light.",
+      "Por": "Ativa o nódulo inferior em luz fraca e o nódulo superior em luz brilhante."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/lightsensor/lightsensor.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Light Sensor",
+      "Por": "Light Sensor"
+    }
+  }
+]

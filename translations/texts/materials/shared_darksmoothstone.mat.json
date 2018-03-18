@@ -1,0 +1,78 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/darksmoothstone.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/darksmoothstone.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A dark brick made from an unknown stone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/darksmoothstone.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/darksmoothstone.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A dark lookin' stone brick.",
+      "Por": "Um tijolo de pedra escuro."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Um bloco de pedra lisa e escura."
+    ],
+    "Files": {
+      "items/materials/darksmoothstone.matitem": [
+        "/description"
+      ],
+      "tiles/materials/darksmoothstone.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A dark, smooth stone block.",
+      "Por": "Um bloco de pedra liso e escuro."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/darksmoothstone.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/darksmoothstone.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dark Smooth Stone",
+      "Por": "Dark Smooth Stone"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/darksmoothstone.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/darksmoothstone.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sssmooth sstone block.",
+      "Por": "Bloco de pedra liso."
+    }
+  }
+]

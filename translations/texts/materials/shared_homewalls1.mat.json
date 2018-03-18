@@ -1,0 +1,78 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Alvenaria bem pintada."
+    ],
+    "Files": {
+      "items/materials/homewalls1.matitem": [
+        "/description"
+      ],
+      "tiles/materials/homewalls1.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nicely painted brickwork.",
+      "Por": "Tijolos bem pintados."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/homewalls1.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/homewalls1.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Painted Brick",
+      "Por": "Painted Brick"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/homewalls1.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/homewalls1.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pretty painted bricksss.",
+      "Por": "Tijolosss pintados bonitos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/homewalls1.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/homewalls1.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some real pretty painted bricks.",
+      "Por": "Alguns tijolos pintados muito bonitos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/homewalls1.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/homewalls1.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These painted bricks are quaint."
+    }
+  }
+]

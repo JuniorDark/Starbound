@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/apexshipwall.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/apexshipwall.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A panel made outta metal.",
+      "Por": "Um painel feito de metal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/apexshipwall.matitem": [
+        "/description"
+      ],
+      "tiles/materials/apexshipwall.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sleek metal wall panel.",
+      "Por": "Um painel de parede de metal elegante."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/apexshipwall.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/apexshipwall.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Metal panel makess ssmooth wall.",
+      "Por": "Painel de metal deixa parede lisa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/apexshipwall.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/apexshipwall.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These removable panels are smooth and strong."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/apexshipwall.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/apexshipwall.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wall Panel",
+      "Por": "Wall Panel"
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/shipupgrade/illegalshipupgrade1.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "This ship license is definitely legitimate. ^green;Visit Penguin Pete^reset; with ^orange;2 Upgrade Modules^reset; to upgrade your ship.",
+      "Por": "Esta licença é definitivamente legítima. ^green;Visite Pinguim Pete^reset; com ^orange;2 Upgrade Modules^reset; para atualizar a sua nave."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/outpost/shipupgrade/illegalshipupgrade1.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Shady Sparrow Ship Upgrade",
+      "Por": "^green;Atualização de Nave Shady Sparrow"
+    }
+  }
+]

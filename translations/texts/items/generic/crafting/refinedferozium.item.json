@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/refinedferozium.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ore for refined ferozium is primarily found on planets orbiting frozen stars.",
+      "Por": "Ferozium é encontrado principalmente em planetas que orbitam estrelas congeladas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/refinedferozium.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Refined Ferozium",
+      "Por": "Refined Ferozium"
+    }
+  }
+]

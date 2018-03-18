@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/fist/gauntlet.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gauntlet",
+      "Por": "Gauntlet"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/fist/gauntlet.activeitem": [
+        "/upgradeParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gauntlet ^yellow;^reset;",
+      "Por": "Gauntlet ^yellow;^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/fist/gauntlet.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Perfect for initiating a duel.",
+      "Por": "Perfeita para iniciar um duelo."
+    }
+  }
+]

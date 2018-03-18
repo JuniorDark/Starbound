@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/other/salve.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A salve for healing minor wounds. Restores 50 health over 10 seconds.",
+      "Por": "Uma pomada para curar ferimentos leves. Restaura 50 de vida ao longo de 10 segundos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/other/salve.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Salve",
+      "Por": "Salve"
+    }
+  }
+]

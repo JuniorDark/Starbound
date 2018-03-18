@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/neonblock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/neonblock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A coloured block filled with neon gas.",
+      "Por": "Um bloco colorido cheio de gás neon."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/neonblock.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/neonblock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bright coloured neon filled block.",
+      "Por": "Bloco colorido cheio de néon colorido."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/neonblock.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/neonblock.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "It seems this entire block contains neon gas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/neonblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/neonblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neon Block",
+      "Por": "Neon Block"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/neonblock.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/neonblock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This block is actually filled with some sorta gas.",
+      "Por": "Este bloco esta preenchido com algum tipo de gás."
+    }
+  }
+]

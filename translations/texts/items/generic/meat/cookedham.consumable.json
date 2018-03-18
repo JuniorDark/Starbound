@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/meat/cookedham.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A haunch of roasted alien ham.",
+      "Por": "Uma coxa de presunto alienígena assada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/meat/cookedham.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cooked Ham",
+      "Por": "Cooked Ham"
+    }
+  }
+]

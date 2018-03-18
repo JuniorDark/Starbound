@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/arm/mecharmgravitymine.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fires a remote mine that creates a tiny gravitational singularity.",
+      "Por": "Dispara uma mina remota que cria uma pequena singularidade gravitacional."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/arm/mecharmgravitymine.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gravity Mine Mech Arm"
+    }
+  }
+]

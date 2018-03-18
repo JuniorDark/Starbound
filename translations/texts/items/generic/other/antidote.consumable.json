@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/other/antidote.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Poison Antidote",
+      "Por": "Poison Antidote"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/other/antidote.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Protect your body from poisons.",
+      "Por": "Protege seu corpo de venenos."
+    }
+  }
+]

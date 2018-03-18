@@ -1,0 +1,107 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/industrialcrate/industrialcrate.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A pressurised cargo crate, designed to withstand the conditions of space travel."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/industrialcrate/industrialcrate.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sturdy looking crate, illuminated by a set of dim red lights.",
+      "Por": "Uma caixa de aparência resistente, iluminada por um conjunto de luzes vermelhas fracas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/industrialcrate/industrialcrate.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Doesss thisss box have red eyesss? Floran worried.",
+      "Por": "Essa caixa tem olhos vermelhosss? Floran preocupado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/industrialcrate/industrialcrate.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I could pretend to be interested in how this crate looks, but really I just want to see what's inside.",
+      "Por": "Eu poderia fingir estar interessado em como esta caixa parece, mas realmente eu só quero ver o que está dentro."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/industrialcrate/industrialcrate.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'd have a hard time pryin' this tough ol' thing open by force.",
+      "Por": "O exterior desta caixa é feito para suportar a pressão extrema, mas realmente eu só quero ver o que está dentro!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/industrialcrate/industrialcrate.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Industrial Crate"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/industrialcrate/industrialcrate.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The exterior of this crate is made to withstand extreme pressure. If only I was as tough as this..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/industrialcrate/industrialcrate.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This crate is designed to withstand extreme pressure. I wonder if a Hylotl helped design it?",
+      "Por": "Esta caixa é projetada para suportar a pressão extrema. Gostaria de saber se um Hylotl ajudou a projetá-la?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/industrialcrate/industrialcrate.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This crate looks like it would be difficult to destroy.",
+      "Por": "Esta caixa parece ser difícil de destruir."
+    }
+  }
+]

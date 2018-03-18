@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier3/bananacreamdonut.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A delicious donut filled with banana and cream. It's almost healthy!",
+      "Por": "Uma rosquinha deliciosa preenchida com banana e creme. É quase saudável!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier3/bananacreamdonut.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Banana Cream Donut",
+      "Por": "Banana Cream Donut"
+    }
+  }
+]

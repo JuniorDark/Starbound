@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier1/mashedpotato.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mashed Potato",
+      "Por": "Mashed Potato"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier1/mashedpotato.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Smashing potatoes is scientifically proven to make them 500% tastier.",
+      "Por": "Esmagar batatas é cientificamente comprovado para torná-las 500% mais saborosas."
+    }
+  }
+]

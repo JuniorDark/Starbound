@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/fleshcorpse/fleshcorpse.bush": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A melting corpse."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/fleshcorpse/fleshcorpse.bush": [
+        "/description",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A vile corpse.",
+      "Por": "Um cadáver desprezível."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/fleshcorpse/fleshcorpse.bush": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Let the bodiesss hit the floor!",
+      "Por": "Deixe os corpos caírem no chão!"
+    }
+  }
+]

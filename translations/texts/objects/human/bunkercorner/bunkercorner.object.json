@@ -1,0 +1,88 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkercorner/bunkercorner.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal beam.",
+      "Por": "Uma viga de metal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkercorner/bunkercorner.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal support.",
+      "Por": "Um suporte de metal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkercorner/bunkercorner.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A support beam painted with cautionary stripes. Mind your head!",
+      "Por": "Uma viga de suporte pintada com listras de advertência. Cuidado com a cabeça!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkercorner/bunkercorner.object": [
+        "/apexDescription",
+        "/glitchDescription/glitchEmotedText",
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A support beam.",
+      "Por": "Uma viga de suporte."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkercorner/bunkercorner.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Metal Support Beam",
+      "Por": "Metal Support Beam"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkercorner/bunkercorner.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Metallic support beam.",
+      "Por": "Viga de suporte metálica."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkercorner/bunkercorner.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sssupport.",
+      "Por": "Sssuporte."
+    }
+  }
+]

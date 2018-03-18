@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/crosshatch.matitem": [
+        "/description"
+      ],
+      "tiles/materials/crosshatch.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple lattice made of wood.",
+      "Por": "Uma estrutura simples feita de madeira."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/crosshatch.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/crosshatch.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran like crisss crosssy wood.",
+      "Por": "Floran gosta de treliça de madeira."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/crosshatch.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/crosshatch.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thin wood strips all criss crossin' together.",
+      "Por": "Tiras de madeira finas todas cruzada juntas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/crosshatch.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/crosshatch.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This lattice functions well as either a fence or window."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/crosshatch.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/crosshatch.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Window Lattice",
+      "Por": "Window Lattice"
+    }
+  }
+]

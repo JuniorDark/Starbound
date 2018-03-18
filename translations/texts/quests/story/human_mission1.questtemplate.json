@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/human_mission1.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can repair that ship, but it's gonna take 20 ^orange;Erchius Crystals^reset;... You'd better ^green;get yerself over to the Erchius Mining Facility^reset;. I've sent the location coordinates to ^green;yer ship's SAIL^reset;.",
+      "Por": "Eu posso reparar essa nave, mas vai custar 20 ^orange;Cristais Erchius^reset;... É melhor ^green;você ir até a Instalação de Mineração de Erchius^reset;. Mandei as coordenadas de localização para o ^green;SAIL da sua nave^reset;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/human_mission1.questtemplate": [
+        "/scriptConfig/missionRadioMessage/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have received the coordinates for the ^orange;Erchius Mining Facility^reset;. If you ^green;return to the ship^reset; you can teleport there using my mission interface.",
+      "Por": "Eu recebi as coordenadas para a ^orange;Instalação de Mineração de Erchius^reset;. Se você ^green;voltar pra nave^reset; você pode se teleportar pra lá usando a minha interface de missão."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/human_mission1.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Perfect! These'll do the job. I'll go ahead and fix up yer ship right now.",
+      "Por": "Perfeito! Estes irão servir. Vou consertar sua nave agora mesmo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/human_mission1.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Erchius Mining Facility",
+      "Por": "A Instalação de Mineração de Erchius"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/human_mission1.questtemplate": [
+        "/scriptConfig/descriptions/findCrystals"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Fetch ^orange;Erchius Crystals^white; from the ^orange;Erchius Mining Facility^white;",
+      "Por": "^green;Busque ^orange;Cristais Erchius^white; na ^orange;Instalação de Mineração de Erchius^white;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/human_mission1.questtemplate": [
+        "/scriptConfig/descriptions/turnIn"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Return^white; to ^orange;the shipyard captain^white; at the ^orange;outpost^white;",
+      "Por": "^green;Retorne^white; para o ^orange;capitão do estaleiro^white; no ^orange;posto avançado^white;"
+    }
+  }
+]

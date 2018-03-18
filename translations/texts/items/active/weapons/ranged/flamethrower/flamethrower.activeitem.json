@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/flamethrower/flamethrower.activeitem": [
+        "/upgradeParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flamethrower ^yellow;^reset;",
+      "Por": "Flamethrower ^yellow;^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/flamethrower/flamethrower.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Love the smell of napalm, any time of day.",
+      "Por": "Amo o cheiro de napalm, a qualquer hora do dia."
+    }
+  }
+]

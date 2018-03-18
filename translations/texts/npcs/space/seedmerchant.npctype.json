@@ -1,0 +1,50 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/space/seedmerchant.npctype": [
+        "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Seed Merchant",
+      "Por": "  Comerciante de Sementes"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/space/seedmerchant.npctype": [
+        "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Sells seeds for farming!",
+      "Por": "  Vende sementes para agricultura!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/space/seedmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/start/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran makesss plantsss grow in ssspace. Floran not have many cussstomers.",
+      "Por": "Floran faz plantasss crescerem no essspaço. Floran não tem muitos clientesss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/space/seedmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/end/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Have fun in ssspace!",
+      "Por": "Divirta-se no essspaço!!"
+    }
+  }
+]

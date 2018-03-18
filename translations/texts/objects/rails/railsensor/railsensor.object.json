@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/rails/railsensor/railsensor.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detects rail riders as they pass through",
+      "Por": "Detecta rail riders ao passar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/rails/railsensor/railsensor.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rail Sensor",
+      "Por": "Rail Sensor"
+    }
+  }
+]

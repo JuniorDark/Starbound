@@ -1,0 +1,78 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/tombbrick3.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/tombbrick3.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looks t'me like some small bricks.",
+      "Por": "Parece para mim como alguns tijolos pequenos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/tombbrick3.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/tombbrick3.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Small Tomb Brick",
+      "Por": "Small Tomb Brick"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/tombbrick3.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/tombbrick3.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssmall brickss.",
+      "Por": "Tijoloss pequenoss."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Estes pequenos tijolos são magistralmente trabalhados."
+    ],
+    "Files": {
+      "items/materials/tombbrick3.matitem": [
+        "/description"
+      ],
+      "tiles/materials/tombbrick3.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "These small bricks are masterfully crafted.",
+      "Por": "Estes pequenos tijolos são magistralmente fabricados."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/tombbrick3.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/tombbrick3.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This stone work is most impressive."
+    }
+  }
+]

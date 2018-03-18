@@ -1,0 +1,78 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/scorchedcity/woodenutilitypole1/woodenutilitypole1.object": [
+        "/hylotlDescription"
+      ],
+      "objects/biome/scorchedcity/woodenutilitypole2/woodenutilitypole2.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A wooden pole of some sort. It appears to have had a use once.",
+      "Por": "Um poste de madeira de algum tipo. Parece ter tido um uso uma vez."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/scorchedcity/woodenutilitypole1/woodenutilitypole1.object": [
+        "/avianDescription"
+      ],
+      "objects/biome/scorchedcity/woodenutilitypole2/woodenutilitypole2.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A wooden pole, for what purpose does it serve?",
+      "Por": "Um poste de madeira, para que finalidade ele serve?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/scorchedcity/woodenutilitypole1/woodenutilitypole1.object": [
+        "/description",
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/biome/scorchedcity/woodenutilitypole2/woodenutilitypole2.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A wooden utility pole.",
+      "Por": "Um poste de serviço de madeira."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/scorchedcity/woodenutilitypole1/woodenutilitypole1.object": [
+        "/novakidDescription"
+      ],
+      "objects/biome/scorchedcity/woodenutilitypole2/woodenutilitypole2.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wonder what this could've been used for?",
+      "Por": "Me pergunto para o que isso poderia ter sido usado?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/scorchedcity/woodenutilitypole1/woodenutilitypole1.object": [
+        "/floranDescription"
+      ],
+      "objects/biome/scorchedcity/woodenutilitypole2/woodenutilitypole2.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wooden pole, maybe good for climbing?",
+      "Por": "Poste de madeira, talvez bom para escalar?"
+    }
+  }
+]

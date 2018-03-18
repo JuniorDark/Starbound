@@ -1,0 +1,37 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/lightblocker.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran look pretty in glasssss.",
+      "Por": "Floran fica bonito no vidro."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/lightblocker.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Glass."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/lightblocker.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can see my reflection... it's hideous!",
+      "Por": "Eu posso ver meu reflexo... é medonho!"
+    }
+  }
+]

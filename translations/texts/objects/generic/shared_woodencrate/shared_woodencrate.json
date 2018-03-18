@@ -1,0 +1,77 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodencrate1/woodencrate1.object": [
+        "/description"
+      ],
+      "objects/generic/woodencrate2/woodencrate2.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A mysterious wooden crate.",
+      "Por": "Uma caixa de madeira misteriosa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodencrate1/woodencrate1.object": [
+        "/novakidDescription"
+      ],
+      "objects/generic/woodencrate2/woodencrate2.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A regular wooden crate.",
+      "Por": "Uma caixa de madeira regular."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodencrate1/woodencrate1.object": [
+        "/avianDescription"
+      ],
+      "objects/generic/woodencrate2/woodencrate2.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A storage box.",
+      "Por": "Uma caixa de armazenamento."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodencrate1/woodencrate1.object": [
+        "/humanDescription"
+      ],
+      "objects/generic/woodencrate2/woodencrate2.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A wooden crate. It's open.",
+      "Por": "Uma caixa de madeira. Está aberta."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodencrate1/woodencrate1.object": [
+        "/hylotlDescription"
+      ],
+      "objects/generic/woodencrate2/woodencrate2.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An open crate.",
+      "Por": "Uma caixa aberta."
+    }
+  }
+]

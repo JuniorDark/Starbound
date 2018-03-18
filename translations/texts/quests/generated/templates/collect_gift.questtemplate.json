@@ -1,0 +1,282 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/collect_gift.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "<target> is always reliable, and so are you! Thank you for your assistance."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/collect_gift.questtemplate": [
+        "/scriptConfig/generatedText/text/first/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Firssst, Floran needs you to ^green;get a shiny ^orange;<item>. ^white;Floran thinksss ^orange;<target> ^green;will have one.",
+      "Por": "Primeiro, Floran precisa que você obtenha um ^orange;<item> ^white;brilhante. Floran acha que ^orange;<target> ^green;terá um."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/collect_gift.questtemplate": [
+        "/scriptConfig/generatedText/text/first/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "First ^green;I shall need one ^orange;<item>^white;, and I know that ^orange;<target>^white; currently owns one. ^green;Can you ask <target.pronoun.object> to give it to us?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/collect_gift.questtemplate": [
+        "/scriptConfig/generatedText/text/default/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "For the next part, Floran needss a nice ^orange;<item>. ^white;Floran heard that ^orange;<target> ^white;had one. ^green;You should ask <target.pronoun.object> for it.",
+      "Por": "Para a próxima parte, Floran precisa de um bom ^orange;<item>. ^white;Floran ouviu que ^orange;<target> ^white;tinha um. ^green;Você deveria perguntar a <target.pronoun.object> por isso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/collect_gift.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I am lucky to have friends like you and <target> to help me out!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/collect_gift.questtemplate": [
+        "/scriptConfig/generatedText/completionText/last/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I knew that <target> would be willing to help me. Thank you for your assistance!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/collect_gift.questtemplate": [
+        "/scriptConfig/generatedText/text/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Next, Floran heard that ^orange;<target> ^white;hass a nice ^orange;<item>. ^white;Could you ^green;collect it for Floran^white;, pleasse?",
+      "Por": "Em seguida, Floran ouviu que ^orange;<target> ^white;tem um belo ^orange;<item>. ^white;Você poderia ^green;coleta-lo para Floran^white;, por favor?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/collect_gift.questtemplate": [
+        "/scriptConfig/generatedText/text/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Next, I need you to ^green;retreive my ^orange;<item>^white;. I loaned it to ^orange;<target>^white; last week, ^green;could you ask for it back?^white;  We're going to need it for the next phase of my plan.",
+      "Por": "Em seguida, eu preciso que você ^green;recupere o meu ^orange;<item>^white;. Eu emprestei para ^orange;<target>^white; semana passada, ^green;você poderia pedi-lo de volta?^white; Nós vamos precisar dele para a próxima fase do meu plano."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/collect_gift.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Next, ^green;I have need of ^orange;<target>'s <item>^white;. I'm positive that if you asked <target.pronoun.object> nicely, <target.pronoun.subject>'d give it to us. ^green;You should speak to <target.pronoun.object>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/collect_gift.questtemplate": [
+        "/scriptConfig/generatedText/text/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now I'll need you to get one ^orange;<item>. <target>^white; has the biggest collection around; if you ^green;ask nicely^white; I'm sure <target.pronoun.subject> wouldn't mind parting with just one.",
+      "Por": "Agora eu vou precisar que você obtenha um ^orange;<item>. <target>^white; tem a maior coleção na região, se você ^green;pedir com jeitinho^white; Tenho certeza que <target.pronoun.subject> não se importaria de separar de apenas um."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/collect_gift.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Perfect! Floran has plansss for this <item>.",
+      "Por": "Perfeito! Floran tem planos para este <item>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/collect_gift.questtemplate": [
+        "/scriptConfig/generatedText/completionText/last/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Perfect, I'll have to give <target> my thanks. This is exactly what we need.",
+      "Por": "Perfeito, vou ter que dar a <target> meus agradecimentos. Isso é exatamente o que precisamos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/collect_gift.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thanks for getting what we needed from <target>. Now to move things forward.",
+      "Por": "Obrigado por pegar o que precisávamos de <target>. Agora é mover as coisas pra frente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/collect_gift.questtemplate": [
+        "/scriptConfig/generatedText/completionText/last/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thanksss! Floran knew <target> wouldn't mind.",
+      "Por": "Obrigado! Floran sabia que <target> não se importaria."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/collect_gift.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thanksss! Floran thinks we'll need this <item> more than <target> does.",
+      "Por": "Obrigado! Floran acha que vai precisar desse <item> mais do que <target> precisa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/collect_gift.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "That is one good looking <item>. Thanks for picking this up.",
+      "Por": "Esse é um belo <item>. Obrigado por pegar isso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/collect_gift.questtemplate": [
+        "/scriptConfig/generatedText/text/first/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "The first thing I'll need is one ^orange;<item>.^white; ^orange;<target>^white; has an extra one, and owes me a favor. ^green;Could you run over to <target.pronoun.object> and pick it up?",
+      "Por": "A primeira coisa que vou precisar é um ^orange;<item>.^white; ^orange;<target>^white; tem um sobrando, e me deve um favor. ^green;Você poderia correr até <target.pronoun.object> e buscá-lo?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/collect_gift.questtemplate": [
+        "/scriptConfig/generatedText/completionText/last/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This <item> is just what I need - <target> is so kind to have provided it. And you're so kind for fetching it!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/collect_gift.questtemplate": [
+        "/scriptConfig/generatedText/text/first/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "To begin we'll need one ^orange;<item>.^white; I know ^orange;<target>^white; got a new one recently, ^green;you should ask if we can use it.",
+      "Por": "Para começar vamos precisar de um ^orange;<item>.^white; eu sei que ^orange;<target>^white; obteve um novo recentemente, ^green;você deve perguntar se podemos usá-lo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/collect_gift.questtemplate": [
+        "/scriptConfig/generatedText/text/first/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "To sstart, Floran needs a shiny ^orange;<item> ^green;from ^orange;<target>. ^green;Go asssk <target.pronoun.object> for one.",
+      "Por": "Para começar, Floran precisa de um ^orange;<item> ^green;brilhante de ^orange;<target>. ^green;Vá pedir a <target.pronoun.object> por um."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/collect_gift.questtemplate": [
+        "/scriptConfig/generatedText/completionText/last/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You brought Floran the <item>! <target> won't misss it.",
+      "Por": "Você trouxe pra Floran o <item>! <target> não vai perdê-lo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/collect_gift.questtemplate": [
+        "/scriptConfig/generatedText/completionText/last/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You got the <item> from <target>, excellent work! This next step would have been tough without it.",
+      "Por": "Você pegou o <item> de <target>, excelente trabalho! Este próximo passo teria sido difícil sem ele."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/collect_gift.questtemplate": [
+        "/scriptConfig/generatedText/text/first/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;I am going to need one ^orange;<item>^white;, I know that ^orange;<target>^white; owns one. ^green;I am sure <target.pronoun.subject>'ll give it to me if you ask."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/collect_gift.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;I need one ^orange;<item> and know that ^orange;<target> has one. I am sure you could ^green;procure it for me if you asked <target.pronoun.object> nicely."
+    }
+  }
+]

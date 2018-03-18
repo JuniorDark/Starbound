@@ -1,0 +1,32 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/smallwallswitch/smallwallswitch.object": [
+        "/description"
+      ],
+      "objects/wired/smallwallswitch/smallwallswitchlit.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flippin' awesome.",
+      "Por": "Um interruptor. Ativa algo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/smallwallswitch/smallwallswitch.object": [
+        "/avianDescription"
+      ],
+      "objects/wired/smallwallswitch/smallwallswitchlit.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This switch must activate something.",
+      "Por": "Este interruptor deve ativar alguma coisa."
+    }
+  }
+]

@@ -1,0 +1,161 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/escort_trade.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/default/0",
+        "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "<appreciation> Could you hold onto these <items> for the next part of my plan?",
+      "Por": "<appreciation> Você poderia segurar este <items> para a próxima parte do meu plano?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/escort_trade.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "<appreciationfloran> Could you hold onto these <items> for the next part of my plan?",
+      "Por": "<appreciationfloran> Você poderia segurar este <items> para a próxima parte do meu plano?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/escort_trade.questtemplate": [
+        "/scriptConfig/objectives/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bring <questGiver> to <target>",
+      "Por": "Leve <questGiver> até <target>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/escort_trade.questtemplate": [
+        "/scriptConfig/generatedText/text/first/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Firsst, we're going to need ^orange;<items>^white;. They were meant to be delivered by travelling merchant ^orange;<target>^white;, but Floran thinksss <target.pronoun.subject> got lost around the ^orange;<spawnPoint>^white;<spawnPoint.direction>. Could you ^green;take Floran there^white; so Floran can find <target> and ^green;retrieve the ssstuff^white;?",
+      "Por": "Primeiro, nós vamos precisar de ^orange;<items>^white;. Eles deveriam ter sido entregues pelo comerciante viajante ^orange;<target>^white;, mas Floran acha que <target.pronoun.subject> conseguiu se perder perto de ^orange;<spawnPoint>^white; <spawnPoint.direction>. Você poderia ^green; levar Floran lá^white; assim Floran pode encontrar <target> e ^green;recuperar as coisasss^white;?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/escort_trade.questtemplate": [
+        "/scriptConfig/generatedText/text/first/default/0",
+        "/scriptConfig/generatedText/text/first/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "First, we're going to need ^orange;<items>^white;. They were due to be delivered by travelling merchant ^orange;<target>^white;, but I think <target.pronoun.subject> managed to get lost around the ^orange;<spawnPoint>^white;<spawnPoint.direction>. Could you ^green;take me there^white; so we can find <target> and ^green;retrieve the goods^white;?",
+      "Por": "Primeiro, nós vamos precisar de ^orange;<items>^white;. Eles deveriam ter sido entregues pelo comerciante viajante ^orange;<target>^white;, mas eu acho que <target.pronoun.subject> conseguiu se perder perto de ^orange;<spawnPoint>^white; <spawnPoint.direction>. Você poderia ^green;me levar lá^white; para que possamos encontrar <target> e ^green;recuperar as mercadorias^white;?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/escort_trade.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran appreciatesss the help!",
+      "Por": "Floran agradece a ajuda!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/escort_trade.questtemplate": [
+        "/scriptConfig/generatedText/text/default/default/0",
+        "/scriptConfig/generatedText/text/default/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Next, we're going to need ^orange;<items>^white;. They were due to be delivered by travelling merchant ^orange;<target>^white;, but I think <target.pronoun.subject> managed to get lost around the ^orange;<spawnPoint>^white;<spawnPoint.direction>. Could you ^green;take me there^white; so we can find <target> and ^green;retrieve the goods^white;?",
+      "Por": "Em seguida, nós vamos precisar de ^orange;<items>^white;. Eles deveriam ter sido entregues pelo comerciante viajante ^orange;<target>^white;, mas eu acho que <target.pronoun.subject> conseguiu se perder perto de ^orange;<spawnPoint>^white; <spawnPoint.direction>. Você poderia ^green;me levar lá^white; para que possamos encontrar <target> e ^green;recuperar as mercadorias^white;?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/escort_trade.questtemplate": [
+        "/scriptConfig/generatedText/text/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Next, we're going to need ^orange;<items>^white;. They were meant to be delivered by travelling merchant ^orange;<target>^white;, but Floran thinksss <target.pronoun.subject> got lost around the ^orange;<spawnPoint>^white;<spawnPoint.direction>. Could you ^green;take Floran there^white; so Floran can find <target> and ^green;retrieve the ssstuff^white;?",
+      "Por": "Em seguida, nós vamos precisar de ^orange;<items>^white;. Eles deveriam ter sido entregues pelo comerciante viajante ^orange;<target>^white;, mas Floran acha que <target.pronoun.subject> conseguiu se perder perto de ^orange;<spawnPoint>^white; <spawnPoint.direction>. Você poderia ^green; levar Floran lá^white; assim Floran pode encontrar <target> e ^green;recuperar as coisasss^white;?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/escort_trade.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thanks for accompanying me!",
+      "Por": "Obrigado por me acompanhar!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/escort_trade.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thanks for helping me out!",
+      "Por": "Obrigado por me ajudar!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/escort_trade.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thanksss for escorting Floran here!",
+      "Por": "Obrigado por escoltar Floran aqui!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/escort_trade.questtemplate": [
+        "/scriptConfig/generatedText/fluff/1/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thanksss for helping out Floran!",
+      "Por": "Obrigado por ajudar Floran!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/escort_trade.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "You've really helped me out, thanks!",
+      "Por": "Você realmente me ajudou, obrigado!"
+    }
+  }
+]

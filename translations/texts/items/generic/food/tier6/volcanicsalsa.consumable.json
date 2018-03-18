@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier6/volcanicsalsa.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fiery salsa made from fruit and veg that can really bring the heat!",
+      "Por": "Um molho ardente feito de frutas e vegetais que pode realmente deixar com calor!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier6/volcanicsalsa.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Volcanic Salsa",
+      "Por": "Volcanic Salsa"
+    }
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/outposthumansurvivor.npctype": [
+        "/scriptConfig/dialog/converse/human/human/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "All of humanity, scattered across the universe... What do we do?",
+      "Por": "Toda a humanidade, espalhada por todo o universo... O que vamos fazer?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/outposthumansurvivor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0",
+        "/scriptConfig/dialog/converse/human/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I only just barely escaped from Earth as it was torn apart. I'm lucky to be here.",
+      "Por": "Eu escapei por pouco da Terra assim que foi destruida. Eu tenho sorte de estar aqui."
+    }
+  }
+]

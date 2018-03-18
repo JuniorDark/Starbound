@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier1/bakedpotato.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Baked Potato",
+      "Por": "Baked Potato"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier1/bakedpotato.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crispy on the outside, hot as molten lava on the inside.",
+      "Por": "Crocante por fora, quente como lava derretida por dentro."
+    }
+  }
+]

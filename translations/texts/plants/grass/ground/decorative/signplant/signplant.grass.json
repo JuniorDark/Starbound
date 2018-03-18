@@ -1,0 +1,49 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/signplant/signplant.grass": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strange plant with a marking on it.",
+      "Por": "Uma planta estranha com uma marca nela."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/signplant/signplant.grass": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strange plant.",
+      "Por": "Uma planta estranha."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/signplant/signplant.grass": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran use this plant for sssigns.",
+      "Por": "Os Floran usam esta planta por sinais."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/signplant/signplant.grass": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This plant appears to carry a message."
+    }
+  }
+]

@@ -1,0 +1,180 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/terraformer/terraformergui.config": [
+        "/gui/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Planetary Terraformer",
+      "Por": "Terraplanador Planetário"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/terraformer/terraformergui.config": [
+        "/gui/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "  ^#b9b5b2;Transform the whole planet using Essence!",
+      "Por": "^#b9b5b2;Transforme o planeta inteiro usando Essência!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/terraformer/terraformergui.config": [
+        "/gui/lblEssenceCount/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "0 / 0"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/terraformer/terraformergui.config": [
+        "/errorMessages/needSurface"
+      ]
+    },
+    "Texts": {
+      "Eng": "Must be placed on a planet surface!",
+      "Por": "Deve ser colocado na superfície de um planeta!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/terraformer/terraformergui.config": [
+        "/errorMessages/worldComplete"
+      ]
+    },
+    "Texts": {
+      "Eng": "Planet already fully terraformed!",
+      "Por": "Planeta já totalmente terraformado!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/terraformer/terraformergui.config": [
+        "/errorMessages/noExpansion"
+      ]
+    },
+    "Texts": {
+      "Eng": "Target size must be larger than current size!",
+      "Por": "O tamanho do alvo deve ser maior do que o tamanho atual!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/terraformer/terraformergui.config": [
+        "/errorMessages/alreadyActive"
+      ]
+    },
+    "Texts": {
+      "Eng": "Terraforming already in progress!",
+      "Por": "Terraformação já em andamento!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/terraformer/terraformergui.config": [
+        "/errorMessages/tooClose"
+      ]
+    },
+    "Texts": {
+      "Eng": "Too close to another active terraformer!",
+      "Por": "Muito próximo de outro terraformer ativo!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/terraformer/terraformergui.config": [
+        "/gui/lblCurrentStatus/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Waiting for status...",
+      "Por": "Aguardando status..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/terraformer/terraformergui.config": [
+        "/statusMessages/maxStepSize"
+      ]
+    },
+    "Texts": {
+      "Eng": "^gray;Terraforming stage limited to %s sectors.",
+      "Por": "^gray;Estágio de terraformagem limitado a %s setores."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/terraformer/terraformergui.config": [
+        "/statusMessages/worldComplete"
+      ]
+    },
+    "Texts": {
+      "Eng": "^gray;World terraforming complete.",
+      "Por": "^gray;Terraformação do mundo completa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/terraformer/terraformergui.config": [
+        "/gui/lblEssenceLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;ESSENCE^white;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/terraformer/terraformergui.config": [
+        "/statusMessages/insufficientEssence"
+      ]
+    },
+    "Texts": {
+      "Eng": "^red;Insufficient Essence!",
+      "Por": "^red;Essência insuficiente!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/terraformer/terraformergui.config": [
+        "/statusMessages/connecting"
+      ]
+    },
+    "Texts": {
+      "Eng": "^yellow;Connecting to terraformer...",
+      "Por": "^yellow;Conectando ao terraformador..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/terraformer/terraformergui.config": [
+        "/statusMessages/active"
+      ]
+    },
+    "Texts": {
+      "Eng": "^yellow;Terraforming in progress...",
+      "Por": "^yellow;Terraformação em progresso..."
+    }
+  }
+]

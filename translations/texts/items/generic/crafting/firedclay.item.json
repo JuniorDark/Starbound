@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/firedclay.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Clay cooked into a solid brick.",
+      "Por": "Argila cozida em um tijolo sólido."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/firedclay.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fired Clay",
+      "Por": "Fired Clay"
+    }
+  }
+]

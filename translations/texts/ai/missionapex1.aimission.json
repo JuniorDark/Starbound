@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ai/missionapex1.aimission": [
+        "/speciesText/default/selectSpeech/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Esther has concluded that this Mansion base is the location of the Apex Artifact.",
+      "Por": "Esther concluiu que esta base Mansão é a localização do artefato Apex."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ai/missionapex1.aimission": [
+        "/speciesText/default/repeatButtonText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Revisit the Miniknog Stronghold",
+      "Por": "Revisite a Fortaleza Miniknog "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "ai/missionapex1.aimission": [
+        "/speciesText/default/buttonText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Miniknog Stronghold",
+      "Por": "A Fortaleza Miniknog "
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkertable1/bunkertable1.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/human/prisontable/prisontable.object": [
+        "/apexDescription"
+      ],
+      "objects/outpost/outposttable/outposttable.object": [
+        "/glitchDescription/glitchEmotedText",
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A table.",
+      "Por": "Uma mesa."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Uma mesa de aspecto industrial."
+    ],
+    "Files": {
+      "objects/human/bunkertable3/bunkertable3.object": [
+        "/humanDescription"
+      ],
+      "objects/space/astrotable/astrotable.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An industrial looking table.",
+      "Por": "Uma mesa de aparência industrial."
+    }
+  }
+]

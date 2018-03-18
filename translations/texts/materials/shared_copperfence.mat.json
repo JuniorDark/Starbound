@@ -1,0 +1,78 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Uma cerca de cobre resistente."
+    ],
+    "Files": {
+      "items/materials/copperfence.matitem": [
+        "/description"
+      ],
+      "tiles/materials/copperfence.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sturdy copper fence.",
+      "Por": "Uma cerca resistente de cobre."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/copperfence.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/copperfence.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Copper Fence",
+      "Por": "Copper Fence"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/copperfence.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/copperfence.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sssturdy copper fence.",
+      "Por": "Cerca resistente de cobre."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/copperfence.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/copperfence.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This copper fence is much stronger than wood."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/copperfence.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/copperfence.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This here fence is made outta copper.",
+      "Por": "Esta cerca aqui é feita de cobre."
+    }
+  }
+]

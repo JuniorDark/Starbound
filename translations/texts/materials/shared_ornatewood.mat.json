@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ornatewood.matitem": [
+        "/description"
+      ],
+      "tiles/materials/ornatewood.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Expertly treated ornate wood.",
+      "Por": "Madeira ornamentada habilmente tratada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ornatewood.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/ornatewood.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran likess sspecial treated wood.",
+      "Por": "Floran gosta de madeira tratada especial."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ornatewood.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/ornatewood.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ornate Wood",
+      "Por": "Ornate Wood"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ornatewood.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/ornatewood.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This wood looks like it's been treated with somethin'.",
+      "Por": "Essa madeira parece ter sido tratada com alguma coisa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ornatewood.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/ornatewood.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This wood was specially treated by a master craftsman."
+    }
+  }
+]

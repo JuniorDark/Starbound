@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/dungeon/robotchicken/robotchicken.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's been constructed to resemble a Chicken, there are still some kinks to work out.",
+      "Por": "Ela foi construída para se assemelhar a uma galinha, ainda precisa de alguns ajustes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/dungeon/robotchicken/robotchicken.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Robotic Chicken",
+      "Por": "Robotic Chicken"
+    }
+  }
+]

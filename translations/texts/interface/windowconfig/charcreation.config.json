@@ -1,0 +1,207 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/charcreation.config": [
+        "/paneLayout/labelCasualMode/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "CASUAL",
+      "Por": "CASUAL"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/charcreation.config": [
+        "/paneLayout/saveChar/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Done",
+      "Por": "Terminar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/charcreation.config": [
+        "/paneLayout/mode/buttons/1/data/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eat to survive, drop items on death.",
+      "Por": "Coma para sobreviver, larga itens ao morrer."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/charcreation.config": [
+        "/paneLayout/labelHardcoreMode/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "HARDCORE",
+      "Por": "HARDCORE"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/charcreation.config": [
+        "/paneLayout/name/hint"
+      ]
+    },
+    "Texts": {
+      "Eng": "Name",
+      "Por": "Nome"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/charcreation.config": [
+        "/paneLayout/mode/buttons/0/data/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "No need to eat and no death penalties.",
+      "Por": "Não precisa comer e sem penalidades de morte."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/charcreation.config": [
+        "/paneLayout/labelRandomise/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "RANDOMISE:",
+      "Por": "ALEATÓRIO:"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/charcreation.config": [
+        "/paneLayout/labelSurvivalMode/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "SURVIVAL",
+      "Por": "SURVIVAL"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/charcreation.config": [
+        "/paneLayout/labelToggleClothing/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Show clothing",
+      "Por": "Mostrar roupas"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/charcreation.config": [
+        "/paneLayout/lblSkipIntro/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Skip intro mission",
+      "Por": "Pular missão de introdução"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/charcreation.config": [
+        "/paneLayout/mode/buttons/2/data/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "When you die your character stays dead!",
+      "Por": "Ao morrer seu personagem permanece morto!"
+    }
+  },
+  {
+    "Comment": "Expressão regular (não para tradução, mas para apoiar nomes em alfabeto cirílico)",
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/charcreation.config": [
+        "/paneLayout/name/regex"
+      ]
+    },
+    "Texts": {
+      "Eng": "[a-zA-Z0-9 '-]{0,16}",
+      "Por": "[a-zA-ZÀ-ɏ0-9 '-]{0,16}"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/charcreation.config": [
+        "/paneLayout/labelCustomise/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#8d8d8d;CUSTOMISE",
+      "Por": "^#8d8d8d;PERSONALIZAR"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/charcreation.config": [
+        "/paneLayout/labelDifficulty/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#8d8d8d;DIFFICULTY",
+      "Por": "^#8d8d8d;DIFICULDADE"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/charcreation.config": [
+        "/paneLayout/labelGender/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#8d8d8d;GENDER",
+      "Por": "^#8d8d8d;GÊNERO"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/charcreation.config": [
+        "/paneLayout/labelName/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#8d8d8d;NAME",
+      "Por": "^#8d8d8d;NOME"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/charcreation.config": [
+        "/paneLayout/labelSpeciesRadio/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#8d8d8d;SPECIES",
+      "Por": "^#8d8d8d;ESPÉCIES"
+    }
+  }
+]

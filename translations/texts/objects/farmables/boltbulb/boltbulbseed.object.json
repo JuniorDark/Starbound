@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/boltbulb/boltbulbseed.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metallic vegetable? I'll try anythin' once.",
+      "Por": "Um vegetal metálico? Eu vou experimentar qualquer hora."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/boltbulb/boltbulbseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Grows boltbulb! Surprisingly soft.",
+      "Por": "Cresce boltbulb! Surpreendentemente macio."
+    }
+  }
+]

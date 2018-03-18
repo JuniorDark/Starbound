@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/walkers/yokat/yokat.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Greedy and sly in nature. If disturbed whilst sneaking it will give you the evil eye.",
+      "Por": "Ganancioso e astuto na natureza. Se perturbado enquanto escondido ele vai te dar mau-olhado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/walkers/yokat/yokat.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Yokat",
+      "Por": "Yokat"
+    }
+  }
+]

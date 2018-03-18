@@ -1,0 +1,27 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/outpostapexrefugee.npctype": [
+        "/scriptConfig/dialog/converse/apex/default/0",
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hello, star traveller! A friendly face is always welcome here.",
+      "Por": "Olá, estrela viajante! Um rosto amigável é sempre bem-vindo aqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/outpostapexrefugee.npctype": [
+        "/scriptConfig/dialog/converse/apex/apex/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "We are both free of the Miniknog here!",
+      "Por": "Nós dois estamos livres do Miniknog aqui!"
+    }
+  }
+]

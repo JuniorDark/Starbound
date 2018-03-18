@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/tungstenbar.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ore for tungsten bars is primarily found on planets orbiting gentle stars.",
+      "Por": "Tungstênio é encontrado principalmente em planetas que orbitam estrelas suaves."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/tungstenbar.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tungsten Bar",
+      "Por": "Tungsten Bar"
+    }
+  }
+]

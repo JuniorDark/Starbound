@@ -1,0 +1,55 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Floran usa isso para adicionar maisss coisas para replicator."
+    ],
+    "Files": {
+      "objects/crafting/upgradeablecraftingobjects/craftinganvil/addons/acceleratoraddon/acceleratoraddon.object": [
+        "/floranDescription"
+      ],
+      "objects/crafting/upgradeablecraftingobjects/craftinganvil/addons/manipulatoraddon/manipulatoraddon.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran use thisss to add more thingss to replicator.",
+      "Por": "Floran usa isso para adicionar maisss coisass para replicator."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/upgradeablecraftingobjects/craftinganvil/addons/acceleratoraddon/acceleratoraddon.object": [
+        "/avianDescription"
+      ],
+      "objects/crafting/upgradeablecraftingobjects/craftinganvil/addons/manipulatoraddon/manipulatoraddon.object": [
+        "/avianDescription"
+      ],
+      "objects/crafting/upgradeablecraftingobjects/craftinganvil/addons/separatoraddon/separatoraddon.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can use this to add extra equipment and armour to the replicator.",
+      "Por": "Posso usar isso para adicionar equipamento e armadura extra para o replicator."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/upgradeablecraftingobjects/craftinganvil/addons/acceleratoraddon/acceleratoraddon.object": [
+        "/novakidDescription"
+      ],
+      "objects/crafting/upgradeablecraftingobjects/craftinganvil/addons/manipulatoraddon/manipulatoraddon.object": [
+        "/novakidDescription"
+      ],
+      "objects/crafting/upgradeablecraftingobjects/craftinganvil/addons/separatoraddon/separatoraddon.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This handy ol' module will add even more to the replicator.",
+      "Por": "Este módulo prático irá acrescentar ainda mais ao replicator."
+    }
+  }
+]

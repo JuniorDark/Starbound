@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/copperblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/copperblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Copper Gear Block",
+      "Por": "Copper Gear Block"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/copperblock.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/copperblock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Copper blocks, they look sorta like gears.",
+      "Por": "Blocos de cobre, eles parecem levemente como engrenagens."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/copperblock.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/copperblock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Copper blockss like machine gearss.",
+      "Por": "Blocoss de cobre como engrenagenss de máquina."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/copperblock.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/copperblock.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I find the gear shape of these blocks pleasing."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/copperblock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/copperblock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This copper block has a distinct gear-like imprint.",
+      "Por": "Este bloco de cobre tem umas marcas distintas de engrenagem."
+    }
+  }
+]

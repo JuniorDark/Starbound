@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/dash/dash.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dash",
+      "Por": "Arrancada"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/dash/dash.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Double tap ^green;[A]^white; or ^green;[D] ^white;to quickly dash! Cooldown: 0.8s",
+      "Por": "Aperte duas vezes ^green;[A]^white; ou ^green;[D] ^white;para arrancar rapidamente! Recarga: 0.8s"
+    }
+  }
+]

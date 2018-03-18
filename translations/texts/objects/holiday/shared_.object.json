@@ -1,0 +1,52 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Uma caixa de presente muito rosa."
+    ],
+    "Files": {
+      "objects/holiday/bigpresent/bigpresent.object": [
+        "/avianDescription"
+      ],
+      "objects/holiday/giftmonsterbox/giftmonsterbox.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A pretty pink gift box.",
+      "Por": "Uma caixa de presente rosa bonita."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/holiday/bigpresent/bigpresent.object": [
+        "/hylotlDescription"
+      ],
+      "objects/holiday/giftmonsterbox/giftmonsterbox.object": [
+        "/hylotlDescription"
+      ],
+      "objects/holiday/giftmonsterbox/giftmonstersmallbox.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An impeccably wrapped box.",
+      "Por": "Uma caixa impecavelmente embrulhada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/holiday/bigpresent/bigpresent.object": [
+        "/apexDescription"
+      ],
+      "objects/holiday/giftmonsterbox/giftmonsterbox.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a big gift box.",
+      "Por": "É uma grande caixa de presente."
+    }
+  }
+]

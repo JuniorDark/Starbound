@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/aztec.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/aztec.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran cannot undersstand ssymbolss.",
+      "Por": "Floran não entende ssímboloss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/aztec.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/aztec.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Glyph Block",
+      "Por": "Glyph Block"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/aztec.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/aztec.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I do not know what these glyphs say."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/aztec.matitem": [
+        "/description"
+      ],
+      "tiles/materials/aztec.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Small glyphs cover this stone.",
+      "Por": "Pequenos glifos cobrem esta pedra."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/aztec.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/aztec.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some kinda ol' lookin' symbols.",
+      "Por": "Algum tipo de símbolo antigo."
+    }
+  }
+]

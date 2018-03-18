@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/protectoratehallstudent3.npctype": [
+        "/scriptConfig/dialog/converse/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Embarassed. Hopefully nobody notices the coffee stains on my uniform...",
+      "Por": "Envergonhado. Espero que ninguém perceba as manchas de café no meu uniforme..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/protectoratehallstudent3.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nervous. Do I look ok? I polished my head this morning.",
+      "Por": "Nervoso. Eu estou bem? Eu poli minha cabeça esta manhã."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/protectoratehallstudent3.npctype": [
+        "/scriptConfig/dialog/converse/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Regretful. Maybe I should have oiled my joints this morning.",
+      "Por": "Arrependido. Talvez eu devesse ter lubrificado minhas articulações esta manhã."
+    }
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/shiprepair.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Become Space-worthy",
+      "Por": "Torne-se Digno do Espaço "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/shiprepair.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "First thing first though, dear; you need a ^orange;ship in good working order^reset;. Who knows how far you'll have to travel before we're done. I think you should ^green;return to the Outpost and speak to ^orange;Penguin Pete the shipyard captain^reset;.",
+      "Por": "Em primeiro lugar, querido(a), você precisa de uma ^orange;nave em boas condições de funcionamento^reset;. Quem sabe o quão longe você vai ter que viajar antes de acabarmos. Acho que você deveria voltar para o ^green;Posto Avançado e falar com ^orange;Penguin Pete o capitão do estaleiro.^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/shiprepair.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "That was no mean feat - well done, dear. Now that your ship is in full working order we can get started on the task at hand.",
+      "Por": "Isso não foi uma tarefa fácil - bem feito, querido(a). Agora que sua nave está em pleno funcionamento, podemos começar a fazer a tarefa em questão."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/shiprepair.questtemplate": [
+        "/scriptConfig/descriptions/findMechanic"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Find ^orange;Penguin Pete^white; at the ^orange;outpost^white;",
+      "Por": "^green;Encontre ^orange;Penguin Pete^white; no ^orange;posto avançado^white;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/shiprepair.questtemplate": [
+        "/scriptConfig/descriptions/repairShip"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Repair your ^orange;ship^reset;.",
+      "Por": "^green;Conserte sua ^orange;nave^reset;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/shiprepair.questtemplate": [
+        "/scriptConfig/descriptions/findEsther"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Talk to ^orange;Esther Bright^white; at the ^orange;Ark^white;",
+      "Por": "^green;Fale com ^orange;Esther Bright^white; no ^orange;Ark^white;"
+    }
+  }
+]

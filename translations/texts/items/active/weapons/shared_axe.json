@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Projetado para cortar eficaz.",
+      "Projetado para cortar eficientemente."
+    ],
+    "Files": {
+      "items/active/weapons/melee/axe/commonaxe.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/axe/rareaxe.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/axe/uncommonaxe.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/npc/npcaxe.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Designed for effective chopping.",
+      "Por": "Projetado para cortar eficazmente."
+    }
+  }
+]

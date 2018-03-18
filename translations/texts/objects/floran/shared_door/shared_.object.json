@@ -1,0 +1,66 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/bamboodoor/bamboodoor.object": [
+        "/shortdescription"
+      ],
+      "objects/floran/huntingdoor1/huntingdoor1.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bamboo Door",
+      "Por": "Bamboo Door"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Os Floran parecem ser capazes de dobrar a natureza à sua vontade. Não é pouca coisa."
+    ],
+    "Files": {
+      "objects/floran/bamboodoor/bamboodoor.object": [
+        "/hylotlDescription"
+      ],
+      "objects/floran/huntingdoor1/huntingdoor1.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Floran appear to be able to bend nature to their will. No small feat.",
+      "Por": "Os Floran parecem poder dobrar a natureza à sua vontade."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/bamboodoor/bamboodoor.object": [
+        "/avianDescription"
+      ],
+      "objects/floran/huntingdoor1/huntingdoor1.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The plant used to make this door feels as solid as stone.",
+      "Por": "A planta usada para fazer esta porta é tão sólida como pedra."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Esta porta é pouco adequado para manter o clima fora."
+    ],
+    "Files": {
+      "objects/floran/florandoor/florandoor.object": [
+        "/description"
+      ],
+      "objects/floran/huntingdoor1/huntingdoor1.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This door is hardly suitable for keeping the weather out.",
+      "Por": "Esta porta não é adequada para manter o clima fora."
+    }
+  }
+]

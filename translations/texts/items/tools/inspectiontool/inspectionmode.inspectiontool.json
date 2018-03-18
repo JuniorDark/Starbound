@@ -1,0 +1,273 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/inspectiontool/inspectionmode.inspectiontool": [
+        "/nothingThereText/novakid/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ain't nothin' of interest there.",
+      "Por": "Não há nada de interesse ali."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/inspectiontool/inspectionmode.inspectiontool": [
+        "/outOfRangeText/novakid/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can't see that from here.",
+      "Por": "Não consigo ver isso daqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/inspectiontool/inspectionmode.inspectiontool": [
+        "/outOfRangeText/floran/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran can't see that ssspot.",
+      "Por": "Floran não consegue ver esse local."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/inspectiontool/inspectionmode.inspectiontool": [
+        "/outOfRangeText/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran cannot sssee from here!",
+      "Por": "Floran não consegue ver daqui!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/inspectiontool/inspectionmode.inspectiontool": [
+        "/outOfRangeText/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran needs to get closer to sssee that.",
+      "Por": "Floran precisa se aproximar para ver isso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/inspectiontool/inspectionmode.inspectiontool": [
+        "/outOfRangeText/floran/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran's not clossse enough to see that.",
+      "Por": "Floran não está perto o suficiente para ver isso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/inspectiontool/inspectionmode.inspectiontool": [
+        "/outOfRangeText/novakid/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I ain't near enough to make that out.",
+      "Por": "Não estou perto o suficiente para fazer isso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/inspectiontool/inspectionmode.inspectiontool": [
+        "/outOfRangeText/glitch/3/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I am not close enough to see that."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/inspectiontool/inspectionmode.inspectiontool": [
+        "/outOfRangeText/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can't see that from here.",
+      "Por": "Não consigo ver isso daqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/inspectiontool/inspectionmode.inspectiontool": [
+        "/outOfRangeText/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can't see that spot.",
+      "Por": "Não consigo ver esse local."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/inspectiontool/inspectionmode.inspectiontool": [
+        "/outOfRangeText/glitch/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I cannot see that from here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/inspectiontool/inspectionmode.inspectiontool": [
+        "/outOfRangeText/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I cannot see that spot from this position."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/inspectiontool/inspectionmode.inspectiontool": [
+        "/outOfRangeText/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I need to get closer to see that.",
+      "Por": "Preciso me aproximar para ver isso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/inspectiontool/inspectionmode.inspectiontool": [
+        "/nothingThereText/novakid/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm drawin' a blank.",
+      "Por": "Não há nada ali."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/inspectiontool/inspectionmode.inspectiontool": [
+        "/outOfRangeText/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm not close enough to see that.",
+      "Por": "Não estou perto o suficiente para ver isso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/inspectiontool/inspectionmode.inspectiontool": [
+        "/outOfRangeText/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm not sure what that is; perhaps I should get closer."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/inspectiontool/inspectionmode.inspectiontool": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Inspect the world around you. ^green;Quick select with [N] key.",
+      "Por": "Inspecione o mundo ao seu redor. ^green;Selecione rapidamente com a tecla [N]."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/inspectiontool/inspectionmode.inspectiontool": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Inspection Mode",
+      "Por": "Modo Inspeção"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/inspectiontool/inspectionmode.inspectiontool": [
+        "/outOfRangeText/novakid/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "My eyes ain't quite that good; oughta get closer.",
+      "Por": "Meus olhos não são tão bons, devo me aproximar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/inspectiontool/inspectionmode.inspectiontool": [
+        "/outOfRangeText/novakid/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Need to get closer to see that properly.",
+      "Por": "Preciso se aproximar para ver isso corretamente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/inspectiontool/inspectionmode.inspectiontool": [
+        "/nothingThereText/novakid/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nothin' there worth talkin' about.",
+      "Por": "Não há nada aqui que vale a pena comentar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/inspectiontool/inspectionmode.inspectiontool": [
+        "/nothingThereText/glitch/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nothing interesting."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/inspectiontool/inspectionmode.inspectiontool": [
+        "/nothingThereText/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nothing to sssee.",
+      "Por": "Nada para ver."
+    }
+  }
+]

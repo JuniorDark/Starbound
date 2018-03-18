@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/meat/rawfish.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fillet of raw fish...slimy.",
+      "Por": "Um filé de peixe cru... viscoso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/meat/rawfish.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Raw Fish",
+      "Por": "Raw Fish"
+    }
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Uma porta com trava à ar básica."
+    ],
+    "Files": {
+      "objects/outpost/outpostairlock/outpostairlock.object": [
+        "/hylotlDescription"
+      ],
+      "objects/outpost/outpostairlocklarge/outpostairlocklarge.object": [
+        "/hylotlDescription"
+      ],
+      "objects/outpost/outposthatchlarge/outposthatchlarge.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A basic airlock.",
+      "Por": "Uma eclusa de ar básica."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostairlock/outpostairlock.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/outpost/outpostairlocklarge/outpostairlocklarge.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/outpost/outposthatchlarge/outposthatchlarge.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sturdy airlock."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Uma porta com trava à ar. Útil!"
+    ],
+    "Files": {
+      "objects/outpost/outpostairlock/outpostairlock.object": [
+        "/humanDescription"
+      ],
+      "objects/outpost/outpostairlocklarge/outpostairlocklarge.object": [
+        "/humanDescription"
+      ],
+      "objects/outpost/outposthatchlarge/outposthatchlarge.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An airlock. Useful!",
+      "Por": "Uma eclusa de ar. Útil!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "É uma porta com trava à ar."
+    ],
+    "Files": {
+      "objects/outpost/outpostairlock/outpostairlock.object": [
+        "/floranDescription"
+      ],
+      "objects/outpost/outpostairlocklarge/outpostairlocklarge.object": [
+        "/floranDescription"
+      ],
+      "objects/outpost/outposthatchlarge/outposthatchlarge.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It'ss an airlock.",
+      "Por": "É uma eclusa de ar."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Parece uma porta com trava à ar."
+    ],
+    "Files": {
+      "objects/outpost/outpostairlock/outpostairlock.object": [
+        "/novakidDescription"
+      ],
+      "objects/outpost/outpostairlocklarge/outpostairlocklarge.object": [
+        "/novakidDescription"
+      ],
+      "objects/outpost/outposthatchlarge/outposthatchlarge.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looks like a airlock.",
+      "Por": "Parece uma eclusa de ar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostairlock/outpostairlock.object": [
+        "/description"
+      ],
+      "objects/outpost/outpostairlocklarge/outpostairlocklarge.object": [
+        "/description"
+      ],
+      "objects/outpost/outposthatchlarge/outposthatchlarge.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This automated door is made of some sort of bulletproof material.",
+      "Por": "Esta porta é feita de algum tipo de material à prova de balas."
+    }
+  }
+]

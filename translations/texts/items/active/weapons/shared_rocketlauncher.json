@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [
+      "O poder para explodir coisas."
+    ],
+    "Files": {
+      "items/active/weapons/npc/npcrocketlauncher.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/rocketlauncher/commonrocketlauncher.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/rocketlauncher/rarerocketlauncher.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/rocketlauncher/uncommonrocketlauncher.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The power to blow stuff up.",
+      "Por": "O poder para explodir as coisas."
+    }
+  }
+]

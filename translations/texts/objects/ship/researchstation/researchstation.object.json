@@ -1,0 +1,133 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/researchstation/researchstation.object": [
+        "/interactData/paneLayoutOverride/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": " Develop specialised technologies",
+      "Por": "Desenvolva tecnologias especializadas"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/researchstation/researchstation.object": [
+        "/interactData/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": " Research Station",
+      "Por": "Estação de Pesquisa"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/researchstation/researchstation.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A research table.",
+      "Por": "Uma mesa de pesquisa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/researchstation/researchstation.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can be used to develop highly specialized equipment.",
+      "Por": "Pode ser usada para desenvolver equipamento altamente especializado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/researchstation/researchstation.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran can create ssspecialised thingsss.",
+      "Por": "Floran pode criar coisasss especializadasss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/researchstation/researchstation.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can craft specialised items here!",
+      "Por": "Posso criar itens especializados aqui!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/researchstation/researchstation.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can create all kinda specialised things here!",
+      "Por": "Posso criar todos os tipos coisas especializados aqui!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/researchstation/researchstation.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can create specialised stations and devices with this.",
+      "Por": "Posso criar estações especializadas e dispositivos com isso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/researchstation/researchstation.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This table is well-suited to the research and development of new items."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/researchstation/researchstation.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This table seems well equipped for the development of new technologies.",
+      "Por": "Esta mesa parece bem equipada para o desenvolvimento de novas tecnologias."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/researchstation/researchstation.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Research Station^white;",
+      "Por": "^orange;Research Station^white;"
+    }
+  }
+]

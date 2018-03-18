@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alienrock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/alienrock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alien Rock",
+      "Por": "Alien Rock"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alienrock.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/alienrock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran like sstrange rocks.",
+      "Por": "Floran gosta de rochas estranhass."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alienrock.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/alienrock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some kinda alien lookin' rock.",
+      "Por": "Algum tipo de rocha alienígena."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alienrock.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/alienrock.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This rock is of an alien origin."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alienrock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/alienrock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This strange rock comes from an alien world.",
+      "Por": "Esta rocha estranha vem de um mundo alienígena."
+    }
+  }
+]

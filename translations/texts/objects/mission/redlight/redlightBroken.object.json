@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/redlight/redlightBroken.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Broken Red Light",
+      "Por": "Broken Red Light"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/redlight/redlightBroken.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Light make dizzy!",
+      "Por": "Luz deixa tonta!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/redlight/redlightBroken.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This light ain't havin' a good time.",
+      "Por": "Esta luz não está passando bem."
+    }
+  }
+]

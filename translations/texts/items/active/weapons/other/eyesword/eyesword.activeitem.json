@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/other/eyesword/eyesword.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Oculus Reaver",
+      "Por": "Oculus Reaver"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/other/eyesword/eyesword.activeitem": [
+        "/upgradeParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Oculus Reaver ^yellow;^reset;",
+      "Por": "Oculus Reaver ^yellow;^reset;"
+    }
+  }
+]

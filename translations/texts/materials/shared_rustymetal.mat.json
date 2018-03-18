@@ -1,0 +1,78 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Metal velho incrustado com ferrugem."
+    ],
+    "Files": {
+      "items/materials/rustymetal.matitem": [
+        "/description"
+      ],
+      "tiles/materials/rustymetal.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Old metal encrusted with rust.",
+      "Por": "Um bloco de metal velho e enferrujado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rustymetal.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/rustymetal.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Russst covered metal.",
+      "Por": "Blocoss de metal enferrujadoss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rustymetal.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/rustymetal.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rusty Metal",
+      "Por": "Rusty Metal"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rustymetal.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/rustymetal.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some ol' metal covered in thick rust.",
+      "Por": "Algum metal velho coberto de ferrugem grossa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rustymetal.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/rustymetal.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The rust on this metal makes me very uncomfortable."
+    }
+  }
+]

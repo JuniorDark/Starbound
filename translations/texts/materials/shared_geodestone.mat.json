@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/geodestone.matitem": [
+        "/description"
+      ],
+      "tiles/materials/geodestone.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A solid stone filled with small geode crystals.",
+      "Por": "Uma pedra sólida preenchida com pequenos cristais de geodo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/geodestone.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/geodestone.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran likess tiny crysstals in geode sstone.",
+      "Por": "Floran gosta de cristais minúsculos em pedra geodo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/geodestone.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/geodestone.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Geode Stone",
+      "Por": "Geode Stone"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/geodestone.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/geodestone.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "There are tiny geode crystals inside this stone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/geodestone.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/geodestone.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This stone is full'a tiny geode crystals.",
+      "Por": "Esta pedra está cheia de minúsculos cristais de geodo."
+    }
+  }
+]

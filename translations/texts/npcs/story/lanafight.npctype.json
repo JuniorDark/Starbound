@@ -1,0 +1,62 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/lanafight.npctype": [
+        "/scriptConfig/dialog/leave/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Good work, soldier. I will see you back at the Ark.",
+      "Por": "Bom trabalho, soldado. Vejo você lá no Ark."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/lanafight.npctype": [
+        "/scriptConfig/dialog/start/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hello, soldier. Let's take care of this situation, shall we?",
+      "Por": "Olá, soldado. Vamos cuidar dessa situação, não é?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/lanafight.npctype": [
+        "/scriptConfig/dialog/attack/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm engaging the enemy!",
+      "Por": "Estou enfrentando o inimigo!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/lanafight.npctype": [
+        "/scriptConfig/dialog/attack/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Target sighted!",
+      "Por": "Alvo avistado!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/lanafight.npctype": [
+        "/scriptConfig/dialog/attack/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "The target is in my sights!",
+      "Por": "O alvo está na minha mira!"
+    }
+  }
+]

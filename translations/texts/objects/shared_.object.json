@@ -1,0 +1,703 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/medievallargecookingpot/medievallargecookingpot.object": [
+        "/interactData/paneLayoutOverride/windowtitle/subtitle"
+      ],
+      "objects/human/oven1/oven1.object": [
+        "/interactData/paneLayoutOverride/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Yum, yum",
+      "Por": "Yum, yum"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkerceilinglight1/bunkerceilinglight1.object": [
+        "/avianDescription"
+      ],
+      "objects/human/bunkerceilinglight2/bunkerceilinglight2.object": [
+        "/avianDescription"
+      ],
+      "objects/outpost/penguinbarlamp/penguinbarlamp.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A ceiling light.",
+      "Por": "Uma luz de teto."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkerceilinglight1/bunkerceilinglight1.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/human/bunkerceilinglight2/bunkerceilinglight2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/hylotl/underwaterlightsmall/underwaterlightsmall.object": [
+        "/hylotlDescription"
+      ],
+      "objects/outpost/penguinbarlamp/penguinbarlamp.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A light fixture.",
+      "Por": "Uma luminária."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Uma luminária de teto metálica."
+    ],
+    "Files": {
+      "objects/human/bunkerceilinglight1/bunkerceilinglight1.object": [
+        "/description"
+      ],
+      "objects/human/bunkerceilinglight2/bunkerceilinglight2.object": [
+        "/description"
+      ],
+      "objects/outpost/penguinbarlamp/penguinbarlamp.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metallic ceiling lamp.",
+      "Por": "Uma lâmpada de teto metálica."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "A luz de teto metálica."
+    ],
+    "Files": {
+      "objects/human/bunkerceilinglight1/bunkerceilinglight1.object": [
+        "/apexDescription"
+      ],
+      "objects/human/bunkerceilinglight2/bunkerceilinglight2.object": [
+        "/apexDescription"
+      ],
+      "objects/outpost/penguinbarlamp/penguinbarlamp.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metallic ceiling light.",
+      "Por": "Uma luz de teto metálica."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/apexlamp3/apexlamp3.object": [
+        "/description"
+      ],
+      "objects/hylotl/hylotllantern1/hylotllantern1.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A paper ceiling lamp.",
+      "Por": "Uma lâmpada de teto de papel."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "A luz de teto de aparência simples."
+    ],
+    "Files": {
+      "objects/human/bunkerceilinglight1/bunkerceilinglight1.object": [
+        "/novakidDescription"
+      ],
+      "objects/human/bunkerceilinglight2/bunkerceilinglight2.object": [
+        "/novakidDescription"
+      ],
+      "objects/outpost/penguinbarlamp/penguinbarlamp.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A plain lookin' ceilin' light.",
+      "Por": "Uma luz de teto de aparência simples."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/ancientlight/ancientlight.object": [
+        "/description"
+      ],
+      "objects/hylotl/underwaterlightsmall/underwaterlightsmall.object": [
+        "/avianDescription"
+      ],
+      "objects/outpost/outpostlamp/outpostlamp.object": [
+        "/description"
+      ],
+      "objects/outpost/outpostlight/outpostlight.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A wall light.",
+      "Por": "Uma luz de parede."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkerceilinglight1/bunkerceilinglight1.object": [
+        "/hylotlDescription"
+      ],
+      "objects/human/bunkerceilinglight2/bunkerceilinglight2.object": [
+        "/hylotlDescription"
+      ],
+      "objects/outpost/penguinbarlamp/penguinbarlamp.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An uninteresting ceiling light.",
+      "Por": "Uma luz de teto desinteressante."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Hylotl fazem cortinasss de veludo pesado, Floran faz cortina de pele."
+    ],
+    "Files": {
+      "objects/apex/classiccurtain1/classiccurtain1.object": [
+        "/floranDescription"
+      ],
+      "objects/apex/classiccurtain2/classiccurtain2.object": [
+        "/floranDescription"
+      ],
+      "objects/apex/classiccurtain3/classiccurtain3.object": [
+        "/floranDescription"
+      ],
+      "objects/hylotl/combinationprop/combinationprop.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Apex make curtain from heavy velvet, Floran make curtain from ssskin.",
+      "Por": "Apex fazem cortinasss de veludo pesado, Floran faz cortina de pele."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodencrate1/woodencrate1.object": [
+        "/floranDescription"
+      ],
+      "objects/generic/woodencrate2/woodencrate2.object": [
+        "/floranDescription"
+      ],
+      "objects/holiday/bigpresent/bigpresent.object": [
+        "/floranDescription"
+      ],
+      "objects/holiday/giftmonsterbox/giftmonsterbox.object": [
+        "/floranDescription"
+      ],
+      "objects/holiday/giftmonsterbox/giftmonstersmallbox.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Box!",
+      "Por": "Caixa!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/classiccurtain1/classiccurtain1.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/apex/classiccurtain2/classiccurtain2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/apex/classiccurtain3/classiccurtain3.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/hylotl/classicbanner1/classicbanner1.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/hylotl/classicbanner2/classicbanner2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/hylotl/classicbanner2b/classicbanner2b.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/hylotl/classicbanner3/classicbanner3.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/hylotl/combinationprop/combinationprop.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Few objects are as pleasurable to caress."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Lâmpada pendurada."
+    ],
+    "Files": {
+      "objects/human/bunkerceilinglight1/bunkerceilinglight1.object": [
+        "/floranDescription"
+      ],
+      "objects/human/bunkerceilinglight2/bunkerceilinglight2.object": [
+        "/floranDescription"
+      ],
+      "objects/outpost/penguinbarlamp/penguinbarlamp.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hanging lamp.",
+      "Por": "Lâmpada suspensa."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Eu odeio ficar preso sob isso quando ele fecha."
+    ],
+    "Files": {
+      "objects/avian/bardoor2/bardoor2.object": [
+        "/humanDescription"
+      ],
+      "objects/generic/portcullis/portcullis.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'd hate to get stuck under this as it closes.",
+      "Por": "Eu odiaria ficar preso sob isso quando ele fechar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/apexcoolcupboard/apexcoolcupboard.object": [
+        "/avianDescription"
+      ],
+      "objects/generic/woodencrate1/woodencrate1.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/generic/woodencrate2/woodencrate2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/holiday/bigpresent/bigpresent.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/holiday/giftmonsterbox/giftmonsterbox.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/holiday/giftmonsterbox/giftmonstersmallbox.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Is there anything inside?",
+      "Por": "Tem algo dentro?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/underwaterlightsmall/underwaterlightsmall.object": [
+        "/apexDescription"
+      ],
+      "objects/outpost/outpostlamp/outpostlamp.object": [
+        "/avianDescription"
+      ],
+      "objects/outpost/outpostlight/outpostlight.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a wall light.",
+      "Por": "É uma luz de parede."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/medievalpressureplate/medievalpressureplate.object": [
+        "/shortdescription"
+      ],
+      "objects/wired/proximitysensor/proximitysensor.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pressure Plate",
+      "Por": "Pressure Plate"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/classiccurtain1/classiccurtain1.object": [
+        "/avianDescription"
+      ],
+      "objects/apex/classiccurtain2/classiccurtain2.object": [
+        "/avianDescription"
+      ],
+      "objects/apex/classiccurtain3/classiccurtain3.object": [
+        "/avianDescription"
+      ],
+      "objects/hylotl/classicbanner1/classicbanner1.object": [
+        "/avianDescription"
+      ],
+      "objects/hylotl/classicbanner2/classicbanner2.object": [
+        "/avianDescription"
+      ],
+      "objects/hylotl/classicbanner2b/classicbanner2b.object": [
+        "/avianDescription"
+      ],
+      "objects/hylotl/classicbanner3/classicbanner3.object": [
+        "/avianDescription"
+      ],
+      "objects/hylotl/combinationprop/combinationprop.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Soft to the touch.",
+      "Por": "Suave ao toque."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/ancienthiddenplatform/ancienthiddenplatform.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avian/templehiddendoor/templehiddendoor.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avian/templehiddentrapdoor/templehiddentrapdoor.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/glitch/castlehiddendoor/castlehiddendoor.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/glitch/castlehiddentrapdoor/castlehiddentrapdoor.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/mission/dirttrapdoor/dirttrapdoor.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Something is hidden here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/apexcoolcupboard/apexcoolcupboard.object": [
+        "/floranDescription"
+      ],
+      "objects/generic/locker1/locker1.object": [
+        "/floranDescription"
+      ],
+      "objects/generic/locker2/locker2.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/apexshiplocker/apexshiplocker.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/avianshiplocker/avianshiplocker.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssstorage.",
+      "Por": "Armazenamento."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/bardoor2/bardoor2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/generic/portcullis/portcullis.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Glitch create their portcullis at a much larger scale."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "A cortina elegante."
+    ],
+    "Files": {
+      "objects/apex/classiccurtain1/classiccurtain1.object": [
+        "/description"
+      ],
+      "objects/hylotl/classicbanner1/classicbanner1.object": [
+        "/description"
+      ],
+      "objects/hylotl/classicbanner2/classicbanner2.object": [
+        "/description"
+      ],
+      "objects/hylotl/classicbanner2b/classicbanner2b.object": [
+        "/description"
+      ],
+      "objects/hylotl/classicbanner3/classicbanner3.object": [
+        "/description"
+      ],
+      "objects/hylotl/combinationprop/combinationprop.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The classiest curtain.",
+      "Por": "A cortina mais elegante."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/classiccurtain1/classiccurtain1.object": [
+        "/hylotlDescription"
+      ],
+      "objects/apex/classiccurtain2/classiccurtain2.object": [
+        "/hylotlDescription"
+      ],
+      "objects/apex/classiccurtain3/classiccurtain3.object": [
+        "/hylotlDescription"
+      ],
+      "objects/hylotl/classicbanner1/classicbanner1.object": [
+        "/hylotlDescription"
+      ],
+      "objects/hylotl/classicbanner2/classicbanner2.object": [
+        "/hylotlDescription"
+      ],
+      "objects/hylotl/classicbanner2b/classicbanner2b.object": [
+        "/hylotlDescription"
+      ],
+      "objects/hylotl/classicbanner3/classicbanner3.object": [
+        "/hylotlDescription"
+      ],
+      "objects/hylotl/combinationprop/combinationprop.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These curtains almost stick to Hylotl skin.",
+      "Por": "Estas cortinas quase grudam na pele Hylotl."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/classiccurtain1/classiccurtain1.object": [
+        "/humanDescription"
+      ],
+      "objects/apex/classiccurtain2/classiccurtain2.object": [
+        "/humanDescription"
+      ],
+      "objects/apex/classiccurtain3/classiccurtain3.object": [
+        "/humanDescription"
+      ],
+      "objects/hylotl/classicbanner1/classicbanner1.object": [
+        "/humanDescription"
+      ],
+      "objects/hylotl/classicbanner2/classicbanner2.object": [
+        "/humanDescription"
+      ],
+      "objects/hylotl/classicbanner2b/classicbanner2b.object": [
+        "/humanDescription"
+      ],
+      "objects/hylotl/classicbanner3/classicbanner3.object": [
+        "/humanDescription"
+      ],
+      "objects/hylotl/combinationprop/combinationprop.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These curtains belong in a mansion.",
+      "Por": "Estas cortinas pertencem a uma mansão."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/tentacle/tentaclespike/tentaclespike.object": [
+        "/novakidDescription"
+      ],
+      "objects/obstacles/arid/ceilingspike1/ceilingspike1.object": [
+        "/novakidDescription"
+      ],
+      "objects/obstacles/arid/ceilingspike2/ceilingspike2.object": [
+        "/novakidDescription"
+      ],
+      "objects/obstacles/arid/ceilingspike3/ceilingspike3.object": [
+        "/novakidDescription"
+      ],
+      "objects/obstacles/arid/ceilingspike4/ceilingspike4.object": [
+        "/novakidDescription"
+      ],
+      "objects/obstacles/arid/groundspike1/groundspike1.object": [
+        "/novakidDescription"
+      ],
+      "objects/obstacles/arid/groundspike2/groundspike2.object": [
+        "/novakidDescription"
+      ],
+      "objects/obstacles/arid/groundspike3/groundspike3.object": [
+        "/novakidDescription"
+      ],
+      "objects/obstacles/arid/groundspike4/groundspike4.object": [
+        "/novakidDescription"
+      ],
+      "objects/obstacles/arid/thorns1/thorns1.object": [
+        "/novakidDescription"
+      ],
+      "objects/obstacles/arid/thorns2/thorns2.object": [
+        "/novakidDescription"
+      ],
+      "objects/obstacles/arid/thorns3/thorns3.object": [
+        "/novakidDescription"
+      ],
+      "objects/obstacles/arid/thorns4/thorns4.object": [
+        "/novakidDescription"
+      ],
+      "objects/obstacles/desert/desertceilingspike1/desertceilingspike1.object": [
+        "/novakidDescription"
+      ],
+      "objects/obstacles/desert/desertceilingspike2/desertceilingspike2.object": [
+        "/novakidDescription"
+      ],
+      "objects/obstacles/desert/desertceilingspike3/desertceilingspike3.object": [
+        "/novakidDescription"
+      ],
+      "objects/obstacles/desert/desertceilingspike4/desertceilingspike4.object": [
+        "/novakidDescription"
+      ],
+      "objects/obstacles/desert/desertgroundspike1/desertgroundspike1.object": [
+        "/novakidDescription"
+      ],
+      "objects/obstacles/desert/desertgroundspike2/desertgroundspike2.object": [
+        "/novakidDescription"
+      ],
+      "objects/obstacles/desert/desertgroundspike3/desertgroundspike3.object": [
+        "/novakidDescription"
+      ],
+      "objects/obstacles/desert/desertgroundspike4/desertgroundspike4.object": [
+        "/novakidDescription"
+      ],
+      "objects/obstacles/green/greenceilingspike1/greenceilingspike1.object": [
+        "/novakidDescription"
+      ],
+      "objects/obstacles/green/greenceilingspike2/greenceilingspike2.object": [
+        "/novakidDescription"
+      ],
+      "objects/obstacles/green/greenceilingspike3/greenceilingspike3.object": [
+        "/novakidDescription"
+      ],
+      "objects/obstacles/green/greenceilingspike4/greenceilingspike4.object": [
+        "/novakidDescription"
+      ],
+      "objects/obstacles/green/greengroundspike1/greengroundspike1.object": [
+        "/novakidDescription"
+      ],
+      "objects/obstacles/green/greengroundspike2/greengroundspike2.object": [
+        "/novakidDescription"
+      ],
+      "objects/obstacles/green/greengroundspike3/greengroundspike3.object": [
+        "/novakidDescription"
+      ],
+      "objects/obstacles/green/greengroundspike4/greengroundspike4.object": [
+        "/novakidDescription"
+      ],
+      "objects/obstacles/ice/icespike/icespike.object": [
+        "/novakidDescription"
+      ],
+      "objects/obstacles/ice/icestalactite1/icestalactite1.object": [
+        "/novakidDescription"
+      ],
+      "objects/obstacles/ice/icestalactite2/icestalactite2.object": [
+        "/novakidDescription"
+      ],
+      "objects/obstacles/ice/icestalactite3/icestalactite3.object": [
+        "/novakidDescription"
+      ],
+      "objects/obstacles/ice/icestalactite4/icestalactite4.object": [
+        "/novakidDescription"
+      ],
+      "objects/obstacles/ice/icestalagmite1/icestalagmite1.object": [
+        "/novakidDescription"
+      ],
+      "objects/obstacles/ice/icestalagmite2/icestalagmite2.object": [
+        "/novakidDescription"
+      ],
+      "objects/obstacles/ice/icestalagmite3/icestalagmite3.object": [
+        "/novakidDescription"
+      ],
+      "objects/obstacles/ice/icestalagmite4/icestalagmite4.object": [
+        "/novakidDescription"
+      ],
+      "objects/obstacles/magma/magmaceilingspike1/magmaceilingspike1.object": [
+        "/novakidDescription"
+      ],
+      "objects/obstacles/magma/magmaceilingspike2/magmaceilingspike2.object": [
+        "/novakidDescription"
+      ],
+      "objects/obstacles/magma/magmaceilingspike3/magmaceilingspike3.object": [
+        "/novakidDescription"
+      ],
+      "objects/obstacles/magma/magmagroundspike1/magmagroundspike1.object": [
+        "/novakidDescription"
+      ],
+      "objects/obstacles/magma/magmagroundspike2/magmagroundspike2.object": [
+        "/novakidDescription"
+      ],
+      "objects/obstacles/magma/magmagroundspike3/magmagroundspike3.object": [
+        "/novakidDescription"
+      ],
+      "objects/obstacles/savannah/savannahceilingspike1/savannahceilingspike1.object": [
+        "/novakidDescription"
+      ],
+      "objects/obstacles/savannah/savannahceilingspike2/savannahceilingspike2.object": [
+        "/novakidDescription"
+      ],
+      "objects/obstacles/savannah/savannahceilingspike3/savannahceilingspike3.object": [
+        "/novakidDescription"
+      ],
+      "objects/obstacles/savannah/savannahceilingspike4/savannahceilingspike4.object": [
+        "/novakidDescription"
+      ],
+      "objects/obstacles/savannah/savannahgroundspike1/savannahgroundspike1.object": [
+        "/novakidDescription"
+      ],
+      "objects/obstacles/savannah/savannahgroundspike2/savannahgroundspike2.object": [
+        "/novakidDescription"
+      ],
+      "objects/obstacles/savannah/savannahgroundspike3/savannahgroundspike3.object": [
+        "/novakidDescription"
+      ],
+      "objects/obstacles/savannah/savannahgroundspike4/savannahgroundspike4.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These sure look sharp, I'm ready to hightail it outta here!",
+      "Por": "Isso com certeza parece afiado, estou pronto para dar o fora daqui!"
+    }
+  }
+]

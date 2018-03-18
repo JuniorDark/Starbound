@@ -1,0 +1,295 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/build_home.questtemplate": [
+        "/scriptConfig/objectListText"
+      ]
+    },
+    "Texts": {
+      "Eng": "<count> <itemName>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/build_home.questtemplate": [
+        "/scriptConfig/generatedText/title/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "<questGiver>'s new friend",
+      "Por": "O novo amigo de <questGiver>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/build_home.questtemplate": [
+        "/scriptConfig/generatedText/title/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "A new friend for <questGiver>",
+      "Por": "Um novo amigo para <questGiver>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/build_home.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "All you need to do now is ^green;make a home^white; using your ^orange;<furnitureSet>, ^white;and a ^orange;Colony Deed^white;! I'll be making a new friend in no time!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/build_home.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Finally, ^green;build a new home^white; and ^green;furnish it^white; with your ^orange;<furnitureSet>.^white; Don't forget to place a ^orange;Colony Deed!^orange;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/build_home.questtemplate": [
+        "/scriptConfig/generatedText/text/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Finally, ^green;make a shelter and decorate it with ^orange;<furnitureSet>.^white;! Make sssure you ^green;place a ^orange;Colony deed,^white; too. Floran hopes new friend enjoyss hunting...",
+      "Por": "Finalmente, ^green;faça uma casa e decore com ^orange;<furnitureSet>.^white;! Certifique-se de ^green;colocar uma ^orange;Colony deed,^white; também. Floran espera que novo amigo gosste de caçar..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/build_home.questtemplate": [
+        "/scriptConfig/generatedText/text/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Finally, ^green;place ^orange;<furnitureSet>^green; in a house.^white; You trust you can handle the construction. Remember to ^green;place a ^orange;Colony Deed^white; when you're done!",
+      "Por": "Finalmente, ^green;coloque ^orange;<furnitureSet>^green; em uma casa.^white; Você confia que pode lidar com a construção. Lembre-se de ^green;colocar um ^orange;Colony Deed^white; quando você acabar!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/build_home.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have a new friend to get acquainted with - I'm sure they'll be a wonderful companion! Thank you for making this happen!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/build_home.questtemplate": [
+        "/scriptConfig/generatedText/failureText/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I was unable to help <questGiver> make a new friend. <questGiver.pronoun.capitalSubject> probably has enough friends as it is.",
+      "Por": "Eu fui incapaz de ajudar <questGiver> a fazer um novo amigo. <questGiver.pronoun.capitalSubject> provavelmente tem bastantes amigos já."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/build_home.questtemplate": [
+        "/scriptConfig/generatedText/failureText/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I was unable to help <questGiver> make a new friend. I'm sure <questGiver.pronoun.subject>'ll get over it.",
+      "Por": "Eu fui incapaz de ajudar <questGiver> a fazer um novo amigo. Tenho certeza que <questGiver.pronoun.subject> vai superar isso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/build_home.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm always surprised how fast new homes are inhabited - I guess there's a lot of demand out there! Thank you for your help."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/build_home.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "It worked! Floran has a shiny new friend. Floran appreciatesss your help.",
+      "Por": "Funcionou! Floran tem um novo amigo brilhante. Floran agradece sua ajuda."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/build_home.questtemplate": [
+        "/scriptConfig/generatedText/text/default/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now ^green;make a home and put ^orange;<furnitureSet>^white; in it, ^green;as well as a ^orange;Colony Deed.^white; Floran hopes new friend likes giftsss...",
+      "Por": "Agora ^green;faça uma casa e coloque ^orange;<furnitureSet>^white; nela, ^green;bem como uma ^orange;Colony Deed.^white; Floran espera que novo amigo goste de presentesss..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/build_home.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Success! I've finally got a new neighbour! This place gets lonely sometimes, it's nice to have folks to talk to.",
+      "Por": "Sucesso! Eu finalmente tenho um novo vizinho! Este lugar fica solitário às vezes, é bom ter pessoas para conversar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/build_home.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vacancy filled! That didn't take long! Thanks for helping expand my social network!",
+      "Por": "Vaga preenchida! Isso não demorou muito! Obrigado por ajudar a expandir minha rede social!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/build_home.questtemplate": [
+        "/scriptConfig/generatedText/text/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "We've gathered all the furnishing, but we need the house itself! ^green;Build a home and put ^orange;<furnitureSet>^green; inside.^white; Don't forget to place a ^orange;Colony Deed^white; as well!",
+      "Por": "Reunimos todo o mobiliário, mas precisamos da casa em si! ^green;Construa uma casa e coloque o ^orange;<furnitureSet>^green; dentro.^white; Não se esqueça de colocar um ^orange;Colony Deed^white; também!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/build_home.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "You helped Floran find a new friend! Floran is very grateful.",
+      "Por": "Você ajudou Floran encontrar um novo amigo! Floran é muito grato."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/build_home.questtemplate": [
+        "/scriptConfig/generatedText/goalText/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Floran thinks we could do with ssome fresh blood around here. Floran hasss a plan!",
+      "Por": "^cyan;Floran acha que poderia ser bom ter um sangue fresco por aqui. Floran tem um plano!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/build_home.questtemplate": [
+        "/scriptConfig/generatedText/goalText/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Floran wantsss more company. Let's make thiss happen!",
+      "Por": "^cyan;Floran quer maisss compania. Vamos fazer issso acontecer!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/build_home.questtemplate": [
+        "/scriptConfig/generatedText/goalText/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;I love to make friends. Help me setup a home that will entice a new neighbour!",
+      "Por": "^cyan;Gosto de fazer amigos. Ajude-me a montar uma casa que irá atrair um novo vizinho!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/build_home.questtemplate": [
+        "/scriptConfig/generatedText/goalText/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;I'm lonely and could use someone new to talk to. Could you help find me the friend I'm looking for?",
+      "Por": "^cyan;Estou sozinho e poderia ter alguém novo para conversar. Você poderia me ajudar a encontrar o amigo que eu estou procurando?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/build_home.questtemplate": [
+        "/scriptConfig/generatedText/goalText/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Introspective. I have concluded that a new friend would make me happier. Could you help me attract one?",
+      "Por": "^cyan;Introspectivo. Cheguei à conclusão de que um novo amigo me faria mais feliz. Você poderia me ajudar a atrair um?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/build_home.questtemplate": [
+        "/scriptConfig/generatedText/goalText/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Lonely. I have decided I would benefit from a new friend - And you're just the person who can help me!",
+      "Por": "^cyan;Solitário. Eu decidi que eu se beneficiaria de um novo amigo - E você é a pessoa que pode me ajudar!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/build_home.questtemplate": [
+        "/scriptConfig/doorText"
+      ]
+    },
+    "Texts": {
+      "Eng": "any door"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/build_home.questtemplate": [
+        "/scriptConfig/lightSourceText"
+      ]
+    },
+    "Texts": {
+      "Eng": "any light source"
+    }
+  }
+]

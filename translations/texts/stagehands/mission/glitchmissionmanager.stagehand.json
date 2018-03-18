@@ -1,0 +1,122 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stagehands/mission/glitchmissionmanager.stagehand": [
+        "/radioMessages/firstAirforce/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Agitated. We are besieged by another wave! They've sent more infantry, and more archers, and... No! They're in the skies! Those purple curs have taken to the air!",
+      "Por": "Agitado. Estamos cercados por outra onda! Eles já enviaram mais infantaria, e mais arqueiros, e... Não! Eles estão nos céus! Esses canalhas roxos tomaram o céu!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stagehands/mission/glitchmissionmanager.stagehand": [
+        "/radioMessages/bossDefeated/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cautious. Is it gone? Are you intact? If it's gone I need to talk to you.",
+      "Por": "Cauteloso. Ele se foi? Você está intacto? Se ele se foi eu preciso falar com você."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stagehands/mission/glitchmissionmanager.stagehand": [
+        "/radioMessages/additionalBallista/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Desperate. Not another ballista! Save my keep!",
+      "Por": "Desesperado. Nem mais uma balista! Salve meu forte!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stagehands/mission/glitchmissionmanager.stagehand": [
+        "/radioMessages/reinforcements/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hello? It's me. I'm sorry but - there are more cultists coming. Please don't worry though; we're going to help! I'd just get in the way, but the others are coming down!",
+      "Por": "Olá? Sou eu. Sinto muito, mas - há mais cultistas vindo. Por favor, não se preocupe, vamos ajudar! Eu tinha acabado de chegar, mas os outros estão descendo!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stagehands/mission/glitchmissionmanager.stagehand": [
+        "/radioMessages/finalWaveComplete/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Jubilant. Ha ha! That's done for them! We got every last one of those wretched maggots! I could sing! Come here, I want to speak to you...",
+      "Por": "Alegre. Ha ha! Isso é bem feito para eles! Nós acabamos com cada um desses vermes miseráveis! Eu poderia cantar! Vem cá, quero falar com você..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stagehands/mission/glitchmissionmanager.stagehand": [
+        "/radioMessages/noxBeamout/2",
+        "/radioMessages/noxGreeting/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nox"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stagehands/mission/glitchmissionmanager.stagehand": [
+        "/radioMessages/noxGreeting/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Oh good, it's you... So \"mummy\" sent you on another errand. Let's get this over with.",
+      "Por": "Oh bom, é você... Então \"mamãe\" te enviou em outra missão. Vamos acabar com isto."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stagehands/mission/glitchmissionmanager.stagehand": [
+        "/radioMessages/firstBallista/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Outraged.The brigands have rolled in a war machine! I won't have my keep obliterated, you must destroy that ballista!",
+      "Por": "Indignado. Os bandidos estão trazendo uma máquina de guerra! Eu não vou ter meu forte destruído, você deve destruir aquela balista!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stagehands/mission/glitchmissionmanager.stagehand": [
+        "/radioMessages/wallAttacked/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Panicked. The ballista! My beautiful walls! Protect my beautiful walls!",
+      "Por": "Em pânico. A balista! Minhas belas paredes! Proteja as minhas belas paredes!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stagehands/mission/glitchmissionmanager.stagehand": [
+        "/radioMessages/noxBeamout/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "We're done here! This is pointless anyway. You haven't succeeded in stopping anything. This will all be gone soon.",
+      "Por": "Nós terminamos aqui! Isso é inútil de qualquer maneira. Vocês não conseguiram parar nada. Tudo Isso desaparecerá em breve."
+    }
+  }
+]

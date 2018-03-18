@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/flyers/tentaclebomb/tentaclebomb.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "During storms it attaches itself to trees to not blow away.",
+      "Por": "Durante tempestades ele se prende às árvores para não ser soprado pra longe."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/flyers/tentaclebomb/tentaclebomb.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "tentaclebomb",
+      "Por": "tentaclebomb"
+    }
+  }
+]

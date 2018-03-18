@@ -1,0 +1,273 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembertailor.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Come ssspeak to Floran when you want uniforms updated!",
+      "Por": "Venha falar com Floran quando quiser atualizar os uniformesss!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembertailor.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Come to me if you want to update your crew's uniform!",
+      "Por": "Venha até mim se você quiser atualizar o uniforme de sua tripulação!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembertailor.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Come to me whenever you wish to update your crew's uniform."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembertailor.npctype": [
+        "/scriptConfig/crew/role/field"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fashion",
+      "Por": "Moda"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembertailor.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran can update your crew's uniform whenever you want!",
+      "Por": "Floran pode atualizar o uniforme de sua tripulação sempre que quiser!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembertailor.npctype": [
+        "/scriptConfig/dialog/converse/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran impressed with your sense of ssstyle!",
+      "Por": "Floran impressionado com o seu senso de estilo!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembertailor.npctype": [
+        "/scriptConfig/dialog/converse/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran likesss outfit choice, captain.",
+      "Por": "Floran gostou da escolha de roupa, capitão."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembertailor.npctype": [
+        "/scriptConfig/dialog/converse/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran thinks thisss is a good uniform!",
+      "Por": "Floran acha que isso é um bom uniforme!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembertailor.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can't wait to see what people think of your new uniform, captain!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembertailor.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm sure people will love your uniform!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembertailor.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "If yer hurtin' to update your crew's uniform, come say howdy!",
+      "Por": "Se você estiver querendo atualizar o uniforme da sua tripulação, venha dizer oi!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembertailor.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you need to update your crew's uniform, come speak to me!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembertailor.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/novakid/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you want to change up your crew's outfit, then I'm your huckleberry!",
+      "Por": "Se você quiser mudar a roupa da sua tripulação, então eu sou seu alfaiate!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembertailor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Incredible fashion sense, captain!",
+      "Por": "Senso de moda incrível, capitão!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembertailor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looking good!",
+      "Por": "Parece bom!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembertailor.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "My tailoring skills let me update your crew's uniform. Just speak to me when you need my services!",
+      "Por": "Minhas habilidades de alfaiataria me deixa atualizar o uniforme de sua tripulação. Basta falar para mim quando você precisar de meus serviços!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembertailor.npctype": [
+        "/scriptConfig/crew/role/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tailor",
+      "Por": "Alfaiate"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembertailor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "That look is definitely in this season!",
+      "Por": "Esse aparência é definitivamente desta estação!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembertailor.npctype": [
+        "/scriptConfig/dialog/converse/novakid/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is a mighty fine choice of outfit, partner!",
+      "Por": "Esta é uma ótima escolha de roupa, parceiro!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembertailor.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is a promising uniform choice, captain!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembertailor.npctype": [
+        "/scriptConfig/dialog/converse/novakid/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "This new crew uniform is sharper than a durasteel spur. Good choice, partner!",
+      "Por": "Este novo uniforme da tripulação é mais afiado do que um espinho de durasteel. Boa escolha, parceiro!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembertailor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "This outfit will make your crew really stand out. Great choice, captain!",
+      "Por": "Esta roupa vai fazer a sua tripulação realmente se destacar. Grande escolha, capitão!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembertailor.npctype": [
+        "/scriptConfig/dialog/converse/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Yer lookin' as sharp as a steel stirrup, partner!",
+      "Por": "Você parece tão afiado como um estribo de aço, parceiro!"
+    }
+  }
+]

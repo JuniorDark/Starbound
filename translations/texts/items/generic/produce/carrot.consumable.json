@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/carrot.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Carrot",
+      "Por": "Carrot"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/carrot.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mmm crunchy.",
+      "Por": "Mmm crocante."
+    }
+  }
+]

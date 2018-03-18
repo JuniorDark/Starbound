@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/reed.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bunch of cut reeds.",
+      "Por": "Um maço de juncos cortados."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/reed.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reed",
+      "Por": "Reed"
+    }
+  }
+]

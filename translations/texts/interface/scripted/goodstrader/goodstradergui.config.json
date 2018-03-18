@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/goodstrader/goodstradergui.config": [
+        "/gui/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": " Goods Trader",
+      "Por": "Comerciante de Mercadorias"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/goodstrader/goodstradergui.config": [
+        "/gui/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": " Trade goods between stations for profit",
+      "Por": "Negocie mercadorias entre estações com lucro"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/goodstrader/goodstradergui.config": [
+        "/gui/btnSell/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "SELL",
+      "Por": "VENDER"
+    }
+  }
+]

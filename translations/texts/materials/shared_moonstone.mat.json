@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/moonstone.matitem": [
+        "/description"
+      ],
+      "tiles/materials/moonstone.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Beautiful, smooth moonstone.",
+      "Por": "Pedra lunar bela e suave."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/moonstone.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/moonstone.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looks t'be some moonstone.",
+      "Por": "Parece ser pedra lunar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/moonstone.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/moonstone.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Moonstone",
+      "Por": "Moonstone"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/moonstone.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/moonstone.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssmooth moonsstone.",
+      "Por": "Pedra lunar ssuave."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/moonstone.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/moonstone.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This unique stone is sometimes found on moons."
+    }
+  }
+]

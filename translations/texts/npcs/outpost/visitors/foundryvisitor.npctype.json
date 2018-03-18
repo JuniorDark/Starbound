@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/foundryvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I work out in the foundries, where the heat could melt the strongest of steels!",
+      "Por": "Eu trabalho nas fundições, onde o calor iria derreter o mais forte dos aços!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/foundryvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm just coming here to get some supplies. Normally, I'm posted out on the foundries.",
+      "Por": "Eu só estou vindo aqui para pegar alguns suprimentos. Normalmente, eu estou trabalhando nas fundições."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/visitors/foundryvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm just visiting on my lunch break. Normally I'm toiling out on the foundries!",
+      "Por": "Eu estou apenas visitando durante meu almoço. Normalmente eu estou trabalhando duro nas fundições!"
+    }
+  }
+]

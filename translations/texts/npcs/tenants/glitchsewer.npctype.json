@@ -1,0 +1,74 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/glitchsewer.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/1/glitchEmotedText",
+        "/scriptConfig/dialog/converse/glitch/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Even when you're a sewer operator, you can enjoy what you do."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/glitchsewer.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/3/glitchEmotedText",
+        "/scriptConfig/dialog/converse/glitch/glitch/3/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have spent my life scrubbing down sewers. But I guess someone has to..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/glitchsewer.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/5/glitchEmotedText",
+        "/scriptConfig/dialog/converse/glitch/glitch/5/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've adjusted this mask to filter out any bad sewer smells. It almost works!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/glitchsewer.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/4/glitchEmotedText",
+        "/scriptConfig/dialog/converse/glitch/glitch/4/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've spent so much of my life managing sewers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/glitchsewer.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/2/glitchEmotedText",
+        "/scriptConfig/dialog/converse/glitch/glitch/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Managing sewers is dirty work. I'd rather be exploring, like you."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/glitchsewer.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/0/glitchEmotedText",
+        "/scriptConfig/dialog/converse/glitch/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "My home still has a lingering smell I can't quite remove."
+    }
+  }
+]

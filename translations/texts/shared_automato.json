@@ -1,0 +1,20 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/automato.consumable": [
+        "/description"
+      ],
+      "objects/farmables/automato/automatoseed.object": [
+        "/description"
+      ],
+      "objects/farmables/automato/wildautomatoseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Automatoes! Be sure to spit out the screws.",
+      "Por": "Automates! Certifique-se de cuspir os parafusos."
+    }
+  }
+]

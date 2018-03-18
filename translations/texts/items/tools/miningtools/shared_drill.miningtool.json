@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/miningtools/copperdrill.miningtool": [
+        "/description"
+      ],
+      "items/tools/miningtools/diamonddrill.miningtool": [
+        "/description"
+      ],
+      "items/tools/miningtools/golddrill.miningtool": [
+        "/description"
+      ],
+      "items/tools/miningtools/platinumdrill.miningtool": [
+        "/description"
+      ],
+      "items/tools/miningtools/silverdrill.miningtool": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Drills fast but breaks quickly. A temporary alternative to the matter manipulator.",
+      "Por": "Brocas são rápidas mas quebram rapidamente. Uma alternativa temporária para o manipulador de matéria."
+    }
+  }
+]

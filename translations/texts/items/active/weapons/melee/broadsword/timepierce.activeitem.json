@@ -1,0 +1,50 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/broadsword/timepierce.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This blade can pierce through the fabric of time itself.",
+      "Por": "Esta lâmina pode penetrar através do tecido do próprio tempo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/broadsword/timepierce.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Time Pierce",
+      "Por": "Time Pierce"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/broadsword/timepierce.activeitem": [
+        "/upgradeParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Time Pierce ^yellow;^reset;",
+      "Por": "Time Pierce ^yellow;^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/broadsword/timepierce.activeitem": [
+        "/altAbility/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Time Stop",
+      "Por": "Parar o Tempo"
+    }
+  }
+]

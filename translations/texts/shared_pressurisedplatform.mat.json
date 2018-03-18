@@ -1,0 +1,61 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/pressurisedplatform.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/pressurisedplatform.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pressurised Platform",
+      "Por": "Pressurised Platform"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/pressurisedplatform.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/platforms/pressurisedplatform.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some sorta shiny lookin' platform.",
+      "Por": "Algum tipo de plataforma de aparência brilhante."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/pressurisedplatform.matitem": [
+        "/florandescription"
+      ],
+      "tiles/platforms/pressurisedplatform.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sstrong metal platformss are cold.",
+      "Por": "Plataformass de metal fortess são frias."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/pressurisedplatform.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/platforms/pressurisedplatform.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These strong platforms are reinforced to stand up to pressurisation changes."
+    }
+  }
+]

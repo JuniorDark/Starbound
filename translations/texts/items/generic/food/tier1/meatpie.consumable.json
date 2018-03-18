@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier1/meatpie.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Minced meat in a rich gravy, topped with creamy mash.",
+      "Por": "Carne picada em um molho rico, coberto com purê cremoso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier1/meatpie.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shepherd's Pie",
+      "Por": "Shepherd's Pie"
+    }
+  }
+]

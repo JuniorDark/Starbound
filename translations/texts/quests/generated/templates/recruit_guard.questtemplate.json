@@ -1,0 +1,298 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/recruit_guard.questtemplate": [
+        "/scriptConfig/objectives/3/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "1 <guardObject>",
+      "Por": "1 <guardObject>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/recruit_guard.questtemplate": [
+        "/scriptConfig/objectives/2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "3 <tag> objects",
+      "Por": "3 objetos <tag> "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/recruit_guard.questtemplate": [
+        "/scriptConfig/generatedText/title/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "<questGiver> wants security",
+      "Por": "<questGiver> quer segurança"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/recruit_guard.questtemplate": [
+        "/scriptConfig/generatedText/text/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "All that's left is to ^green;build a new house with your ^orange;<guardObject>^white; in it, ^green;add 3 pieces of furniture that a ^orange;<tag>^white; would like, and ^green;put this ^orange;Colony Deed^green; up too^white;. Don't forget to ^green;add a ^orange;light source^white; as well!",
+      "Por": "Tudo o que resta é ^green;construir uma nova casa com seu ^orange;<guardObject>^white; nisso, ^green;adicione 3 peças de mobiliário que um ^orange;<tag>^white; gostaria, e ^green;coloque esta ^orange;Colony Deed^green; também^white;. Não se esqueça de ^green;adicionar uma ^orange;fonte de luz^white; também!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/recruit_guard.questtemplate": [
+        "/scriptConfig/objectives/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Build a home for a guard with:",
+      "Por": "Construa uma casa para um guarda com:"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/recruit_guard.questtemplate": [
+        "/scriptConfig/generatedText/text/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Final part is to ^green;place ^orange;<guardObject> ^white;into a newly made home, along with ^green;3 ^orange;<tag>^green; itemsss^white;, for a <tag> guard! Also ^green;place this ^orange;Colony Deed^green; inside^white;, and a ^green;^orange;light source^white;!",
+      "Por": "A parte final é ^green;colocar ^orange;<guardObject> ^white;em uma casa recém-feita, juntamente com ^green;3 itenss ^orange;<tag>^white;, para um <tag> guarda! Também ^green;coloque este ^orange;Colony Deed^green; dentro^white;, e uma ^green;^orange;fonte de luz^white;!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/recruit_guard.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Finally, ^green;build a new house with your ^orange;<guardObject>^white; in it, ^green;add 3 pieces of furniture that a ^orange;<tag>^white; would like and ^green;put this ^orange;Colony Deed^green; in it^white;! Don't forget to ^green;add a^orange; light source!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/recruit_guard.questtemplate": [
+        "/scriptConfig/generatedText/text/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Finally, ^green;build a new house with your ^orange;<guardObject>^white; in it, ^green;add 3 pieces of furniture that a ^orange;<tag>^white; would like and ^green;put this ^orange;Colony Deed^green; in it^white;! Don't forget to ^green;add a^orange; light source^white;!",
+      "Por": "Finalmente, ^green;construa uma nova casa com o seu ^orange;<guardObject>^white; nela, ^green;coloque 3 peças de mobiliário que um ^orange;<tag>^white; gostaria e ^green;coloque esta ^orange;Colony Deed^green; nela^white;! Não se esqueça de ^green;colocar uma^orange; fonte de luz^white;!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/recruit_guard.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran never doubted you for a moment! Floran already feels sssafer here! Thanks.",
+      "Por": "Floran nunca duvidou por um momento! Floran já se sente mais seguro aqui! Obrigado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/recruit_guard.questtemplate": [
+        "/scriptConfig/generatedText/failureText/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I decided not to help improve <questGiver>'s security. If <questGiver.pronoun.subject> can't protect <questGiver.pronoun.reflexive>, <questGiver.pronoun.subject> probably shouldn't have moved here to begin with.",
+      "Por": "Eu decidi não ajudar a melhorar a segurança de <questGiver>. Se <questGiver.pronoun.subject> não pode proteger <questGiver.pronoun.reflexive>, <questGiver.pronoun.subject> provavelmente não deveria ter se mudado para cá para começar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/recruit_guard.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have complete peace of mind, knowing our new guard is on duty. I will not forget your tireless efforts."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/recruit_guard.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have the confidence to face the day, now that our new guard is by my side. "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/recruit_guard.questtemplate": [
+        "/scriptConfig/generatedText/failureText/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I was unable to help improve <questGiver>'s security. <questGiver.pronoun.capitalSubject>'ll probably be fine. Probably.",
+      "Por": "Eu fui incapaz de ajudar a melhorar a segurança de <questGiver>. <questGiver.pronoun.capitalSubject> provavelmente vai ficar bem. Provavelmente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/recruit_guard.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now you just need to ^green;build a new house with your ^orange;<guardObject>^white; in it, ^green;add 3 pieces of furniture that a ^orange;<tag>^white; would like, and ^green;put this ^orange;Colony Deed^green; up too^white;. Don't forget to ^green;add a ^orange;light source^white;!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/recruit_guard.questtemplate": [
+        "/scriptConfig/generatedText/title/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Security for <questGiver>",
+      "Por": "Segurança para <questGiver>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/recruit_guard.questtemplate": [
+        "/scriptConfig/generatedText/text/default/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "This final part will be hard work. You will need to ^green;build a home^white; for a guard to move into. ^green;Place this ^orange;Colony Deed^green; and the ^orange;<guardObject>^green; in the house with 3 ^orange;<tag> themed itemsss^white;. Don't forget a ^orange;light source^white; and a door!",
+      "Por": "Esta parte final será um trabalho árduo. Você vai precisar ^green;construir uma casa^white; para um guarda se mudar. ^green;Coloque esta ^orange;Colony Deed^green; e o ^orange;<guardObject>^green; na casa com 3 ^orange;<tag> itensss temáticos^white;. Não se esqueça de uma ^orange;fonte de luz^white; e uma porta!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/recruit_guard.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vacancy filled! That didn't take long! Thanks for helping ensure my safety!",
+      "Por": "Vaga preenchida! Isso não demorou muito! Obrigado por ajudar a garantir a minha segurança!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/recruit_guard.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "We have a new guard! I feel safer already. Thanks for your help!",
+      "Por": "Temos um novo guarda! Sinto-me mais seguro já. Obrigado pela ajuda!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/recruit_guard.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "With the new guard around, Floran can feel the whole town relaxing already. Thanksss for your hard work!",
+      "Por": "Com o novo guarda ao redor, Floran já pode sentir toda a cidade relaxando. Obrigado por seu trabalho duro!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/recruit_guard.questtemplate": [
+        "/scriptConfig/generatedText/goalText/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Defenseless. I would feel safer with a guard around here. Can you help me recruit one?",
+      "Por": "^cyan;Indefenso. Eu me sentiria mais seguro com um guarda por aqui. Pode me ajudar a recrutar um?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/recruit_guard.questtemplate": [
+        "/scriptConfig/generatedText/goalText/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Floran has been thinking that everyone would feel sssafer with a new guard in town.",
+      "Por": "^cyan;Floran estava pensando que todo mundo se sentiria mais seguro com um novo guarda na cidade."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/recruit_guard.questtemplate": [
+        "/scriptConfig/generatedText/goalText/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Floran thinksss town would benefit from recruiting new guard. Here's Floran's plan...",
+      "Por": "^cyan;Floran acha que cidade se beneficiaria ao recrutar novos guardas. Aqui esta o plano de Floran..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/recruit_guard.questtemplate": [
+        "/scriptConfig/generatedText/goalText/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;I would feel safer with some protection around here. Can you help recruit a guard?",
+      "Por": "^cyan;Eu me sentiria mais seguro com mais proteção por aqui. Você pode ajudar a recrutar um guarda?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/recruit_guard.questtemplate": [
+        "/scriptConfig/generatedText/goalText/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;Vulnerable. There isn't enough protection around here. Recruiting a guard might help.",
+      "Por": "^cyan;Vulnerável. Não há proteção suficiente por aqui. Recrutar um guarda pode ajudar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/recruit_guard.questtemplate": [
+        "/scriptConfig/generatedText/goalText/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^cyan;We could do with more protection around here. I have a plan...",
+      "Por": "^cyan;Nós poderíamos ter mais proteção por aqui. Eu tenho um plano..."
+    }
+  }
+]

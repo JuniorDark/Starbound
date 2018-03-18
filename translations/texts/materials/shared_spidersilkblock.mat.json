@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/spidersilkblock.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/spidersilkblock.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A creepy lookin' spider web.",
+      "Por": "Uma teia de aranha assustadora."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/spidersilkblock.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/spidersilkblock.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nature never ceases to impress, this material is entirely organic."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/spidersilkblock.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/spidersilkblock.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Spider Silk",
+      "Por": "Spider Silk"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/spidersilkblock.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/spidersilkblock.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssticky sspider web. Floran thinks sspider is great hunter!",
+      "Por": "Teia de aranha pegajosa. Floran acha que aranha é grande caçadora!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/spidersilkblock.matitem": [
+        "/description"
+      ],
+      "tiles/materials/spidersilkblock.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Webs packed tight into a solid block.",
+      "Por": "Teias embaladas firmemente em um bloco sólido."
+    }
+  }
+]

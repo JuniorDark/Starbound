@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/banana.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A genetically enhanced banana.",
+      "Por": "Uma banana geneticamente melhorada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/banana.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Banana",
+      "Por": "Banana"
+    }
+  }
+]

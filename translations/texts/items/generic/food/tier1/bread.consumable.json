@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier1/bread.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bread",
+      "Por": "Bread"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier1/bread.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mmm, fresh out of the oven.",
+      "Por": "Mmm, fresquinho do forno."
+    }
+  }
+]

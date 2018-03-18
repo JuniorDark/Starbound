@@ -1,0 +1,792 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/adminHelpText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Admin commands are: %s",
+      "Por": "Os comandos de Administrador são: %s"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/basicHelpText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Basic commands are: %s",
+      "Por": "Os comandos Básicos são: %s"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/debugHelpText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Debug commands are: %s",
+      "Por": "Os comandos de Depuração são: %s"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/basicCommands/admin"
+      ]
+    },
+    "Texts": {
+      "Eng": "Usage /admin. Enables or disables admin mode, which enables all crafting recipes, prevents damage or energy loss, and allows access to admin-only commands.",
+      "Por": "Uso /admin. Habilita ou desabilita o modo administrador, que habilita todas as receitas de fabricação, evita danos ou perda de energia e permite o acesso a comandos somente de administrador."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/adminCommands/ban"
+      ]
+    },
+    "Texts": {
+      "Eng": "Usage /ban playerSpecifier [reason] [kind] [timeInSeconds]. Kick and ban the specified player and send the reason to the player. If no reason is specified then the player's server nickname is used as the reason. Kind is specified as \"uuid\" or \"ip\" or \"both\" and defaults to \"both\". timeInSeconds defaults to forever. Bans that have a specified duration are not persistent. If you shut down the server or reload configuration, all of your temporarily banned users will be unbanned immediately.",
+      "Por": "Uso /ban playerSpecifier [razão] [tipo] [tempoemSegundos]. Espulsa e bane o jogador especificado e envia a razão para o jogador. Não se for especificada nenhuma razão, o apelido do jogador no servidor é usado como a razão. Tipo é especificado como \"uuid\" ou \"ip\" ou \"ambos\" e o padrõe é \"ambos\". tempoemSegundos o padrão é para sempre. Os banimentos que têm uma duração especificada não são persistentes. Se você desligar o servidor ou recarregar a configuração, todos os seus usuários temporariamente banidos serão desbanidos imediatamente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/debugCommands/boxes"
+      ]
+    },
+    "Texts": {
+      "Eng": "Usage /boxes. Toggle the display of collision debugging polygons if debug mode is enabled.",
+      "Por": "Uso /boxes. Alterna a exibição de polígonos de depuração de colisão se o modo de depuração estiver habilitado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/debugCommands/cinema"
+      ]
+    },
+    "Texts": {
+      "Eng": "Usage /cinema cinematicPath [timestamp]. Plays the specified cinematic for testing, optionally starting at the specified timestamp.",
+      "Por": "Uso /cinema cinematicPath. Reproduz a cinemática especificada para teste."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/debugCommands/clearboxes"
+      ]
+    },
+    "Texts": {
+      "Eng": "Usage /clearboxes. Toggle whether or not to clear boxes displayed with /boxes every frame.  Useful for determining routes that enemies take, can get messy looking though.",
+      "Por": "Uso /clearboxes. Alterna se deseja ou não desmarcar as caixas exibidas com /boxes de cada quadro. Útil para determinar rotas que os inimigos fazem, pode ficar confuso olhando embora."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/debugCommands/clearcinematics"
+      ]
+    },
+    "Texts": {
+      "Eng": "Usage /clearcinematics. Resets all history of played unique cinematics, allowing the player to see these cinematics again.",
+      "Por": "Uso /clearcinematics. Redefine todo o histórico de cinemáticas unicas reproduzidas, permitindo que o jogador veja essas cinemáticas novamente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/debugCommands/clearradiomessages"
+      ]
+    },
+    "Texts": {
+      "Eng": "Usage /clearradiomessages. Resets all history of received unique radio messages, allowing the player to see these messages again.",
+      "Por": "Uso /clearradiomessages. Redefine todo o histórico de mensagens de rádio unicas recebidas, permitindo que o jogador veja essas mensagens novamente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/debugCommands/clearscannedobjects"
+      ]
+    },
+    "Texts": {
+      "Eng": "Usage /clearscannedobjects. Resets the player's record of previously scanned objects. Will not reset quest progress for object scanning quests.",
+      "Por": "Uso /clearscannedobjects. Reseta o registro de objetos previamente escaneados do jogador. Não irá resetar o progresso de missões de escaneamentos de objectos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/adminCommands/clearstagehand"
+      ]
+    },
+    "Texts": {
+      "Eng": "Usage /clearstagehand. Despawns any stagehands with positions close to the current cursor position.",
+      "Por": "Uso /clearstagehand. Remove qualquer stagehand com posições perto da posição atual do cursor."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/debugCommands/completequest"
+      ]
+    },
+    "Texts": {
+      "Eng": "Usage /completequest questId. Force completion of a currently active quest with the given quest ID (usually the quest template ID).",
+      "Por": "Uso /completequest questId. Força a conclusão de uma missão atualmente ativa com a ID de missão fornecida (geralmente a quest template ID)."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/basicCommands/deaths"
+      ]
+    },
+    "Texts": {
+      "Eng": "Usage /deaths. Displays the total death count of the current character.",
+      "Por": "Uso /deaths. Exibe a contagem total de mortes do personagem atual."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/debugCommands/debug"
+      ]
+    },
+    "Texts": {
+      "Eng": "Usage /debug. Enable debugging mode.",
+      "Por": "Uso /debug. Ativa o modo de depuração."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/adminCommands/disablespawning"
+      ]
+    },
+    "Texts": {
+      "Eng": "Usage /disablespawning. Disable automatic monster spawning on the current world.",
+      "Por": "Uso /disablespawning. Desabilita a geração automática de monstros no mundo atual."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/adminCommands/enablespawning"
+      ]
+    },
+    "Texts": {
+      "Eng": "Usage /enablespawning. Enable automatic monster spawning on the current world.",
+      "Por": "Uso /enablespawning. Habilita a geração automática de monstros no mundo atual."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/debugCommands/enabletech"
+      ]
+    },
+    "Texts": {
+      "Eng": "Usage /enabletech techName. Unlocks the specified tech for use.",
+      "Por": "Uso /enabletech techName. Desbloqueia a tecnologia especificada para uso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/debugCommands/entityeval"
+      ]
+    },
+    "Texts": {
+      "Eng": "Usage /entityeval <lua>. Evaluates given lua in the context of the closest scripted entity to the cursor. Only usable locally.",
+      "Por": "Uso /entityeval <lua>. Avalia o lua inserido no contexto da entidade scriptada mais próxima ao cursor. Apenas utilizável localmente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/debugCommands/eval"
+      ]
+    },
+    "Texts": {
+      "Eng": "Usage /eval <lua>. Evaluates given lua in script processor context. Only usable locally.",
+      "Por": "Uso /eval <lua>. Avalia o lua inserido no contexto do processador de script. Apenas utilizável localmente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/debugCommands/failquest"
+      ]
+    },
+    "Texts": {
+      "Eng": "Usage /failquest questId. Force failure of a currently active quest with the given quest ID (usually the quest template ID).",
+      "Por": "Uso /failquest questId. Força a falha de uma missão atualmente ativa com a ID de missão especificada (geralmente a quest template ID)."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/debugCommands/fixedcamera"
+      ]
+    },
+    "Texts": {
+      "Eng": "Usage /fixedcamera. Toggle locking the camera's position; camera will not scroll. Sectors may not load or behave correctly when the camera is distant from the player's position.",
+      "Por": "Uso /fixedcamera. Alterna bloqueando a posição da câmera; A câmera não se deslocará. Os setores podem não carregar ou se comportar corretamente quando a câmera está distante da posição do jogador."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/debugCommands/fullbright"
+      ]
+    },
+    "Texts": {
+      "Eng": "Usage /fullbright. Disable the lighting engine and show everything.",
+      "Por": "Uso /fullbright. Desativa o motor de iluminação e mostra tudo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/debugCommands/giveessentialitem"
+      ]
+    },
+    "Texts": {
+      "Eng": "Usage /giveessentialitem item slotName. Sets the specified essential slot to the specified item, overwriting the existing contents. Valid slot names are: beamaxe, wiretool, painttool, inspectiontool.",
+      "Por": "Uso /giveessentialitem item slotName. Define o slot essencial especificado para o item especificado, sobrescrevendo o conteúdo existente. Nomes de slot válidos são: beamaxe, wiretool, painttool, inspectiontool."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/debugCommands/gravity"
+      ]
+    },
+    "Texts": {
+      "Eng": "Usage /gravity. Display the gravity at the player's position.",
+      "Por": "Uso /gravity. Exibe a gravidade na posição do jogador."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/adminCommands/kick"
+      ]
+    },
+    "Texts": {
+      "Eng": "Usage /kick playerSpecifier [reason]. Kick the specified player and send the reason to the player. If no reason is specified then the player's server nickname is used as the reason.",
+      "Por": "Uso /kick playerSpecifier [razão]. Espulsa o jogador especificado e envia a razão para o jogador. Não se for especificada nenhuma razão, o apelido do jogador no servidor é usado como a razão."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/adminCommands/list"
+      ]
+    },
+    "Texts": {
+      "Eng": "Usage /list. List all clients connected to the server. Format is $clientId : serverNickname : $$playerUuid. If the serverNickname contains unprintable characters the unicode escape sequence for those characters will be displayed instead.",
+      "Por": "Uso /list. Lista todos os clientes conectados ao servidor. O formato é $clientId : serverNickname : $$playerUuid. Se o serverNickname contiver caracteres não imprimíveis, a sequência de escape unicode para esses caracteres será exibida em seu lugar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/debugCommands/maketechavailable"
+      ]
+    },
+    "Texts": {
+      "Eng": "Usage /maketechavailable techName. Makes the specified tech visible and available for purchase.",
+      "Por": "Uso /maketechavailable techName. Torna a tecnologia especificada visível e disponível para compra."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/basicCommands/naked"
+      ]
+    },
+    "Texts": {
+      "Eng": "Usage /naked. Remove all gear. Useful in macros to give a character new gear replacing the existing gear, or you know, for fun.",
+      "Por": "Uso /naked. Remove todo o equipamento. Útil em macros para dar um novo equipamento ao personagem que substitui o equipamento existente, ou você sabe, por diversão."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/adminCommands/placedungeon"
+      ]
+    },
+    "Texts": {
+      "Eng": "Usage /placedungeon dungeonname [position]. Place the given dungeon into the world anchored at the specified position or the player's cursor position. Positions should be specified as x,y. Ignores anchoring rules. ",
+      "Por": "Uso /placedungeon dungeonname [posição]. Coloca a dungeon dada no mundo ancorada na posição especificada ou na posição do cursor do jogador. As posição devem ser especificada como x, y. Ignora regras de ancoragem. "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/basicCommands/played"
+      ]
+    },
+    "Texts": {
+      "Eng": "Usage /played. Displays the total play time of the current character.",
+      "Por": "Uso /played. Exibe o tempo de jogo total do personagem atual."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/debugCommands/previewnewquest"
+      ]
+    },
+    "Texts": {
+      "Eng": "Usage /previewnewquest questTemplateId positionInSequence questGiverSpecies. Displays the New Quest interface for the given quest without altering the player's quest state. Valid positionInSequence options are: first, last, next, solo. May break if the quest doesn't have example data configured.",
+      "Por": "Uso /previewnewquest questTemplateId positionInSequence questGiverSpecies. Exibe a interface de Nova Missão para a missão em questão sem alterar o estado de missão do jogador.  As opções válidas de positionInSequence são: first, last, next, solo. Pode quebrar se a missão não tiver dados de exemplo configurados."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/debugCommands/previewquestcomplete"
+      ]
+    },
+    "Texts": {
+      "Eng": "Usage /previewquestcomplete questTemplateId positionInSequence questGiverSpecies. Displays the Quest Complete interface for the given quest without altering the player's quest state. Valid positionInSequence options are: first, last, next, solo. May break if the quest doesn't have example data configured.",
+      "Por": "Uso /previewquestcomplete questTemplateId positionInSequence questGiverSpecies. Exibe a interface de Missão Completa para a missão em questão sem alterar o estado de missão do jogador. As opções válidas de positionInSequence são: first, last, next, solo. Pode quebrar se a missão não tiver dados de exemplo configurados."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/debugCommands/previewquestfailed"
+      ]
+    },
+    "Texts": {
+      "Eng": "Usage /previewquestfailed questTemplateId positionInSequence questGiverSpecies. Displays the Quest Failed interface for the given quest without altering the player's quest state. Valid positionInSequence options are: first, last, next, solo. May break if the quest doesn't have example data configured.",
+      "Por": "Uso /previewquestfailed questTemplateId positionInSequence questGiverSpecies. Exibe a interface de Missão Falhada para a missão em questão sem alterar o estado de missão do jogador.  As opções válidas de positionInSequence são: first, last, next, solo. Pode quebrar se a missão não tiver dados de exemplo configurados."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/basicCommands/pvp"
+      ]
+    },
+    "Texts": {
+      "Eng": "Usage /pvp. Enable or disable your Player vs. Player mode.",
+      "Por": "Uso /pvp. Habilita ou desabilita o seu modo Player vs Player."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/debugCommands/radiomessage"
+      ]
+    },
+    "Texts": {
+      "Eng": "Usage /radiomessage messageId. Triggers the player to receive the radio message with the specified id.",
+      "Por": "Uso /radiomessage messageId. Aciona o player para receber a mensagem de rádio com a id especificada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/basicCommands/reload"
+      ]
+    },
+    "Texts": {
+      "Eng": "Usage /reload.  Reloads your local, client side assets. Will cause lag as they are reparsed.",
+      "Por": "Uso /reload.  Recarrega os seus ativos locais do lado do cliente. Causará lag à medida que são reprocessados."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/debugCommands/resetachievements"
+      ]
+    },
+    "Texts": {
+      "Eng": "Usage /resetachievements. Resets all of the player's achievement statistics.",
+      "Por": "Uso /resetachievements. Reseta todas as estatísticas das conquistas do jogador."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/debugCommands/resetgravity"
+      ]
+    },
+    "Texts": {
+      "Eng": "Usage /resetgravity. Undoes /setgravity. Begin using server gravity again.",
+      "Por": "Uso /resetgravity. Desfaz /setgravity. Começa a usar a gravidade do servidor novamente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/adminCommands/resetuniverseflags"
+      ]
+    },
+    "Texts": {
+      "Eng": "Usage /resetuniverseflags. Clears all universe flags, but doesn't directly revert any effects triggered by those flags.",
+      "Por": "Uso /resetuniverseflags. Limpa todas as flags do universo, mas não reverte diretamente quaisquer efeitos provocados por essas flags."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/adminCommands/serverreload"
+      ]
+    },
+    "Texts": {
+      "Eng": "Usage /serverreload. Reloads the remote, server side assets. Will cause lag as they are reparsed.",
+      "Por": "Uso /serverreload. Recarrega os ativos do lado do servidor remoto. Causará lag à medida que são reprocessados."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/basicCommands/serverwhoami"
+      ]
+    },
+    "Texts": {
+      "Eng": "Usage /serverwhoami. Display your server username and admin status.",
+      "Por": "Uso /serverwhoami. Exibe seu nome de usuário do servidor e status de administrador."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/debugCommands/setgravity"
+      ]
+    },
+    "Texts": {
+      "Eng": "Usage /setgravity level. Sets your local gravity to the level specified. Negative values will make you fall up but you can't jump from your head. This change is local only, and looks pretty heinous on a server, because it screws very heavily with delta prediction.",
+      "Por": "Uso /setgravity nível. Define a gravidade local para o nível especificado. Valores negativos vão fazer você cair, mas você não podera pular. Esta alteração é apenas local, e parece bastante hediondo em um servidor, porque ele ferranm muito fortemente com a previsão delta."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/adminCommands/setspawnpoint"
+      ]
+    },
+    "Texts": {
+      "Eng": "Usage /setspawnpoint. Sets the default spawn point on the current world to your character's position.",
+      "Por": "Uso /setspawnpoint. Define o ponto de spawn padrão no mundo atual para a posição de seu personagem."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/adminCommands/settileprotection"
+      ]
+    },
+    "Texts": {
+      "Eng": "Usage /settileprotection dungeonId isProtected. Set protection for blocks with the specified dungeonId to be true (unbreakable) or false (breakable).",
+      "Por": "Uso /settileprotection dungeonId isProtected. Define a proteção para blocos com a dungeonId especificada para ser true (inquebrável) ou false (quebrável)."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/adminCommands/setuniverseflag"
+      ]
+    },
+    "Texts": {
+      "Eng": "Usage /setuniverseflag flagName. Sets the current universe flag, triggering any associated world changes.",
+      "Por": "Uso /setuniverseflag flagName. Define a flag do universo atual, provocando quaisquer mudanças do mundo associado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/adminCommands/spawnitem"
+      ]
+    },
+    "Texts": {
+      "Eng": "Usage /spawnitem itemName [count] [parameters]. Spawn the specified item at the mouse cursor. If the item does not exist it will spawn a perfectly generic item. Count should be an integer and defaults to 1. Parameters should be specified as a JSON object enclosed by single quotes.",
+      "Por": "Uso /spawnitem Nomedoitem [quantidade] [parâmetros]. Gera o item especificado na posição do cursor do mouse. Se o item não existir, ele gerará um perfectly generic item. A quantidade deve ser um número inteiro e o padrão é 1. Parâmetros devem ser especificados como um objeto JSON delimitado por aspas simples."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/adminCommands/spawnliquid"
+      ]
+    },
+    "Texts": {
+      "Eng": "Usage /spawnliquid liquidName [quantity]. Spawn a quantity of the specified liquid at the mouse cursor. Quantity defaults to 1.",
+      "Por": "Uso /spawnliquid Nomedoliquido [quantidade]. Gera uma quantidade do líquido especificado na posição do cursor do mouse. Quantidade padrão 1."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/adminCommands/spawnmonster"
+      ]
+    },
+    "Texts": {
+      "Eng": "Usage /spawnmonster type [level] [parameters]. Spawn a monster of the specified type at the mouse cursor. Level defaults to 1. Parameters should be specified as a JSON object enclosed by single quotes.",
+      "Por": "Uso /spawnmonster tipo [nível] [parâmetros]. Invoca um monstro do tipo especificado na posição do cursor do mouse. Nível padrão 1. Parâmetros devem ser especificados como um objeto JSON delimitado por aspas simples."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/adminCommands/spawnnpc"
+      ]
+    },
+    "Texts": {
+      "Eng": "Usage /spawnnpc species type [level] [seed] [overrides]. Spawn an NPC of the specified species and type at the mouse cursor. Level defaults to 1. Overrides should be specified as a JSON object enclosed by single quotes.",
+      "Por": "Uso /spawnnpc species tipo [nível] [seed] [overrides]. Invoca um NPC da espécie especificada e tipo na posição do cursor do mouse. Nível padrão 1. Substituições devem ser especificadas como um objeto JSON delimitado por aspas simples."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/adminCommands/spawnstagehand"
+      ]
+    },
+    "Texts": {
+      "Eng": "Usage /spawnstagehand type [parameters]. Spawn a Stagehand of the specified type. Parameters should be specified as a JSON object enclosed by single quotes.",
+      "Por": "Uso /spawnstagehand tipo [parâmetros]. Invoca um stagehand do tipo especificado. Parâmetros devem ser especificados como um objeto JSON delimitado por aspas simples."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/adminCommands/spawntreasure"
+      ]
+    },
+    "Texts": {
+      "Eng": "Usage /spawntreasure poolName [level]. Spawns all items in a single random generation of the specified treasure pool at the mouse cursor. Level defaults to 1.",
+      "Por": "Uso /spawntreasure poolName [nível]. Gera todos os itens em uma única geração aleatória da pool de tesouro especificada na posição do cursor do mouse. Nível padrão 1."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/adminCommands/spawnvehicle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Usage /spawnvehicle type [parameters]. Spawn a vehicle of the specified type at the mouse cursor. Parameters should be specified as a JSON object enclosed by single quotes.",
+      "Por": "Uso /spawnvehicle tipo [parâmetros]. Invoca um veículo do tipo especificado na posição do cursor do mouse. Parâmetros devem ser especificados como um objeto JSON delimitado por aspas simples."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/debugCommands/startquest"
+      ]
+    },
+    "Texts": {
+      "Eng": "Usage /startquest questArcDescriptor. Give the player a quest with the specified quest arc descriptor, which should be a JSON string or object enclosed by single quotes. To start a quest by quest template ID, enclose the template ID in single and double quotes, e.g. /startquest '\"protectorate\"'",
+      "Por": "Uso /startquest questArcDescriptor. Da ao jogador uma missão com o quest arc descriptor especificado, que deve ser uma seqüência de caracteres JSON ou objeto delimitado por aspas simples. Para iniciar uma missão pela quest template ID, coloque a ID do modelo em aspas simples e duplas, por exemplo, /startquest '\"protectorate\"'"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/debugCommands/statistic"
+      ]
+    },
+    "Texts": {
+      "Eng": "Usage /statistic statName. Displays the value of the specified achievement statistic.",
+      "Por": "Uso /statistic statName. Exibe o valor da estatística da conquista especificada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/basicCommands/suicide"
+      ]
+    },
+    "Texts": {
+      "Eng": "Usage /suicide. Kills the current character, incurring all normal death penalties (including permadeath!). This can be used as a last resort if you are irreversibly stuck.",
+      "Por": "Uso /suicide. Mata o personagem atual, aplicando todas as penalidades de morte normais (Incluindo morte permanente!). Isso pode ser usado como um último recurso se você estiver irreversivelmente preso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/adminCommands/timewarp"
+      ]
+    },
+    "Texts": {
+      "Eng": "Usage /timewarp time. Warp universe time ahead by the specified number of seconds.",
+      "Por": "Uso /timewarp time. Aumenta o tempo do universo pelo número especificado de segundos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/debugCommands/togglelayer"
+      ]
+    },
+    "Texts": {
+      "Eng": "Usage /togglelayer. Toggle the visibility of the specified layer. A layer is a number between 1 and 21. They are in order: Sky, Parallax, Background, Platforms, Plant, PlantDrop, Object, CursorHintedObject, ParticlesBottom, Effect, Projectile, NPC, Player, ItemDrop, Water, ParticlesMiddle, Foreground, ParticlesTop, Nametag, InfoBars.",
+      "Por": "Uso /togglelayer. Alterna a visibilidade da camada especificada. Uma camada é um número entre 1 e 21. Elas estão em ordem: Sky, Parallax, Background, Platforms, Plant, PlantDrop, Object, CursorHintedObject, ParticlesBottom, Effect, Projectile, NPC, Player, ItemDrop, Water, ParticlesMiddle, Foreground, ParticlesTop, Nametag, InfoBars."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/adminCommands/unbanip"
+      ]
+    },
+    "Texts": {
+      "Eng": "Usage /unbanip address. Removes entries with the specified address from temporary and permanent ban lists."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/adminCommands/unbanuuiud"
+      ]
+    },
+    "Texts": {
+      "Eng": "Usage /unbanuuid uuid. Removes entries with the specified uuid from temporary and permanent ban lists."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/debugCommands/upgradeship"
+      ]
+    },
+    "Texts": {
+      "Eng": "Usage /upgradeship shipUpgrades. Applies the specified ship upgrades to the current player's ship. shipUpgrades should be specified as a JSON object enclosed by single quotes, e.g. '{\"shipLevel\" : 5}'",
+      "Por": "Uso /upgradeship shipUpgrades. Aplica as atualizações de nave especificadas para a nave atual do jogador. shipUpgrades deve ser especificado como um objeto JSON entre aspas simples, por exemplo, '{\"shipLevel\" : 5}'"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/adminCommands/warp"
+      ]
+    },
+    "Texts": {
+      "Eng": "Usage /warp warpAction. Warps player to a world and/or position. Valid warp action formats include: OwnShip, OrbitedWorld, CelestialWorld:celestialcoordinates, InstanceWorld:worldid:<uuid>:<level>, ClientShipWorld:playeruuid, Player:playeruuid, Nowhere (current world). Most warp actions can have =xcoordinate.ycoordinate added to specify a position within that world.",
+      "Por": "Uso /warp warpAction. Teleporta o jogador para um mundo e/ou posição. Os formatos de teleporte válidos incluem: OwnShip, OrbitedWorld, CelestialWorld:celestialcoordinates, InstanceWorld:worldid:<uuid>:<level>, ClientShipWorld:playeruuid, Player:playeruuid, Nowhere (mundo atual). A maioria das ações de teleporte pode ter =xcoordinate.ycoordinate adicionado para especificar uma posição dentro desse mundo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/basicCommands/whereami"
+      ]
+    },
+    "Texts": {
+      "Eng": "Usage /whereami. Display the celestial coordinate of your current location.",
+      "Por": "Uso /whereami. Exibe a coordenada celestial de sua localização atual."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/adminCommands/whereis"
+      ]
+    },
+    "Texts": {
+      "Eng": "Usage /whereis playerSpecifier. Display the celestial coordinate of the specified player's current location.",
+      "Por": "Uso /whereis playerSpecifier. Exiba a coordenada celestial da localização atual do jogador especificado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/basicCommands/whoami"
+      ]
+    },
+    "Texts": {
+      "Eng": "Usage /whoami. Display your local username and admin status.",
+      "Por": "Uso /whoami. Exibe seu nome de usuário local e status de administrador."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "help.config": [
+        "/basicCommands/help"
+      ]
+    },
+    "Texts": {
+      "Eng": "Use /help commandName to get detailed documentation.",
+      "Por": "Use /help nomedoComando para obter documentação detalhada."
+    }
+  }
+]

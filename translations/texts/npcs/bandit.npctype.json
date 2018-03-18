@@ -1,0 +1,86 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/bandit.npctype": [
+        "/scriptConfig/dialog/attack/human/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't think you're getting out of this one easily!",
+      "Por": "Não pense que você sairá dessa facilmente!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/bandit.npctype": [
+        "/scriptConfig/dialog/attack/human/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Good, a fight! I was almost bored!",
+      "Por": "Bom, uma luta! Eu estava quase entediado!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/bandit.npctype": [
+        "/scriptConfig/dialog/attack/human/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hey look, easy prey!",
+      "Por": "Ei, olha, uma presa fácil!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/bandit.npctype": [
+        "/scriptConfig/dialog/attack/human/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I bet you'll drop lots of pixels!",
+      "Por": "Aposto que você vai deixar cair um monte de pixels!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/bandit.npctype": [
+        "/scriptConfig/dialog/attack/human/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Surprise, you're about to get poked full of holes!",
+      "Por": "Surpresa, você está prestes a ficar cheio de buracos!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/bandit.npctype": [
+        "/scriptConfig/dialog/attack/human/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "This isn't personal, I just love attacking people!",
+      "Por": "Isto não é pessoal, eu apenas adoro atacar as pessoas!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/bandit.npctype": [
+        "/scriptConfig/dialog/attack/human/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "You've wandered right into the wolf's den!",
+      "Por": "Você acaba de entrar na toca do lobo!"
+    }
+  }
+]

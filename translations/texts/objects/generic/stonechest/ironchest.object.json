@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/stonechest/ironchest.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A basic iron chest.",
+      "Por": "Um baú de ferro básico."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/stonechest/ironchest.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Iron Chest",
+      "Por": "Iron Chest"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/stonechest/ironchest.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Well I'll be - an unopened chest! Let's take a look.",
+      "Por": "Um baú fechado! Vamos dar uma olhada."
+    }
+  }
+]

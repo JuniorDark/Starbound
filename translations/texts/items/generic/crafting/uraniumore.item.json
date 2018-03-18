@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/uraniumore.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's uranium. A good source of fuel.",
+      "Por": "É urânio. Uma boa fonte de combustível."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/crafting/uraniumore.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Uranium Ore",
+      "Por": "Uranium Ore"
+    }
+  }
+]

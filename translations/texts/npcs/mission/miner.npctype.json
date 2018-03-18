@@ -1,0 +1,951 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/13"
+      ]
+    },
+    "Texts": {
+      "Eng": "A few of us went to help down in the lower levels, but they didn't come back.",
+      "Por": "Alguns de nós foram para ajudar nos níveis mais baixos, mas eles não voltaram."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/lostTarget/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are we safe?",
+      "Por": "Estamos seguros?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are you here to save us?",
+      "Por": "Você está aqui para nos salvar?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "At this rate I'm wondering if we'll ever get off this moon.",
+      "Por": "Nesse ritmo eu estou querendo saber se eu nunca vou sair desta lua."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/lostTarget/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Did it run away?",
+      "Por": "Será que ele fugiu?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/lostTarget/default/default/0",
+        "/scriptConfig/dialog/outOfSight/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Did you see where it went?",
+      "Por": "Você viu onde ele foi?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/outOfSight/default/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Do you see it?",
+      "Por": "Você vê ele?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/attack/default/default/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't let it get close!",
+      "Por": "Não deixe que ele se aproxime!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/attack/default/default/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't let them near you!",
+      "Por": "Não deixe eles chegar perto de você!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/33"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't let these fleshy monsters take you too!",
+      "Por": "Não deixe que esses monstros carnudas te pegar também!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/attack/default/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fall back!",
+      "Por": "Volte!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/attack/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Get back you fleshy freak!",
+      "Por": "Volte aberração carnuda!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/attack/default/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Get back!",
+      "Por": "Para trás!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/cheerOn/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Have you had training?",
+      "Por": "Você teve treinamento?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/25"
+      ]
+    },
+    "Texts": {
+      "Eng": "Help had better be on the way!",
+      "Por": "Melhor que a ajuda esteja a caminho!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/reattack/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Here they come again!",
+      "Por": "Lá vêm eles de novo!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/31"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hey, do you know a way out of this place?",
+      "Por": "Ei, você sabe uma maneira de sair deste lugar?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/30"
+      ]
+    },
+    "Texts": {
+      "Eng": "How'd you get down here? the facility is on lockdown!",
+      "Por": "Como você chegou até aqui? a instalação está trancada!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/cantReach/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can't hit it!",
+      "Por": "Eu não posso acerta-lo!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/outOfSight/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can't see it!",
+      "Por": "Eu não posso vê-lo!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/cantReach/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I don't have a clear shot from here!",
+      "Por": "Eu não tenho um tiro limpo daqui!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/cantReach/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I don't have a shot!",
+      "Por": "Eu não tenho um tiro!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/24"
+      ]
+    },
+    "Texts": {
+      "Eng": "I feel bad for whoever's in the clean up crew...",
+      "Por": "Sinto-me mal por quem está na equipe de limpeza..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/32"
+      ]
+    },
+    "Texts": {
+      "Eng": "I had a feeling those crystals weren't safe!",
+      "Por": "Eu tive um pressentimento de que esses cristais não eram seguros!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/34"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have this eerie sense that something is watching me...",
+      "Por": "Eu tenho essa sensação estranha de que algo está me observando..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/28"
+      ]
+    },
+    "Texts": {
+      "Eng": "I keep hearing noises, like something is deep down below...",
+      "Por": "Eu continuo ouvindo barulhos, como se algo estivesse la nas profundezas..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/lostTarget/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I think it's gone.",
+      "Por": "Eu acho que ele foi embora."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/killedTarget/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I think we're safe, for now.",
+      "Por": "Eu acho que estamos seguros, por enquanto."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/killedTarget/default/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wasn't sure if we'd make it.",
+      "Por": "Eu não tinha certeza se conseguiríamos fazer isso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/23"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wish I'd never taken this job!",
+      "Por": "Eu gostaria de nunca ter pego este trabalho!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/29"
+      ]
+    },
+    "Texts": {
+      "Eng": "I won't be able to hold out in this place much longer!",
+      "Por": "Eu não vou ser capaz de aguentar neste lugar por muito mais tempo!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm a miner, I'm not trained to deal with a situation like this!",
+      "Por": "Eu sou um mineiro, eu não fui treinado para lidar com uma situação como esta!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/killedTarget/default/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm not cleaning that up..",
+      "Por": "Eu não vou limpar isso..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/26"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm not sure how many of us are left.",
+      "Por": "Não tenho certeza quantos de nós restaram."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/outOfSight/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've lost track of it!",
+      "Por": "Eu perdi o controle disto!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "If I keep out of the way, those monsters might ignore me.",
+      "Por": "Se eu continuar fora do caminho, esses monstros pode me ignorar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/outOfSight/default/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "It couldn't have vanished..",
+      "Por": "Isso não poderia ter desaparecido."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/17"
+      ]
+    },
+    "Texts": {
+      "Eng": "It looks like we're on our own down here.",
+      "Por": "Parece que estamos por conta própria aqui em baixo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a good thing we had these weapons down here.",
+      "Por": "Que bom que tínhamos essas armas aqui em baixo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/cantReach/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's just out of reach!",
+      "Por": "Esta apenas fora de alcance!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/attack/default/default/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "Keep your distance!",
+      "Por": "Mantenha distância!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/14"
+      ]
+    },
+    "Texts": {
+      "Eng": "Letheia never prepared us for something like this.",
+      "Por": "Letheia nunca nos preparou para algo assim."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/18"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looks like we've been left to deal with this ourselves.",
+      "Por": "Parece que nós fomos deixado para lidar com isso nós mesmos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/cheerOn/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nice job!",
+      "Por": "Bom trabalho!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/attack/default/default/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Push it back!",
+      "Por": "Empurre de volta!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/38"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rocks? I can deal with those. Fleshy mutants? Not so much.",
+      "Por": "Rochas? Sou capaz de lidar com elas. Mutantes carnudos? Nem tanto."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "So you're our backup? I hope you know what you're doing.",
+      "Por": "Então você é o nosso reforço? Espero que você saiba o que está fazendo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/killedTarget/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Something tells me that's not the last of them..",
+      "Por": "Algo me diz que não é o último deles."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/attack/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stay away from me!",
+      "Por": "Fique longe de mim!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/cheerOn/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Take it out!",
+      "Por": "Leve-o para fora!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/attack/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Take this!",
+      "Por": "Tome isso!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/killedTarget/default/default/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "That's one less horror in the world..",
+      "Por": "Isso é menos um horror no mundo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Facility's on lockdown. I'm hiding here until those monsters disappear.",
+      "Por": "A Instalação esta trancada. Eu estou me escondendo aqui até que esses monstros desapareçam."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/reattack/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "There's more!",
+      "Por": "Tem mais!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/27"
+      ]
+    },
+    "Texts": {
+      "Eng": "These creatures appeared so suddenly...",
+      "Por": "Essas criaturas aparecem tão de repente..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/attack/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "They found us!",
+      "Por": "Eles nos encontraram!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/reattack/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "They won't stop coming!",
+      "Por": "Eles não param de vir!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/reattack/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "They're back!",
+      "Por": "Eles voltaram!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/attack/default/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "They're here!",
+      "Por": "Eles estão aqui!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/19"
+      ]
+    },
+    "Texts": {
+      "Eng": "This entire facility was sealed off when we raised the alarm!",
+      "Por": "A instalação inteira foi selada quando soou o alarme!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "This gun won't be enough to hold back all of those things!",
+      "Por": "Esta arma não será suficiente para conter todas essas coisas!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/20"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is what happens when you dig too deep!",
+      "Por": "Isto é o que acontece quando você cava muito fundo!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/21"
+      ]
+    },
+    "Texts": {
+      "Eng": "Those fools woke it up, and now we're paying the price.",
+      "Por": "Esses tolos acordaram eles, e agora estamos pagando o preço."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "Those pink things, they look almost like people.",
+      "Por": "Essas coisas cor de rosa, eles parecem quase como pessoas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/35"
+      ]
+    },
+    "Texts": {
+      "Eng": "Those slimy creatures nearly got me!",
+      "Por": "Essas criaturas viscosas quase me pegaram!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/15"
+      ]
+    },
+    "Texts": {
+      "Eng": "Those things weren't here before. What created them?",
+      "Por": "Essas coisas não estavam aqui antes. O que as criou?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/killedTarget/default/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ugh! this whole room smells terrible now.",
+      "Por": "Ugh! esta sala inteira cheira terrível agora."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/22"
+      ]
+    },
+    "Texts": {
+      "Eng": "We found something deep in the bowels of this place. I made sure I didn't stick around.",
+      "Por": "Nós encontramos algo nas profundezas deste lugar. Fiz questão de não ficar por aqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "We had someone send out the distress signal, but it must've put the facility on lockdown.",
+      "Por": "Tínhamos alguém para enviar o sinal de socorro, mas ele deve ter trancado a instalação."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/36"
+      ]
+    },
+    "Texts": {
+      "Eng": "We need to get off this moon!",
+      "Por": "Precisamos sair dessa lua!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "We need to get out of here!",
+      "Por": "Precisamos sair daqui!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/killedTarget/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "What a mess..",
+      "Por": "Que bagunça."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/37"
+      ]
+    },
+    "Texts": {
+      "Eng": "When I get out, I'm handing in my resignation...",
+      "Por": "Quando eu sair, eu vou pedir demissão..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/16"
+      ]
+    },
+    "Texts": {
+      "Eng": "Where did these creatures come from?",
+      "Por": "De onde estas criaturas vêm?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/outOfSight/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Where'd it go?",
+      "Por": "Aonde ele foi?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Why would you come to this place? You should go before it's too late!",
+      "Por": "Por que você veio a este lugar? Você deve ir antes que seja tarde demais!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/killedTarget/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wow! they practically disintegrated.",
+      "Por": "Uau! eles praticamente se desintegraram."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/converse/default/default/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "You heard our distress signal? Our comms died as soon as the facility went on lockdown.",
+      "Por": "Você ouviu o nosso pedido de socorro? Nossos comunicadores morreram assim que a instalação foi trancada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/miner.npctype": [
+        "/scriptConfig/dialog/cheerOn/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "You're pretty good at this!",
+      "Por": "Você é muito bom nisso!"
+    }
+  }
+]

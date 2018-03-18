@@ -1,0 +1,142 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/craft.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "<craftedItems> will be very ussseful. Floran thanks you for making these.",
+      "Por": "<craftedItems> será muito útil. Floran te agradece por fazer estes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/craft.questtemplate": [
+        "/scriptConfig/generatedText/text/default/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran needsss ^orange;<craftedItems>.^green; They can be crafted from ^orange;<ingredients>. ^white;Can you help?",
+      "Por": "Floran precisa de ^orange;<craftedItems>.^green; Eles podem ser criados a partir de ^orange;<ingredients>. Você pode ajudar?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/craft.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Here is the point at which I falter. My creative ability is below average,  ^green;would you be so kind as to craft ^orange;<craftedItems>^white; on my behalf? You can use the ^orange;<ingredients>^white; we obtained earlier."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/craft.questtemplate": [
+        "/scriptConfig/generatedText/text/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Next you'll need to ^green;assemble ^orange;<craftedItems>^white;. You should be able to ^green;use the ^orange;<ingredients>^white; that you gathered earlier.",
+      "Por": "Em seguida você precisa ^green;montar ^orange;<craftedItems>^white;. Você deve ser capaz de ^green;usar o ^orange;<ingredients>^white; que você coletou mais cedo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/craft.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now for the real task at hand,  ^green;you must craft ^orange;<craftedItems>^white; for me. You already have all the materials you need, and my gratitude."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/craft.questtemplate": [
+        "/scriptConfig/generatedText/text/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now you have the crafting ingredientsss we need. ^green;Make Floran ^orange;<craftedItems>.",
+      "Por": "Agora você tem os ingredientess de fabricação que precisamos. ^green;Faça para Floran ^orange;<craftedItems>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/craft.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssskillfully crafted, <player>! Now Floran has another request.",
+      "Por": "Habilidosamente criado, <player>! Agora Floran tem um outro pedido."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/craft.questtemplate": [
+        "/scriptConfig/generatedText/text/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "The next step requires ^green;putting together ^orange;<craftedItems>^white;. I would do it myself, but my crafting skills are terrible! If you want to take a shot, you should have everything you need.",
+      "Por": "O próximo passo requer ^green;reunir ^orange;<craftedItems>^white;. Eu gostaria de fazer isso sozinho, mas minhas habilidades de fabricação são terríveis! Se você quiser tentar, você deve ter tudo o que precisa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/craft.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The wait has been agonising but at last my plans can go ahead, all thanks to you! "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/craft.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wow, very well constructed. Thank you, this is going to work nicely for what I have planned.",
+      "Por": "Uau, muito bem construído. Obrigado, isso vai funcionar muito bem para o que eu planejei."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/craft.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "You made that look easy! I suspect you've done some crafting before. With this we can finally move forward. Thanks!",
+      "Por": "Você fez isso parecer fácil! Eu suspeito que você tenha feito alguma fabricação antes. Com isso, podemos finalmente avançar. Obrigado!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/craft.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Your craftsmanship is truly splendid! I'll be sure to call on you again in future. "
+    }
+  }
+]

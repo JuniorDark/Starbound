@@ -1,0 +1,831 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/otherDeed/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are you trying to move a stranger into my home?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/otherDeed/glitch/default/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "But this is my home, I can't share it..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/enclosedArea/glitch/default/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can you fix my home? I'm sure it's salvageable."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/enclosedArea/human/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can you sort out the damage in here?",
+      "Por": "Você poderia reparar o dano aqui?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/otherDeed/avian/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Did you put my house up for rent? This must be a mistake...",
+      "Por": "Você colocou minha casa para alugar? isto deve ser um erro..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/final/avian/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enough is enough. I deserve a proper home.",
+      "Por": "Já é suficiente. Eu mereço uma casa adequada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/severe/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran can't live like thisss!",
+      "Por": "Floran não pode viver dessse jeito!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/final/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran givess up! Floran can't live like this!",
+      "Por": "Floran dessiste! Floran não pode viver assim!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/severe/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran is angry, fix Floran's house.",
+      "Por": "Floran está com raiva, arrume a casa de Floran."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/final/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran iss going, can't live here anymore!",
+      "Por": "Floran esstá indo, Floran não vive mais aqui!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/enclosedArea/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran likess walls without holes. Can you fix Floran's house?",
+      "Por": "Floran gosssta de paredes sem buracos. Pode consertar a casa de Floran?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/enclosedArea/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran's house is broken. Can you fix it?",
+      "Por": "Casa de Floran esta quebrada. Você pode concertar isso?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/tagCriteria/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran's house was great before. Make it right again!",
+      "Por": "Casssa do Floran era ótima antesss. Torne ela correta novamente!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/otherDeed/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran's not sharing home! Take ssecond deed down.",
+      "Por": "Floran não vai compartilhar casa! Tire essa ssegunda deed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/tagCriteria/human/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Has something moved in here? It feels off...",
+      "Por": "Alguma coisa mudou aqui? Isso parece estar fora de lugar..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/enclosedArea/avian/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hmm, this damage isn't great. Could you fix it?",
+      "Por": "Hmm, este dano não e bom. Você pode consertar isso?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/final/hylotl/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can't abide this any longer. I'm going.",
+      "Por": "Não posso tolerar isso por mais tempo. Vou embora."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/severe/default/default/0",
+        "/severe/human/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can't live in these conditions!",
+      "Por": "Eu não posso viver nestas condições!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/severe/avian/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can't put up with this much longer - look at the state of my home.",
+      "Por": "Eu não posso aguentar isso por muito tempo - olhe para o estado da minha casa"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/final/glitch/default/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I deserve a better home than this"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/final/apex/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I deserve better living conditions than this!",
+      "Por": "Eu mereço melhores condições de vida do que isso!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/tagCriteria/glitch/default/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I dislike these changes, put things back how they were."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/otherDeed/hylotl/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I don't wish to share my home with a stranger.",
+      "Por": "Eu não quero dividir a minha casa com um estranho."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/final/human/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I give up, I'm moving out!",
+      "Por": "Eu desisto, eu estou indo embora!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/enclosedArea/human/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I need some repairs done!",
+      "Por": "Preciso de alguns reparos feitos!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/severe/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I need you to fix my home."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/otherDeed/glitch/default/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I thought this place was my very own home, but you want me to share it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/otherDeed/human/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I thought this was single tenancy!? I can't share my home!",
+      "Por": "Essa é a única locação!? Não consigo compartilhar minha casa!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/tagCriteria/glitch/default/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wish my house was how it used to be."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/final/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'd be better off beddin' down in a nest of crutters than stickin' round here.",
+      "Por": "Eu estaria melhor deitado encima de um ninho de bichos que estão por aqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/final/novakid/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'd rather sleep on a cactus than stay here one more night.",
+      "Por": "Prefiro dormir em um cacto do que ficar aqui mais uma noite."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/enclosedArea/avian/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'd really appreciate if you could repair the damages to my home.",
+      "Por": "Eu agradeceria se você consertasse os danos à minha casa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/tagCriteria/novakid/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "It ain't right to go stealin' from a person. Now, you just return what you took.",
+      "Por": "Não é certo roubar de uma pessoa. Agora, você só deve devolver o que você pegou."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/severe/apex/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "It is foolish to ignore an angry Apex. I suggest you fix up my home.",
+      "Por": "É loucura ignorar um Apex zangado. Sugiro que conserte a minha casa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/otherDeed/apex/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "It is not ok to do this. I will not share my home.",
+      "Por": "Não é ok para fazer isso. Eu não vou compartilhar a minha casa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/severe/human/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's impossible to live like this!",
+      "Por": "É impossível viver assim!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/severe/human/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Living here is pretty horrible right now...",
+      "Por": "Viver aqui é muito terrível agora..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/severe/apex/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Look at this place! Fix my home, or I leave.",
+      "Por": "Olhe para este lugar! Conserte a minha casa, ou eu vou embora."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/enclosedArea/novakid/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looks like you set a crazed capricoat loose in here! You gonna fix up these walls?",
+      "Por": "Parece que você colocou um capricoat louco solto aqui! Você vai consertar estas paredes?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/enclosedArea/human/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "My home could use some repairs...",
+      "Por": "A minha casa precisa de alguns reparos..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/tagCriteria/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "My home is different."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/enclosedArea/hylotl/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "My home is open to the elements, I'd be grateful if you'd mend the damage.",
+      "Por": "Minha casa esta aberta aos elementos, eu ficaria grato se você consertasse os danos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/enclosedArea/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "My poor house - the walls are damaged. Could you fix things up?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/severe/avian/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "My usually resilient patience is beginning to wear thin. Fix my home.",
+      "Por": "Minha paciência está começando a se esgotar. Conserte a minha casa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/otherDeed/hylotl/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Passive or not, I cannot stand by as you ensconce a second tenant in my home.",
+      "Por": "Passivo ou não, eu não posso ficar parado com você abrigando um segundo inquilino em minha casa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/enclosedArea/apex/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Please fix up these walls, the house is no good to me like this.",
+      "Por": "Por favor conserte essas paredes, a casa não e boa para mim assim."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/tagCriteria/hylotl/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Please return what you've taken.",
+      "Por": "Por favor, devolva o que você pegou."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/tagCriteria/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Put Floran's home back how it wasss.",
+      "Por": "Deixe a cassa de Floran como ela era."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/tagCriteria/hylotl/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Something is unbalanced in the flow of my home...",
+      "Por": "Alguma coisa está desequilibrada no fluxo da minha casa..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/tagCriteria/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssstop taking away my nice ssstuff.",
+      "Por": "Pare de tirar minhasss coissass boasss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/tagCriteria/apex/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stop taking things... You need to fix my home now.",
+      "Por": "Pare de pegar as coisas... Você precisa consertar minha casa agora."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/final/avian/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "That's it. I'm leaving. I can't stand living here anymore.",
+      "Por": "É isso aí. Estou indo embora. Eu não suporto viver mais aqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/tagCriteria/human/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "The arrangement of my house has changed, this isn't alright...",
+      "Por": "O arranjo da minha casa mudou , isso não é bom..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/severe/glitch/default/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The fixes to my home haven't been made."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/enclosedArea/apex/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "There is a hole in my house...",
+      "Por": "Tem um buraco na minha casa..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/enclosedArea/glitch/default/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "There is a need for repairs here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/otherDeed/hylotl/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "There is another deed in my home? Surely a mistake has been made?",
+      "Por": "Há uma outra deed em minha casa? Certamente um erro foi cometido?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/tagCriteria/hylotl/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "There is something disquieting about the current layout of my home...",
+      "Por": "Há algo inquietante no layout atual da minha casa..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/otherDeed/avian/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "There's another deed in my house - Surely this isn't intentional.",
+      "Por": "Há uma outra deed em minha casa - Certamente isso não é intencional."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/tagCriteria/apex/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "These changes are unsettling, please put my things back.",
+      "Por": "Estas mudanças são inquietantes, por favor, coloque minhas coisas de volta."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/tagCriteria/human/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Things have changed... Either you've messed things up, or I'm being haunted.",
+      "Por": "As coisas mudaram... Ou você bagunçou as coisas, ou eu estou sendo assombrado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/otherDeed/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "This here's my land, don't make no sense to go movin' someone else in here.",
+      "Por": "Este aqui é a minha terra, não faz sentido colocar alguém aqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/otherDeed/apex/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is my home. I rent it from you. You can not move someone else in.",
+      "Por": "Esta é a minha casa. Eu alugá-lo de você. Você não pode mover alguém nela."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/otherDeed/novakid/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is my house dagnabbit, I ain't sharing it with no one.",
+      "Por": "Esta é a minha casa Dagnabbit, eu não vou compartilhá-la com ninguém."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/severe/hylotl/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is simply disgraceful, I demand you fix my house.",
+      "Por": "Isto é simplesmente uma desgraça, exijo que você conserte a minha casa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/tagCriteria/novakid/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "This ol' place don't feel right just now. You been messin' around in here.",
+      "Por": "Este velho lugar não parece certo agora. Você esteve mexendo por aqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/severe/novakid/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "This shack ain't what it used to be. You better make it right.",
+      "Por": "Esta barraco não é o que costumava ser. É melhor fazer isso direito."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/tagCriteria/avian/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Um, this isn't what my home was like before...",
+      "Por": "Hum, não é isso que minha casa era antes..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/otherDeed/avian/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Why's someone else trying to move into my house?",
+      "Por": "Por que alguem esta tentando se mudar para minha casa?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/severe/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "You sssstill haven't fixed things in Floran's house!",
+      "Por": "Você ainda não arrumou as coisas na casa de Floran!"
+    }
+  }
+]

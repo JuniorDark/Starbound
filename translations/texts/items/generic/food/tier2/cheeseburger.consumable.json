@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier2/cheeseburger.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A juicy hamburger, topped with cheese.",
+      "Por": "Um suculento hambúrguer, coberto com queijo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/tier2/cheeseburger.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cheeseburger",
+      "Por": "Cheeseburger"
+    }
+  }
+]

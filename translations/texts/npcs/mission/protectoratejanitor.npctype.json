@@ -1,0 +1,62 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/protectoratejanitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frustrated. They have me sweeping the bridge every hour like I'm a machine or something.",
+      "Por": "Frustrado. Eles me fazem varrer a ponte a cada hora como se eu fosse uma máquina ou algo assim."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/protectoratejanitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impatient. Just one day away from retirement...",
+      "Por": "Impaciente. Apenas um dia de distância da aposentadoria..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/protectoratejanitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleasant. At least it's a nice day to be working outside.",
+      "Por": "Agradável. Pelo menos é um bom dia para trabalhar aqui fora."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/protectoratejanitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Resigned. I suppose this tree's beauty provides some justification for its upkeep.",
+      "Por": "Conformado. Acho que a beleza desta árvore fornece uma justificação para a sua manutenção."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/mission/protectoratejanitor.npctype": [
+        "/scriptConfig/dialog/complain/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Weary. Every day, more petals to sweep.",
+      "Por": "Cansado. Todos os dias, mais pétalas para varrer."
+    }
+  }
+]

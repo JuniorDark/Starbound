@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/chakram/neochakram.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crackling with destructive energy.",
+      "Por": "Carregado com energia destrutiva."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/chakram/neochakram.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neo Chakram",
+      "Por": "Neo Chakram"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/chakram/neochakram.activeitem": [
+        "/upgradeParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neo Chakram ^yellow;^reset;",
+      "Por": "Neo Chakram ^yellow;^reset;"
+    }
+  }
+]
