@@ -1,9 +1,6 @@
 [
   {
-    "DeniedAlternatives": [
-      " Maquina de Venda",
-      "Maquina de Venda"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "interface/windowconfig/vendingmachine.config": [
         "/paneLayout/windowtitle/title"
@@ -1082,7 +1079,7 @@
     },
     "Texts": {
       "Eng": "Nuru",
-      "Por": ""
+      "Por": "Nuru"
     }
   },
   {
