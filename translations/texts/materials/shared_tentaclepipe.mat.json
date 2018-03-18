@@ -1,8 +1,6 @@
 [
   {
-    "DeniedAlternatives": [
-      "Um grande tentáculo"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "items/materials/tentaclepipe.matitem": [
         "/description"
@@ -47,9 +45,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Parece que eu sou um tipo de tentáculo"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "items/materials/tentaclepipe.matitem": [
         "/novakidDescription"

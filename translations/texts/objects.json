@@ -74,8 +74,7 @@
       ]
     },
     "Texts": {
-      "Eng": "A remarkable pedestal.",
-      "Por": "Um pedestal notável."
+      "Eng": "A remarkable pedestal."
     }
   },
   {
@@ -94,9 +93,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Uma velha escrivaninha."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/clues/glitch/glitchscribe/glitchscribe.object": [
         "/novakidDescription"
@@ -151,8 +148,7 @@
       ]
     },
     "Texts": {
-      "Eng": "An unremarkable root.",
-      "Por": "Uma raiz normal."
+      "Eng": "An unremarkable root."
     }
   },
   {
@@ -213,13 +209,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "\"Acho que há algo lá dentro. Provavelmente, posso abri-la.",
-      "Acho que há algo dentro. Provavelmente posso quebrar para abri-lo.",
-      "Acho que há algo lá dentro. Provavelmente, posso abri-lo.",
-      "Acho que tem alguma coisa aí. Eu provavelmente posso abri-lo.",
-      "Eu acho que há algo dentro. Provavelmente posso abri-la."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/biome/tentacle/tentaclepopbig/tentaclepopbig.object": [
         "/humanDescription"
@@ -927,10 +917,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Às vezes a força pode render recompensas.",
-      "Às vezes, força pode render recompensas."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/biome/tentacle/tentaclepopbig/tentaclepopbig.object": [
         "/hylotlDescription"
@@ -960,10 +947,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Esmagar! Obter guloseimas de dentro!",
-      "Esmagar! Obter guloseimass dentro!"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/biome/tentacle/tentaclepopbig/tentaclepopbig.object": [
         "/floranDescription"
@@ -993,9 +977,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Os Hylotl praticam caligrafia em mesas como essas."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/clues/glitch/glitchscribe/glitchscribe.object": [
         "/hylotlDescription"
@@ -1020,8 +1002,7 @@
       ]
     },
     "Texts": {
-      "Eng": "This is a desk suitable for scholars.",
-      "Por": "Esta é uma mesa adequada para estudiosos."
+      "Eng": "This is a desk suitable for scholars."
     }
   },
   {

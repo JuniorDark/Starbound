@@ -39,9 +39,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Ache ^orange;<itemName>^reset;: ^green;<current> / <required>^reset;"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "quests/outpost/shipupgrade/illegalshipupgrade1.questtemplate": [
         "/scriptConfig/conditions/0/description"

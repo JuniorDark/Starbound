@@ -1,8 +1,6 @@
 [
   {
-    "DeniedAlternatives": [
-      "Uma casa em miniatura. Não bata muito forte!"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/biome/gnome/smallhouse11/smallhouse11.object": [
         "/description"
@@ -292,9 +290,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Casinha na Pradaria. Ou onde quer que você esteja."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/biome/gnome/smallhouse10/smallhouse10.object": [
         "/description"
@@ -324,9 +320,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Esta é a casa mais pequena que já vi."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/biome/gnome/smallchurch/smallchurch.object": [
         "/apexDescription"

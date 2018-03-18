@@ -69,9 +69,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Volte para ^orange;Nuru^reset; No ^orange;Posto Avançado^reset;"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "quests/outpost/floranarena1.questtemplate": [
         "/scriptConfig/descriptions/turnIn"
@@ -122,9 +120,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Fale com ^orange;Nuru^reset; Para viajar para a ^orange;arena^reset;"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "quests/outpost/floranarena1.questtemplate": [
         "/scriptConfig/descriptions/enterInstance"
@@ -142,9 +138,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Vença a batalha da arena"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "quests/outpost/floranarena1.questtemplate": [
         "/scriptConfig/descriptions/findGoal"

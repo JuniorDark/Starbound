@@ -1,8 +1,6 @@
 [
   {
-    "DeniedAlternatives": [
-      "Um lugar altamente decente para sentar."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/themed/geometric/geometricchair/geometricchair.object": [
         "/avianDescription"
@@ -26,12 +24,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Floran sssenta na cadeira e pensa sobre caça.",
-      "Floran sssenta-se na cadeira e pensa sobre caçar.",
-      "Floran sssentar-se na cadeira e pensa sobre caçar.",
-      "Floran sssente-se na cadeira e pensa sobre caça."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/themed/geometric/geometricchair/geometricchair.object": [
         "/floranDescription"

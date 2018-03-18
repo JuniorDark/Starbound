@@ -1,8 +1,6 @@
 [
   {
-    "DeniedAlternatives": [
-      "Uma planta enrolada, assemelhando-se a DNA."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/biome/cellcave/dnaplant2/dnaplant2.object": [
         "/description"
@@ -160,9 +158,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Planta que cresce em um padrão."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/biome/cellcave/dnaplant2/dnaplant2.object": [
         "/floranDescription"

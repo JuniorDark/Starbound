@@ -1,9 +1,6 @@
 [
   {
-    "DeniedAlternatives": [
-      "Um impulsionador, as asas de uma nave.",
-      "Um propulsor, as asas de um nave."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/ship/boosters/bigboosterflame/bigboosterflame.object": [
         "/avianDescription"
@@ -72,9 +69,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Um impulsionador. Estes são conhecidos por mal funcionamento e explodir."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/ship/boosters/bigboosterflame/bigboosterflame.object": [
         "/apexDescription"
@@ -211,9 +206,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Pergunto-me quão rapidamente que iria cozinhar um hambúrguer."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/ship/boosters/bigboosterflame/bigboosterflame.object": [
         "/description"
@@ -351,9 +344,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Fogo assustador"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/ship/boosters/bigboosterflame/bigboosterflame.object": [
         "/floranDescription"
@@ -490,9 +481,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Esta coisa é alimenta por combustível."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/ship/boosters/bigboosterflame/bigboosterflame.object": [
         "/humanDescription"

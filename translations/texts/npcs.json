@@ -15,9 +15,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Debaixo deste traje amarelo, meu coração bate pelo amor da descoberta!"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "npcs/biome/hazmatscientist.npctype": [
         "/scriptConfig/dialog/converse/default/default/14"
@@ -45,14 +43,11 @@
       ]
     },
     "Texts": {
-      "Eng": "Did you just look at me funny?",
-      "Por": "Você acabou de me dar uma olhadela?"
+      "Eng": "Did you just look at me funny?"
     }
   },
   {
-    "DeniedAlternatives": [
-      "A Terra está perdida, e muito arte bela com ela!"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "npcs/outpost/visitors/socialitevisitor.npctype": [
         "/scriptConfig/dialog/converse/default/default/0"
@@ -67,9 +62,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Ar fresco e liberdade, Esta é a vida para mim!"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "npcs/outpost/visitors/piratevisitor.npctype": [
         "/scriptConfig/dialog/converse/default/default/2"
@@ -115,11 +108,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Entrei para um equipe de dirigível quando parei de acreditar em Kluex. Boms tempos dirigindo o vento.",
-      "Entrei para um equipe de dirigível quando parei de acreditar em Kluex. Bons tempos dirigindo o vento.",
-      "Entrei para uma tripulação de um dirigível quando eu parei de acreditar em Kluex. Dias felizes montando o vento"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "npcs/outpost/visitors/piratevisitor.npctype": [
         "/scriptConfig/dialog/converse/default/default/1"
@@ -477,9 +466,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Homem Larva diz: Serva todos os seus pratos frios, como vingança."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "npcs/outpost/visitors/maggotmanvisitor.npctype": [
         "/scriptConfig/dialog/converse/default/default/19"
@@ -659,10 +646,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Yo-ho-ho, é a vida de castigado pra mim!",
-      "Yo-ho-ho, é a vida no chão pra mim!"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "npcs/outpost/visitors/piratevisitor.npctype": [
         "/scriptConfig/dialog/converse/default/default/0"
@@ -688,8 +672,7 @@
       ]
     },
     "Texts": {
-      "Eng": "You do not want to mess with us!",
-      "Por": "Você não quer mexer conosco!"
+      "Eng": "You do not want to mess with us!"
     }
   },
   {

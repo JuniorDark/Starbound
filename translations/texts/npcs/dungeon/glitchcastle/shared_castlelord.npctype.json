@@ -84,9 +84,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Com Medo. Guardas! Venham!"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "npcs/dungeon/glitchcastle/castlelord.npctype": [
         "/scriptConfig/dialog/attack/default/default/0"

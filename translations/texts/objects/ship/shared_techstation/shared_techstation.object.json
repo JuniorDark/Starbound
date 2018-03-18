@@ -330,10 +330,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Por favor reinicie o sistema.",
-      "Sistema desligado, favor reinicie."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/ship/aviantechstation/aviantechstation.object": [
         "/dialog/wakePlayer/0/0"
@@ -393,9 +390,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Esta console me permite se comunicar com SAIL."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/ship/aviantechstation/aviantechstation.object": [
         "/hylotlDescription"

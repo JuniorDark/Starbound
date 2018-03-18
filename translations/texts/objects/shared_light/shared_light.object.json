@@ -30,9 +30,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Uma lâmpada elétrica. Parece construído para uma chama."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/apex/classiclight/classiclight.object": [
         "/humanDescription"
@@ -166,9 +164,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "O brilho desta lâmpada é quente e reconfortante."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/apex/classiclight/classiclight.object": [
         "/avianDescription"
@@ -198,9 +194,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Estas luzes são comumente usados em naves."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/mission/redlight/redlight.object": [
         "/apexDescription"

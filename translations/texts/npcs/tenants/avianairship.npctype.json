@@ -24,9 +24,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Eu costumava ser parte de uma grande equipe! É mais calmo aqui."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "npcs/tenants/avianairship.npctype": [
         "/scriptConfig/dialog/converse/avian/avian/0",

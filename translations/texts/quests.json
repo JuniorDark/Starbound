@@ -1,8 +1,6 @@
 [
   {
-    "DeniedAlternatives": [
-      "Pinguim Pete"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "quests/outpost/shipupgrade/illegalshipupgrade1.questtemplate": [
         "/scriptConfig/portraits/questComplete/title"
@@ -45,9 +43,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Volte para <questGiver>"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/borrow.questtemplate": [
         "/scriptConfig/objectives/1/text"

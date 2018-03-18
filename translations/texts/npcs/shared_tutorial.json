@@ -15,9 +15,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Só estou numa das minhas viagens, fazendo minhas coisas."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "npcs/tutorial.npctype": [
         "/scriptConfig/dialog/converse/default/default/0"

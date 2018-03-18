@@ -1,8 +1,6 @@
 [
   {
-    "DeniedAlternatives": [
-      "Um mercador como eu merece mais. Suficiente é suficiente."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "dialog/merchant.config": [
         "/final/avian/default/0"
@@ -27,15 +25,11 @@
       ]
     },
     "Texts": {
-      "Eng": "Are you trying to move another merchant into my store?",
-      "Por": "Você está tentando mover outro comerciante para minha loja?"
+      "Eng": "Are you trying to move another merchant into my store?"
     }
   },
   {
-    "DeniedAlternatives": [
-      "Melhores ofertas ao redor!",
-      "Melhores ofertas por aí!"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "dialog/merchant.config": [
         "/tout/default/default/2"
@@ -51,9 +45,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Você alugou minha loja? isso tem que ser um erro..."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "dialog/merchant.config": [
         "/otherDeed/avian/default/1"
@@ -117,9 +109,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Está aqui um presente por toda sua ajuda com a minha loja!"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "dialog/merchant.config": [
         "/rent/default/default/0",
@@ -151,9 +141,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Eu não posso vender minhas mercadorias nessas condições!"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "dialog/merchant.config": [
         "/severe/default/default/0",
@@ -170,9 +158,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Eu mereço condições de trabalho melhores que essa!"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "dialog/merchant.config": [
         "/final/apex/default/1"
@@ -187,9 +173,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Eu desisto, Irei vender minhas mercadorias em algum outro lugar!"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "dialog/merchant.config": [
         "/final/human/default/2"
@@ -214,14 +198,11 @@
       ]
     },
     "Texts": {
-      "Eng": "I thought I had this shop exclusively for myself.",
-      "Por": "Eu pensei que tinha essa loja exclusivamente para mim."
+      "Eng": "I thought I had this shop exclusively for myself."
     }
   },
   {
-    "DeniedAlternatives": [
-      "Tem algo que precisa comprar?"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "dialog/merchant.config": [
         "/beacon/human/default/1"
@@ -236,9 +217,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Minha loja precisa estar em boas condições! poderia me ajudar a conserta-la?"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "dialog/merchant.config": [
         "/enclosedArea/human/default/2"
@@ -253,9 +232,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "É isso, eu desisto. Hora de levar meu negócio pra outro lugar!"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "dialog/merchant.config": [
         "/final/human/default/1"
@@ -270,9 +247,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Há uma outra Deed na minha loja. Certamente não é intencional."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "dialog/merchant.config": [
         "/otherDeed/avian/default/2"
@@ -287,9 +262,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Há uma outra Deed na minha loja? um erro foi cometido?"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "dialog/merchant.config": [
         "/otherDeed/hylotl/default/2"
@@ -304,9 +277,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Esta é a minha loja! Por que alguém iria roubar as coisas dela?"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "dialog/merchant.config": [
         "/tagCriteria/hylotl/default/1"
@@ -321,9 +292,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Por que alguém tentar entrar em minha loja?"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "dialog/merchant.config": [
         "/otherDeed/avian/default/0"

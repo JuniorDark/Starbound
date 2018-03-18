@@ -304,10 +304,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Energia Por Tiro:",
-      "Energia por Tiro:"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "interface/itemdescriptions/bow.itemdescription": [
         "/energyPerShotTitleLabel/value"
@@ -328,9 +325,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Cadência de Tiro:"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "interface/itemdescriptions/fistweapon.itemdescription": [
         "/speedTitleLabel/value"

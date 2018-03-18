@@ -60,9 +60,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Parece que você precisa do meu auxílio!"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "npcs/crew/crewmemberchemist.npctype": [
         "/scriptConfig/dialog/crewmember/combatBenefit/default/default/2"

@@ -1,8 +1,6 @@
 [
   {
-    "DeniedAlternatives": [
-      "^#b9b5b2;Prepare e cozinhe comida"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "interface/windowconfig/craftingfood.config": [
         "/paneLayout/windowtitle/subtitle"

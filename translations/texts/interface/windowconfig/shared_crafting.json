@@ -1,8 +1,6 @@
 [
   {
-    "DeniedAlternatives": [
-      "Forjar "
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "interface/windowconfig/craftinganvil.config": [
         "/paneLayout/btnCraft/caption"
@@ -68,9 +66,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "^#b9b5b2;PROJETOS"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "interface/windowconfig/craftingnocategories.config": [
         "/paneLayout/lblSchematics/value"

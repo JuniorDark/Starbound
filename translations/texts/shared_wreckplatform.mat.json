@@ -11,7 +11,6 @@
     },
     "Texts": {
       "Eng": "Russty and unssafe. Floran likess.",
-      "Chs": "Enferrujado e insesguro. Floran gossta.",
       "Por": "Enferrujado e insesguro. Floran gossta."
     }
   },
@@ -27,7 +26,6 @@
     },
     "Texts": {
       "Eng": "This rusty platform looks 'bout ready to fall apart.",
-      "Chs": "Esta plataforma enferrujada parece pronta pra desmoronar.",
       "Por": "Esta plataforma enferrujada parece pronta pra desmoronar."
     }
   },
@@ -42,14 +40,11 @@
       ]
     },
     "Texts": {
-      "Eng": "This rusty scaffolding appears structurally unsound.",
-      "Chs": "Este andaime enferrujado parece estruturalmente instável."
+      "Eng": "This rusty scaffolding appears structurally unsound."
     }
   },
   {
-    "DeniedAlternatives": [
-      " Wrecked Platform "
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "items/materials/wreckplatform.matitem": [
         "/shortdescription"
@@ -60,7 +55,6 @@
     },
     "Texts": {
       "Eng": "Wrecked Platform",
-      "Chs": "Wrecked Platform",
       "Por": "Wrecked Platform"
     }
   }

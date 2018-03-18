@@ -15,9 +15,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Nada aqui que vale a pena comentar."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "items/tools/inspectiontool/inspectionmode.inspectiontool": [
         "/nothingThereText/floran/3"
@@ -47,9 +45,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Nada de interesse aqui."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "items/tools/inspectiontool/inspectionmode.inspectiontool": [
         "/nothingThereText/default/0",
@@ -66,9 +62,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Isso é apenas uma grande nada."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "items/tools/inspectiontool/inspectionmode.inspectiontool": [
         "/nothingThereText/novakid/3"
@@ -93,14 +87,11 @@
       ]
     },
     "Texts": {
-      "Eng": "There is nothing there.",
-      "Por": "Não há nada ali."
+      "Eng": "There is nothing there."
     }
   },
   {
-    "DeniedAlternatives": [
-      "Não é nada."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "items/tools/inspectiontool/inspectionmode.inspectiontool": [
         "/nothingThereText/default/2",

@@ -132,9 +132,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Eu posso definitivamente passar despercebido aqui. Muito obrigado  - se você quiser algum apoio eu estarei aqui para ajudar!"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "npcs/crew/crewmemberoutlaw.npctype": [
         "/scriptConfig/dialog/crewmember/roleDescription/default/default/1",
@@ -385,9 +383,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Eu juro que não sou realmente tão mau... Esta nave é um lugar perfeito para passar despercebido. Se você precisar de uma mão extra para ajudar em suas viagens, venha me pegar!"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "npcs/crew/crewmemberoutlaw.npctype": [
         "/scriptConfig/dialog/crewmember/roleDescription/default/default/2",

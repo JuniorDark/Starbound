@@ -1,8 +1,6 @@
 [
   {
-    "DeniedAlternatives": [
-      "Eu com certeza poderia fazer bom uso desses itens aqui."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/apex/apexstoreshelf/apexstoreshelf.object": [
         "/novakidDescription"
@@ -47,9 +45,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Esta prateleira está cheia de itens, eu aposto que ele pode conter ainda mais."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/apex/apexstoreshelf/apexstoreshelf.object": [
         "/humanDescription"

@@ -1,8 +1,6 @@
 [
   {
-    "DeniedAlternatives": [
-      "Cheiro nojento de fruta no interior."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/apex/classicglass/classicglass.object": [
         "/floranDescription"
@@ -17,9 +15,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Floran não come em pratos, Floran tenta comer comida fresca da matança."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/apex/classicbowl/classicbowl.object": [
         "/floranDescription"
@@ -34,9 +30,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Utensílio de cozinha bastante sofisticado."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/apex/classicbowl/classicbowl.object": [
         "/humanDescription"

@@ -30,9 +30,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Armadilha de chama é o pior inimigo de Floran!"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/traps/ancientflametrap/ancientflametrap.object": [
         "/floranDescription"
@@ -61,9 +59,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Ouch! Chamas e penas não se misturam!"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/traps/ancientflametrap/ancientflametrap.object": [
         "/avianDescription"

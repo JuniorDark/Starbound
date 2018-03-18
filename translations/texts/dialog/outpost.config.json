@@ -59,9 +59,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Floran se machucou!"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "dialog/outpost.config": [
         "/flee/helpme/floran/default/1",
@@ -437,9 +435,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Hora de eeesfaquear pra mim!"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "dialog/outpost.config": [
         "/flee/helpme/floran/default/0",

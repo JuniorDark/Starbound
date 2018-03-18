@@ -1,8 +1,6 @@
 [
   {
-    "DeniedAlternatives": [
-      "Painéis resilientes baratos amplamente utilizados para a construção de naves e estações."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "items/materials/slopedhullpanel.matitem": [
         "/description"
@@ -31,9 +29,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Metal espacial liso brilhante."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "items/materials/slopedhullpanel.matitem": [
         "/florandescription"
@@ -48,9 +44,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Alguns revestimentos de metal grossos, parecem bem sólidos."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "items/materials/slopedhullpanel.matitem": [
         "/novakiddescription"

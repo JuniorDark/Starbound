@@ -1,8 +1,6 @@
 [
   {
-    "DeniedAlternatives": [
-      "Uma planta de plástico falsa e nojenta."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/hylotlplant1/hylotlplant1.object": [
         "/hylotlDescription"
@@ -17,9 +15,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Esta planta me faz lembrar de salas de espera."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/hylotlplant1/hylotlplant1.object": [
         "/humanDescription"

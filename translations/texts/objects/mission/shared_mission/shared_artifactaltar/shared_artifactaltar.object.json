@@ -1,10 +1,6 @@
 [
   {
-    "DeniedAlternatives": [
-      "\"Parece que foi feito para segurar algo importante.",
-      "Parece que ele foi feito para segurar alguma coisa importante.",
-      "Parece que foi feito para guardar algo importante."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/mission/apexmission/apexartifactaltar/apexartifactaltar.object": [
         "/description"

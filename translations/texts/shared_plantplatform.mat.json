@@ -30,9 +30,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "A plataforma é viscosa com musgo e folhas. Melhor ter cuidado para não escorregar!"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "items/materials/plantplatform.matitem": [
         "/description"
@@ -72,8 +70,7 @@
       ]
     },
     "Texts": {
-      "Eng": "This mossy platform is slimy and slippery.",
-      "Por": "Esta plataforma é viscosa e escorregadia."
+      "Eng": "This mossy platform is slimy and slippery."
     }
   }
 ]

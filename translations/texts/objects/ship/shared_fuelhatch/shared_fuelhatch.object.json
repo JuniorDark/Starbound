@@ -60,10 +60,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Aceita Erchius líquido como combustível para o mergulho do FTL da nave.",
-      "Aceita Líquido Erchius como combustível para o mergulho do navio FTL."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/ship/apexfuelhatch/apexfuelhatch.object": [
         "/description"
@@ -183,9 +180,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Combustível FTL vai aqui!"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/ship/apexfuelhatch/apexfuelhatch.object": [
         "/novakidDescription"
@@ -245,9 +240,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Escotilha de combustível para pilotagem FTL. Vamos enche-lo!"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/ship/apexfuelhatch/apexfuelhatch.object": [
         "/floranDescription"
@@ -396,9 +389,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "A escotilha de combustível de direção FTL. Converte combustível em liberdade"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/ship/apexfuelhatch/apexfuelhatch.object": [
         "/apexDescription"
@@ -428,9 +419,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "A escotilha de combustível FTL. Vamos carregar e levar para as estrelas!"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/ship/apexfuelhatch/apexfuelhatch.object": [
         "/avianDescription"
@@ -460,9 +449,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "A humilde escotilha de combustível FTL. O combustível é a força vital da exploração."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/ship/apexfuelhatch/apexfuelhatch.object": [
         "/hylotlDescription"
@@ -492,9 +479,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "A escotilha de combustível da nave. Com o combustível. Com combustível para a movimentação FTL eu posso explorar fora deste sistema."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/ship/apexfuelhatch/apexfuelhatch.object": [
         "/humanDescription"

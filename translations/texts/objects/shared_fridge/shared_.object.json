@@ -1,8 +1,6 @@
 [
   {
-    "DeniedAlternatives": [
-      "Floran pode sssentir cheiro de carne dentro."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/generic/ceilingfridge1/largecooler1.object": [
         "/floranDescription"
@@ -17,9 +15,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Estou praticamente vibrando com a emoção pensando sobre o possível conteúdo."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/generic/ceilingfridge1/largecooler1.object": [
         "/humanDescription"
@@ -34,10 +30,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Perfeita para armazenar um monte de alimentos e mantê-los fresco.",
-      "Perfeito para armazenar muitos alimentos e mantê-los frescos."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/generic/ceilingfridge1/largecooler1.object": [
         "/description"
@@ -52,9 +45,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Debaixo da água, a refrigeração é mais fácil. Estes dispositivos são um substituto inteligente."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/generic/ceilingfridge1/largecooler1.object": [
         "/hylotlDescription"

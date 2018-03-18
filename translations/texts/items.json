@@ -1,8 +1,6 @@
 [
   {
-    "DeniedAlternatives": [
-      "Bumerangue"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "items/active/weapons/boomerang/boomerang.activeitem": [
         "/shortdescription"
@@ -32,9 +30,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Vara de Pesca"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "items/active/fishingrod/fishingrod.activeitem": [
         "/shortdescription"
@@ -49,9 +45,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Flashlight"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "items/active/weapons/ranged/abilities/flashlight/flashlight.weaponability": [
         "/ability/name"

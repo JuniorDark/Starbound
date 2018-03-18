@@ -1,9 +1,6 @@
 [
   {
-    "DeniedAlternatives": [
-      "Alguns desses tijolos estão mal colocados.",
-      "Alguns destes tijolos estão mal colocados."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/ancient/ancienthiddenplatform/ancienthiddenplatform.object": [
         "/apexDescription"
@@ -27,10 +24,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Algo sobre a forma como esses tijolos são criados é estranha.",
-      "Algo sobre a forma como estes tijolos são criados é estranho."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/ancient/ancienthiddenplatform/ancienthiddenplatform.object": [
         "/hylotlDescription"
@@ -54,9 +48,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Algo não está certo com esses tijolos."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/ancient/ancienthiddenplatform/ancienthiddenplatform.object": [
         "/description"

@@ -20,14 +20,11 @@
       ]
     },
     "Texts": {
-      "Eng": "A hanging eye.",
-      "Por": "Um olho pendurado."
+      "Eng": "A hanging eye."
     }
   },
   {
-    "DeniedAlternatives": [
-      "Olho balançando!"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "plants/bushes/ceiling/ceilingeye/ceilingeye.bush": [
         "/floranDescription"

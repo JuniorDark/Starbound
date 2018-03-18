@@ -72,9 +72,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Eu sou um caçador-coletor. Vou te trazer algumas das coisas que eu achar!"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "dialog/gatherer.config": [
         "/converse/apex/default/0",

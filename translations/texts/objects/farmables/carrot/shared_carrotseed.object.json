@@ -15,9 +15,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Ferva uma cenoura e será um pouco parecida com uma banana... Mas não é tão bom."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/carrot/carrotseed.object": [
         "/apexDescription"
@@ -47,9 +45,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Cenouras são versáteis, suaves, vegetais."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/carrot/carrotseed.object": [
         "/hylotlDescription"
@@ -78,10 +74,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Cenouras. Perfeita para comer, ou colar em um boneco de neve.",
-      "Cenouras. Perfeita para comer, ou grudar em um boneco de neve."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/carrot/carrotseed.object": [
         "/humanDescription"

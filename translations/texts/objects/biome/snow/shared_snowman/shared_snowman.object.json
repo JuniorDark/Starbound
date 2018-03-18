@@ -1,8 +1,6 @@
 [
   {
-    "DeniedAlternatives": [
-      "Um boneco de neve! Tentação de chutar sua cabeça... subindo..."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/biome/snow/fancysnowman/fancysnowman.object": [
         "/humanDescription"
@@ -32,9 +30,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Floran caça boneco de neve. Boneco de neve não se importa. Boneco de neve desmorona-se."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/biome/snow/fancysnowman/fancysnowman.object": [
         "/floranDescription"
@@ -63,9 +59,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Esta efígie de neve vai derreter um dia, e voltar para a água de onde veio. Tem também um nariz bonito de cenoura."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/biome/snow/fancysnowman/fancysnowman.object": [
         "/hylotlDescription"

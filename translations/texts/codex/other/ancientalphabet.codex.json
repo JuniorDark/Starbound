@@ -1,16 +1,13 @@
 [
   {
-    "DeniedAlternatives": [
-      "      1 -        2 -        3 -        4 -       5 -       6 -        7 -        8 -       9 -       0 - "
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "codex/other/ancientalphabet.codex": [
         "/contentPages/1"
       ]
     },
     "Texts": {
-      "Eng": "\n      1 -        2 -        3 -        4 - \n\n      5 -       6 -        7 -        8 - \n\n      9 -       0 - ",
-      "Chs": "\n      1 -        2 -        3 -        4 - \n\n      5 -       6 -        7 -        8 - \n\n      9 -       0 - "
+      "Eng": "\n      1 -        2 -        3 -        4 - \n\n      5 -       6 -        7 -        8 - \n\n      9 -       0 - "
     }
   },
   {
@@ -21,8 +18,7 @@
       ]
     },
     "Texts": {
-      "Eng": "\n      A -        B -        C -        D - \n\n      E -         F -        G -        H - \n\n      I -         J -        K -        L - \n\n      M -       N -        O -        P - \n\n      Q -        R -        S -        T - \n\n      U -        V -        W -        X - \n\n      Y -        Z - ",
-      "Chs": "\n      A -        B -        C -        D - \n\n      E -         F -        G -        H - \n\n      I -         J -        K -        L - \n\n      M -       N -        O -        P - \n\n      Q -        R -        S -        T - \n\n      U -        V -        W -        X - \n\n      Y -        Z - "
+      "Eng": "\n      A -        B -        C -        D - \n\n      E -         F -        G -        H - \n\n      I -         J -        K -        L - \n\n      M -       N -        O -        P - \n\n      Q -        R -        S -        T - \n\n      U -        V -        W -        X - \n\n      Y -        Z - "
     }
   },
   {
@@ -34,7 +30,6 @@
     },
     "Texts": {
       "Eng": "A guidebook for translating ancient runes.",
-      "Chs": "Um guia para traduzir as runas anciãs.",
       "Por": "Um guia para traduzir as runas anciãs."
     }
   },
@@ -47,7 +42,6 @@
     },
     "Texts": {
       "Eng": "The Ancient Alphabet",
-      "Chs": "O Alfabeto Ancião",
       "Por": "O Alfabeto Ancião"
     }
   }

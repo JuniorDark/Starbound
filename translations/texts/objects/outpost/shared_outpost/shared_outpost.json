@@ -1,8 +1,6 @@
 [
   {
-    "DeniedAlternatives": [
-      "Uma porta com trava à ar básica."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/outpostairlock/outpostairlock.object": [
         "/hylotlDescription"
@@ -37,9 +35,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Uma porta com trava à ar. Útil!"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/outpostairlock/outpostairlock.object": [
         "/humanDescription"
@@ -57,9 +53,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "É uma porta com trava à ar."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/outpostairlock/outpostairlock.object": [
         "/floranDescription"
@@ -77,9 +71,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Parece uma porta com trava à ar."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/outpostairlock/outpostairlock.object": [
         "/novakidDescription"

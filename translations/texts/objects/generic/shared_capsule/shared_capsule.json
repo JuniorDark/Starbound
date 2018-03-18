@@ -21,9 +21,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Uma cápsula. Estas, muitas vezes contêm suprimentos."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/generic/capsulebig/capsulebig.object": [
         "/apexDescription"
@@ -44,9 +42,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Uma grande cápsula quebrável. Pergunto o que há dentro."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/generic/capsulebig/capsulebig.object": [
         "/description"
@@ -81,9 +77,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Esta cápsula deve ser perfeita para a prática de tiro ao alvo."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/generic/capsulebig/capsulebig.object": [
         "/novakidDescription"

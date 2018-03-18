@@ -1,8 +1,6 @@
 [
   {
-    "DeniedAlternatives": [
-      "Uma porta de nave básica."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/ship/apexshipdoor/apexshipdoor.object": [
         "/hylotlDescription"
@@ -62,9 +60,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Porta legal."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/ship/apexshipdoor/apexshipdoor.object": [
         "/avianDescription",

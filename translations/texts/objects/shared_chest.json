@@ -32,9 +32,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "O próprio báu parece ser orgânico."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/biome/bioluminescence/glowchest/glowchest.object": [
         "/apexDescription"
@@ -52,10 +50,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Esse baú foi construído ou cultivado?",
-      "Esse baú foi construído, ou plantado?"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/biome/bioluminescence/glowchest/glowchest.object": [
         "/avianDescription"

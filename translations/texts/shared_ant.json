@@ -1,9 +1,6 @@
 [
   {
-    "DeniedAlternatives": [
-      "Volte novamente.",
-      "Volte sempre!"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "dialog/merchant.config": [
         "/merchantEnd/human/default/1"
@@ -42,9 +39,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Foi um prazer negociar com você!"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "dialog/merchant.config": [
         "/merchantEnd/default/default/3",
@@ -67,9 +62,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Até a próxima!"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "dialog/merchant.config": [
         "/merchantEnd/default/default/0",
@@ -88,9 +81,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Seus pixels são sempre bons aqui."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "dialog/merchant.config": [
         "/merchantEnd/default/default/2",

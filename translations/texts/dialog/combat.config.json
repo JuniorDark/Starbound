@@ -603,9 +603,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Pegue!"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "dialog/combat.config": [
         "/attack/floran/default/3",

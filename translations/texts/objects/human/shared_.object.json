@@ -1,8 +1,6 @@
 [
   {
-    "DeniedAlternatives": [
-      "Um aquecedor. Eu nunca senti a necessidade de um."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/human/bunkerheater1/bunkerheater1.object": [
         "/novakidDescription"
@@ -31,9 +29,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Um aquecedor espacial. O nome faz soar futurista e legal."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/human/bunkerheater1/bunkerheater1.object": [
         "/humanDescription"

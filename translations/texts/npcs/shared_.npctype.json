@@ -1,8 +1,6 @@
 [
   {
-    "DeniedAlternatives": [
-      "Eu te vejo!"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "npcs/mission/floranpredator.npctype": [
         "/scriptConfig/dialog/attack/floran/default/0"
@@ -37,9 +35,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "A caçada começou!"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "npcs/mission/floranpredator.npctype": [
         "/scriptConfig/dialog/attack/floran/default/7"

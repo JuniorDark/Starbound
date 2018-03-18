@@ -1,8 +1,6 @@
 [
   {
-    "DeniedAlternatives": [
-      "Uma plataforma feita de ouro."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "items/materials/goldenplatform.matitem": [
         "/description"
@@ -72,8 +70,7 @@
       ]
     },
     "Texts": {
-      "Eng": "This platform is made from solid gold.",
-      "Por": "Esta plataforma é feita de ouro maciço."
+      "Eng": "This platform is made from solid gold."
     }
   }
 ]

@@ -1,9 +1,6 @@
 [
   {
-    "DeniedAlternatives": [
-      "Uma pedra pacífica. Olhar para ela me faz sentir calmo.",
-      "Uma pedra pacífica. Olhar para ela me faz sentir-me calmo."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/biome/zen/zenrock1/zenrock1.object": [
         "/hylotlDescription"
@@ -27,10 +24,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Um lindo monte de pedra.",
-      "É um belo monte de pedras."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/biome/zen/zenrock1/zenrock1.object": [
         "/humanDescription"
@@ -54,9 +48,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Uma pedra perfeita para jardins zen alienígenas."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/biome/zen/zenrock1/zenrock1.object": [
         "/description"
@@ -74,9 +66,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "A estrutura de pedra perfeita para jardins alienígenas zen."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/biome/zen/zenrock2/zenrock2.object": [
         "/description"
@@ -91,10 +81,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Uma pedra com aparência elegante.",
-      "Uma rocha de aparência elegante."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/biome/zen/zenrock1/zenrock1.object": [
         "/avianDescription"
@@ -141,9 +128,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Simplesmente uma rocha."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/biome/zen/zenrock1/zenrock1.object": [
         "/apexDescription"
@@ -167,10 +152,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Pedra",
-      "Pppedra."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/biome/zen/zenrock1/zenrock1.object": [
         "/floranDescription"
@@ -194,10 +176,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Isso é uma pedra boa.",
-      "Isso é uma pedra do bem."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/biome/zen/zenrock1/zenrock1.object": [
         "/novakidDescription"

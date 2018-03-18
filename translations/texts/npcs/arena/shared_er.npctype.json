@@ -15,9 +15,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Vou pegar você!"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "npcs/arena/arenabruiser.npctype": [
         "/scriptConfig/dialog/cantReach/default/default/1"
@@ -62,9 +60,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Eles não são páreos para o nosso poder combinado!"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "npcs/arena/arenabruiser.npctype": [
         "/scriptConfig/dialog/cheerOn/default/default/0"
@@ -79,9 +75,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Desta vez eu vou acabar com você!"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "npcs/arena/arenabruiser.npctype": [
         "/scriptConfig/dialog/reattack/default/default/0"

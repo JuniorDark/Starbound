@@ -1,8 +1,6 @@
 [
   {
-    "DeniedAlternatives": [
-      "Muitos de nós rebeldes perderam familiares e amigos para a Miniknog. Não vamos descansar até que eles sejam derrotados."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "npcs/dungeon/apexcamp/apexrebelvillager.npctype": [
         "/scriptConfig/dialog/converse/apex/apex/10",
@@ -86,10 +84,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Você parece alguém que não tem mais onde morar",
-      "Você se parece com alguém que também perdeu sua casa."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "npcs/dungeon/apexcamp/apexrebelvillager.npctype": [
         "/scriptConfig/dialog/converse/apex/avian/0",

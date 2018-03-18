@@ -50,9 +50,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Uma fornalha básica perfeita para fundir minérios."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/crafting/upgradeablecraftingobjects/craftingfurnace/craftingfurnace.object": [
         "/avianDescription",
@@ -91,9 +89,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Um fornalha de fundição. Parece quente."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/crafting/upgradeablecraftingobjects/craftingfurnace/craftingfurnace.object": [
         "/humanDescription",
@@ -393,9 +389,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "^orange;Fornalha Primitiva^white;"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/crafting/upgradeablecraftingobjects/craftingfurnace/craftingfurnace.object": [
         "/shortdescription",

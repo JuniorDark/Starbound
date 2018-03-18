@@ -1,8 +1,6 @@
 [
   {
-    "DeniedAlternatives": [
-      "Eu não gostaria de pisar nisso sem saber o que ele faz primeiro."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/medievalpressureplate/medievalpressureplate.object": [
         "/novakidDescription"
@@ -38,11 +36,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "O que acontece se eu ficar nisso?",
-      "O que acontece se eu ficar sobre isso?",
-      "O que acontece se eu pisar isso?"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/floran/huntingpressureplate/huntingpressureplate.object": [
         "/avianDescription"

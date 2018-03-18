@@ -1,8 +1,6 @@
 [
   {
-    "DeniedAlternatives": [
-      "Uma porta de nave básica. Não abre no momento."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/ship/apexshipdoorbroken/apexshipdoorBroken.object": [
         "/hylotlDescription"
@@ -61,9 +59,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Uma porta. Não abre."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/ship/apexshipdoorbroken/apexshipdoorBroken.object": [
         "/avianDescription"
@@ -93,9 +89,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Porta legal. É uma pena que ele não está abrindo agora."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/ship/apexshipdoorbroken/apexshipdoorBroken.object": [
         "/humanDescription"
@@ -155,9 +149,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "A porta está quebrada, não vai abrir tão cedo."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/ship/apexshipdoorbroken/apexshipdoorBroken.object": [
         "/novakidDescription"
@@ -187,10 +179,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Essas portas são usadas em todas as nossas naves. Este aqui não está boa.",
-      "Essas portas são usadas em todos as nossas naves. Este aqui não está boa."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/ship/apexshipdoorbroken/apexshipdoorBroken.object": [
         "/apexDescription"

@@ -1,8 +1,6 @@
 [
   {
-    "DeniedAlternatives": [
-      "Melhor tomar cuidado com as pedras caindo à frente."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/mission/fallingrocks/fallingrocks.object": [
         "/novakidDescription"
@@ -17,9 +15,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Pedras caindo. Por que uma caverna não pode ser segura pelo menos uma vez?"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/mission/fallingrocks/fallingrocks.object": [
         "/humanDescription"

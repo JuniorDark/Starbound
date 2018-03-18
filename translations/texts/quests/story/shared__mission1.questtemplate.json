@@ -87,9 +87,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Que peculiar! Informação inesperada pode ser mais valiosa do que a informação esperada..."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "quests/story/apex_mission1.questtemplate": [
         "/scriptConfig/radioMessages/genericProgress/7/text"
@@ -110,9 +108,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Interessante. Isso certamente terá uma influência na minha pesquisa."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "quests/story/apex_mission1.questtemplate": [
         "/scriptConfig/radioMessages/genericProgress/1/text"
@@ -133,9 +129,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Parece que você já encontrou alguns itens que fornecem pistas para o paradeiro do artefato. Vou começar a minha análise nestes enquanto você procurar mais!"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "quests/story/apex_mission1.questtemplate": [
         "/scriptConfig/radioMessages/startWithProgress/text"
@@ -159,9 +153,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Continue assim querido(a), tudo Isso é muito útil! "
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "quests/story/apex_mission1.questtemplate": [
         "/scriptConfig/radioMessages/genericProgress/2/text"
@@ -176,9 +168,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Esta pista aponta para informações ocultas."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "quests/story/apex_mission1.questtemplate": [
         "/scriptConfig/radioMessages/genericProgress/9/text"
@@ -199,10 +189,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Isto confirma algo que eu tinha especulado antes!",
-      "Isto confirma algo que eu tinha especulado!"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "quests/story/apex_mission1.questtemplate": [
         "/scriptConfig/radioMessages/genericProgress/6/text"
@@ -223,10 +210,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Isto é excelente, tudo o que você encontrar contribui para a formação de uma teoria.",
-      "Isto é excelente, tudo o que você encontrar contribuirá para a formação de uma teoria."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "quests/story/apex_mission1.questtemplate": [
         "/scriptConfig/radioMessages/genericProgress/4/text"

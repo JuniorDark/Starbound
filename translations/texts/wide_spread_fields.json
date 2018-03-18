@@ -20,8 +20,7 @@
     },
     "Texts": {
       "Eng": " Vending Machine",
-      "Por": "Maquina de Vendas",
-      "Chs": ""
+      "Por": "Maquina de Vendas"
     }
   },
   {
@@ -82,8 +81,7 @@
     },
     "Texts": {
       "Eng": "-todo-",
-      "Por": "-todo-",
-      "Chs": ""
+      "Por": "-todo-"
     }
   },
   {
@@ -170,8 +168,7 @@
     },
     "Texts": {
       "Eng": "...",
-      "Por": "...",
-      "Chs": "..."
+      "Por": "..."
     }
   },
   {
@@ -194,14 +191,11 @@
     },
     "Texts": {
       "Eng": "???",
-      "Por": "???",
-      "Chs": ""
+      "Por": "???"
     }
   },
   {
-    "DeniedAlternatives": [
-      "Uma planta frondosa."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/biome/jungle/junglebush13/junglebush13.object": [
         "/apexDescription",
@@ -239,8 +233,7 @@
     },
     "Texts": {
       "Eng": "A leafy plant.",
-      "Por": "Uma planta folhuda.",
-      "Chs": "Uma planta folhuda."
+      "Por": "Uma planta folhuda."
     }
   },
   {
@@ -257,14 +250,11 @@
     },
     "Texts": {
       "Eng": "A pile of mossy stones.",
-      "Por": "Uma pilha de pedras cobertas de musgo.",
-      "Chs": ""
+      "Por": "Uma pilha de pedras cobertas de musgo."
     }
   },
   {
-    "DeniedAlternatives": [
-      "Uma raiz."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/biome/swamp/gasprimer/gasprimer.object": [
         "/hylotlDescription"
@@ -315,8 +305,7 @@
     },
     "Texts": {
       "Eng": "A root.",
-      "Por": "Uma raíz.",
-      "Chs": ""
+      "Por": "Uma raíz."
     }
   },
   {
@@ -331,8 +320,7 @@
     },
     "Texts": {
       "Eng": "A timeless classic.",
-      "Por": "Um clássico atemporal.",
-      "Chs": ""
+      "Por": "Um clássico atemporal."
     }
   },
   {
@@ -347,8 +335,7 @@
     },
     "Texts": {
       "Eng": "Alien",
-      "Por": "Alienígena",
-      "Chs": ""
+      "Por": "Alienígena"
     }
   },
   {
@@ -363,14 +350,11 @@
     },
     "Texts": {
       "Eng": "Arctic",
-      "Por": "Ártico",
-      "Chs": ""
+      "Por": "Ártico"
     }
   },
   {
-    "DeniedAlternatives": [
-      "Campo de Asteróides "
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "biomes/surface/asteroidfield.biome": [
         "/friendlyName"
@@ -381,8 +365,7 @@
     },
     "Texts": {
       "Eng": "Asteroid Field",
-      "Por": "Campo de Asteróides",
-      "Chs": ""
+      "Por": "Campo de Asteróides"
     }
   },
   {
@@ -397,14 +380,11 @@
     },
     "Texts": {
       "Eng": "Asteroids",
-      "Por": "Asteróides",
-      "Chs": ""
+      "Por": "Asteróides"
     }
   },
   {
-    "DeniedAlternatives": [
-      "Ataque!"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "dialog/combat.config": [
         "/attack/default/default/0"
@@ -460,14 +440,11 @@
     },
     "Texts": {
       "Eng": "Attack!",
-      "Por": "Atacar!",
-      "Chs": ""
+      "Por": "Atacar!"
     }
   },
   {
-    "DeniedAlternatives": [
-      "Vingue-me!"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "dialog/gatherer.config": [
         "/encourage/default/default/1"
@@ -485,8 +462,7 @@
     },
     "Texts": {
       "Eng": "Avenge me!",
-      "Por": "Me vingue!",
-      "Chs": ""
+      "Por": "Me vingue!"
     }
   },
   {
@@ -506,8 +482,7 @@
     },
     "Texts": {
       "Eng": "Baron",
-      "Por": "Baron",
-      "Chs": ""
+      "Por": "Baron"
     }
   },
   {
@@ -522,8 +497,7 @@
     },
     "Texts": {
       "Eng": "Barren",
-      "Por": "Estéril",
-      "Chs": ""
+      "Por": "Estéril"
     }
   },
   {
@@ -539,14 +513,11 @@
     },
     "Texts": {
       "Eng": "Bartender",
-      "Por": "Bartender",
-      "Chs": ""
+      "Por": "Bartender"
     }
   },
   {
-    "DeniedAlternatives": [
-      "Ossos!"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "items/materials/bonematerial.matitem": [
         "/florandescription"
@@ -560,8 +531,7 @@
     },
     "Texts": {
       "Eng": "Bonesss!",
-      "Por": "Ossosss!",
-      "Chs": ""
+      "Por": "Ossosss!"
     }
   },
   {
@@ -576,8 +546,7 @@
     },
     "Texts": {
       "Eng": "Codex",
-      "Por": "Códice",
-      "Chs": ""
+      "Por": "Códice"
     }
   },
   {
@@ -592,8 +561,7 @@
     },
     "Texts": {
       "Eng": "Crystal Erchius Fuel",
-      "Por": "Crystal Erchius Fuel",
-      "Chs": ""
+      "Por": "Crystal Erchius Fuel"
     }
   },
   {
@@ -608,14 +576,11 @@
     },
     "Texts": {
       "Eng": "Desert",
-      "Por": "Deserto",
-      "Chs": ""
+      "Por": "Deserto"
     }
   },
   {
-    "DeniedAlternatives": [
-      "Não deixe eles fugir!"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "dialog/gatherer.config": [
         "/encourage/default/default/3"
@@ -633,8 +598,7 @@
     },
     "Texts": {
       "Eng": "Don't let 'em get away!",
-      "Por": "Não deixe eles escaparem!",
-      "Chs": ""
+      "Por": "Não deixe eles escaparem!"
     }
   },
   {
@@ -649,8 +613,7 @@
     },
     "Texts": {
       "Eng": "Door",
-      "Por": "Porta",
-      "Chs": ""
+      "Por": "Porta"
     }
   },
   {
@@ -680,8 +643,7 @@
     },
     "Texts": {
       "Eng": "Dr. Akaggy",
-      "Por": "Dr. Akaggy",
-      "Chs": ""
+      "Por": "Dr. Akaggy"
     }
   },
   {
@@ -696,8 +658,7 @@
     },
     "Texts": {
       "Eng": "Dreadwing",
-      "Por": "Dreadwing",
-      "Chs": ""
+      "Por": "Dreadwing"
     }
   },
   {
@@ -731,9 +692,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Geodo"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "biomes/surface_detached/geode.biome": [
         "/friendlyName"
@@ -748,9 +707,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Pegue-os!"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "dialog/gatherer.config": [
         "/encourage/default/default/0"
@@ -811,9 +768,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Coleta carne e outros produtos de monstros."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "interface/itemdescriptions/bow.itemdescription": [
         "/descriptionLabel/value"
@@ -861,9 +816,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Está aqui um presente por toda sua ajuda!"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "dialog/arrivedhome.config": [
         "/rent/default/default/0"
@@ -893,9 +846,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Não tenho nada a dizer para você"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "dialog/outpost.config": [
         "/converse/default/default/0"
@@ -931,10 +882,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Eu já tive o suficiente disso!",
-      "Eu tive o suficiente disso!"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "dialog/grumble.config": [
         "/final/default/default/0",
@@ -958,9 +906,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Isso é uma piada?"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "hunger.config": [
         "/1/up/0"
@@ -1031,9 +977,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Matter Manipulator"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "interface/windowconfig/keybindingsmenu.config": [
         "/keyActions/toolbar/8/label"
@@ -1140,9 +1084,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Sandstone"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "biomes/surface_detached/old/sandstone/sandstone.biome": [
         "/friendlyName"
@@ -1160,9 +1102,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Sapling"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "items/categories.config": [
         "/labels/sapling"
@@ -1228,9 +1168,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Shadow"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "biomes/underground_detached/old/shadowrealm/shadow.biome": [
         "/friendlyName"
@@ -1245,9 +1183,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Shipping Container"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "items/categories.config": [
         "/labels/shippingContainer"
@@ -1277,9 +1213,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Gosma"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "biomes/underground_detached/old/slime/slime.biome": [
         "/friendlyName"
@@ -1294,9 +1228,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Snow"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "biomes/surface/snow.biome": [
         "/friendlyName"
@@ -1347,10 +1279,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Pedras.",
-      "Pedrass."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/biome/alpine/mistprimer/mistprimer.object": [
         "/floranDescription"
@@ -1371,10 +1300,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Cccoisa estranha.",
-      "Coisa essstranha"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
         "/converse/floran/default/0"
@@ -1392,11 +1318,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Cole-os uma vez para mim!",
-      "Pegue-os uma vez por mim!",
-      "Pegue-os uma vez pra mim!"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "dialog/gatherer.config": [
         "/encourage/default/default/2"
@@ -1417,10 +1339,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Teleportador",
-      "Teleporter"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "interface/windowconfig/teleportdialog.config": [
         "/paneLayout/windowtitle/title"
@@ -1579,9 +1498,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "O que é que você fez!?"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "dialog/outpost.config": [
         "/flee/helpthem/default/default/0"
@@ -1642,9 +1559,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Você chamou?"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "dialog/arrivedhome.config": [
         "/beacon/human/default/0"

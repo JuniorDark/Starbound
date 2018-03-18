@@ -39,10 +39,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Obtenha <item> de <target>",
-      "Pegue <item> de <target>"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/borrow.questtemplate": [
         "/scriptConfig/objectives/0/text"
@@ -279,9 +276,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Opa, não pude ajudar <questGiver>."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/capture_pet.questtemplate": [
         "/scriptConfig/generatedText/failureText/default/0"
@@ -350,9 +345,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Devolva o pacote para <questGiver>"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/hat.questtemplate": [
         "/scriptConfig/objectives/1/text"
@@ -453,9 +446,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "^cyan;Preciso de ajuda com um problema de monstro."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/kill_monster_group.questtemplate": [
         "/scriptConfig/generatedText/goalText/default/0"
@@ -561,9 +552,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "criar roupasss"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/escort.questtemplate": [
         "/scriptConfig/generatedText/fluff/4/1/2"
@@ -578,9 +567,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "primo"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/escort.questtemplate": [
         "/scriptConfig/generatedText/fluff/0/1/2"
@@ -664,9 +651,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "desenhar imagens de"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/share_secret.questtemplate": [
         "/scriptConfig/generatedText/fluff/1/1/5"
@@ -696,9 +681,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "agora há pouco"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/capture_pet.questtemplate": [
         "/scriptConfig/generatedText/fluff/1/1/0"
@@ -779,9 +762,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "amigo"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/escort.questtemplate": [
         "/scriptConfig/generatedText/fluff/0/1/0"
@@ -797,9 +778,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "livrar-se deles"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/kill_monster_group.questtemplate": [
         "/scriptConfig/generatedText/fluff/11/1/1"
@@ -875,9 +854,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "gosto de cutucar"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/share_secret.questtemplate": [
         "/scriptConfig/generatedText/fluff/1/1/6"
@@ -907,9 +884,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "fazê-los pagar"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/kill_monster_group.questtemplate": [
         "/scriptConfig/generatedText/fluff/10/1/3"
@@ -966,9 +941,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "velho amigo"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/escort.questtemplate": [
         "/scriptConfig/generatedText/fluff/0/1/4"
@@ -1015,9 +988,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "razões privadasss"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/escort.questtemplate": [
         "/scriptConfig/generatedText/fluff/4/1/4"
@@ -1048,9 +1019,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "canta para"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/share_secret.questtemplate": [
         "/scriptConfig/generatedText/fluff/1/1/9"
@@ -1081,9 +1050,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "cheira"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/share_secret.questtemplate": [
         "/scriptConfig/generatedText/fluff/1/1/7"
@@ -1114,9 +1081,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "resolver isso"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/kill_monster_group.questtemplate": [
         "/scriptConfig/generatedText/fluff/11/1/0"
@@ -1147,9 +1112,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "práticar um pouco de combate"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/escort.questtemplate": [
         "/scriptConfig/generatedText/fluff/4/1/0"
@@ -1164,9 +1127,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "práticar um pouco de caça"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/escort.questtemplate": [
         "/scriptConfig/generatedText/fluff/4/1/1"
@@ -1181,9 +1142,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "apunhalá-los"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/kill_monster_group.questtemplate": [
         "/scriptConfig/generatedText/fluff/12/1/2"
@@ -1243,9 +1202,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "si mesmo"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/share_secret.questtemplate": [
         "/scriptConfig/generatedText/fluff/3/1/1"

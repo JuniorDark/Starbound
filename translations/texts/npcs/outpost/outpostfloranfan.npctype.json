@@ -1,9 +1,6 @@
 [
   {
-    "DeniedAlternatives": [
-      "Será que Floran fica bem em roupas humanas?",
-      "Será que Floran ficam bem em roupas humanas?"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "npcs/outpost/outpostfloranfan.npctype": [
         "/scriptConfig/dialog/converse/default/default/0",

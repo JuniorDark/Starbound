@@ -1,8 +1,6 @@
 [
   {
-    "DeniedAlternatives": [
-      " Lanches Saborosos"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/human/vendingmachine/vendingmachine.object": [
         "/interactData/paneLayoutOverride/windowtitle/subtitle"
@@ -75,10 +73,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Uma porta com trava à ar.",
-      "Uma porta."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/outpostairlock/outpostairlock.object": [
         "/apexDescription",
@@ -107,9 +102,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "É fascinante. Não consigo desviar o olhar."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/human/lavalamp1/lavalamp1.object": [
         "/description"

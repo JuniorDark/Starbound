@@ -24,9 +24,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "^#b9b5b2;Vida e bem-estar"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/crafting/upgradeablecraftingobjects/craftingmedical/craftingmedical.object": [
         "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle",

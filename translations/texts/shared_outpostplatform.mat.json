@@ -1,8 +1,6 @@
 [
   {
-    "DeniedAlternatives": [
-      "Uma simples plataforma leve comumente encontrada em postos remotos."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "items/materials/outpostplatform.matitem": [
         "/description"
@@ -72,8 +70,7 @@
       ]
     },
     "Texts": {
-      "Eng": "These platforms are light and favoured for their portability.",
-      "Por": "Estas plataformas são leves e favorecidas por sua portabilidade."
+      "Eng": "These platforms are light and favoured for their portability."
     }
   }
 ]

@@ -164,10 +164,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Isto parece um meio esmagavel!",
-      "Isto parece um meio esmagável!"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/wickerbasket1/wickerbasket1.object": [
         "/novakidDescription"

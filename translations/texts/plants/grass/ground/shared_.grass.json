@@ -1,8 +1,6 @@
 [
   {
-    "DeniedAlternatives": [
-      "Uma flor bonita."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "plants/grass/ground/decorative/fancy/fancy.grass": [
         "/description",
@@ -134,8 +132,7 @@
       ]
     },
     "Texts": {
-      "Eng": "An attractive flower.",
-      "Por": "Uma flor atraente."
+      "Eng": "An attractive flower."
     }
   },
   {

@@ -59,9 +59,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Teletransportador de nave. Floran se sente confuso durante o teleporte."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/ship/avianteleporter/avianteleporter.object": [
         "/floranDescription"

@@ -1313,10 +1313,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Comporte-se, coisa boboa.",
-      "Comporte-se, coisa tola."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
         "/converse/floran/apex/4",
@@ -10949,9 +10946,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Se seu povo não caça, como você sabe quem é o mais forte?"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
         "/converse/floran/human/15",

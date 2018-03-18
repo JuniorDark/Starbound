@@ -1,8 +1,6 @@
 [
   {
-    "DeniedAlternatives": [
-      "Pedrass duras duras "
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "items/materials/rock01.matitem": [
         "/florandescription"
@@ -65,9 +63,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Apenas um monte de pedras "
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "items/materials/rock01.matitem": [
         "/novakiddescription"
@@ -130,10 +126,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Rough Stone ",
-      "Rough stone"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "items/materials/rock01.matitem": [
         "/shortdescription"
@@ -196,11 +189,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Pedra bruta, não refinada",
-      "Pedra bruta, não refinada ",
-      "Pedra áspera, não refinada."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "items/materials/rock01.matitem": [
         "/description"

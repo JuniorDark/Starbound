@@ -94,9 +94,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Nada chique, mas serve ao seu propósito."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/themed/executive/executivelight/executivelight.object": [
         "/apexDescription"
@@ -138,9 +136,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Luz cintilante."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/generic/fluorescentlight/flickeringfluorescentlight.object": [
         "/floranDescription"
@@ -196,9 +192,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "sta luz quebrada não está piscando mais do que uma vela."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/generic/fluorescentlight/flickeringfluorescentlight.object": [
         "/novakidDescription"
@@ -216,10 +210,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Esta luz fluorescente já viu dias melhores.",
-      "Esta luz fluorescente já viu melhores dias."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/generic/fluorescentlight/flickeringfluorescentlight.object": [
         "/description"
@@ -272,10 +263,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Esta luz tem apenas o menor lampejo de poder. Talvez possa ser consertada.",
-      "Esta luz tem apenas o menor pisca de energia. Talvez possa ser reparada."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/generic/fluorescentlight/flickeringfluorescentlight.object": [
         "/apexDescription"

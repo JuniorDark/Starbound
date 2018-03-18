@@ -26,7 +26,7 @@
       },
       "space": {
         "barrenasteroids.biome.json": 1,
-        "space.biome.json": 1
+        "space.biome.json": 0
       },
       "surface": {
         "arcticoceanfloor.biome.json": 1,
@@ -163,7 +163,7 @@
         "shipupgrade.cinematic.json": 1
       }
     },
-    "client.config.json": 1,
+    "client.config.json": 0,
     "codex": {
       "apex": {
         "apexhistory1.codex.json": 5,
@@ -226,7 +226,7 @@
         "shared_glitchhistory.json": 1
       },
       "human": {
-        "humanhistory1.codex.json": 5,
+        "humanhistory1.codex.json": 4,
         "humanhistory10.codex.json": 12,
         "humanhistory2.codex.json": 4,
         "humanhistory3.codex.json": 4,
@@ -318,7 +318,7 @@
         "shared_castleking0.json": 1
       },
       "other": {
-        "ancientalphabet.codex.json": 4,
+        "ancientalphabet.codex.json": 2,
         "colonymanual.codex.json": 5,
         "colonystory1.codex.json": 2,
         "colonystory2.codex.json": 2,
@@ -339,8 +339,8 @@
     "dialog": {
       "airship.config.json": 46,
       "alpaca.config.json": 63,
-      "arrivedhome.config.json": 54,
-      "clues.config.json": 50,
+      "arrivedhome.config.json": 45,
+      "clues.config.json": 40,
       "colourful.config.json": 33,
       "combat.config.json": 138,
       "converse.config.json": 1417,
@@ -365,9 +365,9 @@
       "quest.config.json": 254,
       "rebel.config.json": 3,
       "scientist.config.json": 12,
-      "shared_.config.json": 101,
+      "shared_.config.json": 91,
       "shared_at.config.json": 1,
-      "shared_merchant.config.json": 20,
+      "shared_merchant.config.json": 18,
       "shared_t.config.json": 1,
       "shipcrew.config.json": 58,
       "shroom.config.json": 19,
@@ -3667,10 +3667,10 @@
       "materials": {
         "alienstripedwood.matitem.json": 1,
         "bars.matitem.json": 1,
-        "biorock.matitem.json": 1,
+        "biorock.matitem.json": 0,
         "blaststone.matitem.json": 1,
         "copperladder.matitem.json": 1,
-        "greenneonsymbol.matitem.json": 4,
+        "greenneonsymbol.matitem.json": 3,
         "hive.matitem.json": 1,
         "junk.matitem.json": 1,
         "mirror.matitem.json": 1,
@@ -3685,7 +3685,7 @@
         "temple2.matitem.json": 1,
         "tribalplatform.matitem.json": 1,
         "wicker.matitem.json": 1,
-        "woodenplatform.matitem.json": 4,
+        "woodenplatform.matitem.json": 3,
         "wreckplatform.matitem.json": 1
       },
       "rotting.config.json": 5,
@@ -3750,9 +3750,9 @@
         "greenflashlight.flashlight.json": 1,
         "hoe.tillingtool.json": 2,
         "inspectiontool": {
-          "inspectionmode.inspectiontool.json": 23,
-          "scanmode.inspectiontool.json": 23,
-          "shared_nmode.inspectiontool.json": 8
+          "inspectionmode.inspectiontool.json": 18,
+          "scanmode.inspectiontool.json": 18,
+          "shared_nmode.inspectiontool.json": 7
         },
         "mininglantern.flashlight.json": 2,
         "miningtools": {
@@ -4566,16 +4566,6 @@
         }
       }
     },
-    "names": {
-      "ancientgreek.namesource.json": 0,
-      "aztec.namesource.json": 0,
-      "russianfemale.namesource.json": 0,
-      "russianmale.namesource.json": 0,
-      "russiansurname.namesource.json": 0,
-      "shared_.namesource.json": 0,
-      "shared_e.namesource.json": 0,
-      "tribal.namesource.json": 0
-    },
     "npcs": {
       "arena": {
         "arenaadvisor1.npctype.json": 4,
@@ -4834,7 +4824,7 @@
       "tutorialtenant.npctype.json": 16,
       "wizardmerchant.npctype.json": 20
     },
-    "npcs.json": 47,
+    "npcs.json": 45,
     "objects": {
       "actionfigure": {
         "adultpoptop": {
@@ -12768,7 +12758,7 @@
         }
       }
     },
-    "objects.json": 23,
+    "objects.json": 20,
     "particles": {
       "0.particle.json": 0,
       "1.particle.json": 0,
@@ -12789,7 +12779,7 @@
     "plants": {
       "bushes": {
         "alien": {
-          "alienbush.bush.json": 4
+          "alienbush.bush.json": 3
         },
         "ceiling": {
           "ceilingarchrock": {
@@ -12799,16 +12789,16 @@
             "ceilingbones.bush.json": 2
           },
           "ceilingbuglike": {
-            "ceilingbuglike.bush.json": 3
+            "ceilingbuglike.bush.json": 2
           },
           "ceilingeye": {
-            "ceilingeye.bush.json": 3
+            "ceilingeye.bush.json": 2
           },
           "ceilingflesh": {
-            "ceilingflesh.bush.json": 3
+            "ceilingflesh.bush.json": 2
           },
           "ceilinggrub": {
-            "ceilinggrub.bush.json": 3
+            "ceilinggrub.bush.json": 2
           },
           "ceilingiceblocks": {
             "ceilingiceblocks.bush.json": 2
@@ -12832,7 +12822,7 @@
             "ceilingspiralrocks.bush.json": 2
           },
           "ceilingstalactite": {
-            "ceilingstalactite.bush.json": 4
+            "ceilingstalactite.bush.json": 3
           },
           "ceilingtardrip": {
             "ceilingtardrip.bush.json": 2
@@ -12858,7 +12848,7 @@
             "aridskeleton.bush.json": 2
           },
           "bioroots": {
-            "bioroots.bush.json": 4
+            "bioroots.bush.json": 3
           },
           "crystals": {
             "crystals.bush.json": 2
@@ -12873,7 +12863,7 @@
             "fleshbonebush.bush.json": 2
           },
           "fleshcorpse": {
-            "fleshcorpse.bush.json": 3
+            "fleshcorpse.bush.json": 2
           },
           "glowbush": {
             "glowbush.bush.json": 2
@@ -12885,10 +12875,10 @@
             "lavabowl.bush.json": 2
           },
           "magmapitcher": {
-            "magmapitcher.bush.json": 3
+            "magmapitcher.bush.json": 2
           },
           "midnightstone": {
-            "midnightstone.bush.json": 3
+            "midnightstone.bush.json": 2
           },
           "moltenbones": {
             "moltenbones.bush.json": 2
@@ -12905,7 +12895,7 @@
           "savannahgreenbush": {
             "savannahgreenbush.bush.json": 3
           },
-          "shared_.bush.json": 6,
+          "shared_.bush.json": 5,
           "shared_cactus": {
             "shared_cactus.json": 1
           },
@@ -12958,7 +12948,7 @@
             "thorns.bush.json": 2
           },
           "toxic": {
-            "toxiccreep.bush.json": 4
+            "toxiccreep.bush.json": 3
           },
           "wicked": {
             "wicked.bush.json": 2
@@ -12973,7 +12963,7 @@
             "seaweed.bush.json": 1
           },
           "shared_seabush": {
-            "shared_.bush.json": 1
+            "shared_.bush.json": 0
           },
           "toxicseabush": {
             "toxiccone.bush.json": 2,
@@ -13000,19 +12990,19 @@
               "ceilingcurlythorns.grass.json": 1
             },
             "ceilingdirtrocks": {
-              "ceilingdirtrocks.grass.json": 3
+              "ceilingdirtrocks.grass.json": 2
             },
             "ceilingfleshbone": {
-              "ceilingfleshbone.grass.json": 2
+              "ceilingfleshbone.grass.json": 1
             },
             "ceilingflowers": {
               "ceilingflowers.grass.json": 2
             },
             "ceilingminipod": {
-              "ceilingminipod.grass.json": 3
+              "ceilingminipod.grass.json": 2
             },
             "ceilingnest": {
-              "ceilingnest.grass.json": 3
+              "ceilingnest.grass.json": 2
             },
             "ceilingsnow": {
               "ceilingsnow.grass.json": 2
@@ -13036,7 +13026,7 @@
             "shared_fleshplant.grass.json": 2
           },
           "shared_handlike": {
-            "shared_handlike.grass.json": 3
+            "shared_handlike.grass.json": 2
           }
         },
         "ground": {
@@ -13204,7 +13194,7 @@
               "sulphurplant.grass.json": 3
             }
           },
-          "shared_.grass.json": 3
+          "shared_.grass.json": 2
         },
         "shared_shroom": {
           "shared_shroom.json": 2
@@ -13364,51 +13354,48 @@
       "techchallenge.radiomessages.json": 8,
       "tutorial.radiomessages.json": 23
     },
-    "radiomessages.config.json": 1,
+    "radiomessages.config.json": 0,
     "shared_able.json": 2,
-    "shared_ancientplatform.mat.json": 5,
-    "shared_anfemale.json": 0,
-    "shared_anmale.json": 0,
+    "shared_ancientplatform.mat.json": 4,
     "shared_ant.json": 5,
-    "shared_apexshipplatform.mat.json": 5,
+    "shared_apexshipplatform.mat.json": 4,
     "shared_automato.json": 1,
     "shared_avesmingo.json": 1,
-    "shared_bambooplatform.mat.json": 5,
+    "shared_bambooplatform.mat.json": 4,
     "shared_boltbulb.json": 1,
     "shared_bush.json": 1,
-    "shared_compositerail.mat.json": 5,
+    "shared_compositerail.mat.json": 4,
     "shared_config.json": 4,
-    "shared_copperladder.mat.json": 4,
-    "shared_copperplatform.mat.json": 5,
+    "shared_copperladder.mat.json": 3,
+    "shared_copperplatform.mat.json": 4,
     "shared_cora.json": 1,
     "shared_ect.json": 1,
     "shared_eri.json": 2,
     "shared_est.json": 1,
-    "shared_goldenplatform.mat.json": 5,
+    "shared_goldenplatform.mat.json": 4,
     "shared_ice..json": 1,
     "shared_ies.json": 1,
     "shared_ing.json": 1,
     "shared_interface.json": 2,
     "shared_key.json": 1,
-    "shared_lunarbaseplatform.mat.json": 5,
+    "shared_lunarbaseplatform.mat.json": 4,
     "shared_merchant..json": 1,
-    "shared_modernplatform.mat.json": 4,
+    "shared_modernplatform.mat.json": 3,
     "shared_monster.json": 13,
     "shared_monstert.json": 5,
-    "shared_name.json": 0,
-    "shared_outpostplatform.mat.json": 5,
-    "shared_plantplatform.mat.json": 5,
+    "shared_outpostplatform.mat.json": 4,
+    "shared_plantplatform.mat.json": 4,
     "shared_platform.json": 2,
-    "shared_platform.mat.json": 3,
-    "shared_platform2.mat.json": 2,
-    "shared_pressurisedplatform.mat.json": 4,
+    "shared_platform.mat.json": 2,
+    "shared_platform2.mat.json": 1,
+    "shared_pressurisedplatform.mat.json": 3,
     "shared_protectorateflower.json": 1,
-    "shared_protectorateplatform.mat.json": 5,
-    "shared_ruinsplatform.mat.json": 5,
-    "shared_rustyrail.mat.json": 5,
-    "shared_silverplatform.mat.json": 5,
+    "shared_protectorateplatform.mat.json": 4,
+    "shared_ruinsplatform.mat.json": 4,
+    "shared_rustyrail.mat.json": 4,
+    "shared_silverplatform.mat.json": 4,
     "shared_slime.json": 1,
-    "shared_stoneplatform.mat.json": 5,
+    "shared_stoneplatform.mat.json": 4,
     "shared_sulphur.json": 1,
     "shared_tar..json": 1,
     "shared_tarcrystal": {
@@ -13416,34 +13403,21 @@
     },
     "shared_thorns.json": 1,
     "shared_throwingblock..json": 1,
-    "shared_tribalplatform.mat.json": 4,
-    "shared_tungstenplatform.mat.json": 5,
+    "shared_tribalplatform.mat.json": 3,
+    "shared_tungstenplatform.mat.json": 4,
     "shared_woodenplatform.mat.json": 1,
-    "shared_wreckplatform.mat.json": 4,
+    "shared_wreckplatform.mat.json": 3,
     "species": {
       "apex.species.json": 6,
       "avian.species.json": 7,
-      "backernamegen.config.json": 0,
       "fenerox.species.json": 1,
-      "feneroxnamegen.config.json": 0,
       "floran.species.json": 7,
       "glitch.species.json": 8,
-      "glitchfemalenamegen.config.json": 0,
-      "glitchmalenamegen.config.json": 0,
       "human.species.json": 5,
-      "humanfemalenamegen.config.json": 0,
-      "humanmalenamegen.config.json": 0,
-      "humannamegen.config.json": 0,
       "hylotl.species.json": 7,
-      "namegen.config.json": 0,
       "novakid.species.json": 6,
-      "novakidnamegen.config.json": 0,
       "penguin.species.json": 10,
-      "penguinnamegen.config.json": 0,
-      "shadownamegen.config.json": 0,
-      "shared_.species.json": 17,
-      "shared_malenamegen.config.json": 0,
-      "shared_namegen.config.json": 0
+      "shared_.species.json": 17
     },
     "stagehands": {
       "mission": {
@@ -13621,22 +13595,22 @@
       "materials": {
         "alienstripedblock.material.json": 1,
         "bars.material.json": 1,
-        "biorock.material.json": 1,
+        "biorock.material.json": 0,
         "blaststone.material.json": 1,
         "deadcore.material.json": 2,
         "hive.material.json": 1,
         "junk.material.json": 1,
-        "lightblocker.material.json": 3,
+        "lightblocker.material.json": 2,
         "mirror.material.json": 1,
         "petalblock.material.json": 1,
         "pressurisedbeam.material.json": 1,
-        "rainbowwood.material.json": 4,
+        "rainbowwood.material.json": 3,
         "rock14.material.json": 1,
         "sand2.material.json": 1,
         "slopedscrappanel.material.json": 1,
         "temple1.material.json": 1,
         "temple2.material.json": 1,
-        "throwingblock.material.json": 4,
+        "throwingblock.material.json": 3,
         "wicker.material.json": 1
       },
       "mods": {
@@ -13671,7 +13645,7 @@
         "junglegrass.matmod.json": 1,
         "lead.matmod.json": 1,
         "metal.matmod.json": 1,
-        "meteordust.matmod.json": 1,
+        "meteordust.matmod.json": 0,
         "moonstone.matmod.json": 1,
         "moss.matmod.json": 1,
         "platinum.matmod.json": 1,
@@ -13697,7 +13671,7 @@
         "tungsten.matmod.json": 1,
         "undergrowth.matmod.json": 1,
         "uranium.matmod.json": 1,
-        "veingrowth.matmod.json": 1,
+        "veingrowth.matmod.json": 0,
         "violium.matmod.json": 1
       },
       "platforms": {
@@ -13706,7 +13680,7 @@
         "platform2.material.json": 1,
         "pressurisedplatform.material.json": 1,
         "tribalplatform.material.json": 1,
-        "woodenplatform.material.json": 4,
+        "woodenplatform.material.json": 3,
         "wreckplatform.material.json": 1
       }
     },

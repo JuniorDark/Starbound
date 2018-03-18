@@ -144,11 +144,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Pequena casssa amarela.",
-      "Pequena casssa azul.",
-      "Pequena casssa vermelha."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/generic/tent1/tent1.object": [
         "/floranDescription"

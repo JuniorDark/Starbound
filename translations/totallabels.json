@@ -4566,16 +4566,6 @@
         }
       }
     },
-    "names": {
-      "ancientgreek.namesource.json": 724,
-      "aztec.namesource.json": 138,
-      "russianfemale.namesource.json": 81,
-      "russianmale.namesource.json": 73,
-      "russiansurname.namesource.json": 178,
-      "shared_.namesource.json": 1,
-      "shared_e.namesource.json": 2,
-      "tribal.namesource.json": 278
-    },
     "npcs": {
       "arena": {
         "arenaadvisor1.npctype.json": 4,
@@ -13367,8 +13357,6 @@
     "radiomessages.config.json": 1,
     "shared_able.json": 2,
     "shared_ancientplatform.mat.json": 5,
-    "shared_anfemale.json": 6,
-    "shared_anmale.json": 1,
     "shared_ant.json": 5,
     "shared_apexshipplatform.mat.json": 5,
     "shared_automato.json": 1,
@@ -13395,7 +13383,6 @@
     "shared_modernplatform.mat.json": 4,
     "shared_monster.json": 13,
     "shared_monstert.json": 5,
-    "shared_name.json": 23,
     "shared_outpostplatform.mat.json": 5,
     "shared_plantplatform.mat.json": 5,
     "shared_platform.json": 2,
@@ -13423,27 +13410,14 @@
     "species": {
       "apex.species.json": 6,
       "avian.species.json": 7,
-      "backernamegen.config.json": 3807,
       "fenerox.species.json": 1,
-      "feneroxnamegen.config.json": 9,
       "floran.species.json": 7,
       "glitch.species.json": 8,
-      "glitchfemalenamegen.config.json": 9,
-      "glitchmalenamegen.config.json": 10,
       "human.species.json": 5,
-      "humanfemalenamegen.config.json": 138,
-      "humanmalenamegen.config.json": 123,
-      "humannamegen.config.json": 13,
       "hylotl.species.json": 7,
-      "namegen.config.json": 57,
       "novakid.species.json": 6,
-      "novakidnamegen.config.json": 160,
       "penguin.species.json": 10,
-      "penguinnamegen.config.json": 27,
-      "shadownamegen.config.json": 1,
-      "shared_.species.json": 17,
-      "shared_malenamegen.config.json": 37,
-      "shared_namegen.config.json": 100
+      "shared_.species.json": 17
     },
     "stagehands": {
       "mission": {

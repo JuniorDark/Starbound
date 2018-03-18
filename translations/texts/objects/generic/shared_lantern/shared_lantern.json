@@ -1,8 +1,6 @@
 [
   {
-    "DeniedAlternatives": [
-      "A chama come líquido dentro."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/generic/copperlantern/copperlantern.object": [
         "/floranDescription"
@@ -17,9 +15,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "O combustível nesta lanterna não queimaria no fundo do mar.."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/generic/copperlantern/copperlantern.object": [
         "/hylotlDescription"

@@ -1,8 +1,6 @@
 [
   {
-    "DeniedAlternatives": [
-      "Um pilar de pedra de aparência antiga."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "items/materials/pillarblock.matitem": [
         "/description"
@@ -31,9 +29,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Pillar Block "
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "items/materials/pillarblock.matitem": [
         "/shortdescription"

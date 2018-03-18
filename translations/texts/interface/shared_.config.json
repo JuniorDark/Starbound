@@ -117,9 +117,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Digite o nome do favorito"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
         "/gui/editBookmarkFrame/children/name/hint"
@@ -164,9 +162,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Pular"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
         "/gui/jumpDialog/children/jump/caption"
@@ -181,10 +177,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "MATERIAIS DISPONIVEIS",
-      "MATERIAIS DISPONÍVEIS "
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "interface/objectcrafting/fossilstation.config": [
         "/paneLayout/lblProduct/value"
@@ -283,10 +276,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Pesquisar ",
-      "Procurar"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "interface/objectcrafting/fossilstation.config": [
         "/paneLayout/filter/hint"

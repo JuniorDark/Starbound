@@ -59,9 +59,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Material de parede comumente usado em postos espaciais."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "items/materials/outpost.matitem": [
         "/description"

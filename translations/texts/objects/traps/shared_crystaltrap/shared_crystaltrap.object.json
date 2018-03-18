@@ -14,9 +14,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Uma armadilha de cristal feita para deter intrusos."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/traps/ancientcrystaltrap/ancientcrystaltrap.object": [
         "/description"
@@ -46,9 +44,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Se eu memorizar o padrão dos feixe do cristal eu posso agir em conformidade."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/traps/ancientcrystaltrap/ancientcrystaltrap.object": [
         "/hylotlDescription"
@@ -63,9 +59,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Este feixe parece que feriria."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/traps/ancientcrystaltrap/ancientcrystaltrap.object": [
         "/humanDescription"

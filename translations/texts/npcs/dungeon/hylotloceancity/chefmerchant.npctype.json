@@ -332,9 +332,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Eu espero que você aprecie a comida."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "npcs/dungeon/hylotloceancity/chefmerchant.npctype": [
         "/scriptConfig/dialog/merchant/end/hylotl/default/2",
