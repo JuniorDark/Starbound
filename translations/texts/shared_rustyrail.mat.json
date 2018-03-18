@@ -11,6 +11,7 @@
     },
     "Texts": {
       "Eng": "Rusty Rail",
+      "Chs": "Rusty Rail",
       "Por": "Rusty Rail"
     }
   },
@@ -26,6 +27,7 @@
     },
     "Texts": {
       "Eng": "Rusty metal rails.",
+      "Chs": "Trilhoss de metal enferrujadoss.",
       "Por": "Trilhoss de metal enferrujadoss."
     }
   },
@@ -41,13 +43,12 @@
     },
     "Texts": {
       "Eng": "Some rusty lookin' rails, gettin' the itch to ride 'em.",
+      "Chs": "Alguns trilhos de aparência enferrujada, pedindo para serem montados.",
       "Por": "Alguns trilhos de enferrujados."
     }
   },
   {
-    "DeniedAlternatives": [
-      "Estes trilhos são um pouco áspero, mas funcional."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "items/materials/rustyrail.matitem": [
         "/description"
@@ -58,6 +59,7 @@
     },
     "Texts": {
       "Eng": "These rails are a bit rough, but functional.",
+      "Chs": "Estes trilhos são um pouco ásperos, mas funcional.",
       "Por": "Estes trilhos são um pouco ásperos, mas funcional."
     }
   },
@@ -72,7 +74,8 @@
       ]
     },
     "Texts": {
-      "Eng": "These rails look worn and rusted."
+      "Eng": "These rails look worn and rusted.",
+      "Chs": "Esses trilhos parecem desgastados e enferrujados."
     }
   }
 ]
