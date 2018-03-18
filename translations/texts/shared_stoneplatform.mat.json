@@ -1,8 +1,6 @@
 [
   {
-    "DeniedAlternatives": [
-      "Uma plataforma esculpida em pedra."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "items/materials/stoneplatform.matitem": [
         "/description"
@@ -13,6 +11,7 @@
     },
     "Texts": {
       "Eng": "A platform carved from stone.",
+      "Chs": "Uma plataforma feita de pedra.",
       "Por": "Uma plataforma feita de pedra."
     }
   },
@@ -28,6 +27,7 @@
     },
     "Texts": {
       "Eng": "Must've taken forever to carve these stone platforms.",
+      "Chs": "Deve ter levado uma eternidade para esculpir estas plataformas de pedra.",
       "Por": "Deve ter levado uma eternidade para esculpir estas plataformas de pedra."
     }
   },
@@ -43,6 +43,7 @@
     },
     "Texts": {
       "Eng": "Sstone carved into platformss.",
+      "Chs": "Pedra essculpida em plataformass.",
       "Por": "Pedra essculpida em plataformass."
     }
   },
@@ -58,6 +59,7 @@
     },
     "Texts": {
       "Eng": "Stone Platform",
+      "Chs": "Stone Platform",
       "Por": "Stone Platform"
     }
   },
@@ -72,7 +74,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This platform has been carved from solid stone."
+      "Eng": "This platform has been carved from solid stone.",
+      "Chs": "Esta plataforma foi esculpida de pedra sólida."
     }
   }
 ]
