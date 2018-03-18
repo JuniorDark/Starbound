@@ -11,7 +11,7 @@
     },
     "Texts": {
       "Eng": "Russty and unssafe. Floran likess.",
-      "Chs": "",
+      "Chs": "Enferrujado e insesguro. Floran gossta.",
       "Por": "Enferrujado e insesguro. Floran gossta."
     }
   },
@@ -27,14 +27,12 @@
     },
     "Texts": {
       "Eng": "This rusty platform looks 'bout ready to fall apart.",
-      "Chs": "",
+      "Chs": "Esta plataforma enferrujada parece pronta pra desmoronar.",
       "Por": "Esta plataforma enferrujada parece pronta pra desmoronar."
     }
   },
   {
-    "DeniedAlternatives": [
-      "Este andaime enferrujado aparece estruturalmente instável."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "items/materials/wreckplatform.matitem": [
         "/glitchdescription/glitchEmotedText"
@@ -62,7 +60,7 @@
     },
     "Texts": {
       "Eng": "Wrecked Platform",
-      "Chs": "",
+      "Chs": "Wrecked Platform",
       "Por": "Wrecked Platform"
     }
   }
