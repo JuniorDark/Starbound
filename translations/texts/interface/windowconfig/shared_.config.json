@@ -25,13 +25,12 @@
       ]
     },
     "Texts": {
-      "Eng": "9999999"
+      "Eng": "9999999",
+      "Por": "9999999"
     }
   },
   {
-    "DeniedAlternatives": [
-      "Comprar "
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "interface/windowconfig/craftingmerchant.config": [
         "/paneLayout/btnCraft/caption"
