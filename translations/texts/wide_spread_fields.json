@@ -23,6 +23,7 @@
     },
     "Texts": {
       "Eng": " Vending Machine",
+      "Chs": "",
       "Por": "Maquina de Vendas"
     }
   },
@@ -83,13 +84,12 @@
       ]
     },
     "Texts": {
-      "Eng": "-todo-"
+      "Eng": "-todo-",
+      "Chs": "-todo-"
     }
   },
   {
-    "DeniedAlternatives": [
-      "Se é invisível, porque você esta com um?"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "dialog/frog.config": [
         "/beacon/default/default/0",
@@ -172,6 +172,7 @@
     },
     "Texts": {
       "Eng": "...",
+      "Chs": "...",
       "Por": "..."
     }
   },
@@ -194,7 +195,8 @@
       ]
     },
     "Texts": {
-      "Eng": "???"
+      "Eng": "???",
+      "Chs": "???"
     }
   },
   {
@@ -238,6 +240,7 @@
     },
     "Texts": {
       "Eng": "A leafy plant.",
+      "Chs": "Uma planta folhuda.",
       "Por": "Uma planta folhuda."
     }
   },
@@ -255,6 +258,7 @@
     },
     "Texts": {
       "Eng": "A pile of mossy stones.",
+      "Chs": "",
       "Por": "Uma pilha de pedras cobertas de musgo."
     }
   },
@@ -312,6 +316,7 @@
     },
     "Texts": {
       "Eng": "A root.",
+      "Chs": "",
       "Por": "Uma raíz."
     }
   },
@@ -327,6 +332,7 @@
     },
     "Texts": {
       "Eng": "A timeless classic.",
+      "Chs": "",
       "Por": "Um clássico atemporal."
     }
   },
@@ -342,6 +348,7 @@
     },
     "Texts": {
       "Eng": "Alien",
+      "Chs": "",
       "Por": "Alienígena"
     }
   },
@@ -357,6 +364,7 @@
     },
     "Texts": {
       "Eng": "Arctic",
+      "Chs": "",
       "Por": "Ártico"
     }
   },
@@ -374,6 +382,7 @@
     },
     "Texts": {
       "Eng": "Asteroid Field",
+      "Chs": "",
       "Por": "Campo de Asteróides"
     }
   },
@@ -389,6 +398,7 @@
     },
     "Texts": {
       "Eng": "Asteroids",
+      "Chs": "",
       "Por": "Asteróides"
     }
   },
@@ -451,6 +461,7 @@
     },
     "Texts": {
       "Eng": "Attack!",
+      "Chs": "",
       "Por": "Atacar!"
     }
   },
@@ -475,6 +486,7 @@
     },
     "Texts": {
       "Eng": "Avenge me!",
+      "Chs": "",
       "Por": "Me vingue!"
     }
   },
@@ -494,7 +506,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Baron"
+      "Eng": "Baron",
+      "Chs": ""
     }
   },
   {
@@ -509,6 +522,7 @@
     },
     "Texts": {
       "Eng": "Barren",
+      "Chs": "",
       "Por": "Estéril"
     }
   },
@@ -525,6 +539,7 @@
     },
     "Texts": {
       "Eng": "Bartender",
+      "Chs": "",
       "Por": "Bartender"
     }
   },
@@ -545,6 +560,7 @@
     },
     "Texts": {
       "Eng": "Bonesss!",
+      "Chs": "",
       "Por": "Ossosss!"
     }
   },
@@ -560,6 +576,7 @@
     },
     "Texts": {
       "Eng": "Codex",
+      "Chs": "",
       "Por": "Códice"
     }
   },
@@ -575,6 +592,7 @@
     },
     "Texts": {
       "Eng": "Crystal Erchius Fuel",
+      "Chs": "",
       "Por": "Crystal Erchius Fuel"
     }
   },
@@ -590,6 +608,7 @@
     },
     "Texts": {
       "Eng": "Desert",
+      "Chs": "",
       "Por": "Deserto"
     }
   },
@@ -614,6 +633,7 @@
     },
     "Texts": {
       "Eng": "Don't let 'em get away!",
+      "Chs": "",
       "Por": "Não deixe eles escaparem!"
     }
   },
@@ -629,6 +649,7 @@
     },
     "Texts": {
       "Eng": "Door",
+      "Chs": "",
       "Por": "Porta"
     }
   },
@@ -658,7 +679,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Dr. Akaggy"
+      "Eng": "Dr. Akaggy",
+      "Chs": ""
     }
   },
   {
@@ -673,6 +695,7 @@
     },
     "Texts": {
       "Eng": "Dreadwing",
+      "Chs": "",
       "Por": "Dreadwing"
     }
   },
