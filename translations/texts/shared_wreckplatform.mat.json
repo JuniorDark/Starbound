@@ -32,7 +32,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Este andaime enferrujado aparece estruturalmente instável."
+    ],
     "Files": {
       "items/materials/wreckplatform.matitem": [
         "/glitchdescription/glitchEmotedText"
@@ -43,7 +45,7 @@
     },
     "Texts": {
       "Eng": "This rusty scaffolding appears structurally unsound.",
-      "Chs": "Este andaime enferrujado aparece estruturalmente instável."
+      "Chs": "Este andaime enferrujado parece estruturalmente instável."
     }
   },
   {
