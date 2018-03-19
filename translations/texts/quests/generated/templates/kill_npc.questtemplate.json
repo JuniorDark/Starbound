@@ -538,7 +538,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Have you heard of the outlaw ^orange;<adjective> <enemy.name> the <enemy>^white;? I've heard <enemy.pronoun.copulative> laying low nearby after <crime>. We don't need that kind of trouble around here - ^green;could you go to the ^orange;<spawnPoint>^green;<spawnPoint.direction> and <request>^white;?"
+      "Eng": "Have you heard of the outlaw ^orange;<adjective> <enemy.name> the <enemy>^white;? I've heard <enemy.pronoun.copulative> laying low nearby after <crime>. We don't need that kind of trouble around here - ^green;could you go to the ^orange;<spawnPoint>^green;<spawnPoint.direction> and <request>^white;?",
+      "Por": "Você já ouviu falar do bandido ^orange;<adjective> <enemy.name> o <enemy>^white;? eu ouvi que <enemy.pronoun.copulative> esta por perto depois de <crime>. Não precisamos desse tipo de problema por aqui - ^green;você poderia ir para o ^orange;<spawnPoint>^green;<spawnPoint.direction> e <request>^white;?"
     }
   },
   {
@@ -885,7 +886,8 @@
       ]
     },
     "Texts": {
-      "Eng": "bandit"
+      "Eng": "bandit",
+      "Por": "bandido"
     }
   },
   {
