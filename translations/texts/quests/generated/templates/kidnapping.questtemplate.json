@@ -164,7 +164,8 @@
       ]
     },
     "Texts": {
-      "Eng": "My <friend> ^orange;<victimNpcType>^white; was meant to visit <earlier> so we could <activity1>, but <victimNpcType.pronoun.subject> hasn't <turned> up! <suspicion> the ^orange;<enemy>^white; I saw near the ^orange;<spawnPoint>^white;<spawnPoint.direction> <involved>. ^green;Can you please save <victimNpcType>^white;?"
+      "Eng": "My <friend> ^orange;<victimNpcType>^white; was meant to visit <earlier> so we could <activity1>, but <victimNpcType.pronoun.subject> hasn't <turned> up! <suspicion> the ^orange;<enemy>^white; I saw near the ^orange;<spawnPoint>^white;<spawnPoint.direction> <involved>. ^green;Can you please save <victimNpcType>^white;?",
+      "Por": "Meu <friend> ^orange;<victimNpcType>^white; era para visitar <earlier> para que pudéssemos <activity1>, mas <victimNpcType.pronoun.subject> não <turned>!  <suspicion> o ^orange;<enemy>^white; que eu vi perto de ^orange;<spawnPoint>^white;<spawnPoint.direction> <involved>. ^green;Você pode por favor salvar <victimNpcType>^white;?"
     }
   },
   {
@@ -284,7 +285,8 @@
       ]
     },
     "Texts": {
-      "Eng": "You were able to rescue <victimNpcType>? <appreciation>"
+      "Eng": "You were able to rescue <victimNpcType>? <appreciation>",
+      "Por": "Você conseguiu resgatar <victimNpcType>? <appreciation>"
     }
   },
   {
@@ -1037,7 +1039,8 @@
       ]
     },
     "Texts": {
-      "Eng": "victim"
+      "Eng": "victim",
+      "Por": "vítima"
     }
   },
   {
