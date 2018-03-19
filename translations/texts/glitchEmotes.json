@@ -5836,7 +5836,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Encorajando."
+    ],
     "Files": {
       "npcs/dungeon/hylotloceancity/chefmerchant.npctype": [
         "/scriptConfig/dialog/merchant/end/glitch/default/1/glitchEmote"
@@ -5844,7 +5846,7 @@
     },
     "Texts": {
       "Eng": "Encouraging.",
-      "Por": "Encorajando."
+      "Por": "Encorajador."
     }
   },
   {
@@ -5994,7 +5996,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Sedutor."
+    ],
     "Files": {
       "dialog/merchant.config": [
         "/follow/glitch/default/1/glitchEmote",
@@ -6006,11 +6010,13 @@
     },
     "Texts": {
       "Eng": "Enticing.",
-      "Por": "Sedutor."
+      "Por": "Sedutor"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Fascinado."
+    ],
     "Files": {
       "objects/holiday/lollipop1/lollipop1.object": [
         "/glitchDescription/glitchEmote"
@@ -6027,7 +6033,7 @@
     },
     "Texts": {
       "Eng": "Entranced.",
-      "Por": "Fascinado."
+      "Por": "Extasiado."
     }
   },
   {
@@ -6400,7 +6406,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Alegre."
+    ],
     "Files": {
       "quests/generated/templates/bribe.questtemplate": [
         "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmote"
@@ -6408,7 +6416,7 @@
     },
     "Texts": {
       "Eng": "Exhilarated.",
-      "Por": "Alegre."
+      "Por": "Exaltado."
     }
   },
   {
@@ -6764,7 +6772,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Flertando"
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/glitch/glitch/0/glitchEmote"
@@ -6772,7 +6782,7 @@
     },
     "Texts": {
       "Eng": "Flirtatious.",
-      "Por": "Flertando"
+      "Por": "Flertando."
     }
   },
   {
@@ -6967,7 +6977,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Corajoso."
+    ],
     "Files": {
       "npcs/crew/crewmember.npctype": [
         "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0/glitchEmote"
@@ -6975,7 +6987,7 @@
     },
     "Texts": {
       "Eng": "Gallant.",
-      "Por": "Corajoso."
+      "Por": "Valente."
     }
   },
   {
@@ -6994,7 +7006,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Simpático."
+    ],
     "Files": {
       "dialog/converse.config": [
         "/greeting/glitch/default/21/glitchEmote"
@@ -7008,7 +7022,7 @@
     },
     "Texts": {
       "Eng": "Genial.",
-      "Por": "Simpático."
+      "Por": "Fantástico."
     }
   },
   {
@@ -7024,7 +7038,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Sorridente ."
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/glitch/generic/66/glitchEmote"
@@ -7032,7 +7048,7 @@
     },
     "Texts": {
       "Eng": "Giggly.",
-      "Por": "Sorridente ."
+      "Por": "Sorridente."
     }
   },
   {
@@ -7048,7 +7064,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Incentivo."
+    ],
     "Files": {
       "dialog/combat.config": [
         "/cheerOn/glitch/default/3/glitchEmote"
@@ -7056,7 +7074,7 @@
     },
     "Texts": {
       "Eng": "Goading.",
-      "Por": "Incentivo."
+      "Por": "Incitar."
     }
   },
   {
@@ -7158,7 +7176,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Elegante."
+    ],
     "Files": {
       "objects/human/jukebox/jukebox.object": [
         "/glitchDescription/glitchEmote"
@@ -7166,7 +7186,7 @@
     },
     "Texts": {
       "Eng": "Groovy.",
-      "Por": "Elegante."
+      "Por": "Animado."
     }
   },
   {
