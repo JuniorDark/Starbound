@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ah, que bom ver humanos entre nós."
+    ],
     "Files": {
       "dialog/outpost.config": [
         "/converse/apex/human/0"
@@ -20,11 +22,13 @@
     },
     "Texts": {
       "Eng": "Ah, lovely to see humans in our midst.",
-      "Por": "Ah, que bom ver humanos entre nós."
+      "Por": "Ah, bom ver humanos em nosso meio."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Homem-pássaro!"
+    ],
     "Files": {
       "dialog/outpost.config": [
         "/converse/floran/avian/0"
@@ -32,7 +36,7 @@
     },
     "Texts": {
       "Eng": "Birdman!",
-      "Por": "Homem-pássaro!"
+      "Por": "Homem-Pássaro!"
     }
   },
   {
@@ -48,7 +52,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Não chegue muito perto, macaco. Você fede."
+    ],
     "Files": {
       "dialog/outpost.config": [
         "/converse/hylotl/apex/0"
@@ -56,7 +62,7 @@
     },
     "Texts": {
       "Eng": "Don't get too close, ape. You stink.",
-      "Por": "Não chegue muito perto, macaco. Você fede."
+      "Por": "Não chegue muito perto, ape. Você fede."
     }
   },
   {
@@ -182,7 +188,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Saudações, macaco."
+    ],
     "Files": {
       "dialog/outpost.config": [
         "/converse/avian/apex/0"
@@ -190,7 +198,7 @@
     },
     "Texts": {
       "Eng": "Greetings, ape.",
-      "Por": "Saudações, macaco."
+      "Por": "Saudações, ape."
     }
   },
   {
@@ -323,7 +331,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Leave me be!"
+      "Eng": "Leave me be!",
+      "Por": "Deixe-me em paz!"
     }
   },
   {
@@ -334,7 +343,8 @@
       ]
     },
     "Texts": {
-      "Eng": "No! Get away from me!"
+      "Eng": "No! Get away from me!",
+      "Por": "Não! Afaste-se de mim!"
     }
   },
   {
@@ -370,7 +380,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Please don't hurt me!"
+      "Eng": "Please don't hurt me!",
+      "Por": "Por favor, não me machuque!"
     }
   },
   {
@@ -381,7 +392,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Puny human."
+      "Eng": "Puny human.",
+      "Por": "Humano insignificante."
     }
   },
   {
@@ -392,7 +404,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Put 'em to the sword!"
+      "Eng": "Put 'em to the sword!",
+      "Por": "Acabe com eles!"
     }
   },
   {
@@ -403,7 +416,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Somebody help!"
+      "Eng": "Somebody help!",
+      "Por": "Alguém me ajude!"
     }
   },
   {
@@ -463,7 +477,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Strike him down!"
+      "Eng": "Strike him down!",
+      "Por": "Acabe com ele!"
     }
   },
   {
@@ -486,7 +501,8 @@
       ]
     },
     "Texts": {
-      "Eng": "What have you done?!"
+      "Eng": "What have you done?!",
+      "Por": "O que você fez?"
     }
   },
   {
