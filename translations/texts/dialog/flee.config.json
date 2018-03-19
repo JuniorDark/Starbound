@@ -132,7 +132,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Gaaah! Me ajuda!"
+    ],
     "Files": {
       "dialog/flee.config": [
         "/helpme/glitch/default/0/glitchEmotedText"
@@ -140,7 +142,7 @@
     },
     "Texts": {
       "Eng": "Gaaah! Help me!",
-      "Por": "Gaaah! Me ajuda!"
+      "Por": "Gaaah! Ajude-me!"
     }
   },
   {
@@ -421,7 +423,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Isso foi cansativo."
+    ],
     "Files": {
       "dialog/flee.config": [
         "/safe/glitch/default/2/glitchEmotedText"
@@ -429,7 +433,7 @@
     },
     "Texts": {
       "Eng": "That was exhausting.",
-      "Por": "Isso foi cansativo."
+      "Por": "Isso foi exaustivo."
     }
   },
   {
@@ -493,7 +497,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "O que está acontecendo!? Pare com isso!"
+    ],
     "Files": {
       "dialog/flee.config": [
         "/helpme/glitch/default/5/glitchEmotedText"
@@ -501,11 +507,13 @@
     },
     "Texts": {
       "Eng": "What's happening!? Stop it!",
-      "Por": "O que está acontecendo!? Pare com isso!"
+      "Por": "O que está acontecendo!? Pare!"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Por que isso está acontecendo!?"
+    ],
     "Files": {
       "dialog/flee.config": [
         "/helpme/glitch/default/2/glitchEmotedText"
@@ -513,7 +521,7 @@
     },
     "Texts": {
       "Eng": "Why is this happening!?",
-      "Por": "Por que isso está acontecendo!?"
+      "Por": "Why is this happening!?"
     }
   }
 ]
