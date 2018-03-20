@@ -32,7 +32,7 @@ specialSections = [
   SpecialSection("Adjetivo", [], ["^.*quests/generated/pools/guardthemes\.config$"]),
   SpecialSection("Acusativo", [], ["^.*quests/generated/pools/weapon\.config$"]),
   SpecialSection("Chance", [], ["^.*pools/hatadjectives.config$"]),
-  SpecialSection("Expressão regular (não para tradução, mas para apoiar nomes em alfabeto cirílico)", ["^.*/regex$"], ["^.*\.config$"], True),
+  SpecialSection("Expressão regular (não para tradução, mas para suportar nomes em alfabeto cirílico)", ["^.*/regex$"], ["^.*\.config$"], True),
   SpecialSection("Aderiu ao adjetivo do chão",
     ["^.*generatedText/fluff/2/.*$"],
     ["^.*quests/generated/templates/spread_rumors.questtemplate$"], True),
