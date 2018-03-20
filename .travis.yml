@@ -13,17 +13,3 @@ branches:
 script:
   python ./tools/export_mod.py
 
-before_deploy:
-  sh ./tools/deploy.sh
-
-after_deploy:
-  python ./tools/vk_announce.py
-
-deploy:
-  provider: releases
-  api_key: "$AUTH_TOKEN"
-  file: 
-    - "Starbound_PTBR.zip"
-  skip_cleanup: true
-  on:
-    branch: master
