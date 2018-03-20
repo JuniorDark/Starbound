@@ -1,0 +1,27 @@
+
+language: python
+python:
+  - "3.5"
+
+env:
+  global:
+  - TRAVIS_TAG="$(date -u '+%d.%m.%y-%H.%M')"
+
+branches:
+  only:
+  - master
+
+script:
+  python ./tools/export_mod.py
+
+before_deploy:
+  sh ./tools/deploy.sh
+
+deploy:
+  provider: releases
+  api_key: "$AUTH_TOKEN"
+  file: 
+    - "Starbound_PTBR.zip"
+  skip_cleanup: true
+  on:
+    branch: master
