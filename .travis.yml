@@ -14,9 +14,6 @@ branches:
 script:
   python ./tools/export_mod.py
 
-before_deploy:
-  sh ./tools/deploy.sh
-
 deploy:
   provider: releases
   api_key: "$AUTH_TOKEN"
