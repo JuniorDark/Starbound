@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "<count> <itemName>"
+      "Eng": "<count> <itemName>",
+      "Por": "<count> <itemName>"
     }
   },
   {
@@ -42,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "All you need to do now is ^green;make a home^white; using your ^orange;<furnitureSet>, ^white;and a ^orange;Colony Deed^white;! I'll be making a new friend in no time!"
+      "Eng": "All you need to do now is ^green;make a home^white; using your ^orange;<furnitureSet>, ^white;and a ^orange;Colony Deed^white;! I'll be making a new friend in no time!",
+      "Por": "Tudo que você precisa fazer agora é ^green;fazer uma casa^white; usando seu ^orange;<furnitureSet>, ^white;e uma ^orange;Colony Deed^white;! Eu vou estar fazendo um novo amigo em pouco tempo!"
     }
   },
   {
@@ -53,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Finally, ^green;build a new home^white; and ^green;furnish it^white; with your ^orange;<furnitureSet>.^white; Don't forget to place a ^orange;Colony Deed!^orange;"
+      "Eng": "Finally, ^green;build a new home^white; and ^green;furnish it^white; with your ^orange;<furnitureSet>.^white; Don't forget to place a ^orange;Colony Deed!^orange;",
+      "Por": "Finalmente, ^green;construa uma nova casa^white; e ^green;mobilhe ela^white; com seu ^orange;<furnitureSet>.^white; Não esqueça de colocar um ^orange;Colony Deed!^orange;"
     }
   },
   {
@@ -88,7 +91,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I have a new friend to get acquainted with - I'm sure they'll be a wonderful companion! Thank you for making this happen!"
+      "Eng": "I have a new friend to get acquainted with - I'm sure they'll be a wonderful companion! Thank you for making this happen!",
+      "Por": "Eu tenho um novo amigo para me familiarizar - tenho certeza de que ele sera uma companhia maravilhosa! Obrigado por fazer isso acontecer!"
     }
   },
   {
@@ -123,7 +127,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I'm always surprised how fast new homes are inhabited - I guess there's a lot of demand out there! Thank you for your help."
+      "Eng": "I'm always surprised how fast new homes are inhabited - I guess there's a lot of demand out there! Thank you for your help.",
+      "Por": "Eu sempre me surpreendo com a rapidez com que novas casas são habitadas - eu acho que há muita demanda por aí! Obrigado pela ajuda."
     }
   },
   {
@@ -278,7 +283,8 @@
       ]
     },
     "Texts": {
-      "Eng": "any door"
+      "Eng": "any door",
+      "Por": "qualquer porta"
     }
   },
   {
@@ -289,7 +295,8 @@
       ]
     },
     "Texts": {
-      "Eng": "any light source"
+      "Eng": "any light source",
+      "Por": "qualquer fonte de luz"
     }
   }
 ]
