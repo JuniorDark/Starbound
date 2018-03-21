@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Ah, I see you got the <item> - I expect it was SO difficult to get <target> to hand it over. Keep hold of it for me for the time being, will you?"
+      "Eng": "Ah, I see you got the <item> - I expect it was SO difficult to get <target> to hand it over. Keep hold of it for me for the time being, will you?",
+      "Por": "Ah, vejo que você pegou o <item> - Eu espero que foi TÃO difícil conseguir que <target> o entregasse. Guarde-o para mim, por enquanto, você poderia?"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Ah, you got <target>'s <item>. I imagine the look on <target.pronoun.possessiveDet> face was priceless!"
+      "Eng": "Ah, you got <target>'s <item>. I imagine the look on <target.pronoun.possessiveDet> face was priceless!",
+      "Por": "Ah, você pegou o <item> de <target>. Imagino o olhar no rosto de <target.pronoun.possessiveDet> foi impagável!"
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "First I need you to ^green;find that fool, ^orange;<target> ^green;and ask <target.pronoun.object> to give up <target.pronoun.possessiveDet> ^orange;<item>. ^white;Make sure you mention that ^orange;<questGiver>^white; sent you, <target.pronoun.subject> won't protest... "
+      "Eng": "First I need you to ^green;find that fool, ^orange;<target> ^green;and ask <target.pronoun.object> to give up <target.pronoun.possessiveDet> ^orange;<item>. ^white;Make sure you mention that ^orange;<questGiver>^white; sent you, <target.pronoun.subject> won't protest... ",
+      "Por": "Primeiro eu preciso que você ^green;ache que tolo, ^orange;<target> ^green;e peça a <target.pronoun.object> para desistir do <target.pronoun.possessiveDet> ^orange;<item>. ^white;Certifique-se de mencionar que ^orange;<questGiver>^white; te enviou, <target.pronoun.subject> não vai protestar..."
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "First, we must deal with ^orange;<target>. ^white;I need <target.pronoun.possessiveDet> ^orange;<item>, ^white;but <target.pronoun.subject>'d be petrified if I went in person. It would save us both some trouble if you were to ^green;fetch it^white; instead."
+      "Eng": "First, we must deal with ^orange;<target>. ^white;I need <target.pronoun.possessiveDet> ^orange;<item>, ^white;but <target.pronoun.subject>'d be petrified if I went in person. It would save us both some trouble if you were to ^green;fetch it^white; instead.",
+      "Por": "Em primeiro lugar, temos que lidar com ^orange;<target>. ^white;Eu preciso de <target.pronoun.possessiveDet> ^orange;<item>, ^white;mas <target.pronoun.subject> ficaria apavorado se eu fosse em pessoa. Isso nos pouparia alguns problemas se em vez disso você fosse ^green;buscá-lo^white;."
     }
   },
   {
@@ -87,7 +91,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Ms Extorted"
+      "Eng": "Ms Extorted",
+      "Por": "Sr. Extorção"
     }
   },
   {
@@ -110,7 +115,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Next, we need one ^orange;<item>^white;. ^orange;<target>^white; will have one. <target.pronoun.capitalSubject> should ^green;give it up without a fight if you tell <target.pronoun.object> I sent you^white;."
+      "Eng": "Next, we need one ^orange;<item>^white;. ^orange;<target>^white; will have one. <target.pronoun.capitalSubject> should ^green;give it up without a fight if you tell <target.pronoun.object> I sent you^white;.",
+      "Por": "Agora podemos ter um pouco de diversão! Vá encontrar ^orange;<target> ^white;e ^green;pressione <target.pronoun.object> para entregar o ^orange;<item> <target.pronoun.possessiveDet>.^white; Não deve ser muito difícil, basta mencionar que ^orange;<questGiver>^white; te enviou."
     }
   },
   {
@@ -121,7 +127,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Now we can have a bit of fun! Go find ^orange;<target> ^white;and ^green;pressure <target.pronoun.object> into handing over <target.pronoun.possessiveDet> ^orange;<item>.^white; It shouldn't be too difficult, just mention that ^orange;<questGiver>^white; sent you."
+      "Eng": "Now we can have a bit of fun! Go find ^orange;<target> ^white;and ^green;pressure <target.pronoun.object> into handing over <target.pronoun.possessiveDet> ^orange;<item>.^white; It shouldn't be too difficult, just mention that ^orange;<questGiver>^white; sent you.",
+      "Por": "Agora podemos ter um pouco de diversão! Vá encontrar ^orange;<target> ^white;e ^green;pressione <target.pronoun.object> para entregar o ^orange;<item> <target.pronoun.possessiveDet>.^white; Não deve ser muito difícil, basta mencionar que ^orange;<questGiver>^white; te enviou."
     }
   },
   {
@@ -192,7 +199,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This is the perfect <item>. I suppose <target> wasn't too much trouble?"
+      "Eng": "This is the perfect <item>. I suppose <target> wasn't too much trouble?",
+      "Por": "Esse é o <item> perfeito. Eu suponho que <target> não causou problema?"
     }
   },
   {
@@ -263,7 +271,8 @@
       ]
     },
     "Texts": {
-      "Eng": "You got <target>'s <item>. Ha ha ha... what a coward <target.pronoun.subject> is."
+      "Eng": "You got <target>'s <item>. Ha ha ha... what a coward <target.pronoun.subject> is.",
+      "Por": "Você pegou o <item> de <target>. Ha ha ha... que covarde <target.pronoun.subject> é."
     }
   },
   {
