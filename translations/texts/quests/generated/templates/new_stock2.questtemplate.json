@@ -55,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I am happy to announce that I will now stock a <newItem> as part of my regular inventory. Thank you for your help!"
+      "Eng": "I am happy to announce that I will now stock a <newItem> as part of my regular inventory. Thank you for your help!",
+      "Por": "Estou feliz em anunciar que agora irei estocar um <newItem> como parte de meu inventário regular. Obrigado pela ajuda!"
     }
   },
   {
@@ -90,7 +91,8 @@
       ]
     },
     "Texts": {
-      "Eng": "If you speak to ^orange;<target>^white; at the ^orange;<spawnPoint>^white;<spawnPoint.direction> <target.pronoun.subject> might have the materials I need to create a new item of stock. Please ^green;see if <target.pronoun.subject> will accept ^orange;<tradedItems> ^white;in exchange"
+      "Eng": "If you speak to ^orange;<target>^white; at the ^orange;<spawnPoint>^white;<spawnPoint.direction> <target.pronoun.subject> might have the materials I need to create a new item of stock. Please ^green;see if <target.pronoun.subject> will accept ^orange;<tradedItems> ^white;in exchange",
+      "Por": "Se você falar com ^orange;<target>^white; no ^orange;<spawnPoint> ^white; <spawnPoint.direction> <target.pronoun.subject> pode ter os materiais que eu preciso para criar um novo item de estoque. Por favor ^green;veja se <target.pronoun.subject> aceitará ^orange;<tradedItems> ^white;em troca"
     }
   },
   {
@@ -161,7 +163,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The merchant known as ^orange;<target>^white; is a popular fellow... Maybe you could ^green;deliver ^orange;<tradedItems>^green; to <target.pronoun.object> at the ^orange;<spawnPoint>^white;<spawnPoint.direction> in exchange for the supplies I need?"
+      "Eng": "The merchant known as ^orange;<target>^white; is a popular fellow... Maybe you could ^green;deliver ^orange;<tradedItems>^green; to <target.pronoun.object> at the ^orange;<spawnPoint>^white;<spawnPoint.direction> in exchange for the supplies I need?",
+      "Por": "O comerciante conhecido como ^orange;<target>^white; é um cara popular... Talvez você possa ^green;entregar ^orange;<tradedItems>^green; para <target.pronoun.object> no ^orange;<spawnPoint> ^white;<spawnPoint.direction> em troca dos suprimentos que eu preciso?"
     }
   },
   {
@@ -184,7 +187,8 @@
       ]
     },
     "Texts": {
-      "Eng": "You did it! Now I will always have a <newItem> in stock alongside my exisiting range of products."
+      "Eng": "You did it! Now I will always have a <newItem> in stock alongside my exisiting range of products.",
+      "Por": "Você conseguiu! Agora eu sempre terei um <newItem> em estoque juntamente com minha variedade existente de produtos."
     }
   },
   {
