@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "<target.pronoun.capitalSubject> really made this for me? I can really keep this? Wow!"
+      "Eng": "<target.pronoun.capitalSubject> really made this for me? I can really keep this? Wow!",
+      "Por": "<target.pronoun.capitalSubject> realmente fez isso para mim? Eu realmente posso ficar com isso? Uau!"
     }
   },
   {
@@ -78,7 +79,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Great, you got the <item>! Now we need to put it to use as part of my grand plan!"
+      "Eng": "Great, you got the <item>! Now we need to put it to use as part of my grand plan!",
+      "Por": "Ótimo, você conseguiu o <item>! Agora precisamos colocá-lo para usar como parte do meu grande plano!"
     }
   },
   {
@@ -101,7 +103,8 @@
       ]
     },
     "Texts": {
-      "Eng": "My friend ^orange;<target>^white; said <target.pronoun.subject> would help make the ^orange;<item>^white; I need, but <target.pronoun.subject> has not shown up.  ^green;Would you go to <target.pronoun.object> and ask <target.pronoun.object> for it?"
+      "Eng": "My friend ^orange;<target>^white; said <target.pronoun.subject> would help make the ^orange;<item>^white; I need, but <target.pronoun.subject> has not shown up.  ^green;Would you go to <target.pronoun.object> and ask <target.pronoun.object> for it?",
+      "Por": "Meu amigo ^orange;<target>^white; disse que <target.pronoun.subject> iria ajudar a fazer o ^orange;<item>^white; que eu preciso, mas <target.pronoun.subject> não apareceu. ^green;Você iria a <target.pronoun.object> e pediria a <target.pronoun.object> por isso?"
     }
   },
   {
@@ -160,7 +163,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Oh, the quality of this <item> is not what I had expected. I suppose it will have to do."
+      "Eng": "Oh, the quality of this <item> is not what I had expected. I suppose it will have to do.",
+      "Por": "Oh, a qualidade deste <item> não é o que eu esperava. Suponho que isso terá que servir."
     }
   },
   {
@@ -219,7 +223,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Well done; <target> is generally friendly towards me, but not always so generous. Thank you for your help."
+      "Eng": "Well done; <target> is generally friendly towards me, but not always so generous. Thank you for your help.",
+      "Por": "Muito bem; <target> geralmente é amigável comigo, mas nem sempre tão generoso. Obrigado pela ajuda."
     }
   },
   {
@@ -254,7 +259,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^green;I need you to pay a visit^white; to ^orange;<target>^white;. The ^orange;<item>^white; <target.pronoun.subject> promised to craft for me should be ready."
+      "Eng": "^green;I need you to pay a visit^white; to ^orange;<target>^white;. The ^orange;<item>^white; <target.pronoun.subject> promised to craft for me should be ready.",
+      "Por": "^green;Eu preciso de você para fazer uma visita^white; a ^orange;<target>^white;. O ^orange;<item>^white; que <target.pronoun.subject> prometeu criar para mim deve estar pronto."
     }
   },
   {
@@ -265,7 +271,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^green;If you speak to ^orange;<target>^white; <target.pronoun.subject> should give you the ^orange;<item>^white; <target.pronoun.subject> is making for me."
+      "Eng": "^green;If you speak to ^orange;<target>^white; <target.pronoun.subject> should give you the ^orange;<item>^white; <target.pronoun.subject> is making for me.",
+      "Por": "^green;Se você falar com ^orange;<target>^white; <target.pronoun.subject> deve lhe dar o ^orange;<item>^white; que <target.pronoun.subject> está fazendo para mim."
     }
   },
   {
@@ -276,7 +283,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^orange;<target>^white; knows how to make ^orange;<item>s^white; better than I do. ^green;Please ask <target.pronoun.object> to make one for me."
+      "Eng": "^orange;<target>^white; knows how to make ^orange;<item>s^white; better than I do. ^green;Please ask <target.pronoun.object> to make one for me.",
+      "Por": "^orange;<target>^white; sabe como fazer ^orange;<item>s^white; melhor do que eu. ^green;Por favor pergunte a <target.pronoun.object> para fazer um para mim."
     }
   }
 ]
