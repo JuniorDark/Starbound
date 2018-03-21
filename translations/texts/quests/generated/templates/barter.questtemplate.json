@@ -31,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Next, travelling merchant <target> arrived at the ^orange;<spawnPoint>^white;<spawnPoint.direction> a short time ago. <target.pronoun.capitalSubject> has agreed to provide us with the ^orange;<receivedItems>^white; we require in exchange for the ^orange;<givenItems>^white;. Could you ^green;take the goods to ^orange;<target>^white;?"
+      "Eng": "Next, travelling merchant <target> arrived at the ^orange;<spawnPoint>^white;<spawnPoint.direction> a short time ago. <target.pronoun.capitalSubject> has agreed to provide us with the ^orange;<receivedItems>^white; we require in exchange for the ^orange;<givenItems>^white;. Could you ^green;take the goods to ^orange;<target>^white;?",
+      "Por": "Em seguida, o comerciante viajante <target> chegou em ^orange;<spawnPoint>^white;<spawnPoint.direction> a pouco tempo atrás. <target.pronoun.capitalSubject> concordou em nos fornecer ^orange;<receivedItems>^white; nós exigimos em troca ^orange;<givenItems>^white;. Você poderia ^green;levar as mercadorias para ^orange;<target>^white;?"
     }
   },
   {
