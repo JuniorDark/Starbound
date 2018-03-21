@@ -91,7 +91,8 @@
       ]
     },
     "Texts": {
-      "Eng": "<target> looked horrified when <target.pronoun.subject> read the message! Not that I was hiding and watching <target.pronoun.object> or anything. Anyway, there's work to do yet!"
+      "Eng": "<target> looked horrified when <target.pronoun.subject> read the message! Not that I was hiding and watching <target.pronoun.object> or anything. Anyway, there's work to do yet!",
+      "Por": "<target> parecia horrorizado quando <target.pronoun.subject> leu a mensagem! Não que eu estava escondendo e assistindo <target.pronoun.object> ou qualquer coisa. De qualquer forma, há trabalho a fazer ainda!"
     }
   },
   {
@@ -114,7 +115,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Finally, ^green;hand this rumour about ^orange;<other> ^green;to ^orange;<target>. ^white;It's a little far fetched, but there's no smoke without fire."
+      "Eng": "Finally, ^green;hand this rumour about ^orange;<other> ^green;to ^orange;<target>. ^white;It's a little far fetched, but there's no smoke without fire.",
+      "Por": "Finalmente, ^green;entregue este boato sobre ^orange;<other> ^green;para ^orange;<target>. ^white;É um pouco forçada, mas não há fumaça sem fogo."
     }
   },
   {
@@ -126,7 +128,7 @@
     },
     "Texts": {
       "Eng": "Finally, let's make ^orange;<target> ^white;realise that I'm better friend material than ^orange;<other>. ^green;Show <target.pronoun.object> this ^orange;note^green; that I've written^white; about <other> and <target.pronoun.subject>'ll see the light!",
-      "Por": "Finalmente, vamos fazer ^orange;<target> ^white;perceber que eu sou um amigo ideal melhor do que ^orange;<other>. ^green;Mostre a <target.pronoun.object> esta ^orange;nota^green; que eu escrevi^white; sobre <other> e <target.pronoun.subject> \r\nvai perceber!"
+      "Por": "Finalmente, vamos fazer ^orange;<target> ^white;perceber que eu sou um amigo ideal melhor do que ^orange;<other>. ^green;Mostre a <target.pronoun.object> esta ^orange;nota^green; que eu escrevi^white; sobre <other> e <target.pronoun.subject> \nvai perceber!"
     }
   },
   {
@@ -149,7 +151,8 @@
       ]
     },
     "Texts": {
-      "Eng": "First, let's find a blabbermouth. ^orange;<target> ^white;will do nicely. Once <target.pronoun.subject> ^green;receives this ^orange;note ^green;from you ^white;I can guarantee ^orange;<other> won't be so popular around here anymore."
+      "Eng": "First, let's find a blabbermouth. ^orange;<target> ^white;will do nicely. Once <target.pronoun.subject> ^green;receives this ^orange;note ^green;from you ^white;I can guarantee ^orange;<other> won't be so popular around here anymore.",
+      "Por": "Primeiro, vamos encontrar um tagarela. ^orange;<target> ^white;servira muito bem. Uma vez que <target.pronoun.subject> ^green;recebe esta ^orange;nota ^green;de você ^white;Posso garantir que ^orange;<other> não será mais tão popular por aqui."
     }
   },
   {
@@ -256,7 +259,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I bet <target> will be spending much less time around <other> now, which definitely means <target.pronoun.subject>'ll have more time for me. There's something else I need you to do..."
+      "Eng": "I bet <target> will be spending much less time around <other> now, which definitely means <target.pronoun.subject>'ll have more time for me. There's something else I need you to do...",
+      "Por": "Eu aposto que <target> estará gastando muito menos tempo com <other> agora, que definitivamente significa que <target.pronoun.subject> vai ter mais tempo para mim. Há mais uma coisa que eu preciso que você faça..."
     }
   },
   {
@@ -303,7 +307,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I have no doubt that with <other> out of the way, <target> and I will become great friends!"
+      "Eng": "I have no doubt that with <other> out of the way, <target> and I will become great friends!",
+      "Por": "Não tenho dúvidas de que com <other> fora do caminho, <target> e eu vamos se tornar grandes amigos!"
     }
   },
   {
@@ -326,7 +331,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I think it's safe to say <other>'s social life is in tatters!"
+      "Eng": "I think it's safe to say <other>'s social life is in tatters!",
+      "Por": "Eu acho que é seguro dizer que a vida social de <other> está destruída!"
     }
   },
   {
@@ -349,7 +355,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I want to be friends with <target>, but <target.pronoun.subject> spends all <target.pronoun.possessiveDet> time with <other>. But what if ^orange;<other> had a horrible secret? ^green;Give this ^orange;note^green; to ^orange;<target>^white;... <target.pronoun.capitalSubject>'ll surely reconsider their friendship after reading this..."
+      "Eng": "I want to be friends with <target>, but <target.pronoun.subject> spends all <target.pronoun.possessiveDet> time with <other>. But what if ^orange;<other> had a horrible secret? ^green;Give this ^orange;note^green; to ^orange;<target>^white;... <target.pronoun.capitalSubject>'ll surely reconsider their friendship after reading this...",
+      "Por": "Eu quero ser amigo de <target>, mas <target.pronoun.subject> gasta todo <target.pronoun.possessiveDet> tempo com <other>. Mas e se ^orange;<other> tivesse um segredo horrível? ^green;Dê esta ^orange;nota^green; para ^orange;<target>^white;... <target.pronoun.capitalSubject> vai certamente considerar sua amizade depois de ler isto..."
     }
   },
   {
@@ -360,7 +367,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I want to get closer to <target>, but <target.pronoun.subject> only has eyes for <other>. I bet that will change once you ^green;give ^orange;<target>^green; this ^orange;note^white; ^green;about ^orange;<other>^white;... Then <target> will have time for me!"
+      "Eng": "I want to get closer to <target>, but <target.pronoun.subject> only has eyes for <other>. I bet that will change once you ^green;give ^orange;<target>^green; this ^orange;note^white; ^green;about ^orange;<other>^white;... Then <target> will have time for me!",
+      "Por": "Eu quero chegar mais perto de <target>, mas <target.pronoun.subject> só tem olhos para <other>. Aposto isso vai mudar, quando você ^green;der a^orange;<target>^green; esta ^orange;nota^white; ^green;sobre ^orange;<other>^white;... Então <target> vai ter tempo para mim!"
     }
   },
   {
@@ -395,7 +403,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I'll teach ^orange;<other>^white; a lesson <other.pronoun.subject> won't soon forget. ^green;Give this rumour I've written to ^orange;<target>^white;, then we can sit back and watch the fireworks."
+      "Eng": "I'll teach ^orange;<other>^white; a lesson <other.pronoun.subject> won't soon forget. ^green;Give this rumour I've written to ^orange;<target>^white;, then we can sit back and watch the fireworks.",
+      "Por": "Vou ensinar a ^orange;<other>^white; uma lição que <other.pronoun.subject> não vai esquecer tão cedo. ^green;Dê este boato que eu escrevi para ^orange;<target>^white;, então podemos sentar e assistir os fogos de artifício."
     }
   },
   {
@@ -430,7 +439,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I've no doubt that <target> and I will become good friends now that <other> is out of the picture."
+      "Eng": "I've no doubt that <target> and I will become good friends now that <other> is out of the picture.",
+      "Por": "Eu não tenho nenhuma dúvida de que <target> e eu vamos se tornar bons amigos agora que <other> está fora de cogitação."
     }
   },
   {
@@ -477,7 +487,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Lastly, I will need you to ^green;give this ^orange;note^green; to ^orange;<target>. ^white;<target.pronoun.capitalSubject> definitely won't want to speak to ^orange;<other> ^white;anymore after reading this..."
+      "Eng": "Lastly, I will need you to ^green;give this ^orange;note^green; to ^orange;<target>. ^white;<target.pronoun.capitalSubject> definitely won't want to speak to ^orange;<other> ^white;anymore after reading this...",
+      "Por": "Por último, vou precisar que você ^green;de essa ^orange;nota^green; para ^orange;<target>. ^white;<target.pronoun.capitalSubject> definitivamente não vai mais quer falar com ^orange;<other> ^white;depois de ler isto..."
     }
   },
   {
@@ -500,7 +511,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Notafriendyet Jones"
+      "Eng": "Notafriendyet Jones",
+      "Por": "Notafriendyet Jones"
     }
   },
   {
@@ -523,7 +535,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Now I need you to ^green;give this ^orange;note^green; to ^orange;<target>^white; to persuade <target.pronoun.object> to stop talking to ^orange;<other>^white;. What? No, everything it says is definitely completely true."
+      "Eng": "Now I need you to ^green;give this ^orange;note^green; to ^orange;<target>^white; to persuade <target.pronoun.object> to stop talking to ^orange;<other>^white;. What? No, everything it says is definitely completely true.",
+      "Por": "Agora eu preciso que você ^green;de essa ^orange;nota^green; para ^orange;<target>^white; para persuadir <target.pronoun.object> parar de falar com ^orange;<other>^white;. O que? Não, tudo o que ela diz é definitivamente completamente verdade."
     }
   },
   {
@@ -546,7 +559,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Once you ^green;give ^orange;<target> ^green;this rumour I've written about ^orange;<other>, ^white;<target.pronoun.subject> won't be able to resist telling everyone!"
+      "Eng": "Once you ^green;give ^orange;<target> ^green;this rumour I've written about ^orange;<other>, ^white;<target.pronoun.subject> won't be able to resist telling everyone!",
+      "Por": "Assim que você ^green;der a ^orange;<target> ^green;este rumor que eu escrevi sobre ^orange;<other>, ^white;<target.pronoun.subject> não será capaz de resistir a contar para todo mundo!"
     }
   },
   {
@@ -557,7 +571,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Rival Person"
+      "Eng": "Rival Person",
+      "Por": "Pessoa Rival"
     }
   },
   {
@@ -604,7 +619,8 @@
       ]
     },
     "Texts": {
-      "Eng": "That rumour fanned the flames magnificently! <other> isn't going to have many friends left after this."
+      "Eng": "That rumour fanned the flames magnificently! <other> isn't going to have many friends left after this.",
+      "Por": "Esse boato espalhou as chamas magnificamente! <other> não vai ter muitos amigos restando depois disso."
     }
   },
   {
@@ -615,7 +631,8 @@
       ]
     },
     "Texts": {
-      "Eng": "That was great! <target> bought it immediately. The rumour about <other> is spreading already."
+      "Eng": "That was great! <target> bought it immediately. The rumour about <other> is spreading already.",
+      "Por": "Isso foi ótimo! <target> aceitou imediatamente. O boato sobre <other> já está se espalhando."
     }
   },
   {
@@ -638,7 +655,8 @@
       ]
     },
     "Texts": {
-      "Eng": "That worked better than I expected. <other> will think twice before spreading rumours again! <target> was horrified!"
+      "Eng": "That worked better than I expected. <other> will think twice before spreading rumours again! <target> was horrified!",
+      "Por": "Isso funcionou melhor do que eu esperava. <other> vai pensar duas vezes antes de espalhar boatos novamente! <target> ficou horrorizado!"
     }
   },
   {
