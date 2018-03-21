@@ -19,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "<target> is safe now - As well as being honour-bound to help me in the future. Thank you!"
+      "Eng": "<target> is safe now - As well as being honour-bound to help me in the future. Thank you!",
+      "Por": "<target> está seguro agora - Bem como ser moralmente obrigado a me ajudar no futuro. Obrigado!"
     }
   },
   {
@@ -30,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Alpha Betty"
+      "Eng": "Alpha Betty",
+      "Por": "Alpha Betty"
     }
   },
   {
@@ -185,7 +187,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I have reason to believe ^orange;<threat>^white; at the ^orange;<spawnPoint>^white;<spawnPoint.direction> are coming for ^orange;<target>. ^green;You must help protect <target.pronoun.object>!"
+      "Eng": "I have reason to believe ^orange;<threat>^white; at the ^orange;<spawnPoint>^white;<spawnPoint.direction> are coming for ^orange;<target>. ^green;You must help protect <target.pronoun.object>!",
+      "Por": "Tenho razões para acreditar que ^orange;<threat>^white; no ^orange;<spawnPoint>^white; <spawnPoint.direction> está vindo por ^orange;<target>. ^green;Você deve ajudar a proteger <target.pronoun.object>!"
     }
   },
   {
@@ -196,7 +199,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I have recieved a tip-off that ^orange;<threat>^white; are coming via the ^orange;<spawnPoint>^white;<spawnPoint.direction> to attack <target>! ^green;If you could help me protect <target.pronoun.object>,^white; I would be extremely grateful!"
+      "Eng": "I have recieved a tip-off that ^orange;<threat>^white; are coming via the ^orange;<spawnPoint>^white;<spawnPoint.direction> to attack <target>! ^green;If you could help me protect <target.pronoun.object>,^white; I would be extremely grateful!",
+      "Por": "Recebi uma dica que ^orange;<threat>^white; estão vindo através do ^orange;<spawnPoint>^white; <spawnPoint.direction> para atacar <target>! ^green;Se você pudesse me ajudar a proteger <target.pronoun.object>,^white; Eu ficaria muito grato!"
     }
   },
   {
@@ -207,7 +211,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I have recieved information that ^orange;<threat>^white; are approaching, via the ^orange;<spawnPoint>^white;<spawnPoint.direction>, and are coming to attack ^orange;<target>. ^green;If you can help me save <target.pronoun.object>,^white; I may win <target.pronoun.possessiveDet> gratitude."
+      "Eng": "I have recieved information that ^orange;<threat>^white; are approaching, via the ^orange;<spawnPoint>^white;<spawnPoint.direction>, and are coming to attack ^orange;<target>. ^green;If you can help me save <target.pronoun.object>,^white; I may win <target.pronoun.possessiveDet> gratitude.",
+      "Por": "Recebi informações que ^orange;<threat>^white; estão se aproximando, através do ^orange;<spawnPoint>^white; <spawnPoint.direction>, e estão vindo para atacar ^orange;<target>. ^green;Se você pode me ajudar a salvar <target.pronoun.object>,^white; Eu posso ganhar <target.pronoun.possessiveDet> gratidão."
     }
   },
   {
@@ -218,7 +223,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I heard talk of ^orange;<threat>^white; apporaching from the ^orange;<spawnPoint>^white;<spawnPoint.direction> and believe they are coming to get ^orange;<target>. ^green;Can you help protect <target.pronoun.object> from <target.pronoun.possessiveDet> foes?"
+      "Eng": "I heard talk of ^orange;<threat>^white; apporaching from the ^orange;<spawnPoint>^white;<spawnPoint.direction> and believe they are coming to get ^orange;<target>. ^green;Can you help protect <target.pronoun.object> from <target.pronoun.possessiveDet> foes?",
+      "Por": "Eu ouvi falar de ^orange;<threat>^white; se aproximando pelo ^orange;<spawnPoint>^white; <spawnPoint.direction> e acredito que eles estão vindo para pegar ^orange;<target>. ^green;Você pode ajudar a proteger <target.pronoun.object> de <target.pronoun.possessiveDet> inimigos?"
     }
   },
   {
@@ -253,7 +259,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I've been informed that ^orange;<threat>^white; are approaching from the ^orange;<spawnPoint>^white;<spawnPoint.direction> - and ^orange;<target>^white; is their target! ^green;Can you help me protect <target.pronoun.possessiveDet> life?"
+      "Eng": "I've been informed that ^orange;<threat>^white; are approaching from the ^orange;<spawnPoint>^white;<spawnPoint.direction> - and ^orange;<target>^white; is their target! ^green;Can you help me protect <target.pronoun.possessiveDet> life?",
+      "Por": "Fui informado de que ^orange;<threat>^white; estão se aproximando do ^orange;<spawnPoint>^white; <spawnPoint.direction> - e ^orange;<target>^white; é o alvo! ^green;Pode me ajudar a proteger <target.pronoun.possessiveDet> vida?"
     }
   },
   {
@@ -264,7 +271,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I've received word that the ^orange;<threat>^white; at the ^orange;<spawnPoint>^white;<spawnPoint.direction> are coming for ^orange;<target>^white;! ^green;You must help me protect <target.pronoun.object>^white;, before it is too late!"
+      "Eng": "I've received word that the ^orange;<threat>^white; at the ^orange;<spawnPoint>^white;<spawnPoint.direction> are coming for ^orange;<target>^white;! ^green;You must help me protect <target.pronoun.object>^white;, before it is too late!",
+      "Por": "Eu ouvi dizer que ^orange;<threat>^white; no ^orange;<spawnPoint>^white; <spawnPoint.direction> está vindo por ^orange;<target>^white;! ^green;Você deve me ajudar a proteger <target.pronoun.object>^white;, antes que seja tarde demais!"
     }
   },
   {
@@ -407,7 +415,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Thanks to you, <target> is safe. <target.pronoun.capitalSubject> is also honour-bound to assist me if I call upon <target.pronoun.object>."
+      "Eng": "Thanks to you, <target> is safe. <target.pronoun.capitalSubject> is also honour-bound to assist me if I call upon <target.pronoun.object>.",
+      "Por": "Graças à você, <target> está seguro. <target.pronoun.capitalSubject> também está moralmente obrigado a me ajudar se eu chamar <target.pronoun.object>."
     }
   },
   {
@@ -466,7 +475,8 @@
       ]
     },
     "Texts": {
-      "Eng": "You are indeed a gallant Knight! Thanks to you, <target> is safe, and <target.pronoun.subject> owes me help if I ever call upon <target.pronoun.object>."
+      "Eng": "You are indeed a gallant Knight! Thanks to you, <target> is safe, and <target.pronoun.subject> owes me help if I ever call upon <target.pronoun.object>.",
+      "Por": "Você é realmente um cavaleiro valente! Graças à você, <target> esta seguro, e <target.pronoun.subject> me deve ajuda mesmo se eu nunca visitar <target.pronoun.object>."
     }
   },
   {
@@ -477,7 +487,8 @@
       ]
     },
     "Texts": {
-      "Eng": "You defeated the <threat> and saved <target>! You are no doubt a noble warrior! And <target.pronoun.copulative> no doubt indebted to me!"
+      "Eng": "You defeated the <threat> and saved <target>! You are no doubt a noble warrior! And <target.pronoun.copulative> no doubt indebted to me!",
+      "Por": "Você derrotou os <threat> e salvou <target>! Você sem dúvida é um nobre guerreiro! E <target.pronoun.copulative> sem dúvida em débito comigo!"
     }
   },
   {
@@ -488,7 +499,8 @@
       ]
     },
     "Texts": {
-      "Eng": "You helped protect <target>! <target.pronoun.capitalSubject> owes me a favour for saving <target.pronoun.possessiveDet> life - I am sure this will be useful."
+      "Eng": "You helped protect <target>! <target.pronoun.capitalSubject> owes me a favour for saving <target.pronoun.possessiveDet> life - I am sure this will be useful.",
+      "Por": "Você ajudou a proteger <target>! <target.pronoun.capitalSubject> me deve um favor por salvar <target.pronoun.possessiveDet> vida - Estou certo de que isso será útil."
     }
   },
   {
@@ -523,7 +535,8 @@
       ]
     },
     "Texts": {
-      "Eng": "You saved <target>! You may have done most of the work, but <target.pronoun.subject> still owes me a favour for informing you. Thank you for your help!"
+      "Eng": "You saved <target>! You may have done most of the work, but <target.pronoun.subject> still owes me a favour for informing you. Thank you for your help!",
+      "Por": "Você salvou <target>! Você pode ter feito maior parte do trabalho, mas <target.pronoun.subject> ainda me deve um favor por informá-lo. Obrigado pela ajuda!"
     }
   },
   {
