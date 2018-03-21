@@ -31,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "<target> has no doubt learned <target.pronoun.possessiveDet> lesson... And that <item> will come in useful as well!"
+      "Eng": "<target> has no doubt learned <target.pronoun.possessiveDet> lesson... And that <item> will come in useful as well!",
+      "Por": "<target> sem dúvida aprendeu <target.pronoun.possessiveDet> lição... E esse <item> virá a ser útil também!"
     }
   },
   {
@@ -66,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Criminal McCriminalson"
+      "Eng": "Criminal McCriminalson",
+      "Por": "Criminoso Mc Criminalson"
     }
   },
   {
@@ -89,7 +91,8 @@
       ]
     },
     "Texts": {
-      "Eng": "First, I regret to inform you that our seemingly innocent associate ^orange;<target>^white; recently commited a crime. ^green;Deliver this ^orange;crime notice^white; and take <target.pronoun.possessiveDet> ^orange;<item>^white; as compensation."
+      "Eng": "First, I regret to inform you that our seemingly innocent associate ^orange;<target>^white; recently commited a crime. ^green;Deliver this ^orange;crime notice^white; and take <target.pronoun.possessiveDet> ^orange;<item>^white; as compensation.",
+      "Por": "Em primeiro lugar, lamento informar que nosso associado aparentemente inocente ^orange;<target>^white; recentemente cometeu um crime. ^green;Entregue este ^orange;aviso de crime^white; e pegue <target.pronoun.possessiveDet> ^orange;<item>^white; como compensação."
     }
   },
   {
@@ -244,7 +247,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I have heard that ^orange;<target>^white; has been caught commiting a crime! I won't let this pass - ^green;Deliver this ^orange;crime notice^green; to <target.pronoun.object>^white; and ^green;take <target.pronoun.possessiveDet> ^orange;<item>^white; as compensation."
+      "Eng": "I have heard that ^orange;<target>^white; has been caught commiting a crime! I won't let this pass - ^green;Deliver this ^orange;crime notice^green; to <target.pronoun.object>^white; and ^green;take <target.pronoun.possessiveDet> ^orange;<item>^white; as compensation.",
+      "Por": "Ouvi dizer que ^orange;<target>^white;foi pego cometendo um crime! Eu não vou deixar isso passar - ^green;Entregue este ^orange;aviso de crime^green; para <target.pronoun.object>^white; e ^green;pegue <target.pronoun.possessiveDet> ^orange;<item>^white; como compensação."
     }
   },
   {
@@ -255,7 +259,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I need you to do something else for me - upholding the law is quite important and all, but so are lunch breaks. ^orange;<target>^white; owes a fine - will you ^green;deliver this ^orange;notice^green; to <target.pronoun.object>^white; and ^green;take <target.pronoun.possessiveDet> ^orange;<item>^white; as payment of damages?"
+      "Eng": "I need you to do something else for me - upholding the law is quite important and all, but so are lunch breaks. ^orange;<target>^white; owes a fine - will you ^green;deliver this ^orange;notice^green; to <target.pronoun.object>^white; and ^green;take <target.pronoun.possessiveDet> ^orange;<item>^white; as payment of damages?",
+      "Por": "Eu preciso que você faça outra coisa para mim - cumprir a lei é muito importante e tudo, mas as pausas para o almoço também. ^orange;<target>^white; deve uma multa - você poderia ^green;entregar este ^orange;aviso^green; para <target.pronoun.object>^white; e ^green;pegar <target.pronoun.possessiveDet> ^orange;<item>^white; como pagamento pelos danos?"
     }
   },
   {
@@ -290,7 +295,8 @@
       ]
     },
     "Texts": {
-      "Eng": "It's time we get ^orange;<target>^white; to pay for <target.pronoun.possessiveDet> crimes. ^green;Deliver this ^orange;crime notice^green; to <target.pronoun.object>,^white; and take <target.pronoun.possessiveDet> ^orange;<item>^white; as compensation. Hopefully <target.pronoun.subject>'ll behave in future!"
+      "Eng": "It's time we get ^orange;<target>^white; to pay for <target.pronoun.possessiveDet> crimes. ^green;Deliver this ^orange;crime notice^green; to <target.pronoun.object>,^white; and take <target.pronoun.possessiveDet> ^orange;<item>^white; as compensation. Hopefully <target.pronoun.subject>'ll behave in future!",
+      "Por": "É hora de nós fazer ^orange;<target>^white; pagar por <target.pronoun.possessiveDet> crimes. ^green;Entregue este ^orange;aviso de crime^green; para <target.pronoun.object>,^white; e pegue <target.pronoun.possessiveDet> ^orange;<item>^white; como compensação. Espero que <target.pronoun.subject> vai se comportar no futuro!"
     }
   },
   {
@@ -325,7 +331,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Lastly, ^orange;<target>^white; has broken the law and owes a fine. I am far too busy to collect it. Will you ^green;deliver this notice to ^orange;<target>^white; and ^green;collect <target.pronoun.possessiveDet> ^orange;<item>^white; as payment of damages? I would be most grateful."
+      "Eng": "Lastly, ^orange;<target>^white; has broken the law and owes a fine. I am far too busy to collect it. Will you ^green;deliver this notice to ^orange;<target>^white; and ^green;collect <target.pronoun.possessiveDet> ^orange;<item>^white; as payment of damages? I would be most grateful.",
+      "Por": "Enfim, ^orange;<target>^white; quebrou a lei e deve uma multa. Estou ocupada demais para coletar. Você poderia ^green;entregar este aviso para ^orange;<target>^white; e ^green;coletar <target.pronoun.possessiveDet> ^orange;<item>^white; como pagamento de danos? Eu ficaria muito agradecido."
     }
   },
   {
@@ -349,7 +356,7 @@
     },
     "Texts": {
       "Eng": "Next on our list involves ^orange;<target>, ^white;<target.pronoun.subject>'s proven <target.pronoun.reflexive> to be quite the lawbreaker. ^green;Deliver this ^orange;notice^green; for damages to <target.pronoun.object>,^white; <target.pronoun.subject>'s already agreed to give <target.pronoun.possessiveDet> ^orange;<item> as compensation.",
-      "Por": "Próximo na nossa lista envolve ^orange;<target>, ^white;<target.pronoun.subject> está provado <target.pronoun.reflexive> em ser um belo violador da lei. ^green;Entregue este ^orange;aviso^green; por danos a <target.pronoun.object>,^white; <target.pronoun.subject> já concordou em dar o ^orange;<item> \r\n ^white;<target.pronoun.possessiveDet> como indenização."
+      "Por": "Próximo na nossa lista envolve ^orange;<target>, ^white;<target.pronoun.subject> está provado <target.pronoun.reflexive> em ser um belo violador da lei. ^green;Entregue este ^orange;aviso^green; por danos a <target.pronoun.object>,^white; <target.pronoun.subject> já concordou em dar o ^orange;<item> \n ^white;<target.pronoun.possessiveDet> como indenização."
     }
   },
   {
@@ -360,7 +367,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Nice work collecting the fine from <target>! That certainly saved me a lot of hassle."
+      "Eng": "Nice work collecting the fine from <target>! That certainly saved me a lot of hassle.",
+      "Por": "Bom trabalho cobrando a multa de <target>! Isso certamente me salvou de um monte de problemas."
     }
   },
   {
@@ -419,7 +427,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Thank you for collecting <target>'s fine! I certainly couldn't make time for it, but you seem to have plenty of time on your hands."
+      "Eng": "Thank you for collecting <target>'s fine! I certainly couldn't make time for it, but you seem to have plenty of time on your hands.",
+      "Por": "Obrigado por cobrar a multa de <target>! Eu certamente não teria tempo para isso, mas parece que você tem bastante tempo em suas mãos."
     }
   },
   {
@@ -442,7 +451,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Thank you for helping teach <target> that there's consequences to <target.pronoun.possessiveDet> actions. This <item> will come in useful, too."
+      "Eng": "Thank you for helping teach <target> that there's consequences to <target.pronoun.possessiveDet> actions. This <item> will come in useful, too.",
+      "Por": "Obrigado por ajudar a ensinar a <target> que há conseqüências para <target.pronoun.possessiveDet> ações. Este <item> virá a ser útil, também."
     }
   },
   {
@@ -465,7 +475,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Thank you for teaching <target> a lesson. You can keep that <item>, you've earned it."
+      "Eng": "Thank you for teaching <target> a lesson. You can keep that <item>, you've earned it.",
+      "Por": "Obrigado por ensinar a <target> uma lição. Você pode ficar com esse <item>, você merece."
     }
   },
   {
@@ -476,7 +487,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Thank you for teaching <target> that we follow rules around here, even if those rules are vague and not actually written down anywhere. Keep that <item> too, if you like."
+      "Eng": "Thank you for teaching <target> that we follow rules around here, even if those rules are vague and not actually written down anywhere. Keep that <item> too, if you like.",
+      "Por": "Obrigado por ensinar a <target> que seguimos as regras por aqui, mesmo que essas regras são vagas e que não estão realmente escritas em qualquer lugar. Fique com esse <item> também, se quiser."
     }
   },
   {
@@ -547,7 +559,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Well done collecting the fine from <target>! That's one more thing I can cross off my to-do list. Do you think you could do something else for me?"
+      "Eng": "Well done collecting the fine from <target>! That's one more thing I can cross off my to-do list. Do you think you could do something else for me?",
+      "Por": "Muito bem cobrando a multa de <target>! Isso é mais uma coisa que posso riscar da minha lista de coisas a fazer. Você acha que você poderia fazer mais alguma coisa para mim?"
     }
   },
   {
@@ -570,7 +583,8 @@
       ]
     },
     "Texts": {
-      "Eng": "You collected the fine from <target>! That's one more thing I can cross off my to-do list!"
+      "Eng": "You collected the fine from <target>! That's one more thing I can cross off my to-do list!",
+      "Por": "Você cobrou a multa de <target>! Isso é mais uma coisa que posso riscar da minha lista de coisas a fazer!"
     }
   },
   {
@@ -593,7 +607,8 @@
       ]
     },
     "Texts": {
-      "Eng": "You wouldn't happen to be busy, would you? ^orange;<target>^white; has broken the law and owes a fine. Will you ^green;deliver this ^orange;notice^green; to <target.pronoun.object>^white; and ^green;collect <target.pronoun.possessiveDet> ^orange;<item>^white; as payment? I would do it myself, but I... Don't want to."
+      "Eng": "You wouldn't happen to be busy, would you? ^orange;<target>^white; has broken the law and owes a fine. Will you ^green;deliver this ^orange;notice^green; to <target.pronoun.object>^white; and ^green;collect <target.pronoun.possessiveDet> ^orange;<item>^white; as payment? I would do it myself, but I... Don't want to.",
+      "Por": "Você não estaria ocupado, não é? ^orange;<target>^white; infringiu a lei e deve uma multa. Você poderia ^green;entregar este ^orange;aviso^green; para <target.pronoun.object>^white; e ^green;coletar o ^orange;<item>^white; <target.pronoun.possessiveDet> como pagamento? Gostaria de fazer eu mesmo, mas eu... Não quero."
     }
   },
   {
@@ -677,7 +692,7 @@
     },
     "Texts": {
       "Eng": "^green;Deliver this ^orange;crime notice^green; to ^orange;<target>^white;. <target.pronoun.capitalSubject>'s agreed to give <target.pronoun.possessiveDet> ^orange;<item>^white; as compensation for <target.pronoun.possessiveDet> behaviour.",
-      "Por": "^green;Entregue este ^orange;aviso de crime^green; para ^orange;<target>^white;. <target.pronoun.capitalSubject> concordou em dar o ^orange;<item>^white; \r\n <target.pronoun.possessiveDet> como indenização pelo comportamento <target.pronoun.possessiveDet>."
+      "Por": "^green;Entregue este ^orange;aviso de crime^green; para ^orange;<target>^white;. <target.pronoun.capitalSubject> concordou em dar o ^orange;<item>^white; \n <target.pronoun.possessiveDet> como indenização pelo comportamento <target.pronoun.possessiveDet>."
     }
   },
   {
@@ -700,7 +715,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^orange;<target>^white; has been up to some unethical business, and I wish to teach <target.pronoun.object> a lesson. ^green;Deliver this ^orange;crime notice^white; to <target.pronoun.object>,^white; and ^green;take <target.pronoun.possessiveDet> ^orange;<item>^white; as compensation for <target.pronoun.possessiveDet> behaviour. Hopefully <target.pronoun.subject>'ll learn!"
+      "Eng": "^orange;<target>^white; has been up to some unethical business, and I wish to teach <target.pronoun.object> a lesson. ^green;Deliver this ^orange;crime notice^white; to <target.pronoun.object>,^white; and ^green;take <target.pronoun.possessiveDet> ^orange;<item>^white; as compensation for <target.pronoun.possessiveDet> behaviour. Hopefully <target.pronoun.subject>'ll learn!",
+      "Por": "^orange;<target>^white; tem andado a fazer algum negócio antiético, e eu gostaria de ensinar a <target.pronoun.object> uma lição. ^green;Entregue este ^orange;aviso de crime^white; para <target.pronoun.object>,^white; e ^green;pegue o ^orange;<item>^white; \\r\\n <target.pronoun.possessiveDet> como indenização pelo comportamento <target.pronoun.possessiveDet>. Espero que <target.pronoun.subject> aprenda!"
     }
   },
   {
@@ -711,7 +727,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^orange;<target>^white; has committed a crime and owes a fine. Will you ^green;deliver this ^orange;notice^green; to <target.pronoun.object>^white; and ^green;take <target.pronoun.possessiveDet> ^orange;<item>^white; as payment of damages? It is a trivial task and I'm far too busy for it."
+      "Eng": "^orange;<target>^white; has committed a crime and owes a fine. Will you ^green;deliver this ^orange;notice^green; to <target.pronoun.object>^white; and ^green;take <target.pronoun.possessiveDet> ^orange;<item>^white; as payment of damages? It is a trivial task and I'm far too busy for it.",
+      "Por": "^orange;<target>^white; cometeu um crime e deve uma multa. Você poderia ^green;entregar este ^orange;aviso^green; para <target.pronoun.object>^white; e ^green;pegar o ^orange;<item>^white; <target.pronoun.possessiveDet> como pagamento pelos danos? É uma tarefa trivial e eu estou muito ocupado para ela."
     }
   },
   {
