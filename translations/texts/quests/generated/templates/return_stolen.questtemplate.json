@@ -31,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "<victim> could trust me more, and I know how to get that to happen. <thief> stole one ^orange;<item>^white; from <victim.pronoun.object> the other day. ^green;Will you retrieve it from ^orange;<thief>'s^green; home^white; and ^green;put it back in ^orange;<victim>'s^green; house?"
+      "Eng": "<victim> could trust me more, and I know how to get that to happen. <thief> stole one ^orange;<item>^white; from <victim.pronoun.object> the other day. ^green;Will you retrieve it from ^orange;<thief>'s^green; home^white; and ^green;put it back in ^orange;<victim>'s^green; house?",
+      "Por": "<victim> poderia confiar mais em mim, e eu sei como conseguir que isso aconteça. <thief> roubou um ^orange;<item>^white; <victim.pronoun.object> outro dia. ^green;você vai recuperá-lo da casa de ^orange;<thief>^white; e ^green;colocá-lo de volta na casa de ^orange;<victim>?"
     }
   },
   {
@@ -54,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A thief who goes by the name of ^orange;<thief>^white; has stolen <victim>'s prized ^orange;<item>! Will you^green; retrieve it and put it back in ^orange;<victim>'s^green; house?^white; I'm sure <victim.pronoun.subject> would appreciate it."
+      "Eng": "A thief who goes by the name of ^orange;<thief>^white; has stolen <victim>'s prized ^orange;<item>! Will you^green; retrieve it and put it back in ^orange;<victim>'s^green; house?^white; I'm sure <victim.pronoun.subject> would appreciate it.",
+      "Por": "Um ladrão que atende pelo nome de ^orange;<thief>^white; roubou o valioso ^orange;<item>^white; de <victim>! Você poderia^green; recuperá-lo e colocá-lo de volta na casa de ^orange;<victim>?^white; Tenho certeza que <victim.pronoun.subject> agradeceria."
     }
   },
   {
@@ -89,7 +91,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Crisis averted- <victim> has <victim.pronoun.possessiveDet> <item> back! Thank you for being so helpful, <player>."
+      "Eng": "Crisis averted- <victim> has <victim.pronoun.possessiveDet> <item> back! Thank you for being so helpful, <player>.",
+      "Por": "Crise evitada- <victim> tem <victim.pronoun.possessiveDet> <item> de volta! Obrigado por ser tão útil, <player>."
     }
   },
   {
@@ -112,7 +115,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Evil McThief"
+      "Eng": "Evil McThief",
+      "Por": "Mc Ladrão Malvado"
     }
   },
   {
@@ -123,7 +127,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Excellent! <victim> has <victim.pronoun.possessiveDet> <item> and all is right with the universe... Almost."
+      "Eng": "Excellent! <victim> has <victim.pronoun.possessiveDet> <item> and all is right with the universe... Almost.",
+      "Por": "Excelente! <victim> tem <victim.pronoun.possessiveDet> <item> e tudo está certo com o universo... Quase."
     }
   },
   {
@@ -134,7 +139,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Finally, I know that ^orange;<thief>^white; recently stole <victim>'s ^orange;<item>.^white; I bet if you ^green;retrieved it and put it back in ^orange;<victim>'s^green; house,^white; <victim.pronoun.subject> would be very grateful, and favour me in future."
+      "Eng": "Finally, I know that ^orange;<thief>^white; recently stole <victim>'s ^orange;<item>.^white; I bet if you ^green;retrieved it and put it back in ^orange;<victim>'s^green; house,^white; <victim.pronoun.subject> would be very grateful, and favour me in future.",
+      "Por": "Finalmente, eu sei que ^orange;<thief>^white; recentemente roubou ^orange;<item> ^white;de <victim>. Aposto que se você ^green;recuperado-lo e colocá-lo de volta na casa de ^orange;<victim>,^white; <victim.pronoun.subject> ficaria muito grato, e me favoreceria no futuro."
     }
   },
   {
@@ -253,7 +259,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I'm so glad you retrieved the <item> for <victim>! Once I take all the credit for helping <victim.pronoun.object> out, <victim.pronoun.subject>'ll definitely trust me!"
+      "Eng": "I'm so glad you retrieved the <item> for <victim>! Once I take all the credit for helping <victim.pronoun.object> out, <victim.pronoun.subject>'ll definitely trust me!",
+      "Por": "Estou tão feliz que você recuperou o <item> para <victim>! Assim que eu levar todo o crédito por ajudar <victim.pronoun.object>, <victim.pronoun.subject> vai definitivamente confiar em mim!"
     }
   },
   {
@@ -264,7 +271,8 @@
       ]
     },
     "Texts": {
-      "Eng": "In a moment of desperation, ^orange;<thief>^white; robbed <victim> of <victim.pronoun.possessiveDet> ^orange;<item>^white;! If you ^green;retrieve it and put it back in ^orange;<victim>'s^green; house,^white; <victim.pronoun.subject> may never even realise it was gone. I would be grateful."
+      "Eng": "In a moment of desperation, ^orange;<thief>^white; robbed <victim> of <victim.pronoun.possessiveDet> ^orange;<item>^white;! If you ^green;retrieve it and put it back in ^orange;<victim>'s^green; house,^white; <victim.pronoun.subject> may never even realise it was gone. I would be grateful.",
+      "Por": "Em um momento de desespero, ^orange;<thief>^white; roubou de <victim> <victim.pronoun.possessiveDet> ^orange;<item>^white;! Se você ^green;recuperá-lo e colocá-lo de volta na casa de ^orange;<victim>,^white; <victim.pronoun.subject> talvez nunca perceba que tenha desaparecido. Eu ficaria grato."
     }
   },
   {
@@ -275,7 +283,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Many thanks! <victim> has <victim.pronoun.possessiveDet> <item> and <thief> knows better than to steal from <victim.pronoun.object> again!"
+      "Eng": "Many thanks! <victim> has <victim.pronoun.possessiveDet> <item> and <thief> knows better than to steal from <victim.pronoun.object> again!",
+      "Por": "Muito obrigado! <victim> tem <victim.pronoun.possessiveDet> <item> e <thief> sabe que melhor não roubar <victim.pronoun.object> novamente!"
     }
   },
   {
@@ -298,7 +307,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Next, I bet it would make ^orange;<victim>^white; happy if you ^green;retrieved the ^orange;<item>^white; that ^orange;<thief>^white; stole from <victim.pronoun.object>, and ^green;put it back in <victim.pronoun.possessiveDet> house.^white; That aught to get me into <victim.pronoun.possessiveDet> good books."
+      "Eng": "Next, I bet it would make ^orange;<victim>^white; happy if you ^green;retrieved the ^orange;<item>^white; that ^orange;<thief>^white; stole from <victim.pronoun.object>, and ^green;put it back in <victim.pronoun.possessiveDet> house.^white; That aught to get me into <victim.pronoun.possessiveDet> good books.",
+      "Por": "Em seguida, eu aposto que isso faria ^orange;<victim>^white; feliz se você ^green;recuperasse o ^orange;<item>^white; que ^orange;<thief>^white; roubou <victim.pronoun.object>, e ^green; colocasse de volta na casa <victim.pronoun.possessiveDet>."
     }
   },
   {
@@ -309,7 +319,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Nice work returning the <item> to <victim>'s house on my behalf! You don't mind me taking all the credit, do you? Of course you don't."
+      "Eng": "Nice work returning the <item> to <victim>'s house on my behalf! You don't mind me taking all the credit, do you? Of course you don't.",
+      "Por": "Bom trabalho devolvendo o <item> para a casa de <victim> em meu nome! Você não se importa de eu levar todo o crédito, não é? Claro que não."
     }
   },
   {
@@ -440,7 +451,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Thank you for retrieving the <item> for <victim>! I hope you don't mind me taking all the credit. I'll certainly have earned <victim>'s trust then!"
+      "Eng": "Thank you for retrieving the <item> for <victim>! I hope you don't mind me taking all the credit. I'll certainly have earned <victim>'s trust then!",
+      "Por": "Obrigado para recuperar o <item> para <victim>! Eu espero que você não se importe de eu levar todo o crédito. Eu certamente vou ganhar a confiança de <victim>!"
     }
   },
   {
@@ -451,7 +463,8 @@
       ]
     },
     "Texts": {
-      "Eng": "That swindler, <thief> has had the nerve to steal poor <victim>'s favourite ^orange;<item>.^white; We must do something about it! Would you be so kind as to ^green;retrieve it from ^orange;<thief>'s^green; home^white; and ^green;return it to ^orange;<victim>'s^green; house?"
+      "Eng": "That swindler, <thief> has had the nerve to steal poor <victim>'s favourite ^orange;<item>.^white; We must do something about it! Would you be so kind as to ^green;retrieve it from ^orange;<thief>'s^green; home^white; and ^green;return it to ^orange;<victim>'s^green; house?",
+      "Por": "Aquele vigarista, <thief> teve a coragem de roubar o ^orange;<item> ^white;favorito do pobre <victim>. Nós temos que fazer alguma coisa sobre isso! Você seria tão amável de ^green;recuperá-lo da casa de ^orange;<thief>^white; e ^green;devolvê-lo para a casa de ^orange;<victim>?"
     }
   },
   {
@@ -522,7 +535,8 @@
       ]
     },
     "Texts": {
-      "Eng": "We have one last problem - that pesky ^orange;<thief>^white; has stolen <victim>'s favourite ^orange;<item>^white;! ^orange;<victim> ^white;will be devastated unless we - I mean... You, ^green;retrieve it and put it back in <victim.pronoun.possessiveDet> house."
+      "Eng": "We have one last problem - that pesky ^orange;<thief>^white; has stolen <victim>'s favourite ^orange;<item>^white;! ^orange;<victim> ^white;will be devastated unless we - I mean... You, ^green;retrieve it and put it back in <victim.pronoun.possessiveDet> house.",
+      "Por": "Temos um último problema - aquele ^orange;<thief>^white; traquina roubou o ^orange;<item>^white; favorito de ^orange;<victim>! <victim> ^white;ficara devastado, a menos que nós - quero dizer... Você, ^green;recupere-o e coloque-o de volta na casa <victim.pronoun.possessiveDet>."
     }
   },
   {
@@ -533,7 +547,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Well done! <victim> will be so pleased to have the <item> back. Would you be willing to do something else for me?"
+      "Eng": "Well done! <victim> will be so pleased to have the <item> back. Would you be willing to do something else for me?",
+      "Por": "Muito bem! <victim> ficará tão satisfeito por ter o <item> de volta. Você estaria disposto a fazer outra coisa para mim?"
     }
   },
   {
@@ -604,7 +619,8 @@
       ]
     },
     "Texts": {
-      "Eng": "You managed to put the <item> back in <victim>'s house - thank you! If I can convince <victim.pronoun.object> that I was responsible, I'll definitely have earned <victim.pronoun.possessiveDet> trust!"
+      "Eng": "You managed to put the <item> back in <victim>'s house - thank you! If I can convince <victim.pronoun.object> that I was responsible, I'll definitely have earned <victim.pronoun.possessiveDet> trust!",
+      "Por": "Você conseguiu colocar o <item> de volta na casa de <victim> - obrigado! Se eu puder convencer <victim.pronoun.object> que eu fui o responsável, eu definitivamente vou ter ganho a confiança <victim.pronoun.possessiveDet> !"
     }
   },
   {
@@ -723,7 +739,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^orange;<thief>^white; recently stole <victim>'s favourite <item>. I bet ^orange;<victim>^white; would be very grateful to whomever ^green;retrieved the ^orange;<item> ^green;and put it back in <victim.pronoun.possessiveDet> house.^white; Will you do this for me?"
+      "Eng": "^orange;<thief>^white; recently stole <victim>'s favourite <item>. I bet ^orange;<victim>^white; would be very grateful to whomever ^green;retrieved the ^orange;<item> ^green;and put it back in <victim.pronoun.possessiveDet> house.^white; Will you do this for me?",
+      "Por": "^orange;<thief>^white; recentemente roubou o <item> favorito de <victim>. Eu aposto que ^orange;<victim>^white; ficaria muito grato a quem ^green;recuperar o ^orange;<item> ^green;e colocá-lo de volta na <victim.pronoun.possessiveDet> casa.^white; Você vai fazer isso por mim?"
     }
   }
 ]
