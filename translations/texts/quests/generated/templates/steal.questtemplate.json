@@ -19,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Don't just hand me that <objectItem>! You think <victim> wouldn't put two and two together? Hold on to it for now. "
+      "Eng": "Don't just hand me that <objectItem>! You think <victim> wouldn't put two and two together? Hold on to it for now. ",
+      "Por": "Apenas não me entregue aquele <objectItem>! Você acha que <victim> não iria perceber? Segure-o por enquanto."
     }
   },
   {
@@ -90,7 +91,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I need you to ^green;obtain ^orange;<victim>'s <objectItem>. ^white;We can make far better use of it, but <victim.pronoun.subject> won't just hand it over... ^green;You'll have to take it..."
+      "Eng": "I need you to ^green;obtain ^orange;<victim>'s <objectItem>. ^white;We can make far better use of it, but <victim.pronoun.subject> won't just hand it over... ^green;You'll have to take it...",
+      "Por": "Eu preciso que você ^green;obtenha um <objectItem> de ^orange;<victim>. ^white;Nós podemos fazer um melhor uso dele, mas <victim.pronoun.subject> não iria simplesmente entrega-lo... ^green;Você vai ter que pega-lo..."
     }
   },
   {
@@ -101,7 +103,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I'm afraid this next part requires something that does not belong to us. You need to ^green;obtain the ^orange;<objectItem> ^green;located in ^orange;<victim>'s ^green;home. ^white;Just make sure you don't get caught."
+      "Eng": "I'm afraid this next part requires something that does not belong to us. You need to ^green;obtain the ^orange;<objectItem> ^green;located in ^orange;<victim>'s ^green;home. ^white;Just make sure you don't get caught.",
+      "Por": "Receio que esta próxima parte requer algo que não nos pertence. Você precisa ^green;obter o ^orange;<objectItem> ^green;localizado na casa de ^orange;<victim>^green;. ^white;Apenas certifique-se que você não seja pego."
     }
   },
   {
@@ -124,7 +127,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I'm in need of a certain object; specifically, ^orange;<victim>'s <objectItem>. ^white;Would you ^green;visit <victim.pronoun.possessiveDet> home and... Acquire it for me?^white; I wouldn't ask if it wasn't important."
+      "Eng": "I'm in need of a certain object; specifically, ^orange;<victim>'s <objectItem>. ^white;Would you ^green;visit <victim.pronoun.possessiveDet> home and... Acquire it for me?^white; I wouldn't ask if it wasn't important.",
+      "Por": "Eu estou precisando de um determinado objeto, especificamente,^orange; <objectItem> de <victim>. ^white;Você poderia ^green;visitar a casa <victim.pronoun.possessiveDet> e...Pega-lo para mim?^white; Eu não pediria se não fosse importante."
     }
   },
   {
@@ -171,7 +175,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Now I require a certain object... Specifically, the ^orange;<objectItem>^green; in ^orange;<victim>'s^green; home.^white; You're going to have to ^green;acquire it for me. "
+      "Eng": "Now I require a certain object... Specifically, the ^orange;<objectItem>^green; in ^orange;<victim>'s^green; home.^white; You're going to have to ^green;acquire it for me. ",
+      "Por": "Agora eu preciso de um determinado objeto... Especificamente, o ^orange;<objectItem>^green; na casa de ^orange;<victim>.^white; Você vai ter que ^green;pega-lo para mim."
     }
   },
   {
@@ -206,7 +211,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This is the <objectItem> I required. I hope nobody saw you take it! Better not hand it to me immediately. Let's wait for a moment."
+      "Eng": "This is the <objectItem> I required. I hope nobody saw you take it! Better not hand it to me immediately. Let's wait for a moment.",
+      "Por": "Isto é o <objectItem> que eu solicitei. Espero que ninguém viu você pega-lo! Melhor não entregá-lo a mim imediatamente. Vamos esperar um pouco."
     }
   },
   {
@@ -217,7 +223,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This looks like <victim>'s <objectItem> alright. It's not in the best condition, but it'll have to do for now."
+      "Eng": "This looks like <victim>'s <objectItem> alright. It's not in the best condition, but it'll have to do for now.",
+      "Por": "Isto se parece bem com o <objectItem> de <victim>. Não esta na melhor condição, mas ele vai ter que servir por agora."
     }
   },
   {
@@ -276,7 +283,8 @@
       ]
     },
     "Texts": {
-      "Eng": "You actually got the <objectItem> from <victim>? I thought maybe you'd get cold feet. Keep hold of it for the time being, and make sure you don't lose it."
+      "Eng": "You actually got the <objectItem> from <victim>? I thought maybe you'd get cold feet. Keep hold of it for the time being, and make sure you don't lose it.",
+      "Por": "Você realmente pegou o <objectItem> de <victim>? Eu pensei que talvez você fosse ficar com medo. Guarde ele por ora, e certifique-se que você não perca."
     }
   },
   {
