@@ -31,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "<target> took the <gift>? That's perfect! If I ever need a favour I know I have someone indebted to me now. I can't believe you thought this was some sort of bribe!"
+      "Eng": "<target> took the <gift>? That's perfect! If I ever need a favour I know I have someone indebted to me now. I can't believe you thought this was some sort of bribe!",
+      "Por": "<target> aceitou o <gift>? Perfeito! Se eu precisar de um favor, sei que tenho alguém em dívida comigo agora. Eu não posso acreditar que você pensou que isso fosse algum tipo de suborno!"
     }
   },
   {
@@ -150,7 +151,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I'd like to make clear that this is very much not a bribe of any sort. I don't even know the meaning of the word. All I need you to do is ^green;give ^orange;<target> ^green;the ^orange;<gift> ^white;to persuade <target.pronoun.object> to act in my favour..."
+      "Eng": "I'd like to make clear that this is very much not a bribe of any sort. I don't even know the meaning of the word. All I need you to do is ^green;give ^orange;<target> ^green;the ^orange;<gift> ^white;to persuade <target.pronoun.object> to act in my favour...",
+      "Por": "Eu gostaria de deixar claro que isso não é um suborno de qualquer tipo. Eu nem sei o significado dessa palavra. Tudo que eu preciso que você faça é ^green;dar a ^orange;<target> ^green;esse ^orange;<gift> ^white;para persuadir <target.pronoun.object> para agir a meu favor..."
     }
   },
   {
@@ -161,7 +163,8 @@
       ]
     },
     "Texts": {
-      "Eng": "It all comes down to this. ^green;Present ^orange;<target> ^green;with the ^orange;<gift>. ^white;In case <target.pronoun.subject> asks, it's definitely not a bribe..."
+      "Eng": "It all comes down to this. ^green;Present ^orange;<target> ^green;with the ^orange;<gift>. ^white;In case <target.pronoun.subject> asks, it's definitely not a bribe...",
+      "Por": "Tudo se resume a isso. ^green;Presenteie ^orange;<target> ^green;com esse ^orange;<gift>. ^white;No caso <target.pronoun.subject> perguntar, diga que não é um suborno..."
     }
   },
   {
@@ -172,7 +175,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Mr Corrupt Person"
+      "Eng": "Mr Corrupt Person",
+      "Por": "Sr. Pessoa Corrupta"
     }
   },
   {
@@ -195,7 +199,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Next I need the favour of ^orange;<target>^green; - Could you try bribing <target.pronoun.object> with the ^orange;<gift>^white;? That should hopefully work..."
+      "Eng": "Next I need the favour of ^orange;<target>^green; - Could you try bribing <target.pronoun.object> with the ^orange;<gift>^white;? That should hopefully work...",
+      "Por": "Em seguida eu preciso do favor de ^orange;<target>^green; - Você poderia tentar subornar <target.pronoun.object> com o ^orange;<gift>^white;? Isso deve funcionar..."
     }
   },
   {
@@ -278,7 +283,8 @@
       ]
     },
     "Texts": {
-      "Eng": "So <target.pronoun.subject> just took the <gift>? No questions asked? Here I was thinking it'd be hard to get <target> on my side."
+      "Eng": "So <target.pronoun.subject> just took the <gift>? No questions asked? Here I was thinking it'd be hard to get <target> on my side.",
+      "Por": "Então <target.pronoun.subject> aceitou o <gift>? Sem perguntas? E eu aqui pensando que seria difícil ter <target> ao meu lado."
     }
   },
   {
@@ -289,7 +295,8 @@
       ]
     },
     "Texts": {
-      "Eng": "So <target> accepted the <gift>? This plan is working out better than I anticipated. "
+      "Eng": "So <target> accepted the <gift>? This plan is working out better than I anticipated. ",
+      "Por": "Então <target> aceitou o <gift>? Este plano está funcionando melhor do que eu esperava."
     }
   },
   {
