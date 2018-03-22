@@ -26,7 +26,7 @@
     },
     "Texts": {
       "Eng": "A broken FTL fuel hatch. This won't do!",
-      "Por": "Um tanque de combustível FTL quebrado. Isso não vai adiantar!"
+      "Por": "Um tanque de combustível FTL quebrado."
     }
   },
   {
@@ -86,7 +86,7 @@
     },
     "Texts": {
       "Eng": "Accepts Liquid Erchius as fuel for the ship's FTL dive.",
-      "Por": "Aceita Erchius líquido como combustível para fazer funcionar o motor FTL da nave."
+      "Por": "Aceita Erchius Líquido como combustível para fazer funcionar o motor FTL da nave."
     }
   },
   {
@@ -326,7 +326,7 @@
     },
     "Texts": {
       "Eng": "Let's load it up and take to the stars!",
-      "Por": "Vamos carregá-lo e ir para as estrelas!"
+      "Por": "Vamos enche-lo e ir para as estrelas!"
     }
   },
   {
@@ -385,7 +385,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Once filled, we may visit another planet."
+      "Eng": "Once filled, we may visit another planet.",
+      "Por": "Quando estiver preenchido, poderemos visitar outro planeta."
     }
   },
   {
@@ -475,7 +476,7 @@
     },
     "Texts": {
       "Eng": "The humble FTL fuel hatch. Fuel is the lifeblood of exploration.",
-      "Por": "O humilde tanque de combustível do FTL. O combustível é a força vital da exploração."
+      "Por": "O humilde tanque de combustível do motor FTL. O combustível é a força vital da exploração."
     }
   },
   {
@@ -534,7 +535,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This hatch fuels the FTL drive so that I may visit planets outside of this system."
+      "Eng": "This hatch fuels the FTL drive so that I may visit planets outside of this system.",
+      "Por": "Esta escotilha abastece o motor FTL para que eu possa visitar planetas fora deste sistema."
     }
   }
 ]
