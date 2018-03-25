@@ -63,17 +63,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/sapling/sapling.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Planting this sapling allows me to grow life."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/sapling/sapling.object": [
         "/hylotlDescription"
       ]
     },
@@ -92,6 +81,18 @@
     "Texts": {
       "Eng": "This sapling will grow into a tree.",
       "Por": "Esta muda vai crescer em uma árvore."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/sapling/sapling.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wonder. Planting this sapling allows me to grow life.",
+      "Por": "Maravilhado. Plantar esta muda me permite crescer vida."
     }
   }
 ]

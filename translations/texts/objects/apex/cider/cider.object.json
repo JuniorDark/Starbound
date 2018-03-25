@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/cider/cider.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Adventurous. I can imagine I would enjoy a drink like this.",
+      "Por": "Aventureiro. Eu posso imaginar que eu iria desfrutar de uma bebida como esta."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/cider/cider.object": [
         "/avianDescription"
       ]
     },
@@ -45,17 +57,6 @@
     "Texts": {
       "Eng": "Grosss. Disgusting mulled liquidss.",
       "Por": "Nojento. Líquidoss quente nojento."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/apex/cider/cider.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I can imagine I would enjoy a drink like this."
     }
   },
   {

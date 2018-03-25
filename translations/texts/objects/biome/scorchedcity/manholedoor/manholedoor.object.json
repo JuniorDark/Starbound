@@ -28,8 +28,7 @@
     "Files": {
       "objects/biome/scorchedcity/manholedoor/manholedoor.object": [
         "/avianDescription",
-        "/description",
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ]
     },
     "Texts": {
@@ -83,6 +82,18 @@
     "Texts": {
       "Eng": "Some kinda manhole cover, what's it hidin'?",
       "Por": "Algum tipo de tampa de bueiro, o que está escondendo?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/scorchedcity/manholedoor/manholedoor.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Surprised. A manhole cover.",
+      "Por": "Surpreso. Uma tampa de bueiro."
     }
   }
 ]

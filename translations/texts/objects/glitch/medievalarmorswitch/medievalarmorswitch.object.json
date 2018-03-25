@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/medievalarmorswitch/medievalarmorswitch.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. This armour has a switch mechanism under the sheild.",
+      "Por": "Curioso. Esta armadura tem um mecanismo de interruptor debaixo do escudo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/medievalarmorswitch/medievalarmorswitch.object": [
         "/floranDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "Suspicious Display Armour",
       "Por": "Suspicious Display Armour"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/glitch/medievalarmorswitch/medievalarmorswitch.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This armour has a switch mechanism under the sheild."
     }
   },
   {

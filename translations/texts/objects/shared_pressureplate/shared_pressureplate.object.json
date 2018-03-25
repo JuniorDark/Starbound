@@ -18,7 +18,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Um tipo de placa de pressão."
+    ],
     "Files": {
       "objects/floran/huntingpressureplate/huntingpressureplate.object": [
         "/apexDescription"

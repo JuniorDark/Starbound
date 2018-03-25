@@ -75,23 +75,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/florantoilet/florantoilet.object": [
-        "/description"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "This toilet doesn't look very leak-proof.",
-      "Por": "Este banheiro não parece muito à prova de vazamento."
+      "Eng": "Suspicious. This toilet seems impossible to keep clean due to its design.",
+      "Por": "Suspeito. Este banheiro parece impossível de se manter limpo devido ao seu design."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/florantoilet/florantoilet.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ]
     },
     "Texts": {
-      "Eng": "This toilet seems impossible to keep clean due to its design."
+      "Eng": "This toilet doesn't look very leak-proof.",
+      "Por": "Este banheiro não parece muito à prova de vazamento."
     }
   },
   {

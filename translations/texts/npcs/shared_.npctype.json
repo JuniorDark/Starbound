@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Eu te vejo!"
+    ],
     "Files": {
       "npcs/mission/floranpredator.npctype": [
         "/scriptConfig/dialog/attack/floran/default/0"
@@ -31,12 +33,13 @@
       ]
     },
     "Texts": {
-      "Eng": "Lana",
-      "Por": "Lana"
+      "Eng": "Lana"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "A caçada começou!"
+    ],
     "Files": {
       "npcs/mission/floranpredator.npctype": [
         "/scriptConfig/dialog/attack/floran/default/7"

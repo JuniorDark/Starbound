@@ -27,17 +27,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/moonemblem/moonemblem.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "An emblem. Perhaps depicting some historical Avian event."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avian/moonemblem/moonemblem.object": [
         "/shortdescription"
       ]
     },
@@ -56,6 +45,18 @@
     "Texts": {
       "Eng": "Birdmen alssso enjoy moonlight?",
       "Por": "Homem-pássaro também gostam de luar?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/moonemblem/moonemblem.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intrigued. An emblem. Perhaps depicting some historical Avian event.",
+      "Por": "Intrigado. Um emblema. Talvez retratando algum evento histórico Avian."
     }
   },
   {

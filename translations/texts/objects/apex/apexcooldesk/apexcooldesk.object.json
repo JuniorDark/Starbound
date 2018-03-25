@@ -15,17 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/apexcooldesk/apexcooldesk.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A desk."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/apex/apexcooldesk/apexcooldesk.object": [
         "/humanDescription"
       ]
     },
@@ -91,6 +80,18 @@
     "Texts": {
       "Eng": "I wonder who worked here...",
       "Por": "Gostaria de saber quem trabalhou aqui..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/apexcooldesk/apexcooldesk.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Indifference. A desk.",
+      "Por": "Indiferente. Uma escrivaninha."
     }
   },
   {

@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/protectorate/objects/protectorateposter1/protectorateposter1.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Inspired. This poster makes me want to adventure across the universe.",
+      "Por": "Inspirado. Este cartaz me faz querer aventurar-se no universo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/protectorate/objects/protectorateposter1/protectorateposter1.object": [
         "/avianDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "This poster features the Matter Manipulator, prized multi-tool of the Protectorate.",
       "Por": "Este cartaz apresenta o Manipulador de Matéria, multi-ferramenta premiada do Protetorado."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/protectorate/objects/protectorateposter1/protectorateposter1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This poster makes me want to adventure across the universe."
     }
   }
 ]

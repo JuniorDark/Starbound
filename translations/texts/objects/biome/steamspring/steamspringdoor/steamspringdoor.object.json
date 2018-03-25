@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/steamspring/steamspringdoor/steamspringdoor.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A sturdy looking door."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/steamspring/steamspringdoor/steamspringdoor.object": [
         "/description"
       ]
     },
@@ -32,6 +21,18 @@
     "Texts": {
       "Eng": "An acceptable door, with some sort of brass pipe frame.",
       "Por": "Uma porta aceitável, com algum tipo de moldura de canos de latão."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/steamspring/steamspringdoor/steamspringdoor.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Approving. A sturdy looking door.",
+      "Por": "Aprovação. Uma porta resistente."
     }
   },
   {

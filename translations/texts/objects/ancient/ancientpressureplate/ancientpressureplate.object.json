@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/ancient/ancientpressureplate/ancientpressureplate.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Interested. This tile could be used to trigger any number of things.",
+      "Por": "Interessado. Este telha pode usar-se para ativar qualquer número de coisas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/ancientpressureplate/ancientpressureplate.object": [
         "/avianDescription"
       ]
     },
@@ -69,18 +81,6 @@
     "Texts": {
       "Eng": "Stepping on this old tile could trigger a trap!",
       "Por": "Dar passos nesta velha telha pode ativar uma armadilha!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/ancient/ancientpressureplate/ancientpressureplate.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This tile could be used to trigger any number of things.",
-      "Por": "Esse ladrilho pode ser usado para acionar várias coisas."
     }
   },
   {

@@ -18,6 +18,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/protectorateplatform.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/platforms/protectorateplatform.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. These platforms can easily support my weight.",
+      "Por": "Impressionado. Estas plataformas podem facilmente suportar o meu peso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/protectorateplatform.matitem": [
         "/shortdescription"
       ],
       "tiles/platforms/protectorateplatform.material": [
@@ -57,21 +72,6 @@
     "Texts": {
       "Eng": "Some fancy lookin' platforms made outta metal.",
       "Por": "Algumas plataformas chiques feitas de metal."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/protectorateplatform.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/platforms/protectorateplatform.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "These platforms can easily support my weight.",
-      "Por": "Essas plataformas podem facilmente suportar meu peso."
     }
   }
 ]

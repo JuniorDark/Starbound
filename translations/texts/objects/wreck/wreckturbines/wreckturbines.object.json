@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/wreck/wreckturbines/wreckturbines.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Interested. Two turbines meant to work in tandem. Neither functions now.",
+      "Por": "Interessado. Duas turbinas destinadas a trabalhar em conjunto. Nenhuma das funções agora."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wreck/wreckturbines/wreckturbines.object": [
         "/hylotlDescription"
       ]
     },
@@ -69,18 +81,6 @@
     "Texts": {
       "Eng": "Two broken turbines. They creek.",
       "Por": "Duas turbinas quebradas."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/wreck/wreckturbines/wreckturbines.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Two turbines meant to work in tandem. Neither functions now.",
-      "Por": "Duas turbinas destinadas a trabalhar em conjunto. Nenhuma delas funciona agora."
     }
   },
   {

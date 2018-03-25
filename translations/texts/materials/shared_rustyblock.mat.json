@@ -18,6 +18,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/rustyblock.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/rustyblock.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Horrified. This rusty discarded metal is weathered and worn.",
+      "Por": "Horrorizado. Este metal descartado oxidado é resistente e desgastado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rustyblock.matitem": [
         "/florandescription"
       ],
       "tiles/materials/rustyblock.material": [
@@ -57,21 +72,6 @@
     "Texts": {
       "Eng": "This here metal looks mighty rusty.",
       "Por": "Este metal aqui parece muito enferrujado."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/rustyblock.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/rustyblock.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This rusty discarded metal is weathered and worn.",
-      "Por": "Este metal descartado enferrujado esta desgastado."
     }
   }
 ]

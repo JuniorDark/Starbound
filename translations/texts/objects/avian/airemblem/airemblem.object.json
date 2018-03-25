@@ -27,23 +27,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/airemblem/airemblem.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I believe this symbol is the Avian Air Emblem."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avian/airemblem/airemblem.object": [
         "/humanDescription"
       ]
     },
     "Texts": {
       "Eng": "I'm guessing this symbol stands for air or wind.",
       "Por": "Eu estou supondo que este símbolo representa o ar ou vento."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/airemblem/airemblem.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Knowledgeable. I believe this symbol is the Avian Air Emblem.",
+      "Por": "Bem informado. Eu acredito que este símbolo é o Emblema Avian do Ar."
     }
   },
   {

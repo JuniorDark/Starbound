@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Vou atualizar a sua nave agora. Tenho certeza que você estará satisfeito com o nível de habilidade."
+    ],
     "Files": {
       "quests/outpost/shipupgrade/illegalshipupgrade1.questtemplate": [
         "/completionText"

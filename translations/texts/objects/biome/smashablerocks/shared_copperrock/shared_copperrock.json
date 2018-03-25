@@ -78,6 +78,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/smashablerocks/copperrock/copperrock.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/smashablerocks/copperrocksmall/copperrocksmall.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. This rock contains copper, and is covered in cracks.",
+      "Por": "Observador. Esta rocha contém cobre e está coberta de rachaduras."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/smashablerocks/copperrock/copperrock.object": [
         "/apexDescription"
       ],
       "objects/biome/smashablerocks/copperrocksmall/copperrocksmall.object": [
@@ -87,20 +102,6 @@
     "Texts": {
       "Eng": "There appears to be copper within this fragile rock.",
       "Por": "Parece haver cobre dentro desta frágil rocha."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/smashablerocks/copperrock/copperrock.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/smashablerocks/copperrocksmall/copperrocksmall.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This rock contains copper, and is covered in cracks."
     }
   }
 ]

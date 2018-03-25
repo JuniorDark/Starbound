@@ -63,7 +63,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Há pouco como emocionante como um baú fechado."
+    ],
     "Files": {
       "objects/biome/scorchedcity/scorchedcitychest/scorchedcitychest.object": [
         "/hylotlDescription"
@@ -78,27 +80,6 @@
     "Texts": {
       "Eng": "There is little as exciting as an unopened chest.",
       "Por": "Há poucas coisas tão emocionante como um baú fechado."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/scorchedcity/scorchedcitychest/scorchedcitychest.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/generic/stonechest/ironchest.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/generic/woodenchest/woodenchest.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/mission/miningchest/miningchest.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "What could be inside?",
-      "Por": "O que poderia estar dentro?"
     }
   }
 ]

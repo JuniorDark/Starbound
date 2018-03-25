@@ -4,7 +4,6 @@
     "Files": {
       "plants/grass/ground/decorative/blueslime/blueslime.grass": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ]
     },
@@ -23,6 +22,18 @@
     "Texts": {
       "Eng": "Ssslimy root.",
       "Por": "Raiz pegajosasss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/blueslime/blueslime.grass": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. A slimy root.",
+      "Por": "Declaração. Uma raiz pegajosa."
     }
   }
 ]

@@ -4,7 +4,6 @@
     "Files": {
       "plants/bushes/ground/tentacleshrub/tentacleshrub.bush": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ]
     },
@@ -23,6 +22,18 @@
     "Texts": {
       "Eng": "Fishy arm.",
       "Por": "Um braço de peixe."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/tentacleshrub/tentacleshrub.bush": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Horrified. A grotesque tentacle.",
+      "Por": "Horrorizado. Um grotesco tentáculo."
     }
   }
 ]

@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/novakid/picturestand/picturestand.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Confused. What is the purpose of this?",
+      "Por": "Confuso. Qual é o objetivo disso?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/novakid/picturestand/picturestand.object": [
         "/avianDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "This isn't very amusing.",
       "Por": "Isso não é muito divertido."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/novakid/picturestand/picturestand.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "What is the purpose of this?"
     }
   },
   {

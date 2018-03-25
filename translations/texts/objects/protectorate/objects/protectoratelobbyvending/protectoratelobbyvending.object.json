@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/protectorate/objects/protectoratelobbyvending/protectoratelobbyvending.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disappointed. These energy drinks do little for Glitch.",
+      "Por": "Desapontado. Essas bebidas energéticas fazem pouco para Glitch."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/protectorate/objects/protectoratelobbyvending/protectoratelobbyvending.object": [
         "/floranDescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "These energy drinks can keep you up all night. Crazy, I tell ye.",
       "Por": "Essas bebidas energéticas podem mantê-lo acordado a noite toda. Louco, eu lhe digo."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/protectorate/objects/protectoratelobbyvending/protectoratelobbyvending.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "These energy drinks do little for Glitch."
     }
   },
   {

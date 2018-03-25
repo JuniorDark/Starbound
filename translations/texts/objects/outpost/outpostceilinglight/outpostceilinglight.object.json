@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/outpostceilinglight/outpostceilinglight.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. This light functions superbly.",
+      "Por": "Impressionado. Esta luz funciona soberbamente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostceilinglight/outpostceilinglight.object": [
         "/avianDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "These lights are great, until they start flickering.",
       "Por": "Estas luzes são ótimas, até que elas começam a piscar."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/outpost/outpostceilinglight/outpostceilinglight.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This light functions superbly."
     }
   },
   {

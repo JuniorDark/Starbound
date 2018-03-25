@@ -15,18 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/themed/astronaut/sunmodel/sunmodel.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I wonder when I'll be able to see the Sun with my own eyes again.",
-      "Por": "Eu me pergunto quando poderei ver o Sol com meus próprios olhos novamente."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/themed/astronaut/sunmodel/sunmodel.object": [
         "/novakidDescription"
       ]
     },
@@ -45,6 +33,18 @@
     "Texts": {
       "Eng": "My home star, the Sun. I'll always remember the view from Earth at sunset...",
       "Por": "Minha estrela natal, o Sol. Eu sempre vou lembrar da vista da Terra ao pôr do sol..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/astronaut/sunmodel/sunmodel.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sadness. I wonder when I'll be able to see the Sun with my own eyes again.",
+      "Por": "Tristeza. Eu me pergunto quando poderei ver o Sol com meus próprios olhos novamente."
     }
   },
   {

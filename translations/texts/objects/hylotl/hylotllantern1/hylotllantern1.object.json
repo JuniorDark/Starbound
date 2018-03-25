@@ -27,23 +27,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/hylotllantern1/hylotllantern1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A paper lantern. That definitely passes health and safety."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/hylotl/hylotllantern1/hylotllantern1.object": [
         "/novakidDescription"
       ]
     },
     "Texts": {
       "Eng": "Anyone knows it ain't a good idea to combine paper with a hot bulb.",
       "Por": "Alguém sabe que não é uma boa idéia combinar papel com uma lâmpada quente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/hylotllantern1/hylotllantern1.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Critical. A paper lantern. That definitely passes health and safety.",
+      "Por": "Crítico. Uma lanterna de papel. Isso definitivamente passa por saúde e segurança."
     }
   },
   {

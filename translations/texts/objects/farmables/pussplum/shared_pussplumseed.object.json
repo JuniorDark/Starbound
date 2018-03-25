@@ -3,6 +3,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/pussplum/pussplumseed.object": [
+        "/glitchDescription"
+      ],
+      "objects/farmables/pussplum/wildpussplumseed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alarmed. Practically anything can become a delicacy, so long as it tastes good to someone.",
+      "Por": "Alarmado. Praticamente qualquer coisa pode se tornar uma iguaria, desde que o gosto é bom para alguém."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/pussplum/pussplumseed.object": [
         "/humanDescription"
       ],
       "objects/farmables/pussplum/wildpussplumseed.object": [
@@ -57,20 +72,6 @@
     "Texts": {
       "Eng": "I hear these are good, but after lookin' at one, I ain't so sure.",
       "Por": "Eu ouvi que estes são bons, mas depois de olhar para um, eu não tenho tanta certeza."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/farmables/pussplum/pussplumseed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/farmables/pussplum/wildpussplumseed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Practically anything can become a delicacy, so long as it tastes good to someone."
     }
   },
   {

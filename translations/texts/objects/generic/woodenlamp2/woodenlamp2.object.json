@@ -39,17 +39,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/woodenlamp2/woodenlamp2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A simple standing lamp."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/woodenlamp2/woodenlamp2.object": [
         "/description"
       ]
     },
@@ -80,6 +69,18 @@
     "Texts": {
       "Eng": "A tall wooden light powered by electricity.",
       "Por": "Uma luz de madeira alta alimentada por eletricidade."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodenlamp2/woodenlamp2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased. A simple standing lamp.",
+      "Por": "Satisfeito. Uma lâmpada de pé simples."
     }
   },
   {

@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Um conjunto grosseiramente produzido de tijolos de pedra."
+    ],
     "Files": {
       "items/materials/rockbrick.matitem": [
         "/description"
@@ -48,21 +50,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/rockbrick.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/rockbrick.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "These are simply rocks stacked like bricks",
-      "Por": "Estas são simplesmente rochas empilhadas como tijolos"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/rockbrick.matitem": [
         "/novakiddescription"
       ],
       "tiles/materials/rockbrick.material": [
@@ -72,6 +59,21 @@
     "Texts": {
       "Eng": "This ain't nothin' more'n a pile of rocks.",
       "Por": "Isso não é nada mais do que uma pilha de pedras."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rockbrick.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/rockbrick.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unimpressed. These are simply rocks stacked like bricks",
+      "Por": "Não impressionado. Estas são simplesmente pedras empilhadas como tijolos."
     }
   }
 ]

@@ -27,23 +27,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/mushroom/shroomchair/shroomchair.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "How many years did it take for mushrooms to develop this shape?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/mushroom/shroomchair/shroomchair.object": [
         "/humanDescription"
       ]
     },
     "Texts": {
       "Eng": "I bet whoever sits here is a fun guy.",
       "Por": "Uma cadeira feita de cogumelos. É esponjosa e estranha."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/mushroom/shroomchair/shroomchair.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pondering. How many years did it take for mushrooms to develop this shape?",
+      "Por": "Pensativo. Quantos anos levou para os cogumelos desenvolverem esta forma?"
     }
   },
   {

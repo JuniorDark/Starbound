@@ -27,17 +27,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/apexaquarium2/apexaquarium2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "An empty tank."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/apex/apexaquarium2/apexaquarium2.object": [
         "/shortdescription"
       ]
     },
@@ -80,6 +69,18 @@
     "Texts": {
       "Eng": "Memories of home wash over me.",
       "Por": "Memórias de casa vem até mim."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/apexaquarium2/apexaquarium2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neutral. An empty tank.",
+      "Por": "Neutro. Um tanque vazio."
     }
   },
   {

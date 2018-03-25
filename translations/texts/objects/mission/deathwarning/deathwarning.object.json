@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/deathwarning/deathwarning.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. This appears to be a warning.",
+      "Por": "Observador. Isso parece ser um aviso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/deathwarning/deathwarning.object": [
         "/shortdescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "The sssign means fun!",
       "Por": "A placa significa diversão!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/mission/deathwarning/deathwarning.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This appears to be a warning."
     }
   },
   {

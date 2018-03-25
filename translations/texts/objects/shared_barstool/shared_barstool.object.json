@@ -108,15 +108,15 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/barstool/barstool.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/outpost/outpostbarstool/outpostbarstool.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "The metal on that stool needs a polish.",
-      "Por": "O metal naquela banqueta precisa de um polimento."
+      "Eng": "Unimpressed. The metal on that stool needs a polish.",
+      "Por": "Não impressionado. O metal nessa banqueta precisa de um polimento."
     }
   }
 ]

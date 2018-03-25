@@ -93,6 +93,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/boneboo/bonebooseed.object": [
+        "/glitchDescription"
+      ],
+      "objects/farmables/boneboo/wildbonebooseed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disinterested. This plant apparently looks like organic internal anatomy. The Glitch have no such parts.",
+      "Por": "Desinteressado. Esta planta aparentemente parece ter anatomia interna orgânica. Os Glitch não tem tais partes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/boneboo/bonebooseed.object": [
         "/hylotlDescription"
       ],
       "objects/farmables/boneboo/wildbonebooseed.object": [
@@ -102,20 +117,6 @@
     "Texts": {
       "Eng": "Many vegetarian Hylotl meals are made with the boneboo plant.",
       "Por": "Muitas refeições vegetarianas Hylotl são feitas com a planta de boneboo."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/farmables/boneboo/bonebooseed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/farmables/boneboo/wildbonebooseed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This plant apparently looks like organic internal anatomy. The Glitch have no such parts."
     }
   },
   {

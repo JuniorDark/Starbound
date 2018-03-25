@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Thorns"
+    ],
     "Files": {
       "objects/obstacles/arid/thorns1/thorns1.object": [
         "/shortdescription"
@@ -20,7 +22,7 @@
     },
     "Texts": {
       "Eng": "Thorns",
-      "Por": "Thorns"
+      "Por": "Espinhos"
     }
   }
 ]

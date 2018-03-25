@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "O poder para explodir coisas."
+    ],
     "Files": {
       "items/active/weapons/npc/npcrocketlauncher.activeitem": [
         "/description"

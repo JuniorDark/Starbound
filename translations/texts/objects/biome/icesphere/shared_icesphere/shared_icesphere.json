@@ -66,26 +66,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/icesphere/icesphere1/icesphere1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/icesphere/icesphere2/icesphere2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/icesphere/icesphere3/icesphere3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/icesphere/icesphere4/icesphere4.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "An ice sphere."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/icesphere/icesphere1/icesphere1.object": [
         "/description"
       ],
       "objects/biome/icesphere/icesphere2/icesphere2.object": [
@@ -164,6 +144,27 @@
     "Texts": {
       "Eng": "It's like a frozen bubble.",
       "Por": "É como uma bolha congelada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/icesphere/icesphere1/icesphere1.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/icesphere/icesphere2/icesphere2.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/icesphere/icesphere3/icesphere3.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/icesphere/icesphere4/icesphere4.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neutral. An ice sphere.",
+      "Por": "Neutro. Uma esfera de gelo."
     }
   }
 ]

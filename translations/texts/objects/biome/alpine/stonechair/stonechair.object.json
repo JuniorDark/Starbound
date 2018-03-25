@@ -15,17 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/alpine/stonechair/stonechair.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "If I had back muscles this would surely damage them."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/alpine/stonechair/stonechair.object": [
         "/hylotlDescription"
       ]
     },
@@ -68,6 +57,18 @@
     "Texts": {
       "Eng": "Poor craftsmanship.",
       "Por": "Artesanato pobre."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/alpine/stonechair/stonechair.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Snooty. If I had back muscles this would surely damage them.",
+      "Por": "Arrogante. Se eu tivesse músculos nas costas, isso certamente os prejudicaria."
     }
   },
   {

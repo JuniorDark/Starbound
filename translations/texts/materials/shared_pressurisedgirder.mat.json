@@ -18,21 +18,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/pressurisedgirder.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/pressurisedgirder.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A girder made to accommodate adjustments in pressurisation ",
-      "Por": "Uma viga feita para acomodar ajustes na pressurização"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/pressurisedgirder.matitem": [
         "/novakiddescription"
       ],
       "tiles/materials/pressurisedgirder.material": [
@@ -42,6 +27,21 @@
     "Texts": {
       "Eng": "A tough 'ol metal girder.",
       "Por": "Uma viga metálica resistente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/pressurisedgirder.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/pressurisedgirder.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Informed. A girder made to accommodate adjustments in pressurisation ",
+      "Por": "Informado. Uma viga feita para acomodar ajustes na pressurização."
     }
   },
   {

@@ -63,6 +63,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/novakid/frontierlamppost/frontierlamppost.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. This is a very tall lamp.",
+      "Por": "Impressionado. Esta é uma lâmpada muito alta."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/novakid/frontierlamppost/frontierlamppost.object": [
         "/humanDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "Light the way, lamp post!",
       "Por": "Ilumine o caminho, poste de luz!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/novakid/frontierlamppost/frontierlamppost.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This is a very tall lamp."
     }
   },
   {

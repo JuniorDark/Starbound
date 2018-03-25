@@ -75,17 +75,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/apexnameplate/apexnameplate.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A small metal plaque with an inscription on it."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/apex/apexnameplate/apexnameplate.object": [
         "/apexDescription"
       ]
     },
@@ -104,6 +93,18 @@
     "Texts": {
       "Eng": "Fancy Plaque",
       "Por": "Fancy Plaque"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/apexnameplate/apexnameplate.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intrigued. A small metal plaque with an inscription on it.",
+      "Por": "Intrigado. Uma pequena placa de metal com uma inscrição nela."
     }
   }
 ]

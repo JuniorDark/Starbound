@@ -3,6 +3,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/hazard.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/hazard.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cautious. This pattern indicates I should watch my step.",
+      "Por": "Cuidadoso. Este padrão indica que eu deveria tomar cuidado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/hazard.matitem": [
         "/shortdescription"
       ],
       "tiles/materials/hazard.material": [
@@ -45,22 +60,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/hazard.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/hazard.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This pattern indicates I should watch my step.",
-      "Por": "Esse padrão indica que eu deveria tomar cuidado."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Este padrão sugere cautela."
+    ],
     "Files": {
       "items/materials/hazard.matitem": [
         "/description"

@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/thefickletype/tenstudiesplaque.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Interested. This plaque has names and dates referencing art.",
+      "Por": "Interessado. Esta placa possui nomes e datas referentes à arte."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/thefickletype/tenstudiesplaque.object": [
         "/humanDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "This nameplate apparently describes some Hylotl art.",
       "Por": "Esta placa de identificação aparentemente descreve alguma arte Hylotl."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/hylotl/thefickletype/tenstudiesplaque.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This plaque has names and dates referencing art."
     }
   }
 ]

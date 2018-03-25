@@ -99,11 +99,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/miningskip/miningskip.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "The container appears to hold unwanted rubble."
+      "Eng": "Observant. The container appears to hold unwanted rubble.",
+      "Por": "Observador. O contêiner parece conter escombros indesejados"
     }
   }
 ]

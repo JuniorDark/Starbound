@@ -63,6 +63,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/alien/alienchest/alienchest.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Appreciative. What a vibrant colour.",
+      "Por": "Apreciativo. Que cor vibrante."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/alien/alienchest/alienchest.object": [
         "/apexDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "Purple chessst full of treats for Floran?",
       "Por": "Baú roxo esssta cheio de gulossseimas para Floran?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/alien/alienchest/alienchest.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "What a vibrant colour."
     }
   },
   {

@@ -99,11 +99,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/pressuredoor/pressuredoor.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "This door is very heavy, it should be watertight."
+      "Eng": "Relieved. This door is very heavy, it should be watertight.",
+      "Por": "Aliviado. Esta porta é muito pesada, deve ser à prova d'água."
     }
   }
 ]

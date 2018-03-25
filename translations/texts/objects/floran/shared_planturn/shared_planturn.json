@@ -36,17 +36,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/planturn1/planturn1.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/floran/planturn2/planturn2.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/floran/planturn3/planturn3.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Is the urn half full, or half empty?"
+      "Eng": "Philosophical. Is the urn half full, or half empty?",
+      "Por": "Filosófico. A urna está meio cheia ou meio vazia?"
     }
   },
   {

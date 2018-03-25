@@ -39,23 +39,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/tentacle/tentaclepart1/tentaclepart1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/tentacle/tentaclepart2/tentaclepart2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/tentacle/tentaclepart3/tentaclepart3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "It seems to be something organic."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/tentacle/tentaclepart1/tentaclepart1.object": [
         "/hylotlDescription"
       ],
       "objects/biome/tentacle/tentaclepart2/tentaclepart2.object": [
@@ -140,6 +123,24 @@
     "Texts": {
       "Eng": "This is unnerving.",
       "Por": "Isso é enervante."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/tentacle/tentaclepart1/tentaclepart1.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/tentacle/tentaclepart2/tentaclepart2.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/tentacle/tentaclepart3/tentaclepart3.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Uncomfortable. It seems to be something organic.",
+      "Por": "Desconfortável. Parece ser algo orgânico."
     }
   },
   {

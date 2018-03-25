@@ -65,11 +65,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/miningcrusher/miningcrusher.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "The machine exists to crush rocks."
+      "Eng": "Observant. The machine exists to crush rocks.",
+      "Por": "Observador. Uma máquina para esmagar pedras."
     }
   },
   {

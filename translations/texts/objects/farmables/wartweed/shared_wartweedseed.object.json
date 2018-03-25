@@ -45,17 +45,21 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Atento. A pele de uma wartweed é quase tão resistente quanto a minha.",
+      "tento. A pele de uma wartweed é quase tão resistente quanto a minha."
+    ],
     "Files": {
       "objects/farmables/wartweed/wartweedseed.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/farmables/wartweed/wildwartweedseed.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "The skin of a wartweed is almost as tough as mine"
+      "Eng": "Observant. The skin of a wartweed is almost as tough as mine",
+      "Por": "Atento. A casca de uma wartweed é quase tão resistente quanto a minha."
     }
   },
   {

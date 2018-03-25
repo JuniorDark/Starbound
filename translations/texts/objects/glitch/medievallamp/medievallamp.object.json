@@ -87,23 +87,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/medievallamp/medievallamp.object": [
-        "/shortdescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Medieval Lamp",
-      "Por": "Medieval Lamp"
+      "Eng": "Impressed. This lamp is built to hang on a hook, to keep a your hands free.",
+      "Por": "Impressionado. Esta lâmpada é construída para ser pendurada em um gancho, para manter suas mãos livres."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/medievallamp/medievallamp.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "This lamp is built to hang on a hook, to keep a your hands free."
+      "Eng": "Medieval Lamp",
+      "Por": "Medieval Lamp"
     }
   }
 ]

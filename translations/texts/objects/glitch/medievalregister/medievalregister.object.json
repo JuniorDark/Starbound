@@ -75,11 +75,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/medievalregister/medievalregister.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Does this cash register accept pixels?"
+      "Eng": "Confused. Does this cash register accept pixels?",
+      "Por": "Confuso. Essa caixa registradora aceita pixels?"
     }
   },
   {

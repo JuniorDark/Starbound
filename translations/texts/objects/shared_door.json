@@ -3,25 +3,27 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/themed/opulent/opulentdoor/opulentdoor.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/themed/wave/wavedoor/wavedoor.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/tiered/tier3door/tier3door.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/tiered/tier4door/tier4door.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "A useful door.",
-      "Por": "Uma porta útil."
+      "Eng": "Approving. A useful door.",
+      "Por": "Aprovação. Uma porta útil."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Floran se esconde atrás da porta. Pula fora. Essfaqueia!"
+    ],
     "Files": {
       "objects/themed/executive/executivedoor/executivedoor.object": [
         "/floranDescription"
@@ -50,7 +52,7 @@
     },
     "Texts": {
       "Eng": "Floran hide behind door. Jump out. Ssstab!",
-      "Por": "Floran se esconde atrás da porta. Pula fora. Essfaqueia!"
+      "Por": "Floran se esconde atrás de porta. Pular fora. Essfaqueia!"
     }
   }
 ]

@@ -33,6 +33,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/crosshatch.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/crosshatch.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Inspired. This lattice functions well as either a fence or window.",
+      "Por": "Inspirado. Esta treliça funciona bem tanto como uma cerca ou janela."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/crosshatch.matitem": [
         "/novakiddescription"
       ],
       "tiles/materials/crosshatch.material": [
@@ -42,21 +57,6 @@
     "Texts": {
       "Eng": "Thin wood strips all criss crossin' together.",
       "Por": "Tiras de madeira finas todas cruzada juntas."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/crosshatch.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/crosshatch.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This lattice functions well as either a fence or window.",
-      "Por": "Esta estrutura funciona bem como uma cerca ou uma janela."
     }
   },
   {

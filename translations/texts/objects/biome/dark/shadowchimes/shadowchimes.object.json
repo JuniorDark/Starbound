@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/dark/shadowchimes/shadowchimes.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased. This pleasant chime puts a spring in my step.",
+      "Por": "Satisfeito. Este sino agradável certamente cria uma atmosfera."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/dark/shadowchimes/shadowchimes.object": [
         "/humanDescription"
       ]
     },
@@ -57,17 +69,6 @@
     "Texts": {
       "Eng": "This eerie wind chime produces an ethereal sound.",
       "Por": "Este estranho sino de vento produz um som etéreo."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/dark/shadowchimes/shadowchimes.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This pleasant chime puts a spring in my step."
     }
   },
   {

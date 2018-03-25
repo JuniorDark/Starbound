@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/consoletribal3/consoletribal3.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fascinated. The crystals powering this console are able to interface with other devices.",
+      "Por": "Fascinado. Os cristais que alimentam este console são capazes de interagir com outros dispositivos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/consoletribal3/consoletribal3.object": [
         "/novakidDescription"
       ]
     },
@@ -57,17 +69,6 @@
     "Texts": {
       "Eng": "The crystals inside this console seem important, but I don't understand the technology.",
       "Por": "Os cristais dentro deste console parecem importantes, mas eu não entendo a tecnologia."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avian/consoletribal3/consoletribal3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The crystals powering this console are able to interface with other devices."
     }
   },
   {

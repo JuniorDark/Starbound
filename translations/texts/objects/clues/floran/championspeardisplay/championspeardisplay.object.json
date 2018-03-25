@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/clues/floran/championspeardisplay/championspeardisplay.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Inspired. This spear belonged to a mighty Floran warrior who won some sort of grand hunt.",
+      "Por": "Inspirado. Esta lança pertencia a um poderoso guerreiro Floran que ganhou algum tipo de grande caça."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/clues/floran/championspeardisplay/championspeardisplay.object": [
         "/floranDescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "This sharp lookin' spear looks t'have belonged to an ol' hunter",
       "Por": "Essa lança de aparência afiada parece ter pertencido a um velho caçador."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/clues/floran/championspeardisplay/championspeardisplay.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This spear belonged to a mighty Floran warrior who won some sort of grand hunt."
     }
   }
 ]

@@ -3,23 +3,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/irontable/irontable.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A casual table. Others seem wary of it."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/irontable/irontable.object": [
         "/description"
       ]
     },
     "Texts": {
       "Eng": "A table with swords for legs. Not ideal for playing footsie.",
       "Por": "Uma mesa com espadas para as pernas. Não é ideal para brincadeiras."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/irontable/irontable.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Comfort. A casual table. Others seem wary of it.",
+      "Por": "Conforto. Uma mesa casual. Outros parecem desconfiar disso."
     }
   },
   {

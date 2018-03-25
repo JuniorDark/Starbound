@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/hive/hivebed/hivebed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Concerned. I don't think I could rest comfortably on a bed this creepy.",
+      "Por": "Preocupado. Eu não acho que eu poderia descansar confortavelmente em uma cama tão arrepiante."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/hive/hivebed/hivebed.object": [
         "/novakidDescription"
       ]
     },
@@ -57,17 +69,6 @@
     "Texts": {
       "Eng": "I am not sure I could sleep easy on a bed like this.",
       "Por": "Eu não tenho certeza se eu poderia dormir fácilmente em uma cama como esta."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/hive/hivebed/hivebed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I don't think I could rest comfortably on a bed this creepy."
     }
   },
   {

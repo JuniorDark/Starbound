@@ -33,6 +33,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/snow.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/snow.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enchanted. This snow looks freshly fallen.",
+      "Por": "Encantado. Esta neve parece ter caido recentemente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/snow.matitem": [
         "/description"
       ],
       "tiles/materials/snow.material": [
@@ -42,21 +57,6 @@
     "Texts": {
       "Eng": "Soft and fluffy snow.",
       "Por": "Neve macia e fofa."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/snow.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/snow.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This snow looks freshly fallen.",
-      "Por": "Esta neve parece recém caída."
     }
   }
 ]

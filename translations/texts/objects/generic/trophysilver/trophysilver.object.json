@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/trophysilver/trophysilver.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. This trophy was made with great care to honour the recipient.",
+      "Por": "Impressionado. Este troféu foi feito com grande cuidado para homenagear o recebedor."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/trophysilver/trophysilver.object": [
         "/description"
       ]
     },
@@ -45,17 +57,6 @@
     "Texts": {
       "Eng": "This here trophy looks shiny as a new six-shooter.",
       "Por": "Este troféu parece brilhante como um revólver novo."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/trophysilver/trophysilver.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This trophy was made with great care to honour the recipient."
     }
   }
 ]

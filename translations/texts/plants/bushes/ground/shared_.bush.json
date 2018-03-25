@@ -4,12 +4,10 @@
     "Files": {
       "plants/bushes/ground/shrub1/shrub1.bush": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ],
       "plants/bushes/ground/testbush/testbush.bush": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ]
     },
@@ -40,21 +38,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "plants/bushes/ground/flowery/flowery.bush": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "plants/bushes/ground/springbush/springbus.bush": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Flowers.",
-      "Por": "Flores."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "plants/bushes/ground/flowery/flowery.bush": [
         "/description",
         "/shortdescription"
       ],
@@ -65,7 +48,7 @@
     },
     "Texts": {
       "Eng": "Flowery.",
-      "Por": "Florido."
+      "Por": "Floreado."
     }
   },
   {
@@ -89,19 +72,66 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "plants/bushes/ground/shrub1/shrub1.bush": [
+        "/glitchDescription"
+      ],
+      "plants/bushes/ground/testbush/testbush.bush": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. A shrub.",
+      "Por": "Relatório. Um arbusto."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/flowery/flowery.bush": [
+        "/glitchDescription"
+      ],
+      "plants/bushes/ground/springbush/springbus.bush": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. Flowers.",
+      "Por": "Relatório. Flores."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Afirmação, Os ossos de uma criatura morta há muito tempo."
+    ],
+    "Files": {
+      "plants/bushes/ground/skeletalbush/skeletalbush.bush": [
+        "/glitchDescription"
+      ],
+      "plants/bushes/ground/skulls/skulls.bush": [
+        "/glitchDescription"
+      ],
+      "plants/bushes/ground/tarbones/tarbones.bush": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. The bones of a long-dead creature.",
+      "Por": "Afirmação. Os ossos de uma criatura morta há muito tempo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "plants/bushes/ground/skeletalbush/skeletalbush.bush": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ],
       "plants/bushes/ground/skulls/skulls.bush": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ],
       "plants/bushes/ground/tarbones/tarbones.bush": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ]
     },

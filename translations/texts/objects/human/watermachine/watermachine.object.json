@@ -15,17 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/watermachine/watermachine.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A water cooler. It keeps a larger amount of water cool."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/human/watermachine/watermachine.object": [
         "/novakidDescription"
       ]
     },
@@ -92,6 +81,18 @@
     "Texts": {
       "Eng": "It's one of those drinking machines people use to make small-talk.",
       "Por": "É uma daquelas máquinas de beber que as pessoas usam para ter conversa fiada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/watermachine/watermachine.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. A water cooler. It keeps a larger amount of water cool.",
+      "Por": "Observador. Um bebedouro. Mantém uma grande quantidade de água fria."
     }
   }
 ]

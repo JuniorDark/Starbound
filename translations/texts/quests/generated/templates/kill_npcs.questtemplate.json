@@ -3,13 +3,48 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/kill_npcs.questtemplate": [
-        "/scriptConfig/generatedText/completionText/default/default/1",
-        "/scriptConfig/generatedText/completionText/default/glitch/1/glitchEmotedText"
+        "/scriptConfig/generatedText/completionText/default/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Appreciative. You dealt with the <enemy>? <appreciation>",
+      "Por": "Agradecido. Você lidou com o <enemy>? <appreciation>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Concerned. I <overheard> some ^orange;<enemy>^white; who were near the ^orange;<spawnPoint>^white; <earlier>. <doubt> but I think they were <discussing> <discussion>. ^green;Could you go and <investigate>^white;?",
+      "Por": "Preocupado. Eu <overheard> alguns ^orange;<enemy>^white; que estavam perto do ^orange;<spawnPoint>^white; <earlier>. <doubt> mas eu acho que eles estavam <discussing> <discussion>. ^green;Você poderia ir e <investigate>^white;?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/default/1"
       ]
     },
     "Texts": {
       "Eng": "Did you find out what the <enemy> were up to? <appreciation>",
       "Por": "Você descobriu o que o <enemy> estava fazendo? <appreciation>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Distressed. I <activity> <earlier>, when ^orange;<enemy>^white; <crime1>. I'm feeling <reaction> and <justice1>. It happened near the ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Could you <request>^white;?",
+      "Por": "Angustiado. Eu <activity> <earlier>, quando ^orange;<enemy>^white; <crime1>. Estou me sentindo <reaction> e <justice1>. Isso aconteceu perto de ^orange;<spawnPoint>^white; <spawnPoint.direction>. ^green;Você poderia <request>^white;?"
     }
   },
   {
@@ -28,8 +63,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/kill_npcs.questtemplate": [
-        "/scriptConfig/generatedText/text/default/default/0",
-        "/scriptConfig/generatedText/text/default/glitch/0/glitchEmotedText"
+        "/scriptConfig/generatedText/text/default/default/0"
       ]
     },
     "Texts": {
@@ -41,8 +75,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/kill_npcs.questtemplate": [
-        "/scriptConfig/generatedText/text/default/default/1",
-        "/scriptConfig/generatedText/text/default/glitch/1/glitchEmotedText"
+        "/scriptConfig/generatedText/text/default/default/1"
       ]
     },
     "Texts": {
@@ -138,6 +171,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/kill_npcs.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Relieved. Did you find out what the <enemy> were up to? <appreciation>",
+      "Por": "Aliviado. Você descobriu o que o <enemy> estava fazendo? <appreciation>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_npcs.questtemplate": [
         "/scriptConfig/generatedText/title/default/0"
       ]
     },
@@ -210,8 +255,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/kill_npcs.questtemplate": [
-        "/scriptConfig/generatedText/completionText/default/default/0",
-        "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText"
+        "/scriptConfig/generatedText/completionText/default/default/0"
       ]
     },
     "Texts": {
@@ -755,8 +799,7 @@
       ]
     },
     "Texts": {
-      "Eng": "money",
-      "Por": "dinheiro"
+      "Eng": "money"
     }
   },
   {

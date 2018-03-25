@@ -8,7 +8,7 @@
     },
     "Texts": {
       "Eng": "Little pebbles.",
-      "Por": "Pedrinhas pequenas."
+      "Por": "Cristais pequenos."
     }
   },
   {
@@ -20,19 +20,7 @@
     },
     "Texts": {
       "Eng": "Pebbles.",
-      "Por": "Pebbles."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "plants/grass/ground/decorative/pebbles/pebbles.grass": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Small pebbles.",
-      "Por": "Pedrinhas pequenas."
+      "Por": "Cristais."
     }
   },
   {
@@ -44,7 +32,19 @@
     },
     "Texts": {
       "Eng": "Sssmall ssstones.",
-      "Por": "Pedrass pequenass."
+      "Por": "Pedras pequenas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/pebbles/pebbles.grass": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. Small pebbles.",
+      "Por": "Relatório. Cristais pequenos."
     }
   }
 ]

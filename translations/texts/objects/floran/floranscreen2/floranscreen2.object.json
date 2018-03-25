@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/floranscreen2/floranscreen2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disgusted. The blood stains on this screen suggest it hides food preparation.",
+      "Por": "Enojado. As manchas de sangue neste biombo sugerem que esconde a preparação de alimentos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/floranscreen2/floranscreen2.object": [
         "/floranDescription"
       ]
     },
@@ -45,17 +57,6 @@
     "Texts": {
       "Eng": "Screens are outlawed under Miniknog rule, as is privacy of any kind.",
       "Por": "Biombos são proibidos sob a norma da Miniknog, como a privacidade de qualquer tipo."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/floran/floranscreen2/floranscreen2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The blood stains on this screen suggest it hides food preparation."
     }
   },
   {

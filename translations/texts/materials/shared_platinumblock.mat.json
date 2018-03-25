@@ -18,6 +18,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/platinumblock.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/platinumblock.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Delighted. This shimmering block is made from solid platinum.",
+      "Por": "Encantado. Este bloco cintilante é feito de platina sólida."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/platinumblock.matitem": [
         "/florandescription"
       ],
       "tiles/materials/platinumblock.material": [
@@ -45,7 +60,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Platinum Block "
+    ],
     "Files": {
       "items/materials/platinumblock.matitem": [
         "/shortdescription"
@@ -57,21 +74,6 @@
     "Texts": {
       "Eng": "Platinum Block",
       "Por": "Platinum Block"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/platinumblock.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/platinumblock.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This shimmering block is made from solid platinum.",
-      "Por": "Este bloco cintilante é feito de platina sólida."
     }
   }
 ]

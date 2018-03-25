@@ -63,6 +63,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/medievalfurnace/medievalfurnace.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amazed. Smithies like these are used to produce tools and weaponry.",
+      "Por": "Surpreso. Forjas como estas são usadas para produzir ferramentas e armamento."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/medievalfurnace/medievalfurnace.object": [
         "/hylotlDescription"
       ]
     },
@@ -105,17 +117,6 @@
     "Texts": {
       "Eng": "Medieval Furnace",
       "Por": "Medieval Furnace"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/glitch/medievalfurnace/medievalfurnace.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Smithies like these are used to produce tools and weaponry."
     }
   },
   {

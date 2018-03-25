@@ -1,6 +1,9 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma pedra pacífica. Olhando para ela me faz sentir-se calmo.",
+      "Uma pedra pacífica. Olhar para ela me faz sentir calmo."
+    ],
     "Files": {
       "objects/biome/zen/zenrock1/zenrock1.object": [
         "/hylotlDescription"
@@ -20,11 +23,14 @@
     },
     "Texts": {
       "Eng": "A peaceful stone. Looking at it makes me feel calm.",
-      "Por": "Uma pedra pacífica. Olhando para ela me faz sentir-se calmo."
+      "Por": "Uma pedra pacífica. Olhar para ela me faz sentir-me calmo."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Um lindo monte de pedra.",
+      "É um belo monte de pedras."
+    ],
     "Files": {
       "objects/biome/zen/zenrock1/zenrock1.object": [
         "/humanDescription"
@@ -48,7 +54,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma pedra perfeita para jardins zen alienígenas."
+    ],
     "Files": {
       "objects/biome/zen/zenrock1/zenrock1.object": [
         "/description"
@@ -66,7 +74,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "A estrutura de pedra perfeita para jardins alienígenas zen."
+    ],
     "Files": {
       "objects/biome/zen/zenrock2/zenrock2.object": [
         "/description"
@@ -81,7 +91,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma pedra elegante.",
+      "Uma rocha de aparência elegante."
+    ],
     "Files": {
       "objects/biome/zen/zenrock1/zenrock1.object": [
         "/avianDescription"
@@ -101,34 +114,40 @@
     },
     "Texts": {
       "Eng": "An elegant looking rock.",
-      "Por": "Uma pedra elegante."
+      "Por": "Uma pedra com aparência elegante."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Atento. É uma pedra limpa.",
+      "Atento. É uma pedra que parece estar limpa."
+    ],
     "Files": {
       "objects/biome/zen/zenrock1/zenrock1.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/biome/zen/zenrock2/zenrock2.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/biome/zen/zenrock3/zenrock3.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/biome/zen/zenrock4/zenrock4.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/biome/zen/zenrock5/zenrock5.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "It's a clean looking stone."
+      "Eng": "Observant. It's a clean looking stone.",
+      "Por": "Atento. É uma pedra de aparência limpa."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Simplesmente uma rocha."
+    ],
     "Files": {
       "objects/biome/zen/zenrock1/zenrock1.object": [
         "/apexDescription"
@@ -152,7 +171,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Pedra",
+      "Pppedra."
+    ],
     "Files": {
       "objects/biome/zen/zenrock1/zenrock1.object": [
         "/floranDescription"
@@ -176,7 +198,11 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Isso é uma pedra boa.",
+      "Isso é uma pedra do bem.",
+      "É uma pedra."
+    ],
     "Files": {
       "objects/biome/zen/zenrock1/zenrock1.object": [
         "/novakidDescription"

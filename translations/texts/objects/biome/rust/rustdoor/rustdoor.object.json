@@ -15,17 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/rust/rustdoor/rustdoor.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A rusted door."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/rust/rustdoor/rustdoor.object": [
         "/humanDescription"
       ]
     },
@@ -56,6 +45,18 @@
     "Texts": {
       "Eng": "A sinister, rusty door.",
       "Por": "Uma porta sinistra e enferrujada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/rust/rustdoor/rustdoor.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disgusted. A rusted door.",
+      "Por": "Enojado. Uma porta enferrujada."
     }
   },
   {

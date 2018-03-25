@@ -75,6 +75,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/plantcage3/plantcage3.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. This cage is strong enough to hang suspended.",
+      "Por": "Impressionado. Esta jaula é forte o suficiente para ficar suspensa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/plantcage3/plantcage3.object": [
         "/shortdescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "This cage doesn't have much room to move around in.",
       "Por": "Esta jaula não tem muito espaço para se movimentar."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/floran/plantcage3/plantcage3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This cage is strong enough to hang suspended."
     }
   }
 ]

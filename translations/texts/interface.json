@@ -205,8 +205,7 @@
       ]
     },
     "Texts": {
-      "Eng": "0",
-      "Por": "0"
+      "Eng": "0"
     }
   },
   {
@@ -304,7 +303,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Energia Por Tiro:",
+      "Energia por Tiro:"
+    ],
     "Files": {
       "interface/itemdescriptions/bow.itemdescription": [
         "/energyPerShotTitleLabel/value"
@@ -325,7 +327,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Cadência de Tiro:"
+    ],
     "Files": {
       "interface/itemdescriptions/fistweapon.itemdescription": [
         "/speedTitleLabel/value"
@@ -448,8 +452,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Replace Me",
-      "Por": "Replace Me"
+      "Eng": "Replace Me"
     }
   },
   {
@@ -496,8 +499,7 @@
       ]
     },
     "Texts": {
-      "Eng": "tree",
-      "Por": "tree"
+      "Eng": "tree"
     }
   }
 ]

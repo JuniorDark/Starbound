@@ -43,8 +43,19 @@
       ]
     },
     "Texts": {
-      "Eng": "Astro Table",
-      "Por": "Astro Table"
+      "Eng": "Astro Table"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/astrotable/astrotable.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Indifferent. This table is unremarkable.",
+      "Por": "Indiferente. Esta mesa não é notável."
     }
   },
   {
@@ -81,18 +92,6 @@
     "Texts": {
       "Eng": "This table is fixed to the floor, otherwise I think it might tip over.",
       "Por": "Esta mesa é fixada no chão, caso contrário eu acho que poderia tombar."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/space/astrotable/astrotable.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This table is unremarkable.",
-      "Por": "Esta tabela é desinteressante."
     }
   }
 ]

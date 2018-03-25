@@ -30,7 +30,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Um poco de terra suja."
+    ],
     "Files": {
       "items/materials/dirt.matitem": [
         "/description"
@@ -41,7 +43,7 @@
     },
     "Texts": {
       "Eng": "Dirty looking dirt.",
-      "Por": "Um poco de terra suja."
+      "Por": "Terra suja."
     }
   },
   {
@@ -63,15 +65,15 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/dirt.matitem": [
-        "/glitchdescription/glitchEmotedText"
+        "/glitchdescription"
       ],
       "tiles/materials/dirt.material": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "This is basic soil.",
-      "Por": "Isto é solo básico."
+      "Eng": "Indifferent. This is basic soil.",
+      "Por": "Indiferente. Isto é solo básico."
     }
   }
 ]

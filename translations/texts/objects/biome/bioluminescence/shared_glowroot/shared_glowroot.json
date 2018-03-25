@@ -3,29 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/bioluminescence/glowroot1/glowroot1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/bioluminescence/glowroot2/glowroot2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/bioluminescence/glowroot3/glowroot3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/bioluminescence/glowroot4/glowroot4.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/bioluminescence/glowroot5/glowroot5.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Are these the roots of the plants above, or a separate organism?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/bioluminescence/glowroot1/glowroot1.object": [
         "/floranDescription"
       ],
       "objects/biome/bioluminescence/glowroot2/glowroot2.object": [
@@ -92,6 +69,30 @@
     "Texts": {
       "Eng": "Little roots sparkling like stars adorn the ceiling.",
       "Por": "Pequenas raízes brilhando como estrelas adornam o teto."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/bioluminescence/glowroot1/glowroot1.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/bioluminescence/glowroot2/glowroot2.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/bioluminescence/glowroot3/glowroot3.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/bioluminescence/glowroot4/glowroot4.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/bioluminescence/glowroot5/glowroot5.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Questioning. Are these the roots of the plants above, or a separate organism?",
+      "Por": "Questionamento. Essas são as raízes das plantas acima, ou um organismo separado?"
     }
   },
   {

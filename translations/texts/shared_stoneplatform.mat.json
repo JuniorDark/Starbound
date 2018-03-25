@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma plataforma esculpida em pedra."
+    ],
     "Files": {
       "items/materials/stoneplatform.matitem": [
         "/description"
@@ -12,6 +14,21 @@
     "Texts": {
       "Eng": "A platform carved from stone.",
       "Por": "Uma plataforma feita de pedra."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/stoneplatform.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/platforms/stoneplatform.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. This platform has been carved from solid stone.",
+      "Por": "Impressionado. Esta plataforma foi esculpida de pedra sólida."
     }
   },
   {
@@ -57,21 +74,6 @@
     "Texts": {
       "Eng": "Stone Platform",
       "Por": "Stone Platform"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/stoneplatform.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/platforms/stoneplatform.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This platform has been carved from solid stone.",
-      "Por": "Esta plataforma foi esculpida ed pedra sólida."
     }
   }
 ]

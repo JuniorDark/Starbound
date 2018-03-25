@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/clues/hylotl/librarymodel/librarymodel.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. This model of a Hylotl library even has tiny bookcases inside.",
+      "Por": "Impressionado. Este modelo de uma biblioteca Hylotl tem mesmo estantes minúsculas dentro."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/clues/hylotl/librarymodel/librarymodel.object": [
         "/hylotlDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "This is a fine lookin' model. I'd rather not touch it.",
       "Por": "Este é um belo modelo. Prefiro não tocá-lo."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/clues/hylotl/librarymodel/librarymodel.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This model of a Hylotl library even has tiny bookcases inside."
     }
   },
   {

@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/thornplant/thornplant.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cautious. These thorny fruits seem well protected against hungry wildlife.",
+      "Por": "Cauteloso. Estas frutas espinhosas parecem bem protegidas contra a vida selvagem faminta."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/thornplant/thornplant.object": [
         "/novakidDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "These plants protect their precious water fiercely...",
       "Por": "Estas plantas protegem sua preciosa água ferozmente..."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/farmables/thornplant/thornplant.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "These thorny fruits seem well protected against hungry wildlife."
     }
   },
   {

@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/checkpoint/checkpoint.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Can we truly perish if we always respawn?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/mission/checkpoint/checkpoint.object": [
         "/novakidDescription"
       ]
     },
@@ -104,6 +93,18 @@
     "Texts": {
       "Eng": "Thisss letss Floran come back here if thingsss go wrong!",
       "Por": "Isso permite que Floran volte aqui se as coisasss deram errado!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/checkpoint/checkpoint.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thoughtful. Can we truly perish if we always respawn?",
+      "Por": "Pensativo. Podemos realmente morrer se nós sempre reaparecer?"
     }
   }
 ]

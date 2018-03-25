@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Um grande tentáculo"
+    ],
     "Files": {
       "items/materials/tentaclepipe.matitem": [
         "/description"
@@ -33,6 +35,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/tentaclepipe.matitem": [
+        "/glitchDescription"
+      ],
+      "tiles/materials/tentaclepipe.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Concerned. This tentacle is certainly from something quite large.",
+      "Por": "Preocupado. Este tentáculo é certamente de algo bastante grande."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/tentaclepipe.matitem": [
         "/shortdescription"
       ],
       "tiles/materials/tentaclepipe.material": [
@@ -45,7 +62,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Parece que eu sou um tipo de tentáculo"
+    ],
     "Files": {
       "items/materials/tentaclepipe.matitem": [
         "/novakidDescription"
@@ -57,21 +76,6 @@
     "Texts": {
       "Eng": "Looks t'me like some kinda tentacle.",
       "Por": "Pra mim parece algum tipo de tentáculo."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/tentaclepipe.matitem": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "tiles/materials/tentaclepipe.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This tentacle is certainly from something quite large.",
-      "Por": "Este tentáculo é certamente de algo muito grande."
     }
   }
 ]

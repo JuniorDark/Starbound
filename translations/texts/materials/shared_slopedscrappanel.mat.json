@@ -25,8 +25,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Scrap Panel",
-      "Por": "Scrap Panel"
+      "Eng": "Scrap Panel"
     }
   },
   {
@@ -48,15 +47,15 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/slopedscrappanel.matitem": [
-        "/glitchdescription/glitchEmotedText"
+        "/glitchdescription"
       ],
       "tiles/materials/slopedscrappanel.material": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "This metal surface looks very jagged and rusty.",
-      "Por": "Esta superfície de metal parece muito irregular e enferrujada."
+      "Eng": "Worried. This metal surface looks very jagged and rusty.",
+      "Por": "Preocupado. Esta superfície metálica parece muito irregular e enferrujada."
     }
   }
 ]

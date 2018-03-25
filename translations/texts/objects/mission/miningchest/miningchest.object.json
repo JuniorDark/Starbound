@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/miningchest/miningchest.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. What could be inside?",
+      "Por": "Curioso. O que poderia estar dentro?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/miningchest/miningchest.object": [
         "/shortdescription"
       ]
     },

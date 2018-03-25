@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/themed/astronaut/jupitermodel/jupitermodel.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amazed. Jupiter is a relatively small planet by today's standards.",
+      "Por": "Maravilhado. Júpiter é um planeta relativamente pequeno pelos padrões de hoje."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/astronaut/jupitermodel/jupitermodel.object": [
         "/novakidDescription"
       ]
     },
@@ -45,18 +57,6 @@
     "Texts": {
       "Eng": "Jupiter Model",
       "Por": "Jupiter Model"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/themed/astronaut/jupitermodel/jupitermodel.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Jupiter is a relatively small planet by today's standards.",
-      "Por": "Júpiter é um planeta relativamente pequeno pelos padrões de hoje."
     }
   },
   {

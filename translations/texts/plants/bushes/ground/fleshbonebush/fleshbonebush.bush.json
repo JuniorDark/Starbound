@@ -4,7 +4,6 @@
     "Files": {
       "plants/bushes/ground/fleshbonebush/fleshbonebush.bush": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ]
     },
@@ -23,6 +22,18 @@
     "Texts": {
       "Eng": "Meat and bonesss.",
       "Por": "Carne e ossos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/fleshbonebush/fleshbonebush.bush": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Revulsion. Horrifying bones.",
+      "Por": "Desgosto. Ossos apavorantes."
     }
   }
 ]

@@ -3,6 +3,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/floranopenpod1/floranopenpod1.object": [
+        "/glitchDescription"
+      ],
+      "objects/floran/floranopenpod2/floranopenpod2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analyse. This pod is of Floran origin, and there's nothing inside.",
+      "Por": "Analítico. Este vagem é de origem Floran, e não há nada dentro."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/floranopenpod1/floranopenpod1.object": [
         "/humanDescription"
       ],
       "objects/floran/floranopenpod2/floranopenpod2.object": [
@@ -87,20 +102,6 @@
     "Texts": {
       "Eng": "Something seems to have hatched from this pod.",
       "Por": "Algo parece ter eclodido desta vagem."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/floran/floranopenpod1/floranopenpod1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/floran/floranopenpod2/floranopenpod2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This pod is of Floran origin, and there's nothing inside."
     }
   },
   {

@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/swamp/swampybed/swampybed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Drowsy. Power levels low. Sleep mode required.",
+      "Por": "Sonolento. Níveis de energia baixos. Modo hibernação necessário."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/swamp/swampybed/swampybed.object": [
         "/floranDescription"
       ]
     },
@@ -57,17 +69,6 @@
     "Texts": {
       "Eng": "It looks kind of like a boat. A boat full of leaves.",
       "Por": "Parece um pouco como um barco. Um barco cheio de folhas."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/swamp/swampybed/swampybed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Power levels low. Sleep mode required."
     }
   },
   {

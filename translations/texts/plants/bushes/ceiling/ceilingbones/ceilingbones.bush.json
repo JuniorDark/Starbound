@@ -16,13 +16,24 @@
     "Files": {
       "plants/bushes/ceiling/ceilingbones/ceilingbones.bush": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ]
     },
     "Texts": {
       "Eng": "Hanging bones.",
       "Por": "Ossos pendurados."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ceiling/ceilingbones/ceilingbones.bush": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. Hanging bones.",
+      "Por": "Declaração. Ossos pendurados."
     }
   }
 ]

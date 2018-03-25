@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/hylotlsign3g/hylotlsign3g.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. Some consider reefpods a delicacy.",
+      "Por": "Curioso. Alguns consideram reefpods uma iguaria."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/hylotlsign3g/hylotlsign3g.object": [
         "/floranDescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "Reefpods. What a treat. Glad I packed my own lunch.",
       "Por": "Reefpods. Que delícia. Ainda bem que fiz o meu próprio almoço."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/hylotl/hylotlsign3g/hylotlsign3g.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Some consider reefpods a delicacy."
     }
   }
 ]

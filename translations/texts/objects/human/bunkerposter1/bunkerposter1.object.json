@@ -3,6 +3,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/bunkerposter1/bunkerposter1.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frustrated. Trying to guess the missing text will irritate me for days.",
+      "Por": "Frustrado. Tentar adivinhar o texto em falta vai me irritar por dias."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkerposter1/bunkerposter1.object": [
         "/humanDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "The possster is damaged. Floran feels less calm after seeing this possster.",
       "Por": "O cartaz está danificado. Floran dente-se menos calmo depois de ver este cartaz."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/human/bunkerposter1/bunkerposter1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Trying to guess the missing text will irritate me for days."
     }
   },
   {

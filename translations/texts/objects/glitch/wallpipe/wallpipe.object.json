@@ -27,17 +27,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/wallpipe/wallpipe.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A pipe."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/glitch/wallpipe/wallpipe.object": [
         "/humanDescription"
       ]
     },
@@ -80,6 +69,18 @@
     "Texts": {
       "Eng": "Just a pipe. Hope no critters are lurking in it.",
       "Por": "Apenas um cano. Espero que nenhum bicho esteja espreitando nisso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/wallpipe/wallpipe.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. A pipe.",
+      "Por": "Observador. Um cano."
     }
   },
   {

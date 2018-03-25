@@ -43,8 +43,19 @@
       ]
     },
     "Texts": {
-      "Eng": "Industrial Computer",
-      "Por": "Industrial Computer"
+      "Eng": "Industrial Computer"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/industrialcomputer/industrialcomputer.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intrigued. This screen shows a lot of information - I wonder what it is all for?",
+      "Por": "Intrigado. Esta tela mostra muita informação - eu me pergunto para o que é tudo isso?"
     }
   },
   {
@@ -93,18 +104,6 @@
     "Texts": {
       "Eng": "This here box sure has a lot o' words on it, but I just ain't got the attention span t'keep up with it.",
       "Por": "Esta caixa aqui com certeza tem muitas palavras nela, mas eu simplesmente não tenho a capacidade de atenção para acompanhar isso."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/space/industrialcomputer/industrialcomputer.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This screen shows a lot of information - I wonder what it is all for?",
-      "Por": "Esta tela mostra muita informação - eu me pergunto o que é tudo isso?"
     }
   }
 ]

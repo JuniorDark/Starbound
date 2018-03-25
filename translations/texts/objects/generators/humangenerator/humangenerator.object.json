@@ -15,8 +15,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generators/humangenerator/humangenerator.object": [
-        "/apexDescription",
-        "/glitchDescription/glitchEmotedText"
+        "/apexDescription"
       ]
     },
     "Texts": {
@@ -34,6 +33,18 @@
     "Texts": {
       "Eng": "A shield generator. Protective!",
       "Por": "Um gerador de escudo. Protetor!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generators/humangenerator/humangenerator.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Comforted. A shield generator.",
+      "Por": "Confortado. Um gerador de escudo."
     }
   },
   {

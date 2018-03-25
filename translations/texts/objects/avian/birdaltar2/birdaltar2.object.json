@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/birdaltar2/birdaltar2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Confused. This altar appears to have some religious purpose which eludes me.",
+      "Por": "Confuso. Este altar parece ter algum propósito religioso que me escapa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/birdaltar2/birdaltar2.object": [
         "/novakidDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "The altar is covered in carvings of a winged god.",
       "Por": "O altar está coberto de entalhes de um deus alado."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avian/birdaltar2/birdaltar2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This altar appears to have some religious purpose which eludes me."
     }
   },
   {

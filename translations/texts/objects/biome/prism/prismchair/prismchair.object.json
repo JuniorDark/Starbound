@@ -63,23 +63,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/prism/prismchair/prismchair.object": [
-        "/shortdescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Prism Chair",
-      "Por": "Prism Chair"
+      "Eng": "Impressed. The angles on this chair are mathematically perfect.",
+      "Por": "Impressionado. Os ângulos nesta cadeira são matematicamente perfeitos."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/prism/prismchair/prismchair.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "The angles on this chair are mathematically perfect."
+      "Eng": "Prism Chair",
+      "Por": "Prism Chair"
     }
   },
   {

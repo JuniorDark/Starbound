@@ -63,6 +63,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/hylotlmovieposter1/hylotlmovieposter1.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Interested. The robots in this film look powerful indeed.",
+      "Por": "Interessado. Os robôs neste filme parecem muito poderosos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/hylotlmovieposter1/hylotlmovieposter1.object": [
         "/avianDescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "Looks like another unrealistic giant robot movie.",
       "Por": "Parece outro filme de robôs gigantes."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/hylotl/hylotlmovieposter1/hylotlmovieposter1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The robots in this film look powerful indeed."
     }
   }
 ]

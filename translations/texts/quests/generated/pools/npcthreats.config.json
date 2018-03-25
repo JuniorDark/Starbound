@@ -19,8 +19,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Avian raiders",
-      "Por": "Invasores Avian"
+      "Eng": "Avian raiders"
     }
   },
   {
@@ -74,7 +73,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Fanáticos Kluex"
+    ],
     "Files": {
       "quests/generated/pools/npcthreats.config": [
         "/0/1/15/1/name",
@@ -157,8 +158,7 @@
       ]
     },
     "Texts": {
-      "Eng": "dark knights",
-      "Por": "cavaleiros negros"
+      "Eng": "dark knights"
     }
   },
   {
@@ -183,8 +183,7 @@
       ]
     },
     "Texts": {
-      "Eng": "rogue Samurai",
-      "Por": "Samurai ladino"
+      "Eng": "rogue Samurai"
     }
   },
   {

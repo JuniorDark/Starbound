@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/frogfurnishing/frogfurnishingclosed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. This crate appears to be in the process of being turned into a stall.",
+      "Por": "Curioso. Esta caixa parece estar no processo de ser transformada em uma tenda."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/frogfurnishing/frogfurnishingclosed.object": [
         "/floranDescription"
       ]
     },
@@ -57,17 +69,6 @@
     "Texts": {
       "Eng": "Someone is decorating this crate - I wonder what it'll look like when they've finished?",
       "Por": "Alguém está decorando esta caixa - me pergunto como ficará quando terminarem?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/outpost/frogfurnishing/frogfurnishingclosed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This crate appears to be in the process of being turned into a stall."
     }
   },
   {

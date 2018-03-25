@@ -15,17 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/holiday/dreidel/dreidel.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A spinning top."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/holiday/dreidel/dreidel.object": [
         "/apexDescription"
       ]
     },
@@ -68,6 +57,18 @@
     "Texts": {
       "Eng": "I wonder if these symbols are anything like my brand?",
       "Por": "Eu me pergunto se esses símbolos são algo como minha marca?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/holiday/dreidel/dreidel.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Joyful. A spinning top.",
+      "Por": "Alegre. Um pião."
     }
   },
   {

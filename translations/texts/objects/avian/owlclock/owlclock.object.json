@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/owlclock/owlclock.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amused. The eyes move each second.",
+      "Por": "Divertido. Os olhos se movem a cada segundo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/owlclock/owlclock.object": [
         "/novakidDescription"
       ]
     },
@@ -57,17 +69,6 @@
     "Texts": {
       "Eng": "Owl Wall Clock",
       "Por": "Owl Wall Clock"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avian/owlclock/owlclock.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The eyes move each second."
     }
   },
   {

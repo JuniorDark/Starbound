@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/techlab/techlab.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. What a complex electronic setup.",
+      "Por": "Curioso. Que instalação eletrônica complexa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/techlab/techlab.object": [
         "/shortdescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "This whole room is wired together.",
       "Por": "Esta sala toda está conectada."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/outpost/techlab/techlab.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "What a complex electronic setup."
     }
   },
   {

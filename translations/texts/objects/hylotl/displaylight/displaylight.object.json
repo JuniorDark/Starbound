@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/displaylight/displaylight.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Humbled. This light is diligently performing it's one purpose.",
+      "Por": "Humilhado. Esta luz esta diligentemente realizando seu propósito."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/displaylight/displaylight.object": [
         "/avianDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "It's a light, it's sole purpose is to point at that thing.",
       "Por": "É uma luz, seu único propósito é apontar para aquela coisa."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/hylotl/displaylight/displaylight.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This light is diligently performing it's one purpose."
     }
   },
   {

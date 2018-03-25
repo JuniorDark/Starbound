@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/number7/number7.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neutral. Seven.",
+      "Por": "Neutro. Sete."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/number7/number7.object": [
         "/shortdescription"
       ]
     },
@@ -41,7 +53,6 @@
       "objects/outpost/number7/number7.object": [
         "/apexDescription",
         "/avianDescription",
-        "/glitchDescription/glitchEmotedText",
         "/humanDescription",
         "/hylotlDescription"
       ]

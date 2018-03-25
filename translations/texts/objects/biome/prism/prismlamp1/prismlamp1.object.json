@@ -3,6 +3,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/prism/prismlamp1/prismlamp1.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. What is causing this glass shard to glow?",
+      "Por": "Curioso. O que está fazendo este caco de vidro brilhar?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/prism/prismlamp1/prismlamp1.object": [
         "/humanDescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "This crystalline lamp gives off a strange pink glow.",
       "Por": "Esta lâmpada cristalina emite um estranho brilho rosa."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/prism/prismlamp1/prismlamp1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "What is causing this glass shard to glow?"
     }
   }
 ]

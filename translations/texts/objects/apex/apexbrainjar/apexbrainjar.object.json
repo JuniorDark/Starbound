@@ -27,17 +27,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/apexbrainjar/apexbrainjar.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A real brain.."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/apex/apexbrainjar/apexbrainjar.object": [
         "/shortdescription"
       ]
     },
@@ -68,6 +57,18 @@
     "Texts": {
       "Eng": "Is that a... brain?",
       "Por": "Isso é um... cérebro?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/apexbrainjar/apexbrainjar.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Jealous. A real brain..",
+      "Por": "Inveja. Um cérebro verdadeiro."
     }
   },
   {

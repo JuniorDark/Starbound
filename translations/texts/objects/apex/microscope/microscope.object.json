@@ -63,6 +63,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/microscope/microscope.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mournful. The cells beneath this device are long-dead.",
+      "Por": "Triste. As células abaixo deste dispositivo estão mortas há muito tempo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/microscope/microscope.object": [
         "/floranDescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "The Avian have a similar device for peering into the distance with accuracy of a hawk.",
       "Por": "Os Avian tem um dispositivo similar para espiar a distância com a precisão de um falcão."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/apex/microscope/microscope.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The cells beneath this device are long-dead."
     }
   }
 ]

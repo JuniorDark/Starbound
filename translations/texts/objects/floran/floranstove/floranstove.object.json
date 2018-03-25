@@ -63,6 +63,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/floranstove/floranstove.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cautious. This stove doesn't look particularly hygienic.",
+      "Por": "Cauteloso. Este fogão não parece particularmente higiênico."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/floranstove/floranstove.object": [
         "/floranDescription"
       ]
     },
@@ -105,17 +117,6 @@
     "Texts": {
       "Eng": "The stove itself appears to be made of bone.",
       "Por": "O fogão em si parece ser feito de osso."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/floran/floranstove/floranstove.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This stove doesn't look particularly hygienic."
     }
   },
   {

@@ -87,23 +87,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/arttrophies/paintingshakespeare/paintingshakespeare.object": [
-        "/apexDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Remarkably similar to the great Apex poet.",
-      "Por": "Notavelmente semelhante ao grande poeta Apex."
+      "Eng": "Observant. This human's clothing would be accepted by the Glitch.",
+      "Por": "Observador. Essa roupa humana seria aceita pelos Glitch."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/arttrophies/paintingshakespeare/paintingshakespeare.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/apexDescription"
       ]
     },
     "Texts": {
-      "Eng": "This human's clothing would be accepted by the Glitch."
+      "Eng": "Remarkably similar to the great Apex poet.",
+      "Por": "Notavelmente semelhante ao grande poeta Apex."
     }
   }
 ]

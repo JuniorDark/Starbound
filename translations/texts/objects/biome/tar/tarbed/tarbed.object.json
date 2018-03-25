@@ -51,17 +51,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/tar/tarbed/tarbed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "My own simple bed."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/tar/tarbed/tarbed.object": [
         "/humanDescription"
       ]
     },
@@ -80,6 +69,18 @@
     "Texts": {
       "Eng": "One could easily give in to the stickiness of this bed and rest here too long.",
       "Por": "Pode-se ceder facilmente à viscosidade desta cama e descansar aqui por muito tempo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/tar/tarbed/tarbed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Proud. My own simple bed.",
+      "Por": "Orgulhoso. Minha própria cama simples."
     }
   },
   {

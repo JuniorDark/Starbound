@@ -19,8 +19,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Astro Monitor",
-      "Por": "Astro Monitor"
+      "Eng": "Astro Monitor"
     }
   },
   {
@@ -51,24 +50,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/space/astromonitor/astromonitor.object": [
-        "/floranDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Ssspace screen is making strange words.",
-      "Por": "Tela esspacial está fazendo palavras estranhas."
+      "Eng": "Interested. The information on this display could be important.",
+      "Por": "Interessado. A informação nesta tela pode ser importante."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/space/astromonitor/astromonitor.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/floranDescription"
       ]
     },
     "Texts": {
-      "Eng": "The information on this display could be important.",
-      "Por": "As informações nesta tela podem ser importantes."
+      "Eng": "Ssspace screen is making strange words.",
+      "Por": "Tela esspacial está fazendo palavras estranhas."
     }
   },
   {

@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/apexlamp1/apexlamp1.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cheerful. The Glitch enjoy light.",
+      "Por": "Alegre. Os Glitch gostam de luz."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/apexlamp1/apexlamp1.object": [
         "/avianDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "Standard Issue Lamp",
       "Por": "Standard Issue Lamp"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/apex/apexlamp1/apexlamp1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The Glitch enjoy light."
     }
   },
   {

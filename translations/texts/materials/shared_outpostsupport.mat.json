@@ -3,21 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/outpostsupport.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/outpostsupport.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A girder type commonly used in outpost construction.",
-      "Por": "Um tipo de viga comumente usado na construção de postos avançados."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/outpostsupport.matitem": [
         "/description"
       ],
       "tiles/materials/outpostsupport.material": [
@@ -42,6 +27,21 @@
     "Texts": {
       "Eng": "Looks t'me like a big metal beam.",
       "Por": "Me parece um grande viga de metal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/outpostsupport.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/outpostsupport.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. A girder type commonly used in outpost construction.",
+      "Por": "Atento. Um tipo de viga comumente usado na construção de postos avançados."
     }
   },
   {

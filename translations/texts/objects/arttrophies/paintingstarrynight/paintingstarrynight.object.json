@@ -75,17 +75,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/arttrophies/paintingstarrynight/paintingstarrynight.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Such expression alludes the Glitch, we are creatures of reason."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/arttrophies/paintingstarrynight/paintingstarrynight.object": [
         "/humanDescription"
       ]
     },
@@ -104,6 +93,18 @@
     "Texts": {
       "Eng": "Whoa, these swirls o' paint are makin' me dizzy.",
       "Por": "Uau, esses redemoinhos de tinta estão me deixando tonto."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/arttrophies/paintingstarrynight/paintingstarrynight.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wonderment. Such expression alludes the Glitch, we are creatures of reason.",
+      "Por": "Admiração. Tal expressão alude aos Glitch, somos criaturas de razão."
     }
   }
 ]

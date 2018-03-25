@@ -27,17 +27,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/prisonpaper3/prisonpaper3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A flyer for a study group. The concept of prisoners learning skills while locked up fills me with positivity."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/human/prisonpaper3/prisonpaper3.object": [
         "/hylotlDescription"
       ]
     },
@@ -104,6 +93,18 @@
     "Texts": {
       "Eng": "It appears prisoners were allowed to get an education, something the Miniknog specifically forbid.",
       "Por": "Parece que os prisioneiros foram autorizados a obter uma educação, algo que a Miniknog proíbe expressamente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisonpaper3/prisonpaper3.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Optimistic. A flyer for a study group. The concept of prisoners learning skills while locked up fills me with positivity.",
+      "Por": "Otimista. Um panfleto para um grupo de estudo. O conceito de prisioneiros aprendendo habilidades enquanto presos me enche de positividade."
     }
   }
 ]

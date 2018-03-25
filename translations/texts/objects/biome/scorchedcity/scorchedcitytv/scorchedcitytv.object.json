@@ -39,17 +39,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/scorchedcity/scorchedcitytv/scorchedcitytv.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A modern television."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/scorchedcity/scorchedcitytv/scorchedcitytv.object": [
         "/description"
       ]
     },
@@ -92,6 +81,18 @@
     "Texts": {
       "Eng": "Stylish TV",
       "Por": "Stylish TV"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/scorchedcity/scorchedcitytv/scorchedcitytv.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Surprised. A modern television.",
+      "Por": "Surpreso. Uma televisão moderna."
     }
   },
   {

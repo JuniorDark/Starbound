@@ -87,11 +87,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/outpostfridge/outpostfridge.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "This fridge smells unsanitary."
+      "Eng": "Wary. This fridge smells unsanitary.",
+      "Por": "Cauteloso. Esta geladeira cheira anti-higiênica."
     }
   },
   {

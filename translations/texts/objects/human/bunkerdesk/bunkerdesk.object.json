@@ -51,23 +51,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/bunkerdesk/bunkerdesk.object": [
-        "/floranDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Desssk with ssscreen sstuck to it.",
-      "Por": "Messsa com tela pressa a ela."
+      "Eng": "Cynical. Inbuilt electronics are often inferior to their separate counterparts. Except in the case of Glitch, of course.",
+      "Por": "Cínico. A eletrônica embutida é frequentemente inferior às suas contrapartes separadas. Exceto no caso dos Glitch, é claro."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/bunkerdesk/bunkerdesk.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/floranDescription"
       ]
     },
     "Texts": {
-      "Eng": "Inbuilt electronics are often inferior to their separate counterparts. Except in the case of Glitch, of course."
+      "Eng": "Desssk with ssscreen sstuck to it.",
+      "Por": "Messsa com tela pressa a ela."
     }
   },
   {

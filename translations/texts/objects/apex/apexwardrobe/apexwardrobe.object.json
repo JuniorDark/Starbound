@@ -63,17 +63,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/apexwardrobe/apexwardrobe.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Such furniture does nothing for the mind."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/apex/apexwardrobe/apexwardrobe.object": [
         "/apexDescription"
       ]
     },
@@ -92,6 +81,18 @@
     "Texts": {
       "Eng": "This wardrobe would be great for storing my skivvies.",
       "Por": "Este guarda-roupa seria ótimo para armazenar minhas roupas íntimas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/apexwardrobe/apexwardrobe.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Uninspired. Such furniture does nothing for the mind.",
+      "Por": "Sem inspiração. Esses móveis não fazem nada para a mente."
     }
   },
   {

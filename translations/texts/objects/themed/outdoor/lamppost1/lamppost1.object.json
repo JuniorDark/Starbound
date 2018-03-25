@@ -51,18 +51,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/themed/outdoor/lamppost1/lamppost1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A tall lamp post made from sturdy metal.",
-      "Por": "Um poste de luz alto feito de metal resistente."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/themed/outdoor/lamppost1/lamppost1.object": [
         "/novakidDescription"
       ]
     },
@@ -93,6 +81,18 @@
     "Texts": {
       "Eng": "Like a bright star shining in the sky.",
       "Por": "Como uma estrela brilhante brilhando no céu."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/outdoor/lamppost1/lamppost1.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Satisfied. A tall lamp post made from sturdy metal.",
+      "Por": "Satisfeito. Um poste de luz alto feito de metal resistente."
     }
   },
   {

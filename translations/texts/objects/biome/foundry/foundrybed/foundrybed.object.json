@@ -15,17 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/foundry/foundrybed/foundrybed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A heated bed does not have the same effect on Glitch as on organic beings."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/foundry/foundrybed/foundrybed.object": [
         "/hylotlDescription"
       ]
     },
@@ -80,6 +69,18 @@
     "Texts": {
       "Eng": "It's like a sunbed, but it gets pretty hot lying there.",
       "Por": "É como uma câmara de bronzeamento, mas fica muito quente deitar ali."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/foundry/foundrybed/foundrybed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Jealous. A heated bed does not have the same effect on Glitch as on organic beings.",
+      "Por": "Ciumento. Uma cama aquecida não tem o mesmo efeito em Glitch como em seres orgânicos."
     }
   },
   {

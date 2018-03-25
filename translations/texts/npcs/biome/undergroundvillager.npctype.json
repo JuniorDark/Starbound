@@ -87,18 +87,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/biome/undergroundvillager.npctype": [
-        "/scriptConfig/dialog/converse/glitch/default/2/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Greetings, are you planning on staying here a while?",
-      "Por": "Saudações, você está pensando em ficar aqui um tempo?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "npcs/biome/undergroundvillager.npctype": [
         "/scriptConfig/dialog/converse/hylotl/default/3"
       ]
     },
@@ -111,36 +99,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/biome/undergroundvillager.npctype": [
-        "/scriptConfig/dialog/converse/glitch/default/3/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "How did you manage to get down here? You must be brave.",
-      "Por": "Como você conseguiu descer aqui? Você deve ser corajoso."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "npcs/biome/undergroundvillager.npctype": [
         "/scriptConfig/dialog/converse/default/default/0"
       ]
     },
     "Texts": {
       "Eng": "I live underground! It's the best lifestyle.",
       "Por": "Eu vivo no subterrâneo! É o melhor estilo de vida."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "npcs/biome/undergroundvillager.npctype": [
-        "/scriptConfig/dialog/converse/glitch/default/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I was not expecting company down here.",
-      "Por": "Não esperava companhia aqui embaixo."
     }
   },
   {
@@ -165,6 +129,18 @@
     "Texts": {
       "Eng": "If I hide down here, my enemies won't find me...",
       "Por": "Se eu esconder aqui, meus inimigos não vão me encontrar..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/biome/undergroundvillager.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. How did you manage to get down here? You must be brave.",
+      "Por": "Impressionado. Como você conseguiu chegar até aqui? Você deve ser corajoso."
     }
   },
   {
@@ -207,12 +183,36 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/biome/undergroundvillager.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shocked. You are the first individual I have seen in some time.",
+      "Por": "Chocado. Você é a primeira pessoa que eu vejo em algum tempo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/biome/undergroundvillager.npctype": [
         "/scriptConfig/dialog/converse/floran/default/3"
       ]
     },
     "Texts": {
       "Eng": "Ssstranger! Floran not expecting company down here!",
       "Por": "Estranho! Floran não estava esperando companhia aqui em baixo!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/biome/undergroundvillager.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Surprised. I was not expecting company down here.",
+      "Por": "Surpreso. Eu não estava esperando companhia aqui em baixo."
     }
   },
   {
@@ -279,12 +279,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/biome/undergroundvillager.npctype": [
-        "/scriptConfig/dialog/converse/glitch/default/1/glitchEmotedText"
+        "/scriptConfig/dialog/converse/glitch/default/2"
       ]
     },
     "Texts": {
-      "Eng": "You are the first individual I have seen in some time.",
-      "Por": "Você é o primeiro indivíduo que eu vejo em algum tempo."
+      "Eng": "Welcoming. Greetings, are you planning on staying here a while?",
+      "Por": "Acolhedor. Saudações, você está pensando em ficar aqui por algum tempo?"
     }
   },
   {

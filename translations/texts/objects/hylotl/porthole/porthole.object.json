@@ -3,8 +3,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/porthole/porthole.object": [
-        "/apexDescription",
-        "/glitchDescription/glitchEmotedText"
+        "/apexDescription"
       ]
     },
     "Texts": {
@@ -34,6 +33,18 @@
     "Texts": {
       "Eng": "A round window.",
       "Por": "Uma janela redonda."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/porthole/porthole.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Indifferent. A porthole.",
+      "Por": "Indiferente. Uma vigia."
     }
   },
   {

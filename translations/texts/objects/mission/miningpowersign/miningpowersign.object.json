@@ -63,6 +63,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/miningpowersign/miningpowersign.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. This low power sign has two states.",
+      "Por": "Observador. Esta placa de baixa potência tem dois estados."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/miningpowersign/miningpowersign.object": [
         "/shortdescription"
       ]
     },

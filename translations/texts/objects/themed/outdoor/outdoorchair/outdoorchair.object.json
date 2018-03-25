@@ -3,8 +3,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/themed/outdoor/outdoorchair/outdoorchair.object": [
-        "/description",
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ]
     },
     "Texts": {
@@ -58,6 +57,18 @@
     "Texts": {
       "Eng": "An outdoor chair. For when you want to sit down outside.",
       "Por": "Uma cadeira ao ar livre. Para quando você quer se sentar lá fora."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/outdoor/outdoorchair/outdoorchair.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Comforted. A chair, built to endure the elements.",
+      "Por": "Consolado. Uma cadeira, construída para suportar os elementos."
     }
   },
   {

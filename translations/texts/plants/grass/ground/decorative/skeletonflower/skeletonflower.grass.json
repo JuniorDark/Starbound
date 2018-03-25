@@ -4,7 +4,6 @@
     "Files": {
       "plants/grass/ground/decorative/skeletonflower/skeletonflower.grass": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ]
     },
@@ -23,6 +22,18 @@
     "Texts": {
       "Eng": "Dead flowersss.",
       "Por": "Flores mortas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/skeletonflower/skeletonflower.grass": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. A skeletal flower.",
+      "Por": "Relatório. Uma flor básica."
     }
   }
 ]

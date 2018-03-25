@@ -48,6 +48,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/bambooplatform.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/platforms/bambooplatform.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hopeful. This bamboo platform is incredibly strong.",
+      "Por": "Esperançoso. Esta plataforma de bambu é incrivelmente forte."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/bambooplatform.matitem": [
         "/description"
       ],
       "tiles/platforms/bambooplatform.material": [
@@ -57,21 +72,6 @@
     "Texts": {
       "Eng": "Strong platforms fashioned from bamboo stalks.",
       "Por": "Plataformas fortes feitas de talos de bambu."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/bambooplatform.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/platforms/bambooplatform.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This bamboo platform is incredibly strong.",
-      "Por": "Esta plataforma de bambu é incrivelmente forte."
     }
   }
 ]

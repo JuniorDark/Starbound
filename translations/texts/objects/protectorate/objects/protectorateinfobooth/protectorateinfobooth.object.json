@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/protectorate/objects/protectorateinfobooth/protectorateinfobooth.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Appreciative. Mami at the info booth desk is lovely and helpful.",
+      "Por": "Sensibilizado. Mami no balcão da cabine de informações é adorável e útil."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/protectorate/objects/protectorateinfobooth/protectorateinfobooth.object": [
         "/chatOptions/13"
       ]
     },
@@ -117,17 +129,6 @@
     "Texts": {
       "Eng": "Info Booth",
       "Por": "Cabine de Informações"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/protectorate/objects/protectorateinfobooth/protectorateinfobooth.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Mami at the info booth desk is lovely and helpful."
     }
   },
   {

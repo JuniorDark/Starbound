@@ -27,23 +27,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/apexdesk/apexdesk.object": [
-        "/description"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Each of these desks has a coffee mug and lamp fused to its surface.",
-      "Por": "Cada um dessas escrivaninhas tem uma caneca de café e uma lâmpada presa em sua superfície."
+      "Eng": "Confused. Objects seem fused to the desk surface. They can't be removed.",
+      "Por": "Confuso. Objetos parecem presos na superfície da escrivaninha. Não podem ser removidos."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/apexdesk/apexdesk.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ]
     },
     "Texts": {
-      "Eng": "Objects seem fused to the desk surface. They can't be removed."
+      "Eng": "Each of these desks has a coffee mug and lamp fused to its surface.",
+      "Por": "Cada um dessas escrivaninhas tem uma caneca de café e uma lâmpada presa em sua superfície."
     }
   },
   {

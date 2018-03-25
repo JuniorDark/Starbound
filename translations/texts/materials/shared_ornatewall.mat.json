@@ -33,6 +33,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/ornatewall.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/ornatewall.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Perceptive. This wall is subtly decorated in a traditional method.",
+      "Por": "Perceptivo. Esta parede é sutilmente decorada em um método tradicional."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ornatewall.matitem": [
         "/novakiddescription"
       ],
       "tiles/materials/ornatewall.material": [
@@ -42,21 +57,6 @@
     "Texts": {
       "Eng": "This is a real fancy lookin' wall.",
       "Por": "Esta é uma parede realmente chique."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/ornatewall.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/ornatewall.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This wall is subtly decorated in a traditional method.",
-      "Por": "Esta parede é sutilmente decorada em um método tradicional."
     }
   },
   {

@@ -39,17 +39,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/infinityexpress/infinityexpress.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A merchant of some sort."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/outpost/infinityexpress/infinityexpress.object": [
         "/apexDescription"
       ]
     },
@@ -128,6 +117,18 @@
     "Texts": {
       "Eng": "Infinity Express",
       "Por": "Infinity Express"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/infinityexpress/infinityexpress.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Interested. A merchant of some sort.",
+      "Por": "Interessado. Um comerciante de algum tipo."
     }
   }
 ]

@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/huntingrail2/huntingrail2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Concerned. This railing looks sharp.",
+      "Por": "Preocupado. Esta grade parece afiada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/huntingrail2/huntingrail2.object": [
         "/shortdescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "This railin' don't look good for leanin' on.",
       "Por": "Esta grade não parece boa para se apoiar."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/floran/huntingrail2/huntingrail2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This railing looks sharp."
     }
   },
   {

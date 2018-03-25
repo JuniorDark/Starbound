@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/ironbed/ironbed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A comfortable iron bed. The Glitch can rest easily here."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/ironbed/ironbed.object": [
         "/hylotlDescription"
       ]
     },
@@ -56,6 +45,18 @@
     "Texts": {
       "Eng": "Bed is sssharp and full of ssspikey.",
       "Por": "Cama é afiada e cheia de espinho."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/ironbed/ironbed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bliss. A comfortable iron bed. The Glitch can rest easily here.",
+      "Por": "Felicidade. Uma confortável cama de ferro. Os Glitch podem descansar facilmente aqui."
     }
   },
   {

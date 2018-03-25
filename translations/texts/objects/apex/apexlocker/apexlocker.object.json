@@ -39,23 +39,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/apexlocker/apexlocker.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Any items of interest inside?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/apex/apexlocker/apexlocker.object": [
         "/avianDescription"
       ]
     },
     "Texts": {
       "Eng": "Could there be anything of value within?",
       "Por": "Será que tem algo de valor dentro?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/apexlocker/apexlocker.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excited. Any items of interest inside?",
+      "Por": "Animado. Algum item interessante dentro?"
     }
   },
   {

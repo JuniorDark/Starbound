@@ -3,6 +3,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/wired/proximitysensor/proximitysensor.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cautious. A proximity sensor.",
+      "Por": "Cauteloso. Um sensor de proximidade."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/proximitysensor/proximitysensor.object": [
         "/floranDescription"
       ]
     },

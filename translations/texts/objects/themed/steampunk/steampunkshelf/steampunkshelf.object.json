@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/themed/steampunk/steampunkshelf/steampunkshelf.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. The pipes have been arranged to hold up shelves.",
+      "Por": "Impressionado. Os canos foram arranjados para segurar as prateleiras."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/steampunk/steampunkshelf/steampunkshelf.object": [
         "/apexDescription"
       ]
     },
@@ -57,18 +69,6 @@
     "Texts": {
       "Eng": "Steampunk Shelf",
       "Por": "Steampunk Shelf"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/themed/steampunk/steampunkshelf/steampunkshelf.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The pipes have been arranged to hold up shelves.",
-      "Por": "Os canos foram arranjados para segurar as prateleiras."
     }
   },
   {

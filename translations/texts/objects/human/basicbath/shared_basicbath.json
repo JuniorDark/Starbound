@@ -78,20 +78,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/basicbath/basicbath.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/human/basicbath/basicbathdripping.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Glitch do not need to take baths."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/human/basicbath/basicbath.object": [
         "/novakidDescription"
       ],
       "objects/human/basicbath/basicbathdripping.object": [
@@ -101,6 +87,21 @@
     "Texts": {
       "Eng": "I do enjoy a hot bath every once in a while.",
       "Por": "Eu gosto de um banho quente de vez em quando."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/basicbath/basicbath.object": [
+        "/glitchDescription"
+      ],
+      "objects/human/basicbath/basicbathdripping.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Smug. Glitch do not need to take baths.",
+      "Por": "Presunçoso. Glitchs não precisam tomar banhos."
     }
   }
 ]

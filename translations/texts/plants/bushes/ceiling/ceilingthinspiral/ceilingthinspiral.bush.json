@@ -15,8 +15,19 @@
     "DeniedAlternatives": [],
     "Files": {
       "plants/bushes/ceiling/ceilingthinspiral/ceilingthinspiral.bush": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. Thin spiral rock.",
+      "Por": "Relatório. Uma pedra em espiral fina."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ceiling/ceilingthinspiral/ceilingthinspiral.bush": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ]
     },

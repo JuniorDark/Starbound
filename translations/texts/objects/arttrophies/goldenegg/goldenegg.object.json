@@ -87,23 +87,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/arttrophies/goldenegg/goldenegg.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Such a beautiful egg would fetch quite a price."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/arttrophies/goldenegg/goldenegg.object": [
         "/avianDescription"
       ]
     },
     "Texts": {
       "Eng": "The legends are true! What a beautiful sight to behold.",
       "Por": "As lendas são verdadeiras! Que belo espetáculo de ser visto."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/arttrophies/goldenegg/goldenegg.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wonderment. Such a beautiful egg would fetch quite a price.",
+      "Por": "Maravilhado. Um ovo tão bonito iria valer um bom preço."
     }
   }
 ]

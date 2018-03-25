@@ -63,20 +63,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/diodia/diodiaseed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/farmables/diodia/wilddiodiaseed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Diodia are truly an under-appreciated vegetable."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/farmables/diodia/diodiaseed.object": [
         "/apexDescription"
       ],
       "objects/farmables/diodia/wilddiodiaseed.object": [
@@ -101,6 +87,21 @@
     "Texts": {
       "Eng": "Diodia, a soft root vegetable with a coppery taste.",
       "Por": "Diodia, um vegetal de raiz macia com um gosto de cobre."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/diodia/diodiaseed.object": [
+        "/glitchDescription"
+      ],
+      "objects/farmables/diodia/wilddiodiaseed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Insulted. Diodia are truly an under-appreciated vegetable.",
+      "Por": "Insultado. Diodia é um vegetal tão subestimado..."
     }
   },
   {

@@ -18,6 +18,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/ledgebrick.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/ledgebrick.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Delighted. This stone has a small carved ledge.",
+      "Por": "Encantado. Esta pedra tem uma pequena saliência esculpida."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ledgebrick.matitem": [
         "/shortdescription"
       ],
       "tiles/materials/ledgebrick.material": [
@@ -42,21 +57,6 @@
     "Texts": {
       "Eng": "Stone stepped bricks with a small ledge.",
       "Por": "Tijolos de pedra com uma pequena saliência."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/ledgebrick.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/ledgebrick.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This stone has a small carved ledge.",
-      "Por": "Esta pedra tem uma pequena saliência esculpida."
     }
   }
 ]

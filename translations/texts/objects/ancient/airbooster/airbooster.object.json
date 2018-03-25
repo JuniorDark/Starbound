@@ -15,18 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/ancient/airbooster/airbooster.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "An air vent, it seems safe enough.",
-      "Por": "Uma saída de ar, parece bastante seguro."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/ancient/airbooster/airbooster.object": [
         "/hylotlDescription"
       ]
     },
@@ -45,6 +33,18 @@
     "Texts": {
       "Eng": "Give me a gravity boost!",
       "Por": "Me da um impulso gravitacional!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/airbooster/airbooster.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Quizzical. An air vent, it seems safe enough.",
+      "Por": "Interrogativo. Um respiradouro de ar, parece bastante seguro."
     }
   },
   {

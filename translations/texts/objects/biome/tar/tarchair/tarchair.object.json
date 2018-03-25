@@ -15,17 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/tar/tarchair/tarchair.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "An uncomfortable seating experience is not restful."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/tar/tarchair/tarchair.object": [
         "/hylotlDescription"
       ]
     },
@@ -104,6 +93,18 @@
     "Texts": {
       "Eng": "This chair has one sticky surface. That just ain't right.",
       "Por": "Esta cadeira tem uma superfície pegajosa. Isso simplesmente não está certo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/tar/tarchair/tarchair.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unsatisfied. An uncomfortable seating experience is not restful.",
+      "Por": "Insatisfeito. Uma experiência de assento desconfortável não é repousante."
     }
   }
 ]

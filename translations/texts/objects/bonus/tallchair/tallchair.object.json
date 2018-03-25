@@ -75,6 +75,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/bonus/tallchair/tallchair.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Puzzled. Who needs a chair this tall?",
+      "Por": "Perplexo. Quem precisa de uma cadeira tão alta?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/bonus/tallchair/tallchair.object": [
         "/shortdescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "What a ludicrously designed chair.",
       "Por": "Que cadeira ridiculamente projetada."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/bonus/tallchair/tallchair.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Who needs a chair this tall?"
     }
   }
 ]

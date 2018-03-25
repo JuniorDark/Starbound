@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/medievalstreetlamp/medievalstreetlamp.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A helpful street lamp. Unlit streets are best avoided at night."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/glitch/medievalstreetlamp/medievalstreetlamp.object": [
         "/novakidDescription"
       ]
     },
@@ -92,6 +81,18 @@
     "Texts": {
       "Eng": "Medieval Street Lamp",
       "Por": "Medieval Street Lamp"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/medievalstreetlamp/medievalstreetlamp.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased. A helpful street lamp. Unlit streets are best avoided at night.",
+      "Por": "Satisfeito. Uma lâmpada de rua útil. Ruas sem iluminação devem ser evitadas durante a noite."
     }
   },
   {

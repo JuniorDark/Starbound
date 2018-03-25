@@ -51,23 +51,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/medievalplate/medievalplate.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A simple clay plate."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/glitch/medievalplate/medievalplate.object": [
         "/humanDescription"
       ]
     },
     "Texts": {
       "Eng": "A very simple pottery plate.",
       "Por": "Uma prato de cerâmica muito simples."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/medievalplate/medievalplate.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Humbled. A simple clay plate.",
+      "Por": "Humilhado. Um prato de argila simples."
     }
   },
   {

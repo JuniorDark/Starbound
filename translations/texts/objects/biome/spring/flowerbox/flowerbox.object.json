@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/spring/flowerbox/flowerbox.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. It might be a Floran bed.",
+      "Por": "Curioso. Isso pode ser uma cama Floran."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/spring/flowerbox/flowerbox.object": [
         "/floranDescription"
       ]
     },
@@ -57,17 +69,6 @@
     "Texts": {
       "Eng": "In a sticky situation, one might use this flower box as a hidin' place.",
       "Por": "Em uma situação complicada, poderia usar esta caixa de flor como um esconderijo."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/spring/flowerbox/flowerbox.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "It might be a Floran bed."
     }
   },
   {

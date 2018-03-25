@@ -63,6 +63,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/chestmedavian2/chestmedavian2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eager. No time to waste, there may be valuables inside!",
+      "Por": "Ansioso. Sem tempo a perder, pode haver objetos de valor dentro!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/chestmedavian2/chestmedavian2.object": [
         "/novakidDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "Large Old Chest",
       "Por": "Large Old Chest"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avian/chestmedavian2/chestmedavian2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "No time to waste, there may be valuables inside!"
     }
   },
   {

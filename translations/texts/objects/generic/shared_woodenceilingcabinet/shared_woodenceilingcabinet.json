@@ -63,14 +63,15 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/woodenceilingcabinet1/woodenceilingcabinet1.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/generic/woodenceilingcabinet2/woodenceilingcabinet2.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Suspended storage. Useful."
+      "Eng": "Optimistic. Suspended storage. Useful.",
+      "Por": "Otimista. Armazenamento suspenso. Útil."
     }
   },
   {

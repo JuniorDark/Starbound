@@ -39,12 +39,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/spawner/spawners/spawner_wizard.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mistrust. The Glitch are not fond of magic.",
+      "Por": "Desconfiança. O Glitch não gosta de magia."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/spawner/spawners/spawner_wizard.object": [
         "/description"
       ]
     },
     "Texts": {
       "Eng": "Spawn your very own wizard!",
-      "Por": "Spawne seu próprio mago!\n"
+      "Por": "Spawne seu próprio mago!\r\n"
     }
   },
   {
@@ -63,24 +75,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/spawner/spawners/spawner_wizard.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The Glitch are not fond of magic.",
-      "Por": "Os Glitch não gostam de magia."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/spawner/spawners/spawner_wizard.object": [
         "/hylotlDescription"
       ]
     },
     "Texts": {
       "Eng": "Will this spawn a wizard, or yet another charlatan?",
-      "Por": "Será que isso gerará um feiticeiro, ou outro charlatão?\n"
+      "Por": "Será que isso gerará um feiticeiro, ou outro charlatão?\r\n"
     }
   },
   {
@@ -92,7 +92,7 @@
     },
     "Texts": {
       "Eng": "Wizard Spawner",
-      "Por": "Wizard Spawner\n"
+      "Por": "Wizard Spawner\r\n"
     }
   }
 ]

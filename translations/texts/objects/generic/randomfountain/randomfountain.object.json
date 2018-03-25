@@ -27,8 +27,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/randomfountain/randomfountain.object": [
-        "/avianDescription",
-        "/glitchDescription/glitchEmotedText"
+        "/avianDescription"
       ]
     },
     "Texts": {
@@ -58,6 +57,18 @@
     "Texts": {
       "Eng": "Floran drink from sssplashy thing.",
       "Por": "Uma fonte!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/randomfountain/randomfountain.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hesitant. A fountain.",
+      "Por": "Hesitante. Uma fonte."
     }
   },
   {

@@ -63,6 +63,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/protectorate/objects/protectorateguidelines/protectorateguidelines.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. This book is well preserved.",
+      "Por": "Impressionado. Este livro está bem preservado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/protectorate/objects/protectorateguidelines/protectorateguidelines.object": [
         "/shortdescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "This book contains the original, slightly outdated, guidelines for being a Protector.",
       "Por": "Este livro contém as diretrizes originais, ligeiramente desatualizadas, para ser um Protetor."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/protectorate/objects/protectorateguidelines/protectorateguidelines.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This book is well preserved."
     }
   }
 ]

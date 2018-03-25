@@ -75,17 +75,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/toxicplains/toxicchair/toxicchair.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The thorns on this chair are poisonous to at least forty three different species."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/toxicplains/toxicchair/toxicchair.object": [
         "/apexDescription"
       ]
     },
@@ -104,6 +93,18 @@
     "Texts": {
       "Eng": "Toxic Chair",
       "Por": "Toxic Chair"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/toxicplains/toxicchair/toxicchair.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Worried. The thorns on this chair are poisonous to at least forty three different species.",
+      "Por": "Preocupado. Os espinhos nesta cadeira são venenosos para pelo menos quarenta e três espécies diferentes."
     }
   }
 ]

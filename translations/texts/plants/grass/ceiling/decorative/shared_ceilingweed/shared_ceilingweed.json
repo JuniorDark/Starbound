@@ -3,13 +3,26 @@
     "DeniedAlternatives": [],
     "Files": {
       "plants/grass/ceiling/decorative/ceilingweeds/ceilingweeds.grass": [
+        "/glitchDescription"
+      ],
+      "plants/grass/ceiling/decorative/ceilingweedy/ceilingweedy.grass": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. Weeds.",
+      "Por": "Relatório. Ervas daninhas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ceiling/decorative/ceilingweeds/ceilingweeds.grass": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ],
       "plants/grass/ceiling/decorative/ceilingweedy/ceilingweedy.grass": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ]
     },

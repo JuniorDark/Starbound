@@ -18,6 +18,23 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/holiday/smallholidaytree/smallholidaytree.object": [
+        "/glitchDescription"
+      ],
+      "objects/holiday/undecoratedtree/undecoratedtree.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disappointed. This synthetic tree lacks decoration.",
+      "Por": "Desapontado. Esta árvore sintética carece de decoração."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "É uma pena que seja sintética, ainda me lembro do cheiro de pinheiros reais."
+    ],
+    "Files": {
+      "objects/holiday/smallholidaytree/smallholidaytree.object": [
         "/humanDescription"
       ],
       "objects/holiday/undecoratedtree/undecoratedtree.object": [
@@ -72,20 +89,6 @@
     "Texts": {
       "Eng": "Not sssparkly tree. Just tree.",
       "Por": "Não é árvore brilhante. Só árvore."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/holiday/smallholidaytree/smallholidaytree.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/holiday/undecoratedtree/undecoratedtree.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This synthetic tree lacks decoration."
     }
   },
   {

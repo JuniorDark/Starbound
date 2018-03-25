@@ -18,6 +18,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/plantblock.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/plantblock.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fascinated. This block is completely constructed from plant matter.",
+      "Por": "Fascinado. Este bloco é completamente construído a partir de matéria vegetal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/plantblock.matitem": [
         "/florandescription"
       ],
       "tiles/materials/plantblock.material": [
@@ -57,21 +72,6 @@
     "Texts": {
       "Eng": "Plant Block",
       "Por": "Plant Block"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/plantblock.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/plantblock.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This block is completely constructed from plant matter.",
-      "Por": "Este bloco é completamente construído a partir de matéria vegetal."
     }
   }
 ]

@@ -15,18 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/themed/farm/kitchentable/kitchentable.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A solid kitchen table that would look at home in any village.",
-      "Por": "Uma mesa de cozinha sólida que ficaria bem em qualquer casa."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/themed/farm/kitchentable/kitchentable.object": [
         "/novakidDescription"
       ]
     },
@@ -69,6 +57,18 @@
     "Texts": {
       "Eng": "No frills, just a well-made kitchen table.",
       "Por": "Sem frescura, apenas uma mesa de cozinha bem feita."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/farm/kitchentable/kitchentable.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. A solid kitchen table that would look at home in any village.",
+      "Por": "Atento. A mesa da cozinha sólida que ficaria bem em qualquer casa."
     }
   },
   {

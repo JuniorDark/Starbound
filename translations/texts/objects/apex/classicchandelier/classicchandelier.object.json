@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/classicchandelier/classicchandelier.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Admiration. These appear to be similar to Glitch chandeliers, but much improved.",
+      "Por": "Admiração. Estes parecem ser semelhantes aos lustres Glitch, mas muito melhorados."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/classicchandelier/classicchandelier.object": [
         "/humanDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "Perhaps others are more elegant than I thought.",
       "Por": "Talvez outros sejam mais elegantes do que eu pensava."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/apex/classicchandelier/classicchandelier.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "These appear to be similar to Glitch chandeliers, but much improved."
     }
   },
   {

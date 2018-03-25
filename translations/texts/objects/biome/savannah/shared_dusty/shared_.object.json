@@ -1,16 +1,19 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Confuso. Esta mobiliá está destinada a parecer tão bagunçada?"
+    ],
     "Files": {
       "objects/biome/savannah/dustybed/dustybed.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/biome/savannah/dustychair/dustychair.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Is this furniture meant to look this dishevelled?"
+      "Eng": "Confused. Is this furniture meant to look this dishevelled?",
+      "Por": "Confuso. Esta mobiliá está destinada a parecer tão arruinada?"
     }
   },
   {

@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/bioluminescence/glowflowerlamp/glowflowerlamp.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Engrossed. The light of this lamp is intoxicating.",
+      "Por": "Absorto. A luz desta lâmpada é intoxicante."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/bioluminescence/glowflowerlamp/glowflowerlamp.object": [
         "/floranDescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "The glow of this light reminds me of an Apex experiment, but less creepy.",
       "Por": "O brilho desta luz me lembra de uma experiência Apex, mas menos assustadora."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/bioluminescence/glowflowerlamp/glowflowerlamp.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The light of this lamp is intoxicating."
     }
   },
   {

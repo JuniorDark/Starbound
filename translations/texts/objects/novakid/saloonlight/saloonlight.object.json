@@ -15,23 +15,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/novakid/saloonlight/saloonlight.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Although this lamp is overtly designed to use flammable gas, the light source is electric."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/novakid/saloonlight/saloonlight.object": [
         "/description"
       ]
     },
     "Texts": {
       "Eng": "An electric wall sconce.",
       "Por": "Uma arandela de parede elétrica."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/novakid/saloonlight/saloonlight.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Confused. Although this lamp is overtly designed to use flammable gas, the light source is electric.",
+      "Por": "Confuso. Embora esta lâmpada esteja abertamente projetada para usar gás inflamável, a fonte de luz é elétrica."
     }
   },
   {

@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/plantdoor2/plantdoor2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intrigued. This wooden gate is remarkably sturdy.",
+      "Por": "Intrigado. Este portão de madeira é notavelmente resistente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/plantdoor2/plantdoor2.object": [
         "/shortdescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "This retractable gate is very strong.",
       "Por": "Este portão retrátil é muito forte."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/floran/plantdoor2/plantdoor2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This wooden gate is remarkably sturdy."
     }
   },
   {

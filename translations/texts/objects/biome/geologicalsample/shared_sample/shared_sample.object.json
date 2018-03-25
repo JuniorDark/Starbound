@@ -30,32 +30,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/geologicalsample/geodebluesample/geodebluesample.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/geologicalsample/geodegreensample/geodegreensample.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/geologicalsample/geodeorangesample/geodeorangesample.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/geologicalsample/geodepurplesample/geodepurplesample.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/geologicalsample/geoderedsample/geoderedsample.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/geologicalsample/geodeyellowsample/geodeyellowsample.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Ah, a lovely geode!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/geologicalsample/geodebluesample/geodebluesample.object": [
         "/humanDescription"
       ],
       "objects/biome/geologicalsample/geodegreensample/geodegreensample.object": [
@@ -131,6 +105,33 @@
     "Texts": {
       "Eng": "Geodes keep lovely secrets on the inside.",
       "Por": "Geodos guardam segredos lindos no interior."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/geologicalsample/geodebluesample/geodebluesample.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/geologicalsample/geodegreensample/geodegreensample.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/geologicalsample/geodeorangesample/geodeorangesample.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/geologicalsample/geodepurplesample/geodepurplesample.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/geologicalsample/geoderedsample/geoderedsample.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/geologicalsample/geodeyellowsample/geodeyellowsample.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased. Ah, a lovely geode!",
+      "Por": "Satisfeito. Ah, um lindo geodo!"
     }
   },
   {

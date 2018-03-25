@@ -123,15 +123,15 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/tiered/tier1chair/tier1chair.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/tiered/tier2chair/tier2chair.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "This chair is perfectly comfortable for the Glitch.",
-      "Por": "Esta cadeira é perfeitamente confortável para os Glitch."
+      "Eng": "Relaxed. This chair is perfectly comfortable for the Glitch.",
+      "Por": "Relaxado. Esta cadeira é perfeitamente confortável para o Glitch."
     }
   },
   {

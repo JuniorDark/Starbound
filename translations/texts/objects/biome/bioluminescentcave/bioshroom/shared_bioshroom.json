@@ -75,6 +75,30 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/bioluminescentcave/bioshroom/bioshroom1.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/bioluminescentcave/bioshroom/bioshroom2.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/bioluminescentcave/bioshroom/bioshroom3.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/bioluminescentcave/bioshroom/bioshroom4.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/bioluminescentcave/bioshroom/bioshroom5.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased. These glowing mushrooms provide much welcome natural light.",
+      "Por": "Satisfeito. Estes cogumelos brilhantes fornecem luz natural muito bem-vinda."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/bioluminescentcave/bioshroom/bioshroom1.object": [
         "/apexDescription"
       ],
       "objects/biome/bioluminescentcave/bioshroom/bioshroom2.object": [
@@ -141,29 +165,6 @@
     "Texts": {
       "Eng": "These glowing mushrooms are adorable!",
       "Por": "Estes cogumelos brilhantes são adoráveis!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/bioluminescentcave/bioshroom/bioshroom1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/bioluminescentcave/bioshroom/bioshroom2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/bioluminescentcave/bioshroom/bioshroom3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/bioluminescentcave/bioshroom/bioshroom4.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/bioluminescentcave/bioshroom/bioshroom5.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "These glowing mushrooms provide much welcome natural light."
     }
   },
   {

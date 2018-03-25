@@ -63,6 +63,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/rainbowwood/rainbowwooddoor/rainbowwooddoor.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. This is a brightly coloured door.",
+      "Por": "Observador. Esta é uma porta de cores vivas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/rainbowwood/rainbowwooddoor/rainbowwooddoor.object": [
         "/shortdescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "This door sure is welcoming.",
       "Por": "Esta porta é bem acolhedora."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/rainbowwood/rainbowwooddoor/rainbowwooddoor.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This is a brightly coloured door."
     }
   },
   {

@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/tribaltable/tribaltable.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Appreciative. The decoration on this table is complex.",
+      "Por": "Apreciativo. A decoração nesta mesa é complexa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/tribaltable/tribaltable.object": [
         "/shortdescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "It looks like an entire family may have helped to decorate this table.",
       "Por": "Parece que uma família inteira pode ter ajudado a decorar esta mesa."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avian/tribaltable/tribaltable.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The decoration on this table is complex."
     }
   },
   {

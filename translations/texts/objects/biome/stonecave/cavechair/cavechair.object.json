@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/stonecave/cavechair/cavechair.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Contemplative. Where is the line between a rock and a chair?",
+      "Por": "Contemplativo. Onde está a linha entre uma pedra e uma cadeira?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/stonecave/cavechair/cavechair.object": [
         "/floranDescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "Rock Chair",
       "Por": "Rock Chair"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/stonecave/cavechair/cavechair.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Where is the line between a rock and a chair?"
     }
   }
 ]

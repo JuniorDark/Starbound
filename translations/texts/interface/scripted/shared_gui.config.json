@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "0/ --"
+    ],
     "Files": {
       "interface/scripted/ancientconsole/ancientconsolegui.config": [
         "/gui/costLabel/value"

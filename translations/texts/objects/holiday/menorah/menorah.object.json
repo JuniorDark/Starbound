@@ -15,17 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/holiday/menorah/menorah.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A menorah."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/holiday/menorah/menorah.object": [
         "/description"
       ]
     },
@@ -68,6 +57,18 @@
     "Texts": {
       "Eng": "Menorah",
       "Por": "Menorah"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/holiday/menorah/menorah.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. A menorah.",
+      "Por": "Declaração. Uma Menorá."
     }
   },
   {

@@ -63,11 +63,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/prisonpanel/prisonpanel.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Seems guards have to perform checks to ensure prisoners are actually human. Surely this mistake isn't common?"
+      "Eng": "Sceptical. Seems guards have to perform checks to ensure prisoners are actually human. Surely this mistake isn't common?",
+      "Por": "Cético. Parece que os guardas têm que realizar verificações para garantir que os prisioneiros sejam humanos. Certamente esse erro não é comum?"
     }
   },
   {

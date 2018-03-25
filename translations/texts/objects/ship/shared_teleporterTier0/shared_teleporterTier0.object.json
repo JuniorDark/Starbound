@@ -3,30 +3,30 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/ship/avianteleporterTier0/avianteleporterTier0.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/ship/floranteleporterTier0/floranteleporterTier0.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/ship/glitchteleporterTier0/glitchteleporterTier0.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/ship/humanteleporterTier0/humanteleporterTier0.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/ship/hylotlteleporterTier0/hylotlteleporterTier0.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/ship/novakidteleporterTier0/novakidteleporterTier0.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/ship/teleporterTier0/teleporterTier0.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "A teleporter without power. I need to power it up.",
-      "Por": "Um teletransportador sem energia. Preciso energiza-lo."
+      "Eng": "Disappointed. A teleporter without power. I need to power it up.",
+      "Por": "Desapontado. Um teletransportador sem energia. Preciso energizá-lo."
     }
   },
   {
@@ -56,7 +56,7 @@
     },
     "Texts": {
       "Eng": "Ship teleporter. This one dead.",
-      "Por": "Teletransportador da nave. Este esta morto."
+      "Por": "Teletransportador de nave. Este esta morto."
     }
   },
   {
@@ -86,7 +86,7 @@
     },
     "Texts": {
       "Eng": "Ship's teleporter. I need to power her up!",
-      "Por": "Teletransportador da nave. Preciso energizá-lo!"
+      "Por": "Teletransportador de nave. Preciso energizá-lo!"
     }
   },
   {
@@ -116,7 +116,7 @@
     },
     "Texts": {
       "Eng": "The ship's teleporter. I need to power it up.",
-      "Por": "O teletransportador da nave. Preciso energizá-lo."
+      "Por": "O teletransportador do nave. Preciso energizá-lo."
     }
   },
   {
@@ -146,7 +146,7 @@
     },
     "Texts": {
       "Eng": "The teleporter! If only this one was powered up.",
-      "Por": "O teletransportador! Se este estivesse energizado."
+      "Por": "O teletransportador! Se este estivesse ligado."
     }
   },
   {
@@ -176,7 +176,7 @@
     },
     "Texts": {
       "Eng": "The teleporter! Too bad it isn't powered up.",
-      "Por": "O teletransportador! Pena que não está energizado."
+      "Por": "O teletransportador! Pena que não está ligado."
     }
   },
   {

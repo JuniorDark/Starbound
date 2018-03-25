@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/outpostsmallmonitor/outpostsmallmonitor.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frustrated. I cannot make out what is written on this monitor.",
+      "Por": "Frustrado. Não consigo entender o que está escrito neste monitor."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostsmallmonitor/outpostsmallmonitor.object": [
         "/novakidDescription"
       ]
     },
@@ -45,17 +57,6 @@
     "Texts": {
       "Eng": "I can't read this.",
       "Por": "Eu não consigo ler isto."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/outpost/outpostsmallmonitor/outpostsmallmonitor.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I cannot make out what is written on this monitor."
     }
   },
   {

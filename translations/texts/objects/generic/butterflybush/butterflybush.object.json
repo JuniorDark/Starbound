@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/butterflybush/butterflybush.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Interested. The biology of this bush must attract these bugs somehow.",
+      "Por": "Interessado. A biologia deste arbusto deve atrair esses insetos de alguma forma."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/butterflybush/butterflybush.object": [
         "/description"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "Some of these bugs are pretty, I should catch some in a jar.",
       "Por": "Alguns desses insetos são bonitos, eu deveria colocar alguns em um frasco."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/butterflybush/butterflybush.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The biology of this bush must attract these bugs somehow."
     }
   },
   {

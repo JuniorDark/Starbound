@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/scorchedcity/scorchedcitybrokentraficlights/scorchedcitybrokentraficlights.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alarmed. These traffic lights are completely broken.",
+      "Por": "Alarmado. Esses semáforos estão completamente quebrados."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/scorchedcity/scorchedcitybrokentraficlights/scorchedcitybrokentraficlights.object": [
         "/shortdescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "These broken traffic lights have ceased to be useful.",
       "Por": "Esses semáforos quebrados deixaram de ser úteis."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/scorchedcity/scorchedcitybrokentraficlights/scorchedcitybrokentraficlights.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "These traffic lights are completely broken."
     }
   }
 ]

@@ -1,38 +1,42 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Declaração. Um arbusto do mar.",
+      "Relatório. Arbusto do mar.",
+      "Relatório. Um arbusto do mar."
+    ],
     "Files": {
       "plants/bushes/groundocean/seabush/cone.bush": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "plants/bushes/groundocean/seabush/coral.bush": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "plants/bushes/groundocean/seabush/oshroom.bush": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "plants/bushes/groundocean/seabush/seagrass.bush": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "plants/bushes/groundocean/seabush/seaweed.bush": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "plants/bushes/groundocean/toxicseabush/toxiccone.bush": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "plants/bushes/groundocean/toxicseabush/toxiccoral.bush": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "plants/bushes/groundocean/toxicseabush/toxicoshroom.bush": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "plants/bushes/groundocean/toxicseabush/toxicseagrass.bush": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Sea bush.",
-      "Por": "Arbusto do mar."
+      "Eng": "Statement. Sea bush.",
+      "Por": "Afirmação. Arbusto do mar."
     }
   }
 ]

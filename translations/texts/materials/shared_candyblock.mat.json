@@ -48,6 +48,23 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/candyblock.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/candyblock.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Delighted. This appears to be a giant piece of hard candy.",
+      "Por": "Encantado. Isto parece ser um pedaço gigante de bala."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Uma pedra com cheiro de doce!"
+    ],
+    "Files": {
+      "items/materials/candyblock.matitem": [
         "/description"
       ],
       "tiles/materials/candyblock.material": [
@@ -57,21 +74,6 @@
     "Texts": {
       "Eng": "Sweet-smelling rock candy!",
       "Por": "Pedra com cheiro de doce!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/candyblock.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/candyblock.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This appears to be a giant piece of hard candy.",
-      "Por": "Este parece ser um pedaço gigante de doce duro."
     }
   }
 ]

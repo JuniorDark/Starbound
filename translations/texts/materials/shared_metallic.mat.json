@@ -33,6 +33,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/metallic.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/metallic.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Interested. The technology within these blocks is unknown to me.",
+      "Por": "Interessado. A tecnologia dentro desses blocos é desconhecida para mim."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/metallic.matitem": [
         "/novakiddescription"
       ],
       "tiles/materials/metallic.material": [
@@ -42,21 +57,6 @@
     "Texts": {
       "Eng": "Some flashy lookin' hi-tech blocks.",
       "Por": "Alguns blocos de alta tecnologia chamativos."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/metallic.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/metallic.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The technology within these blocks is unknown to me.",
-      "Por": "A tecnologia dentro desses blocos é desconhecida para mim."
     }
   },
   {

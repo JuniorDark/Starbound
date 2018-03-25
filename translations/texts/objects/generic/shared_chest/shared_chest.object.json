@@ -3,14 +3,15 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/podchest/podchest.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/generic/weaponchest/weaponchest.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "No time to waste, open it up!"
+      "Eng": "Eager. No time to waste, open it up!",
+      "Por": "Ansioso. Sem tempo a perder, abra-o!"
     }
   },
   {

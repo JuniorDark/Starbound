@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/sarcohuman/sarcohumanalive.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A human sits inside this sarcophagus. I'm getting life readings!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avian/sarcohuman/sarcohumanalive.object": [
         "/novakidDescription"
       ]
     },
@@ -68,6 +57,18 @@
     "Texts": {
       "Eng": "Did this sarcophagus just move?",
       "Por": "Este sarcófago acabou de se mover?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/sarcohuman/sarcohumanalive.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. A human sits inside this sarcophagus. I'm getting life readings!",
+      "Por": "Observador. Um humano esta dentro desse sarcófago. Estou recebendo leituras de vida!"
     }
   },
   {

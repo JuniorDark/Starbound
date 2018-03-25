@@ -15,23 +15,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/trophybronze/trophybronze.object": [
-        "/description"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "The plaque reads \"All that is gold does not glitter. Awarded for a heroic victory.\".",
-      "Por": "A placa diz: \"Nem tudo que reluz é ouro. Premiado por uma vitória heróica.\"."
+      "Eng": "Pleased. This small trophy is pleasant to look at.",
+      "Por": "Satisfeito. Este pequeno troféu é agradável ao olhar."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/trophybronze/trophybronze.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ]
     },
     "Texts": {
-      "Eng": "This small trophy is pleasant to look at."
+      "Eng": "The plaque reads \"All that is gold does not glitter. Awarded for a heroic victory.\".",
+      "Por": "A placa diz: \"Nem tudo que reluz é ouro. Premiado por uma vitória heróica.\"."
     }
   },
   {

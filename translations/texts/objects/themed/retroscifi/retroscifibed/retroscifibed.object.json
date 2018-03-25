@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/themed/retroscifi/retroscifibed/retroscifibed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Elated. This bed provides sufficient rest while maintaining a vertical position.",
+      "Por": "Exultante. Esta cama proporciona descanso suficiente enquanto mantém uma posição vertical."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/retroscifi/retroscifibed/retroscifibed.object": [
         "/shortdescription"
       ]
     },
@@ -81,18 +93,6 @@
     "Texts": {
       "Eng": "This bed is as retro as it gets.",
       "Por": "Dormir nesta cama me faz sentir como uma experiência científica."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/themed/retroscifi/retroscifibed/retroscifibed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This bed provides sufficient rest while maintaining a vertical position.",
-      "Por": "Esta cama proporciona descanso suficiente enquanto mantém uma posição vertical."
     }
   },
   {

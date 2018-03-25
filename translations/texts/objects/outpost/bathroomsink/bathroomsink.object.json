@@ -39,8 +39,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/bathroomsink/bathroomsink.object": [
-        "/avianDescription",
-        "/glitchDescription/glitchEmotedText"
+        "/avianDescription"
       ]
     },
     "Texts": {
@@ -58,6 +57,18 @@
     "Texts": {
       "Eng": "A sink. Maybe I should wash my hands...",
       "Por": "Uma pia. Talvez eu deva lavar minhas mãos..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/bathroomsink/bathroomsink.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neutral. A sink.",
+      "Por": "Neutro. Uma pia."
     }
   },
   {

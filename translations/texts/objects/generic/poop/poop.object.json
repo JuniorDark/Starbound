@@ -39,17 +39,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/poop/poop.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Biological entities are disgusting."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/poop/poop.object": [
         "/apexDescription"
       ]
     },
@@ -92,6 +81,18 @@
     "Texts": {
       "Eng": "Poop",
       "Por": "Poop"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/poop/poop.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Resolute. Biological entities are disgusting.",
+      "Por": "Resoluto. Entidades biológicas são nojentas."
     }
   },
   {

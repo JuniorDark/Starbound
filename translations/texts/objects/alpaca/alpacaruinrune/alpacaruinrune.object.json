@@ -27,18 +27,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alpaca/alpacaruinrune/alpacaruinrune.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "An old rune that signifies ruin and decay.",
-      "Por": "Uma runa antiga que significa ruína e decadência."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alpaca/alpacaruinrune/alpacaruinrune.object": [
         "/hylotlDescription"
       ]
     },
@@ -57,6 +45,18 @@
     "Texts": {
       "Eng": "Ancient runesss... this means ruin.",
       "Por": "Runas antigas... isso significa ruína."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alpaca/alpacaruinrune/alpacaruinrune.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Attentive. An old rune that signifies ruin and decay.",
+      "Por": "Observador. Uma runa antiga que significa ruína e decadência."
     }
   },
   {

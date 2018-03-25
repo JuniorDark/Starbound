@@ -39,23 +39,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/prism/prismrockpenguin/prismrockpenguin.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "How could a penguin possibly be inside this prism?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/prism/prismrockpenguin/prismrockpenguin.object": [
         "/apexDescription"
       ]
     },
     "Texts": {
       "Eng": "Is that a penguin?",
       "Por": "Isso é um pinguim?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/prism/prismrockpenguin/prismrockpenguin.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Puzzled. How could a penguin possibly be inside this prism?",
+      "Por": "Perplexo. Como poderia um pinguim possivelmente estar dentro desse prisma?"
     }
   },
   {

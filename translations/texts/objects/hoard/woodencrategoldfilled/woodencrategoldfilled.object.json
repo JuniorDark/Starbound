@@ -75,11 +75,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hoard/woodencrategoldfilled/woodencrategoldfilled.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "This wooden crate is insufficient for this amount of treasure."
+      "Eng": "Observant. This wooden crate is insufficient for this amount of treasure.",
+      "Por": "Observador. Esta caixa de madeira é insuficiente para esta quantidade de tesouro."
     }
   },
   {

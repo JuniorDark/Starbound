@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/hylotlspeaker/hylotlradio.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Jolly. This old radio is playing soothing music.",
+      "Por": "Alegre. Este rádio velho está tocando música calmante."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/hylotlspeaker/hylotlradio.object": [
         "/avianDescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "The wireless plays a pretty tune.",
       "Por": "O rádio toca uma música bonita."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/hylotl/hylotlspeaker/hylotlradio.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This old radio is playing soothing music."
     }
   },
   {

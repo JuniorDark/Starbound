@@ -63,17 +63,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/apexoven/apexoven.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Cooking device identified."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/apex/apexoven/apexoven.object": [
         "/description"
       ]
     },
@@ -104,6 +93,18 @@
     "Texts": {
       "Eng": "It's for cookin' meals.",
       "Por": "É para cozinhar refeições."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/apexoven/apexoven.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. Cooking device identified.",
+      "Por": "Atento. Dispositivo de cozimento identificado."
     }
   },
   {

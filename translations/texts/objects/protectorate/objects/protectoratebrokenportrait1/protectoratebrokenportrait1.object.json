@@ -3,8 +3,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/protectorate/objects/protectoratebrokenportrait1/protectoratebrokenportrait1.object": [
-        "/description",
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ]
     },
     "Texts": {
@@ -94,6 +93,18 @@
     "Texts": {
       "Eng": "This picture frame must've fallen down.",
       "Por": "Esta moldura deve ter caído."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/protectorate/objects/protectoratebrokenportrait1/protectoratebrokenportrait1.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Upset. A broken picture frame.",
+      "Por": "Chateado. Uma moldura quebrada."
     }
   }
 ]

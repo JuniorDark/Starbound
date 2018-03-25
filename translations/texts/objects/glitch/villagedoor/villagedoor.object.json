@@ -39,11 +39,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/villagedoor/villagedoor.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "A simple door you would expect to see a hundred times in any village."
+      "Eng": "Explanation. A simple door you would expect to see a hundred times in any village.",
+      "Por": "Explicação. Uma porta simples que você esperaria ver uma centena de vezes em qualquer aldeia."
     }
   },
   {

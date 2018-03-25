@@ -3,20 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/dirturchin/dirturchinseed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/farmables/dirturchin/wilddirturchinseed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A boring, common plant."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/farmables/dirturchin/dirturchinseed.object": [
         "/shortdescription"
       ],
       "objects/farmables/dirturchin/wilddirturchinseed.object": [
@@ -71,6 +57,21 @@
     "Texts": {
       "Eng": "Dirturchins are squidgy and kind of tasteless.",
       "Por": "Dirturchins são macios e meio sem gosto."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/dirturchin/dirturchinseed.object": [
+        "/glitchDescription"
+      ],
+      "objects/farmables/dirturchin/wilddirturchinseed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disinterested. A boring, common plant.",
+      "Por": "Desinteressado. Uma planta comum e entediante."
     }
   },
   {

@@ -27,23 +27,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/graffiti-thewayisblocked/thewayisblocked.object": [
-        "/floranDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Floran payss sign no attention.",
-      "Por": "Floran não presta atenção em placa."
+      "Eng": "Concerned. Is the statment true or false?",
+      "Por": "Preocupado. A afirmação é verdadeira ou falsa?"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/graffiti-thewayisblocked/thewayisblocked.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/floranDescription"
       ]
     },
     "Texts": {
-      "Eng": "Is the statment true or false?"
+      "Eng": "Floran payss sign no attention.",
+      "Por": "Floran não presta atenção em placa."
     }
   },
   {

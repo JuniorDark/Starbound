@@ -49,21 +49,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/ancient/sawblade2/sawblade2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/avian/sawblade/sawblade.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This appears to be spinning at four thousand RPM.",
-      "Por": "Isso parece estar girando a quatro mil RPM."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/ancient/sawblade2/sawblade2.object": [
         "/humanDescription"
       ],
       "objects/avian/sawblade/sawblade.object": [
@@ -73,6 +58,21 @@
     "Texts": {
       "Eng": "Woah, I have to be careful here.",
       "Por": "Uou, eu tenho que ter cuidado aqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/sawblade2/sawblade2.object": [
+        "/glitchDescription"
+      ],
+      "objects/avian/sawblade/sawblade.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Worried. This appears to be spinning at four thousand RPM.",
+      "Por": "Preocupado. Isto parece estar girando a quatro mil RPM."
     }
   },
   {

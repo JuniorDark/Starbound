@@ -51,23 +51,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/cell/celltable/celltable.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I could never eat on something as gaudy as this."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/cell/celltable/celltable.object": [
         "/humanDescription"
       ]
     },
     "Texts": {
       "Eng": "Looks like something from a kid's playset.",
       "Por": "Parece algo de um parque infantil."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/cell/celltable/celltable.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Repulsed. I could never eat on something as gaudy as this.",
+      "Por": "Repulsado. Nunca poderia comer em algo tão berrante como isso."
     }
   },
   {

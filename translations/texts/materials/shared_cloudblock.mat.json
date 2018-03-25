@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma nuvem densa o suficiente para caminhar encima."
+    ],
     "Files": {
       "items/materials/cloudblock.matitem": [
         "/description"
@@ -12,6 +14,21 @@
     "Texts": {
       "Eng": "A cloud dense enough to walk on.",
       "Por": "Uma nuvem densa o suficiente para caminhar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/cloudblock.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/cloudblock.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amazed. The density of this cloud could support my weight.",
+      "Por": "Espantado. A densidade da nuvem poderia suportar o meu peso."
     }
   },
   {
@@ -42,21 +59,6 @@
     "Texts": {
       "Eng": "Cloud iss sso fluffy!",
       "Por": "Nuvem é tão fofa!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/cloudblock.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/cloudblock.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The density of this cloud could support my weight.",
-      "Por": "A densidade dessa nuvem poderia suportar meu peso."
     }
   },
   {

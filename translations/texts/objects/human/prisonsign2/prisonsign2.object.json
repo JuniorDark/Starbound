@@ -63,23 +63,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/prisonsign2/prisonsign2.object": [
-        "/humanDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "The idea of visiting a mess hall fills me with existential dread. I don't know why. Can't explain it.",
-      "Por": "A idéia de visitar um refeitório me enche de pavor existencial. Não sei por quê. Não consigo explicar."
+      "Eng": "Neutral. The sign for the mess hall.",
+      "Por": "Neutro. Uma placa para o refeitório."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/prisonsign2/prisonsign2.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/humanDescription"
       ]
     },
     "Texts": {
-      "Eng": "The sign for the mess hall."
+      "Eng": "The idea of visiting a mess hall fills me with existential dread. I don't know why. Can't explain it.",
+      "Por": "A idéia de visitar um refeitório me enche de pavor existencial. Não sei por quê. Não consigo explicar."
     }
   },
   {

@@ -1,5 +1,22 @@
 [
   {
+    "DeniedAlternatives": [
+      "Curioso. Este floco de neve é único?"
+    ],
+    "Files": {
+      "objects/holiday/giantsnowflake/giantsnowflake.object": [
+        "/glitchDescription"
+      ],
+      "objects/holiday/smallsnowflake/smallsnowflake.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. Is this snowflake one of a kind?",
+      "Por": "Curioso. Esse floco de neve é único?"
+    }
+  },
+  {
     "DeniedAlternatives": [],
     "Files": {
       "objects/holiday/giantsnowflake/giantsnowflake.object": [
@@ -15,21 +32,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/holiday/giantsnowflake/giantsnowflake.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/holiday/smallsnowflake/smallsnowflake.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Is this snowflake one of a kind?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Flocos de neve são verdadeiramente um fenômeno natural bonito."
+    ],
     "Files": {
       "objects/holiday/giantsnowflake/giantsnowflake.object": [
         "/hylotlDescription"
@@ -44,7 +49,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Flocos de neve são bonitos."
+    ],
     "Files": {
       "objects/holiday/giantsnowflake/giantsnowflake.object": [
         "/novakidDescription"
@@ -59,7 +66,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Dizem que cada floco de neve é único."
+    ],
     "Files": {
       "objects/holiday/giantsnowflake/giantsnowflake.object": [
         "/humanDescription"

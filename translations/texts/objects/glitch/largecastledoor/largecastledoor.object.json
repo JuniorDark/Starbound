@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/largecastledoor/largecastledoor.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Comforted. This door can be barred from the inside by a huge plank of wood.",
+      "Por": "Confortado. Esta porta pode ser barrada por dentro por uma tábua enorme de madeira."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/largecastledoor/largecastledoor.object": [
         "/floranDescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "Such doors are built for those that fear intruders.",
       "Por": "Essas portas são construídas para aqueles que temem intrusos."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/glitch/largecastledoor/largecastledoor.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This door can be barred from the inside by a huge plank of wood."
     }
   },
   {

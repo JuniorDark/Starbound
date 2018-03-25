@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/arrowsign/arrowsign.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analytical. The likelihood of this sign pointing in the correct direction is 25 percent.",
+      "Por": "Analítico. A probabilidade desta placa apontar na direção correta é de 25 por cento."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/arrowsign/arrowsign.object": [
         "/shortdescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "Sometimes, to go forwards one must take a step back.",
       "Por": "Às vezes, para ir para frente é preciso dar um passo atrás."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/apex/arrowsign/arrowsign.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The likelihood of this sign pointing in the correct direction is 25 percent."
     }
   },
   {

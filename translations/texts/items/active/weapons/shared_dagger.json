@@ -1,6 +1,9 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Afiada e incrivelmente rápida.",
+      "Navalha afiada e muito rápida."
+    ],
     "Files": {
       "items/active/weapons/melee/dagger/commondagger.activeitem": [
         "/description"
@@ -17,7 +20,7 @@
     },
     "Texts": {
       "Eng": "Razor sharp and lightning quick.",
-      "Por": "Afiada como navalha e incrivelmente rápida."
+      "Por": "Afiada como navalha e muito rápida."
     }
   }
 ]

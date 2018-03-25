@@ -33,6 +33,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/woodenwindow2.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/woodenwindow2.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. This wood filters light and acts as a barrier.",
+      "Por": "Atento. Esta madeira filtra a luz e age como uma barreira."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/woodenwindow2.matitem": [
         "/description"
       ],
       "tiles/materials/woodenwindow2.material": [
@@ -42,21 +57,6 @@
     "Texts": {
       "Eng": "Old wooden slats that don't let much light through.",
       "Por": "Ripas de madeira velha que não deixa muita luz passar."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/woodenwindow2.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/woodenwindow2.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This wood filters light and acts as a barrier.",
-      "Por": "Esta madeira filtra a luz e age como uma barreira."
     }
   },
   {

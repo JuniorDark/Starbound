@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/themed/sea/seachair/seachair.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amused. This chair is made from a gaint clamshell.",
+      "Por": "Divertido. Esta cadeira é feita de uma concha gigante."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/sea/seachair/seachair.object": [
         "/avianDescription"
       ]
     },
@@ -93,18 +105,6 @@
     "Texts": {
       "Eng": "Ssshells make good ssseats.",
       "Por": "Conchas fazem bons assentosss."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/themed/sea/seachair/seachair.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This chair is made from a gaint clamshell.",
-      "Por": "Esta cadeira é feita de uma concha gigante."
     }
   }
 ]

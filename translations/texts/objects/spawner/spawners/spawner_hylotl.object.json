@@ -3,18 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/spawner/spawners/spawner_hylotl.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A Hylotl gathering would be just wonderful.",
-      "Por": "Uma reunião Hylotl seria simplesmente maravilhoso."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/spawner/spawners/spawner_hylotl.object": [
         "/floranDescription"
       ]
     },
@@ -45,6 +33,18 @@
     "Texts": {
       "Eng": "I'll have to take care not to use this too often.",
       "Por": "Eu vou ter que tomar cuidado para não usar isso muitas vezes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/spawner/spawners/spawner_hylotl.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Insincere. A Hylotl gathering would be just wonderful.",
+      "Por": "Insincero. Uma reunião Hylotl seria simplesmente maravilhoso."
     }
   },
   {

@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Um pedaço set não foi concebido para ser usado como um objeto."
+    ],
     "Files": {
       "objects/protectorate/00/00back.object": [
         "/description"
@@ -105,7 +107,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Plano de Fundo do Protetorado"
+    ],
     "Files": {
       "objects/protectorate/00/00back.object": [
         "/shortdescription"

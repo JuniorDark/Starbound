@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/ancient/hologram1/hologram1.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. This scene seems to show a being protecting planets.",
+      "Por": "Observador. Esta cena parece mostrar um ser protegendo planetas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/hologram1/hologram1.object": [
         "/hylotlDescription"
       ]
     },
@@ -69,18 +81,6 @@
     "Texts": {
       "Eng": "This ol' picture shows some mysterious strange figure.",
       "Por": "Esta imagem antiga mostra uma misteriosa figura estranha."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/ancient/hologram1/hologram1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This scene seems to show a being protecting planets.",
-      "Por": "Esta cena parece mostrar um ser protegendo planetas."
     }
   }
 ]

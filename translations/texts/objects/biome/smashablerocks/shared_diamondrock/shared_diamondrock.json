@@ -78,6 +78,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/smashablerocks/diamondrock/diamondrock.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/smashablerocks/diamondrocksmall/diamondrocksmall.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. This rock contains diamond, and is covered in cracks.",
+      "Por": "Observador. Esta rocha contém diamante e está coberta de rachaduras."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/smashablerocks/diamondrock/diamondrock.object": [
         "/apexDescription"
       ],
       "objects/biome/smashablerocks/diamondrocksmall/diamondrocksmall.object": [
@@ -87,20 +102,6 @@
     "Texts": {
       "Eng": "There appears to be diamond within this fragile rock.",
       "Por": "Parece haver siamante dentro desta frágil rocha."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/smashablerocks/diamondrock/diamondrock.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/smashablerocks/diamondrocksmall/diamondrocksmall.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This rock contains diamond, and is covered in cracks."
     }
   }
 ]

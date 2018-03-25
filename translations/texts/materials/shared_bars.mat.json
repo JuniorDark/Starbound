@@ -3,6 +3,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/bars.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/bars.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Distressed. Metal bars like this can be found in Glitch dungeons.",
+      "Por": "Afligido. Barras de metal como esta podem ser encontradas em masmorras Glitch."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/bars.matitem": [
         "/shortdescription"
       ],
       "tiles/materials/bars.material": [
@@ -12,21 +27,6 @@
     "Texts": {
       "Eng": "Metal Bars",
       "Por": "Metal Bars"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/bars.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/bars.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Metal bars like this can be found in Glitch dungeons.",
-      "Por": "Barras de metal como esta podem ser encontradas nas masmorras Glitch."
     }
   },
   {

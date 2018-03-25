@@ -3,6 +3,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/flee.config": [
+        "/helpme/glitch/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Afraid. Get away from me! Help!",
+      "Por": "Assustado. Se afaste de mim! Socorro!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
         "/helpme/avian/default/5"
       ]
     },
@@ -27,24 +39,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/flee.config": [
-        "/helpme/avian/default/3"
+        "/helpme/glitch/default/2"
       ]
     },
     "Texts": {
-      "Eng": "By my feathers, I'm under attack!",
-      "Por": "Pelas minhas penas, estou sob ataque!"
+      "Eng": "Astounded. Why is this happening!?",
+      "Por": "Espantado. Porque isso está acontecendo!?"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "dialog/flee.config": [
-        "/helpme/glitch/default/1/glitchEmotedText"
+        "/helpme/avian/default/3"
       ]
     },
     "Texts": {
-      "Eng": "Don't hurt me!",
-      "Por": "Não me machuque!"
+      "Eng": "By my feathers, I'm under attack!",
+      "Por": "Pelas minhas penas, estou sob ataque!"
     }
   },
   {
@@ -132,29 +144,15 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Gaaah! Me ajuda!"
-    ],
-    "Files": {
-      "dialog/flee.config": [
-        "/helpme/glitch/default/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Gaaah! Help me!",
-      "Por": "Gaaah! Ajude-me!"
-    }
-  },
-  {
     "DeniedAlternatives": [],
     "Files": {
       "dialog/flee.config": [
-        "/helpme/glitch/default/3/glitchEmotedText"
+        "/helpme/glitch/default/1"
       ]
     },
     "Texts": {
-      "Eng": "Get away from me! Help!",
-      "Por": "Saia de perto de mim! Socorro!"
+      "Eng": "Frightened. Don't hurt me!",
+      "Por": "Assustado. Não me machuque!"
     }
   },
   {
@@ -167,18 +165,6 @@
     "Texts": {
       "Eng": "I am under attack!",
       "Por": "Estou sob ataque!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/flee.config": [
-        "/safe/glitch/default/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I got away!",
-      "Por": "Eu consegui escapar!"
     }
   },
   {
@@ -215,18 +201,6 @@
     "Texts": {
       "Eng": "I need help! I can't defend myself!",
       "Por": "Preciso de ajuda! Eu não consigo me defender!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/flee.config": [
-        "/safe/glitch/default/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I'm alive!",
-      "Por": "Eu estou vivo!"
     }
   },
   {
@@ -305,6 +279,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/flee.config": [
+        "/safe/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Joyful. I'm alive!",
+      "Por": "Alegre. Eu estou vivo!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
         "/helpme/default/default/0"
       ]
     },
@@ -323,6 +309,42 @@
     "Texts": {
       "Eng": "Ow! Stop it!",
       "Por": "Ai! para com isso!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/safe/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Relieved. I got away!",
+      "Por": "Aliviado. Consegui fugir!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/helpme/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scared. Gaaah! Help me!",
+      "Por": "Assustado. Aaaah! Ajude-me!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/helpme/glitch/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shocked. What's happening!? Stop it!",
+      "Por": "Chocado. O que está acontecendo!? Pare com isso!"
     }
   },
   {
@@ -423,20 +445,6 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Isso foi cansativo."
-    ],
-    "Files": {
-      "dialog/flee.config": [
-        "/safe/glitch/default/2/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "That was exhausting.",
-      "Por": "Isso foi exaustivo."
-    }
-  },
-  {
     "DeniedAlternatives": [],
     "Files": {
       "dialog/flee.config": [
@@ -446,6 +454,18 @@
     "Texts": {
       "Eng": "Them lucky Floran not have weapon...",
       "Por": "Pra ssua ssorte Floran não tem uma arma..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/flee.config": [
+        "/safe/glitch/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tired. That was exhausting.",
+      "Por": "Cansado. Isso foi desgastante."
     }
   },
   {
@@ -494,34 +514,6 @@
     "Texts": {
       "Eng": "What!? What did I do!?",
       "Por": "O que!? O que eu fiz!?"
-    }
-  },
-  {
-    "DeniedAlternatives": [
-      "O que está acontecendo!? Pare com isso!"
-    ],
-    "Files": {
-      "dialog/flee.config": [
-        "/helpme/glitch/default/5/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "What's happening!? Stop it!",
-      "Por": "O que está acontecendo!? Pare!"
-    }
-  },
-  {
-    "DeniedAlternatives": [
-      "Por que isso está acontecendo!?"
-    ],
-    "Files": {
-      "dialog/flee.config": [
-        "/helpme/glitch/default/2/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Why is this happening!?",
-      "Por": "Why is this happening!?"
     }
   }
 ]

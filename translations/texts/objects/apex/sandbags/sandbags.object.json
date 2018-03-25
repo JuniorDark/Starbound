@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/sandbags/sandbags.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. The sand inside shapes these large bags into an impressive barrier.",
+      "Por": "Impressionado. A areia dentro molda estes sacos grandes em uma barreira impressionante."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/sandbags/sandbags.object": [
         "/floranDescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "Some large sandbags, they make a pretty good barricade.",
       "Por": "Algumas grandes sacos de areia, eles fazem uma boa barricada."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/apex/sandbags/sandbags.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The sand inside shapes these large bags into an impressive barrier."
     }
   },
   {

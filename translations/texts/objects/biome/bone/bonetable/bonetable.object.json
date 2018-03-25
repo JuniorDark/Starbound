@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/bone/bonetable/bonetable.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. The surface of this table is covered in knife marks. Some look rather brutal.",
+      "Por": "Curioso. A superfície desta mesa está coberta de marcas de faca. Algumas parecem bastante brutais."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/bone/bonetable/bonetable.object": [
         "/floranDescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "Looks more like a creepy bone altar t'me.",
       "Por": "Parece mais um altar assustador de osso pra mim."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/bone/bonetable/bonetable.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The surface of this table is covered in knife marks. Some look rather brutal."
     }
   },
   {

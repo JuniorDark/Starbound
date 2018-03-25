@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/cocoa/cocoaseed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A cocoa plant, the origin of chocolate."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/farmables/cocoa/cocoaseed.object": [
         "/description"
       ]
     },
@@ -56,6 +45,18 @@
     "Texts": {
       "Eng": "Cocoa is what chocolate is made from! It's a chocolate tree!",
       "Por": "Cacau é do que o chocolate é feito! É uma árvore de chocolate!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/cocoa/cocoaseed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intrigued. A cocoa plant, the origin of chocolate.",
+      "Por": "Intrigado. Uma planta de cacau, a origem do chocolate."
     }
   },
   {

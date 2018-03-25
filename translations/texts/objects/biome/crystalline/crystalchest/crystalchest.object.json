@@ -75,23 +75,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/crystalline/crystalchest/crystalchest.object": [
-        "/novakidDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "This chest is so cold, it would do well for storing perishable goods.",
-      "Por": "Este baú é tão frio, que seria bom para armazenar produtos perecíveis."
+      "Eng": "Sentimental. This chest was once used to store great secrets.",
+      "Por": "Sentimental. Este baú uma vez foi usado para armazenar grandes segredos."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/crystalline/crystalchest/crystalchest.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/novakidDescription"
       ]
     },
     "Texts": {
-      "Eng": "This chest was once used to store great secrets."
+      "Eng": "This chest is so cold, it would do well for storing perishable goods.",
+      "Por": "Este baú é tão frio, que seria bom para armazenar produtos perecíveis."
     }
   },
   {

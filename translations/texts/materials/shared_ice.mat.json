@@ -33,15 +33,15 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/ice.matitem": [
-        "/glitchdescription/glitchEmotedText"
+        "/glitchdescription"
       ],
       "tiles/materials/ice.material": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "It appears this ice is naturally frozen.",
-      "Por": "Parece que este gelo é naturalmente congelado."
+      "Eng": "Observant. It appears this ice is naturally frozen.",
+      "Por": "Atento. Parece que este gelo é naturalmente congelado."
     }
   },
   {

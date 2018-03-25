@@ -54,7 +54,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Um pedaço sólido de gelo. Frio até o núcleo."
+    ],
     "Files": {
       "objects/biome/frozen/frozenmistprimer/frozenmistprimer.object": [
         "/hylotlDescription"
@@ -77,7 +79,7 @@
     },
     "Texts": {
       "Eng": "A solid shard of ice. Cold all the way to it's core.",
-      "Por": "Um pedaço sólido de gelo. Frio até o núcleo."
+      "Por": "Um pedaço pontudo de gelo."
     }
   },
   {
@@ -138,32 +140,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/frozen/frozenmistprimer/frozenmistprimer.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/frozen/geometricshard1/geometricshard1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/frozen/geometricshard2/geometricshard2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/frozen/geometricshard3/geometricshard3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/frozen/geometricshard4/geometricshard4.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/frozen/geometricshard5/geometricshard5.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Frozen water."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/frozen/frozenmistprimer/frozenmistprimer.object": [
         "/humanDescription"
       ],
       "objects/biome/frozen/geometricshard1/geometricshard1.object": [
@@ -185,6 +161,33 @@
     "Texts": {
       "Eng": "Ice cold! If I lick it, my tongue will stick.",
       "Por": "Gelo frio! Se eu lamber, minha língua vai grudar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/frozen/frozenmistprimer/frozenmistprimer.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/frozen/geometricshard1/geometricshard1.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/frozen/geometricshard2/geometricshard2.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/frozen/geometricshard3/geometricshard3.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/frozen/geometricshard4/geometricshard4.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/frozen/geometricshard5/geometricshard5.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neutral. Frozen water.",
+      "Por": "Neutro. Água congelada."
     }
   }
 ]

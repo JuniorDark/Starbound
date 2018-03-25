@@ -39,17 +39,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/unicornplush/unicornplush.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A unicorn of the old legends."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/hylotl/unicornplush/unicornplush.object": [
         "/apexDescription"
       ]
     },
@@ -80,6 +69,18 @@
     "Texts": {
       "Eng": "It's a unicorn! How cute.",
       "Por": "É um unicórnio! Que fofo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/unicornplush/unicornplush.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nostalgic. A unicorn of the old legends.",
+      "Por": "Nostálgico. Um unicórnio das lendas antigas."
     }
   },
   {

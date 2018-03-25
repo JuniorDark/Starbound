@@ -3,6 +3,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/castlehiddendoor/castlehiddendoor.object": [
+        "/glitchDescription"
+      ],
+      "objects/glitch/castlehiddentrapdoor/castlehiddentrapdoor.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. Something is hidden here.",
+      "Por": "Curioso. Algo está escondido aqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/castlehiddendoor/castlehiddendoor.object": [
         "/nokavidDescription"
       ],
       "objects/glitch/castlehiddentrapdoor/castlehiddentrapdoor.object": [

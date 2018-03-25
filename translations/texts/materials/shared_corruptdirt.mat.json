@@ -33,6 +33,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/corruptdirt.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/corruptdirt.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disgusted. This dirt has been corrupted.",
+      "Por": "Com nojo. Esta terra foi corrompida."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/corruptdirt.matitem": [
         "/florandescription"
       ],
       "tiles/materials/corruptdirt.material": [
@@ -57,21 +72,6 @@
     "Texts": {
       "Eng": "This corrupted dirt ain't too pleasant.",
       "Por": "Esta terra corrompida não é muito agradável."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/corruptdirt.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/corruptdirt.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This dirt has been corrupted.",
-      "Por": "Esta terra foi corrompida."
     }
   }
 ]

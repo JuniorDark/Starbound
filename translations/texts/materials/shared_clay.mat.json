@@ -15,7 +15,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Argila pegajosa e pesada."
+    ],
     "Files": {
       "items/materials/clay.matitem": [
         "/description"
@@ -48,6 +50,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/clay.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/clay.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Interested. This clay is dense enough to use as a building material.",
+      "Por": "Interessado. Esta argila é suficientemente densa para usar como um material de construção."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/clay.matitem": [
         "/florandescription"
       ],
       "tiles/materials/clay.material": [
@@ -57,21 +74,6 @@
     "Texts": {
       "Eng": "Sssmooth clay.",
       "Por": "Argila sssuave."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/clay.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/clay.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This clay is dense enough to use as a building material.",
-      "Por": "Esta argila é densa o suficiente para usar como material de construção."
     }
   }
 ]

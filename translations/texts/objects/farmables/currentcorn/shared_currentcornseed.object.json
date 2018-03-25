@@ -108,14 +108,15 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/currentcorn/currentcornseed.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/farmables/currentcorn/wildcurrentcornseed.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "The Glitch know of a way to use these vegetables as batteries."
+      "Eng": "Proud. The Glitch know of a way to use these vegetables as batteries.",
+      "Por": "Orgulhoso. Os Glitch sabem uma maneira de usar estes vegetais como baterias."
     }
   }
 ]

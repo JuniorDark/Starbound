@@ -30,7 +30,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma lâmpada elétrica. Parece construído para uma chama."
+    ],
     "Files": {
       "objects/apex/classiclight/classiclight.object": [
         "/humanDescription"
@@ -42,24 +44,6 @@
     "Texts": {
       "Eng": "An electric lamp. It looks built for a flame.",
       "Por": "Uma lâmpada elétrica. Parece construída para uma chama."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/hoard/mysteriouslight/mysteriouslight.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/human/prisonfloodlight/prisonfloodlight.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/tiered/tier1spotlight/tier1spotlight.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "By analysing this floodlight's patterns, it would be easy to sneak around it.",
-      "Por": "Analisando os padrões deste holofote, seria fácil esgueirar-se em torno dele."
     }
   },
   {
@@ -135,6 +119,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hoard/mysteriouslight/mysteriouslight.object": [
+        "/glitchDescription"
+      ],
+      "objects/human/prisonfloodlight/prisonfloodlight.object": [
+        "/glitchDescription"
+      ],
+      "objects/tiered/tier1spotlight/tier1spotlight.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stealthy. By analysing this floodlight's patterns, it would be easy to sneak around it.",
+      "Por": "Furtivo. Analisando os padrões do holofote, seria fácil esgueirar-se ao redor dele."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hoard/mysteriouslight/mysteriouslight.object": [
         "/apexDescription"
       ],
       "objects/human/prisonfloodlight/prisonfloodlight.object": [
@@ -165,7 +167,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "O brilho desta lâmpada é quente e reconfortante."
+    ],
     "Files": {
       "objects/apex/classiclight/classiclight.object": [
         "/avianDescription"
@@ -195,7 +199,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Essas luzes são comumente usadas em naves."
+    ],
     "Files": {
       "objects/mission/redlight/redlight.object": [
         "/apexDescription"
@@ -206,7 +212,7 @@
     },
     "Texts": {
       "Eng": "These lights are commonly used on ships.",
-      "Por": "Essas luzes são comumente usadas em naves."
+      "Por": "Estas luzes são comumente usados em naves."
     }
   },
   {

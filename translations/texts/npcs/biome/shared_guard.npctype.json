@@ -3,30 +3,45 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/biome/foundryguard.npctype": [
-        "/scriptConfig/dialog/converse/glitch/default/1/glitchEmotedText"
+        "/scriptConfig/dialog/converse/glitch/default/2"
       ],
       "npcs/biome/maskedguard.npctype": [
-        "/scriptConfig/dialog/converse/glitch/default/1/glitchEmotedText"
+        "/scriptConfig/dialog/converse/glitch/default/2"
       ]
     },
     "Texts": {
-      "Eng": "Does it look like I'm sweating? It's actually condensation... Honest!",
-      "Por": "Parece que estou suando? Na verdade é condensação... Verdade!"
+      "Eng": "Bored. It's so dull standing guard here. Perhaps I should find someone to fight...",
+      "Por": "Entediado. É tão maçante ficar de guarda aqui. Talvez eu deva encontrar alguém para lutar..."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "npcs/biome/foundryguard.npctype": [
-        "/scriptConfig/dialog/converse/glitch/default/0/glitchEmotedText"
+        "/scriptConfig/dialog/converse/glitch/default/0"
       ],
       "npcs/biome/maskedguard.npctype": [
-        "/scriptConfig/dialog/converse/glitch/default/0/glitchEmotedText"
+        "/scriptConfig/dialog/converse/glitch/default/0"
       ]
     },
     "Texts": {
-      "Eng": "I can withstand any danger on this planet!",
-      "Por": "Eu posso suportar qualquer perigo neste planeta!"
+      "Eng": "Brave. I can withstand any danger on this planet!",
+      "Por": "Bravo. Eu posso resistir a qualquer perigo neste planeta!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/biome/foundryguard.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/1"
+      ],
+      "npcs/biome/maskedguard.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Concerned. Does it look like I'm sweating? It's actually condensation... Honest!",
+      "Por": "Embaraçado. Olha como eu estou suando? Na verdade, é a condensação... Honesto!"
     }
   },
   {
@@ -117,21 +132,6 @@
     "Texts": {
       "Eng": "I've been working myself so hard, I cannot stop sweating. It is quite unpleasant.",
       "Por": "Eu tenho trabalhado tão duro, eu não paro de suar. É bastante desagradável."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "npcs/biome/foundryguard.npctype": [
-        "/scriptConfig/dialog/converse/glitch/default/2/glitchEmotedText"
-      ],
-      "npcs/biome/maskedguard.npctype": [
-        "/scriptConfig/dialog/converse/glitch/default/2/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "It's so dull standing guard here. Perhaps I should find someone to fight...",
-      "Por": "É tão maçante ficar de guarda aqui. Talvez eu devesse encontrar alguém para lutar..."
     }
   },
   {

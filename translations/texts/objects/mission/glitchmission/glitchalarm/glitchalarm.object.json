@@ -63,6 +63,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/glitchmission/glitchalarm/glitchalarm.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Satisfied. This can be used in an emergency to alert those around you.",
+      "Por": "Satisfeito. Isso pode ser usado em uma emergência para alertar aqueles ao seu redor."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/glitchmission/glitchalarm/glitchalarm.object": [
         "/novakidDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "This alarm bell is pretty basic, but it works!",
       "Por": "Este sino de alarme é bastante básico, mas funciona!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/mission/glitchmission/glitchalarm/glitchalarm.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This can be used in an emergency to alert those around you."
     }
   },
   {

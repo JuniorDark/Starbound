@@ -4,17 +4,14 @@
     "Files": {
       "plants/grass/ceiling/drop/ceilingmushroom/ceilingmushroom.grass": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ],
       "plants/grass/ground/decorative/shrooms/shrooms.grass": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ],
       "plants/grass/ground/drop/mushroom/mushroom.grass": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ]
     },
@@ -39,6 +36,24 @@
     "Texts": {
       "Eng": "Fungusss.",
       "Por": "Fungo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ceiling/drop/ceilingmushroom/ceilingmushroom.grass": [
+        "/glitchDescription"
+      ],
+      "plants/grass/ground/decorative/shrooms/shrooms.grass": [
+        "/glitchDescription"
+      ],
+      "plants/grass/ground/drop/mushroom/mushroom.grass": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. A mushroom.",
+      "Por": "Relatório. Um cogumelo."
     }
   }
 ]

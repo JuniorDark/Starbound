@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/teapot1/teapot1.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observe. This is a rare shade of pink.",
+      "Por": "Observador. Este é um tom raro de rosa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/teapot1/teapot1.object": [
         "/novakidDescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "The perfect teapot for a tea party.",
       "Por": "O bule perfeito para uma festa de chá."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/teapot1/teapot1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This is a rare shade of pink."
     }
   }
 ]

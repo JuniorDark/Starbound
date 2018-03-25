@@ -27,23 +27,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/cellcave/cellstructure1/cellstructure1.object": [
-        "/apexDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "How unusual, is this a mutation? What did these cells begin as?",
-      "Por": "Que incomum, isso é uma mutação? O que fez essas células ficar assim?"
+      "Eng": "Fascinated. I cannot figure out the origin of these structures.",
+      "Por": "Fascinado. Eu não consigo descobrir a origem dessas estruturas."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/cellcave/cellstructure1/cellstructure1.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/apexDescription"
       ]
     },
     "Texts": {
-      "Eng": "I cannot figure out the origin of these structures."
+      "Eng": "How unusual, is this a mutation? What did these cells begin as?",
+      "Por": "Que incomum, isso é uma mutação? O que fez essas células ficar assim?"
     }
   },
   {

@@ -39,18 +39,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/themed/executive/executivelight/executivelight.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A sleek and efficient lamp.",
-      "Por": "Uma lâmpada elegante e eficiente."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/themed/executive/executivelight/executivelight.object": [
         "/shortdescription"
       ]
     },
@@ -69,6 +57,18 @@
     "Texts": {
       "Eng": "Fancy lamp sssafe for Floran.",
       "Por": "Lâmpada chique sssegura para Floran."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/executive/executivelight/executivelight.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased. A sleek and efficient lamp.",
+      "Por": "Satisfeito. Uma lâmpada elegante e eficiente."
     }
   },
   {

@@ -39,17 +39,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/targetdummy/targetdummy.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A training dummy. Knights practice their swordplay on these."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/glitch/targetdummy/targetdummy.object": [
         "/novakidDescription"
       ]
     },
@@ -92,6 +81,18 @@
     "Texts": {
       "Eng": "Poor dummy, I'll name him Freddie!",
       "Por": "Pobre manequim, vou chamá-lo de Freddie!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/targetdummy/targetdummy.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Recollection. A training dummy. Knights practice their swordplay on these.",
+      "Por": "Lembrança. Um boneco de treino. Os cavaleiros praticam esgrima nestes."
     }
   },
   {

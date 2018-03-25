@@ -3,21 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/baseboard.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/baseboard.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Baseboards are not commonly found in Glitch construction.",
-      "Por": "Rodapés não são comumente encontradas na construção Glitch."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/baseboard.matitem": [
         "/shortdescription"
       ],
       "tiles/materials/baseboard.material": [
@@ -27,6 +12,21 @@
     "Texts": {
       "Eng": "Classic Baseboard",
       "Por": "Classic Baseboard"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/baseboard.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/baseboard.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. Baseboards are not commonly found in Glitch construction.",
+      "Por": "Curioso. Rodapés não são normalmentes encontrados em construções Glitch."
     }
   },
   {
@@ -56,7 +56,7 @@
     },
     "Texts": {
       "Eng": "Some fancy wall moulding.",
-      "Por": "Alguns moldes de parede sofisticados."
+      "Por": "Rodapé chique."
     }
   },
   {

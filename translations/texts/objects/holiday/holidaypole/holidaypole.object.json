@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/holiday/holidaypole/holidaypole.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A candy-striped pole."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/holiday/holidaypole/holidaypole.object": [
         "/humanDescription"
       ]
     },
@@ -56,6 +45,18 @@
     "Texts": {
       "Eng": "A striped pole...",
       "Por": "Um bastão listrado..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/holiday/holidaypole/holidaypole.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. A candy-striped pole.",
+      "Por": "Curioso. Um bastão de doce listrado."
     }
   },
   {

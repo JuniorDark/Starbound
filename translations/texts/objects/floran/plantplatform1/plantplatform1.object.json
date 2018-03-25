@@ -27,23 +27,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/plantplatform1/plantplatform1.object": [
-        "/floranDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Floran ssstand on platform, leap down on unsssuspecting enemies.",
-      "Por": "Floran fica na plataforma, pula em inimigos desssavisados."
+      "Eng": "Curious. How were Floran able to move these enormous logs into place?",
+      "Por": "Curioso. Como os Floran foram capazes de mover esses enormes troncos no lugar?"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/plantplatform1/plantplatform1.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/floranDescription"
       ]
     },
     "Texts": {
-      "Eng": "How were Floran able to move these enormous logs into place?"
+      "Eng": "Floran ssstand on platform, leap down on unsssuspecting enemies.",
+      "Por": "Floran fica na plataforma, pula em inimigos desssavisados."
     }
   },
   {

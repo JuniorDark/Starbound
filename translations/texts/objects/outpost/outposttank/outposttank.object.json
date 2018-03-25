@@ -75,17 +75,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/outposttank/outposttank.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I cannot figure out what this tank holds."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/outpost/outposttank/outposttank.object": [
         "/avianDescription"
       ]
     },
@@ -104,6 +93,18 @@
     "Texts": {
       "Eng": "Large Metal Tank",
       "Por": "Large Metal Tank"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outposttank/outposttank.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Perplexed. I cannot figure out what this tank holds.",
+      "Por": "Perplexo. Não consigo descobrir o que tem neste tanque."
     }
   }
 ]

@@ -63,6 +63,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/floranarmchair/floranarmchair.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Terrified. This chair has teeth marks in it.",
+      "Por": "Aterrorizado. Esta cadeira tem marcas de dentes nela."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/floranarmchair/floranarmchair.object": [
         "/hylotlDescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "The bones have been sharpened to a point.",
       "Por": "Os ossos foram afiados para um ponto."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/floran/floranarmchair/floranarmchair.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This chair has teeth marks in it."
     }
   }
 ]

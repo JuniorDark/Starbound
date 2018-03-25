@@ -4,13 +4,24 @@
     "Files": {
       "plants/bushes/ground/desertrocks/desertrocks.bush": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ]
     },
     "Texts": {
       "Eng": "Desert rocks.",
       "Por": "Rochas do deserto."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/desertrocks/desertrocks.bush": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. Desert rocks.",
+      "Por": "Relatório. Rochas do deserto."
     }
   }
 ]

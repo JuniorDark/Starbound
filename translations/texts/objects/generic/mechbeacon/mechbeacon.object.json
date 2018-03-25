@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/mechbeacon/mechbeacon.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Informed. This beacon type is useful for tracking where mech vehicles can dock.",
+      "Por": "Informado. Este tipo de farol é útil para rastrear onde os veículos mecha podem atracar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/mechbeacon/mechbeacon.object": [
         "/shortdescription"
       ]
     },
@@ -44,17 +56,6 @@
     "Texts": {
       "Eng": "This beacon is for marking entry bays for mechs.",
       "Por": "Este farol é para marcar baías de entrada para mechas."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/mechbeacon/mechbeacon.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This beacon type is useful for tracking where mech vehicles can dock."
     }
   },
   {

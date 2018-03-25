@@ -15,12 +15,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/protect.questtemplate": [
-        "/scriptConfig/generatedText/completionText/first/glitch/0/glitchEmotedText"
+        "/scriptConfig/generatedText/text/next/glitch/1"
       ]
     },
     "Texts": {
-      "Eng": "<target> is safe now - As well as being honour-bound to help me in the future. Thank you!",
-      "Por": "<target> está seguro agora - Bem como ser moralmente obrigado a me ajudar no futuro. Obrigado!"
+      "Eng": "Agitated. I have recieved information that ^orange;<threat>^white; are approaching, via the ^orange;<spawnPoint>^white;<spawnPoint.direction>, and are coming to attack ^orange;<target>. ^green;If you can help me save <target.pronoun.object>,^white; I may win <target.pronoun.possessiveDet> gratitude.",
+      "Por": "Agitado. Recebi informações que ^orange;<threat>^white; estão se aproximando, através do ^orange;<spawnPoint>^white; <spawnPoint.direction>, e estão vindo para atacar ^orange;<target>. ^green;Se você pode me ajudar a salvar <target.pronoun.object>,^white; Eu posso ganhar <target.pronoun.possessiveDet> gratidão."
     }
   },
   {
@@ -31,8 +31,43 @@
       ]
     },
     "Texts": {
-      "Eng": "Alpha Betty",
-      "Por": "Alpha Betty"
+      "Eng": "Alpha Betty"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/protect.questtemplate": [
+        "/scriptConfig/generatedText/completionText/first/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Appreciative. Thanks to you, <target> is safe. <target.pronoun.capitalSubject> is also honour-bound to assist me if I call upon <target.pronoun.object>.",
+      "Por": "Agradecido. Graças à você, <target> está seguro. <target.pronoun.capitalSubject> também está moralmente obrigado a me ajudar se eu chamar <target.pronoun.object>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/protect.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Exuberant. You defeated the <threat> and saved <target>! You are no doubt a noble warrior! And <target.pronoun.copulative> no doubt indebted to me!",
+      "Por": "Exuberante. Você derrotou os <threat> e salvou <target>! Você sem dúvida é um nobre guerreiro! E <target.pronoun.copulative> sem dúvida em débito comigo!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/protect.questtemplate": [
+        "/scriptConfig/generatedText/text/first/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fervent. I have reason to believe ^orange;<threat>^white; at the ^orange;<spawnPoint>^white;<spawnPoint.direction> are coming for ^orange;<target>. ^green;You must help protect <target.pronoun.object>!",
+      "Por": "Agitado. Tenho razões para acreditar que ^orange;<threat>^white; no ^orange;<spawnPoint>^white; <spawnPoint.direction> está vindo por ^orange;<target>. ^green;Você deve ajudar a proteger <target.pronoun.object>!"
     }
   },
   {
@@ -123,6 +158,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/protect.questtemplate": [
+        "/scriptConfig/generatedText/text/next/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flustered. I have recieved a tip-off that ^orange;<threat>^white; are coming via the ^orange;<spawnPoint>^white;<spawnPoint.direction> to attack <target>! ^green;If you could help me protect <target.pronoun.object>,^white; I would be extremely grateful!",
+      "Por": "Nervoso. Recebi uma dica que ^orange;<threat>^white; estão vindo através do ^orange;<spawnPoint>^white; <spawnPoint.direction> para atacar <target>! ^green;Se você pudesse me ajudar a proteger <target.pronoun.object>,^white; Eu ficaria muito grato!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/protect.questtemplate": [
         "/scriptConfig/generatedText/completionText/first/floran/1"
       ]
     },
@@ -183,54 +230,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/protect.questtemplate": [
-        "/scriptConfig/generatedText/text/first/glitch/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I have reason to believe ^orange;<threat>^white; at the ^orange;<spawnPoint>^white;<spawnPoint.direction> are coming for ^orange;<target>. ^green;You must help protect <target.pronoun.object>!",
-      "Por": "Tenho razões para acreditar que ^orange;<threat>^white; no ^orange;<spawnPoint>^white; <spawnPoint.direction> está vindo por ^orange;<target>. ^green;Você deve ajudar a proteger <target.pronoun.object>!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/protect.questtemplate": [
-        "/scriptConfig/generatedText/text/next/glitch/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I have recieved a tip-off that ^orange;<threat>^white; are coming via the ^orange;<spawnPoint>^white;<spawnPoint.direction> to attack <target>! ^green;If you could help me protect <target.pronoun.object>,^white; I would be extremely grateful!",
-      "Por": "Recebi uma dica que ^orange;<threat>^white; estão vindo através do ^orange;<spawnPoint>^white; <spawnPoint.direction> para atacar <target>! ^green;Se você pudesse me ajudar a proteger <target.pronoun.object>,^white; Eu ficaria muito grato!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/protect.questtemplate": [
-        "/scriptConfig/generatedText/text/next/glitch/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I have recieved information that ^orange;<threat>^white; are approaching, via the ^orange;<spawnPoint>^white;<spawnPoint.direction>, and are coming to attack ^orange;<target>. ^green;If you can help me save <target.pronoun.object>,^white; I may win <target.pronoun.possessiveDet> gratitude.",
-      "Por": "Recebi informações que ^orange;<threat>^white; estão se aproximando, através do ^orange;<spawnPoint>^white; <spawnPoint.direction>, e estão vindo para atacar ^orange;<target>. ^green;Se você pode me ajudar a salvar <target.pronoun.object>,^white; Eu posso ganhar <target.pronoun.possessiveDet> gratidão."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/protect.questtemplate": [
-        "/scriptConfig/generatedText/text/first/glitch/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I heard talk of ^orange;<threat>^white; apporaching from the ^orange;<spawnPoint>^white;<spawnPoint.direction> and believe they are coming to get ^orange;<target>. ^green;Can you help protect <target.pronoun.object> from <target.pronoun.possessiveDet> foes?",
-      "Por": "Eu ouvi falar de ^orange;<threat>^white; se aproximando pelo ^orange;<spawnPoint>^white; <spawnPoint.direction> e acredito que eles estão vindo para pegar ^orange;<target>. ^green;Você pode ajudar a proteger <target.pronoun.object> de <target.pronoun.possessiveDet> inimigos?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/protect.questtemplate": [
         "/scriptConfig/generatedText/failureText/0"
       ]
     },
@@ -255,24 +254,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/protect.questtemplate": [
-        "/scriptConfig/generatedText/text/default/glitch/0/glitchEmotedText"
+        "/scriptConfig/generatedText/completionText/default/glitch/0"
       ]
     },
     "Texts": {
-      "Eng": "I've been informed that ^orange;<threat>^white; are approaching from the ^orange;<spawnPoint>^white;<spawnPoint.direction> - and ^orange;<target>^white; is their target! ^green;Can you help me protect <target.pronoun.possessiveDet> life?",
-      "Por": "Fui informado de que ^orange;<threat>^white; estão se aproximando do ^orange;<spawnPoint>^white; <spawnPoint.direction> - e ^orange;<target>^white; é o alvo! ^green;Pode me ajudar a proteger <target.pronoun.possessiveDet> vida?"
+      "Eng": "Impressed. You are indeed a gallant Knight! Thanks to you, <target> is safe, and <target.pronoun.subject> owes me help if I ever call upon <target.pronoun.object>.",
+      "Por": "Impressionado. Você é realmente um cavaleiro valente! Graças à você, <target> esta seguro, e <target.pronoun.subject> me deve ajuda mesmo se eu nunca visitar <target.pronoun.object>."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/protect.questtemplate": [
-        "/scriptConfig/generatedText/text/default/glitch/1/glitchEmotedText"
+        "/scriptConfig/generatedText/completionText/next/glitch/1"
       ]
     },
     "Texts": {
-      "Eng": "I've received word that the ^orange;<threat>^white; at the ^orange;<spawnPoint>^white;<spawnPoint.direction> are coming for ^orange;<target>^white;! ^green;You must help me protect <target.pronoun.object>^white;, before it is too late!",
-      "Por": "Eu ouvi dizer que ^orange;<threat>^white; no ^orange;<spawnPoint>^white; <spawnPoint.direction> está vindo por ^orange;<target>^white;! ^green;Você deve me ajudar a proteger <target.pronoun.object>^white;, antes que seja tarde demais!"
+      "Eng": "Impressed. You saved <target>! You may have done most of the work, but <target.pronoun.subject> still owes me a favour for informing you. Thank you for your help!",
+      "Por": "Impressionado. Você salvou <target>! Você pode ter feito maior parte do trabalho, mas <target.pronoun.subject> ainda me deve um favor por informá-lo. Obrigado pela ajuda!"
     }
   },
   {
@@ -351,12 +350,48 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/protect.questtemplate": [
+        "/scriptConfig/generatedText/completionText/next/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Overjoyed. You helped protect <target>! <target.pronoun.capitalSubject> owes me a favour for saving <target.pronoun.possessiveDet> life - I am sure this will be useful.",
+      "Por": "Feliz. Você ajudou a proteger <target>! <target.pronoun.capitalSubject> me deve um favor por salvar <target.pronoun.possessiveDet> vida - Estou certo de que isso será útil."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/protect.questtemplate": [
         "/scriptConfig/generatedText/title/0"
       ]
     },
     "Texts": {
       "Eng": "Protect <target> from <threat>",
       "Por": "Proteja <target> de <threat>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/protect.questtemplate": [
+        "/scriptConfig/generatedText/completionText/first/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Relieved. <target> is safe now - As well as being honour-bound to help me in the future. Thank you!",
+      "Por": "Aliviado. <target> está seguro agora - Bem como ser moralmente obrigado a me ajudar no futuro. Obrigado!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/protect.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Restless. I've received word that the ^orange;<threat>^white; at the ^orange;<spawnPoint>^white;<spawnPoint.direction> are coming for ^orange;<target>^white;! ^green;You must help me protect <target.pronoun.object>^white;, before it is too late!",
+      "Por": "Inquieto. Eu ouvi dizer que ^orange;<threat>^white; no ^orange;<spawnPoint>^white; <spawnPoint.direction> está vindo por ^orange;<target>^white;! ^green;Você deve me ajudar a proteger <target.pronoun.object>^white;, antes que seja tarde demais!"
     }
   },
   {
@@ -399,24 +434,36 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/protect.questtemplate": [
-        "/scriptConfig/generatedText/completionText/first/default/0"
+        "/scriptConfig/generatedText/text/first/glitch/0"
       ]
     },
     "Texts": {
-      "Eng": "Thanks to you <target> wasn't harmed. I'm sure <target.pronoun.subject> is extremely grateful to us. I know I would be!",
-      "Por": "Graças à você <target> não foi ferido. Tenho certeza que <target.pronoun.subject> é extremamente grato a nós. Eu sabia que seria!"
+      "Eng": "Tense. I heard talk of ^orange;<threat>^white; apporaching from the ^orange;<spawnPoint>^white;<spawnPoint.direction> and believe they are coming to get ^orange;<target>. ^green;Can you help protect <target.pronoun.object> from <target.pronoun.possessiveDet> foes?",
+      "Por": "Tenso. Eu ouvi falar de ^orange;<threat>^white; se aproximando pelo ^orange;<spawnPoint>^white; <spawnPoint.direction> e acredito que eles estão vindo para pegar ^orange;<target>. ^green;Você pode ajudar a proteger <target.pronoun.object> de <target.pronoun.possessiveDet> inimigos?"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/protect.questtemplate": [
-        "/scriptConfig/generatedText/completionText/first/glitch/1/glitchEmotedText"
+        "/scriptConfig/generatedText/text/default/glitch/0"
       ]
     },
     "Texts": {
-      "Eng": "Thanks to you, <target> is safe. <target.pronoun.capitalSubject> is also honour-bound to assist me if I call upon <target.pronoun.object>.",
-      "Por": "Graças à você, <target> está seguro. <target.pronoun.capitalSubject> também está moralmente obrigado a me ajudar se eu chamar <target.pronoun.object>."
+      "Eng": "Tense. I've been informed that ^orange;<threat>^white; are approaching from the ^orange;<spawnPoint>^white;<spawnPoint.direction> - and ^orange;<target>^white; is their target! ^green;Can you help me protect <target.pronoun.possessiveDet> life?",
+      "Por": "Tenso. Fui informado de que ^orange;<threat>^white; estão se aproximando do ^orange;<spawnPoint>^white; <spawnPoint.direction> - e ^orange;<target>^white; é o alvo! ^green;Pode me ajudar a proteger <target.pronoun.possessiveDet> vida?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/protect.questtemplate": [
+        "/scriptConfig/generatedText/completionText/first/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thanks to you <target> wasn't harmed. I'm sure <target.pronoun.subject> is extremely grateful to us. I know I would be!",
+      "Por": "Graças à você <target> não foi ferido. Tenho certeza que <target.pronoun.subject> é extremamente grato a nós. Eu sabia que seria!"
     }
   },
   {
@@ -471,42 +518,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/protect.questtemplate": [
-        "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "You are indeed a gallant Knight! Thanks to you, <target> is safe, and <target.pronoun.subject> owes me help if I ever call upon <target.pronoun.object>.",
-      "Por": "Você é realmente um cavaleiro valente! Graças à você, <target> esta seguro, e <target.pronoun.subject> me deve ajuda mesmo se eu nunca visitar <target.pronoun.object>."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/protect.questtemplate": [
-        "/scriptConfig/generatedText/completionText/default/glitch/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "You defeated the <threat> and saved <target>! You are no doubt a noble warrior! And <target.pronoun.copulative> no doubt indebted to me!",
-      "Por": "Você derrotou os <threat> e salvou <target>! Você sem dúvida é um nobre guerreiro! E <target.pronoun.copulative> sem dúvida em débito comigo!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/protect.questtemplate": [
-        "/scriptConfig/generatedText/completionText/next/glitch/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "You helped protect <target>! <target.pronoun.capitalSubject> owes me a favour for saving <target.pronoun.possessiveDet> life - I am sure this will be useful.",
-      "Por": "Você ajudou a proteger <target>! <target.pronoun.capitalSubject> me deve um favor por salvar <target.pronoun.possessiveDet> vida - Estou certo de que isso será útil."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/protect.questtemplate": [
         "/scriptConfig/generatedText/completionText/first/default/1"
       ]
     },
@@ -525,18 +536,6 @@
     "Texts": {
       "Eng": "You made short work of those <threat>! We've also earned the trust of <target>. I'm sure that will prove helpful!",
       "Por": "Você acabou rapidinho com aqueles <threat>! Nós também ganhamos a confiança de <target>. Tenho certeza que isso vai ser útil!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/protect.questtemplate": [
-        "/scriptConfig/generatedText/completionText/next/glitch/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "You saved <target>! You may have done most of the work, but <target.pronoun.subject> still owes me a favour for informing you. Thank you for your help!",
-      "Por": "Você salvou <target>! Você pode ter feito maior parte do trabalho, mas <target.pronoun.subject> ainda me deve um favor por informá-lo. Obrigado pela ajuda!"
     }
   },
   {

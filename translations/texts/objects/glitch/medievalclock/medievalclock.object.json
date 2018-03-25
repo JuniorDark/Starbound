@@ -63,7 +63,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/medievalclock/medievalclock.object": [
-        "/glitchDescription/glitchEmotedText",
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sympathetic. The time on this clock never changes.",
+      "Por": "Simpático. O tempo neste relógio nunca muda."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/medievalclock/medievalclock.object": [
         "/novakidDescription"
       ]
     },

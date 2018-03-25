@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/prisonpaper1/prisonpaper1.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Baffled. It's really quite difficult to read this handwriting.",
+      "Por": "Perplexo. É realmente muito difícil ler esta caligrafia."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisonpaper1/prisonpaper1.object": [
         "/avianDescription"
       ]
     },
@@ -45,17 +57,6 @@
     "Texts": {
       "Eng": "If you're going to put a notice up, at least make it legible.",
       "Por": "Se você for colocar um aviso, pelo menos torne-o legível."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/human/prisonpaper1/prisonpaper1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "It's really quite difficult to read this handwriting."
     }
   },
   {

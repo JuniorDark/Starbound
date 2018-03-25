@@ -87,11 +87,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/giantflower/giantflowerchest/giantflowerchest.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Opening this chest releases invisible pollen clouds. Long term effects are unknown."
+      "Eng": "Observant. Opening this chest releases invisible pollen clouds. Long term effects are unknown.",
+      "Por": "Observador. Abrir este baú libera nuvens invisíveis de pólen. Efeitos a longo prazo são desconhecidos."
     }
   }
 ]

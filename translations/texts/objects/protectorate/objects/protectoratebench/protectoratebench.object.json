@@ -75,23 +75,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/protectorate/objects/protectoratebench/protectoratebench.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "It's a bench made from metal."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/protectorate/objects/protectoratebench/protectoratebench.object": [
         "/humanDescription"
       ]
     },
     "Texts": {
       "Eng": "It's a bench that fits several people. At least three!",
       "Por": "É um banco que cabe várias pessoas. Pelo menos três!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/protectorate/objects/protectoratebench/protectoratebench.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. It's a bench made from metal.",
+      "Por": "Observador. É um banco feito de metal."
     }
   },
   {

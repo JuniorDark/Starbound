@@ -75,6 +75,42 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/crewmember.config": [
+        "/converse/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eager. I have so much scheduled for today!",
+      "Por": "Ansioso. Tenho muitas coisas agendadas pra hoje!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/crewmember.config": [
+        "/converse/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excited. Let's do some quests!",
+      "Por": "Animado. Vamos fazer algumas missões!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/crewmember.config": [
+        "/converse/glitch/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excited. There is so much questing to be done!",
+      "Por": "Animado. Há tantas perguntas a serem feitas!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/crewmember.config": [
         "/converse/floran/default/2"
       ]
     },
@@ -123,6 +159,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/crewmember.config": [
+        "/converse/glitch/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Friendly. You'll be safe if you stay close to me!",
+      "Por": "Amigável. você estará seguro se ficar perto de mim!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/crewmember.config": [
         "/converse/penguin/default/0"
       ]
     },
@@ -153,18 +201,6 @@
     "Texts": {
       "Eng": "I got a mighty thirst for a shoot out. Hopefully we'll find ourselves some action.",
       "Por": "Eu tenho uma sede forte por um tiroteio. Esperançosamente vamos encontrar alguma ação."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/crewmember.config": [
-        "/converse/glitch/default/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I have so much scheduled for today!",
-      "Por": "Tenho tanta coisa marcada para hoje!"
     }
   },
   {
@@ -279,18 +315,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/crewmember.config": [
-        "/converse/glitch/default/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Let's do some quests!",
-      "Por": "Vamos fazer algumas missões!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/crewmember.config": [
         "/converse/human/default/2"
       ]
     },
@@ -387,18 +411,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/crewmember.config": [
-        "/converse/glitch/default/2/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "There is so much questing to be done!",
-      "Por": "Há tanta missão para ser feita!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/crewmember.config": [
         "/converse/penguin/default/3"
       ]
     },
@@ -441,18 +453,6 @@
     "Texts": {
       "Eng": "What lies next on the road ahead? Adventure, intrigue, pillaging? Not pillaging, right?",
       "Por": "O que se encontra na estrada á frente? Aventura, intriga, pilhagem? Sem pilhagem, certo?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/crewmember.config": [
-        "/converse/glitch/default/3/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "You'll be safe if you stay close to me!",
-      "Por": "Você ficará seguro se você ficar perto de mim!"
     }
   },
   {

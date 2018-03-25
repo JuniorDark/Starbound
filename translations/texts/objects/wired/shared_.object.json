@@ -24,21 +24,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/wired/shieldgenerator/shieldgenerator.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/wired/smallwallswitch/smallwallswitch.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/wired/smallwallswitch/smallwallswitchlit.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/wired/tinywallswitch/tinywallswitch.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "This small switch doesn't look that powerful.",
-      "Por": "Este pequeno interruptor não parece tão poderoso."
+      "Eng": "Surprised. This small switch doesn't look that powerful.",
+      "Por": "Surpreso. Este pequeno interruptor não parece tão poderoso."
     }
   }
 ]

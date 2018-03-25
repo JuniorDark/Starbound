@@ -4,13 +4,24 @@
     "Files": {
       "plants/grass/ground/decorative/spikes/spikes.grass": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ]
     },
     "Texts": {
       "Eng": "Natural spikes.",
       "Por": "Estacas naturais."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/spikes/spikes.grass": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. Natural spikes.",
+      "Por": "Relatório. Estacas naturais."
     }
   }
 ]

@@ -4,7 +4,6 @@
     "Files": {
       "plants/bushes/ground/crystals/crystals.bush": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ]
     },
@@ -23,6 +22,18 @@
     "Texts": {
       "Eng": "Ssshiny crystals.",
       "Por": "Cristais brilhantes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/crystals/crystals.bush": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. Crystals.",
+      "Por": "Relatório. Cristais."
     }
   }
 ]

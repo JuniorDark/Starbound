@@ -4,7 +4,6 @@
     "Files": {
       "plants/bushes/ground/thorns/thorns.bush": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ]
     },
@@ -23,6 +22,18 @@
     "Texts": {
       "Eng": "Ssspiky bush.",
       "Por": "Um arbusto espinhudo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/thorns/thorns.bush": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. A thorn bush.",
+      "Por": "Relatório. Um arbusto com espinho."
     }
   }
 ]

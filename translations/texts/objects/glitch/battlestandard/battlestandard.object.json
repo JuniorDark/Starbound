@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/battlestandard/battlestandard.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A Glitch battle standard. These are placed on the field during a battle."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/glitch/battlestandard/battlestandard.object": [
         "/humanDescription"
       ]
     },
@@ -92,6 +81,18 @@
     "Texts": {
       "Eng": "I wonder how many wars this standard has seen.",
       "Por": "Me pergunto quantas guerras este estandarte presenciou."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/battlestandard/battlestandard.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Informed. A Glitch battle standard. These are placed on the field during a battle.",
+      "Por": "Informado. Uma estandarte de batalha Glitch padrão. Estes são colocados no campo durante uma batalha."
     }
   },
   {

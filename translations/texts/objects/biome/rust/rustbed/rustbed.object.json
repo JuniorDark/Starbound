@@ -75,23 +75,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/rust/rustbed/rustbed.object": [
-        "/shortdescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Rusty Bed",
-      "Por": "Rusty Bed"
+      "Eng": "Paranoid. The smell of rust will give me nightmares.",
+      "Por": "Paranóico. O cheiro de ferrugem me dará pesadelos."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/rust/rustbed/rustbed.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "The smell of rust will give me nightmares."
+      "Eng": "Rusty Bed",
+      "Por": "Rusty Bed"
     }
   },
   {

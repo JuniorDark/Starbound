@@ -3,7 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "plants/grass/ground/decorative/glowmushroom/glowmushroom.grass": [
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ]
     },
@@ -34,6 +33,18 @@
     "Texts": {
       "Eng": "Pretty mushroom.",
       "Por": "Cogumelo bonito."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/glowmushroom/glowmushroom.grass": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. A glowing mushroom.",
+      "Por": "Relatório. Um cogumelo brilhante."
     }
   }
 ]

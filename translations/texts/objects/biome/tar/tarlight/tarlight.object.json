@@ -63,6 +63,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/tar/tarlight/tarlight.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neutral. A useful light source.",
+      "Por": "Neutro. Uma fonte de luz útil."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/tar/tarlight/tarlight.object": [
         "/shortdescription"
       ]
     },

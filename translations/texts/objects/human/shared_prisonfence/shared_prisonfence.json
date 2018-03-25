@@ -3,12 +3,10 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/prisonfence1/prisonfence1.object": [
-        "/apexDescription",
-        "/glitchDescription/glitchEmotedText"
+        "/apexDescription"
       ],
       "objects/human/prisonfence2/prisonfence2.object": [
-        "/apexDescription",
-        "/glitchDescription/glitchEmotedText"
+        "/apexDescription"
       ]
     },
     "Texts": {
@@ -59,6 +57,21 @@
     "Texts": {
       "Eng": "It's a chain-link fence.",
       "Por": "É uma cerca de tela."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisonfence1/prisonfence1.object": [
+        "/glitchDescription"
+      ],
+      "objects/human/prisonfence2/prisonfence2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neutral. A chain-link fence.",
+      "Por": "Neutro. Uma cerca de tela."
     }
   }
 ]

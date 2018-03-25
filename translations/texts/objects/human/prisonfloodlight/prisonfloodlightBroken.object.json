@@ -63,6 +63,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/prisonfloodlight/prisonfloodlightBroken.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Annoyed. Someone should fix this light.",
+      "Por": "Irritado. Alguém deve consertar essa luz."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisonfloodlight/prisonfloodlightBroken.object": [
         "/floranDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "Small Broken Floodlight",
       "Por": "Small Broken Floodlight"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/human/prisonfloodlight/prisonfloodlightBroken.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Someone should fix this light."
     }
   },
   {

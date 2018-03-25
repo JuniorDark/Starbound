@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/protectorate/objects/protectoratewastebin/protectoratewastebin.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Displeased. Who keeps throwing things in the bin when it's clearly full?",
+      "Por": "Descontente. Quem continua jogando coisas no lixo quando está claramente cheio?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/protectorate/objects/protectoratewastebin/protectoratewastebin.object": [
         "/apexDescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "This bin needs emptyin'.",
       "Por": "Esta lixeira precisa ser esvaziada."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/protectorate/objects/protectoratewastebin/protectoratewastebin.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Who keeps throwing things in the bin when it's clearly full?"
     }
   }
 ]

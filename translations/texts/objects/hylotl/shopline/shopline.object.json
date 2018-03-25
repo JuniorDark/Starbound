@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/shopline/shopline.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Annoyed. I dislike standing in long queues.",
+      "Por": "Irritado. Não gosto de estar em filas longas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/shopline/shopline.object": [
         "/shortdescription"
       ]
     },
@@ -45,17 +57,6 @@
     "Texts": {
       "Eng": "Do they expect Floran to wait becassue of ssilly ssign?",
       "Por": "Eles esperam que Floran aguarde por causa de uma placa boba?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/hylotl/shopline/shopline.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I dislike standing in long queues."
     }
   },
   {

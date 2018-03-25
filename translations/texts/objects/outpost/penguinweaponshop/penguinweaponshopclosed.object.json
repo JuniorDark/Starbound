@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/penguinweaponshop/penguinweaponshopclosed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disappointed. This trading post is currently closed.",
+      "Por": "Decepcionado. Este posto comercial está fechado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/penguinweaponshop/penguinweaponshopclosed.object": [
         "/floranDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "This appears to be some sort of trading post.",
       "Por": "Isso parece ser algum tipo de posto comercial."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/outpost/penguinweaponshop/penguinweaponshopclosed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This trading post is currently closed."
     }
   }
 ]

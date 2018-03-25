@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/terramart/terramartclosed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intrigued. This crate looks like someone is converting it into a shop.",
+      "Por": "Intrigado. Parece que alguém está convertendo esta caixa em uma loja."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/terramart/terramartclosed.object": [
         "/novakidDescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "This crate appears to have a large tree growing through it.",
       "Por": "Este caixa parece ter uma grande árvore crescendo através dela."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/outpost/terramart/terramartclosed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This crate looks like someone is converting it into a shop."
     }
   },
   {

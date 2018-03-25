@@ -18,6 +18,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/ornateroofing.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/ornateroofing.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. This ornate roofing is structurally sound.",
+      "Por": "Impressionado. Este telhado ornamentado é estruturalmente sólido."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ornateroofing.matitem": [
         "/shortdescription"
       ],
       "tiles/materials/ornateroofing.material": [
@@ -42,21 +57,6 @@
     "Texts": {
       "Eng": "Ornate roofing iss pretty.",
       "Por": "Telhado ornamentado é bonito."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/ornateroofing.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/ornateroofing.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This ornate roofing is structurally sound.",
-      "Por": "Este telhado ornamentado é estruturalmente sólido."
     }
   },
   {

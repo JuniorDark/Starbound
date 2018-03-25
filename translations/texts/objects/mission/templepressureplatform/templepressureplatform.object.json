@@ -15,23 +15,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/templepressureplatform/templepressureplatform.object": [
-        "/description"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "I can't stand on this stone platform for long!",
-      "Por": "Eu não posso ficar sobre esta plataforma de pedra por muito tempo!"
+      "Eng": "Confused. I think this platform was built by someone for some purpose.",
+      "Por": "Confuso. Acho que esta plataforma foi construída por alguém para algum propósito."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/templepressureplatform/templepressureplatform.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ]
     },
     "Texts": {
-      "Eng": "I think this platform was built by someone for some purpose."
+      "Eng": "I can't stand on this stone platform for long!",
+      "Por": "Eu não posso ficar sobre esta plataforma de pedra por muito tempo!"
     }
   },
   {

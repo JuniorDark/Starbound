@@ -51,23 +51,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/librarybookcaseN2/librarybookcaseN2.object": [
-        "/shortdescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Ornate Bookcase",
-      "Por": "Ornate Bookcase"
+      "Eng": "Content. There are many bookcases such as this.",
+      "Por": "Contente. Existem muitas estantes para livros como esta."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/librarybookcaseN2/librarybookcaseN2.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "There are many bookcases such as this."
+      "Eng": "Ornate Bookcase",
+      "Por": "Ornate Bookcase"
     }
   }
 ]

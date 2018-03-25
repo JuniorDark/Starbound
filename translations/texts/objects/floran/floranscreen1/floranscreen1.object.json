@@ -51,7 +51,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/floranscreen1/floranscreen1.object": [
-        "/glitchDescription/glitchEmotedText",
         "/hylotlDescription"
       ]
     },
@@ -82,6 +81,18 @@
     "Texts": {
       "Eng": "Floran ussse sscreen to collect blood sssplatter when sskinning meat.",
       "Por": "Floran usssa biombo para coletar sssalpicos de sssangue quando esfola carne."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/floranscreen1/floranscreen1.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neutral. A simple screen.",
+      "Por": "Neutro. Um biombo simples."
     }
   },
   {

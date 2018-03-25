@@ -15,17 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/fireemblem/fireemblem.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A symbol to warn of fire ahead."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avian/fireemblem/fireemblem.object": [
         "/apexDescription"
       ]
     },
@@ -56,6 +45,18 @@
     "Texts": {
       "Eng": "Avian Fire Emblem",
       "Por": "Avian Fire Emblem"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/fireemblem/fireemblem.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cautious. A symbol to warn of fire ahead.",
+      "Por": "Cauteloso. Um símbolo para avisar do fogo adiante."
     }
   },
   {

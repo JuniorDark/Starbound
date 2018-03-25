@@ -93,14 +93,15 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/pineapple/pineappleseed.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/farmables/pineapple/wildpineappleseed.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "The Glitch have been known to use pineapples for target practice."
+      "Eng": "Smug. The Glitch have been known to use pineapples for target practice.",
+      "Por": "Presunçoso. Os Glitch tem sido conhecidos por usar abacaxis para tiro ao alvo."
     }
   },
   {

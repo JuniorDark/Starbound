@@ -25,12 +25,13 @@
       ]
     },
     "Texts": {
-      "Eng": "9999999",
-      "Por": "9999999"
+      "Eng": "9999999"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Comprar "
+    ],
     "Files": {
       "interface/windowconfig/craftingmerchant.config": [
         "/paneLayout/btnCraft/caption"
@@ -50,7 +51,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Confirmar"
+    ],
     "Files": {
       "interface/windowconfig/confirmation.config": [
         "/paneLayout/windowtitle/title"
@@ -68,7 +71,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Rejeitar",
+      "Rejeitar "
+    ],
     "Files": {
       "interface/windowconfig/newquest.config": [
         "/paneLayout/btnDecline/caption"
@@ -205,7 +211,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "^#b9b5b2;Receitas"
+    ],
     "Files": {
       "interface/windowconfig/crafting.config": [
         "/paneLayout/lblSchematics/value"

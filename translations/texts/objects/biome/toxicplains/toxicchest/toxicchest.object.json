@@ -63,11 +63,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/toxicplains/toxicchest/toxicchest.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "This chest is likely poisoned from its surroundings."
+      "Eng": "Suspicious. This chest is likely poisoned from its surroundings.",
+      "Por": "Suspeito. Este baú esta provavelmente envenenado do seu entorno."
     }
   },
   {

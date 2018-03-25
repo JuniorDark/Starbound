@@ -39,17 +39,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/tribalcounter1/tribalcounter1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Both a cupboard and a cooking surface."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avian/tribalcounter1/tribalcounter1.object": [
         "/shortdescription"
       ]
     },
@@ -80,6 +69,18 @@
     "Texts": {
       "Eng": "Iss there any food in here.",
       "Por": "Tem comida aqui?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/tribalcounter1/tribalcounter1.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. Both a cupboard and a cooking surface.",
+      "Por": "Observador. Tanto um armário e uma superfície de cozimento."
     }
   },
   {

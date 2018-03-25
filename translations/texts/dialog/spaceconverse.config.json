@@ -52,6 +52,30 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/spaceconverse.config": [
+        "/converse/glitch/glitch/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amicable. Welcome, fellow Glitch! I am <selfname>. I wish you well on your travels.",
+      "Por": "Amigável. Bem-vindo, companheiro Glitch! eu sou <selfname>. Desejo-lhe felicidades em suas viagens."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/spaceconverse.config": [
+        "/converse/glitch/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amicable. Welcome, spacefarer! I am <selfname>. I wish you well on your travels.",
+      "Por": "Amigável. Bem-vindo, viajante! eu sou <selfname>. Desejo-lhe felicidades em suas viagens."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/spaceconverse.config": [
         "/converse/apex/apex/9",
         "/converse/apex/default/8"
       ]
@@ -65,31 +89,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/spaceconverse.config": [
-        "/converse/glitch/glitch/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Another Glitch! If you are here, you must also be self-aware. There is strength in numbers, my friend!",
-      "Por": "Outro Glitch! Se você está aqui, você também deve ser auto-consciente. Há força em números, meu amigo!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/spaceconverse.config": [
-        "/converse/glitch/default/8/glitchEmotedText",
-        "/converse/glitch/glitch/9/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Are the rumours of space parasites true? I dearly hope not!",
-      "Por": "Os boatos de parasitas espaciais são verdadeiros? Espero que não!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/spaceconverse.config": [
         "/converse/hylotl/default/10",
         "/converse/hylotl/hylotl/12"
       ]
@@ -97,19 +96,6 @@
     "Texts": {
       "Eng": "Are you accustomed to sailing the empty vast ocean of space?",
       "Por": "Você está acostumado a navegar no vasto oceano vazio do espaço?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/spaceconverse.config": [
-        "/converse/glitch/default/7/glitchEmotedText",
-        "/converse/glitch/glitch/8/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Before I gained self-awareness, I hunted monsters for my village. Perhaps I shall do the same here in space?",
-      "Por": "Antes de ganhar consciência, cacei monstros para a minha aldeia. Talvez eu deva fazer o mesmo aqui no espaço?"
     }
   },
   {
@@ -141,6 +127,58 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/spaceconverse.config": [
+        "/converse/glitch/default/6",
+        "/converse/glitch/glitch/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Concerned. I thought I'd be free from dangerous monsters when I came to space, but now I hear there are space monsters as well?!",
+      "Por": "Preocupado. Eu pensei que seria livre de monstros perigosos quando eu chegasse ao espaço, mas agora ouvi que há monstros espaciais também?!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/spaceconverse.config": [
+        "/converse/glitch/default/8",
+        "/converse/glitch/glitch/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. Are the rumours of space parasites true? I dearly hope not!",
+      "Por": "Curioso. Os rumores dos parasitas espaciais são verdadeiros? Eu espero muito que não!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/spaceconverse.config": [
+        "/converse/glitch/default/5",
+        "/converse/glitch/glitch/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. Have you always known about space travel? Did you always dream about venturing through the stars?",
+      "Por": "Curioso. Você sempre soube sobre viagens espaciais? Você sempre sonhou em se aventurar através das estrelas?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/spaceconverse.config": [
+        "/converse/glitch/default/2",
+        "/converse/glitch/glitch/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Determined. I have come to space to find a professional trade. One day I shall be <selfname>, master engineer!",
+      "Por": "Determinado. Eu vim para o espaço para encontrar um comércio profissional. Um dia serei <selfname>, engenheiro mestre!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/spaceconverse.config": [
         "/converse/default/default/4",
         "/converse/default/human/6"
       ]
@@ -148,6 +186,32 @@
     "Texts": {
       "Eng": "Do you ever get scared that you'll fall into the infinite, empty void of space by accident? I know I do!",
       "Por": "Você nunca se assusta que você vai cair no vazio infinito vazio do espaço por acidente? Eu sei que sim!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/spaceconverse.config": [
+        "/converse/glitch/default/7",
+        "/converse/glitch/glitch/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eager. Before I gained self-awareness, I hunted monsters for my village. Perhaps I shall do the same here in space?",
+      "Por": "Ansioso. Antes de ganhar autoconsciência, caçava monstros para minha aldeia. Talvez eu faça o mesmo aqui no espaço?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/spaceconverse.config": [
+        "/converse/glitch/default/1",
+        "/converse/glitch/glitch/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excited. I spend much of my life not knowing space even existed, and now I am here!",
+      "Por": "Animado. Passei grande parte da minha vida sem saber que o espaço existia, e agora estou aqui!"
     }
   },
   {
@@ -307,19 +371,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/spaceconverse.config": [
-        "/converse/glitch/default/5/glitchEmotedText",
-        "/converse/glitch/glitch/6/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Have you always known about space travel? Did you always dream about venturing through the stars?",
-      "Por": "Você sempre soube sobre viagens espaciais? Sempre sonhou em se aventurar pelas estrelas?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/spaceconverse.config": [
         "/converse/avian/avian/6",
         "/converse/avian/default/4"
       ]
@@ -397,19 +448,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/spaceconverse.config": [
-        "/converse/glitch/default/2/glitchEmotedText",
-        "/converse/glitch/glitch/3/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I have come to space to find a professional trade. One day I shall be <selfname>, master engineer!",
-      "Por": "Eu vim ao espaço para encontrar um ofício profissional. Um dia serei <selfname>, mestre engenheiro!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/spaceconverse.config": [
         "/converse/hylotl/default/3",
         "/converse/hylotl/hylotl/5"
       ]
@@ -480,32 +518,6 @@
     "Texts": {
       "Eng": "I may already be incredibly intelligent, but there is potentially even more to learn out here in space!",
       "Por": "Talvez eu já seja incrivelmente inteligente, mas há potencialmente ainda mais para aprender aqui no espaço!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/spaceconverse.config": [
-        "/converse/glitch/default/1/glitchEmotedText",
-        "/converse/glitch/glitch/2/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I spend much of my life not knowing space even existed, and now I am here!",
-      "Por": "Passei muito da minha vida sem saber que o espaço existia, e agora estou aqui!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/spaceconverse.config": [
-        "/converse/glitch/default/6/glitchEmotedText",
-        "/converse/glitch/glitch/7/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I thought I'd be free from dangerous monsters when I came to space, but now I hear there are space monsters as well?!",
-      "Por": "Eu pensei que eu estaria livre de monstros perigosos quando eu vim para o espaço, mas agora ouvi que há monstros espaciais também?!"
     }
   },
   {
@@ -628,19 +640,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/spaceconverse.config": [
-        "/converse/glitch/default/3/glitchEmotedText",
-        "/converse/glitch/glitch/4/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Now I am in space, I feel so miniscule. How will I make my mark when I matter so little?",
-      "Por": "Agora que estou no espaço, sinto-me tão minúsculo. Como vou deixar a minha marca quando eu importo tão pouco?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/spaceconverse.config": [
         "/converse/default/default/7",
         "/converse/default/human/9"
       ]
@@ -698,6 +697,31 @@
     "Texts": {
       "Eng": "Our people used to believe the stars were the many eyes of Kluex. Science, well, says otherwise.",
       "Por": "Nosso povo costumava acreditar que as estrelas eram os muitos olhos de Kluex. Ciência, bem, diz o contrário"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/spaceconverse.config": [
+        "/converse/glitch/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased. Another Glitch! If you are here, you must also be self-aware. There is strength in numbers, my friend!",
+      "Por": "Satisfeito. Outro Glitch! Se você está aqui, você também deve ser auto-consciente. Há uma força em números, meu amigo!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/spaceconverse.config": [
+        "/converse/glitch/default/0",
+        "/converse/glitch/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased. The low-moisture atmosphere in space is good for preventing rust.",
+      "Por": "Satisfeito. A atmosfera de baixa umidade no espaço é boa para prevenir a ferrugem."
     }
   },
   {
@@ -775,19 +799,6 @@
     "Texts": {
       "Eng": "The great thing about living in space is that there's always room. Infinite room, in fact.",
       "Por": "A grande coisa sobre viver no espaço é que sempre há espaço. Espaço infinito, na verdade."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/spaceconverse.config": [
-        "/converse/glitch/default/0/glitchEmotedText",
-        "/converse/glitch/glitch/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The low-moisture atmosphere in space is good for preventing rust.",
-      "Por": "A atmosfera de baixa umidade no espaço é boa para prevenir a ferrugem."
     }
   },
   {
@@ -958,36 +969,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/spaceconverse.config": [
-        "/converse/glitch/glitch/5/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Welcome, fellow Glitch! I am <selfname>. I wish you well on your travels.",
-      "Por": "Bem-vindo, companheiro Glitch! Eu sou <selfname>. Desejo-lhe boa viagem."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/spaceconverse.config": [
         "/converse/apex/apex/0"
       ]
     },
     "Texts": {
       "Eng": "Welcome, friend. If you are here, then perhaps you too have evaded the clutches of the Miniknog?",
       "Por": "Bem-vindo, amigo. Se você está aqui, então talvez você também tenha evadido as garras da Miniknog?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/spaceconverse.config": [
-        "/converse/glitch/default/4/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Welcome, spacefarer! I am <selfname>. I wish you well on your travels.",
-      "Por": "Bem-vindo, explorador do espaço! Eu sou <selfname>. Desejo-lhe boa viagem."
     }
   },
   {
@@ -1027,6 +1014,19 @@
     "Texts": {
       "Eng": "What secrets are hidden among the stars? I very much desire to find out.",
       "Por": "Quais são os segredos escondidos entre as estrelas? Gostaria muito de descobrir."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/spaceconverse.config": [
+        "/converse/glitch/default/3",
+        "/converse/glitch/glitch/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Worried. Now I am in space, I feel so miniscule. How will I make my mark when I matter so little?",
+      "Por": "Preocupado. Agora estou no espaço, me sinto tão minúsculo. Como vou deixar minha marca quando eu importo tão pouco?"
     }
   },
   {

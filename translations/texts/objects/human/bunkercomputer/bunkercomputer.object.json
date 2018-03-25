@@ -51,17 +51,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/bunkercomputer/bunkercomputer.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I feel a kinship with this human computer."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/human/bunkercomputer/bunkercomputer.object": [
         "/description"
       ]
     },
@@ -104,6 +93,18 @@
     "Texts": {
       "Eng": "What does this operate, I wonder?",
       "Por": "O que isso opera, eu me pergunto?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkercomputer/bunkercomputer.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wistful. I feel a kinship with this human computer.",
+      "Por": "Melancólico. Eu sinto um parentesco com este computador humano."
     }
   }
 ]

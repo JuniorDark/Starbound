@@ -51,17 +51,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/oasis/oasisbed/oasisbed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I could rest here on a rainy day without fear of rusting."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/oasis/oasisbed/oasisbed.object": [
         "/novakidDescription"
       ]
     },
@@ -80,6 +69,18 @@
     "Texts": {
       "Eng": "Ooh, I'd love to rest here with a book and a cold drink.",
       "Por": "Ooh, adoraria descansar aqui com um livro e uma bebida gelada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/oasis/oasisbed/oasisbed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased. I could rest here on a rainy day without fear of rusting.",
+      "Por": "Satisfeito. Eu poderia descansar aqui em um dia chuvoso sem medo de ferrugem."
     }
   },
   {

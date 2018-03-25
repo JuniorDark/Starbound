@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/wellcover/wellcover.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dissatisfied. Villagers use wells like this for all of their drinking water. Often the water is dirty or polluted.",
+      "Por": "Insatisfeito. Aldeões usam poços assim para toda a sua água potável. Muitas vezes, a água está suja ou poluída."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/wellcover/wellcover.object": [
         "/description"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "The handle looks like it raises and lowers the bucket.",
       "Por": "A manivela parece que levanta e abaixa o balde."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/glitch/wellcover/wellcover.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Villagers use wells like this for all of their drinking water. Often the water is dirty or polluted."
     }
   },
   {

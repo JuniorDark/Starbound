@@ -87,23 +87,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/copperbox1/copperbox1.object": [
-        "/floranDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Sstrong crate made from metal",
-      "Por": "Caixa forte feita de metal."
+      "Eng": "Pleased. The design is very traditional, but this crate is constructed from copper.",
+      "Por": "Satisfeito. O projeto é muito tradicional, mas esta caixa é construída de cobre."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/copperbox1/copperbox1.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/floranDescription"
       ]
     },
     "Texts": {
-      "Eng": "The design is very traditional, but this crate is constructed from copper."
+      "Eng": "Sstrong crate made from metal",
+      "Por": "Caixa forte feita de metal."
     }
   }
 ]

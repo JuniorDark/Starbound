@@ -39,17 +39,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/cell/cellchair/cellchair.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Bright, basic and made of cells."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/cell/cellchair/cellchair.object": [
         "/shortdescription"
       ]
     },
@@ -104,6 +93,18 @@
     "Texts": {
       "Eng": "Looks a little uncomfortable...",
       "Por": "Parece um pouco desconfortável..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/cell/cellchair/cellchair.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unimpressed. Bright, basic and made of cells.",
+      "Por": "Não impressionado. Brilhante, básica e feita de células."
     }
   }
 ]

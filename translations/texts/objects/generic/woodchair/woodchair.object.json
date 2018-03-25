@@ -15,17 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/woodchair/woodchair.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A boring wooden chair like any other."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/woodchair/woodchair.object": [
         "/novakidDescription"
       ]
     },
@@ -80,6 +69,18 @@
     "Texts": {
       "Eng": "An unremarkable wooden chair.",
       "Por": "Uma cadeira de madeira pouco notável."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodchair/woodchair.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disinterested. A boring wooden chair like any other.",
+      "Por": "Desinteressado. Uma cadeira de madeira chata como qualquer outra."
     }
   },
   {

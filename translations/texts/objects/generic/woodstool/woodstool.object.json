@@ -64,23 +64,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/woodstool/woodstool.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A very small stool."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/woodstool/woodstool.object": [
         "/floranDescription"
       ]
     },
     "Texts": {
       "Eng": "Tiny ssseat.",
       "Por": "Assento minúsculo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodstool/woodstool.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unimpressed. A very small stool.",
+      "Por": "Não impressionado. Um tamborete muito pequeno."
     }
   },
   {

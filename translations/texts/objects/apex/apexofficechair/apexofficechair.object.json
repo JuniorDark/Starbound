@@ -51,17 +51,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/apexofficechair/apexofficechair.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Ergonomics unacceptable."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/apex/apexofficechair/apexofficechair.object": [
         "/novakidDescription"
       ]
     },
@@ -92,6 +81,18 @@
     "Texts": {
       "Eng": "The leather sssmells tasssty.",
       "Por": "O couro cheira gostoso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/apexofficechair/apexofficechair.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unimpressed. Ergonomics unacceptable.",
+      "Por": "Não impressionado. Ergonomia inaceitável."
     }
   },
   {

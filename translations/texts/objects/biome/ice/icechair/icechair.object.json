@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/ice/icechair/icechair.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Considering. These chairs would not be ideal for outdoor parties.",
+      "Por": "Considerando. Essas cadeiras não seriam ideais para festas ao ar livre."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/ice/icechair/icechair.object": [
         "/hylotlDescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "Ice Chair",
       "Por": "Ice Chair"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/ice/icechair/icechair.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "These chairs would not be ideal for outdoor parties."
     }
   },
   {

@@ -64,17 +64,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/2stopteleshop/2stopshop.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A vendor selling teleportation devices!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/outpost/2stopteleshop/2stopshop.object": [
         "/floranDescription"
       ]
     },
@@ -93,6 +82,18 @@
     "Texts": {
       "Eng": "Getting you from A to B without all that pesky intermediate space",
       "Por": "Levando você do A ao B sem complicação"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/2stopteleshop/2stopshop.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Interested. A vendor selling teleportation devices!",
+      "Por": "Interessado. Um vendedor que vende dispositivos de teletransporte!"
     }
   },
   {

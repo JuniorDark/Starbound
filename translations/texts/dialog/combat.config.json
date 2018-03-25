@@ -15,30 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/combat.config": [
-        "/attack/glitch/default/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A foe!",
-      "Por": "Um inimigo!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/combat.config": [
-        "/killedTarget/glitch/default/5/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A marvelous victory!",
-      "Por": "Uma vitória maravilhosa!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/combat.config": [
         "/killedTarget/hylotl/default/4"
       ]
     },
@@ -63,12 +39,35 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/combat.config": [
+        "/attack/glitch/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aggressive. Prepare to lose your life!",
+      "Por": "Agressivo. Prepare-se para perder a sua vida!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/reattack/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aggressive. This time you will not escape.",
+      "Por": "Agressivo. Desta vez você não escapará."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
         "/reattack/default/default/2"
       ]
     },
     "Texts": {
-      "Eng": "Aha!",
-      "Por": "Aha!"
+      "Eng": "Aha!"
     }
   },
   {
@@ -99,12 +98,35 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/combat.config": [
+        "/cantReach/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Angry. Come here!",
+      "Por": "Bravo. Venha aqui!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/reattack/glitch/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Angry. How dare you return!?",
+      "Por": "Bravo. Como você se atreve a voltar!?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
         "/attack/avian/default/2"
       ]
     },
     "Texts": {
-      "Eng": "Anhingaaa!",
-      "Por": "Anhingaaa!"
+      "Eng": "Anhingaaa!"
     }
   },
   {
@@ -123,20 +145,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/combat.config": [
-        "/killedTarget/glitch/default/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Another job well done.",
-      "Por": "Outro trabalho bem feito."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/combat.config": [
-        "/killedTarget/default/default/3",
-        "/killedTarget/glitch/default/0/glitchEmotedText"
+        "/killedTarget/default/default/3"
       ]
     },
     "Texts": {
@@ -176,8 +185,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Bang!",
-      "Por": "Bang!"
+      "Eng": "Bang!"
     }
   },
   {
@@ -208,12 +216,23 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/combat.config": [
+        "/lostTarget/glitch/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bored. Now what am I going to do?",
+      "Por": "Entediado. E agora, o que vou fazer?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
         "/attack/avian/default/0"
       ]
     },
     "Texts": {
-      "Eng": "Caaaw!",
-      "Por": "Caaaw!"
+      "Eng": "Caaaw!"
     }
   },
   {
@@ -224,8 +243,19 @@
       ]
     },
     "Texts": {
-      "Eng": "Cacique!",
-      "Por": "Cacique!"
+      "Eng": "Cacique!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/glitch/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Calm. I will not be easily overcome.",
+      "Por": "Calmo. Eu não vou ser facilmente derrotado."
     }
   },
   {
@@ -236,8 +266,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Caracaraaa!",
-      "Por": "Caracaraaa!"
+      "Eng": "Caracaraaa!"
     }
   },
   {
@@ -260,20 +289,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Chachalacaaa!",
-      "Por": "Chachalacaaa!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/combat.config": [
-        "/cantReach/glitch/default/4/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Come closer so we can fight!",
-      "Por": "Chegue mais perto para que possamos lutar!"
+      "Eng": "Chachalacaaa!"
     }
   },
   {
@@ -292,8 +308,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/combat.config": [
-        "/cantReach/default/default/1",
-        "/cantReach/glitch/default/1/glitchEmotedText"
+        "/cantReach/default/default/1"
       ]
     },
     "Texts": {
@@ -311,6 +326,54 @@
     "Texts": {
       "Eng": "Come on!",
       "Por": "Vamos!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/cheerOn/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Commanding. Get them!",
+      "Por": "Comandante. Pegue eles!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/outOfSight/glitch/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Confused. Where did they go?",
+      "Por": "Confuso. Para onde eles foram?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/glitch/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Courageous. I shall defeat this foe!",
+      "Por": "Corajoso. Eu devo derrotar este inimigo!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/glitch/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Daring. To battle!",
+      "Por": "Audaz. Para a batalha!"
     }
   },
   {
@@ -341,12 +404,36 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/combat.config": [
+        "/attack/glitch/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eager. You have breathed your last!",
+      "Por": "Ansioso. Você respirou pela última vez!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
         "/killedTarget/avian/default/7"
       ]
     },
     "Texts": {
       "Eng": "Easy work.",
       "Por": "Trabalho fácil."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/lostTarget/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Embarrassed. I lost my adversary...",
+      "Por": "Envergonhado. Eu perdi meu adversário..."
     }
   },
   {
@@ -389,12 +476,96 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/combat.config": [
+        "/outOfSight/glitch/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enraged. How did you disappear!?",
+      "Por": "Enfurecido. Como você desapareceu?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/cheerOn/glitch/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enthusiastic. Get the foe!",
+      "Por": "Entusiasmado. Pegue o inimigo!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
         "/cheerOn/default/default/2"
       ]
     },
     "Texts": {
       "Eng": "Everybody is in my way.",
       "Por": "Todos estão no meu caminho."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excited. A foe!",
+      "Por": "Animado. Um inimigo!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/cheerOn/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excited. Strike them down!",
+      "Por": "Animado. Acabe com eles!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/killedTarget/glitch/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excited. That was exhilarating!",
+      "Por": "Animado. Isso foi emocionante!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/killedTarget/glitch/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Exhausted. I need to get more exercise.",
+      "Por": "Exausto. Preciso fazer mais exercício."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/reattack/glitch/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fearless. I am ready to battle you once again!",
+      "Por": "Destemido. Estou pronto para batalhar com você mais uma vez!"
     }
   },
   {
@@ -617,6 +788,32 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/combat.config": [
+        "/outOfSight/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frustrated. I know you're here somewhere!",
+      "Por": "Frustrado. Eu sei que você está aqui em algum lugar!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/cantReach/glitch/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frustrated. Why didn't I bring a crossbow?",
+      "Por": "Frustrado. Por que eu não trouxe uma besta?"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Pegue!"
+    ],
+    "Files": {
+      "dialog/combat.config": [
         "/attack/floran/default/3",
         "/cheerOn/floran/default/3"
       ]
@@ -642,18 +839,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/combat.config": [
-        "/cheerOn/glitch/default/2/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Get the foe!",
-      "Por": "Pegue o inimigo!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/combat.config": [
         "/cheerOn/floran/default/1"
       ]
     },
@@ -666,24 +851,36 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/combat.config": [
-        "/lostTarget/glitch/default/3/glitchEmotedText"
+        "/cheerOn/glitch/default/3"
       ]
     },
     "Texts": {
-      "Eng": "Good riddance.",
-      "Por": "Boa viagem."
+      "Eng": "Goading. Why isn't this foe already dead?",
+      "Por": "Incitante. Por que esse inimigo já não está morto?"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "dialog/combat.config": [
-        "/attack/glitch/default/1/glitchEmotedText"
+        "/killedTarget/glitch/default/1"
       ]
     },
     "Texts": {
-      "Eng": "Have at thee!",
-      "Por": "Vem até mim, covarde!"
+      "Eng": "Gratified. Another job well done.",
+      "Por": "Satisfeito. Outro trabalho bem feito."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/killedTarget/glitch/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Happy. A marvelous victory!",
+      "Por": "Feliz. Uma vitória maravilhosa!"
     }
   },
   {
@@ -694,8 +891,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Heh.",
-      "Por": "Heh."
+      "Eng": "Heh."
     }
   },
   {
@@ -708,6 +904,18 @@
     "Texts": {
       "Eng": "Hello again, prey.",
       "Por": "Olá novamente, presa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/lostTarget/glitch/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hopeful. Um... Come back?",
+      "Por": "Esperançoso. Um... Volte?"
     }
   },
   {
@@ -750,48 +958,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/combat.config": [
-        "/cantReach/glitch/default/3/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "How can we fight if I can't reach you?",
-      "Por": "Como podemos lutar se não posso alcançá-lo?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/combat.config": [
-        "/reattack/glitch/default/3/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "How dare you return!?",
-      "Por": "Como se atreve a voltar!?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/combat.config": [
         "/outOfSight/default/default/4"
       ]
     },
     "Texts": {
       "Eng": "How did this happen?",
       "Por": "Como isso aconteceu?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/combat.config": [
-        "/outOfSight/glitch/default/4/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "How did you disappear!?",
-      "Por": "Como você desapareceu?"
     }
   },
   {
@@ -840,18 +1012,6 @@
     "Texts": {
       "Eng": "I ain't got time for this!",
       "Por": "Eu não tenho tempo para isso!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/combat.config": [
-        "/reattack/glitch/default/2/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I am ready to battle you once again!",
-      "Por": "Estou pronto para lutar contra você novamente!"
     }
   },
   {
@@ -942,30 +1102,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/combat.config": [
-        "/outOfSight/glitch/default/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I know you're here somewhere!",
-      "Por": "Eu sei que você está aqui em algum lugar!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/combat.config": [
-        "/lostTarget/glitch/default/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I lost my adversary...",
-      "Por": "Perdi o meu adversário..."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/combat.config": [
         "/killedTarget/novakid/default/0"
       ]
     },
@@ -978,48 +1114,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/combat.config": [
-        "/killedTarget/glitch/default/3/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I need to get more exercise.",
-      "Por": "Eu preciso fazer mais exercícios."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/combat.config": [
-        "/attack/glitch/default/4/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I shall defeat this foe!",
-      "Por": "Eu vou derrotar esse inimigo!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/combat.config": [
         "/attack/hylotl/default/4"
       ]
     },
     "Texts": {
       "Eng": "I shall strike like lightning!",
       "Por": "Vou atacar como um raio!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/combat.config": [
-        "/cheerOn/glitch/default/4/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I want to kill it!",
-      "Por": "Eu quero matá-lo!"
     }
   },
   {
@@ -1086,18 +1186,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/combat.config": [
-        "/attack/glitch/default/2/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I will not be easily overcome.",
-      "Por": "Não serei facilmente vencido."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/combat.config": [
         "/attack/hylotl/default/5"
       ]
     },
@@ -1116,18 +1204,6 @@
     "Texts": {
       "Eng": "I will take revenge for my ancestors!",
       "Por": "Vou me vingar dos meus antepassados!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/combat.config": [
-        "/outOfSight/glitch/default/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I'll just wait here 'til you come back.",
-      "Por": "Vou esperar aqui até você voltar."
     }
   },
   {
@@ -1194,6 +1270,54 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/combat.config": [
+        "/reattack/glitch/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impassioned. You have returned only to be vanquished!",
+      "Por": "Exaltado. Você voltou só para ser derrotado!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/cantReach/glitch/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Irate. Come closer so we can fight!",
+      "Por": "Irado. Aproxime-se para que possamos lutar!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/cantReach/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Irritated. They are beyond my reach!",
+      "Por": "Irritado. Eles estão fora do meu alcance!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/reattack/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Irritated. You will regret returning.",
+      "Por": "Irritado. Você vai se arrepender de voltar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
         "/killedTarget/hylotl/default/5"
       ]
     },
@@ -1234,8 +1358,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Jocotoco!.",
-      "Por": "Jocotoco!."
+      "Eng": "Jocotoco!."
     }
   },
   {
@@ -1350,18 +1473,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/combat.config": [
-        "/lostTarget/glitch/default/2/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Now what am I going to do?",
-      "Por": "O que vou fazer agora?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/combat.config": [
         "/killedTarget/default/default/6"
       ]
     },
@@ -1374,12 +1485,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/combat.config": [
-        "/attack/glitch/default/6/glitchEmotedText"
+        "/outOfSight/glitch/default/0"
       ]
     },
     "Texts": {
-      "Eng": "Prepare to lose your life!",
-      "Por": "Prepare-se para perder sua vida!"
+      "Eng": "Patient. I'll just wait here 'til you come back.",
+      "Por": "Paciente. Vou esperar aqui até você voltar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/killedTarget/glitch/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased. What a triumph.",
+      "Por": "Satisfeito. Que triunfo."
     }
   },
   {
@@ -1392,6 +1515,54 @@
     "Texts": {
       "Eng": "Problem solved.",
       "Por": "Problema resolvido."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/killedTarget/glitch/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Proud. What an excellent display of my own skill.",
+      "Por": "Orgulhoso. Que excelente exibição de minha habilidade."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/attack/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pugnacious. Have at thee!",
+      "Por": "Brigão. Venha até mim!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/killedTarget/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Satisfied. Another victory!",
+      "Por": "Satisfeito. Mais uma vitória!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/cheerOn/glitch/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Selfish. I want to kill it!",
+      "Por": "Egoísta. Quero matá-lo!"
     }
   },
   {
@@ -1416,6 +1587,18 @@
     "Texts": {
       "Eng": "So you came back.",
       "Por": "Então você voltou."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/combat.config": [
+        "/lostTarget/glitch/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sour. Good riddance.",
+      "Por": "Irritado. Boa viagem."
     }
   },
   {
@@ -1458,12 +1641,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/combat.config": [
-        "/cheerOn/glitch/default/0/glitchEmotedText"
+        "/cantReach/glitch/default/3"
       ]
     },
     "Texts": {
-      "Eng": "Strike them down!",
-      "Por": "Acabe com eles!"
+      "Eng": "Sullen. How can we fight if I can't reach you?",
+      "Por": "Mal-humorado. Como podemos lutar se eu não posso alcançá-lo?"
     }
   },
   {
@@ -1474,8 +1657,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Tapacuuulo!",
-      "Por": "Tapacuuulo!"
+      "Eng": "Tapacuuulo!"
     }
   },
   {
@@ -1512,18 +1694,6 @@
     "Texts": {
       "Eng": "Target subdued.",
       "Por": "Alvo subjugado."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/combat.config": [
-        "/killedTarget/glitch/default/2/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "That was exhilarating!",
-      "Por": "Isso foi emocionante!"
     }
   },
   {
@@ -1650,18 +1820,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/combat.config": [
-        "/cantReach/glitch/default/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "They are beyond my reach!",
-      "Por": "Eles estão fora do meu alcance!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/combat.config": [
         "/outOfSight/default/default/1"
       ]
     },
@@ -1698,12 +1856,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/combat.config": [
-        "/reattack/glitch/default/1/glitchEmotedText"
+        "/lostTarget/glitch/default/1"
       ]
     },
     "Texts": {
-      "Eng": "This time you will not escape.",
-      "Por": "Desta vez você não vai escapar."
+      "Eng": "Thoughtful. What am I doing with my life?",
+      "Por": "Pensativo. O que eu estou fazendo com a minha vida?"
     }
   },
   {
@@ -1758,18 +1916,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/combat.config": [
-        "/attack/glitch/default/3/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "To battle!",
-      "Por": "Batalhar!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/combat.config": [
         "/cantReach/floran/default/3"
       ]
     },
@@ -1786,20 +1932,19 @@
       ]
     },
     "Texts": {
-      "Eng": "Uh-oh...",
-      "Por": "Uh-oh..."
+      "Eng": "Uh-oh..."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "dialog/combat.config": [
-        "/lostTarget/glitch/default/4/glitchEmotedText"
+        "/outOfSight/glitch/default/3"
       ]
     },
     "Texts": {
-      "Eng": "Um... Come back?",
-      "Por": "Um... Volte?"
+      "Eng": "Uncertain. Wasn't I fighting someone a second ago?",
+      "Por": "Incerto. Eu não estava lutando contra alguém há um segundo?"
     }
   },
   {
@@ -1812,18 +1957,6 @@
     "Texts": {
       "Eng": "Victory!",
       "Por": "Vitória!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/combat.config": [
-        "/outOfSight/glitch/default/3/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Wasn't I fighting someone a second ago?",
-      "Por": "Eu não estava lutando com alguém um segundo atrás?"
     }
   },
   {
@@ -1866,42 +1999,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/combat.config": [
-        "/killedTarget/glitch/default/4/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "What a triumph.",
-      "Por": "Que triunfo."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/combat.config": [
-        "/lostTarget/glitch/default/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "What am I doing with my life?",
-      "Por": "O que estou fazendo com a minha vida?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/combat.config": [
-        "/killedTarget/glitch/default/6/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "What an excellent display of my own skill.",
-      "Por": "Que excelente exibição da minha habilidade."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/combat.config": [
         "/killedTarget/hylotl/default/1"
       ]
     },
@@ -1938,18 +2035,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/combat.config": [
-        "/outOfSight/glitch/default/2/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Where did they go?",
-      "Por": "Onde é que eles foram?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/combat.config": [
         "/outOfSight/floran/default/4"
       ]
     },
@@ -1980,30 +2065,6 @@
     "Texts": {
       "Eng": "Why aren't they already dead?",
       "Por": "Por que eles não estão mortos?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/combat.config": [
-        "/cantReach/glitch/default/2/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Why didn't I bring a crossbow?",
-      "Por": "Por que não trouxe uma besta?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/combat.config": [
-        "/cheerOn/glitch/default/3/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Why isn't this foe already dead?",
-      "Por": "Por que esse inimigo já não está morto?"
     }
   },
   {
@@ -2118,48 +2179,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/combat.config": [
-        "/attack/glitch/default/5/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "You have breathed your last!",
-      "Por": "Você respirou pela última vez!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/combat.config": [
-        "/reattack/glitch/default/4/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "You have returned only to be vanquished!",
-      "Por": "Você voltou apenas para ser derrotado!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/combat.config": [
         "/reattack/default/default/1"
       ]
     },
     "Texts": {
       "Eng": "You returned!",
       "Por": "Você voltou!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/combat.config": [
-        "/reattack/glitch/default/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "You will regret returning.",
-      "Por": "Você vai se arrepender de voltar."
     }
   },
   {

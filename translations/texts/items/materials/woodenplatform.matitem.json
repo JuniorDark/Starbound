@@ -3,6 +3,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/woodenplatform.matitem": [
+        "/glitchdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Delighted. These ornate platforms have been finely sanded and finished."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/woodenplatform.matitem": [
         "/description"
       ]
     },
@@ -19,8 +30,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Ornate platformss made from wood.",
-      "Por": "Plataformass ornamentadas feitas de madeira."
+      "Eng": "Ornate platformss made from wood."
     }
   },
   {
@@ -31,20 +41,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Some ornate looking wooden platforms.",
-      "Por": "Algumas plataformas de madeira ornamentada."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/woodenplatform.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "These ornate platforms have been finely sanded and finished.",
-      "Por": "Essas plataformas ornamentadas foram finamente lixadas e finalizadas."
+      "Eng": "Some ornate looking wooden platforms."
     }
   }
 ]

@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/geode/geodeceilinglight/geodeceilinglight.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amazed. Somehow this fixture is able to trigger this geode's natural light electronically.",
+      "Por": "Surpreso. De alguma forma este dispositivo elétrico é capaz de disparar a luz natural deste geodo eletronicamente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/geode/geodeceilinglight/geodeceilinglight.object": [
         "/shortdescription"
       ]
     },
@@ -57,17 +69,6 @@
     "Texts": {
       "Eng": "I've seen many crystal powered lights, but this one definitely isn't Avian in design.",
       "Por": "Já vi muitas luzes alimentadas por cristal, mas este definitivamente não é Avian em design."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/geode/geodeceilinglight/geodeceilinglight.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Somehow this fixture is able to trigger this geode's natural light electronically."
     }
   },
   {

@@ -87,24 +87,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/themed/farm/baguettebox/baguettebox.object": [
-        "/apexDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "These loaves are clearly handmade, nothing like the 'bread' back home.",
-      "Por": "Estes pães são claramente feitos à mão."
+      "Eng": "Sentimental. These rustic loaves remind me of a simpler life.",
+      "Por": "Sentimental. Estes pães rústicos me lembram uma vida mais simples."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/themed/farm/baguettebox/baguettebox.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/apexDescription"
       ]
     },
     "Texts": {
-      "Eng": "These rustic loaves remind me of a simpler life.",
-      "Por": "Estes pães rústicos me lembram uma vida mais simples."
+      "Eng": "These loaves are clearly handmade, nothing like the 'bread' back home.",
+      "Por": "Estes pães são claramente feitos à mão."
     }
   }
 ]

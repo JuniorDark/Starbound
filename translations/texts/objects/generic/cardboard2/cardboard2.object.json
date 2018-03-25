@@ -75,23 +75,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/cardboard2/cardboard2.object": [
-        "/apexDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "This cardboard box can be stacked as an efficient storage solution.",
-      "Por": "Esta caixa de papelão pode ser empilhada como uma solução de armazenamento eficiente."
+      "Eng": "Surprised. This cardboard is exceptionally durable, almost anything can be stored inside.",
+      "Por": "Surpreso. Esta caixa de papelão é excepcionalmente durável, quase tudo pode ser armazenado dentro."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/cardboard2/cardboard2.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/apexDescription"
       ]
     },
     "Texts": {
-      "Eng": "This cardboard is exceptionally durable, almost anything can be stored inside."
+      "Eng": "This cardboard box can be stacked as an efficient storage solution.",
+      "Por": "Esta caixa de papelão pode ser empilhada como uma solução de armazenamento eficiente."
     }
   }
 ]

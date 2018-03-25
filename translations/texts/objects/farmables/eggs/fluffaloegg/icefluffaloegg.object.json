@@ -15,23 +15,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/eggs/fluffaloegg/icefluffaloegg.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "An egg with an ice fluffalo inside! These adorably fluffy livestock produce cryonic extract."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/farmables/eggs/fluffaloegg/icefluffaloegg.object": [
         "/avianDescription"
       ]
     },
     "Texts": {
       "Eng": "An ice fluffalo egg. Ice fluffalo are livestock - they produce cryonic extract.",
       "Por": "Um ovo de fluffalo de gelo. O fluffalo de gelo é gado - produzem cryonic extract."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/eggs/fluffaloegg/icefluffaloegg.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Charmed. An egg with an ice fluffalo inside! These adorably fluffy livestock produce cryonic extract.",
+      "Por": "Encantado. Um ovo com um fluffalo de gelo dentro! Estes animais adoráveis macios produzem cryonic extract."
     }
   },
   {

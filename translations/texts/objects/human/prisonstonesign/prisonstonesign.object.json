@@ -63,17 +63,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/prisonstonesign/prisonstonesign.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This rock appears to have come from an ancient burial ground. It may be cursed!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/human/prisonstonesign/prisonstonesign.object": [
         "/novakidDescription"
       ]
     },
@@ -104,6 +93,18 @@
     "Texts": {
       "Eng": "USCM, huh? I wouldn't wanna be one of their prisoners.",
       "Por": "USCM, hein? Eu não gostaria de ser um de seus prisioneiros."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisonstonesign/prisonstonesign.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Worried. This rock appears to have come from an ancient burial ground. It may be cursed!",
+      "Por": "Preocupado. Esta rocha parece ter vindo de um antigo cemitério. Pode ser amaldiçoada!"
     }
   }
 ]

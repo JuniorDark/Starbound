@@ -51,17 +51,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/holiday/giantsanta/giantsanta.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I thought this jolly old man was real."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/holiday/giantsanta/giantsanta.object": [
         "/shortdescription"
       ]
     },
@@ -92,6 +81,18 @@
     "Texts": {
       "Eng": "Sssanta?",
       "Por": "Papai Noel?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/holiday/giantsanta/giantsanta.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Startled. I thought this jolly old man was real.",
+      "Por": "Assustado. Eu pensei que este velho alegre era real."
     }
   },
   {

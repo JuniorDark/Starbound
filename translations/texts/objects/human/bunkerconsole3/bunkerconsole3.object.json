@@ -63,6 +63,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/bunkerconsole3/bunkerconsole3.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nosy. There's a message on the screen. \"Let me explain to you why you are wrong...\" The rest of the post descends into unintelligible ranting.",
+      "Por": "Intrometido. Há uma mensagem na tela. \"Deixe-me explicar-lhe porque você está errado...\" O resto do post desce ao discurso ininteligível."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkerconsole3/bunkerconsole3.object": [
         "/shortdescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "There's a message on the screen. \"Dear Marjory. Please remember to put the cat out. Love David\" Interesting.",
       "Por": "Há uma mensagem na tela. \"Querida Marjory, por favor lembre-se de colocar o gato para fora. Com amor David\" Interessante."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/human/bunkerconsole3/bunkerconsole3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "There's a message on the screen. \"Let me explain to you why you are wrong...\" The rest of the post descends into unintelligible ranting."
     }
   },
   {

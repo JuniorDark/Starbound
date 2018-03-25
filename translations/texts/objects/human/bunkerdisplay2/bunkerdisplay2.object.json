@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/bunkerdisplay2/bunkerdisplay2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A fascinating pie chart detailing stationary expenditure."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/human/bunkerdisplay2/bunkerdisplay2.object": [
         "/apexDescription"
       ]
     },
@@ -68,6 +57,18 @@
     "Texts": {
       "Eng": "Ooh, an info-graphic. Sadly not one of those funny internet ones.",
       "Por": "Ooh, um info-gráfico. Infelizmente não um daqueles engraçados da Internet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkerdisplay2/bunkerdisplay2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sarcastic. A fascinating pie chart detailing stationary expenditure.",
+      "Por": "Sarcástico. Um gráfico de pizza fascinante que detalha despesas estacionárias."
     }
   },
   {

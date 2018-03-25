@@ -18,6 +18,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/lightmetal.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/lightmetal.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Approving. These tiles are easy to keep sterilized.",
+      "Por": "Aprovação. Estas telhas são fáceis de manter esterilizada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/lightmetal.matitem": [
         "/shortdescription"
       ],
       "tiles/materials/lightmetal.material": [
@@ -57,21 +72,6 @@
     "Texts": {
       "Eng": "Some tiles made outta metal.",
       "Por": "Algumas telhas feitas de metal."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/lightmetal.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/lightmetal.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "These tiles are easy to keep sterilized.",
-      "Por": "Estes blocos são fáceis de manter esterilizados."
     }
   }
 ]

@@ -33,12 +33,10 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/holiday/purplegumdrop1/purplegumdrop1.object": [
-        "/apexDescription",
-        "/glitchDescription/glitchEmotedText"
+        "/apexDescription"
       ],
       "objects/holiday/purplegumdrop2/purplegumdrop2.object": [
-        "/apexDescription",
-        "/glitchDescription/glitchEmotedText"
+        "/apexDescription"
       ]
     },
     "Texts": {
@@ -59,6 +57,21 @@
     "Texts": {
       "Eng": "Floran eat big purple sweet!",
       "Por": "Floran come grande roxo doce!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/holiday/purplegumdrop1/purplegumdrop1.object": [
+        "/glitchDescription"
+      ],
+      "objects/holiday/purplegumdrop2/purplegumdrop2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thrilled. A tasty purple gumdrop.",
+      "Por": "Feliz. Uma jujuba roxa saborosa."
     }
   }
 ]

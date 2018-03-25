@@ -18,6 +18,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/woodenwindow1.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/woodenwindow1.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Delighted. This window helps brighten the room.",
+      "Por": "Encantado. Essa janela ajuda a iluminar o ambiente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/woodenwindow1.matitem": [
         "/novakiddescription"
       ],
       "tiles/materials/woodenwindow1.material": [
@@ -42,21 +57,6 @@
     "Texts": {
       "Eng": "Nice windowss, Floran can see outside.",
       "Por": "Janelass agradáveis, Floran pode ver o lado de fora."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/woodenwindow1.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/woodenwindow1.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This window helps brighten the room.",
-      "Por": "Esta janela ajuda a iluminar a sala."
     }
   },
   {

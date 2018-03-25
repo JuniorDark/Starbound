@@ -75,11 +75,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/crafting/refinery/refinery.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Ore can be converted into pixels here."
+      "Eng": "Neutral. Ore can be converted into pixels here.",
+      "Por": "Neutro. Minério pode ser convertido em pixels aqui."
     }
   },
   {

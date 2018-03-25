@@ -4,7 +4,6 @@
     "Files": {
       "objects/outpost/outpostterminal/outpostterminal.object": [
         "/avianDescription",
-        "/glitchDescription/glitchEmotedText",
         "/humanDescription"
       ]
     },
@@ -59,6 +58,18 @@
     "Texts": {
       "Eng": "Beeping terminal.",
       "Por": "Terminal barulhento."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostterminal/outpostterminal.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disinterested. A terminal.",
+      "Por": "Desinteressado. Um terminal."
     }
   },
   {

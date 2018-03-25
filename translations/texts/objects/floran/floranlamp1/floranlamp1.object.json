@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/floranlamp1/floranlamp1.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amazed. The plant appears to absorb sunrays during the day, causing it to glow.",
+      "Por": "Maravilhado. A planta parece absorver raios solares durante o dia, fazendo com que brilhe."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/floranlamp1/floranlamp1.object": [
         "/floranDescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "Something about this plant seems unnatural.",
       "Por": "Algo sobre esta planta parece antinatural."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/floran/floranlamp1/floranlamp1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The plant appears to absorb sunrays during the day, causing it to glow."
     }
   },
   {

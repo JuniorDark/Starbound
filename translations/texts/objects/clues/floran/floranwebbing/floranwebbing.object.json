@@ -39,23 +39,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/clues/floran/floranwebbing/floranwebbing.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Just a huge, sticky web, nothing to be afraid of."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/clues/floran/floranwebbing/floranwebbing.object": [
         "/novakidDescription"
       ]
     },
     "Texts": {
       "Eng": "Mess o' nasty lookin' web gunk.",
       "Por": "Teia grudenta de aparência desagradável."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/clues/floran/floranwebbing/floranwebbing.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Terrified. Just a huge, sticky web, nothing to be afraid of.",
+      "Por": "Aterrorizado. Apenas uma enorme teia pegajosa, nada a ter medo."
     }
   },
   {

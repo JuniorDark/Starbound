@@ -3,6 +3,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/rainbowwoodblock.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/rainbowwoodblock.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Delighted. These colourful planks are bright and cheerful.",
+      "Por": "Encantado. Estas tábuas coloridas são brilhantes e alegres."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rainbowwoodblock.matitem": [
         "/florandescription"
       ],
       "tiles/materials/rainbowwoodblock.material": [
@@ -57,21 +72,6 @@
     "Texts": {
       "Eng": "Simply fabulous.",
       "Por": "Simplesmente fabuloso."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/rainbowwoodblock.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/rainbowwoodblock.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "These colourful planks are bright and cheerful.",
-      "Por": "Essas tábuas coloridas são brilhantes e alegres."
     }
   }
 ]

@@ -51,23 +51,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/plantcage2/plantcage2.object": [
-        "/hylotlDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Perhaps prisoners are punished by being held in this tiny cage.",
-      "Por": "Talvez prisioneiros sejam punidos por serem mantidos nesta pequena jaula."
+      "Eng": "Concerned. Prisoners held in this cage would have barely any room to move.",
+      "Por": "Preocupado. Prisioneiros mantidos nesta jaula mal teriam espaço para se mover."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/plantcage2/plantcage2.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/hylotlDescription"
       ]
     },
     "Texts": {
-      "Eng": "Prisoners held in this cage would have barely any room to move."
+      "Eng": "Perhaps prisoners are punished by being held in this tiny cage.",
+      "Por": "Talvez prisioneiros sejam punidos por serem mantidos nesta pequena jaula."
     }
   },
   {

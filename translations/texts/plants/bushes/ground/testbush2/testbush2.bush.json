@@ -4,13 +4,24 @@
     "Files": {
       "plants/bushes/ground/testbush2/testbush2.bush": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ]
     },
     "Texts": {
       "Eng": "A blackened shrub.",
       "Por": "Um arbusto escurecido."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/testbush2/testbush2.bush": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. A blackened shrub.",
+      "Por": "Relatório. Um arbusto escurecido."
     }
   }
 ]

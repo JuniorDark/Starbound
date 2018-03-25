@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/neonhylotlhead/neonhylotlhead.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. It's a neon sign in the shape of a Hylotl's head. Why?",
+      "Por": "Curioso. É uma placa de néon na forma de uma cabeça Hylotl. Por quê?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/neonhylotlhead/neonhylotlhead.object": [
         "/floranDescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "It's a neon sign in the shape of a Hylotl's head.",
       "Por": "É uma placa de néon na forma de uma cabeça Hylotl."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/hylotl/neonhylotlhead/neonhylotlhead.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "It's a neon sign in the shape of a Hylotl's head. Why?"
     }
   },
   {

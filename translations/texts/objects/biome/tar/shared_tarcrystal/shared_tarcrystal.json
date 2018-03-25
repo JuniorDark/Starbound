@@ -24,6 +24,30 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/tar/tarcrystal1/tarcrystal1.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/tar/tarcrystal2/tarcrystal2.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/tar/tarcrystal3/tarcrystal3.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/tar/tarcrystal4/tarcrystal4.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/tar/tarcrystal5/tarcrystal5.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amazed. What a transformation from it's horrid, glutinous state.",
+      "Por": "Espantado. Que transformação de seu estado horrível e pegajoso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/tar/tarcrystal1/tarcrystal1.object": [
         "/avianDescription"
       ],
       "objects/biome/tar/tarcrystal2/tarcrystal2.object": [
@@ -162,29 +186,6 @@
     "Texts": {
       "Eng": "Tar can be rather beautiful in it's crystallised form.",
       "Por": "Piche pode ser bastante bonito em sua forma cristalizada."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/tar/tarcrystal1/tarcrystal1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/tar/tarcrystal2/tarcrystal2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/tar/tarcrystal3/tarcrystal3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/tar/tarcrystal4/tarcrystal4.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/tar/tarcrystal5/tarcrystal5.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "What a transformation from it's horrid, glutinous state."
     }
   }
 ]

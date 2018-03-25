@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Um tesouro cintilante de tesouro valioso."
+    ],
     "Files": {
       "items/materials/treasurehoard.matitem": [
         "/description"
@@ -48,15 +50,15 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/treasurehoard.matitem": [
-        "/glitchdescription/glitchEmotedText"
+        "/glitchdescription"
       ],
       "tiles/materials/treasurehoard.material": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "I can't take my eyes off this treasure.",
-      "Por": "Não consigo tirar os olhos deste tesouro."
+      "Eng": "Possessive. I can't take my eyes off this treasure.",
+      "Por": "Possessivo. Eu não posso tirar meus olhos deste tesouro."
     }
   },
   {

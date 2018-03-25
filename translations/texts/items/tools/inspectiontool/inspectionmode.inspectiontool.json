@@ -27,6 +27,30 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/tools/inspectiontool/inspectionmode.inspectiontool": [
+        "/outOfRangeText/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disappointed. I cannot see that spot from this position.",
+      "Por": "Desapontado. Não consigo ver esse local desta posição."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/inspectiontool/inspectionmode.inspectiontool": [
+        "/nothingThereText/glitch/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disappointed. Nothing interesting.",
+      "Por": "Decepcionado. Nada de interessante."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/inspectiontool/inspectionmode.inspectiontool": [
         "/outOfRangeText/floran/2"
       ]
     },
@@ -75,24 +99,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/tools/inspectiontool/inspectionmode.inspectiontool": [
-        "/outOfRangeText/novakid/1"
+        "/outOfRangeText/glitch/2"
       ]
     },
     "Texts": {
-      "Eng": "I ain't near enough to make that out.",
-      "Por": "Não estou perto o suficiente para fazer isso."
+      "Eng": "Frustrated. I cannot see that from here.",
+      "Por": "Frustrado. Não consigo ver isso daqui."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "items/tools/inspectiontool/inspectionmode.inspectiontool": [
-        "/outOfRangeText/glitch/3/glitchEmotedText"
+        "/outOfRangeText/novakid/1"
       ]
     },
     "Texts": {
-      "Eng": "I am not close enough to see that.",
-      "Por": "Não estou perto o suficiente para ver isso."
+      "Eng": "I ain't near enough to make that out.",
+      "Por": "Não estou perto o suficiente para fazer isso."
     }
   },
   {
@@ -117,30 +141,6 @@
     "Texts": {
       "Eng": "I can't see that spot.",
       "Por": "Não consigo ver esse local."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/tools/inspectiontool/inspectionmode.inspectiontool": [
-        "/outOfRangeText/glitch/2/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I cannot see that from here.",
-      "Por": "Não consigo ver isso daqui."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/tools/inspectiontool/inspectionmode.inspectiontool": [
-        "/outOfRangeText/glitch/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I cannot see that spot from this position.",
-      "Por": "Não consigo ver esse ponto desta posição."
     }
   },
   {
@@ -183,18 +183,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/tools/inspectiontool/inspectionmode.inspectiontool": [
-        "/outOfRangeText/glitch/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I'm not sure what that is; perhaps I should get closer.",
-      "Por": "Não sei o que é isso, talvez eu deva me aproximar."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/tools/inspectiontool/inspectionmode.inspectiontool": [
         "/description"
       ]
     },
@@ -213,6 +201,18 @@
     "Texts": {
       "Eng": "Inspection Mode",
       "Por": "Modo Inspeção"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/inspectiontool/inspectionmode.inspectiontool": [
+        "/outOfRangeText/glitch/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Irked. I am not close enough to see that.",
+      "Por": "Aborrecido. Não estou perto o suficiente para ver isso."
     }
   },
   {
@@ -255,24 +255,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/tools/inspectiontool/inspectionmode.inspectiontool": [
-        "/nothingThereText/glitch/2/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Nothing interesting.",
-      "Por": "Nada interessante."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/tools/inspectiontool/inspectionmode.inspectiontool": [
         "/nothingThereText/floran/1"
       ]
     },
     "Texts": {
       "Eng": "Nothing to sssee.",
       "Por": "Nada para ver."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/inspectiontool/inspectionmode.inspectiontool": [
+        "/outOfRangeText/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Puzzled. I'm not sure what that is; perhaps I should get closer.",
+      "Por": "Confuso. Não tenho certeza o que é isso, talvez eu devesse me aproximar."
     }
   }
 ]

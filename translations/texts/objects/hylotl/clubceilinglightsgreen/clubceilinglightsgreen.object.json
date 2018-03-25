@@ -51,23 +51,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/clubceilinglightsgreen/clubceilinglightsgreen.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "It's a green light."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/hylotl/clubceilinglightsgreen/clubceilinglightsgreen.object": [
         "/novakidDescription"
       ]
     },
     "Texts": {
       "Eng": "This green light sure lights up the room.",
       "Por": "Esta luz verde com certeza ilumina a sala."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/clubceilinglightsgreen/clubceilinglightsgreen.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Uninterested. It's a green light.",
+      "Por": "Desinteressado. É uma luz verde."
     }
   }
 ]

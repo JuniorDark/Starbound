@@ -63,6 +63,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/floranchair/floranchair.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Indifference. Typical Floran design.",
+      "Por": "Indiferença. Projeto Floran típico."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/floranchair/floranchair.object": [
         "/shortdescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "The bones on this chair... Death seems to have woven itself into even the smallest parts of Floran life.",
       "Por": "Os ossos nesta cadeira... A morte parece ter se tecida até mesmo nas partes mais pequenas da vida Floran."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/floran/floranchair/floranchair.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Typical Floran design."
     }
   }
 ]

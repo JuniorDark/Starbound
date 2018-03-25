@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/space/industriallight/industriallight.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analytical. This light has been built to be able to power itself for a very long time.",
+      "Por": "Analítico. Esta luz foi construída para poder se alimentar por muito tempo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/industriallight/industriallight.object": [
         "/floranDescription"
       ]
     },
@@ -43,8 +55,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Industrial Light",
-      "Por": "Industrial Light"
+      "Eng": "Industrial Light"
     }
   },
   {
@@ -93,18 +104,6 @@
     "Texts": {
       "Eng": "This light gives off an orange glow. It appears to be fairly cheaply produced.",
       "Por": "Esta luz emite um brilho alaranjado. Parece ser bastante barata de ser produzida."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/space/industriallight/industriallight.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This light has been built to be able to power itself for a very long time.",
-      "Por": "Esta luz foi construída para ser capaz de se auto-energizar por um tempo muito longo."
     }
   }
 ]

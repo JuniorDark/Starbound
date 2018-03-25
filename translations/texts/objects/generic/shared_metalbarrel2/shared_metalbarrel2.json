@@ -63,6 +63,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/metalbarrel2/metalbarrel2.object": [
+        "/glitchDescription"
+      ],
+      "objects/generic/metalbarrel2b/metalbarrel2b.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fearful. The label on this barrel suggests it contains radioactive material.",
+      "Por": "Temeroso. O rótulo deste barril sugere que contém material radioativo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/metalbarrel2/metalbarrel2.object": [
         "/avianDescription"
       ],
       "objects/generic/metalbarrel2b/metalbarrel2b.object": [
@@ -117,20 +132,6 @@
     "Texts": {
       "Eng": "Round metal cube. No door. Thiss metal tastesss funny.",
       "Por": "Cubo redondo do metal. Sem porta. Este metal tem um gosto estranho."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/metalbarrel2/metalbarrel2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/generic/metalbarrel2b/metalbarrel2b.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The label on this barrel suggests it contains radioactive material."
     }
   }
 ]

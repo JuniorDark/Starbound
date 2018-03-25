@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma planta quente e picante. Exótico."
+    ],
     "Files": {
       "objects/farmables/chili/chiliseed.object": [
         "/avianDescription"
@@ -123,14 +125,15 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/chili/chiliseed.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/farmables/chili/wildchiliseed.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Who would choose to eat a food that hurts them?"
+      "Eng": "Ponderous. Who would choose to eat a food that hurts them?",
+      "Por": "Pensativo. Quem escolheria comer um alimento que os machucasse?"
     }
   }
 ]

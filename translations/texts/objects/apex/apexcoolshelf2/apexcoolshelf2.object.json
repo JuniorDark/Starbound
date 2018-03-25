@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/apexcoolshelf2/apexcoolshelf2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. What would happen if I drank one?",
+      "Por": "Curioso. O que aconteceria se eu bebesse um desses."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/apexcoolshelf2/apexcoolshelf2.object": [
         "/floranDescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "Many of these liquids could kill in seconds.",
       "Por": "Muitos deses líquidos poderiam matar em segundos."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/apex/apexcoolshelf2/apexcoolshelf2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "What would happen if I drank one?"
     }
   }
 ]

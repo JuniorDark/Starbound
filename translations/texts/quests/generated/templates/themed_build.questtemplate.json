@@ -39,12 +39,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/themed_build.questtemplate": [
-        "/scriptConfig/generatedText/text/default/glitch/1/glitchEmotedText"
+        "/scriptConfig/generatedText/text/default/glitch/0"
       ]
     },
     "Texts": {
-      "Eng": "Can you ^green;build a home^white;, and ^green;place ^orange;3^green; <tag>.^white; inside? Don't forget to ^green;include a ^orange;Colony Deed^green; and a ^orange;light!",
-      "Por": "Você pode ^green;construir uma casa^white;, e ^green;e você pode por ^orange;3^green; <tag>.^white; dentro dela? Ah e não se equeça ^green;de incluir uma ^orange;Colony Deed^green; e uma ^orange;luz!"
+      "Eng": "Attentive. Could you ^green;build a home^white; and ^green;place ^orange;3^green; <tag>^white; inside? Don't forget to ^green;include a ^orange;Colony Deed^green; and a ^orange;light!",
+      "Por": "Atento. Você poderia ^green;construir uma casa^white; e ^green;colocar ^orange;3^green; <tag>^white; dentro dela? Não esqueça ^green;de incluir uma ^orange;Colony Deed ^green; e uma ^orange;luz!"
     }
   },
   {
@@ -63,12 +63,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/themed_build.questtemplate": [
-        "/scriptConfig/generatedText/text/default/glitch/0/glitchEmotedText"
+        "/scriptConfig/generatedText/text/default/glitch/1"
       ]
     },
     "Texts": {
-      "Eng": "Could you ^green;build a home^white; and ^green;place ^orange;3^green; <tag>^white; inside? Don't forget to ^green;include a ^orange;Colony Deed^green; and a ^orange;light!",
-      "Por": "Você poderia ^green;construir uma casa^white; e ^green;colocar ^orange;3^green; <tag>^white; dentro dela? Não esqueça ^green;de incluir uma ^orange;Colony Deed ^green; e uma ^orange;luz!"
+      "Eng": "Excited. Can you ^green;build a home^white;, and ^green;place ^orange;3^green; <tag>.^white; inside? Don't forget to ^green;include a ^orange;Colony Deed^green; and a ^orange;light!",
+      "Por": "Animado. Você pode ^green;construir uma casa^white;, e ^green;e você pode por ^orange;3^green; <tag>.^white; dentro dela? Ah e não se equeça ^green;de incluir uma ^orange;Colony Deed^green; e uma ^orange;luz!"
     }
   },
   {
@@ -123,6 +123,30 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/themed_build.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. Your design skills are better than I expected, what a lovely home. Thank you for your efforts!",
+      "Por": "Impressionado. Suas habilidades de design são melhores do que eu esperava, é uma linda casa. Obrigado por seus esforços!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/themed_build.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Overjoyed. We have a new neighbour! I'm sure they'll fit in here. Thank you for your generous assistance.",
+      "Por": "Entusiasmada. Nós temos um novo vizinho! Tenho certeza de que vai se encaixar aqui. Obrigado por seu apoio generoso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/themed_build.questtemplate": [
         "/scriptConfig/generatedText/completionText/default/floran/0"
       ]
     },
@@ -159,36 +183,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/themed_build.questtemplate": [
-        "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "We have a new neighbour! I'm sure they'll fit in here. Thank you for your generous assistance.",
-      "Por": "Nós temos um novo vizinho! Tenho certeza de que vai se encaixar aqui. Obrigado por seu apoio generoso."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/themed_build.questtemplate": [
         "/scriptConfig/generatedText/completionText/default/floran/1"
       ]
     },
     "Texts": {
       "Eng": "You made the home! Floran is impressed with your ssskills.",
       "Por": "Você fez a casa! Floran está impressionado com sssuas habilidades."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/themed_build.questtemplate": [
-        "/scriptConfig/generatedText/completionText/default/glitch/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Your design skills are better than I expected, what a lovely home. Thank you for your efforts!",
-      "Por": "Suas habilidades de design são melhores do que eu esperava, é uma linda casa. Obrigado por seus esforços!"
     }
   },
   {

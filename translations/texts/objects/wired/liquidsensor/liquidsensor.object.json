@@ -8,19 +8,19 @@
     },
     "Texts": {
       "Eng": "Don't use your finger! This ssensor indicatesss the presence of liquidss.",
-      "Por": "Não use seu dedo! Este ssesnsor confiável indica a presença de líquidoss."
+      "Por": "Não use seu dedo! Este sesnsor confiável indica a presença de líquidoss."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/wired/liquidsensor/liquidsensor.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "This trusty sensor indicates the presence of liquids.",
-      "Por": "Este sensor confiável indica a presença de líquidos."
+      "Eng": "Impressed. This trusty sensor indicates the presence of liquids.",
+      "Por": "Impressionado. Este sensor confiável indica a presença de líquidos."
     }
   }
 ]

@@ -1,21 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/traps/ancientcrystaltrap/ancientcrystaltrap.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/traps/crystaltrap/crystaltrap.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A crystal that projects deadly beams of light! Now I have seen everything.",
-      "Por": "Um cristal que projeta feixes mortais de luz! Agora eu vi tudo."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma armadilha de cristal feita para deter intrusos."
+    ],
     "Files": {
       "objects/traps/ancientcrystaltrap/ancientcrystaltrap.object": [
         "/description"
@@ -45,7 +32,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Se eu memorizar o padrão dos feixe do cristal eu posso agir em conformidade."
+    ],
     "Files": {
       "objects/traps/ancientcrystaltrap/ancientcrystaltrap.object": [
         "/hylotlDescription"
@@ -60,7 +49,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Este feixe parece que feriria."
+    ],
     "Files": {
       "objects/traps/ancientcrystaltrap/ancientcrystaltrap.object": [
         "/humanDescription"

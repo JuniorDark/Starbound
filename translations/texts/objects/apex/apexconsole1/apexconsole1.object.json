@@ -15,17 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/apexconsole1/apexconsole1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A lever. "
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/apex/apexconsole1/apexconsole1.object": [
         "/floranDescription"
       ]
     },
@@ -44,6 +33,18 @@
     "Texts": {
       "Eng": "A terminal with a big red lever. Should I pull it?",
       "Por": "Um terminal com uma grande alavanca vermelha. Devo puxá-la?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/apexconsole1/apexconsole1.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. A lever. ",
+      "Por": "Curioso. Uma alavanca."
     }
   },
   {

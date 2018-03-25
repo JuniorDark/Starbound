@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/fountain2/fountain2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Peaceful. The sound of water flowing trickles from this fountain.",
+      "Por": "Tranqüilo. O som de água fluindo goteja desta fonte."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/fountain2/fountain2.object": [
         "/shortdescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "Stone shaped and carved into a fountain.",
       "Por": "Pedra esculpida em uma fonte."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/fountain2/fountain2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The sound of water flowing trickles from this fountain."
     }
   },
   {

@@ -51,17 +51,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/basictoilet/basictoilet.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A toilet."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/human/basictoilet/basictoilet.object": [
         "/humanDescription"
       ]
     },
@@ -80,6 +69,18 @@
     "Texts": {
       "Eng": "Basic Toilet",
       "Por": "Basic Toilet"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/basictoilet/basictoilet.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disinterested. A toilet.",
+      "Por": "Desinteressado. Uma privada."
     }
   },
   {

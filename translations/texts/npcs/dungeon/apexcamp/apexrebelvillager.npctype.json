@@ -161,7 +161,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "O quanto você sabe sobre a Miniknog? Eles governam o povo Apex , mas eles são cruéis e brutais."
+    ],
     "Files": {
       "npcs/dungeon/apexcamp/apexrebelvillager.npctype": [
         "/scriptConfig/dialog/converse/apex/avian/9",

@@ -66,21 +66,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/hoard/goldenpedestal/goldenpedestal.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/themed/gothic/gothiclight/gothiclight.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A remarkable pedestal.",
-      "Por": "Um pedestal notável."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
       "objects/clues/glitch/glitchscribe/glitchscribe.object": [
         "/humanDescription"
       ],
@@ -95,6 +80,23 @@
   },
   {
     "DeniedAlternatives": [],
+    "Files": {
+      "objects/hoard/goldenpedestal/goldenpedestal.object": [
+        "/glitchDescription"
+      ],
+      "objects/themed/gothic/gothiclight/gothiclight.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Admiring. A remarkable pedestal.",
+      "Por": "Admirando. Um pedestal notável."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Uma velha escrivaninha."
+    ],
     "Files": {
       "objects/clues/glitch/glitchscribe/glitchscribe.object": [
         "/novakidDescription"
@@ -111,46 +113,16 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/biome/swamp/gasprimer/gasprimer.object": [
-        "/glitchDescription/glitchEmotedText"
+      "objects/clues/glitch/glitchscribe/glitchscribe.object": [
+        "/glitchDescription"
       ],
-      "objects/biome/swamp/rootbush1/rootbush1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/swamp/rootbush2/rootbush2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/swamp/rootbush3/rootbush3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/swamp/rootbush4/rootbush4.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/swamp/rootbush5/rootbush5.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/swamp/swamproot1/swamproot1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/swamp/swamproot2/swamproot2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/swamp/swamproot3/swamproot3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/swamp/swamproot4/swamproot4.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/swamp/swamproot5/swamproot5.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/generic/toxicgasprimer/toxicgasprimer.object": [
-        "/glitchDescription/glitchEmotedText"
+      "objects/glitch/medievaldesk/medievaldesk.object": [
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "An unremarkable root.",
-      "Por": "Uma raiz normal."
+      "Eng": "Cheerful. This is a desk suitable for scholars.",
+      "Por": "Alegre. Esta é uma mesa adequada para estudiosos."
     }
   },
   {
@@ -196,22 +168,13 @@
     }
   },
   {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/flesh/fleshchair/fleshchair.object": [
-        "/apexDescription"
-      ],
-      "objects/human/prisontoilet/prisontoilet.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I have no words.",
-      "Por": "Não tenho palavras."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Acho que há algo dentro. Provavelmente posso quebrar para abri-lo.",
+      "Acho que há algo lá dentro. Provavelmente, posso abri-la.",
+      "Acho que há algo lá dentro. Provavelmente, posso abri-lo.",
+      "Acho que tem alguma coisa aí. Eu provavelmente posso abri-lo.",
+      "Eu acho que há algo dentro. Provavelmente posso abri-la."
+    ],
     "Files": {
       "objects/biome/tentacle/tentaclepopbig/tentaclepopbig.object": [
         "/humanDescription"
@@ -246,7 +209,7 @@
     },
     "Texts": {
       "Eng": "I think there's something in there. I can probably break it open.",
-      "Por": "Acho que há algo dentro. Provavelmente posso quebrar para abri-la."
+      "Por": "Acho que há algo dentro. Provavelmente posso quebrar para abri-la.\""
     }
   },
   {
@@ -619,6 +582,53 @@
     }
   },
   {
+    "DeniedAlternatives": [
+      "Neutro. Uma raiz normal."
+    ],
+    "Files": {
+      "objects/biome/swamp/gasprimer/gasprimer.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/swamp/rootbush1/rootbush1.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/swamp/rootbush2/rootbush2.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/swamp/rootbush3/rootbush3.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/swamp/rootbush4/rootbush4.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/swamp/rootbush5/rootbush5.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/swamp/swamproot1/swamproot1.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/swamp/swamproot2/swamproot2.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/swamp/swamproot3/swamproot3.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/swamp/swamproot4/swamproot4.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/swamp/swamproot5/swamproot5.object": [
+        "/glitchDescription"
+      ],
+      "objects/generic/toxicgasprimer/toxicgasprimer.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neutral. An unremarkable root.",
+      "Por": "Neutro. Uma raiz."
+    }
+  },
+  {
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/swamp/gasprimer/gasprimer.object": [
@@ -919,7 +929,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Às vezes a força pode render recompensas.",
+      "Às vezes, força pode render recompensas."
+    ],
     "Files": {
       "objects/biome/tentacle/tentaclepopbig/tentaclepopbig.object": [
         "/hylotlDescription"
@@ -949,7 +962,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Esmagar! Obter guloseimas de dentro!",
+      "Esmagar! Obter guloseimass dentro!"
+    ],
     "Files": {
       "objects/biome/tentacle/tentaclepopbig/tentaclepopbig.object": [
         "/floranDescription"
@@ -979,7 +995,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Os Hylotl praticam caligrafia em mesas como essas."
+    ],
     "Files": {
       "objects/clues/glitch/glitchscribe/glitchscribe.object": [
         "/hylotlDescription"
@@ -991,21 +1009,6 @@
     "Texts": {
       "Eng": "The Hylotl practice calligraphy on desks like these.",
       "Por": "Os Hylotl praticam caligrafia em mesas como essa."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/clues/glitch/glitchscribe/glitchscribe.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/glitch/medievaldesk/medievaldesk.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This is a desk suitable for scholars.",
-      "Por": "Esta é uma mesa adequada para estudiosos."
     }
   },
   {

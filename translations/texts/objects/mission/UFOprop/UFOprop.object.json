@@ -39,17 +39,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/UFOprop/UFOprop.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A non-functioning aircraft."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/mission/UFOprop/UFOprop.object": [
         "/novakidDescription"
       ]
     },
@@ -68,6 +57,18 @@
     "Texts": {
       "Eng": "A very retro looking flying saucer.",
       "Por": "Um disco voador de aparência muito retro."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/UFOprop/UFOprop.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. A non-functioning aircraft.",
+      "Por": "Observador. Uma aeronave que não funciona."
     }
   },
   {

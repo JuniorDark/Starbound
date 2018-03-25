@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/colourful/rainbowchest/rainbowchest.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A beautiful chest no doubt contains beautiful items."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/colourful/rainbowchest/rainbowchest.object": [
         "/description"
       ]
     },
@@ -80,6 +69,18 @@
     "Texts": {
       "Eng": "Is this the chest at the end of the rainbow?",
       "Por": "Este é o baú no final do arco-íris?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/colourful/rainbowchest/rainbowchest.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased. A beautiful chest no doubt contains beautiful items.",
+      "Por": "Satisfeito. Um baú bonito sem dúvida contém itens bonitos."
     }
   },
   {

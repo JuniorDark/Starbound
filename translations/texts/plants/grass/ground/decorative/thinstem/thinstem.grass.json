@@ -4,13 +4,24 @@
     "Files": {
       "plants/grass/ground/decorative/thinstem/thinstem.grass": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ]
     },
     "Texts": {
       "Eng": "A thin shrub.",
       "Por": "Um arbusto fino."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/thinstem/thinstem.grass": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. A thin shrub.",
+      "Por": "Relatório. Um arbusto fino."
     }
   },
   {

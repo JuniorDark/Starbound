@@ -62,21 +62,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/tiered/tier1bed/tier1bed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/tiered/tier2bed/tier2bed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A simple but sturdy bed.",
-      "Por": "Uma cama simples, mas robusta."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
       "objects/tiered/tier3bed/tier3bed.object": [
         "/hylotlDescription"
       ],
@@ -108,15 +93,30 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/tiered/tier3bed/tier3bed.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/tiered/tier4bed/tier4bed.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "I will sleep well in this bed.",
-      "Por": "Vou dormir bem nesta cama."
+      "Eng": "Happy. I will sleep well in this bed.",
+      "Por": "Feliz. Vou dormir bem nesta cama."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/tiered/tier1bed/tier1bed.object": [
+        "/glitchDescription"
+      ],
+      "objects/tiered/tier2bed/tier2bed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. A simple but sturdy bed.",
+      "Por": "Impressionado. Uma cama simples mas resistente."
     }
   },
   {

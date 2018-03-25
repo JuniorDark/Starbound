@@ -63,17 +63,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/protectorate/objects/protectoratelobbyplant/protectoratelobbyplant.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Ficus benjamina. A common house plant in the academy."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/protectorate/objects/protectoratelobbyplant/protectoratelobbyplant.object": [
         "/hylotlDescription"
       ]
     },
@@ -92,6 +81,18 @@
     "Texts": {
       "Eng": "Leafy friend. Floran enjoysss your company.",
       "Por": "Amigo frondoso. Floran gosta da sua companhia."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/protectorate/objects/protectoratelobbyplant/protectoratelobbyplant.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. Ficus benjamina. A common house plant in the academy.",
+      "Por": "Observador. Ficus benjamina. Uma planta de casa comum na Academia."
     }
   },
   {

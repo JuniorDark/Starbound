@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/clues/floran/floranspinneret/floranspinneret.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intrigued. This trophy is the spinneret from a large unknown creature.",
+      "Por": "Intrigado. Este troféu é a fieira de uma grande criatura desconhecida."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/clues/floran/floranspinneret/floranspinneret.object": [
         "/shortdescription"
       ]
     },
@@ -57,17 +69,6 @@
     "Texts": {
       "Eng": "This trophy is a spinneret from some large, web spinning creature.",
       "Por": "Este troféu é a fiadeira de alguma criatura grande produtora de teia."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/clues/floran/floranspinneret/floranspinneret.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This trophy is the spinneret from a large unknown creature."
     }
   },
   {

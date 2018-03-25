@@ -96,23 +96,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/slimecave/slimeblob1/slimeblob1.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/biome/slimecave/slimeblob2/slimeblob2.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/biome/slimecave/slimeblob3/slimeblob3.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/biome/slimecave/slimeblob4/slimeblob4.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/biome/slimecave/slimeblob5/slimeblob5.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "A vile mound of slime!"
+      "Eng": "Disgusted. A vile mound of slime!",
+      "Por": "Enojado. Um monte de slime!"
     }
   },
   {

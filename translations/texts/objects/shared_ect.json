@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Lanches Saborosos"
+    ],
     "Files": {
       "objects/human/vendingmachine/vendingmachine.object": [
         "/interactData/paneLayoutOverride/windowtitle/subtitle"
@@ -17,15 +19,12 @@
     },
     "Texts": {
       "Eng": " Tasty Snacks",
-      "Por": "Lanches Saborosos"
+      "Por": " Lanches Saborosos"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/generic/barvent/barvent.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
       "objects/generic/vent/vent.object": [
         "/avianDescription",
         "/novakidDescription"
@@ -62,9 +61,6 @@
       ],
       "objects/protectorate/objects/protectoraterooftopprop4/protectoraterooftopprop4.object": [
         "/hylotlDescription"
-      ],
-      "objects/wreck/wreckvent/wreckvent.object": [
-        "/glitchDescription/glitchEmotedText"
       ]
     },
     "Texts": {
@@ -73,7 +69,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma porta com trava à ar.",
+      "Uma porta."
+    ],
     "Files": {
       "objects/outpost/outpostairlock/outpostairlock.object": [
         "/apexDescription",
@@ -90,7 +89,6 @@
       "objects/protectorate/objects/protectoratedoor/protectoratedoor.object": [
         "/apexDescription",
         "/avianDescription",
-        "/glitchDescription/glitchEmotedText",
         "/humanDescription",
         "/hylotlDescription",
         "/novakidDescription"
@@ -102,7 +100,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "É fascinante. Não consigo desviar o olhar."
+    ],
     "Files": {
       "objects/human/lavalamp1/lavalamp1.object": [
         "/description"

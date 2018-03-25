@@ -18,21 +18,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/bonematerial.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/bonematerial.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Bones from a variety of sources packed together.",
-      "Por": "Ossos de uma variedade de fontes embalados juntos."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/bonematerial.matitem": [
         "/novakiddescription"
       ],
       "tiles/materials/bonematerial.material": [
@@ -42,6 +27,21 @@
     "Texts": {
       "Eng": "Bunch of bones. Who needs 'em!",
       "Por": "Punhado de ossos. Quem precisa deles!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/bonematerial.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/bonematerial.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Horrified. Bones from a variety of sources packed together.",
+      "Por": "Horrorizado. Ossos de uma variedade de fontes embalados juntos."
     }
   },
   {

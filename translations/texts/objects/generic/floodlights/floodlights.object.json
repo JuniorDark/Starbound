@@ -63,23 +63,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/floodlights/floodlights.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I can see clearly with these lights shining."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/floodlights/floodlights.object": [
         "/description"
       ]
     },
     "Texts": {
       "Eng": "If I look at these lights any longer, I'll probably go blind.",
       "Por": "Se eu olhar mais para essas luzes, provavelmente vou ficar cego."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/floodlights/floodlights.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. I can see clearly with these lights shining.",
+      "Por": "Observador. Eu posso ver claramente com essas luzes brilhando."
     }
   },
   {

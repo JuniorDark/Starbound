@@ -48,6 +48,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/bamboo.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/bamboo.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hopeful. The bamboo colour indicates it was cut recently.",
+      "Por": "Esperançoso. A cor do bambu indica que ele foi cortado recentemente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/bamboo.matitem": [
         "/novakiddescription"
       ],
       "tiles/materials/bamboo.material": [
@@ -56,22 +71,7 @@
     },
     "Texts": {
       "Eng": "Some chopped bamboo.",
-      "Por": "Alguns bambus cortados."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/bamboo.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/bamboo.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The bamboo colour indicates it was cut recently.",
-      "Por": "A cor do bambu indica que foi cortado recentemente."
+      "Por": "Algum bambu cortado"
     }
   }
 ]

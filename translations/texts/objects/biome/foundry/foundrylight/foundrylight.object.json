@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/foundry/foundrylight/foundrylight.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Confused. What purpose does a lava fountain serve?",
+      "Por": "Confuso. Qual o propósito uma fonte de lava?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/foundry/foundrylight/foundrylight.object": [
         "/shortdescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "Well, I suppose it's a natural light source.",
       "Por": "Bem, suponho que seja uma fonte de luz natural."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/foundry/foundrylight/foundrylight.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "What purpose does a lava fountain serve?"
     }
   }
 ]

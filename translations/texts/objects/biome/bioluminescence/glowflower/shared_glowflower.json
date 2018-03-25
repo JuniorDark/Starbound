@@ -128,6 +128,30 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/bioluminescence/glowflower/glowflower1.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/bioluminescence/glowflower/glowflower2.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/bioluminescence/glowflower/glowflower3.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/bioluminescence/glowflower/glowflower4.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/bioluminescence/glowflower/glowflower5.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nervous. This flower pod has an ominous glow to it.",
+      "Por": "Nervoso. Esta vagem de flor tem um brilho sinistro nela."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/bioluminescence/glowflower/glowflower1.object": [
         "/avianDescription"
       ],
       "objects/biome/bioluminescence/glowflower/glowflower2.object": [
@@ -170,29 +194,6 @@
     "Texts": {
       "Eng": "These glowing pod flowers are too creepy. Not my kind of thing.",
       "Por": "Estas vagem de flores brilhante são muito assustadoras. Não é o meu tipo de coisa."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/bioluminescence/glowflower/glowflower1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/bioluminescence/glowflower/glowflower2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/bioluminescence/glowflower/glowflower3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/bioluminescence/glowflower/glowflower4.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/bioluminescence/glowflower/glowflower5.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This flower pod has an ominous glow to it."
     }
   }
 ]

@@ -15,18 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "plants/bushes/alien/alienbush.bush": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Alien plant.",
-      "Por": "Planta alienígena."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "plants/bushes/alien/alienbush.bush": [
         "/floranDescription"
       ]
     },
@@ -45,6 +33,18 @@
     "Texts": {
       "Eng": "An alien bush.",
       "Por": "Um Arbusto Alienigena"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/alien/alienbush.bush": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. Alien plant.",
+      "Por": "Declaração. Planta Alienigena."
     }
   }
 ]

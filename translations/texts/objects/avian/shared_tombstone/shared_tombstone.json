@@ -171,6 +171,48 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/tombstone1/tombstone1.object": [
+        "/glitchDescription"
+      ],
+      "objects/avian/tombstone10/tombstone10.object": [
+        "/glitchDescription"
+      ],
+      "objects/avian/tombstone11/tombstone11.object": [
+        "/glitchDescription"
+      ],
+      "objects/avian/tombstone2/tombstone2.object": [
+        "/glitchDescription"
+      ],
+      "objects/avian/tombstone3/tombstone3.object": [
+        "/glitchDescription"
+      ],
+      "objects/avian/tombstone4/tombstone4.object": [
+        "/glitchDescription"
+      ],
+      "objects/avian/tombstone5/tombstone5.object": [
+        "/glitchDescription"
+      ],
+      "objects/avian/tombstone6/tombstone6.object": [
+        "/glitchDescription"
+      ],
+      "objects/avian/tombstone7/tombstone7.object": [
+        "/glitchDescription"
+      ],
+      "objects/avian/tombstone8/tombstone8.object": [
+        "/glitchDescription"
+      ],
+      "objects/avian/tombstone9/tombstone9.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. This tombstone is starting to crumble.",
+      "Por": "Observador. Esta lápide está começando a desmoronar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/tombstone1/tombstone1.object": [
         "/hylotlDescription"
       ],
       "objects/avian/tombstone10/tombstone10.object": [
@@ -264,47 +306,6 @@
     "Texts": {
       "Eng": "This ol' tombstone marks someone's grave.",
       "Por": "Esta antiga lápide marca o túmulo de alguém."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avian/tombstone1/tombstone1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/avian/tombstone10/tombstone10.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/avian/tombstone11/tombstone11.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/avian/tombstone2/tombstone2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/avian/tombstone3/tombstone3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/avian/tombstone4/tombstone4.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/avian/tombstone5/tombstone5.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/avian/tombstone6/tombstone6.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/avian/tombstone7/tombstone7.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/avian/tombstone8/tombstone8.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/avian/tombstone9/tombstone9.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This tombstone is starting to crumble."
     }
   }
 ]

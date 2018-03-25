@@ -39,17 +39,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/protectorate/objects/protectoratelobbylockers/protectoratelobbylockers.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Locked lockers."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/protectorate/objects/protectoratelobbylockers/protectoratelobbylockers.object": [
         "/floranDescription"
       ]
     },
@@ -104,6 +93,18 @@
     "Texts": {
       "Eng": "This ain't my locker. Mine is somewhere else.",
       "Por": "Este não é o meu armário. O meu está em outro lugar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/protectorate/objects/protectoratelobbylockers/protectoratelobbylockers.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Uninterested. Locked lockers.",
+      "Por": "Desinteressado. Armários trancados."
     }
   }
 ]

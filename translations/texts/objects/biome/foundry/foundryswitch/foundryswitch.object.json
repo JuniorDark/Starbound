@@ -27,17 +27,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/foundry/foundryswitch/foundryswitch.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A switch for industrial machinery."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/foundry/foundryswitch/foundryswitch.object": [
         "/apexDescription"
       ]
     },
@@ -80,6 +69,18 @@
     "Texts": {
       "Eng": "Just a switch for a machine of some sort.",
       "Por": "Apenas um interruptor para uma máquina de algum tipo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/foundry/foundryswitch/foundryswitch.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neutral. A switch for industrial machinery.",
+      "Por": "Neutro. Um interruptor para maquinaria industrial."
     }
   },
   {

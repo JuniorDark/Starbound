@@ -68,6 +68,27 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "objects/biome/cellcave/cellstructure2/cellstructure2.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/cellcave/cellstructure3/cellstructure3.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/cellcave/cellstructure4/cellstructure4.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/cellcave/cellstructure5/cellstructure5.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis. This cell structure appears to be that of a modified Apex.",
+      "Por": "Análitico. Esta estrutura celular parece ser a de um Apex modificado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "objects/biome/cellcave/cellstructure1/cellstructure1.object": [
         "/shortdescription"
       ],
@@ -156,26 +177,6 @@
     "Texts": {
       "Eng": "Ssspecial-looking thingsss.",
       "Por": "Coisasss de aparência especial."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/cellcave/cellstructure2/cellstructure2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/cellcave/cellstructure3/cellstructure3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/cellcave/cellstructure4/cellstructure4.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/cellcave/cellstructure5/cellstructure5.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This cell structure appears to be that of a modified Apex."
     }
   },
   {

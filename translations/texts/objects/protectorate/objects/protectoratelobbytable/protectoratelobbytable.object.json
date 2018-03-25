@@ -39,17 +39,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/protectorate/objects/protectoratelobbytable/protectoratelobbytable.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A white table with a plain design. Maybe an Apex designed it."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/protectorate/objects/protectoratelobbytable/protectoratelobbytable.object": [
         "/floranDescription"
       ]
     },
@@ -104,6 +93,18 @@
     "Texts": {
       "Eng": "This table is very white. It reminds me of summery clouds.",
       "Por": "Esta mesa é muito branca. Isso me lembra as nuvens de verão."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/protectorate/objects/protectoratelobbytable/protectoratelobbytable.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unimpressed. A white table with a plain design. Maybe an Apex designed it.",
+      "Por": "Não impressionado. Uma mesa branca com um design simples. Talvez um Apex tenha projetado isso."
     }
   }
 ]

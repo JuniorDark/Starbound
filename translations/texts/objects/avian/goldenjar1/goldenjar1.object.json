@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/goldenjar1/goldenjar1.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disgusted. This pot appears to hold a heart, lungs and brain of Avian origin.",
+      "Por": "Com nojo. Este vaso parece guardar um coração, pulmões e cérebro de origem Avian."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/goldenjar1/goldenjar1.object": [
         "/floranDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "This beady-eyed bird jar is made of solid gold.",
       "Por": "Este jarro de pássaro de olhos redondos é feito de ouro maciço."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avian/goldenjar1/goldenjar1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This pot appears to hold a heart, lungs and brain of Avian origin."
     }
   },
   {

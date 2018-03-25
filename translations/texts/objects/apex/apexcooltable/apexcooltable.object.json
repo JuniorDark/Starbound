@@ -51,17 +51,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/apexcooltable/apexcooltable.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A very interesting find."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/apex/apexcooltable/apexcooltable.object": [
         "/avianDescription"
       ]
     },
@@ -92,6 +81,18 @@
     "Texts": {
       "Eng": "Looks like a lab table.",
       "Por": "Parece uma mesa de laboratório."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/apexcooltable/apexcooltable.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sarcastic. A very interesting find.",
+      "Por": "Sarcástico. Um achado muito interessante."
     }
   },
   {

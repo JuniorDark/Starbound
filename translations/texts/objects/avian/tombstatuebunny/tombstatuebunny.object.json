@@ -63,17 +63,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/tombstatuebunny/tombstatuebunny.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I believe the rabbit has significance in Avian society."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avian/tombstatuebunny/tombstatuebunny.object": [
         "/hylotlDescription"
       ]
     },
@@ -92,6 +81,18 @@
     "Texts": {
       "Eng": "It's a statue of an animal. A rabbit to be precise.",
       "Por": "É uma estátua de um animal. Um coelho para ser preciso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/tombstatuebunny/tombstatuebunny.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. I believe the rabbit has significance in Avian society.",
+      "Por": "Observador. Creio que o coelho tem um significado na sociedade Avian."
     }
   },
   {

@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/plantdrysapdispenser/plantdrysapdispenser.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hesitant. Knowing the effect Drysap has on Florans, it is tempting to destroy this.",
+      "Por": "Hesitante. Sabendo o efeito que Seiva seca tem sobre Florans, é tentador destruir isso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/plantdrysapdispenser/plantdrysapdispenser.object": [
         "/apexDescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "Is this the Floran equivalent of a Slushie machine?",
       "Por": "É este o equivalente Floran a uma máquina de raspadinha?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/floran/plantdrysapdispenser/plantdrysapdispenser.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Knowing the effect Drysap has on Florans, it is tempting to destroy this."
     }
   },
   {

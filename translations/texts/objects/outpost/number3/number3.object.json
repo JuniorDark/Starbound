@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/number3/number3.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neutral. Three.",
+      "Por": "Neutro. Três."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/number3/number3.object": [
         "/shortdescription"
       ]
     },
@@ -53,7 +65,6 @@
       "objects/outpost/number3/number3.object": [
         "/apexDescription",
         "/avianDescription",
-        "/glitchDescription/glitchEmotedText",
         "/humanDescription",
         "/hylotlDescription"
       ]

@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/novakid/frontierchair/frontierchair.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. This chair may look low quality but the hide cushions create a lot of potential comfort.",
+      "Por": "Impressionado. Esta cadeira pode parecer de baixa qualidade, mas as almofadas de couro criar um monte de conforto potencial."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/novakid/frontierchair/frontierchair.object": [
         "/avianDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "This chair is comfortable enough. The animal hide cushions add a little character.",
       "Por": "Esta cadeira é confortável o suficiente. As almofadas de couro de animal adicionam um pouco de personalidade."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/novakid/frontierchair/frontierchair.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This chair may look low quality but the hide cushions create a lot of potential comfort."
     }
   },
   {

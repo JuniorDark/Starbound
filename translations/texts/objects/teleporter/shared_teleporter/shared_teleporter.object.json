@@ -92,40 +92,7 @@
     },
     "Texts": {
       "Eng": "A personal teleporter, it sports a custom design.",
-      "Por": "Um teletransportador pessoal, ele ostenta um design personalizado."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/teleporter/blackteleporter/blackteleporter.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/teleporter/brassteleporter/brassteleporter.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/teleporter/futureteleporter/futureteleporter.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/teleporter/returnoutpostteleporter/remoteteleporter.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/teleporter/scienceteleporter/scienceteleporter.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/teleporter/stoneteleporter/stoneteleporter.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/teleporter/tombteleporter/tombteleporter.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/teleporter/woodenteleporter/woodenteleporter.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A personal teleporter, with a custom design.",
-      "Por": "Um teletransportador pessoal, com um design personalizado."
+      "Por": "Um teletransportador pessoal, ostenta um design personalizado."
     }
   },
   {
@@ -158,11 +125,13 @@
     },
     "Texts": {
       "Eng": "A personal teleporter. A functional but fun piece of equipment.",
-      "Por": "Um teletransportador pessoal. Uma peça de equipamento funcional e divertida."
+      "Por": "Um teletransportador pessoal. Uma peça de equipamento divertida."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Um teletransportador pessoal de aparência chique."
+    ],
     "Files": {
       "objects/teleporter/blackteleporter/blackteleporter.object": [
         "/novakidDescription"
@@ -191,7 +160,40 @@
     },
     "Texts": {
       "Eng": "As teleporters go, this sure is fancy lookin'!",
-      "Por": "Um teletransportador pessoal de aparência chique."
+      "Por": "Um teletransportador pessoal de aparência chique!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/blackteleporter/blackteleporter.object": [
+        "/glitchDescription"
+      ],
+      "objects/teleporter/brassteleporter/brassteleporter.object": [
+        "/glitchDescription"
+      ],
+      "objects/teleporter/futureteleporter/futureteleporter.object": [
+        "/glitchDescription"
+      ],
+      "objects/teleporter/returnoutpostteleporter/remoteteleporter.object": [
+        "/glitchDescription"
+      ],
+      "objects/teleporter/scienceteleporter/scienceteleporter.object": [
+        "/glitchDescription"
+      ],
+      "objects/teleporter/stoneteleporter/stoneteleporter.object": [
+        "/glitchDescription"
+      ],
+      "objects/teleporter/tombteleporter/tombteleporter.object": [
+        "/glitchDescription"
+      ],
+      "objects/teleporter/woodenteleporter/woodenteleporter.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enticed. A personal teleporter, with a custom design.",
+      "Por": "Seduzido. Um teletransportador pessoal, com um design personalizado."
     }
   },
   {

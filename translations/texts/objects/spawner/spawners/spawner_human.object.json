@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/spawner/spawners/spawner_human.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Concern. I've heard humans are superstitious about this kind of thing.",
+      "Por": "Preocupação. Ouvi dizer que os seres humanos são supersticiosos sobre esse tipo de coisa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/spawner/spawners/spawner_human.object": [
         "/floranDescription"
       ]
     },
@@ -45,18 +57,6 @@
     "Texts": {
       "Eng": "Human Spawner",
       "Por": "Human Spawner"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/spawner/spawners/spawner_human.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I've heard humans are superstitious about this kind of thing.",
-      "Por": "Ouvi dizer que os humanos são supersticiosos sobre esse tipo de coisa."
     }
   },
   {

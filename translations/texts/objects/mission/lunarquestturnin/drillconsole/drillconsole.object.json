@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/lunarquestturnin/drillconsole/drillconsole.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A console connected directly to a mining drill."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/mission/lunarquestturnin/drillconsole/drillconsole.object": [
         "/apexDescription"
       ]
     },
@@ -80,6 +69,18 @@
     "Texts": {
       "Eng": "Consssole with drill.",
       "Por": "Consssole com broca."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/lunarquestturnin/drillconsole/drillconsole.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intrigued. A console connected directly to a mining drill.",
+      "Por": "Intrigado. Um console conectado diretamente a uma broca de mineração."
     }
   },
   {

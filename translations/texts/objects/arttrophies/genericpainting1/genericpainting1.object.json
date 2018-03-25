@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/arttrophies/genericpainting1/genericpainting1.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Confused. Is there hidden meaning behind this apple?",
+      "Por": "Confuso. Há significado escondido atrás desta maçã?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/arttrophies/genericpainting1/genericpainting1.object": [
         "/shortdescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "How very abstract. Tasty, but abstract.",
       "Por": "Bastante abstrato. Saboroso, mas abstrato."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/arttrophies/genericpainting1/genericpainting1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Is there hidden meaning behind this apple?"
     }
   },
   {

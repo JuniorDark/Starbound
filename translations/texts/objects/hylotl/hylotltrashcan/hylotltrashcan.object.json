@@ -27,8 +27,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/hylotltrashcan/hylotltrashcan.object": [
-        "/description",
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ]
     },
     "Texts": {
@@ -46,6 +45,18 @@
     "Texts": {
       "Eng": "A metal trash can.",
       "Por": "Uma lata de lixo de metal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/hylotltrashcan/hylotltrashcan.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bored. A garbage bin.",
+      "Por": "Entediado. Uma lixeira."
     }
   },
   {

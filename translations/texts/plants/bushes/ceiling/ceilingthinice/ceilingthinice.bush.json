@@ -3,8 +3,19 @@
     "DeniedAlternatives": [],
     "Files": {
       "plants/bushes/ceiling/ceilingthinice/ceilingthinice.bush": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. Thin icicles.",
+      "Por": "Relatório. Pingentes de gelo finos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ceiling/ceilingthinice/ceilingthinice.bush": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ]
     },

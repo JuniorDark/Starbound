@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/bunkertable2/bunkertable2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A plain table."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/human/bunkertable2/bunkertable2.object": [
         "/description"
       ]
     },
@@ -44,6 +33,18 @@
     "Texts": {
       "Eng": "It's just a table.",
       "Por": "É só uma mesa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkertable2/bunkertable2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neutral. A plain table.",
+      "Por": "Neutro. Uma mesa simples."
     }
   },
   {

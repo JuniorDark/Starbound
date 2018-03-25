@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/scorchedcity/scorchedcitybrokenroundsign1/scorchedcitybrokenroundsign1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A neglected sign that lost its use many years ago."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/scorchedcity/scorchedcitybrokenroundsign1/scorchedcitybrokenroundsign1.object": [
         "/description"
       ]
     },
@@ -80,6 +69,18 @@
     "Texts": {
       "Eng": "Neglected Rusty Sign",
       "Por": "Neglected Rusty Sign"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/scorchedcity/scorchedcitybrokenroundsign1/scorchedcitybrokenroundsign1.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sad. A neglected sign that lost its use many years ago.",
+      "Por": "Triste. Uma placa negligenciada que perdeu o seu uso há muitos anos."
     }
   },
   {

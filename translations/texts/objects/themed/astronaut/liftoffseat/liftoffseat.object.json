@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/themed/astronaut/liftoffseat/liftoffseat.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fascinated. What an ingenious idea to lay down whilst in transit.",
+      "Por": "Fascinado. Que idéia engenhosa se deitar enquanto está em trânsito."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/astronaut/liftoffseat/liftoffseat.object": [
         "/avianDescription"
       ]
     },
@@ -93,18 +105,6 @@
     "Texts": {
       "Eng": "What a great design. It still holds up.",
       "Por": "Que grande projeto. Ainda aguenta."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/themed/astronaut/liftoffseat/liftoffseat.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "What an ingenious idea to lay down whilst in transit.",
-      "Por": "Que ideia engenhosa se deitar enquanto está em trânsito."
     }
   }
 ]

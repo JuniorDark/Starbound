@@ -48,19 +48,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/castlewalls1.matitem": [
-        "/glitchdescription/glitchEmotedText"
+        "/glitchdescription"
       ],
       "tiles/materials/castlewalls1.material": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Stone bricks like this are frequently used in castle construction.",
-      "Por": "Tijolos de pedra como este são frequentemente usados na construção de castelos."
+      "Eng": "Informed. Stone bricks like this are frequently used in castle construction.",
+      "Por": "Informado. Tijolos de pedra como estes são frequentemente utilizados na construção de castelos."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Lajes de pedra forte, perfeita para construir um castelo."
+    ],
     "Files": {
       "items/materials/castlewalls1.matitem": [
         "/description"

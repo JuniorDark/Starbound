@@ -48,7 +48,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "O bambu oco dá a esse sino de vento um som encantador."
+    ],
     "Files": {
       "objects/generic/windchime/windchime.object": [
         "/avianDescription",
@@ -76,11 +78,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/windchime/windchime.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "I enjoy the random patterns of sound this chime produces."
+      "Eng": "Jolly. I enjoy the random patterns of sound this chime produces.",
+      "Por": "Alegre. Eu gosto dos padrões aleatórios de som que esse sino produz."
     }
   },
   {

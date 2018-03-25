@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Um boneco de neve! Tentação de chutar sua cabeça... subindo..."
+    ],
     "Files": {
       "objects/biome/snow/fancysnowman/fancysnowman.object": [
         "/humanDescription"
@@ -30,7 +32,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Floran caça boneco de neve. Boneco de neve não se importa. Boneco de neve desmorona-se."
+    ],
     "Files": {
       "objects/biome/snow/fancysnowman/fancysnowman.object": [
         "/floranDescription"
@@ -45,21 +49,26 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ciumento. Corpos Glitch tem muitos cantos para mim para criar um glitch de neve preciso."
+    ],
     "Files": {
       "objects/biome/snow/fancysnowman/fancysnowman.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/biome/snow/snowman/snowman.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Glitch bodies have too many corners for me to create an accurate snowglitch."
+      "Eng": "Jealous. Glitch bodies have too many corners for me to create an accurate snowglitch.",
+      "Por": "Ciumento. Corpos Glitch tem muitos cantos para mim criar um glitch de neve preciso."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Esta efígie de neve vai derreter um dia, e voltar para a água de onde veio. Tem também um nariz bonito de cenoura."
+    ],
     "Files": {
       "objects/biome/snow/fancysnowman/fancysnowman.object": [
         "/hylotlDescription"

@@ -75,23 +75,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/greenredlight/greenredlight.object": [
-        "/floranDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Red or green makesss no difference. Floran will passs.",
-      "Por": "Vermelho ou verde não faz diferença. Floran vai passar."
+      "Eng": "Observant. This light can be red or green.",
+      "Por": "Observador. Esta luz pode ser vermelha ou verde."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/greenredlight/greenredlight.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/floranDescription"
       ]
     },
     "Texts": {
-      "Eng": "This light can be red or green."
+      "Eng": "Red or green makesss no difference. Floran will passs.",
+      "Por": "Vermelho ou verde não faz diferença. Floran vai passar."
     }
   },
   {

@@ -3,8 +3,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/wired/lightsensor/lightsensor.object": [
-        "/description",
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ]
     },
     "Texts": {
@@ -34,6 +33,18 @@
     "Texts": {
       "Eng": "Light Sensor",
       "Por": "Light Sensor"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/lightsensor/lightsensor.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thoughtful. Activates the bottom node in dim light and the top node in bright light.",
+      "Por": "Pensativo. Ativa o nódulo inferior em luz fraca e o nódulo superior em luz brilhante."
     }
   }
 ]

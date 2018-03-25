@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/plantdoor1/plantdoor1.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amazed. These vines seem to move deliberately to allow passage through.",
+      "Por": "Espantado. Estas vinhas parecem mover-se deliberadamente para permitir a passagem."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/plantdoor1/plantdoor1.object": [
         "/hylotlDescription"
       ]
     },
@@ -57,17 +69,6 @@
     "Texts": {
       "Eng": "These vines open to allow passage like a door.",
       "Por": "Estas vinhas abrem para permitir a passagem como uma porta."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/floran/plantdoor1/plantdoor1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "These vines seem to move deliberately to allow passage through."
     }
   },
   {

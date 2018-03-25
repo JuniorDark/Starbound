@@ -26,7 +26,7 @@
     },
     "Texts": {
       "Eng": "A sleek metal door. I appreciate its pointed design.",
-      "Por": "Uma porta de metal polido. Eu aprecio seu design pontudo."
+      "Por": "Uma elegante porta de metal. Eu aprecio seu design pontudo."
     }
   },
   {
@@ -48,15 +48,15 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/space/stationdoor/stationdoor.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/space/stationdoor/stationdoorlarge.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "The angled design of this door reminds me of traditional Glitch banners.",
-      "Por": "O design angular desta porta me lembra os tradicionais estandartes Glitch."
+      "Eng": "Reminiscent. The angled design of this door reminds me of traditional Glitch banners.",
+      "Por": "Remanescente. O design angular desta porta me lembra os tradicionais estandartes Glitch."
     }
   },
   {
@@ -101,7 +101,7 @@
     },
     "Texts": {
       "Eng": "This is a rather well-made metal door!",
-      "Por": "Esta é uma porta de metal bastante bem feita!"
+      "Por": "Esta é uma porta de metal bem fabricada!"
     }
   }
 ]

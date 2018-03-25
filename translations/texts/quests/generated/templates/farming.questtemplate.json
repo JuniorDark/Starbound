@@ -27,12 +27,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/farming.questtemplate": [
-        "/scriptConfig/generatedText/completionText/default/glitch/1/glitchEmotedText"
+        "/scriptConfig/generatedText/completionText/default/glitch/0"
       ]
     },
     "Texts": {
-      "Eng": "Excellent work, my plan is coming together nicely. ",
-      "Por": "Excelente trabalho, meu plano está funcionando muito bem."
+      "Eng": "Cheerful. This is a bumper crop! Thank you!",
+      "Por": "Alegre. Esta é uma colheita abundante! Obrigado!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/farming.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excited. The next part of my plan involves ^orange;<cropList>. I'm not the greatest gardener, but I'm sure you could grow some.^green;Take these ^orange;seeds^green; and grow me the crops^white; I need.",
+      "Por": "Animado. A próxima parte do meu plano envolve ^orange;<cropList>. Eu não sou o melhor jardineiro, mas eu tenho certeza que você poderia cultivar um pouco. Pegue estas ^orange;sementes^green; e cultive para mim as plantas^white; que eu preciso."
     }
   },
   {
@@ -75,36 +87,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/farming.questtemplate": [
-        "/scriptConfig/generatedText/text/default/glitch/0/glitchEmotedText"
+        "/scriptConfig/generatedText/text/first/glitch/0"
       ]
     },
     "Texts": {
-      "Eng": "I hope it's not too much to ask, but  ^green;could you plant ^orange;<seedList>.^white; And maybe, when they're fully grown, ^green;deliver the fresh produce to me^white;?",
-      "Por": "Eu espero que não seja pedir demais, mas ^green;você poderia plantar ^orange;<seedList>.^white; E talvez, quando eles estiverem totalmente crescidas, ^green;entregar o produto fresco para mim?"
+      "Eng": "Friendly. To begin with, ^green;I am in need of some fresh ^orange;<cropList>^white;. Even a beginner should be able to grow some with these ^orange;seeds^white; and a little patience.",
+      "Por": "Amigável. Para começar, ^green;Eu estou precisando de alguns ^orange;<cropList> frescos^white;. Mesmo um novato deverá ser capaz de cultivar com alguma destas ^orange;sementes^white; e um pouco de paciência."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/farming.questtemplate": [
-        "/scriptConfig/generatedText/text/first/glitch/1/glitchEmotedText"
+        "/scriptConfig/generatedText/completionText/default/glitch/1"
       ]
     },
     "Texts": {
-      "Eng": "I purchased these ^orange;seeds^white; from a merchant and have been unable to successfully grow anything from them. ^green;Maybe you can grow ^orange;<cropList>^white; for me.",
-      "Por": "Eu comprei estas ^orange;sementes^white; de um comerciante e fui incapaz de crescer com sucesso qualquer coisa delas. ^green;Talvez você pode cultivar ^orange;<cropList>^white; para mim."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/farming.questtemplate": [
-        "/scriptConfig/generatedText/completionText/first/glitch/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I will never know how you were able to grow these seeds so successfully, but it doesn't matter. You have my thanks. ",
-      "Por": "Eu nunca vou saber como você foi capaz de crescer essas sementes com tanto sucesso, mas não importa. Você tem minha gratidão."
+      "Eng": "Happy. Excellent work, my plan is coming together nicely. ",
+      "Por": "Feliz. Excelente trabalho, meu plano está funcionando muito bem."
     }
   },
   {
@@ -159,12 +159,48 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/farming.questtemplate": [
+        "/scriptConfig/generatedText/completionText/first/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Perplexed. I will never know how you were able to grow these seeds so successfully, but it doesn't matter. You have my thanks. ",
+      "Por": "Perplexo. Eu nunca vou saber como você foi capaz de crescer essas sementes com tanto sucesso, mas não importa. Você tem o meu agradecimento."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/farming.questtemplate": [
+        "/scriptConfig/generatedText/completionText/first/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased. These crops have turned out better than I could have grown myself, you have a real talent for farming.",
+      "Por": "Satisfeito. Estas culturas estão melhor do que eu poderia ter plantado, você tem um verdadeiro talento para a agricultura."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/farming.questtemplate": [
         "/scriptConfig/generatedText/completionText/first/floran/0"
       ]
     },
     "Texts": {
       "Eng": "Plump and deliciousss! Thank you!",
       "Por": "Grande e delicioso! Obrigado!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/farming.questtemplate": [
+        "/scriptConfig/generatedText/text/first/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sceptical. I purchased these ^orange;seeds^white; from a merchant and have been unable to successfully grow anything from them. ^green;Maybe you can grow ^orange;<cropList>^white; for me.",
+      "Por": "Descrente. Eu comprei estas ^orange;sementes^white; de um comerciante e fui incapaz de crescer com sucesso qualquer coisa delas. ^green;Talvez você pode cultivar ^orange;<cropList>^white; para mim."
     }
   },
   {
@@ -219,48 +255,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/farming.questtemplate": [
-        "/scriptConfig/generatedText/text/default/glitch/1/glitchEmotedText"
+        "/scriptConfig/generatedText/text/default/glitch/0"
       ]
     },
     "Texts": {
-      "Eng": "The next part of my plan involves ^orange;<cropList>. I'm not the greatest gardener, but I'm sure you could grow some.^green;Take these ^orange;seeds^green; and grow me the crops^white; I need.",
-      "Por": "A próxima parte do meu plano envolve ^orange;<cropList>. Eu não sou o melhor jardineiro, mas eu tenho certeza que você poderia cultivar um pouco. Pegue estas ^orange;sementes^green; e cultive para mim as plantas^white; que eu preciso."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/farming.questtemplate": [
-        "/scriptConfig/generatedText/completionText/first/glitch/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "These crops have turned out better than I could have grown myself, you have a real talent for farming.",
-      "Por": "Estas culturas estão melhor do que eu poderia ter plantado, você tem um verdadeiro talento para a agricultura."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/farming.questtemplate": [
-        "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This is a bumper crop! Thank you!",
-      "Por": "Esta é uma colheita abundante! Obrigado!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/farming.questtemplate": [
-        "/scriptConfig/generatedText/text/first/glitch/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "To begin with, ^green;I am in need of some fresh ^orange;<cropList>^white;. Even a beginner should be able to grow some with these ^orange;seeds^white; and a little patience.",
-      "Por": "Para começar, ^green;Eu estou precisando de alguns ^orange;<cropList> frescos^white;. Mesmo um novato deverá ser capaz de cultivar com alguma destas ^orange;sementes^white; e um pouco de paciência."
+      "Eng": "Timid. I hope it's not too much to ask, but  ^green;could you plant ^orange;<seedList>.^white; And maybe, when they're fully grown, ^green;deliver the fresh produce to me^white;?",
+      "Por": "Tímido. Eu espero que não seja pedir demais, mas ^green;você poderia plantar ^orange;<seedList>.^white; E talvez, quando eles estiverem totalmente crescidas, ^green;entregar o produto fresco para mim?"
     }
   },
   {

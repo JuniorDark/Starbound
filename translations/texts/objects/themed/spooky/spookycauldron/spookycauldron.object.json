@@ -27,18 +27,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/themed/spooky/spookycauldron/spookycauldron.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "How long will I have to sit in this to rust?",
-      "Por": "Quanto tempo vou ter que me sentar nisto para enferrujar?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/themed/spooky/spookycauldron/spookycauldron.object": [
         "/avianDescription"
       ]
     },
@@ -81,6 +69,18 @@
     "Texts": {
       "Eng": "It's a little on the small side for a bathin' tub.",
       "Por": "É um pouco pequeno para uma banheira."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/spooky/spookycauldron/spookycauldron.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Questioning. How long will I have to sit in this to rust?",
+      "Por": "Questionamento. Quanto tempo vou ter que me sentar nisto para enferrujar?"
     }
   },
   {

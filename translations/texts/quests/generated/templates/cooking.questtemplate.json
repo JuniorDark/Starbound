@@ -3,12 +3,48 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/cooking.questtemplate": [
-        "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText"
+        "/scriptConfig/generatedText/text/default/glitch/1"
       ]
     },
     "Texts": {
-      "Eng": "I am very grateful to benefit from your excellent cooking skills. Thank you!",
-      "Por": "Eu sou muito grato por se beneficiar de suas excelentes habilidades de cozinheiro. Obrigado!"
+      "Eng": "Composed. ^green;Now you just need to prepare ^orange;<cookedItems>^white; from the ^orange;<ingredients>^white;. Simple!",
+      "Por": "Calmo. ^green;Agora você só precisa preparar um ^orange;<cookedItems>^white; com ^orange;<ingredients>^white;. Simples!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/cooking.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Confused. Now that you have all the ^orange;ingredients^white;, ^green;they just need to be fashioned into ^orange;<cookedItems>^white; somehow. I will leave this part to you!",
+      "Por": "Confuso. Agora que você tem todo os ^orange;ingredients^white;, ^green;eles só precisam de ser transformados em ^orange;<cookedItems>^white; de algum modo. Vou deixar essa parte para você!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/cooking.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Envious. I am very grateful to benefit from your excellent cooking skills. Thank you!",
+      "Por": "Invejoso. Eu sou muito grato por se beneficiar de suas excelentes habilidades de cozinheiro. Obrigado!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/cooking.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Happy. The <cookedItems> look splendid. ",
+      "Por": "Feliz. O <cookedItems> parece esplêndido."
     }
   },
   {
@@ -63,36 +99,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/cooking.questtemplate": [
-        "/scriptConfig/generatedText/text/default/glitch/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Now that you have all the ^orange;ingredients^white;, ^green;they just need to be fashioned into ^orange;<cookedItems>^white; somehow. I will leave this part to you!",
-      "Por": "Agora que você tem todo os ^orange;ingredients^white;, ^green;eles só precisam de ser transformados em ^orange;<cookedItems>^white; de algum modo. Vou deixar essa parte para você!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/cooking.questtemplate": [
         "/scriptConfig/generatedText/completionText/default/floran/1"
       ]
     },
     "Texts": {
       "Eng": "Thank you <player>, you sssure are a better chef than Floran!",
       "Por": "Obrigado <player>, você certamente é um chefe de cozinha melhor que Floran!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/cooking.questtemplate": [
-        "/scriptConfig/generatedText/completionText/default/glitch/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The <cookedItems> look splendid. ",
-      "Por": "O <cookedItems> parece esplêndido."
     }
   },
   {
@@ -129,18 +141,6 @@
     "Texts": {
       "Eng": "You didn't seem to have any trouble cooking that! Thank you - this is exactly what's needed to complete my plan.",
       "Por": "Parece que você não teve nenhuma dificuldade pra cozinhar isso! Obrigado - isto é exatamente o que é necessário para completar o meu plano."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/cooking.questtemplate": [
-        "/scriptConfig/generatedText/text/default/glitch/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "^green;Now you just need to prepare ^orange;<cookedItems>^white; from the ^orange;<ingredients>^white;. Simple!",
-      "Por": "^green;Agora você só precisa preparar um ^orange;<cookedItems>^white; com ^orange;<ingredients>^white;. Simples!"
     }
   }
 ]

@@ -15,23 +15,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/steamspring/steamboiler3/steamboiler3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Despite many years wearing away at it, this structure still stands."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/steamspring/steamboiler3/steamboiler3.object": [
         "/floranDescription"
       ]
     },
     "Texts": {
       "Eng": "Floran want to push big thing over!",
       "Por": "Floran quer empurrar grande coisa!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/steamspring/steamboiler3/steamboiler3.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. Despite many years wearing away at it, this structure still stands.",
+      "Por": "Impressionado. Apesar de muitos anos se desgastando, essa estrutura ainda está de pé."
     }
   },
   {

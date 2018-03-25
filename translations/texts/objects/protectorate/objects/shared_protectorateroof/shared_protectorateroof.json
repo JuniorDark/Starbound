@@ -39,41 +39,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/protectorate/objects/protectorateroofdetail01/protectorateroofdetail01.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/protectorate/objects/protectorateroofdetail02/protectorateroofdetail02.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/protectorate/objects/protectorateroofdetail03/protectorateroofdetail03.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/protectorate/objects/protectorateroofdetail04/protectorateroofdetail04.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/protectorate/objects/protectorateroofdetail05/protectorateroofdetail05.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/protectorate/objects/protectoraterooftopprop1/protectoraterooftopprop1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/protectorate/objects/protectoraterooftopprop2/protectoraterooftopprop2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/protectorate/objects/protectoraterooftopprop3/protectoraterooftopprop3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/protectorate/objects/protectoraterooftopprop4/protectoraterooftopprop4.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A standard ventilation system."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/protectorate/objects/protectorateroofdetail01/protectorateroofdetail01.object": [
         "/humanDescription"
       ],
       "objects/protectorate/objects/protectorateroofdetail02/protectorateroofdetail02.object": [
@@ -245,6 +210,42 @@
     "Texts": {
       "Eng": "Thisss thing is ventilation.",
       "Por": "Esta coisa é ventilação."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/protectorate/objects/protectorateroofdetail01/protectorateroofdetail01.object": [
+        "/glitchDescription"
+      ],
+      "objects/protectorate/objects/protectorateroofdetail02/protectorateroofdetail02.object": [
+        "/glitchDescription"
+      ],
+      "objects/protectorate/objects/protectorateroofdetail03/protectorateroofdetail03.object": [
+        "/glitchDescription"
+      ],
+      "objects/protectorate/objects/protectorateroofdetail04/protectorateroofdetail04.object": [
+        "/glitchDescription"
+      ],
+      "objects/protectorate/objects/protectorateroofdetail05/protectorateroofdetail05.object": [
+        "/glitchDescription"
+      ],
+      "objects/protectorate/objects/protectoraterooftopprop1/protectoraterooftopprop1.object": [
+        "/glitchDescription"
+      ],
+      "objects/protectorate/objects/protectoraterooftopprop2/protectoraterooftopprop2.object": [
+        "/glitchDescription"
+      ],
+      "objects/protectorate/objects/protectoraterooftopprop3/protectoraterooftopprop3.object": [
+        "/glitchDescription"
+      ],
+      "objects/protectorate/objects/protectoraterooftopprop4/protectoraterooftopprop4.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Uninterested. A standard ventilation system.",
+      "Por": "Desinteressado. Um sistema de ventilação padrão."
     }
   }
 ]

@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Casinha na pradaria. Ou onde quer que você esteja."
+    ],
     "Files": {
       "objects/biome/gnome/smallhouse11/smallhouse11.object": [
         "/description"
@@ -17,7 +19,7 @@
     },
     "Texts": {
       "Eng": "A miniature house. Don't knock too hard!",
-      "Por": "Casinha na pradaria. Ou onde quer que você esteja."
+      "Por": "Uma casa em miniatura. Não bata muito forte!"
     }
   },
   {
@@ -132,59 +134,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/gnome/smallchurch/smallchurch.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/gnome/smallclocktower/smallclocktower.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/gnome/smallhouse1/smallhouse1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/gnome/smallhouse10/smallhouse10.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/gnome/smallhouse11/smallhouse11.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/gnome/smallhouse2/smallhouse2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/gnome/smallhouse3/smallhouse3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/gnome/smallhouse4/smallhouse4.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/gnome/smallhouse5/smallhouse5.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/gnome/smallhouse6/smallhouse6.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/gnome/smallhouse7/smallhouse7.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/gnome/smallhouse8/smallhouse8.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/gnome/smallhouse9/smallhouse9.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/gnome/smallinn/smallinn.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/gnome/smallwindmill/smallwindmill.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I do not believe a Glitch could live here."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/gnome/smallchurch/smallchurch.object": [
         "/hylotlDescription"
       ],
       "objects/biome/gnome/smallclocktower/smallclocktower.object": [
@@ -290,7 +239,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Casinha na pradaria. Ou onde quer que você esteja."
+    ],
     "Files": {
       "objects/biome/gnome/smallhouse10/smallhouse10.object": [
         "/description"
@@ -316,11 +267,13 @@
     },
     "Texts": {
       "Eng": "Little house on the prairie. Or wherever you are.",
-      "Por": "Casinha na pradaria. Ou onde quer que você esteja."
+      "Por": "Casinha na Pradaria. Ou onde quer que você esteja."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Esta é a casa mais pequena que já vi."
+    ],
     "Files": {
       "objects/biome/gnome/smallchurch/smallchurch.object": [
         "/apexDescription"
@@ -425,6 +378,62 @@
     "Texts": {
       "Eng": "This must be a house for ants.",
       "Por": "Isso deve ser uma casa para formigas."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Pensativo. Não acredito que um Glitch possa viver aqui."
+    ],
+    "Files": {
+      "objects/biome/gnome/smallchurch/smallchurch.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/gnome/smallclocktower/smallclocktower.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/gnome/smallhouse1/smallhouse1.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/gnome/smallhouse10/smallhouse10.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/gnome/smallhouse11/smallhouse11.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/gnome/smallhouse2/smallhouse2.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/gnome/smallhouse3/smallhouse3.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/gnome/smallhouse4/smallhouse4.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/gnome/smallhouse5/smallhouse5.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/gnome/smallhouse6/smallhouse6.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/gnome/smallhouse7/smallhouse7.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/gnome/smallhouse8/smallhouse8.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/gnome/smallhouse9/smallhouse9.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/gnome/smallinn/smallinn.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/gnome/smallwindmill/smallwindmill.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thoughtful. I do not believe a Glitch could live here.",
+      "Por": "Pensativo. Eu não acredito que um Glitch poderia viver aqui."
     }
   },
   {

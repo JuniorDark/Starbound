@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/caveart5/caveart5.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intrigued. This appears to be a crude replication of an event that happened long ago.",
+      "Por": "Intrigado. Isso parece ser uma replicação grosseira de um evento que aconteceu há muito tempo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/caveart5/caveart5.object": [
         "/apexDescription"
       ]
     },
@@ -45,17 +57,6 @@
     "Texts": {
       "Eng": "Mysterious Cave Art",
       "Por": "Mysterious Cave Art"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/mission/caveart5/caveart5.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This appears to be a crude replication of an event that happened long ago."
     }
   },
   {

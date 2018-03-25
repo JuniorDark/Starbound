@@ -3,6 +3,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/datastation/datastation.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analytical. This terminal appears to be processing topographical data about the planet.",
+      "Por": "Analítico. Este terminal parece estar processando dados topográficos sobre o planeta."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/datastation/datastation.object": [
         "/shortdescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "This station seems to be transmitting a lot of data.",
       "Por": "Esta estação parece estar transmitindo uma grande quantidade de dados."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/datastation/datastation.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This terminal appears to be processing topographical data about the planet."
     }
   }
 ]

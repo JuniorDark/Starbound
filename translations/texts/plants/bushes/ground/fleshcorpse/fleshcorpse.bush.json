@@ -3,18 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "plants/bushes/ground/fleshcorpse/fleshcorpse.bush": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A melting corpse.",
-      "Por": "Um corpo derretido."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "plants/bushes/ground/fleshcorpse/fleshcorpse.bush": [
         "/description",
         "/shortdescription"
       ]
@@ -33,7 +21,19 @@
     },
     "Texts": {
       "Eng": "Let the bodiesss hit the floor!",
-      "Por": "Deixe os corposss caírem no chão!"
+      "Por": "Deixe os corpos caírem no chão!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/fleshcorpse/fleshcorpse.bush": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unsettled. A melting corpse.",
+      "Por": "Perturbado. Um cadáver derretido."
     }
   }
 ]

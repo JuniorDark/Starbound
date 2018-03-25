@@ -39,24 +39,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/ship/apexshiplocker/apexshiplocker.object": [
-        "/apexDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "The ship's storage system.",
-      "Por": "O sistema de armazenamento da nave."
+      "Eng": "Pleased. This ship's storage system is indeed useful.",
+      "Por": "Satisfeito. O sistema de armazenamento desta nave é realmente útil."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/ship/apexshiplocker/apexshiplocker.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/apexDescription"
       ]
     },
     "Texts": {
-      "Eng": "This ship's storage system is indeed useful.",
-      "Por": "O sistema de armazenamento desta nave é realmente útil."
+      "Eng": "The ship's storage system.",
+      "Por": "O sistema de armazenamento da nave."
     }
   }
 ]

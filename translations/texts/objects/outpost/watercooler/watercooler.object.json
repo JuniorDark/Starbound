@@ -15,17 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/watercooler/watercooler.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A water cooler."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/outpost/watercooler/watercooler.object": [
         "/avianDescription"
       ]
     },
@@ -44,6 +33,18 @@
     "Texts": {
       "Eng": "A water cooler. The best place to find the hottest gossip.",
       "Por": "Um bebedouro. O melhor lugar para encontrar as fofocas mais quentes"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/watercooler/watercooler.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disinterested. A water cooler.",
+      "Por": "Desinteressado. Um bebedouro."
     }
   },
   {

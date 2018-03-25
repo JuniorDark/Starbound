@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/geode/geodebed/geodebed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Concerned. The crystals inside this geode do not look comfortable to sleep on.",
+      "Por": "Preocupado. Os cristais dentro deste geodo não parecem confortáveis para dormir."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/geode/geodebed/geodebed.object": [
         "/shortdescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "Sleeping inside a geode is one way to immerse oneself in natural beauty.",
       "Por": "Dormir dentro de um geodo é uma maneira de mergulhar na beleza natural."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/geode/geodebed/geodebed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The crystals inside this geode do not look comfortable to sleep on."
     }
   },
   {

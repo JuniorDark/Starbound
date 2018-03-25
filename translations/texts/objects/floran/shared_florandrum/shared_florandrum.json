@@ -3,26 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/florandrum1/florandrum1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/floran/florandrum2/florandrum2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/floran/florandrum3/florandrum3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/floran/florandrum4/florandrum4.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A basic instrument. It appears to produce a single sound."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/floran/florandrum1/florandrum1.object": [
         "/description"
       ],
       "objects/floran/florandrum2/florandrum2.object": [
@@ -164,6 +144,27 @@
     "Texts": {
       "Eng": "The Avian prefer the sound of a gong.",
       "Por": "Os Avian preferem o som de um gongo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/florandrum1/florandrum1.object": [
+        "/glitchDescription"
+      ],
+      "objects/floran/florandrum2/florandrum2.object": [
+        "/glitchDescription"
+      ],
+      "objects/floran/florandrum3/florandrum3.object": [
+        "/glitchDescription"
+      ],
+      "objects/floran/florandrum4/florandrum4.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unimpressed. A basic instrument. It appears to produce a single sound.",
+      "Por": "Não impressionado. Um instrumento básico. Parece produzir um único som."
     }
   }
 ]

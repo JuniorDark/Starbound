@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/barrel/barrel.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A barrel, good storage for cheap items."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/glitch/barrel/barrel.object": [
         "/description"
       ]
     },
@@ -32,6 +21,18 @@
     "Texts": {
       "Eng": "A plain ol' barrel.",
       "Por": "Um barril velho liso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/barrel/barrel.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased. A barrel, good storage for cheap items.",
+      "Por": "Atento. Um barril, armazenamento para artigos baratos."
     }
   },
   {

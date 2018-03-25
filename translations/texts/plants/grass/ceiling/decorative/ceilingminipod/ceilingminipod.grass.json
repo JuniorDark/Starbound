@@ -3,18 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "plants/grass/ceiling/decorative/ceilingminipod/ceilingminipod.grass": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A plant like pod.",
-      "Por": "Uma planta parecida com um casulo."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "plants/grass/ceiling/decorative/ceilingminipod/ceilingminipod.grass": [
         "/description",
         "/shortdescription"
       ]
@@ -34,6 +22,18 @@
     "Texts": {
       "Eng": "Plant pod.",
       "Por": "Casulo de planta."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ceiling/decorative/ceilingminipod/ceilingminipod.grass": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. A plant like pod.",
+      "Por": "Relatório. Uma planta parecida com um casulo."
     }
   }
 ]

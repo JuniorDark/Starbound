@@ -15,18 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/ship/glitchshiplocker/glitchshiplocker.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A good Glitch storage locker.",
-      "Por": "Um bom armário de armazenamento Glitch."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/ship/glitchshiplocker/glitchshiplocker.object": [
         "/humanDescription"
       ]
     },
@@ -57,6 +45,18 @@
     "Texts": {
       "Eng": "Glitch sstore goodiess in here.",
       "Por": "Glitch armazena coisass de valor aqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/glitchshiplocker/glitchshiplocker.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased. A good Glitch storage locker.",
+      "Por": "Satisfeito. Um bom armário de armazenamento Glitch."
     }
   },
   {

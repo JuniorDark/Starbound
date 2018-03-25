@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "É uma raiz."
+    ],
     "Files": {
       "objects/biome/swamp/gasprimer/gasprimer.object": [
         "/novakidDescription"
@@ -38,7 +40,7 @@
     },
     "Texts": {
       "Eng": "It's just a root.",
-      "Por": "É uma raiz."
+      "Por": "É apenas uma raiz."
     }
   }
 ]

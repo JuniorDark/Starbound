@@ -18,15 +18,15 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/scorchedcity/scorchedlandmine/scorchedlandmine.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/wired/landmine/landmine.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "An active land mine, I had better be careful.",
-      "Por": "Uma mina terrestre ativa, é melhor ter cuidado."
+      "Eng": "Cautious. An active land mine, I had better be careful.",
+      "Por": "Cauteloso. Uma mina terrestre ativa, eu deveria ter cuidado."
     }
   },
   {
@@ -45,7 +45,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Minas terrestres, menores que as minas marinhas, mas ainda letais."
+    ],
     "Files": {
       "objects/biome/scorchedcity/scorchedlandmine/scorchedlandmine.object": [
         "/hylotlDescription"

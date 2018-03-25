@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/ancient/challengedoor/challengereturndoor.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hopeful. Surely, this must be the way out of here.",
+      "Por": "Esperançoso. Certamente, este deve ser o caminho para sair daqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/challengedoor/challengereturndoor.object": [
         "/description",
         "/humanDescription"
       ]
@@ -34,18 +46,6 @@
     "Texts": {
       "Eng": "I sure hope this door will take me back to reality!",
       "Por": "Espero que esta porta me leve de volta à realidade!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/ancient/challengedoor/challengereturndoor.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Surely, this must be the way out of here.",
-      "Por": "Certamente, esta deve ser a saída daqui."
     }
   },
   {

@@ -18,6 +18,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/modernplatform.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/platforms/modernplatform.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Satisfied. This smooth modern platform is attractive and sturdy.",
+      "Por": "Satisfeito. Esta plataforma moderna lisa é atraente e robusta."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/modernplatform.matitem": [
         "/novakiddescription"
       ],
       "tiles/platforms/modernplatform.material": [
@@ -42,21 +57,6 @@
     "Texts": {
       "Eng": "Ssmooth modern platformsss.",
       "Por": "Plataformasss modernass lisass."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/modernplatform.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/platforms/modernplatform.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This smooth modern platform is attractive and sturdy.",
-      "Por": "Esta plataforma moderna lisa é atraente e resistente."
     }
   }
 ]

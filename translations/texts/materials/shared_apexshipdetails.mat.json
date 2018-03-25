@@ -33,6 +33,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/apexshipdetails.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/apexshipdetails.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Secure. This metal wall has been reinforced with strong bolts.",
+      "Por": "Seguro. Esta parede de metal foi reforçada com parafusos fortes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/apexshipdetails.matitem": [
         "/florandescription"
       ],
       "tiles/materials/apexshipdetails.material": [
@@ -41,7 +56,7 @@
     },
     "Texts": {
       "Eng": "Ssstrong bolted metal.",
-      "Por": "Metal parafusssado forte."
+      "Por": "Metal aparafusado forte."
     }
   },
   {
@@ -57,21 +72,6 @@
     "Texts": {
       "Eng": "Strong lookin' wall made from metal.",
       "Por": "Parede forte feita de metal."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/apexshipdetails.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/apexshipdetails.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This metal wall has been reinforced with strong bolts.",
-      "Por": "Esta parede metálica foi reforçada com parafusos fortes."
     }
   }
 ]

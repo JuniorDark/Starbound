@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/chestmedavian/chestmedavian1.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Anticipation. What could be inside a chest so large?",
+      "Por": "Antecipação. O que poderia estar dentro de um baú tão grande?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/chestmedavian/chestmedavian1.object": [
         "/floranDescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "There are few things as exciting as an unopened chest.",
       "Por": "Há poucas coisas tão excitantes como um baú fechado."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avian/chestmedavian/chestmedavian1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "What could be inside a chest so large?"
     }
   }
 ]

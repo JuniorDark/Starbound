@@ -27,23 +27,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/alpine/stonedoor/stonedoor.object": [
-        "/humanDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "It would be easy to hide this door in a cobblestone room.",
-      "Por": "Seria fácil esconder esta porta em uma sala de pedregulho."
+      "Eng": "Approving. Masterful use of natural materials.",
+      "Por": "Aprovação. Uso magistral de materiais naturais."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/alpine/stonedoor/stonedoor.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/humanDescription"
       ]
     },
     "Texts": {
-      "Eng": "Masterful use of natural materials."
+      "Eng": "It would be easy to hide this door in a cobblestone room.",
+      "Por": "Seria fácil esconder esta porta em uma sala de pedregulho."
     }
   },
   {

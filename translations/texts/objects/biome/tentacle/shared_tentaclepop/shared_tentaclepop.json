@@ -15,7 +15,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma tumor de aparência engraçada. Algo está dentro, eu me pergunto o que é..."
+    ],
     "Files": {
       "objects/biome/tentacle/tentaclepopmed/tentaclepopmed.object": [
         "/avianDescription"
@@ -48,17 +50,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/tentacle/tentaclepopbig/tentaclepopbig.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/biome/tentacle/tentaclepopmed/tentaclepopmed.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/biome/tentacle/tentaclepopsmall/tentaclepopsmall.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "It is difficult to resist the urge to break this growth open."
+      "Eng": "Destructive. It is difficult to resist the urge to break this growth open.",
+      "Por": "Destrutivo. É difícil resistir ao desejo de quebrar este tumor."
     }
   },
   {

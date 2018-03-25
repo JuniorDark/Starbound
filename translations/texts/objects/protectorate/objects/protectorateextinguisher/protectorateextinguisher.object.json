@@ -51,17 +51,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/protectorate/objects/protectorateextinguisher/protectorateextinguisher.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I'm glad there are some safety precautions around here."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/protectorate/objects/protectorateextinguisher/protectorateextinguisher.object": [
         "/hylotlDescription"
       ]
     },
@@ -80,6 +69,18 @@
     "Texts": {
       "Eng": "Protectorate Fire Extinguisher",
       "Por": "Protectorate Fire Extinguisher"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/protectorate/objects/protectorateextinguisher/protectorateextinguisher.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Relaxed. I'm glad there are some safety precautions around here.",
+      "Por": "Relaxado. Fico feliz que haja algumas precauções de segurança por aqui."
     }
   },
   {

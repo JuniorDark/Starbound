@@ -18,6 +18,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/chain.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/chain.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. These chains are remarkably strong.",
+      "Por": "Impressionado. Estas correntes são muito fortes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/chain.matitem": [
         "/novakiddescription"
       ],
       "tiles/materials/chain.material": [
@@ -27,21 +42,6 @@
     "Texts": {
       "Eng": "Some chains made outta tungsten.",
       "Por": "Algumas correntes feitas de tungstênio."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/chain.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/chain.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "These chains are remarkably strong.",
-      "Por": "Essas correntes são incrivelmente fortes."
     }
   },
   {
@@ -60,7 +60,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Correntes de tungstênio, não são muito divertidas."
+    ],
     "Files": {
       "items/materials/chain.matitem": [
         "/description"

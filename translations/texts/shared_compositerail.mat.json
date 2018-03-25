@@ -33,6 +33,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/compositerail.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/rails/compositerail.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased. The material this rail is made from makes it very strong.",
+      "Por": "Satisfeito. O material de que este trilho é feito o torna muito forte."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/compositerail.matitem": [
         "/florandescription"
       ],
       "tiles/rails/compositerail.material": [
@@ -57,21 +72,6 @@
     "Texts": {
       "Eng": "Some sturdy lookin' rails, gettin' the itch to ride 'em.",
       "Por": "Alguns trilhos que parecem resistentes, pedindo para serem montados."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/compositerail.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/rails/compositerail.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The material this rail is made from makes it very strong.",
-      "Por": "O material do que este trilho é feito faz com que seja muito forte."
     }
   }
 ]

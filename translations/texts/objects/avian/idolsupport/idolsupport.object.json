@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/idolsupport/idolsupport.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A decorative support beam."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avian/idolsupport/idolsupport.object": [
         "/description"
       ]
     },
@@ -80,6 +69,18 @@
     "Texts": {
       "Eng": "It appears to be a load-bearing carving.",
       "Por": "Parece ser uma viga de suporte decorativa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/idolsupport/idolsupport.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nonchalant. A decorative support beam.",
+      "Por": "Indiferente. Uma viga de suporte decorativa."
     }
   },
   {

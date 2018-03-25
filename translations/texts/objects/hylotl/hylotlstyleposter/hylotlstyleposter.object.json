@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/hylotlstyleposter/hylotlstyleposter.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amused. This was a terrible movie.",
+      "Por": "Divertido. Este foi um filme terrível."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/hylotlstyleposter/hylotlstyleposter.object": [
         "/shortdescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "Some movie about a claw bandit, I forget the name.",
       "Por": "Um filme sobre um bandido de garras, esqueci o nome."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/hylotl/hylotlstyleposter/hylotlstyleposter.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This was a terrible movie."
     }
   }
 ]

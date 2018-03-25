@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/novakid/frontierlamp/frontierlamp.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. The metalwork on this brass lamp is rather ornate. It must have been made with care.",
+      "Por": "Impressionado. O metal desta lâmpada de latão é bastante ornamentado. Deve ter sido feito com cuidado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/novakid/frontierlamp/frontierlamp.object": [
         "/novakidDescription"
       ]
     },
@@ -57,17 +69,6 @@
     "Texts": {
       "Eng": "The flickering of this oil lamp is oddly calming.",
       "Por": "A cintilação desta lâmpada a óleo é estranhamente calmante."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/novakid/frontierlamp/frontierlamp.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The metalwork on this brass lamp is rather ornate. It must have been made with care."
     }
   },
   {

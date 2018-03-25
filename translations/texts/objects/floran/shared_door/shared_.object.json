@@ -15,7 +15,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Os Floran parecem ser capazes de dobrar a natureza à sua vontade. Não é pouca coisa."
+    ],
     "Files": {
       "objects/floran/bamboodoor/bamboodoor.object": [
         "/hylotlDescription"
@@ -45,7 +47,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Esta porta é pouco adequado para manter o clima fora."
+    ],
     "Files": {
       "objects/floran/florandoor/florandoor.object": [
         "/description"

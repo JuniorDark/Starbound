@@ -51,17 +51,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/modernchair/modernchair.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Designed for maximum comfort."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/modernchair/modernchair.object": [
         "/novakidDescription"
       ]
     },
@@ -80,6 +69,18 @@
     "Texts": {
       "Eng": "Modern Chair",
       "Por": "Modern Chair"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/modernchair/modernchair.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Satisfied. Designed for maximum comfort.",
+      "Por": "Satisfeito. Projetada para o máximo conforto."
     }
   },
   {

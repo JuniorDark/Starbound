@@ -3,6 +3,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/pressurisedplatform.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/platforms/pressurisedplatform.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Approving. These strong platforms are reinforced to stand up to pressurisation changes.",
+      "Por": "Aprovação. Estas plataformas fortes são reforçadas para suportar mudanças de pressurização."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/pressurisedplatform.matitem": [
         "/shortdescription"
       ],
       "tiles/platforms/pressurisedplatform.material": [
@@ -42,21 +57,6 @@
     "Texts": {
       "Eng": "Sstrong metal platformss are cold.",
       "Por": "Plataformass de metal fortess são frias."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/pressurisedplatform.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/platforms/pressurisedplatform.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "These strong platforms are reinforced to stand up to pressurisation changes.",
-      "Por": "Estas plataformas fortes são reforçadas para suportar mudanças de pressurização."
     }
   }
 ]

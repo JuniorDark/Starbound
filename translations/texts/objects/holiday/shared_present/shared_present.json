@@ -129,20 +129,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/holiday/present1/present1.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/holiday/present2/present2.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/holiday/present3/present3.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/holiday/present4/present4.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "The contents of this present elude me."
+      "Eng": "Thoughtful. The contents of this present elude me.",
+      "Por": "Pensativo. O conteúdo deste presente me eludi."
     }
   }
 ]

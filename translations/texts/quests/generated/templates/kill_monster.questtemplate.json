@@ -3,12 +3,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/kill_monster.questtemplate": [
-        "/scriptConfig/generatedText/text/first/glitch/1/glitchEmotedText"
+        "/scriptConfig/generatedText/text/default/glitch/1"
       ]
     },
     "Texts": {
-      "Eng": "A lone ^orange;<monster> ^white;ambushed me at the ^orange;<spawnPoint>^white;<spawnPoint.direction> and took ^orange;<items>^white;! Can you ^green;hunt the creature and retrieve my possessions for me?",
-      "Por": "Você recuperou meus pertences - mesmo que eles tenham cheiro de <monster>!"
+      "Eng": "Ashamed. I was attacked by a fierce ^orange;<monster> at the <spawnPoint>^white;<spawnPoint.direction>, and it swallowed my possessions in the struggle. It took ^orange;<items>, ^white;could you ^green;hunt it down and retrieve my things^white; for me?",
+      "Por": "Envergonhado. Eu fui atacado por um feroz ^orange;<monster> no <spawnPoint>^white; <spawnPoint.direction>, e ele engoliu minhas posses na luta. Ele levou ^orange;<items>, ^white;você poderia ^green;caçá-lo e recuperar as minhas coisas^white; para mim?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster.questtemplate": [
+        "/scriptConfig/generatedText/text/first/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bewildered.  I had just finished gathering ^orange;<items>^white; when a lone ^orange;<monster> at the <spawnPoint><spawnPoint.direction> swallowed them whole! ^white;Could you go ^green;hunt the beast and retrieve my belongings^white; for me?",
+      "Por": "Desnorteado. Eu tinha acabado de coletar ^orange;<items>^white; quando um ^orange;<monster> no <spawnPoint>\r\n <spawnPoint.direction> engoliu todos eles! ^white;Você poderia ir ^green;caçar a besta e recuperar meus pertences^white; para mim?"
     }
   },
   {
@@ -99,36 +111,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/kill_monster.questtemplate": [
-        "/scriptConfig/generatedText/text/first/glitch/0/glitchEmotedText"
+        "/scriptConfig/generatedText/completionText/first/glitch/1"
       ]
     },
     "Texts": {
-      "Eng": "I had just finished gathering ^orange;<items>^white; when a lone ^orange;<monster> at the <spawnPoint><spawnPoint.direction> swallowed them whole! ^white;Could you go ^green;hunt the beast and retrieve my belongings^white; for me?",
-      "Por": "Eu tinha acabado de coletar ^orange;<items>^white; quando um ^orange;<monster> no <spawnPoint>\\r\\n <spawnPoint.direction> engoliu todos eles! ^white;Você poderia ir ^green;caçar a besta e recuperar meus pertences^white; para mim?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/kill_monster.questtemplate": [
-        "/scriptConfig/generatedText/text/default/glitch/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I was attacked by a fierce ^orange;<monster> at the <spawnPoint>^white;<spawnPoint.direction>, and it swallowed my possessions in the struggle. It took ^orange;<items>, ^white;could you ^green;hunt it down and retrieve my things^white; for me?",
-      "Por": "Eu fui atacado por um feroz ^orange;<monster> no <spawnPoint>^white; <spawnPoint.direction>, e ele engoliu minhas posses na luta. Ele levou ^orange;<items>, ^white;você poderia ^green;caçá-lo e recuperar as minhas coisas^white; para mim?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/kill_monster.questtemplate": [
-        "/scriptConfig/generatedText/text/default/glitch/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I was recently attacked by a fierce ^orange;<monster>, ^white;which made off with my ^orange;<items>^white;. It went towards the ^orange;<spawnPoint>^white<spawnPoint.direction>. Could you ^green;hunt the creature down for me?^white; It couldn't have gotten far.",
-      "Por": "Eu fui recentemente atacado por um feroz ^orange;<monster>, ^white;que fugiu com meu ^orange;<items>^white;. Ele foi para o ^orange;<spawnPoint>^white; <spawnPoint.direction>. Você poderia ^green;caçar a criatura para mim?^white; Ele não deve ter ido longe."
+      "Eng": "Impressed. You managed to defeat that <monster>!? You must be a great warrior! Thank you for your assistance.",
+      "Por": "Impressionado. Você conseguiu derrotar aquele <monster>!? Você deve ser um grande guerreiro! Obrigado por sua ajuda."
     }
   },
   {
@@ -147,12 +135,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/kill_monster.questtemplate": [
+        "/scriptConfig/generatedText/text/first/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nervous. A lone ^orange;<monster> ^white;ambushed me at the ^orange;<spawnPoint>^white;<spawnPoint.direction> and took ^orange;<items>^white;! Can you ^green;hunt the creature and retrieve my possessions for me?",
+      "Por": "Nervoso. Um ^orange;<monster> ^white;me emboscou no ^orange;<spawnPoint>^white; <spawnPoint.direction> e pegou ^orange;<items>^white;! Você pode ^green;caçar a criatura e recuperar as minhas posses para mim?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster.questtemplate": [
         "/scriptConfig/generatedText/text/default/floran/0"
       ]
     },
     "Texts": {
       "Eng": "Next sstep not tricky. A ^orange;<monster> ^white;near the ^orange;<spawnPoint>^white;<spawnPoint.direction> ate Floran's ^orange;<items>. ^green;Hunt ^orange;<monster> ^white;for Floran and ^green;get stuff back.",
-      "Por": "O próximo passo não é complicado. Um ^orange;<monster> ^white;perto de ^orange;<spawnPoint>^white; <spawnPoint.direction> comeu os ^orange;<items> ^white;de Floran. ^green;Cace ^orange;<monster> ^white;\npara Floran e ^green;obtenha as coisas de volta."
+      "Por": "O próximo passo não é complicado. Um ^orange;<monster> ^white;perto de ^orange;<spawnPoint>^white; <spawnPoint.direction> comeu os ^orange;<items> ^white;de Floran. ^green;Cace ^orange;<monster> ^white;\r\npara Floran e ^green;obtenha as coisas de volta."
     }
   },
   {
@@ -207,12 +207,36 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/kill_monster.questtemplate": [
-        "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText"
+        "/scriptConfig/generatedText/completionText/default/glitch/1"
       ]
     },
     "Texts": {
-      "Eng": "Thank you for retrieving my belongings - They are important to my plans. Hopefully any wandering beasts will learn not to antagonise us in future!",
-      "Por": "Obrigado por recuperar meus pertences - Eles são importantes para os meus planos. Esperemos que quaisquer feras errantes vão aprender a não nos antagonizar no futuro!"
+      "Eng": "Pleased. You retrieved my belongings - even if they do smell of <monster>!",
+      "Por": "Contente. Você recuperou meus pertences - mesmo que eles tenham cheiro de <monster>!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Relieved. Thank you for retrieving my belongings - They are important to my plans. Hopefully any wandering beasts will learn not to antagonise us in future!",
+      "Por": "Aliviado. Obrigado por recuperar meus pertences - Eles são importantes para os meus planos. Esperemos que quaisquer feras errantes vão aprender a não nos antagonizar no futuro!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shocked. I was recently attacked by a fierce ^orange;<monster>, ^white;which made off with my ^orange;<items>^white;. It went towards the ^orange;<spawnPoint>^white<spawnPoint.direction>. Could you ^green;hunt the creature down for me?^white; It couldn't have gotten far.",
+      "Por": "Chocado. Eu fui recentemente atacado por um feroz ^orange;<monster>, ^white;que fugiu com meu ^orange;<items>^white;. Ele foi para o ^orange;<spawnPoint>^white; <spawnPoint.direction>. Você poderia ^green;caçar a criatura para mim?^white; Ele não deve ter ido longe."
     }
   },
   {
@@ -267,36 +291,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/kill_monster.questtemplate": [
-        "/scriptConfig/generatedText/completionText/first/glitch/1/glitchEmotedText"
+        "/scriptConfig/generatedText/completionText/first/glitch/0"
       ]
     },
     "Texts": {
-      "Eng": "You managed to defeat that <monster>!? You must be a great warrior! Thank you for your assistance.",
-      "Por": "Você conseguiu derrotar aquele <monster>!? Você deve ser um grande guerreiro! Obrigado por sua ajuda."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/kill_monster.questtemplate": [
-        "/scriptConfig/generatedText/completionText/default/glitch/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "You retrieved my belongings - even if they do smell of <monster>!",
-      "Por": "Você recuperou meus pertences - mesmo que eles tenham cheiro de <monster>!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/kill_monster.questtemplate": [
-        "/scriptConfig/generatedText/completionText/first/glitch/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "You retrieved my belongings for me! Next time a cowardly <monster> ambushes me, I'll be ready.",
-      "Por": "Você recuperou meus pertences para mim! Da próxima vez que um <monster> covarde me emboscar, eu vou estar pronto."
+      "Eng": "Victorious. You retrieved my belongings for me! Next time a cowardly <monster> ambushes me, I'll be ready.",
+      "Por": "Vitorioso. Você recuperou meus pertences para mim! Da próxima vez que um <monster> covarde me emboscar, eu vou estar pronto."
     }
   },
   {

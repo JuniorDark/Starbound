@@ -63,6 +63,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/cell/celldoor/celldoor.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Exasperated. This door clearly favours form over function.",
+      "Por": "Exasperado. Esta porta claramente favorece a forma sobre a função."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/cell/celldoor/celldoor.object": [
         "/avianDescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "Ssspinny, sswirly sstupid door.",
       "Por": "Porta esstupida."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/cell/celldoor/celldoor.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This door clearly favours form over function."
     }
   }
 ]

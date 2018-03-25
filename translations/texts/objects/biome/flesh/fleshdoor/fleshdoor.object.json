@@ -75,23 +75,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/flesh/fleshdoor/fleshdoor.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The most disgusting door ever."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/flesh/fleshdoor/fleshdoor.object": [
         "/apexDescription"
       ]
     },
     "Texts": {
       "Eng": "This is nightmarish.",
       "Por": "Isto é um pesadelo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/flesh/fleshdoor/fleshdoor.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Uncomfortable. The most disgusting door ever.",
+      "Por": "Desconfortável. A porta mais nojenta já feita."
     }
   },
   {

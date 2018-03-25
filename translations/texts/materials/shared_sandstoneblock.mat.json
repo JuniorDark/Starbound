@@ -18,6 +18,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/sandstoneblock.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/sandstoneblock.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Perceptive. These bricks are made from a strong sandstone.",
+      "Por": "Perceptivo. Estes tijolos são feitos de um arenito forte."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/sandstoneblock.matitem": [
         "/shortdescription"
       ],
       "tiles/materials/sandstoneblock.material": [
@@ -57,21 +72,6 @@
     "Texts": {
       "Eng": "Ssturdy ssandstone brickss.",
       "Por": "Tijoloss de arenito resistentess."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/sandstoneblock.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/sandstoneblock.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "These bricks are made from a strong sandstone.",
-      "Por": "Esses tijolos são feitos de um arenito forte."
     }
   }
 ]

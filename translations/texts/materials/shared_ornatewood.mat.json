@@ -3,6 +3,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/ornatewood.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/ornatewood.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amazed. This wood was specially treated by a master craftsman.",
+      "Por": "Surpreso. Esta madeira foi tratada especialmente por um mestre artesão."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ornatewood.matitem": [
         "/description"
       ],
       "tiles/materials/ornatewood.material": [
@@ -26,7 +41,7 @@
     },
     "Texts": {
       "Eng": "Floran likess sspecial treated wood.",
-      "Por": "Floran gossta de madeira tratada esspecial."
+      "Por": "Floran gosta de madeira tratada especial."
     }
   },
   {
@@ -57,21 +72,6 @@
     "Texts": {
       "Eng": "This wood looks like it's been treated with somethin'.",
       "Por": "Essa madeira parece ter sido tratada com alguma coisa."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/ornatewood.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/ornatewood.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This wood was specially treated by a master craftsman.",
-      "Por": "Esta madeira foi especialmente tratada por um mestre artesão."
     }
   }
 ]

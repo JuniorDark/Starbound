@@ -45,7 +45,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Blocos de telhado feitos de cobre."
+    ],
     "Files": {
       "items/materials/copperroofing.matitem": [
         "/description"
@@ -63,15 +65,15 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/copperroofing.matitem": [
-        "/glitchdescription/glitchEmotedText"
+        "/glitchdescription"
       ],
       "tiles/materials/copperroofing.material": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "These roofing tiles are made entirely from copper.",
-      "Por": "Essas telhas são feitas inteiramente de cobre."
+      "Eng": "Surprised. These roofing tiles are made entirely from copper.",
+      "Por": "Surpreso. Estas telhas são feitas inteiramente de cobre."
     }
   }
 ]

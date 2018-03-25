@@ -39,17 +39,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/ashjar3/ashjar3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I have never seen such a creature before."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avian/ashjar3/ashjar3.object": [
         "/floranDescription"
       ]
     },
@@ -68,6 +57,18 @@
     "Texts": {
       "Eng": "I've never seen a jar like this before, perhaps the remains of someone with a sense of humour.",
       "Por": "Eu nunca vi uma jarra como esta antes, talvez os restos de alguém com um senso de humor."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/ashjar3/ashjar3.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Interested. I have never seen such a creature before.",
+      "Por": "Interessado. Eu nunca vi uma criatura como essa antes."
     }
   },
   {

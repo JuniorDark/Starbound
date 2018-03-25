@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/themed/doom/doomlight/doomlight.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alarmed. This lamp resembles a giant eyeball.",
+      "Por": "Alarmado. Esta lâmpada assemelha-se a um globo ocular gigante."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/doom/doomlight/doomlight.object": [
         "/shortdescription"
       ]
     },
@@ -69,18 +81,6 @@
     "Texts": {
       "Eng": "The light appears to follow me wherever I stand in the room.",
       "Por": "A luz parece me seguir onde quer que eu esteja no quarto."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/themed/doom/doomlight/doomlight.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This lamp resembles a giant eyeball.",
-      "Por": "Esta lâmpada assemelha-se a um globo ocular gigante."
     }
   },
   {

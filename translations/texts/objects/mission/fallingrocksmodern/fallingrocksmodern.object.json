@@ -58,5 +58,17 @@
       "Eng": "This sign clearly warns of unstable rocks.",
       "Por": "Esta placa adverte claramente sobre rochas instáveis."
     }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/fallingrocksmodern/fallingrocksmodern.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Worried. Perhaps this represents that the area is unsafe?",
+      "Por": "Preocupado. Talvez isso represente que a área é insegura?"
+    }
   }
 ]

@@ -3,18 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/biome/foundryworker.npctype": [
-        "/scriptConfig/dialog/converse/glitch/default/2/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A Glitch's work is never done!",
-      "Por": "O trabalho de um Glitch nunca é feito!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "npcs/biome/foundryworker.npctype": [
         "/scriptConfig/dialog/converse/apex/default/1"
       ]
     },
@@ -39,24 +27,36 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/biome/foundryworker.npctype": [
-        "/scriptConfig/dialog/converse/glitch/default/0/glitchEmotedText"
+        "/scriptConfig/dialog/converse/glitch/default/2"
       ]
     },
     "Texts": {
-      "Eng": "Foundry work is hard work!",
-      "Por": "Trabalho de fundição é trabalho duro!"
+      "Eng": "Eager. A Glitch's work is never done!",
+      "Por": "Ansioso. Um trabalho Glitch nunca acaba!"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "npcs/biome/foundryworker.npctype": [
-        "/scriptConfig/dialog/converse/glitch/default/1/glitchEmotedText"
+        "/scriptConfig/dialog/converse/glitch/default/0"
       ]
     },
     "Texts": {
-      "Eng": "I have been working hard here. I'm nearly reaching melting point!",
-      "Por": "Tenho trabalhado duro aqui. Estou quase alcançando o ponto de fusão!"
+      "Eng": "Exhausted. Foundry work is hard work!",
+      "Por": "Exausto. Trabalho de fundição é um trabalho difícil!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/biome/foundryworker.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fatigued. I have been working hard here. I'm nearly reaching melting point!",
+      "Por": "Cansado. Eu tenho trabalhado duro aqui. Estou quase atingindo o ponto de fusão!"
     }
   },
   {
@@ -81,18 +81,6 @@
     "Texts": {
       "Eng": "It's so hot here that my goggles are steaming up!",
       "Por": "Está tão quente aqui que meus óculos estão embaçando!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "npcs/biome/foundryworker.npctype": [
-        "/scriptConfig/dialog/converse/glitch/default/3/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "My shift isn't over yet!",
-      "Por": "O meu turno ainda não acabou!"
     }
   },
   {
@@ -153,6 +141,18 @@
     "Texts": {
       "Eng": "This planet is even hotter for those of us with fur.",
       "Por": "Este planeta é ainda mais quente para aqueles de nós com pelo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/biome/foundryworker.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tired. My shift isn't over yet!",
+      "Por": "Cansado. Meu turno ainda não acabou!"
     }
   }
 ]

@@ -15,17 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/tentacle/tentaclespawner1/tentaclespawner1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I should probably get away from this green goo!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/tentacle/tentaclespawner1/tentaclespawner1.object": [
         "/humanDescription"
       ]
     },
@@ -56,6 +45,18 @@
     "Texts": {
       "Eng": "Some sort of green gel. Ain't sure about it.",
       "Por": "Algum tipo de gel verde. Não tenho certeza disso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/tentacle/tentaclespawner1/tentaclespawner1.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stressed. I should probably get away from this green goo!",
+      "Por": "Estressado. Eu provavelmente deveria ficar longe desta gosma verde!"
     }
   },
   {

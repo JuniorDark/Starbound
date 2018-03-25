@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Crocante."
+    ],
     "Files": {
       "objects/biome/coralcave/embercoral1/embercoral1.object": [
         "/floranDescription"
@@ -23,7 +25,7 @@
     },
     "Texts": {
       "Eng": "Crissspy.",
-      "Por": "Crocante."
+      "Por": "Ondulada."
     }
   }
 ]

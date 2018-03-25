@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/themed/outdoor/lamppost2/lamppost2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Appreciative. I am grateful for the additional lighting.",
+      "Por": "Grato. Agradeço a iluminação adicional."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/outdoor/lamppost2/lamppost2.object": [
         "/humanDescription"
       ]
     },
@@ -57,18 +69,6 @@
     "Texts": {
       "Eng": "Great for especially dark alleys.",
       "Por": "Ótimo para becos escuros."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/themed/outdoor/lamppost2/lamppost2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I am grateful for the additional lighting.",
-      "Por": "Sou grato pela iluminação adicional."
     }
   },
   {

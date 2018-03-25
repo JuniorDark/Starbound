@@ -39,23 +39,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/classicbardoor/classicbardoor.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Expert craftsmanship is required to produce door of this calibre."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/apex/classicbardoor/classicbardoor.object": [
         "/hylotlDescription"
       ]
     },
     "Texts": {
       "Eng": "Exquisite craftsmanship.",
       "Por": "Artesanato requintado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/classicbardoor/classicbardoor.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. Expert craftsmanship is required to produce door of this calibre.",
+      "Por": "Impressionado. Artesanato especialista\r\n é necessário para produzir uma porta deste calibre."
     }
   },
   {

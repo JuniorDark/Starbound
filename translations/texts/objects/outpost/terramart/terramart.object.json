@@ -15,17 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/terramart/terramart.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A great place to buy farm supplies."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/outpost/terramart/terramart.object": [
         "/hylotlDescription"
       ]
     },
@@ -68,6 +57,18 @@
     "Texts": {
       "Eng": "I always wanted to retire to an ol' farmstead.",
       "Por": "Eu sempre quis me aposentar em uma antiga fazenda."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/terramart/terramart.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased. A great place to buy farm supplies.",
+      "Por": "Satisfeito. Um ótimo lugar para comprar suprimentos agrícolas."
     }
   },
   {

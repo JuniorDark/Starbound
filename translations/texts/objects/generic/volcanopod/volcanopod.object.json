@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/volcanopod/volcanopod.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A machine that gives materials for free!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/volcanopod/volcanopod.object": [
         "/description"
       ]
     },
@@ -92,6 +81,18 @@
     "Texts": {
       "Eng": "This pod dispenses materials for crafting.",
       "Por": "Esta capsula dispensa materiais para fabricação."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/volcanopod/volcanopod.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wonder. A machine that gives materials for free!",
+      "Por": "Maravilha. Uma máquina que fornece materiais de graça!"
     }
   }
 ]

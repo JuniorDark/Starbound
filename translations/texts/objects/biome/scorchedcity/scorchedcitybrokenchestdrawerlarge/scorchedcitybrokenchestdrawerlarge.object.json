@@ -51,23 +51,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/scorchedcity/scorchedcitybrokenchestdrawerlarge/scorchedcitybrokenchestdrawerlarge.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A large chest of drawers, broken to pieces."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/scorchedcity/scorchedcitybrokenchestdrawerlarge/scorchedcitybrokenchestdrawerlarge.object": [
         "/shortdescription"
       ]
     },
     "Texts": {
       "Eng": "Large Broken Drawers",
       "Por": "Large Broken Drawers"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/scorchedcity/scorchedcitybrokenchestdrawerlarge/scorchedcitybrokenchestdrawerlarge.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sad. A large chest of drawers, broken to pieces.",
+      "Por": "Triste. Uma grande cômoda, quebrada em pedaços."
     }
   },
   {

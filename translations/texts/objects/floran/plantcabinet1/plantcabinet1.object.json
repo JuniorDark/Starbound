@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/plantcabinet1/plantcabinet1.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Displeased. The storage space in this cabinet is very limited.",
+      "Por": "Descontente. O espaço de armazenamento neste armário é muito limitado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/plantcabinet1/plantcabinet1.object": [
         "/floranDescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "Small Cabinet",
       "Por": "Small Cabinet"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/floran/plantcabinet1/plantcabinet1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The storage space in this cabinet is very limited."
     }
   },
   {

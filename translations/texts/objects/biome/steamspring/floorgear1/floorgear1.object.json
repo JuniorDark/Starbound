@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/steamspring/floorgear1/floorgear1.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Confused. Is this meant to turn or is it just decoration?",
+      "Por": "Confuso. Isso é para girar ou é apenas decoração?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/steamspring/floorgear1/floorgear1.object": [
         "/shortdescription"
       ]
     },
@@ -33,17 +45,6 @@
     "Texts": {
       "Eng": "Floran wondersss if metal wheel is sharp.",
       "Por": "Floran ssse pergunta se roda de metal é afiada."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/steamspring/floorgear1/floorgear1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Is this meant to turn or is it just decoration?"
     }
   },
   {

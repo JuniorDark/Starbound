@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma porta com trava à ar básica."
+    ],
     "Files": {
       "objects/outpost/outpostairlock/outpostairlock.object": [
         "/hylotlDescription"
@@ -18,24 +20,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/outpost/outpostairlock/outpostairlock.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/outpost/outpostairlocklarge/outpostairlocklarge.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/outpost/outposthatchlarge/outposthatchlarge.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A sturdy airlock."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma porta com trava à ar. Útil!"
+    ],
     "Files": {
       "objects/outpost/outpostairlock/outpostairlock.object": [
         "/humanDescription"
@@ -53,7 +40,29 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Apreciativo. Uma porta com trava à ar resistente."
+    ],
+    "Files": {
+      "objects/outpost/outpostairlock/outpostairlock.object": [
+        "/glitchDescription"
+      ],
+      "objects/outpost/outpostairlocklarge/outpostairlocklarge.object": [
+        "/glitchDescription"
+      ],
+      "objects/outpost/outposthatchlarge/outposthatchlarge.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Appreciative. A sturdy airlock.",
+      "Por": "Apreciativo. Uma eclusa de ar resistente."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "É uma porta com trava à ar."
+    ],
     "Files": {
       "objects/outpost/outpostairlock/outpostairlock.object": [
         "/floranDescription"
@@ -71,7 +80,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Parece uma porta com trava à ar."
+    ],
     "Files": {
       "objects/outpost/outpostairlock/outpostairlock.object": [
         "/novakidDescription"

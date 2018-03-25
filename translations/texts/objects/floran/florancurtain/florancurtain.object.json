@@ -63,23 +63,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/florancurtain/florancurtain.object": [
-        "/avianDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "There are holes in this curtain.",
-      "Por": "Há buracos nessa cortina."
+      "Eng": "Surprised. This curtain is made of meat.",
+      "Por": "Surpreso. Esta cortina é feita de carne."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/florancurtain/florancurtain.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/avianDescription"
       ]
     },
     "Texts": {
-      "Eng": "This curtain is made of meat."
+      "Eng": "There are holes in this curtain.",
+      "Por": "Há buracos nessa cortina."
     }
   },
   {

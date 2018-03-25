@@ -3,36 +3,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/grumble.config": [
-        "/otherDeed/glitch/default/0/glitchEmotedText"
+        "/severe/glitch/default/0"
       ]
     },
     "Texts": {
-      "Eng": "Are you trying to move a stranger into my home?",
-      "Por": "Está tentando levar um estranho para minha casa?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/grumble.config": [
-        "/otherDeed/glitch/default/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "But this is my home, I can't share it...",
-      "Por": "Mas esta é a minha casa, não posso compartilhar..."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/grumble.config": [
-        "/enclosedArea/glitch/default/2/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Can you fix my home? I'm sure it's salvageable.",
-      "Por": "Você pode consertar minha casa? Tenho certeza de que é recuperável."
+      "Eng": "Aggravated. I need you to fix my home.",
+      "Por": "Agravado. Eu preciso que você conserte minha casa."
     }
   },
   {
@@ -51,12 +27,72 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/grumble.config": [
+        "/enclosedArea/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Concerned. There is a need for repairs here.",
+      "Por": "Preocupado. São necessários reparos aqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/otherDeed/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Confused. But this is my home, I can't share it...",
+      "Por": "Confuso. Mas esta é a minha casa, eu não posso compartilhá-la..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/tagCriteria/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Confused. My home is different.",
+      "Por": "Confuso. Minha casa é diferente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/enclosedArea/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Despondent. My poor house - the walls are damaged. Could you fix things up?",
+      "Por": "Desesperado. A minha pobre casa - as paredes estão danificadas. Você poderia concertar as coisas?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
         "/otherDeed/avian/default/1"
       ]
     },
     "Texts": {
       "Eng": "Did you put my house up for rent? This must be a mistake...",
       "Por": "Você colocou minha casa para alugar? isto deve ser um erro..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/tagCriteria/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Discontent. I dislike these changes, put things back how they were.",
+      "Por": "Descontentamento. Eu não gosto dessas mudanças, coloque as coisas como elas eram."
     }
   },
   {
@@ -195,6 +231,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/grumble.config": [
+        "/enclosedArea/glitch/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hopeful. Can you fix my home? I'm sure it's salvageable.",
+      "Por": "Esperançoso. Você pode consertar a minha casa? Estou seguro que é possivel."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
         "/final/hylotl/default/0"
       ]
     },
@@ -232,36 +280,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/grumble.config": [
-        "/final/glitch/default/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I deserve a better home than this",
-      "Por": "Eu mereço uma casa melhor do que esta."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/grumble.config": [
         "/final/apex/default/1"
       ]
     },
     "Texts": {
       "Eng": "I deserve better living conditions than this!",
       "Por": "Eu mereço melhores condições de vida do que isso!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/grumble.config": [
-        "/tagCriteria/glitch/default/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I dislike these changes, put things back how they were.",
-      "Por": "Eu não gostei dessas mudanças, coloque as coisas de volta como elas eram."
     }
   },
   {
@@ -304,48 +328,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/grumble.config": [
-        "/severe/glitch/default/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I need you to fix my home.",
-      "Por": "Preciso que você conserte minha casa."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/grumble.config": [
-        "/otherDeed/glitch/default/2/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I thought this place was my very own home, but you want me to share it.",
-      "Por": "Eu pensei que este lugar era minha própria casa, mas você quer que eu compartilhe."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/grumble.config": [
         "/otherDeed/human/default/0"
       ]
     },
     "Texts": {
       "Eng": "I thought this was single tenancy!? I can't share my home!",
       "Por": "Essa é a única locação!? Não consigo compartilhar minha casa!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/grumble.config": [
-        "/tagCriteria/glitch/default/2/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I wish my house was how it used to be.",
-      "Por": "Queria que minha casa fosse como era antes."
     }
   },
   {
@@ -484,18 +472,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/grumble.config": [
-        "/tagCriteria/glitch/default/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "My home is different.",
-      "Por": "Minha casa esta diferente."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/grumble.config": [
         "/enclosedArea/hylotl/default/0"
       ]
     },
@@ -508,24 +484,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/grumble.config": [
-        "/enclosedArea/glitch/default/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "My poor house - the walls are damaged. Could you fix things up?",
-      "Por": "Minha pobre casa - as paredes estão danificadas. Você poderia consertar as coisas?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/grumble.config": [
         "/severe/avian/default/2"
       ]
     },
     "Texts": {
       "Eng": "My usually resilient patience is beginning to wear thin. Fix my home.",
       "Por": "Minha paciência está começando a se esgotar. Conserte a minha casa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/final/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Outraged. I deserve a better home than this",
+      "Por": "Indignado. Eu mereço uma casa melhor do que essa."
     }
   },
   {
@@ -574,6 +550,30 @@
     "Texts": {
       "Eng": "Put Floran's home back how it wasss.",
       "Por": "Deixe a cassa de Floran como ela era."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/otherDeed/glitch/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sad. I thought this place was my very own home, but you want me to share it.",
+      "Por": "Triste. Achei que esse local fosse minha própria casa, mas você quer que eu o compartilhe."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/otherDeed/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shocked. Are you trying to move a stranger into my home?",
+      "Por": "Chocado. Você está tentando colocar um estranho na minha casa?"
     }
   },
   {
@@ -640,36 +640,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/grumble.config": [
-        "/severe/glitch/default/2/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The fixes to my home haven't been made.",
-      "Por": "As correções para a minha casa não foram feitas."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/grumble.config": [
         "/enclosedArea/apex/default/0"
       ]
     },
     "Texts": {
       "Eng": "There is a hole in my house...",
       "Por": "Tem um buraco na minha casa..."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/grumble.config": [
-        "/enclosedArea/glitch/default/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "There is a need for repairs here.",
-      "Por": "Há necessidade de reparos aqui."
     }
   },
   {
@@ -820,12 +796,36 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/grumble.config": [
+        "/severe/glitch/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unhappy. The fixes to my home haven't been made.",
+      "Por": "Infeliz. Os consertos para a minha casa não foram feitas"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
         "/otherDeed/avian/default/0"
       ]
     },
     "Texts": {
       "Eng": "Why's someone else trying to move into my house?",
       "Por": "Por que alguem esta tentando se mudar para minha casa?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/grumble.config": [
+        "/tagCriteria/glitch/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wistful. I wish my house was how it used to be.",
+      "Por": "Ansioso. Eu gostaria que minha casa fosse como costumava ser."
     }
   },
   {

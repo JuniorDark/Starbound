@@ -6,7 +6,6 @@
         "/apexDescription",
         "/avianDescription",
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/humanDescription",
         "/hylotlDescription",
         "/novakidDescription"
@@ -27,6 +26,18 @@
     "Texts": {
       "Eng": "Foundry XOR Switch",
       "Por": "Foundry XOR Interruptor"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/foundry/foundrylogic/foundryxor.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. An XOR switch. The output will be on when exactly one of the inputs is on.",
+      "Por": "Impressionado. Um interruptor XOR. A saída será ativada quando uma das entradas estiver ativada."
     }
   },
   {

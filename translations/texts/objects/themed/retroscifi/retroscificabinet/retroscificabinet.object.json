@@ -27,18 +27,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/themed/retroscifi/retroscificabinet/retroscificabinet.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A highly functional cabinet.",
-      "Por": "Um armário altamente funcional."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/themed/retroscifi/retroscificabinet/retroscificabinet.object": [
         "/description"
       ]
     },
@@ -81,6 +69,18 @@
     "Texts": {
       "Eng": "For something so simple, this cabinet has it's charm.",
       "Por": "Para algo tão simples, este armário tem seu charme."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/retroscifi/retroscificabinet/retroscificabinet.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. A highly functional cabinet.",
+      "Por": "Observador. Um armário altamente funcional."
     }
   },
   {

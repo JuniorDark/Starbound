@@ -3,12 +3,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/merchant.config": [
-        "/merchantStart/glitch/default/2/glitchEmotedText"
+        "/severe/glitch/default/0"
       ]
     },
     "Texts": {
-      "Eng": "A customer!.",
-      "Por": "Um cliente!."
+      "Eng": "Aggrevated. You need to improve these conditions, it is impossible to work here.",
+      "Por": "Provocado. você precisa melhorar essas condições, é impossível trabalhar aqui."
     }
   },
   {
@@ -51,18 +51,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/merchant.config": [
-        "/tout/glitch/default/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Are you a customer?",
-      "Por": "Você é um cliente?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/merchant.config": [
         "/beacon/apex/default/2"
       ]
     },
@@ -99,18 +87,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/merchant.config": [
-        "/otherDeed/glitch/default/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "But this is my shop, I can't share it...",
-      "Por": "Mas esta é minha loja, não posso compartilhar ..."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/merchant.config": [
         "/tout/floran/default/0"
       ]
     },
@@ -141,18 +117,6 @@
     "Texts": {
       "Eng": "Can I show you to my shop? It's this way.",
       "Por": "Posso mostrar-lhe a minha loja? É por aqui."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/merchant.config": [
-        "/enclosedArea/glitch/default/2/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Can you fix my shop? Then my customers might come back.",
-      "Por": "Você pode consertar minha loja? Então, meus clientes podem voltar."
     }
   },
   {
@@ -207,18 +171,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/merchant.config": [
-        "/tout/glitch/default/3/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Come and buy from this merchant of great renown!",
-      "Por": "Venha comprar deste comerciante de grande renome!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/merchant.config": [
         "/tout/apex/default/0"
       ]
     },
@@ -237,18 +189,6 @@
     "Texts": {
       "Eng": "Come and trade!",
       "Por": "Venha e negocie!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/merchant.config": [
-        "/tout/glitch/default/2/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Come and view my wares!",
-      "Por": "Venha ver meus produtos!"
     }
   },
   {
@@ -351,12 +291,132 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/merchant.config": [
-        "/tout/glitch/default/0/glitchEmotedText"
+        "/enclosedArea/glitch/default/1"
       ]
     },
     "Texts": {
-      "Eng": "Come, buy!",
-      "Por": "Venha comprar!"
+      "Eng": "Concerned. These broken walls a putting off trade, I need them fixed.",
+      "Por": "Preocupado. Essas paredes quebradas estão fazendo as vendas cair, eu preciso delas consertadas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/otherDeed/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Confused. But this is my shop, I can't share it...",
+      "Por": "Confuso. Mas esta é minha loja, não posso compartilhar ela..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/tagCriteria/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Confused. My shop is different.",
+      "Por": "Confuso, a loja está diferente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/follow/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cordial. Please follow me to my shop.",
+      "Por": "Cordial. Por favor, siga-me ate a minha loja."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/enclosedArea/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Despondent. The walls are damaged and custom is down. Could you fix up the shop?",
+      "Por": "Desanimado. As paredes estão danificadas e a clientela está baixa. Você poderia consertar a loja?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/merchantEnd/glitch/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disappointed. You're not going to buy more?",
+      "Por": "Decepcionado. Você não vai comprar mais?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/tagCriteria/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Discontent. I dislike the changes you have made, restore my shop.",
+      "Por": "Descontente. Eu não gosto das mudanças que você fez, restaure minha loja."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/tout/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enticing. Come, buy!",
+      "Por": "Sedutor. Venha, compre!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/follow/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enticing. Please allow me to lead you to my shop.",
+      "Por": "Sedutor. Por favor, permita-me para levá-lo à minha loja."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/tout/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excited. Are you a customer?",
+      "Por": "Animado. Você é um cliente?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/welcome/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excited. Now we can do business.",
+      "Por": "Animado. Agora podemos fazer negócio."
     }
   },
   {
@@ -555,6 +615,42 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/merchant.config": [
+        "/rent/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Friendly. Take this, for your continued patronage.",
+      "Por": "Amigável. Pegue isso, pelo seu constante patrocínio."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/beacon/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Friendly. What can I do for you?",
+      "Por": "Amigável. O que eu posso fazer por você?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/merchantStart/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Genial. You know you want to buy everything!",
+      "Por": "Amigavel. Você sabe que você quer comprar tudo!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
         "/tout/default/default/0"
       ]
     },
@@ -573,6 +669,18 @@
     "Texts": {
       "Eng": "Goods for sale, come and see!",
       "Por": "Mercadorias para venda, venha e veja!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/rent/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Grateful. Please take this gift as a thank you for helping with my shop.",
+      "Por": "Grato. Por favor receba este presente como um agradecimento por me ajudar com minha loja."
     }
   },
   {
@@ -609,18 +717,6 @@
     "Texts": {
       "Eng": "Hello again! What can I help you with?",
       "Por": "Olá de novo! como eu posso ajudá-lo?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/merchant.config": [
-        "/beacon/glitch/default/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Here I am! Are you buying or selling?",
-      "Por": "Aqui estou! Você está comprando ou vendendo?"
     }
   },
   {
@@ -711,6 +807,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/merchant.config": [
+        "/enclosedArea/glitch/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hopeful. Can you fix my shop? Then my customers might come back.",
+      "Por": "Esperançoso. você pode consertar minha loja? então meus clientes poderão retornar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
         "/merchantStart/novakid/default/0"
       ]
     },
@@ -753,30 +861,6 @@
     "Texts": {
       "Eng": "I can't put up with this much longer - look at the state of my shop.",
       "Por": "Eu não posso continuar com isso por muito mais tempo - olhe o estado da minha loja."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/merchant.config": [
-        "/final/glitch/default/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I deserve a better shop to do business in!",
-      "Por": "Eu mereço uma loja melhor para fazer negócios!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/merchant.config": [
-        "/tagCriteria/glitch/default/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I dislike the changes you have made, restore my shop.",
-      "Por": "Não gosto das mudanças que você fez, restaure minha loja."
     }
   },
   {
@@ -951,18 +1035,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/merchant.config": [
-        "/tagCriteria/glitch/default/2/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I wish my shop was how it used to be.",
-      "Por": "Eu queria que minha loja fosse como costumava ser."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/merchant.config": [
         "/tout/hylotl/default/1"
       ]
     },
@@ -1017,6 +1089,30 @@
     "Texts": {
       "Eng": "If you need to buy anything, I have a great selection.",
       "Por": "Se você precisa comprar alguma coisa, eu tenho uma grande variedade."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/merchantStart/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ingratiating. Welcome to my store.",
+      "Por": "Simpatico. Bem vindo a minha loja."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/merchantEnd/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Insistent. Return soon!",
+      "Por": "Insistente. Retorne em breve!"
     }
   },
   {
@@ -1107,6 +1203,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/merchant.config": [
+        "/beacon/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Jovial. Here I am! Are you buying or selling?",
+      "Por": "Jovial. Aqui estou eu! Você vai comprar ou vender?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
         "/severe/apex/default/0"
       ]
     },
@@ -1143,24 +1251,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/merchant.config": [
-        "/rent/apex/default/2"
+        "/merchantEnd/glitch/default/3"
       ]
     },
     "Texts": {
-      "Eng": "My business is flourishing! Please take this gift, with my thanks.",
-      "Por": "Meu negócio esta brilhando! Por favor, aceite este presente, como agradecimento."
+      "Eng": "Melancholy. Until next time, customer.",
+      "Por": "Melancolico. Até a próxima, cliente."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "dialog/merchant.config": [
-        "/tagCriteria/glitch/default/0/glitchEmotedText"
+        "/rent/apex/default/2"
       ]
     },
     "Texts": {
-      "Eng": "My shop is different.",
-      "Por": "Minha loja esta diferente."
+      "Eng": "My business is flourishing! Please take this gift, with my thanks.",
+      "Por": "Meu negócio esta brilhando! Por favor, aceite este presente, como agradecimento."
     }
   },
   {
@@ -1239,30 +1347,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/merchant.config": [
-        "/welcome/glitch/default/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Now we can do business.",
-      "Por": "Agora podemos fazer negócios."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/merchant.config": [
-        "/welcome/glitch/default/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Now we can trade to our hearts' content.",
-      "Por": "Agora podemos fazer negócios."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/merchant.config": [
         "/welcome/novakid/default/1"
       ]
     },
@@ -1311,6 +1395,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/merchant.config": [
+        "/final/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Outraged. I deserve a better shop to do business in!",
+      "Por": "Ofendido. eu mereço uma loja melhor pra fazer negócios!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
         "/otherDeed/hylotl/default/1"
       ]
     },
@@ -1329,18 +1425,6 @@
     "Texts": {
       "Eng": "Perhaps you might find some of my stock enriching.",
       "Por": "Talvez você possa encontrar algo em meu estoque enriquecedor."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/merchant.config": [
-        "/follow/glitch/default/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Please allow me to lead you to my shop.",
-      "Por": "Permita-me levá-lo a minha loja."
     }
   },
   {
@@ -1407,36 +1491,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/merchant.config": [
-        "/follow/glitch/default/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Please follow me to my shop.",
-      "Por": "Por favor, siga-me até minha loja."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/merchant.config": [
         "/tagCriteria/apex/default/0"
       ]
     },
     "Texts": {
       "Eng": "Please put my things back.",
       "Por": "Por favor, coloque minhas coisas de volta."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/merchant.config": [
-        "/rent/glitch/default/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Please take this gift as a thank you for helping with my shop.",
-      "Por": "Por favor pegue este presente como um agradecimento por ajudar com a minha loja."
     }
   },
   {
@@ -1455,24 +1515,72 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/merchant.config": [
-        "/tagCriteria/floran/default/1"
+        "/merchantStart/glitch/default/2"
       ]
     },
     "Texts": {
-      "Eng": "Put my shop back how it wasss.",
-      "Por": "Deixe minha loja como era antesss."
+      "Eng": "Pleased. A customer!.",
+      "Por": "Satisfeito. Um cliente!."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "dialog/merchant.config": [
-        "/merchantEnd/glitch/default/0/glitchEmotedText"
+        "/welcome/glitch/default/1"
       ]
     },
     "Texts": {
-      "Eng": "Return soon!",
-      "Por": "Volte logo!"
+      "Eng": "Pleased. Now we can trade to our hearts' content.",
+      "Por": "Satisfeito. Agora podemos negociar o conteúdo do nosso coração."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/merchantEnd/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased. Thank you for your patronage.",
+      "Por": "Satisfeito. Obrigado pelo seu apoio."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/beacon/glitch/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Polite. What did you need to purchase?",
+      "Por": "Educado. O que você precisa comprar?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/tout/glitch/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Proud. Come and buy from this merchant of great renown!",
+      "Por": "Orgulhoso. Venha e compre coisas deste comerciante de grande renome!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/tagCriteria/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Put my shop back how it wasss.",
+      "Por": "Deixe minha loja como era antesss."
     }
   },
   {
@@ -1527,18 +1635,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/merchant.config": [
-        "/rent/glitch/default/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Take this, for your continued patronage.",
-      "Por": "Pegue isto, por seu patrocínio continuo."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/merchant.config": [
         "/merchantEnd/hylotl/default/1"
       ]
     },
@@ -1557,18 +1653,6 @@
     "Texts": {
       "Eng": "Thank you for your custom. Come again soon.",
       "Por": "Obrigado pela confiança. Vá novamente em breve."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/merchant.config": [
-        "/merchantEnd/glitch/default/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Thank you for your patronage.",
-      "Por": "Obrigado pelo seu patrocínio."
     }
   },
   {
@@ -1636,30 +1720,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/merchant.config": [
-        "/severe/glitch/default/2/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The fixes to my store haven't been made.",
-      "Por": "Os concertos para minha loja não foram feitos."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/merchant.config": [
-        "/enclosedArea/glitch/default/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The walls are damaged and custom is down. Could you fix up the shop?",
-      "Por": "As paredes estão danificadas e a clientela está baixa. Você poderia consertar a loja?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/merchant.config": [
         "/enclosedArea/apex/default/0"
       ]
     },
@@ -1678,18 +1738,6 @@
     "Texts": {
       "Eng": "These are unacceptable working conditions...",
       "Por": "Essas são condições de trabalho inaceitáveis..."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/merchant.config": [
-        "/enclosedArea/glitch/default/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "These broken walls a putting off trade, I need them fixed.",
-      "Por": "Essas paredes quebradas acabaram com o comércio, eu preciso delas consertadas."
     }
   },
   {
@@ -1816,12 +1864,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/merchant.config": [
-        "/merchantEnd/glitch/default/3/glitchEmotedText"
+        "/severe/glitch/default/2"
       ]
     },
     "Texts": {
-      "Eng": "Until next time, customer.",
-      "Por": "Até a próxima, cliente."
+      "Eng": "Unhappy. The fixes to my store haven't been made.",
+      "Por": "Infeliz. os reparos à minha loja ainda não foram feitos."
     }
   },
   {
@@ -1889,18 +1937,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/merchant.config": [
-        "/merchantStart/glitch/default/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Welcome to my store.",
-      "Por": "Bem-vindo à minha loja."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/merchant.config": [
         "/welcome/hylotl/default/1"
       ]
     },
@@ -1919,6 +1955,18 @@
     "Texts": {
       "Eng": "Welcome, What can I sell you?",
       "Por": "Bem-vindo, o que eu posso vender para você?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/tout/glitch/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welcoming. Come and view my wares!",
+      "Por": "Acolhedor. Venha ver minha mercadoria!"
     }
   },
   {
@@ -1997,18 +2045,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/merchant.config": [
-        "/beacon/glitch/default/2/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "What did you need to purchase?",
-      "Por": "O que você precisa comprar?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/merchant.config": [
         "/merchantStart/apex/default/1"
       ]
     },
@@ -2051,6 +2087,18 @@
     "Texts": {
       "Eng": "Why have you disrupted my shop? Please fix what you have broken.",
       "Por": "Por que você esta perturbando minha loja? Por favor, conserte o que você quebrou."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/merchant.config": [
+        "/tagCriteria/glitch/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wistful. I wish my shop was how it used to be.",
+      "Por": "Saudoso. Eu gostaria que minha loja voltasse a ser como era antes."
     }
   },
   {
@@ -2117,36 +2165,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/merchant.config": [
-        "/merchantStart/glitch/default/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "You know you want to buy everything!",
-      "Por": "Você sabe que quer comprar tudo!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/merchant.config": [
         "/beacon/floran/default/0"
       ]
     },
     "Texts": {
       "Eng": "You need Floran to sell you sssomething?",
       "Por": "Você precissa que Floran te venda algo?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/merchant.config": [
-        "/severe/glitch/default/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "You need to improve these conditions, it is impossible to work here.",
-      "Por": "Você precisa melhorar essas condições, é impossível trabalhar aqui."
     }
   },
   {
@@ -2183,18 +2207,6 @@
     "Texts": {
       "Eng": "You take care of yourself out there!",
       "Por": "Se cuide por aí!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/merchant.config": [
-        "/merchantEnd/glitch/default/2/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "You're not going to buy more?",
-      "Por": "Você não vai comprar mais?"
     }
   }
 ]

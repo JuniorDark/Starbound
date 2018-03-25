@@ -3,6 +3,30 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/plantvolcano1/plantvolcano1.object": [
+        "/glitchDescription"
+      ],
+      "objects/floran/plantvolcano2/plantvolcano2.object": [
+        "/glitchDescription"
+      ],
+      "objects/floran/plantvolcano3/plantvolcano3.object": [
+        "/glitchDescription"
+      ],
+      "objects/floran/plantvolcano4/plantvolcano4.object": [
+        "/glitchDescription"
+      ],
+      "objects/floran/plantvolcano5/plantvolcano5.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Confident. This volcanic fissure poses no threat.",
+      "Por": "Confiante. Esta fissura vulcânica não representa nenhuma ameaça."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/plantvolcano1/plantvolcano1.object": [
         "/floranDescription"
       ],
       "objects/floran/plantvolcano2/plantvolcano2.object": [
@@ -117,29 +141,6 @@
     "Texts": {
       "Eng": "This geyser looks contained, there's nothing to fear.",
       "Por": "Este gêiser parece contido, não há nada a temer."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/floran/plantvolcano1/plantvolcano1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/floran/plantvolcano2/plantvolcano2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/floran/plantvolcano3/plantvolcano3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/floran/plantvolcano4/plantvolcano4.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/floran/plantvolcano5/plantvolcano5.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This volcanic fissure poses no threat."
     }
   },
   {

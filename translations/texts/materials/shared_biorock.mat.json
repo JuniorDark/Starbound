@@ -30,7 +30,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Esta rocha está brilhando com bioluminescência."
+    ],
     "Files": {
       "items/materials/biorock.matitem": [
         "/description"

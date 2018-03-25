@@ -3,6 +3,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/apexpod2/apexpod2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Attentive. Machine appears to attempt to alter Apex DNA.",
+      "Por": "Atento. Essa máquina parece tentar alterar o DNA dos Apex."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/apexpod2/apexpod2.object": [
         "/shortdescription"
       ]
     },
@@ -21,17 +33,6 @@
     "Texts": {
       "Eng": "I ain't going near that.",
       "Por": "Eu não vou chegar perto isso."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/apex/apexpod2/apexpod2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Machine appears to attempt to alter Apex DNA."
     }
   },
   {

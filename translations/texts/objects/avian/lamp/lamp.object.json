@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/lamp/lamp.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disgusted. The stench of old rotten fruit within is still quite apparent.",
+      "Por": "Com Nojo. O fedor de fruta podre já é bastante evidente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/lamp/lamp.object": [
         "/shortdescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "The smell of this lamp offends all of my senses.",
       "Por": "O cheiro desta lâmpada ofende todos os meus sentidos."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avian/lamp/lamp.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The stench of old rotten fruit within is still quite apparent."
     }
   }
 ]

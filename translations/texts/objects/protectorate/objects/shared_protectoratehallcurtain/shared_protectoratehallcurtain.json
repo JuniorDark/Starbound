@@ -48,6 +48,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/protectorate/objects/protectoratehallcurtain/protectoratehallcurtain.object": [
+        "/glitchDescription"
+      ],
+      "objects/protectorate/objects/protectoratehallcurtain2/protectoratehallcurtain2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. This material is exclusive to say the least.",
+      "Por": "Impressionado. Este material é exclusivo para dizer o mínimo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/protectorate/objects/protectoratehallcurtain/protectoratehallcurtain.object": [
         "/avianDescription"
       ],
       "objects/protectorate/objects/protectoratehallcurtain2/protectoratehallcurtain2.object": [
@@ -117,20 +132,6 @@
     "Texts": {
       "Eng": "These curtains are so soft! I could sleep right here, leaning up against them.",
       "Por": "Estas cortinas são tão macias! Eu poderia dormir bem aqui, encostado nelas."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/protectorate/objects/protectoratehallcurtain/protectoratehallcurtain.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/protectorate/objects/protectoratehallcurtain2/protectoratehallcurtain2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This material is exclusive to say the least."
     }
   }
 ]

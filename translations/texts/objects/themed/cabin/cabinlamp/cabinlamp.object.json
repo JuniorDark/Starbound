@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/themed/cabin/cabinlamp/cabinlamp.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Confused. If this is wood, how is it lighting up?",
+      "Por": "Confuso. Se isso é madeira, como que isso ilumina?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/cabin/cabinlamp/cabinlamp.object": [
         "/floranDescription"
       ]
     },
@@ -81,18 +93,6 @@
     "Texts": {
       "Eng": "I prefer gas lights, but this works too.",
       "Por": "Eu prefiro luzes de gás, mas isso também funciona."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/themed/cabin/cabinlamp/cabinlamp.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "If this is wood, how is it lighting up?",
-      "Por": "Se isso é madeira, como isso esta iluminando?"
     }
   },
   {

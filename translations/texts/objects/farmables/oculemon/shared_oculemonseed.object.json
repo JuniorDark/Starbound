@@ -18,14 +18,15 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/oculemon/oculemonseed.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/farmables/oculemon/wildoculemonseed.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Is this fruit perhaps a window into its own soul?"
+      "Eng": "Introspective. Is this fruit perhaps a window into its own soul?",
+      "Por": "Introspectivo. Essa fruta é talvez uma janela para sua própria alma?"
     }
   },
   {

@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/huntingplatformrocks/huntingplatformrocks.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. Why has an arrow has been carved into this rock?",
+      "Por": "Curioso. Por que uma flecha foi esculpida nesta pedra?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/huntingplatformrocks/huntingplatformrocks.object": [
         "/humanDescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "Very helpful rocks. Or could the arrow be a trick?",
       "Por": "Pedras muito úteis. Ou a flecha pode ser um truque?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/floran/huntingplatformrocks/huntingplatformrocks.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Why has an arrow has been carved into this rock?"
     }
   }
 ]

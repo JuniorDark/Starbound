@@ -18,6 +18,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/dermisblock.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/dermisblock.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. The thickness of this skin makes it incredibly strong.",
+      "Por": "Impressionado. A espessura desta pele torna isso incrivelmente forte."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/dermisblock.matitem": [
         "/shortdescription"
       ],
       "tiles/materials/dermisblock.material": [
@@ -57,21 +72,6 @@
     "Texts": {
       "Eng": "That skin looks tougher'n a leather boot.",
       "Por": "Essa pele parece mais dura que uma bota de couro."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/dermisblock.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/dermisblock.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The thickness of this skin makes it incredibly strong.",
-      "Por": "A espessura desta pele torna ela incrivelmente forte."
     }
   }
 ]

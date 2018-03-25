@@ -87,23 +87,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/crystalline/crystalbed/crystalbed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "These crystals are actually rather common, and worth very little."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/crystalline/crystalbed/crystalbed.object": [
         "/hylotlDescription"
       ]
     },
     "Texts": {
       "Eng": "This bed is reminiscent of natural coral formations underwater.",
       "Por": "Esta cama é uma reminiscência de formações de corais naturais debaixo d'água."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/crystalline/crystalbed/crystalbed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unimpressed. These crystals are actually rather common, and worth very little.",
+      "Por": "Não impressionado. Estes cristais são realmente bastante comuns, e valem muito pouco."
     }
   }
 ]

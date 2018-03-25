@@ -27,17 +27,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/wormstatue/wormstatue.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A statue of the lesser-spotted brain worm."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/wormstatue/wormstatue.object": [
         "/humanDescription"
       ]
     },
@@ -80,6 +69,18 @@
     "Texts": {
       "Eng": "Greetings, my stony worm friend.",
       "Por": "Saudações, meu amigo verme pedregoso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/wormstatue/wormstatue.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shocked. A statue of the lesser-spotted brain worm.",
+      "Por": "Neutro. Uma estatua de uma minhoca."
     }
   },
   {

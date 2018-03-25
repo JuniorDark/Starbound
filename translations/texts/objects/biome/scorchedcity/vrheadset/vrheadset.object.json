@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/scorchedcity/vrheadset/vrheadset.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. Wearing a virtual reality headset is like altering your programming without actually doing so.",
+      "Por": "Impressionado. Usar um headset de realidade virtual é como alterar sua programação sem realmente fazê-lo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/scorchedcity/vrheadset/vrheadset.object": [
         "/avianDescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "VR Headset",
       "Por": "VR Headset"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/scorchedcity/vrheadset/vrheadset.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Wearing a virtual reality headset is like altering your programming without actually doing so."
     }
   },
   {

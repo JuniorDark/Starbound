@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/geode/geodechair/geodechair.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Concerned. Sitting in this chair for long would be sure to to cause discomfort.",
+      "Por": "Preocupado. Sentar nesta cadeira por muito tempo seria certo para causar desconforto."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/geode/geodechair/geodechair.object": [
         "/shortdescription"
       ]
     },
@@ -45,17 +57,6 @@
     "Texts": {
       "Eng": "Just about the fanciest sittin' rock I've ever seen.",
       "Por": "Quase a rocha de sentar mais incrível que eu já vi."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/geode/geodechair/geodechair.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Sitting in this chair for long would be sure to to cause discomfort."
     }
   },
   {

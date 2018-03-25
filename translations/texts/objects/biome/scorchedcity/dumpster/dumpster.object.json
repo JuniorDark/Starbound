@@ -16,8 +16,7 @@
     "Files": {
       "objects/biome/scorchedcity/dumpster/dumpster.object": [
         "/avianDescription",
-        "/description",
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ]
     },
     "Texts": {
@@ -83,6 +82,18 @@
     "Texts": {
       "Eng": "Is dumpster diving still a thing?",
       "Por": "O dumpster diving é ainda uma coisa?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/scorchedcity/dumpster/dumpster.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Surprised. A dumpster.",
+      "Por": "Surpreso. Uma caçamba de lixo."
     }
   }
 ]

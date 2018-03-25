@@ -51,17 +51,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/medievaldresser/medievaldresser.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "An old dresser."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/glitch/medievaldresser/medievaldresser.object": [
         "/hylotlDescription"
       ]
     },
@@ -92,6 +81,18 @@
     "Texts": {
       "Eng": "Medieval Dresser",
       "Por": "Medieval Dresser"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/medievaldresser/medievaldresser.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Satisfied. An old dresser.",
+      "Por": "Satisfeito. Uma cômoda velha."
     }
   },
   {

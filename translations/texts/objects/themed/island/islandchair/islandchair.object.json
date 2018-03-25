@@ -63,6 +63,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/themed/island/islandchair/islandchair.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nervous. The chair smells nice, but doesn't look so comfy.",
+      "Por": "Nervoso. A cadeira cheira bem, mas não parece tão confortável."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/island/islandchair/islandchair.object": [
         "/humanDescription"
       ]
     },
@@ -93,18 +105,6 @@
     "Texts": {
       "Eng": "The chair makes me want to sit on a beach and watch the waves ebb and flow.",
       "Por": "Essa cadeira me faz querer sentar-se em uma praia e observar as ondas diminuir e fluir."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/themed/island/islandchair/islandchair.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The chair smells nice, but doesn't look so comfy.",
-      "Por": "A cadeira cheira bem, mas não parece tão confortável."
     }
   }
 ]

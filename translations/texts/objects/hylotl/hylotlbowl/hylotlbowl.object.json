@@ -15,17 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/hylotlbowl/hylotlbowl.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A bowl."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/hylotl/hylotlbowl/hylotlbowl.object": [
         "/hylotlDescription"
       ]
     },
@@ -92,6 +81,18 @@
     "Texts": {
       "Eng": "It's a bowl.",
       "Por": "É uma tigela."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/hylotlbowl/hylotlbowl.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neutral. A bowl.",
+      "Por": "Neutro. Uma tigela."
     }
   },
   {

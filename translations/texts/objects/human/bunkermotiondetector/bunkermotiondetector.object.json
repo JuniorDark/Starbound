@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/bunkermotiondetector/bunkermotiondetector.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A fairly rudimentary motion detector."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/human/bunkermotiondetector/bunkermotiondetector.object": [
         "/avianDescription"
       ]
     },
@@ -32,6 +21,18 @@
     "Texts": {
       "Eng": "A motion detector. Better watch out.",
       "Por": "Um detector de movimento. Melhor tomar cuidado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkermotiondetector/bunkermotiondetector.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis. A fairly rudimentary motion detector.",
+      "Por": "Análitico. Um detector de movimento bastante rudimentar."
     }
   },
   {

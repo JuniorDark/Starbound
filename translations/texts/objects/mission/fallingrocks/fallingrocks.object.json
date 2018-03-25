@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/fallingrocks/fallingrocks.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Confused. Perhaps this represents that the area is unsafe?",
+      "Por": "Confuso. Talvez isso represente que a área é insegura?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/fallingrocks/fallingrocks.object": [
         "/apexDescription"
       ]
     },

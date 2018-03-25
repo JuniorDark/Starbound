@@ -39,17 +39,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/hylotlswitch/hylotlswitch.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I'd like to see what happens if I pull this lever."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/hylotl/hylotlswitch/hylotlswitch.object": [
         "/avianDescription"
       ]
     },
@@ -92,6 +81,18 @@
     "Texts": {
       "Eng": "Standard Lever",
       "Por": "Standard Lever"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/hylotlswitch/hylotlswitch.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tempted. I'd like to see what happens if I pull this lever.",
+      "Por": "Tentado. Gostaria de ver o que acontece se eu puxar essa alavanca."
     }
   },
   {

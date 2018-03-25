@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/apexarmchair/apexarmchair.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Displeased. This chair offends my optics.",
+      "Por": "Descontente. Esta cadeira ofende a minha visão."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/apexarmchair/apexarmchair.object": [
         "/novakidDescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "Such a comfortable seat. Is this an Apex nest?",
       "Por": "Um assento confortável. Isso é um ninho de Apex?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/apex/apexarmchair/apexarmchair.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This chair offends my optics."
     }
   },
   {

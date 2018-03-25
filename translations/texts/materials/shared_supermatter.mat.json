@@ -15,7 +15,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Um cristal utilizado para alimentar a tecnologia FTL. Ainda não está totalmente compreendido."
+    ],
     "Files": {
       "items/materials/supermatter.matitem": [
         "/description"
@@ -48,15 +50,15 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/supermatter.matitem": [
-        "/glitchdescription/glitchEmotedText"
+        "/glitchdescription"
       ],
       "tiles/materials/supermatter.material": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Erchius crystals contain a mysterious power.",
-      "Por": "Os cristais de Erchius contêm um poder misterioso."
+      "Eng": "Intrigued. Erchius crystals contain a mysterious power.",
+      "Por": "Intrigado. Os cristais de Erchius contêm um poder misterioso."
     }
   },
   {

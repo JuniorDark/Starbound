@@ -29,7 +29,6 @@
       "objects/generic/shiplight/shiplight.object": [
         "/apexDescription",
         "/avianDescription",
-        "/glitchDescription/glitchEmotedText",
         "/humanDescription",
         "/hylotlDescription"
       ]
@@ -37,6 +36,18 @@
     "Texts": {
       "Eng": "Lights.",
       "Por": "Luzes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/shiplight/shiplight.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observative. Lights.",
+      "Por": "Observador. Luzes."
     }
   }
 ]

@@ -63,6 +63,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/hourglass/hourglass.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. This timer never runs out.",
+      "Por": "Observador. Esta ampulheta nunca se esgota."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/hourglass/hourglass.object": [
         "/hylotlDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "The sssand doesssn't fall through. Why is thiss?",
       "Por": "A areia não cai. Por que isso?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/glitch/hourglass/hourglass.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This timer never runs out."
     }
   },
   {

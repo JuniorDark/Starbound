@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/trophygold/trophygold.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Delighted. This trophy's size and finish are most impressive.",
+      "Por": "Satisfeito. O tamanho e o acabamento deste troféu são os mais impressionantes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/trophygold/trophygold.object": [
         "/description"
       ]
     },
@@ -45,17 +57,6 @@
     "Texts": {
       "Eng": "This sshiny trophy is made from gold.",
       "Por": "Este troféu brilhante é feito do ouro."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/trophygold/trophygold.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This trophy's size and finish are most impressive."
     }
   }
 ]

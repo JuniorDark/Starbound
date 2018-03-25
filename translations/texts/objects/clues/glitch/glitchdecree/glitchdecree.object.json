@@ -3,6 +3,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/clues/glitch/glitchdecree/glitchdecree.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. This old decree makes note of a treasure filled keep.",
+      "Por": "Curioso. Este velho decreto faz nota de um forte cheio de tesouro."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/clues/glitch/glitchdecree/glitchdecree.object": [
         "/floranDescription"
       ]
     },
@@ -33,17 +45,6 @@
     "Texts": {
       "Eng": "This decree makes mention of the location of a treasure filled keep.",
       "Por": "Este decreto faz menção à localização de um forte cheio de tesouro."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/clues/glitch/glitchdecree/glitchdecree.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This old decree makes note of a treasure filled keep."
     }
   },
   {

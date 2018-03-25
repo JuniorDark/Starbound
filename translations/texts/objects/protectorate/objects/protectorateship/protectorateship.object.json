@@ -27,17 +27,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/protectorate/objects/protectorateship/protectorateship.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I can use this space ship to escape to safety!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/protectorate/objects/protectorateship/protectorateship.object": [
         "/novakidDescription"
       ]
     },
@@ -68,6 +57,18 @@
     "Texts": {
       "Eng": "Protectorate Ship",
       "Por": "Protectorate Ship"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/protectorate/objects/protectorateship/protectorateship.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Relieved. I can use this space ship to escape to safety!",
+      "Por": "Aliviado. Eu posso usar esta nave espacial para fugir em segurança!"
     }
   },
   {

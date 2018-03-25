@@ -1,6 +1,9 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Comer aqui pareceria como um piquenique mágico.",
+      "Comer aqui seria como ter um piquenique mágico."
+    ],
     "Files": {
       "objects/biome/bioluminescentcave/bioshroomtable/bioshroomtable.object": [
         "/humanDescription"
@@ -18,7 +21,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Se você tem muita fome, você poderia comer a mesa em si.",
+      "Se você tiver muita fome, você pode comer a mesa em si."
+    ],
     "Files": {
       "objects/biome/bioluminescentcave/bioshroomtable/bioshroomtable.object": [
         "/apexDescription"
@@ -36,7 +42,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "A natureza fornece tanto quanto eladestrói."
+    ],
     "Files": {
       "objects/biome/giantflower/giantflowertable/giantflowertable.object": [
         "/hylotlDescription"

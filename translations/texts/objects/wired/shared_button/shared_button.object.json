@@ -18,7 +18,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Botões são irritantes. Ainda assim, devo aperta-lo."
+    ],
     "Files": {
       "objects/wired/smallfloorbutton/smallfloorbutton.object": [
         "/hylotlDescription"
@@ -36,7 +38,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Floran aperta botõesss"
+    ],
     "Files": {
       "objects/wired/smallfloorbutton/smallfloorbutton.object": [
         "/floranDescription"
@@ -54,7 +58,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Há um botão! Não posso pressioná-lo!"
+    ],
     "Files": {
       "objects/wired/smallfloorbutton/smallfloorbutton.object": [
         "/humanDescription"
@@ -72,7 +78,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Por que sou sempre forçado a apertar botões?"
+    ],
     "Files": {
       "objects/wired/smallfloorbutton/smallfloorbutton.object": [
         "/avianDescription"

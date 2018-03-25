@@ -63,17 +63,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/volcanic/volcanicchest/volcanicchest.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This chest is sturdy but may be hot."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/volcanic/volcanicchest/volcanicchest.object": [
         "/description"
       ]
     },
@@ -92,6 +81,18 @@
     "Texts": {
       "Eng": "Volcanic Chest",
       "Por": "Volcanic Chest"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/volcanic/volcanicchest/volcanicchest.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wary. This chest is sturdy but may be hot.",
+      "Por": "Cauteloso. Este baú é robusto, mas pode estar quente."
     }
   },
   {

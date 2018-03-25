@@ -27,17 +27,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/protectorate/objects/protectoratebrokenportrait3/protectoratebrokenportrait3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A torn portrait of a past Grand Protector."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/protectorate/objects/protectoratebrokenportrait3/protectoratebrokenportrait3.object": [
         "/hylotlDescription"
       ]
     },
@@ -104,6 +93,18 @@
     "Texts": {
       "Eng": "Torn Protectorate Picture Frame",
       "Por": "Torn Protectorate Picture Frame"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/protectorate/objects/protectoratebrokenportrait3/protectoratebrokenportrait3.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Upset. A torn portrait of a past Grand Protector.",
+      "Por": "Chateado. Um retrato rasgado de um Grande Protetor passado."
     }
   }
 ]

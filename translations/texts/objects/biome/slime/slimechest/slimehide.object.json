@@ -39,17 +39,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/slime/slimechest/slimehide.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I can see this chest's contents through the slime casing."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/slime/slimechest/slimehide.object": [
         "/apexDescription"
       ]
     },
@@ -80,6 +69,18 @@
     "Texts": {
       "Eng": "Slime Chest",
       "Por": "Slime Chest"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/slime/slimechest/slimehide.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Surprised. I can see this chest's contents through the slime casing.",
+      "Por": "Surpreso. Consigo ver o conteúdo deste baú através da cobertura de slime."
     }
   },
   {

@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/eggs/mooshiegg/mooshiegg.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A Mooshi egg! Mooshi milk is very nutritious."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/farmables/eggs/mooshiegg/mooshiegg.object": [
         "/floranDescription"
       ]
     },
@@ -56,6 +45,18 @@
     "Texts": {
       "Eng": "Mooshi egg! Please hatch little egg.",
       "Por": "Ovo de Mooshi! Por favor, choque pequeno ovo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/eggs/mooshiegg/mooshiegg.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased. A Mooshi egg! Mooshi milk is very nutritious.",
+      "Por": "Satisfeito. Um ovo de Mooshi! Leite de mooshi é muito nutritivo."
     }
   },
   {

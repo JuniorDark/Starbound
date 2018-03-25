@@ -48,6 +48,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/prisontorturebed1/prisontorturebed1.object": [
+        "/glitchDescription"
+      ],
+      "objects/human/prisontorturebed2/prisontorturebed2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. I wonder which methods of torture humans currently employ.",
+      "Por": "Curioso. Eu me pergunto quais os métodos de tortura que os humanos atualmente empregam."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisontorturebed1/prisontorturebed1.object": [
         "/floranDescription"
       ],
       "objects/human/prisontorturebed2/prisontorturebed2.object": [
@@ -72,20 +87,6 @@
     "Texts": {
       "Eng": "Hey, a fairground ride! What's it doing in a prison though? Uh, right, it's a torture bed.",
       "Por": "Ei, uma atração de feira! O que está fazendo numa prisão? Uh, certo, é uma cama de tortura."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/human/prisontorturebed1/prisontorturebed1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/human/prisontorturebed2/prisontorturebed2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I wonder which methods of torture humans currently employ."
     }
   },
   {

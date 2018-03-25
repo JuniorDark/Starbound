@@ -27,23 +27,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/woodtable/woodtable.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A very simple table."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/woodtable/woodtable.object": [
         "/apexDescription"
       ]
     },
     "Texts": {
       "Eng": "A very simple wooden table.",
       "Por": "Uma mesa de madeira muito simples."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodtable/woodtable.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bored. A very simple table.",
+      "Por": "Entediado. Uma mesa muito simples."
     }
   },
   {

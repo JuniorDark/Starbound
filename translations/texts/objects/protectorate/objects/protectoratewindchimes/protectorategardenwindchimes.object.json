@@ -3,6 +3,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/protectorate/objects/protectoratewindchimes/protectorategardenwindchimes.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Appreciative. These chimes are very calming. I could listen to them forever.",
+      "Por": "Apreciativo. Esses sinos de vento são muito calmantes. Eu poderia ouvi-los para sempre."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/protectorate/objects/protectoratewindchimes/protectorategardenwindchimes.object": [
         "/avianDescription"
       ]
     },
@@ -57,17 +69,6 @@
     "Texts": {
       "Eng": "The wind is playing with the wind chimes. Lovely.",
       "Por": "O vento está brincando com os sinos de vento. Adorável."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/protectorate/objects/protectoratewindchimes/protectorategardenwindchimes.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "These chimes are very calming. I could listen to them forever."
     }
   },
   {

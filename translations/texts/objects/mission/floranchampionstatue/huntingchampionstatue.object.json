@@ -51,23 +51,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/floranchampionstatue/huntingchampionstatue.object": [
-        "/floranDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Sssuccessful Floran hunters get big statuesss.",
-      "Por": "Caçadores Floran de sssucesso obtem grandes estátuasss."
+      "Eng": "Impressed. The Floran depicted here was a successful hunter.",
+      "Por": "Impressionado. O Floran retratado aqui foi um caçador de sucesso."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/floranchampionstatue/huntingchampionstatue.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/floranDescription"
       ]
     },
     "Texts": {
-      "Eng": "The Floran depicted here was a successful hunter."
+      "Eng": "Sssuccessful Floran hunters get big statuesss.",
+      "Por": "Caçadores Floran de sssucesso obtem grandes estátuasss."
     }
   },
   {

@@ -15,23 +15,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/avianpressureplate/avianpressureplate.object": [
-        "/shortdescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Crystal Pressure Plate",
-      "Por": "Crystal Pressure Plate"
+      "Eng": "Confused. I don't think this was built by the Glitch.",
+      "Por": "Confuso. Eu não acho que isso foi construído por Glitchs."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/avianpressureplate/avianpressureplate.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "I don't think this was built by the Glitch."
+      "Eng": "Crystal Pressure Plate",
+      "Por": "Crystal Pressure Plate"
     }
   },
   {

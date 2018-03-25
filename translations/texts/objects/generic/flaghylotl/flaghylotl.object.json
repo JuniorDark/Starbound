@@ -15,17 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/flaghylotl/flaghylotl.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A small locator module attached to this Hylotl flag allows it to be bookmarked for teleportation."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/flaghylotl/flaghylotl.object": [
         "/shortdescription"
       ]
     },
@@ -56,6 +45,18 @@
     "Texts": {
       "Eng": "I can bookmark this Hylotl flag for quick teleportin'.",
       "Por": "Eu posso favoritar esta bandeira Hylotl para teleporte rápido."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/flaghylotl/flaghylotl.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. A small locator module attached to this Hylotl flag allows it to be bookmarked for teleportation.",
+      "Por": "Atento. Um pequeno módulo localizador anexado a esta bandeira Hylotl permite que ela seja marcada para teletransporte."
     }
   },
   {

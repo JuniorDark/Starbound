@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Um painel de durasteel, especialmente feito para conter ambientes pressurizados."
+    ],
     "Files": {
       "items/materials/pressuriseddurasteel.matitem": [
         "/description"
@@ -33,6 +35,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/pressuriseddurasteel.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/pressuriseddurasteel.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Interested. This durasteel panel is designed to accommodate changes in pressurisation.",
+      "Por": "Interessado. Este painel de durasteel é projetado para acomodar mudanças na pressurização."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/pressuriseddurasteel.matitem": [
         "/shortdescription"
       ],
       "tiles/materials/pressuriseddurasteel.material": [
@@ -57,21 +74,6 @@
     "Texts": {
       "Eng": "Ssstrong durassteel panelling.",
       "Por": "Revesstimento de durassteel forte."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/pressuriseddurasteel.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/pressuriseddurasteel.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This durasteel panel is designed to accommodate changes in pressurisation.",
-      "Por": "Este painel de durasteel é projetado para acomodar mudanças na pressurização."
     }
   }
 ]

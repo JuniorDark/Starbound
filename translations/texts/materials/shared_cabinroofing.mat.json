@@ -48,6 +48,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/cabinroofing.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/cabinroofing.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased. This cabin roof has rustic charm.",
+      "Por": "Satisfeito. Este telhado de cabana tem um charme rústico."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/cabinroofing.matitem": [
         "/description"
       ],
       "tiles/materials/cabinroofing.material": [
@@ -57,21 +72,6 @@
     "Texts": {
       "Eng": "Simple roofing for a cabin.",
       "Por": "Telhado simples para uma cabana."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/cabinroofing.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/cabinroofing.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This cabin roof has rustic charm.",
-      "Por": "Este telhado de cabana tem um charme rústico."
     }
   }
 ]

@@ -16,7 +16,6 @@
     "Files": {
       "objects/outpost/bench/bench.object": [
         "/avianDescription",
-        "/glitchDescription/glitchEmotedText",
         "/humanDescription"
       ]
     },
@@ -71,6 +70,18 @@
     "Texts": {
       "Eng": "Bench",
       "Por": "Bench"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/bench/bench.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neutral. A bench.",
+      "Por": "Neutro. Um banco."
     }
   },
   {

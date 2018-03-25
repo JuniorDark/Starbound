@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/tar/tarpitchest/tarpitchest.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cautious. Whatever treasure is inside a tar chest is likely to also be sticky.",
+      "Por": "Cauteloso. Qualquer que seja o tesouro que esteja dentro de um baú de piche é provável de também ser pegajoso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/tar/tarpitchest/tarpitchest.object": [
         "/floranDescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "Whatever is inside had better be worth the price of touching this chest.",
       "Por": "O que quer que esteja dentro deveria valer o preço de tocar nesse baú."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/tar/tarpitchest/tarpitchest.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Whatever treasure is inside a tar chest is likely to also be sticky."
     }
   }
 ]

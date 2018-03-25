@@ -27,12 +27,60 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/clues.config": [
-        "/glitch/default/default/0/glitchEmotedText"
+        "/glitch/default/default/5"
       ]
     },
     "Texts": {
-      "Eng": "A lot of old Glitch adventurers hoard the treasure they've found over the years.",
-      "Por": "Muitos dos velhos aventureiros Glitch acumulam os tesouros que encontraram ao longo dos anos."
+      "Eng": "Bitter. Have you heard of the Baron? He took all my money in a game of cards! As if he needs it, with all those treasures.",
+      "Por": "Ressentido. Já ouviu falar do Barão? Ele levou todo o meu dinheiro em um jogo de cartas! Como se ele precisasse, com todos aqueles tesouros."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/clues.config": [
+        "/glitch/default/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Contemplative. Some Glitch keeps and castles hold ancient valuables within their walls.",
+      "Por": "Pensativo. Alguns fortes e castelos Glitch guardam objetos antigos de valor dentro de suas paredes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/clues.config": [
+        "/glitch/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dreamy. I wonder what treasures I could amass if I travelled the universe. You hear such stories...",
+      "Por": "Sonhador. Eu me pergunto que tesouros eu poderia acumular se eu viajasse pelo universo. Você ouve essas histórias..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/clues.config": [
+        "/glitch/default/default/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "Envious. I've heard stories of a Glitch who calls himself the Baron. Apparently he owns mounds of treasure!",
+      "Por": "Invejoso. Eu ouvi histórias de um Glitch que se chama Barão. Aparentemente ele possui montes de tesouro!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/clues.config": [
+        "/glitch/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fanciful. I once heard of a keep owned by an oddball and filled with wonders.",
+      "Por": "Imaginativo. Certa vez ouvi falar de um forte propriedade de um excêntrico e cheio de maravilhas."
     }
   },
   {
@@ -123,30 +171,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/clues.config": [
-        "/glitch/default/default/5/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Have you heard of the Baron? He took all my money in a game of cards! As if he needs it, with all those treasures.",
-      "Por": "Você já ouviu falar sobre o Barão? Ele tirou todo meu dinheiro em um jogo de cartas! Como se ele precisasse, com todos aqueles tesouros."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/clues.config": [
-        "/glitch/default/default/8/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Have you heard of the Occasus? Apparently they're strange angry people who have been attacking a Glitch keep!",
-      "Por": "Você já ouviu falar da Occasus? Aparentemente, são pessoas estranhas e irritadas que estão atacando um forte Glitch."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/clues.config": [
         "/hylotl/default/default/2"
       ]
     },
@@ -165,18 +189,6 @@
     "Texts": {
       "Eng": "I grew up hearing stories of items of immense power, bestowed by Kluex himself.",
       "Por": "Eu cresci ouvindo histórias de itens de imenso poder, concedidos pelo próprio Kluex."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/clues.config": [
-        "/glitch/default/default/4/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I have heard that purple robed cultist have been attacking a Glitch keep.",
-      "Por": "Ouvi dizer que um cultista vestido de roxo vem atacando um forte Glitch."
     }
   },
   {
@@ -219,72 +231,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/clues.config": [
-        "/glitch/default/default/3/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I once heard of a keep owned by an oddball and filled with wonders.",
-      "Por": "Uma vez ouvi falar de um forte propriedade de um excêntrico cheio de maravilhas."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/clues.config": [
-        "/glitch/default/default/7/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I wish I had wondrous treasures... Some Glitch have some troves of riches!",
-      "Por": "Gostaria de ter tesouros maravilhosos... Alguns Glitch têm algumas coleções de riquezas!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/clues.config": [
-        "/glitch/default/default/2/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I wonder what treasures I could amass if I travelled the universe. You hear such stories...",
-      "Por": "Eu me pergunto quais tesouros eu poderia acumular se eu viajasse pelo universo. Você ouve cada história..."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/clues.config": [
         "/hylotl/default/default/5"
       ]
     },
     "Texts": {
       "Eng": "I'd like to become a librarian, but it's a lot of responsibility.",
       "Por": "Eu gostaria de me tornar um bibliotecário, mas é muita responsabilidade."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/clues.config": [
-        "/glitch/default/default/9/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I've heard stories of a Glitch who calls himself the Baron. Apparently he owns mounds of treasure!",
-      "Por": "Ouvi histórias de um Glitch que se intitula Barão. Aparentemente ele possui montes de tesouros!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/clues.config": [
-        "/glitch/default/default/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Important Glitch relics tend to get handed from Glitch to Glitch, but I've never had one.",
-      "Por": "Reliquias Glitch importantes tendem a ser entregues de Glitch a Glitch, mas nunca tive uma."
     }
   },
   {
@@ -309,6 +261,18 @@
     "Texts": {
       "Eng": "It is said the Hylotl of the past kept vast repositories of books.",
       "Por": "Diz-se que os Hylotl do passado mantiam vastos repositórios de livros."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/clues.config": [
+        "/glitch/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Jealous. A lot of old Glitch adventurers hoard the treasure they've found over the years.",
+      "Por": "Ciumento. Um monte de velhos aventureiros Glitch acumulam o tesouro que encontraram ao longo dos anos."
     }
   },
   {
@@ -399,12 +363,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/clues.config": [
-        "/glitch/default/default/6/glitchEmotedText"
+        "/glitch/default/default/4"
       ]
     },
     "Texts": {
-      "Eng": "Some Glitch keeps and castles hold ancient valuables within their walls.",
-      "Por": "Alguns fortes e castelos Glitch guradam objetos de valor antigos dentro de suas paredes."
+      "Eng": "Scared. I have heard that purple robed cultist have been attacking a Glitch keep.",
+      "Por": "Assustado. Ouvi dizer que cultistas vestidos de roxo tem atacado um forte Glitch."
     }
   },
   {
@@ -429,6 +393,18 @@
     "Texts": {
       "Eng": "Some temples of Kluex have ancient guardians. But what are they guarding?",
       "Por": "Alguns templos de Kluex têm antigos guardiões. Mas o que eles estão guardando?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/clues.config": [
+        "/glitch/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sulky. Important Glitch relics tend to get handed from Glitch to Glitch, but I've never had one.",
+      "Por": "Aborrecido. Relíquias Glitch importantes tendem a ser entregues de Glitch para Glitch, mas eu nunca tive uma."
     }
   },
   {
@@ -573,6 +549,30 @@
     "Texts": {
       "Eng": "We lost a lot to the Floran hoards, but some things survived.",
       "Por": "Perdemos muito para as hordas Floran, mas algumas coisas sobreviveram."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/clues.config": [
+        "/glitch/default/default/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wistful. I wish I had wondrous treasures... Some Glitch have some troves of riches!",
+      "Por": "Desejoso. Eu queria ter tesouros maravilhosos... Alguns Glith têm coleções de riquezas!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/clues.config": [
+        "/glitch/default/default/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Worried. Have you heard of the Occasus? Apparently they're strange angry people who have been attacking a Glitch keep!",
+      "Por": "Preocupado. Você já ouviu falar da Occasus? Aparentemente eles são pessoas estranhas e irritadas que têm atacado um forte Glitch!"
     }
   },
   {

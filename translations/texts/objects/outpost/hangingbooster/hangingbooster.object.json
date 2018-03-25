@@ -62,23 +62,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/hangingbooster/hangingbooster.object": [
-        "/floranDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Mech rocket hanging on chainsss.",
-      "Por": "Propulsor de mecha pendurado em correntesss."
+      "Eng": "Interested. Suspended like this gives easy access to the internal mechanics of this mech booster.",
+      "Por": "Interessado. Suspenso assim dá fácil acesso à mecânica interna deste propulsor de mecha."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/hangingbooster/hangingbooster.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/floranDescription"
       ]
     },
     "Texts": {
-      "Eng": "Suspended like this gives easy access to the internal mechanics of this mech booster."
+      "Eng": "Mech rocket hanging on chainsss.",
+      "Por": "Propulsor de mecha pendurado em correntesss."
     }
   },
   {

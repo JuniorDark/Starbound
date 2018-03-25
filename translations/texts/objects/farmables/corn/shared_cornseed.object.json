@@ -93,20 +93,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/corn/cornseed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/farmables/corn/wildcornseed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "It is claimed that if the Glitch eat corn, it will pop inside us."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/farmables/corn/cornseed.object": [
         "/avianDescription"
       ],
       "objects/farmables/corn/wildcornseed.object": [
@@ -116,6 +102,21 @@
     "Texts": {
       "Eng": "Pecking at a cob of corn makes for a great snack.",
       "Por": "Bicar uma espiga de milho faz um grande lanche."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/corn/cornseed.object": [
+        "/glitchDescription"
+      ],
+      "objects/farmables/corn/wildcornseed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sceptical. It is claimed that if the Glitch eat corn, it will pop inside us.",
+      "Por": "Cético. Alega-se que se os Glitch comerem milho, ele vai estourar dentro de nós."
     }
   },
   {

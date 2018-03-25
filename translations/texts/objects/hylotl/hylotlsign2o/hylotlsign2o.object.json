@@ -15,23 +15,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/hylotlsign2o/hylotlsign2o.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A sign that simply says 'croak'. How useful."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/hylotl/hylotlsign2o/hylotlsign2o.object": [
         "/hylotlDescription"
       ]
     },
     "Texts": {
       "Eng": "Bathing in the neon glow of this sign, I am reminded of loves lost and found. A lump forms in my throat.",
       "Por": "Banhando-se no brilho de néon desta placa, lembro-me de amigos velhos e novos. Um nódulo se forma na minha garganta."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/hylotlsign2o/hylotlsign2o.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Critical. A sign that simply says 'croak'. How useful.",
+      "Por": "Crítico. Uma placa que simplesmente diz \"croak\". Que útil."
     }
   },
   {

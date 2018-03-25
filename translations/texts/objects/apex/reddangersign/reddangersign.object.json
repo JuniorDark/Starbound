@@ -27,17 +27,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/reddangersign/reddangersign.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Clearly nothing to worry about then."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/apex/reddangersign/reddangersign.object": [
         "/floranDescription"
       ]
     },
@@ -68,6 +57,18 @@
     "Texts": {
       "Eng": "Little in Apex life isn't dangerous.",
       "Por": "Pouco na vida Apex não é perigoso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/reddangersign/reddangersign.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pessimistic. Clearly nothing to worry about then.",
+      "Por": "Pessimista. Claramente nada para se preocupar então."
     }
   },
   {

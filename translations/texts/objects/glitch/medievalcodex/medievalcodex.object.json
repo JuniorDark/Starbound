@@ -15,23 +15,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/medievalcodex/medievalcodex.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A compendium of old illustrations."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/glitch/medievalcodex/medievalcodex.object": [
         "/novakidDescription"
       ]
     },
     "Texts": {
       "Eng": "A picture book, sorta.",
       "Por": "Um livro de fotos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/medievalcodex/medievalcodex.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intrigued. A compendium of old illustrations.",
+      "Por": "Intrigado. Um compêndio de ilustrações antigas."
     }
   },
   {

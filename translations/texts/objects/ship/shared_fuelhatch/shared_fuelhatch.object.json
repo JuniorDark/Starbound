@@ -26,7 +26,7 @@
     },
     "Texts": {
       "Eng": "A broken FTL fuel hatch. This won't do!",
-      "Por": "Um tanque de combustível FTL quebrado."
+      "Por": "Um tanque de combustível FTL quebrado. Isso não vai adiantar!"
     }
   },
   {
@@ -60,7 +60,11 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Aceita Erchius líquido como combustível para fazer funcionar o motor FTL da nave.",
+      "Aceita Erchius líquido como combustível para o mergulho do FTL da nave.",
+      "Aceita Líquido Erchius como combustível para o mergulho do navio FTL."
+    ],
     "Files": {
       "objects/ship/apexfuelhatch/apexfuelhatch.object": [
         "/description"
@@ -86,7 +90,7 @@
     },
     "Texts": {
       "Eng": "Accepts Liquid Erchius as fuel for the ship's FTL dive.",
-      "Por": "Aceita Erchius Líquido como combustível para fazer funcionar o motor FTL da nave."
+      "Por": "Aceita Erchius líquido como combustível para o motor FTL da nave."
     }
   },
   {
@@ -152,6 +156,68 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "objects/ship/brokenapexfuelhatch/brokenapexfuelhatch.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/brokenavianfuelhatch/brokenavianfuelhatch.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/brokenfloranfuelhatch/brokenfloranfuelhatch.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/brokenglitchfuelhatch/brokenglitchfuelhatch.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/brokenhumanfuelhatch/brokenhumanfuelhatch.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/brokenhylotlfuelhatch/brokenhylotlfuelhatch.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/brokennovakidfuelhatch/brokennovakidfuelhatch.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excited. Once filled, we may visit another planet.",
+      "Por": "Animado. Uma vez enchido, podemos visitar outro planeta."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Animado. Esta escotilha alimenta a movimentação de FTL de modo que eu possa visitar planetas fora deste sistema."
+    ],
+    "Files": {
+      "objects/ship/apexfuelhatch/apexfuelhatch.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/avianfuelhatch/avianfuelhatch.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/floranfuelhatch/floranfuelhatch.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/glitchfuelhatch/glitchfuelhatch.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/humanfuelhatch/humanfuelhatch.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/hylotlfuelhatch/hylotlfuelhatch.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/novakidfuelhatch/novakidfuelhatch.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excited. This hatch fuels the FTL drive so that I may visit planets outside of this system.",
+      "Por": "Animado. Este tanque alimenta a movimentação do motor FTL de modo que eu possa visitar planetas fora deste sistema."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "objects/ship/apexfuelhatch/apexfuelhatch.object": [
         "/shortdescription"
       ],
@@ -180,7 +246,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Combustível FTL vai aqui!"
+    ],
     "Files": {
       "objects/ship/apexfuelhatch/apexfuelhatch.object": [
         "/novakidDescription"
@@ -240,7 +308,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Escotilha de combustível para pilotagem FTL. Vamos enche-lo!"
+    ],
     "Files": {
       "objects/ship/apexfuelhatch/apexfuelhatch.object": [
         "/floranDescription"
@@ -326,7 +396,7 @@
     },
     "Texts": {
       "Eng": "Let's load it up and take to the stars!",
-      "Por": "Vamos enche-lo e ir para as estrelas!"
+      "Por": "Vamos carregá-lo e ir para as estrelas!"
     }
   },
   {
@@ -360,37 +430,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/ship/brokenapexfuelhatch/brokenapexfuelhatch.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/brokenavianfuelhatch/brokenavianfuelhatch.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/brokenfloranfuelhatch/brokenfloranfuelhatch.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/brokenglitchfuelhatch/brokenglitchfuelhatch.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/brokenhumanfuelhatch/brokenhumanfuelhatch.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/brokenhylotlfuelhatch/brokenhylotlfuelhatch.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/brokennovakidfuelhatch/brokennovakidfuelhatch.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Once filled, we may visit another planet.",
-      "Por": "Quando estiver preenchido, poderemos visitar outro planeta."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "A escotilha de combustível de direção FTL. Converte combustível em liberdade"
+    ],
     "Files": {
       "objects/ship/apexfuelhatch/apexfuelhatch.object": [
         "/apexDescription"
@@ -420,7 +462,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "A escotilha de combustível FTL. Vamos carregar e levar para as estrelas!"
+    ],
     "Files": {
       "objects/ship/apexfuelhatch/apexfuelhatch.object": [
         "/avianDescription"
@@ -450,7 +494,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "A humilde escotilha de combustível FTL. O combustível é a força vital da exploração."
+    ],
     "Files": {
       "objects/ship/apexfuelhatch/apexfuelhatch.object": [
         "/hylotlDescription"
@@ -476,11 +522,13 @@
     },
     "Texts": {
       "Eng": "The humble FTL fuel hatch. Fuel is the lifeblood of exploration.",
-      "Por": "O humilde tanque de combustível do motor FTL. O combustível é a força vital da exploração."
+      "Por": "O humilde tanque de combustível do FTL. O combustível é a força vital da exploração."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "A escotilha de combustível da nave. Com o combustível. Com combustível para a movimentação FTL eu posso explorar fora deste sistema."
+    ],
     "Files": {
       "objects/ship/apexfuelhatch/apexfuelhatch.object": [
         "/humanDescription"
@@ -507,36 +555,6 @@
     "Texts": {
       "Eng": "The ship's fuel hatch. With fuel for the FTL drive I can explore outside this system.",
       "Por": "O tanque de combustível da nave. Com combustível para o motor FTL posso explorar fora deste sistema."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/ship/apexfuelhatch/apexfuelhatch.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/avianfuelhatch/avianfuelhatch.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/floranfuelhatch/floranfuelhatch.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/glitchfuelhatch/glitchfuelhatch.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/humanfuelhatch/humanfuelhatch.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/hylotlfuelhatch/hylotlfuelhatch.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/novakidfuelhatch/novakidfuelhatch.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This hatch fuels the FTL drive so that I may visit planets outside of this system.",
-      "Por": "Esta escotilha abastece o motor FTL para que eu possa visitar planetas fora deste sistema."
     }
   }
 ]

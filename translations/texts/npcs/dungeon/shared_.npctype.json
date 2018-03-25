@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Agora, está á procura de algo?"
+    ],
     "Files": {
       "npcs/dungeon/avianairship/airshipquartermaster.npctype": [
         "/scriptConfig/dialog/merchant/welcome/default/default/1"
@@ -11,7 +13,7 @@
     },
     "Texts": {
       "Eng": "Now then, what were ya lookin' for?",
-      "Por": "Então,"
+      "Por": "Agora, então, o que você estava procurando?"
     }
   }
 ]

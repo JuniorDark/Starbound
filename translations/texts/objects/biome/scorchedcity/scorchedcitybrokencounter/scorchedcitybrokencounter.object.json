@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/scorchedcity/scorchedcitybrokencounter/scorchedcitybrokencounter.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disgusted. This counter is covered in layers of grime.",
+      "Por": "Enojado. Este balcão está coberto por camadas de sujeira."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/scorchedcity/scorchedcitybrokencounter/scorchedcitybrokencounter.object": [
         "/shortdescription"
       ]
     },
@@ -45,17 +57,6 @@
     "Texts": {
       "Eng": "This counter is covered in grime.",
       "Por": "Este balcão está coberto por sujeira."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/scorchedcity/scorchedcitybrokencounter/scorchedcitybrokencounter.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This counter is covered in layers of grime."
     }
   },
   {

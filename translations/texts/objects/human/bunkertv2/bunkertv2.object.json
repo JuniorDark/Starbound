@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/bunkertv2/bunkertv2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A few screens."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/human/bunkertv2/bunkertv2.object": [
         "/avianDescription"
       ]
     },
@@ -56,6 +45,18 @@
     "Texts": {
       "Eng": "A set of three screens.",
       "Por": "Um conjunto de três telas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkertv2/bunkertv2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bored. A few screens.",
+      "Por": "Entediado. Algumas telas."
     }
   },
   {

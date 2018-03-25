@@ -108,14 +108,15 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/feathercrown/feathercrownseed.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/farmables/feathercrown/wildfeathercrownseed.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Perhaps one day a feathercrown will develop sentience and take to the skies."
+      "Eng": "Philosophical. Perhaps one day a feathercrown will develop sentience and take to the skies.",
+      "Por": "Filosófico. Talvez um dia uma feathercrown irá desenvolver consciência e ir para os céus."
     }
   },
   {

@@ -192,32 +192,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/flesh/fleshbush1/fleshbush1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/flesh/fleshbush2/fleshbush2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/flesh/fleshbush3/fleshbush3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/flesh/fleshbush4/fleshbush4.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/flesh/fleshbush5/fleshbush5.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/flesh/fleshbush6/fleshbush6.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This bush is rather vile."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/flesh/fleshbush1/fleshbush1.object": [
         "/novakidDescription"
       ],
       "objects/biome/flesh/fleshbush2/fleshbush2.object": [
@@ -239,6 +213,33 @@
     "Texts": {
       "Eng": "This is just plain gruesome.",
       "Por": "Isso é simplesmente horrível."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/flesh/fleshbush1/fleshbush1.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/flesh/fleshbush2/fleshbush2.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/flesh/fleshbush3/fleshbush3.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/flesh/fleshbush4/fleshbush4.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/flesh/fleshbush5/fleshbush5.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/flesh/fleshbush6/fleshbush6.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Uncomfortable. This bush is rather vile.",
+      "Por": "Desconfortável. Este arbusto é bastante vil."
     }
   }
 ]

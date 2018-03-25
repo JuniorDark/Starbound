@@ -3,6 +3,23 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/hellstone.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/hellstone.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alarmed. This appears to be pulsating flesh.",
+      "Por": "Alarmado. Isso parece ser carne pulsante."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Ehh, um material de aparência carnuda!"
+    ],
+    "Files": {
+      "items/materials/hellstone.matitem": [
         "/description"
       ],
       "tiles/materials/hellstone.material": [
@@ -42,21 +59,6 @@
     "Texts": {
       "Eng": "Sssquishy, sslimy flesh.",
       "Por": "Carne mole e visscosa."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/hellstone.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/hellstone.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This appears to be pulsating flesh.",
-      "Por": "Isso parece ser carne pulsante."
     }
   },
   {

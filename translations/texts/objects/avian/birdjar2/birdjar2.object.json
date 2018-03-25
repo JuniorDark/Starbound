@@ -27,23 +27,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/birdjar2/birdjar2.object": [
-        "/humanDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Let's break this one open. It's very unattractive.",
-      "Por": "Vamos quebrar isso. É muito pouco atraente."
+      "Eng": "Intrigued. Smashing this jar may reveal what's inside.",
+      "Por": "Intrigado. Quebrar este jarro pode revelar o que está dentro."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/birdjar2/birdjar2.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/humanDescription"
       ]
     },
     "Texts": {
-      "Eng": "Smashing this jar may reveal what's inside."
+      "Eng": "Let's break this one open. It's very unattractive.",
+      "Por": "Vamos quebrar isso. É muito pouco atraente."
     }
   },
   {

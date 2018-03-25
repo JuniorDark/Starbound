@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/barvent/barvent.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Acknowledgement. A vent.",
+      "Por": "Reconhecimento. Um respiradouro."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/barvent/barvent.object": [
         "/shortdescription"
       ]
     },

@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/clues/avian/kluexmural2/kluexmural2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. This mural appears to depict this Kluex diety leaving treasures for his followers.",
+      "Por": "Curioso. Este mural parece representar esse Kluex que deixa tesouros para seus seguidores."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/clues/avian/kluexmural2/kluexmural2.object": [
         "/hylotlDescription"
       ]
     },
@@ -45,17 +57,6 @@
     "Texts": {
       "Eng": "Kluex Gift Mural",
       "Por": "Kluex Gift Mural"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/clues/avian/kluexmural2/kluexmural2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This mural appears to depict this Kluex diety leaving treasures for his followers."
     }
   },
   {

@@ -3,6 +3,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/tombbrick3.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/tombbrick3.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amazed. This stone work is most impressive.",
+      "Por": "Espantado. Este trabalho de pedra é o mais impressionante."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/tombbrick3.matitem": [
         "/novakiddescription"
       ],
       "tiles/materials/tombbrick3.material": [
@@ -45,7 +60,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Estes pequenos tijolos são magistralmente trabalhados."
+    ],
     "Files": {
       "items/materials/tombbrick3.matitem": [
         "/description"
@@ -57,21 +74,6 @@
     "Texts": {
       "Eng": "These small bricks are masterfully crafted.",
       "Por": "Estes pequenos tijolos são magistralmente fabricados."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/tombbrick3.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/tombbrick3.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This stone work is most impressive.",
-      "Por": "Esta alvenaria é muito impressionante."
     }
   }
 ]

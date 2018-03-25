@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/ironlight/ironlight.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Practical. This light could serve as a torch and a weapon.",
+      "Por": "Prático. Esta luz poderia servir como uma tocha e uma arma."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/ironlight/ironlight.object": [
         "/shortdescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "Strange. This sword serves as a light, not a weapon.",
       "Por": "Estranho. Esta espada serve como uma luz, não uma arma."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/ironlight/ironlight.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This light could serve as a torch and a weapon."
     }
   }
 ]

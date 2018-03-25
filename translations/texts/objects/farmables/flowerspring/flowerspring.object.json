@@ -27,8 +27,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/flowerspring/flowerspring.object": [
-        "/avianDescription",
-        "/glitchDescription/glitchEmotedText"
+        "/avianDescription"
       ]
     },
     "Texts": {
@@ -82,6 +81,18 @@
     "Texts": {
       "Eng": "Floran can ussse this flower to make clothes different colourss.",
       "Por": "Floran pode usssar esta flor para fazer roupas de coress diferentes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/flowerspring/flowerspring.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gleeful. A pretty spring flower.",
+      "Por": "Alegre. Uma flor de primavera bonita."
     }
   },
   {

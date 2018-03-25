@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/redlight/redlight.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A light.",
+      "Por": "Uma luz."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/redlight/redlight.object": [
         "/humanDescription"
       ]
     },
@@ -51,6 +63,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/redlight/redlight.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neutral. This light generates light on low power.",
+      "Por": "Neutro. Esta luz gera luz em baixa potência."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/redlight/redlight.object": [
         "/shortdescription"
       ]
     },
@@ -69,17 +93,6 @@
     "Texts": {
       "Eng": "Red light! Red!",
       "Por": "Luz vermelha! Vermelha!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/mission/redlight/redlight.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This light generates light on low power."
     }
   }
 ]

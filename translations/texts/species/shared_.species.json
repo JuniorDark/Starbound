@@ -15,7 +15,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "ESTILO DE CABELO"
+    ],
     "Files": {
       "species/fenerox.species": [
         "/charGenTextLabels/1"
@@ -30,7 +32,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Estilo de cabelo"
+    ],
     "Files": {
       "species/apex.species": [
         "/charGenTextLabels/1"
@@ -103,8 +107,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Only these people know...",
-      "Por": "Só essas pessoas sabem..."
+      "Eng": "Only these people know..."
     }
   },
   {

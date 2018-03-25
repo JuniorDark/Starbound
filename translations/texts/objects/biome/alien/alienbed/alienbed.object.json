@@ -99,11 +99,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/alien/alienbed/alienbed.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "This bed emits some sort of... Body heat?"
+      "Eng": "Suspicious. This bed emits some sort of... Body heat?",
+      "Por": "Suspeito. Esta cama emite algum tipo de... Calor corporal?"
     }
   }
 ]

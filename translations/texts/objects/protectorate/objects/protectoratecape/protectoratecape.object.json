@@ -63,6 +63,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/protectorate/objects/protectoratecape/protectoratecape.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intrigued. Some torn material from the Protectorate banner. Should I pick it up?",
+      "Por": "Intrigado. Algum material rasgado do estandarte do Protetorado. Devo pegar?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/protectorate/objects/protectoratecape/protectoratecape.object": [
         "/avianDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "Protectorate Banner Rag",
       "Por": "Protectorate Banner Rag"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/protectorate/objects/protectoratecape/protectoratecape.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Some torn material from the Protectorate banner. Should I pick it up?"
     }
   },
   {

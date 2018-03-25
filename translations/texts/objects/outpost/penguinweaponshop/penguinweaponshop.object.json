@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Armamento Respeitável do Biggy"
+    ],
     "Files": {
       "objects/outpost/penguinweaponshop/penguinweaponshop.object": [
         "/interactData/paneLayoutOverride/windowtitle/title",
@@ -21,7 +23,7 @@
     },
     "Texts": {
       "Eng": "Biggy's Reputable Weaponry",
-      "Por": "Armamento Respeitável do Biggy"
+      "Por": "Biggy's Reputable Weaponry"
     }
   },
   {
@@ -40,11 +42,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/penguinweaponshop/penguinweaponshop.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "How does this diminutive shopkeeper even lift his merchandise?"
+      "Eng": "Impressed. How does this diminutive shopkeeper even lift his merchandise?",
+      "Por": "Impressionado. Como é que este pequeno comerciante levanta sua mercadoria?"
     }
   },
   {

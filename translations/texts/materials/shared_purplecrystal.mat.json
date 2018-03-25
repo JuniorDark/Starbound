@@ -3,19 +3,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/purplecrystal.matitem": [
-        "/glitchdescription/glitchEmotedText"
+        "/glitchdescription"
       ],
       "tiles/materials/purplecrystal.material": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Light appears to dance through this purple crystal.",
-      "Por": "A luz parece dançar através deste cristal roxo."
+      "Eng": "Awestruck. Light appears to dance through this purple crystal.",
+      "Por": "Impressionado. A luz parece dançar através deste cristal roxo."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "A luz parece retorcer dentro desses cristais roxos."
+    ],
     "Files": {
       "items/materials/purplecrystal.matitem": [
         "/description"

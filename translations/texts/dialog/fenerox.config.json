@@ -168,7 +168,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ajudante ansioso. Fornecendo aconselhamento. Ganha luta!"
+    ],
     "Files": {
       "dialog/fenerox.config": [
         "/cheerOn/default/default/1",
@@ -231,7 +233,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Sentindo ansioso. Contribuindo com apoio. Ganha luta!"
+    ],
     "Files": {
       "dialog/fenerox.config": [
         "/cheerOn/default/default/2",
@@ -240,7 +244,7 @@
     },
     "Texts": {
       "Eng": "Feeling eager. Contributing support. Win fight!",
-      "Por": "Sentindo-se ansioso. Dando apoio. Vencer a luta!"
+      "Por": "Sentindo-se ansioso. dando apoio. Vencer a luta!"
     }
   },
   {
@@ -256,7 +260,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Fenerox apoiativo. Fornece suporte. Ganha batalha!"
+    ],
     "Files": {
       "dialog/fenerox.config": [
         "/cheerOn/default/default/0",
@@ -330,7 +336,11 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Desconhecido amigável. Sentindo estranho. Cautelosamente otimista!",
+      "Estranho amigável. Sentindo estranho. Cautelosamente otimista!",
+      "Estranho amigável. Sentindo estranho. Ser legal!"
+    ],
     "Files": {
       "dialog/fenerox.config": [
         "/converse/default/apex/5",
@@ -432,7 +442,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Conhecendo estranho. Ser amigável. Nova experiência!",
+      "Encontro estranho. Ser amigável. Nova experiência!"
+    ],
     "Files": {
       "dialog/fenerox.config": [
         "/converse/default/apex/3",
@@ -446,7 +459,7 @@
     },
     "Texts": {
       "Eng": "Meeting stranger. Being friendly. New experience!",
-      "Por": "Conhecendo estranho. Sendo amigável. Nova experiência!"
+      "Por": "Conhecendo um estranho. Ser amigável. Nova experiência!"
     }
   },
   {
@@ -510,7 +523,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma nova pessoa. Odores estranhos. Muito emocionante!"
+    ],
     "Files": {
       "dialog/fenerox.config": [
         "/converse/default/apex/0",
@@ -519,11 +534,18 @@
     },
     "Texts": {
       "Eng": "New person. Smells strange. Quite exciting!",
-      "Por": "\"Nova pessoa. Cheira estranho. Bem emocionante!"
+      "Por": "Nova pessoa. Odores estranhos. Muito emocionante!"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Estranho amigável. Sentindo estranho. Cautelosamente otimista!",
+      "Novo desconhecido. Não confiante. Dizer olá!",
+      "Novo e estranho. Não confiante. Dizer olá!",
+      "Novo estranho. Não confiante. Dizer olá!\"",
+      "Um novo desconhecido. Não confiante. Dizer olá!",
+      "Um novo estranho. Não confiante. Dizer olá!"
+    ],
     "Files": {
       "dialog/fenerox.config": [
         "/converse/default/apex/6",
@@ -590,7 +612,11 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Pessoa desconhecida. Parece ser agradável. Sentindo-se cauteloso!",
+      "Pessoa estranha. Espero ser agradável. Sentindo-se cauteloso!",
+      "Pessoa estranha. Parece ser agradável. Sentindo-se cauteloso!"
+    ],
     "Files": {
       "dialog/fenerox.config": [
         "/converse/default/apex/1",
@@ -604,11 +630,16 @@
     },
     "Texts": {
       "Eng": "Odd person. Hopefully nice. Feeling cautious!",
-      "Por": "Pessoa estranha. Parece ser legal. Sentindo-se cauteloso!"
+      "Por": "Pessoa estranha. Sentindo agradável. Sentindo-se cauteloso!"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Pessoa estranha. Diz olá. Não é Fenerox?",
+      "Pessoa estranha. Dizendo olá. Não é Fenerox?",
+      "Pessoa estranha. Dizer olá. Não é Fenerox?",
+      "Pessoa estranha. Dizer olá. Né Fenerox?"
+    ],
     "Files": {
       "dialog/fenerox.config": [
         "/converse/default/apex/4",
@@ -622,7 +653,7 @@
     },
     "Texts": {
       "Eng": "Odd person. Saying hello. Not Fenerox?",
-      "Por": "Pessoa estranha. Dizendo olá. Não é Fenerox?"
+      "Por": "Pessoa estranha. Dizendo olá. Não é Fenerox?\""
     }
   },
   {
@@ -902,7 +933,11 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Pessoa estranha. Não Fenerox. Sendo educado!",
+      "Pessoa estranha. Não é Fenerox. Sendo educado!",
+      "Pessoa estranha. Não é o Fenerox. Ser educado!"
+    ],
     "Files": {
       "dialog/fenerox.config": [
         "/converse/default/apex/2",
@@ -916,7 +951,7 @@
     },
     "Texts": {
       "Eng": "Weird person. Not Fenerox. Being polite!",
-      "Por": "Pessoa estranha. Não é um Fenerox. Sendo educado!"
+      "Por": "Pessoa estranha. Não é Fenerox. Ser educado!"
     }
   },
   {

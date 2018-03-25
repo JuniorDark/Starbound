@@ -63,6 +63,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/crystalplant/crystalplantseed.object": [
+        "/glitchDescription"
+      ],
+      "objects/farmables/crystalplant/wildcrystalplantseed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Concerned. Farming these in abundance could damage the economy.",
+      "Por": "Preocupado. Cultivar estes em abundância pode prejudicar a economia."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/crystalplant/crystalplantseed.object": [
         "/shortdescription"
       ],
       "objects/farmables/crystalplant/wildcrystalplantseed.object": [
@@ -72,20 +87,6 @@
     "Texts": {
       "Eng": "Crystal Plant Seed",
       "Por": "Crystal Plant Seed"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/farmables/crystalplant/crystalplantseed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/farmables/crystalplant/wildcrystalplantseed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Farming these in abundance could damage the economy."
     }
   },
   {

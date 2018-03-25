@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/eyepatch/eyedoor/eyedoor.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Contemplative. With just one eye, this door must see the world as a one dimensional space.",
+      "Por": "Contemplativo. Com apenas um olho, esta porta deve ver o mundo como um espaço unidimensional."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/eyepatch/eyedoor/eyedoor.object": [
         "/shortdescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "This eye emanate malevolence. What horrors lie beyond?",
       "Por": "Esse olho emana malevolência. Que horrores estão além?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/eyepatch/eyedoor/eyedoor.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "With just one eye, this door must see the world as a one dimensional space."
     }
   }
 ]

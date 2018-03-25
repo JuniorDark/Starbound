@@ -3,6 +3,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/direstone.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/direstone.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amazed. The worms in this stone appear to help maintain its rigidity.",
+      "Por": "Espantado. Os vermes neste pedra parecem ajudar a manter a sua rigidez."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/direstone.matitem": [
         "/shortdescription"
       ],
       "tiles/materials/direstone.material": [
@@ -27,21 +42,6 @@
     "Texts": {
       "Eng": "Little wormlike forms wriggle beneath the surface of this glassy stone.",
       "Por": "Vermezinhos se contorcem sob a superfície desta pedra vítrea."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/direstone.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/direstone.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The worms in this stone appear to help maintain its rigidity.",
-      "Por": "Os vermes desta pedra parecem ajudar a manter sua rigidez."
     }
   },
   {

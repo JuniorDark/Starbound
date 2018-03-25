@@ -48,14 +48,15 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/woodenelevator/woodenelevatorlong.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/generic/woodenelevator/woodenelevatorshort.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Does a wooden elevator meet safety standards?"
+      "Eng": "Concerned. Does a wooden elevator meet safety standards?",
+      "Por": "Preocupado. Um elevador de madeira cumpre os padrões de segurança?"
     }
   },
   {

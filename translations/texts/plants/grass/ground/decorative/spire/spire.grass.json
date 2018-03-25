@@ -16,24 +16,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "plants/grass/ground/decorative/spire/spire.grass": [
-        "/glitchDescription/glitchEmotedText"
+        "/floranDescription"
       ]
     },
     "Texts": {
-      "Eng": "A twisted spike plant.",
-      "Por": "Uma planta de espinhos torcida."
+      "Eng": "Ssspinny and ssspiky.",
+      "Por": "espinhenta e espinhosa."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "plants/grass/ground/decorative/spire/spire.grass": [
-        "/floranDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Ssspinny and ssspiky.",
-      "Por": "Espinhenta e espinhosa."
+      "Eng": "Statement. A twisted spike plant.",
+      "Por": "Afirmação. Uma planta espinhoso torcida."
     }
   }
 ]

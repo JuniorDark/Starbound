@@ -18,21 +18,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/sand.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/sand.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "It is difficult to keep silt from seeping into my components.",
-      "Por": "É difícil evitar que silte se infiltre nos meus componentes."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/sand.matitem": [
         "/description"
       ],
       "tiles/materials/sand.material": [
@@ -72,6 +57,21 @@
     "Texts": {
       "Eng": "Silt. It's so dussty.",
       "Por": "Silte. É tão empoeirado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/sand.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/sand.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Uncomfortable. It is difficult to keep silt from seeping into my components.",
+      "Por": "Desconfortável. É difícil impedir que o silte penetre nos meus componentes."
     }
   }
 ]

@@ -31,8 +31,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Industrial Table",
-      "Por": "Industrial Table"
+      "Eng": "Industrial Table"
     }
   },
   {
@@ -87,24 +86,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/space/industrialtable/industrialtable.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This table could use a little decoration.",
-      "Por": "Esta mesa ficaria melhor com uma decoração."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/space/industrialtable/industrialtable.object": [
         "/apexDescription"
       ]
     },
     "Texts": {
       "Eng": "This table looks very sturdy - I'd feel safe hiding under it during an earthquake.",
       "Por": "Esta mesa parece muito robusta - eu me sentiria seguro escondido sob ela durante um terremoto."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/industrialtable/industrialtable.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unimpressed. This table could use a little decoration.",
+      "Por": "Não impressionado. Esta mesa precisa de um pouco de decoração."
     }
   }
 ]

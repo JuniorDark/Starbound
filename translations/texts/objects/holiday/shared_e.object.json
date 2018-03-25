@@ -3,6 +3,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/holiday/heartforge/heartforge.object": [
+        "/glitchDescription"
+      ],
+      "objects/holiday/holidaycraftingtable/holidaycraftingtable.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Festive. I shall craft the most delicious gumdrop.",
+      "Por": "Festivo. Vou criar as jujubas mais deliciosas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/holiday/heartforge/heartforge.object": [
         "/floranDescription"
       ],
       "objects/holiday/holidaycraftingtable/holidaycraftingtable.object": [
@@ -12,20 +27,6 @@
     "Texts": {
       "Eng": "Floran make pretty red bowsss.",
       "Por": "Floran faz arcosss vermelhosss bonitosss."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/holiday/heartforge/heartforge.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/holiday/holidaycraftingtable/holidaycraftingtable.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I shall craft the most delicious gumdrop."
     }
   }
 ]

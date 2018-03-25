@@ -33,8 +33,7 @@
       ]
     },
     "Texts": {
-      "Eng": "***",
-      "Por": "***"
+      "Eng": "***"
     }
   },
   {
@@ -47,8 +46,7 @@
       ]
     },
     "Texts": {
-      "Eng": "-?[0-9]{0,10}",
-      "Por": "-?[0-9]{0,10}"
+      "Eng": "-?[0-9]{0,10}"
     }
   },
   {
@@ -230,8 +228,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Aegisalt",
-      "Por": "Aegisalt"
+      "Eng": "Aegisalt"
     }
   },
   {
@@ -363,8 +360,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Copper",
-      "Por": "Copper"
+      "Eng": "Copper"
     }
   },
   {
@@ -392,7 +388,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Perigoso"
+    ],
     "Files": {
       "interface/cockpit/cockpit.config": [
         "/objectThreatText/available/3",
@@ -436,8 +434,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Durasteel",
-      "Por": "Durasteel"
+      "Eng": "Durasteel"
     }
   },
   {
@@ -523,8 +520,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Ferozium",
-      "Por": "Ferozium"
+      "Eng": "Ferozium"
     }
   },
   {
@@ -631,8 +627,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Gold",
-      "Por": "Gold"
+      "Eng": "Gold"
     }
   },
   {
@@ -679,8 +674,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Iron",
-      "Por": "Iron"
+      "Eng": "Iron"
     }
   },
   {
@@ -752,8 +746,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Lunar",
-      "Por": "Lunar"
+      "Eng": "Lunar"
     }
   },
   {
@@ -1079,8 +1072,7 @@
       ]
     },
     "Texts": {
-      "Eng": "SYSTEM NAME",
-      "Por": "NOME DO SISTEMA"
+      "Eng": "SYSTEM NAME"
     }
   },
   {
@@ -1163,8 +1155,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Solarium",
-      "Por": "Solarium"
+      "Eng": "Solarium"
     }
   },
   {
@@ -1655,8 +1646,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Titanium",
-      "Por": "Titanium"
+      "Eng": "Titanium"
     }
   },
   {
@@ -1667,8 +1657,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Tungsten",
-      "Por": "Tungsten"
+      "Eng": "Tungsten"
     }
   },
   {
@@ -1781,8 +1770,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Violium",
-      "Por": "Violium"
+      "Eng": "Violium"
     }
   },
   {
@@ -1817,8 +1805,7 @@
       ]
     },
     "Texts": {
-      "Eng": "X",
-      "Por": "X"
+      "Eng": "X"
     }
   },
   {
@@ -1829,8 +1816,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Y",
-      "Por": "Y"
+      "Eng": "Y"
     }
   },
   {
@@ -1937,8 +1923,7 @@
       ]
     },
     "Texts": {
-      "Eng": "dangerous",
-      "Por": "perigoso"
+      "Eng": "dangerous"
     }
   }
 ]

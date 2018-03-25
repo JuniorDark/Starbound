@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hoard/diamonddisplay/diamonddisplay.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Critical. This display case does not seem to be protected by an alarm system.",
+      "Por": "Crítico. Este mostrador não parece estar protegido por um sistema de alarme."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hoard/diamonddisplay/diamonddisplay.object": [
         "/shortdescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "It's like something out of a heist movie!",
       "Por": "É como algo saído de um filme de roubo!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/hoard/diamonddisplay/diamonddisplay.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This display case does not seem to be protected by an alarm system."
     }
   }
 ]

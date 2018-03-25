@@ -3,60 +3,60 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/dungeon/evilfortress/evilknight.npctype": [
-        "/scriptConfig/dialog/attack/glitch/default/1/glitchEmotedText"
+        "/scriptConfig/dialog/attack/glitch/default/1"
       ]
     },
     "Texts": {
-      "Eng": "I have been itching for a fight!",
-      "Por": "Estou ansioso por uma luta!"
+      "Eng": "Eager. I have been itching for a fight!",
+      "Por": "Ansioso. Estava ansioso por uma luta!"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "npcs/dungeon/evilfortress/evilknight.npctype": [
-        "/scriptConfig/dialog/attack/glitch/default/3/glitchEmotedText"
+        "/scriptConfig/dialog/attack/glitch/default/3"
       ]
     },
     "Texts": {
-      "Eng": "I have been waiting for a fight!",
-      "Por": "Tenho estado à espera de uma luta!"
+      "Eng": "Excited. I have been waiting for a fight!",
+      "Por": "Animado. Eu estava esperando por uma luta!"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "npcs/dungeon/evilfortress/evilknight.npctype": [
-        "/scriptConfig/dialog/attack/glitch/default/4/glitchEmotedText"
+        "/scriptConfig/dialog/attack/glitch/default/4"
       ]
     },
     "Texts": {
-      "Eng": "I have fought bigger foes than you before, you are no threat!",
-      "Por": "Eu lutei com inimigos maiores do que você antes, você não é uma ameaça!"
+      "Eng": "Fearless. I have fought bigger foes than you before, you are no threat!",
+      "Por": "Destemido. Lutei com inimigos maiores do que você antes, você não é uma ameaça!"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "npcs/dungeon/evilfortress/evilknight.npctype": [
-        "/scriptConfig/dialog/attack/glitch/default/5/glitchEmotedText"
+        "/scriptConfig/dialog/attack/glitch/default/5"
       ]
     },
     "Texts": {
-      "Eng": "You do not look like much of a threat.",
-      "Por": "Você não parece ser uma grande ameaça."
+      "Eng": "Haughty. You do not look like much of a threat.",
+      "Por": "Arrogante. Você não parece muito com uma ameaça."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "npcs/dungeon/evilfortress/evilknight.npctype": [
-        "/scriptConfig/dialog/attack/glitch/default/6/glitchEmotedText"
+        "/scriptConfig/dialog/attack/glitch/default/6"
       ]
     },
     "Texts": {
-      "Eng": "You have messed with the wrong knight!",
-      "Por": "Você mexeu com o cavaleiro errado!"
+      "Eng": "Irate. You have messed with the wrong knight!",
+      "Por": "Irado. Você mexeu com o cavaleiro errado!"
     }
   }
 ]

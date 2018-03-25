@@ -27,17 +27,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/outpostpc/outpostpc.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A high-powered computer."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/outpost/outpostpc/outpostpc.object": [
         "/avianDescription"
       ]
     },
@@ -68,6 +57,18 @@
     "Texts": {
       "Eng": "Desktop PC",
       "Por": "Desktop PC"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostpc/outpostpc.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Envious. A high-powered computer.",
+      "Por": "Invejoso. Um computador de alta potência."
     }
   },
   {

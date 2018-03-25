@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/prisonmattress/prisonmattress.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Concerned. This mattress needs to be fumigated. I can detect life signs.",
+      "Por": "Preocupado. Este colchão precisa ser desinfetado. Posso detectar sinais de vida."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisonmattress/prisonmattress.object": [
         "/shortdescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "This mattress is filthy! I swear I just saw something crawling around inside.",
       "Por": "Este colchão esta imundo! Juro que acabei de ver algo rastejando por dentro."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/human/prisonmattress/prisonmattress.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This mattress needs to be fumigated. I can detect life signs."
     }
   },
   {

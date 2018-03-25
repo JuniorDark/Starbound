@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/ice/snowglobe2/snowglobe2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alarm. There are faint lifesigns coming from inside this snowglobe.",
+      "Por": "Alarme. Há sinais de vida fracos vindo de dentro deste globo de neve."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/ice/snowglobe2/snowglobe2.object": [
         "/apexDescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "Penguins sure are cute, but I'm not fooled. They're rascals, all of 'em!",
       "Por": "Pinguins com certeza são fofos, mas não me enganam. Eles são malandros, todos eles!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/ice/snowglobe2/snowglobe2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "There are faint lifesigns coming from inside this snowglobe."
     }
   }
 ]

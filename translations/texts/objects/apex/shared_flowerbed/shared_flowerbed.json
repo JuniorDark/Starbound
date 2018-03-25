@@ -63,21 +63,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/flowerbed1/flowerbed1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/apex/flowerbed2/flowerbed2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A remarkably well-cultivated flowerbed.",
-      "Por": "Um canteiro de flores notavelmente bem cultivado."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/apex/flowerbed1/flowerbed1.object": [
         "/avianDescription"
       ],
       "objects/apex/flowerbed2/flowerbed2.object": [
@@ -102,6 +87,23 @@
     "Texts": {
       "Eng": "A well-tended flowerbed. One of the few Apex pleasures.",
       "Por": "Um canteiro de flores bem cuidado. Um dos poucos prazeres Apex."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Admiração. Um canteiro de flores notavelmente bem cultivada."
+    ],
+    "Files": {
+      "objects/apex/flowerbed1/flowerbed1.object": [
+        "/glitchDescription"
+      ],
+      "objects/apex/flowerbed2/flowerbed2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Admiration. A remarkably well-cultivated flowerbed.",
+      "Por": "Admiração. Um canteiro de flores notavelmente bem cultivado."
     }
   },
   {

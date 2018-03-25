@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma simples plataforma leve comumente encontrada em postos remotos."
+    ],
     "Files": {
       "items/materials/outpostplatform.matitem": [
         "/description"
@@ -12,6 +14,21 @@
     "Texts": {
       "Eng": "A simple light platform commonly found in remote outposts.",
       "Por": "Uma simples plataforma leve comumente encontrada em postos avançados."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/outpostplatform.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/platforms/outpostplatform.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Facinated. These platforms are light and favoured for their portability.",
+      "Por": "Fascinado. Estas plataformas são leves e favorecidas por sua portabilidade."
     }
   },
   {
@@ -57,21 +74,6 @@
     "Texts": {
       "Eng": "Pretty strange lookin' metal platform.",
       "Por": "Plataforma de metal de aparência muito estranha."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/outpostplatform.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/platforms/outpostplatform.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "These platforms are light and favoured for their portability.",
-      "Por": "Estas plataformas são leves e favorecidas por sua portabilidade."
     }
   }
 ]

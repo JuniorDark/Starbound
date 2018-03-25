@@ -75,6 +75,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/nanostove/nanostove.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Admiration. This stove conserves a lot of energy.",
+      "Por": "Admiração. Este fogão conserva muita energia."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/nanostove/nanostove.object": [
         "/humanDescription"
       ]
     },
@@ -117,17 +129,6 @@
     "Texts": {
       "Eng": "Provides exceptional heat and a great for cooking outdoors.",
       "Por": "Fornece calor excepcional e é ótimo para cozinhar ao ar livre."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/nanostove/nanostove.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This stove conserves a lot of energy."
     }
   }
 ]

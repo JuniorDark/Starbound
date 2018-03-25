@@ -3,6 +3,23 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/goldenplatform.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/platforms/goldenplatform.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enchanted. This platform is made from solid gold.",
+      "Por": "Encantado. Esta plataforma é feita de ouro maciço."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Uma plataforma feita de ouro."
+    ],
+    "Files": {
+      "items/materials/goldenplatform.matitem": [
         "/description"
       ],
       "tiles/platforms/goldenplatform.material": [
@@ -57,21 +74,6 @@
     "Texts": {
       "Eng": "Gold! It's a platform made of gold!.",
       "Por": "Ouro! É uma plataforma feita de ouro!."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/goldenplatform.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/platforms/goldenplatform.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This platform is made from solid gold.",
-      "Por": "Esta plataforma é feita de ouro maciço."
     }
   }
 ]

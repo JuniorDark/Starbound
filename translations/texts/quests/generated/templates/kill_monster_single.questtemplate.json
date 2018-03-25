@@ -16,6 +16,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Distressed. I was out <exploring> near the ^orange;<spawnPoint>^white;<spawnPoint.direction> <earlier> when <disaster>! A <giant> ^orange;<monster>^white; was there and <fate>.  Can you <request>, to teach it a lesson?",
+      "Por": "Angustiado. eu estava fora <exploring> perto de ^orange;<spawnPoint>^white; <spawnPoint.direction> <earlier> quando <disaster>! Um <giant> ^orange;<monster>^white; estava lá e <fate>. Você pode <request>, para ensinar-lhe uma lição?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
         "/scriptConfig/generatedText/text/default/floran/0"
       ]
     },
@@ -112,8 +124,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/kill_monster_single.questtemplate": [
-        "/scriptConfig/generatedText/text/default/default/1",
-        "/scriptConfig/generatedText/text/default/glitch/1/glitchEmotedText"
+        "/scriptConfig/generatedText/text/default/default/1"
       ]
     },
     "Texts": {
@@ -221,6 +232,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/kill_monster_single.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Terrified. There's been <talk> about a <giant> ^orange;<monster>^white; over near the ^orange;<spawnPoint>^white;<spawnPoint.direction>. Some are saying that it <rumour1>! Can you <request>, and save us all?",
+      "Por": "Aterrorizado. Houve <talk> sobre um <giant> ^orange;<monster>^white; perto de ^orange;<spawnPoint>^white; <spawnPoint.direction>. Alguns estão dizendo que ele <rumour1>! Você pode <request>, e salvar a todos nós?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kill_monster_single.questtemplate": [
         "/scriptConfig/generatedText/title/default/0"
       ]
     },
@@ -239,18 +262,6 @@
     "Texts": {
       "Eng": "The <monster> challenge",
       "Por": "O desafio do <monster>"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/kill_monster_single.questtemplate": [
-        "/scriptConfig/generatedText/text/default/glitch/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "There's been <talk> about a <giant> ^orange;<monster>^white; over near the ^orange;<spawnPoint>^white;<spawnPoint.direction>. Some are saying that it <rumour1>! Can you <request>, and save us all?",
-      "Por": "Houve <talk>sobre um <giant> ^orange;<monster>^white; perto de ^orange;<spawnPoint>^white;<spawnPoint.direction>. Alguns estão dizendo que ele <rumour1>! Você pode <request>, e salvar a todos nós?"
     }
   },
   {

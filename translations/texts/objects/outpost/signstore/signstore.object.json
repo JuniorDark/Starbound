@@ -3,23 +3,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/signstore/signstore.object": [
-        "/shortdescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "EASEL",
-      "Por": "EASEL"
+      "Eng": "Astounded. Gutenbergbot would be entranced by this contraption.",
+      "Por": "Surpreendido. Gutenbergbot ficaria fascinado por essa engenhoca."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/signstore/signstore.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "Gutenbergbot would be entranced by this contraption."
+      "Eng": "EASEL",
+      "Por": "EASEL"
     }
   },
   {

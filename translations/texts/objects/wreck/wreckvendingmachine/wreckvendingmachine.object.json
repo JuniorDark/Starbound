@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/wreck/wreckvendingmachine/wreckvendingmachine.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aghast. This vending machine smells awful!",
+      "Por": "Horrorizado. Esta máquina de venda automática tem um cheiro terrível!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wreck/wreckvendingmachine/wreckvendingmachine.object": [
         "/humanDescription"
       ]
     },
@@ -69,18 +81,6 @@
     "Texts": {
       "Eng": "This vending machine is empty, I guess the crew had a taste for soda.",
       "Por": "Esta máquina de venda automática está vazia, eu acho que a tripulação gostava de refrigerante."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/wreck/wreckvendingmachine/wreckvendingmachine.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This vending machine smells awful!",
-      "Por": "Esta máquina de venda cheira horrível!"
     }
   },
   {

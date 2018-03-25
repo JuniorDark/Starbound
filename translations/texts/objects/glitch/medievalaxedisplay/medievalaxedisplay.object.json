@@ -15,23 +15,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/medievalaxedisplay/medievalaxedisplay.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A sharp axe is a work of art to the Glitch."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/glitch/medievalaxedisplay/medievalaxedisplay.object": [
         "/shortdescription"
       ]
     },
     "Texts": {
       "Eng": "Axe Display",
       "Por": "Axe Display"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/medievalaxedisplay/medievalaxedisplay.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Boastful. A sharp axe is a work of art to the Glitch.",
+      "Por": "Prepotente. Um machado afiado é uma obra de arte para os Glitch."
     }
   },
   {

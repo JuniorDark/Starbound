@@ -3,6 +3,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/temple3.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/temple3.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amazed. These small blocks display a high level of craftsmanship.",
+      "Por": "Surpreso. Estes pequenos blocos exibem um alto nível de artesanato."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/temple3.matitem": [
         "/florandescription"
       ],
       "tiles/materials/temple3.material": [
@@ -57,21 +72,6 @@
     "Texts": {
       "Eng": "Some dusty lookin' little bricks.",
       "Por": "Alguns tijolos empoeirados."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/temple3.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/temple3.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "These small blocks display a high level of craftsmanship.",
-      "Por": "Estes pequenos blocos exibem um alto nível de artesanato."
     }
   }
 ]

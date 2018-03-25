@@ -3,6 +3,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/wired/forcepad/jumppad.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. Repels objects with a strong elastic force",
+      "Por": "Impressionado. Repeli objetos com forte força elástica"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/forcepad/jumppad.object": [
         "/shortdescription"
       ]
     },
@@ -15,8 +27,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/wired/forcepad/jumppad.object": [
-        "/description",
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ]
     },
     "Texts": {

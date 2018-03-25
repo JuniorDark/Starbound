@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/holiday/holidaycandles/holidaycandles.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Festive. They're nice candles.",
+      "Por": "Festivo. São lindas velas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/holiday/holidaycandles/holidaycandles.object": [
         "/apexDescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "Pretty candles.",
       "Por": "Velas bonitas."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/holiday/holidaycandles/holidaycandles.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "They're nice candles."
     }
   },
   {

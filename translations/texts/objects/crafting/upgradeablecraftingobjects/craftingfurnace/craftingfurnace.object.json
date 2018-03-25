@@ -50,7 +50,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma fornalha básica perfeita para fundir minérios."
+    ],
     "Files": {
       "objects/crafting/upgradeablecraftingobjects/craftingfurnace/craftingfurnace.object": [
         "/avianDescription",
@@ -89,7 +91,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Um fornalha de fundição. Parece quente."
+    ],
     "Files": {
       "objects/crafting/upgradeablecraftingobjects/craftingfurnace/craftingfurnace.object": [
         "/humanDescription",
@@ -111,6 +115,18 @@
     "Texts": {
       "Eng": "A very hot, imposing, industrial furnace. I can make stronger materials with this.",
       "Por": "Uma fornalha industrial muito quente. Eu posso fazer materiais mais fortes com isso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/upgradeablecraftingobjects/craftingfurnace/craftingfurnace.object": [
+        "/upgradeStages/2/itemSpawnParameters/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amazed. This atomic furnace is advanced enough to combine ores into alloys.",
+      "Por": "Espantado. Esta fornalha atômica é suficientemente avançada para combinar minérios em ligas."
     }
   },
   {
@@ -262,6 +278,31 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/crafting/upgradeablecraftingobjects/craftingfurnace/craftingfurnace.object": [
+        "/glitchDescription",
+        "/upgradeStages/0/itemSpawnParameters/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. This furnace is the perfect temperature for smelting basic ores",
+      "Por": "Impressionado. Este fornalha tem a temperatura ideal para a fundição de minérios básicos"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/upgradeablecraftingobjects/craftingfurnace/craftingfurnace.object": [
+        "/upgradeStages/1/itemSpawnParameters/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased. The furnace is the perfect temperature for creating titanium and stronger alloys.",
+      "Por": "Satisfeito. A fornalha está na temperatura ideal para a criação de titânio e ligas mais fortes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/upgradeablecraftingobjects/craftingfurnace/craftingfurnace.object": [
         "/upgradeStages/2/itemSpawnParameters/floranDescription"
       ]
     },
@@ -280,17 +321,6 @@
     "Texts": {
       "Eng": "The atomic furnace is used to turn ores and other materials into crafting ingredients.",
       "Por": "A fornalha atômica é usada para transformar minérios e outros materiais em ingredientes de fabricação."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/crafting/upgradeablecraftingobjects/craftingfurnace/craftingfurnace.object": [
-        "/upgradeStages/1/itemSpawnParameters/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The furnace is the perfect temperature for creating titanium and stronger alloys."
     }
   },
   {
@@ -333,29 +363,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/crafting/upgradeablecraftingobjects/craftingfurnace/craftingfurnace.object": [
-        "/upgradeStages/2/itemSpawnParameters/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This atomic furnace is advanced enough to combine ores into alloys."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/crafting/upgradeablecraftingobjects/craftingfurnace/craftingfurnace.object": [
-        "/glitchDescription/glitchEmotedText",
-        "/upgradeStages/0/itemSpawnParameters/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This furnace is the perfect temperature for smelting basic ores"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/crafting/upgradeablecraftingobjects/craftingfurnace/craftingfurnace.object": [
         "/description"
       ]
     },
@@ -389,7 +396,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "^orange;Fornalha Primitiva^white;"
+    ],
     "Files": {
       "objects/crafting/upgradeablecraftingobjects/craftingfurnace/craftingfurnace.object": [
         "/shortdescription",

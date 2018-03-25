@@ -30,7 +30,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Escuro e frio ao toque, esses tijolos parecem aspirar o calor da sala."
+    ],
     "Files": {
       "items/materials/tombbrick4.matitem": [
         "/description"
@@ -63,15 +65,15 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/tombbrick4.matitem": [
-        "/glitchdescription/glitchEmotedText"
+        "/glitchdescription"
       ],
       "tiles/materials/tombbrick4.material": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "These large bricks are not uniform in size.",
-      "Por": "Esses tijolos grandes não são uniformes em tamanho."
+      "Eng": "Unimpressed. These large bricks are not uniform in size.",
+      "Por": "Não impressionado. Estes tijolos grandes não são uniformes em tamanho."
     }
   }
 ]

@@ -3,6 +3,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/bardoor2/bardoor2sideways.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Concerned. These sharp metal bars seem dangerous.",
+      "Por": "Preocupado. Essas barras de metal afiadas parecem perigosas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/bardoor2/bardoor2sideways.object": [
         "/avianDescription"
       ]
     },
@@ -57,17 +69,6 @@
     "Texts": {
       "Eng": "Solid iron. It may not be pretty but it keeps out unwanted guests.",
       "Por": "Ferro sólido. Pode não ser bonito, mas mantém pra fora hóspedes indesejados."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avian/bardoor2/bardoor2sideways.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "These sharp metal bars seem dangerous."
     }
   },
   {

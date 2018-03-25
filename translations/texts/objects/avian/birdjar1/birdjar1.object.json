@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/birdjar1/birdjar1.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. The material is brittle and easy to break.",
+      "Por": "Observador. O material é frágil e fácil de quebrar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/birdjar1/birdjar1.object": [
         "/apexDescription"
       ]
     },
@@ -45,17 +57,6 @@
     "Texts": {
       "Eng": "The markings on this jar are no longer discernible. It may contain something of use, however.",
       "Por": "As marcas neste jarro já não são perceptíveis. Pode conter algo de uso, no entanto."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avian/birdjar1/birdjar1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The material is brittle and easy to break."
     }
   },
   {

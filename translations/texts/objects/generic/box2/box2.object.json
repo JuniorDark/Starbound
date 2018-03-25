@@ -63,6 +63,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/box2/box2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Interested. These metal brackets have made this box significantly stronger.",
+      "Por": "Interessado. Estes suportes de metal tornaram esta caixa significativamente mais forte."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/box2/box2.object": [
         "/floranDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "Secure Wooden Crate",
       "Por": "Secure Wooden Crate"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/box2/box2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "These metal brackets have made this box significantly stronger."
     }
   },
   {

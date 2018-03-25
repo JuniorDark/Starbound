@@ -27,24 +27,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "tiles/materials/throwingblock.material": [
-        "/novakidDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Some blocks were just meant for tossin'",
-      "Por": "Alguns blocos que só foram feitos para jogar."
+      "Eng": "Interested. What force holds this block in place?",
+      "Por": "Interessado. O que faz este bloco ficar no lugar?"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "tiles/materials/throwingblock.material": [
-        "/glitchDescription/glitchEmotedText"
+        "/novakidDescription"
       ]
     },
     "Texts": {
-      "Eng": "What force holds this block in place?",
-      "Por": "Que força mantém este bloco no lugar?"
+      "Eng": "Some blocks were just meant for tossin'",
+      "Por": "Alguns blocos que só foram feitos para jogar."
     }
   }
 ]

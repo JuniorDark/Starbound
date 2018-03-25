@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/birdtable/birdtable.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. This table is stained with many different foods.",
+      "Por": "Observador. Esta mesa está manchada com muitos alimentos diferentes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/birdtable/birdtable.object": [
         "/floranDescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "The temple guardians would eat from this table. The carvings give thanks to Kluex for his bounty.",
       "Por": "Os guardiões do templo comeriam nesta mesa. As gravuras dar graças a Kluex por sua generosidade."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avian/birdtable/birdtable.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This table is stained with many different foods."
     }
   }
 ]

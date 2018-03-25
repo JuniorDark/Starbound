@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/rusticoven/rusticoven.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Informative. The bricks reflect the heat, cooking quickly and evenly.",
+      "Por": "Informativo. Os tijolos refletem o calor, cozinhando rapidamente e uniformemente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/rusticoven/rusticoven.object": [
         "/shortdescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "Ssstone oven cook meat good.",
       "Por": "Forno de pedra cozinha carne boa."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/rusticoven/rusticoven.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The bricks reflect the heat, cooking quickly and evenly."
     }
   },
   {

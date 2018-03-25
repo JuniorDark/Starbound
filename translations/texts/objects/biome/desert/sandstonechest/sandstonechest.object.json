@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/desert/sandstonechest/sandstonechest.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A chest made of sandstone."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/desert/sandstonechest/sandstonechest.object": [
         "/description"
       ]
     },
@@ -80,6 +69,18 @@
     "Texts": {
       "Eng": "Maybe this chest came from a sandcastle.",
       "Por": "Talvez este baú veio de um castelo de areia."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/desert/sandstonechest/sandstonechest.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. A chest made of sandstone.",
+      "Por": "Observador. Um baú feito de arenito."
     }
   },
   {

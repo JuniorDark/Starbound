@@ -39,7 +39,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/bathroomurinal/bathroomurinal.object": [
-        "/glitchDescription/glitchEmotedText",
         "/humanDescription"
       ]
     },
@@ -94,6 +93,18 @@
     "Texts": {
       "Eng": "I'm not sure what this is.",
       "Por": "Eu não sei o que é isso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/bathroomurinal/bathroomurinal.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impassive. A urinal.",
+      "Por": "Impassível. Um mictório."
     }
   }
 ]

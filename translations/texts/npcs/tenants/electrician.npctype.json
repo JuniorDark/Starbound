@@ -3,6 +3,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/tenants/electrician.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eager. I love maintaining circuits and electronics! It's a job AND a hobby.",
+      "Por": "Ansioso. Eu amo manutenção de circuitos e eletrônica! É um trabalho e um hobby."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/electrician.npctype": [
         "/scriptConfig/dialog/converse/hylotl/default/1"
       ]
     },
@@ -87,42 +99,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/tenants/electrician.npctype": [
-        "/scriptConfig/dialog/converse/glitch/default/2/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I am glad I learned how electronics work - I find circuits fascinating.",
-      "Por": "Fico feliz por ter aprendido como funciona a eletrônica - acho fascinantes os circuitos."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "npcs/tenants/electrician.npctype": [
-        "/scriptConfig/dialog/converse/glitch/default/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I came to fix these circuits, but they look fine to me.",
-      "Por": "Eu vim para consertar esses circuitos, mas eles parecem bem para mim."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "npcs/tenants/electrician.npctype": [
-        "/scriptConfig/dialog/converse/glitch/default/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I love maintaining circuits and electronics! It's a job AND a hobby.",
-      "Por": "Eu amo consertar circuitos e eletrônicos! É um trabalho e um hobby."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "npcs/tenants/electrician.npctype": [
         "/scriptConfig/dialog/converse/human/default/0"
       ]
     },
@@ -177,6 +153,30 @@
     "Texts": {
       "Eng": "My electrician's helmet is making my feathers itchy.",
       "Por": "Meu elmo de eletricista está fazendo minhas penas coçar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/electrician.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased. I am glad I learned how electronics work - I find circuits fascinating.",
+      "Por": "Satisfeito. Estou feliz que eu aprendi como eletrônicos funcionam - Acho circuitos fascinantes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/electrician.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Surprised. I came to fix these circuits, but they look fine to me.",
+      "Por": "Surpresa. Vim para consertar estes circuitos, mas eles parecem bem para mim."
     }
   },
   {

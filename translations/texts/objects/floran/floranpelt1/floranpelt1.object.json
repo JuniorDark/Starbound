@@ -63,23 +63,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/floranpelt1/floranpelt1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I have heard that the creature this came from was over 200 years old."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/floran/floranpelt1/floranpelt1.object": [
         "/shortdescription"
       ]
     },
     "Texts": {
       "Eng": "Large Brown Pelt",
       "Por": "Large Brown Pelt"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/floranpelt1/floranpelt1.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sceptical. I have heard that the creature this came from was over 200 years old.",
+      "Por": "Cético. Ouvi dizer que a criatura de que isto veio tinha mais de 200 anos de idade."
     }
   },
   {

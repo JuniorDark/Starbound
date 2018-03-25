@@ -18,6 +18,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/rock14.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/rock14.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Interested. Mining this granite will only produce cobblestone.",
+      "Por": "Interessado. Mineração deste granito só irá produzir paralelepípedos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rock14.matitem": [
         "/novakiddescription"
       ],
       "tiles/materials/rock14.material": [
@@ -27,21 +42,6 @@
     "Texts": {
       "Eng": "Looks t'me like some basic granite.",
       "Por": "Parece-me um pouco de granito básico."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/rock14.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/rock14.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Mining this granite will only produce cobblestone.",
-      "Por": "Minerar este granito só produzirá pedregulho."
     }
   },
   {

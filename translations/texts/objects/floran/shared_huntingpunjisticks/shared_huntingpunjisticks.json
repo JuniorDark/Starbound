@@ -48,6 +48,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/huntingpunjisticks1/huntingpunjisticks1.object": [
+        "/glitchDescription"
+      ],
+      "objects/floran/huntingpunjisticks2/huntingpunjisticks2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nervous. These sharpened spikes could impale even a Glitch.",
+      "Por": "Nervoso. Estes espinhos afiados poderiam empalar até mesmo um Glitch."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/huntingpunjisticks1/huntingpunjisticks1.object": [
         "/description"
       ],
       "objects/floran/huntingpunjisticks2/huntingpunjisticks2.object": [
@@ -102,20 +117,6 @@
     "Texts": {
       "Eng": "The tips of these sticks are mighty sharp.",
       "Por": "As pontas destas varas são muito afiadas."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/floran/huntingpunjisticks1/huntingpunjisticks1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/floran/huntingpunjisticks2/huntingpunjisticks2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "These sharpened spikes could impale even a Glitch."
     }
   }
 ]

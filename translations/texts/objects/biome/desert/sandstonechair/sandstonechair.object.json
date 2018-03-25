@@ -39,23 +39,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/desert/sandstonechair/sandstonechair.object": [
-        "/floranDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Floran wriggle, chair crumble.",
-      "Por": "Floran se contorce, cadeira desmorona."
+      "Eng": "Appraising. If two people were to sit on this chair together, the sandstone might collapse.",
+      "Por": "Avaliação. Se duas pessoas se sentassem nesta cadeira juntas, o arenito poderia desmoronar."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/desert/sandstonechair/sandstonechair.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/floranDescription"
       ]
     },
     "Texts": {
-      "Eng": "If two people were to sit on this chair together, the sandstone might collapse."
+      "Eng": "Floran wriggle, chair crumble.",
+      "Por": "Floran se contorce, cadeira desmorona."
     }
   },
   {

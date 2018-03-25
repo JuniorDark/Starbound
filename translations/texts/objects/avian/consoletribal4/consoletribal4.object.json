@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/consoletribal4/consoletribal4.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. This crystal based technology is not understood.",
+      "Por": "Curioso. Esta tecnologia baseada em cristal não é compreendida."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/consoletribal4/consoletribal4.object": [
         "/hylotlDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "This control panel seems old, yet I don't understand the technology.",
       "Por": "Este painel de controle parece velho, contudo eu não entendo a tecnologia."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avian/consoletribal4/consoletribal4.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This crystal based technology is not understood."
     }
   },
   {

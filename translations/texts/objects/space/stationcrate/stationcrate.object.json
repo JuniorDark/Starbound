@@ -51,12 +51,23 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/space/stationcrate/stationcrate.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. This simple industrial crate is designed for space transport.",
+      "Por": "Observador. Esta caixa industrial simples é projetada para o transporte espacial."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/stationcrate/stationcrate.object": [
         "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "Station Crate",
-      "Por": "Station Crate"
+      "Eng": "Station Crate"
     }
   },
   {
@@ -81,18 +92,6 @@
     "Texts": {
       "Eng": "This metal crate could hold goods quite securely.",
       "Por": "Esta caixa de metal poderia manter os produtos com bastante segurança."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/space/stationcrate/stationcrate.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This simple industrial crate is designed for space transport.",
-      "Por": "Esta caixa industrial simples é projetada para o transporte espacial."
     }
   },
   {

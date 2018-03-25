@@ -4,7 +4,6 @@
     "Files": {
       "plants/bushes/ground/glowbush/glowbush.bush": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ]
     },
@@ -23,6 +22,18 @@
     "Texts": {
       "Eng": "Fleshhh!",
       "Por": "Carne!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/glowbush/glowbush.bush": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Revulsion. A gross, fleshy protrusion.",
+      "Por": "Desgosto. Uma saliência grande e suculenta."
     }
   }
 ]

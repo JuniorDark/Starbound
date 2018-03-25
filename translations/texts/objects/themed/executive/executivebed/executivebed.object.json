@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/themed/executive/executivebed/executivebed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Blissful. Truly, there is no better bed than this.",
+      "Por": "Feliz. Realmente, não há cama melhor do que isso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/executive/executivebed/executivebed.object": [
         "/shortdescription"
       ]
     },
@@ -93,18 +105,6 @@
     "Texts": {
       "Eng": "This has to be the best darn bed I've slept in.",
       "Por": "Este tem de ser a melhor cama que eu já dormi."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/themed/executive/executivebed/executivebed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Truly, there is no better bed than this.",
-      "Por": "Realmente, não há cama melhor do que isso."
     }
   }
 ]

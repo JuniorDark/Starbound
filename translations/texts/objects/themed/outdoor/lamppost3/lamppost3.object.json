@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/themed/outdoor/lamppost3/lamppost3.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. What a tall and bright lamp post.",
+      "Por": "Observador. Que poste de luz alto e brilhante."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/outdoor/lamppost3/lamppost3.object": [
         "/floranDescription"
       ]
     },
@@ -93,18 +105,6 @@
     "Texts": {
       "Eng": "Two lights, like eyes staring at me from above.",
       "Por": "Duas luzes, como olhos olhando para mim de cima."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/themed/outdoor/lamppost3/lamppost3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "What a tall and bright lamp post.",
-      "Por": "Que poste de luz alto e brilhante."
     }
   }
 ]

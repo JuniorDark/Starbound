@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/novakid/frontiergramophone/frontiergramophone.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intrigued. This device turns a disc that inexplicably produces pleasant music.",
+      "Por": "Intrigado. Este dispositivo transforma um disco que inexplicavelmente produz música agradável."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/novakid/frontiergramophone/frontiergramophone.object": [
         "/apexDescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "The song this is playin' is a real ace-high toe tapper!",
       "Por": "A música que está tocando é um verdadeiro atiçador de dedo alto!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/novakid/frontiergramophone/frontiergramophone.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This device turns a disc that inexplicably produces pleasant music."
     }
   },
   {

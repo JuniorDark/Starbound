@@ -52,11 +52,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/steamspring/steamclock/steamclock.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Is that clock displaying the correct time?"
+      "Eng": "Doubtful. Is that clock displaying the correct time?",
+      "Por": "Duvidoso. Esse relógio está exibindo a hora certa?"
     }
   },
   {

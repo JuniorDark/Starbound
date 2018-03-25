@@ -63,6 +63,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/deathwarningmodern/deathwarningmodern.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analytical. The sign is a warning which I should heed lest I wish to encounter danger.",
+      "Por": "Analítico. A placa é um aviso que eu deveria prestar atenção para que eu não queira encontrar perigo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/deathwarningmodern/deathwarningmodern.object": [
         "/shortdescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "Floran sssign for excitement!",
       "Por": "Placa Floran para excitação!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/mission/deathwarningmodern/deathwarningmodern.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The sign is a warning which I should heed lest I wish to encounter danger."
     }
   },
   {

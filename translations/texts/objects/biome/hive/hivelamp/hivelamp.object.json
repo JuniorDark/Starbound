@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/hive/hivelamp/hivelamp.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bewildered. What is causing this lamp to glow?",
+      "Por": "Confuso. O que está fazendo esta lâmpada brilhar?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/hive/hivelamp/hivelamp.object": [
         "/avianDescription"
       ]
     },
@@ -92,17 +104,6 @@
     "Texts": {
       "Eng": "The calming natural glow of this light is at odds with its grotesque design.",
       "Por": "O brilho natural calmante desta luz está em desacordo com o seu design grotesco."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/hive/hivelamp/hivelamp.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "What is causing this lamp to glow?"
     }
   }
 ]

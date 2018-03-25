@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/floranbench/floranbench.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sceptical. There is logic in the construction of this bench that one would assume is beyond the Floran.",
+      "Por": "Cético. Há lógica na construção deste banco que se supõe que está além dos Floran."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/floranbench/floranbench.object": [
         "/apexDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "The wood is strong. It's as if it's still growing.",
       "Por": "A madeira é forte. É como se ainda estivesse crescendo."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/floran/floranbench/floranbench.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "There is logic in the construction of this bench that one would assume is beyond the Floran."
     }
   },
   {

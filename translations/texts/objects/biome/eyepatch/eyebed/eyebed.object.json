@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/eyepatch/eyebed/eyebed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. Would the eyes be watching over you, or simply just watching you?",
+      "Por": "Curioso. Será que os olhos estão olhando para você, ou simplesmente apenas observando você?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/eyepatch/eyebed/eyebed.object": [
         "/shortdescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "Vulgar craftsmanship. The dead are not for sleeping on.",
       "Por": "Artesanato vulgar. Os mortos não são para dormir."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/eyepatch/eyebed/eyebed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Would the eyes be watching over you, or simply just watching you?"
     }
   }
 ]

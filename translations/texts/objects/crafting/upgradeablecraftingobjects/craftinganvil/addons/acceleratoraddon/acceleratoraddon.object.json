@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/crafting/upgradeablecraftingobjects/craftinganvil/addons/acceleratoraddon/acceleratoraddon.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excited. Using this module will add additional ranged equipment and armour to the replicator.",
+      "Por": "Animado. Usando este módulo irá adicionar equipamento de ataque à distância e armadura adicional para o replicador."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/upgradeablecraftingobjects/craftinganvil/addons/acceleratoraddon/acceleratoraddon.object": [
         "/apexDescription"
       ]
     },
@@ -45,17 +57,6 @@
     "Texts": {
       "Eng": "Using this adds extra ranged equipment and armour to the replicator!",
       "Por": "Usando isso acrescenta equipamentos de ataque à distância extra e armadura para o replicator!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/crafting/upgradeablecraftingobjects/craftinganvil/addons/acceleratoraddon/acceleratoraddon.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Using this module will add additional ranged equipment and armour to the replicator."
     }
   },
   {

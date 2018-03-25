@@ -15,17 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/graffiti-turnback/turnback.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I should do as the graffiti says. Graffiti cannot lie, it's impossible."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/mission/graffiti-turnback/turnback.object": [
         "/novakidDescription"
       ]
     },
@@ -56,6 +45,18 @@
     "Texts": {
       "Eng": "There's something about this sign that makes me want to persevere.",
       "Por": "Há algo sobre essa placa que me faz querer perseverar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/graffiti-turnback/turnback.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trusting. I should do as the graffiti says. Graffiti cannot lie, it's impossible.",
+      "Por": "Confiar. Eu deveria fazer o que o graffiti diz. Graffiti não pode mentir, é impossível."
     }
   },
   {

@@ -27,18 +27,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/spawner/spawners/spawner_floran.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I always enjoy interacting with the plants.",
-      "Por": "Eu sempre gosto de interagir com as plantas."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/spawner/spawners/spawner_floran.object": [
         "/avianDescription"
       ]
     },
@@ -57,6 +45,18 @@
     "Texts": {
       "Eng": "Let's get some Florans in here and get the party started!",
       "Por": "Vamos pegar alguns Florans aqui e começar a festa!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/spawner/spawners/spawner_floran.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased. I always enjoy interacting with the plants.",
+      "Por": "Satisfeito. Eu sempre gosto de interagir com as plantas."
     }
   },
   {

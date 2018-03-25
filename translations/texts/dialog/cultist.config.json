@@ -215,7 +215,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Este não é o seu dia!"
+    ],
     "Files": {
       "dialog/cultist.config": [
         "/attack/human/apex/0",

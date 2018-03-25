@@ -87,23 +87,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/scorchedcity/scorchedcitychair/scorchedcitychair.object": [
-        "/shortdescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Stylish Chair",
-      "Por": "Stylish Chair"
+      "Eng": "Pleased. This chair looks sturdy enough to support most Glitch.",
+      "Por": "Satisfeito. Esta cadeira parece robusta o suficiente para suportar a maioria dos Glitch."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/scorchedcity/scorchedcitychair/scorchedcitychair.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "This chair looks sturdy enough to support most Glitch."
+      "Eng": "Stylish Chair",
+      "Por": "Stylish Chair"
     }
   }
 ]

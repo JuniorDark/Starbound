@@ -51,17 +51,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/sarcobunny/sarcobunny.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Despite the design of the sarcophagus, there is an Avian inside."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avian/sarcobunny/sarcobunny.object": [
         "/description"
       ]
     },
@@ -80,6 +69,18 @@
     "Texts": {
       "Eng": "Long earsss, long dead.",
       "Por": "Orelhas compridasss, morto há muito tempo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/sarcobunny/sarcobunny.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. Despite the design of the sarcophagus, there is an Avian inside.",
+      "Por": "Observador. Apesar do design do sarcófago, há um Avian dentro."
     }
   },
   {

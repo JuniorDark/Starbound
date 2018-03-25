@@ -75,6 +75,30 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/stonecave/ceilingstalactite1/ceilingstalactite1.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/stonecave/ceilingstalactite2/ceilingstalactite2.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/stonecave/ceilingstalactite3/ceilingstalactite3.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/stonecave/ceilingstalactite4/ceilingstalactite4.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/stonecave/ceilingstalactite5/ceilingstalactite5.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cautious. Stalactite can fall and penetrate Glitch shell.",
+      "Por": "Cauteloso. Estalactite pode cair e penetrar lataria Glitch."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/stonecave/ceilingstalactite1/ceilingstalactite1.object": [
         "/humanDescription"
       ],
       "objects/biome/stonecave/ceilingstalactite2/ceilingstalactite2.object": [
@@ -141,29 +165,6 @@
     "Texts": {
       "Eng": "Ssstalactite.",
       "Por": "Essstalactite"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/stonecave/ceilingstalactite1/ceilingstalactite1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/stonecave/ceilingstalactite2/ceilingstalactite2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/stonecave/ceilingstalactite3/ceilingstalactite3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/stonecave/ceilingstalactite4/ceilingstalactite4.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/stonecave/ceilingstalactite5/ceilingstalactite5.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Stalactite can fall and penetrate Glitch shell."
     }
   },
   {

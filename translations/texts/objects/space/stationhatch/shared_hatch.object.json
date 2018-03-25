@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma porta bastante impressionante. Surpreendentemente, eu me encontro aprovando isso."
+    ],
     "Files": {
       "objects/space/stationhatch/stationhatch.object": [
         "/hylotlDescription"
@@ -15,7 +17,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma elegante porta de metal. Eu aprecio seu design pontudo."
+    ],
     "Files": {
       "objects/space/stationhatch/stationhatch.object": [
         "/apexDescription"
@@ -26,11 +30,13 @@
     },
     "Texts": {
       "Eng": "A sleek metal hatch. I appreciate its pointed design.",
-      "Por": "Uma escotilha metálica. Eu aprecio seu design pontudo."
+      "Por": "Uma escotilha metálica lustrosa. Eu aprecio seu design pontudo."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Porta parece afiada. Floran consssiderando porta como arma potencial."
+    ],
     "Files": {
       "objects/space/stationhatch/stationhatch.object": [
         "/floranDescription"
@@ -45,22 +51,26 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Remanescente. O design angular desta porta me lembra os tradicionais estandartes Glitch."
+    ],
     "Files": {
       "objects/space/stationhatch/stationhatch.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/space/stationhatch/stationrailhatch.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "The angled design of this hatch reminds me of traditional Glitch banners.",
-      "Por": "O design angular desta escotilha me lembra os tradicionais estandartes Glitch."
+      "Eng": "Reminiscent. The angled design of this hatch reminds me of traditional Glitch banners.",
+      "Por": "Remanescente. O design angular desta escotilha me lembra os tradicionais estandartes Glitch."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Esta porta provavelmente poderia levar alguns golpes, para dizer o mínimo."
+    ],
     "Files": {
       "objects/space/stationhatch/stationhatch.object": [
         "/humanDescription"
@@ -75,7 +85,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Esta porta aqui parece que pode durar uma tempestade ou duas."
+    ],
     "Files": {
       "objects/space/stationhatch/stationhatch.object": [
         "/novakidDescription"
@@ -90,7 +102,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Esta é uma porta de metal bem fabricada!"
+    ],
     "Files": {
       "objects/space/stationhatch/stationhatch.object": [
         "/avianDescription"

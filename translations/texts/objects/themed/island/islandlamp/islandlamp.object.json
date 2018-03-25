@@ -3,6 +3,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/themed/island/islandlamp/islandlamp.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Calm. This light makes me feel sleepy.",
+      "Por": "Calmo. Esta luz me faz sentir sonolento."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/island/islandlamp/islandlamp.object": [
         "/floranDescription"
       ]
     },
@@ -93,18 +105,6 @@
     "Texts": {
       "Eng": "This lamp is scented! For what purpose?",
       "Por": "Esta lâmpada é perfumada! Para qual propósito?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/themed/island/islandlamp/islandlamp.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This light makes me feel sleepy.",
-      "Por": "Esta luz me faz sentir sonolento."
     }
   }
 ]

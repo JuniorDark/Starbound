@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Papel de parede brega e barato."
+    ],
     "Files": {
       "items/materials/cheapwallpaper.matitem": [
         "/description"
@@ -48,15 +50,15 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/cheapwallpaper.matitem": [
-        "/glitchdescription/glitchEmotedText"
+        "/glitchdescription"
       ],
       "tiles/materials/cheapwallpaper.material": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "This wall paper is overwhelmingly gaudy.",
-      "Por": "Este papel de parede é impressionantemente berrante."
+      "Eng": "Unsettled. This wall paper is overwhelmingly gaudy.",
+      "Por": "Inquieto. Este papel de parede é esmagadoramente berrante."
     }
   },
   {

@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/novakid/wantedposter/wantedposter.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. This old poster offered a bounty for catching a criminal - I wonder if they were ever caught?",
+      "Por": "Curioso. Este cartaz antigo ofereceu uma recompensa por pegar um criminoso - eu me pergunto se eles foram pegos?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/novakid/wantedposter/wantedposter.object": [
         "/floranDescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "This bounty poster is very old. I wonder if the criminal on it was ever caught?",
       "Por": "Este cartaz de recompensa é muito antigo. Pergunto-me se o criminoso já foi capturado?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/novakid/wantedposter/wantedposter.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This old poster offered a bounty for catching a criminal - I wonder if they were ever caught?"
     }
   },
   {

@@ -3,8 +3,19 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/wired/logic/timer5s.object": [
-        "/description",
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neutral. The timer output alternates between on and off every 5 seconds.",
+      "Por": "Neutro. A saída do temporizador alterna entre ligado e desligado a cada 5 segundos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/logic/timer5s.object": [
+        "/description"
       ]
     },
     "Texts": {

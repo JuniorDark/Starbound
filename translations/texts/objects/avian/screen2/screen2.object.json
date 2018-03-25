@@ -39,17 +39,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/screen2/screen2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "It appears to be a ship in orbit around a rather large planet."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avian/screen2/screen2.object": [
         "/hylotlDescription"
       ]
     },
@@ -68,6 +57,18 @@
     "Texts": {
       "Eng": "It's a spaceship orbiting a planet.",
       "Por": "É uma nave espacial orbitando um planeta."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/screen2/screen2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. It appears to be a ship in orbit around a rather large planet.",
+      "Por": "Atento. Parece ser uma nave em órbita em torno de um planeta bastante grande."
     }
   },
   {

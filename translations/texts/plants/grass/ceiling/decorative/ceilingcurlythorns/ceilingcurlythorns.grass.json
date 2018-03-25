@@ -4,13 +4,24 @@
     "Files": {
       "plants/grass/ceiling/decorative/ceilingcurlythorns/ceilingcurlythorns.grass": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ]
     },
     "Texts": {
       "Eng": "Curly thorns.",
       "Por": "Espinhos encaracolado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ceiling/decorative/ceilingcurlythorns/ceilingcurlythorns.grass": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. Curly thorns.",
+      "Por": "Declaração. espinhos encaracolado."
     }
   }
 ]

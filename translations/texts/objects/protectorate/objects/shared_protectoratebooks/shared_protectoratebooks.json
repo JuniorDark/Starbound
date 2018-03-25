@@ -63,6 +63,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/protectorate/objects/protectoratebooks/protectoratebooks.object": [
+        "/glitchDescription"
+      ],
+      "objects/protectorate/objects/protectoratebooks2/protectoratebooks2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neutral. Some books about the history of the Protectorate.",
+      "Por": "Neutro. Alguns livros sobre a história do Protetorado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/protectorate/objects/protectoratebooks/protectoratebooks.object": [
         "/shortdescription"
       ],
       "objects/protectorate/objects/protectoratebooks2/protectoratebooks2.object": [
@@ -72,20 +87,6 @@
     "Texts": {
       "Eng": "Protectorate Books",
       "Por": "Protectorate Books"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/protectorate/objects/protectoratebooks/protectoratebooks.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/protectorate/objects/protectoratebooks2/protectoratebooks2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Some books about the history of the Protectorate."
     }
   },
   {

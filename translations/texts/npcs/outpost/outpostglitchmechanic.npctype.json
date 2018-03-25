@@ -3,36 +3,25 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/outpost/outpostglitchmechanic.npctype": [
-        "/scriptConfig/dialog/converse/default/default/0"
+        "/scriptConfig/dialog/converse/default/default/0",
+        "/scriptConfig/dialog/converse/glitch/default/0"
       ]
     },
     "Texts": {
       "Eng": "Boastful. We Glitch are used to fixing machinery far more complex than the stuff you see here.",
-      "Por": "Orgulhoso. Nós Glitch estamos acostumados a consertar máquinas muito mais complexas do que as coisas que você vê aqui."
+      "Por": "Prepotente. Nós Glitch somos utilizados para consertar máquinas muito mais complexas do que as coisas que você vê aqui."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "npcs/outpost/outpostglitchmechanic.npctype": [
-        "/scriptConfig/dialog/converse/glitch/glitch/0/glitchEmotedText"
+        "/scriptConfig/dialog/converse/glitch/glitch/0"
       ]
     },
     "Texts": {
-      "Eng": "How are you at fixing things up?",
-      "Por": "Como vai você em consertar as coisas?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "npcs/outpost/outpostglitchmechanic.npctype": [
-        "/scriptConfig/dialog/converse/glitch/default/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "We Glitch are used to fixing machinery far more complex than the stuff you see here.",
-      "Por": "Nós Glitch estamos acostumados a consertar máquinas muito mais complexas do que as coisas que você vê aqui."
+      "Eng": "Friendly. How are you at fixing things up?",
+      "Por": "Amigável. Como você está indo em consertar as coisas?"
     }
   }
 ]

@@ -33,6 +33,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/silverscrew.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/silverscrew.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Confused. What purpose could a screw this large serve?",
+      "Por": "Confuso. Que propósito poderia um parafuso grande sirvir?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/silverscrew.matitem": [
         "/florandescription"
       ],
       "tiles/materials/silverscrew.material": [
@@ -57,21 +72,6 @@
     "Texts": {
       "Eng": "Silver Screw",
       "Por": "Silver Screw"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/silverscrew.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/silverscrew.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "What purpose could a screw this large serve?",
-      "Por": "Para qual propósito poderia servir um parafuso tão grande?"
     }
   }
 ]

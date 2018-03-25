@@ -48,15 +48,15 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/geodestone.matitem": [
-        "/glitchdescription/glitchEmotedText"
+        "/glitchdescription"
       ],
       "tiles/materials/geodestone.material": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "There are tiny geode crystals inside this stone.",
-      "Por": "Há minúsculos cristais de geodos dentro dessa pedra."
+      "Eng": "Observant. There are tiny geode crystals inside this stone.",
+      "Por": "Atento. Existem minúsculos cristais de geodo dentro desta pedra."
     }
   },
   {

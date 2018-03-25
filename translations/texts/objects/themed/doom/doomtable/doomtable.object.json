@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/themed/doom/doomtable/doomtable.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disarmed. Glancing under this table, a giant eye blinks back.",
+      "Por": "Desarmado. Olhando sob esta mesa, um olho gigante pisca de volta."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/doom/doomtable/doomtable.object": [
         "/shortdescription"
       ]
     },
@@ -45,18 +57,6 @@
     "Texts": {
       "Eng": "Floran think this table iss as hungry as Floran.",
       "Por": "Floran acha que esta mesa está com tanta fome como Floran."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/themed/doom/doomtable/doomtable.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Glancing under this table, a giant eye blinks back.",
-      "Por": "Olhar pra essa mesa, um olho gigante pisca de volta."
     }
   },
   {

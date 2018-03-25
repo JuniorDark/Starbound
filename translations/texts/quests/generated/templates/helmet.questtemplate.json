@@ -27,18 +27,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/helmet.questtemplate": [
-        "/scriptConfig/generatedText/text/default/glitch/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "All that is left is to deliver the ^orange;<clothingIngredients>^green; to ^orange;<friend>^white;, so <friend.pronoun.subject> can craft me ^orange;something to wear.",
-      "Por": "Tudo o que resta é entregar ^orange;<clothingIngredients>^green; para ^orange;<friend>^white;, então <friend.pronoun.subject> pode me criar ^orange;algo para vestir."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/helmet.questtemplate": [
         "/scriptConfig/generatedText/text/default/floran/0"
       ]
     },
@@ -51,12 +39,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/helmet.questtemplate": [
-        "/scriptConfig/generatedText/text/default/glitch/1/glitchEmotedText"
+        "/scriptConfig/generatedText/text/default/glitch/0"
       ]
     },
     "Texts": {
-      "Eng": "Can you ^green;take the ^orange;<clothingIngredients>^green; to ^orange;<friend>,^white; so <friend.pronoun.subject> can make me something to wear?",
-      "Por": "Você poderia ^green;levar o ^orange;<clothingIngredients>^green; para ^orange;<friend>,^white; então <friend.pronoun.subject> pode me fazer algo para vestir?"
+      "Eng": "Confident. All that is left is to deliver the ^orange;<clothingIngredients>^green; to ^orange;<friend>^white;, so <friend.pronoun.subject> can craft me ^orange;something to wear.",
+      "Por": "Confiante. Tudo o que resta é entregar ^orange;<clothingIngredients>^green; para ^orange;<friend>^white;, então <friend.pronoun.subject> pode me criar ^orange;algo para vestir."
     }
   },
   {
@@ -69,6 +57,18 @@
     "Texts": {
       "Eng": "Doesn't Floran look <adjective> now? Thanksss for your help!",
       "Por": "Floran não parece <adjective> agora? Obrigado pela sua ajuda!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/helmet.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eager. Can you ^green;take the ^orange;<clothingIngredients>^green; to ^orange;<friend>,^white; so <friend.pronoun.subject> can make me something to wear?",
+      "Por": "Ansioso. Você poderia ^green;levar o ^orange;<clothingIngredients>^green; para ^orange;<friend>,^white; então <friend.pronoun.subject> pode me fazer algo para vestir?"
     }
   },
   {
@@ -99,24 +99,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/helmet.questtemplate": [
-        "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I really look <adjective> now, don't I? Thank you for all your help.",
-      "Por": "Eu realmente pareço <adjective> agora, não é? Obrigado por sua ajuda."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/helmet.questtemplate": [
         "/scriptConfig/generatedText/failureText/default/0"
       ]
     },
     "Texts": {
       "Eng": "I was unable to help <questGiver> get something new to wear. I like how <questGiver> looks already.",
       "Por": "Eu fui incapaz de ajudar <questGiver> obter algo novo para vestir. Eu gosto de como <questGiver> esta."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/helmet.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. I really look <adjective> now, don't I? Thank you for all your help.",
+      "Por": "Impressionado. Eu realmente pareço <adjective> agora, não é? Obrigado por sua ajuda."
     }
   },
   {
@@ -159,12 +159,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/helmet.questtemplate": [
-        "/scriptConfig/generatedText/completionText/default/glitch/1/glitchEmotedText"
+        "/scriptConfig/generatedText/completionText/default/glitch/1"
       ]
     },
     "Texts": {
-      "Eng": "Now that I look <adjective>, our foes will think twice before challenging me!",
-      "Por": "Agora que pareço <adjective>, nossos inimigos vão pensar duas vezes antes de me desafiar!"
+      "Eng": "Pleased. Now that I look <adjective>, our foes will think twice before challenging me!",
+      "Por": "Satisfeito. Agora que pareço <adjective>, nossos inimigos vão pensar duas vezes antes de me desafiar!"
     }
   },
   {
@@ -271,8 +271,7 @@
       ]
     },
     "Texts": {
-      "Eng": "strong",
-      "Por": "forte"
+      "Eng": "strong"
     }
   }
 ]

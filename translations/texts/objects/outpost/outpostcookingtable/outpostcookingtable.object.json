@@ -27,8 +27,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/outpostcookingtable/outpostcookingtable.object": [
-        "/apexDescription",
-        "/glitchDescription/glitchEmotedText"
+        "/apexDescription"
       ]
     },
     "Texts": {
@@ -58,6 +57,18 @@
     "Texts": {
       "Eng": "Chic Cooking Table",
       "Por": "Chic Cooking Table"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostcookingtable/outpostcookingtable.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Delighted. A cooking table.",
+      "Por": "Satisfeito. Uma mesa de cozinhar."
     }
   },
   {

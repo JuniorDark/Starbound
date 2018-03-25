@@ -75,24 +75,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/spawner/spawners/spawner_avian.object": [
-        "/description"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Spawn your very own Avian villager!",
-      "Por": "Gere seu próprio aldeão Avian!"
+      "Eng": "Pondering. What would Kluex think about this?",
+      "Por": "Pensativo. O que Kluex pensaria sobre isso?"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/spawner/spawners/spawner_avian.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ]
     },
     "Texts": {
-      "Eng": "What would Kluex think about this?",
-      "Por": "O que Kluex pensaria sobre isso?"
+      "Eng": "Spawn your very own Avian villager!",
+      "Por": "Gere seu próprio aldeão Avian!"
     }
   }
 ]

@@ -63,23 +63,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/apexpiano/apexpiano.object": [
-        "/shortdescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Standard Issue Piano",
-      "Por": "Standard Issue Piano"
+      "Eng": "Observant. The mathematics behind this machine are relatively simple.",
+      "Por": "Atento. A matemática por trás desta máquina é relativamente simples."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/apexpiano/apexpiano.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "The mathematics behind this machine are relatively simple."
+      "Eng": "Standard Issue Piano",
+      "Por": "Standard Issue Piano"
     }
   },
   {

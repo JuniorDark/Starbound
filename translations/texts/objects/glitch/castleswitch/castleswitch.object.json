@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/castleswitch/castleswitch.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amused. The Glitch hide switches in crystals like these.",
+      "Por": "Divertido. Os Glitch escondem \t\r\ninterruptores em cristais como estes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/castleswitch/castleswitch.object": [
         "/shortdescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "Shiny crysstal, what do you do?",
       "Por": "Crisstal brilhante, o que você faz?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/glitch/castleswitch/castleswitch.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The Glitch hide switches in crystals like these."
     }
   },
   {

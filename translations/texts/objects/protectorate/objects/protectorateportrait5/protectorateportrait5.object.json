@@ -39,17 +39,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/protectorate/objects/protectorateportrait5/protectorateportrait5.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This Grand Protector looked very pleasant to be around."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/protectorate/objects/protectorateportrait5/protectorateportrait5.object": [
         "/hylotlDescription"
       ]
     },
@@ -80,6 +69,18 @@
     "Texts": {
       "Eng": "This past Grand Protector looks both old and pleasant.",
       "Por": "Este Grande Protetor passado parece velho e agradável."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/protectorate/objects/protectorateportrait5/protectorateportrait5.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welcoming. This Grand Protector looked very pleasant to be around.",
+      "Por": "Acolhedor. Este Grande Protetor parecia muito agradável estar por perto."
     }
   }
 ]

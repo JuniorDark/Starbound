@@ -4,13 +4,24 @@
     "Files": {
       "plants/bushes/ground/eyebush/eyebush.bush": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ]
     },
     "Texts": {
       "Eng": "A horrifying eyeball.",
       "Por": "Um olho apavorante."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/eyebush/eyebush.bush": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Revulsion. A horrifying eyeball.",
+      "Por": "Desgosto. Um olho apavorante."
     }
   },
   {

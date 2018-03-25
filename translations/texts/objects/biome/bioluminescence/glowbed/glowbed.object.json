@@ -63,6 +63,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/bioluminescence/glowbed/glowbed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Relaxed. This bed is emitting a low, calming light.",
+      "Por": "Descontraído. Esta cama está emitindo uma luz baixa e calmante."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/bioluminescence/glowbed/glowbed.object": [
         "/hylotlDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "These lights will make it easier to find this bed at night.",
       "Por": "Essas luzes farão mais fácil encontrar esta cama à noite."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/bioluminescence/glowbed/glowbed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This bed is emitting a low, calming light."
     }
   },
   {

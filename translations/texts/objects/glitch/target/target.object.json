@@ -39,23 +39,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/target/target.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Glitch practice archery with great skill."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/glitch/target/target.object": [
         "/humanDescription"
       ]
     },
     "Texts": {
       "Eng": "I'm surprised there isn't an arrow stuck in this target.",
       "Por": "Estou surpreso que não haja uma flecha presa neste alvo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/target/target.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Satisfied. Glitch practice archery with great skill.",
+      "Por": "Satisfeito. Glitch pratica tiro com arco com grande habilidade."
     }
   },
   {

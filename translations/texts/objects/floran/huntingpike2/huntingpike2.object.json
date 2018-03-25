@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/huntingpike2/huntingpike2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. The skull on this pike appears to be human.",
+      "Por": "Observador. O crânio nesta lança parece ser humano."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/huntingpike2/huntingpike2.object": [
         "/shortdescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "Skull sittin' on a pike, just ain't right.",
       "Por": "Crânio enfiado em uma lança, simplesmente não está certo."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/floran/huntingpike2/huntingpike2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The skull on this pike appears to be human."
     }
   },
   {

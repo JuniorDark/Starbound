@@ -3,18 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/themed/retroscifi/retroscifilight/retroscifilight.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A simple light with little personality.",
-      "Por": "Uma luz simples com pouca personalidade."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/themed/retroscifi/retroscifilight/retroscifilight.object": [
         "/apexDescription"
       ]
     },
@@ -105,6 +93,18 @@
     "Texts": {
       "Eng": "This ssspotlight is bright.",
       "Por": "Este holofote é brilhante."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/retroscifi/retroscifilight/retroscifilight.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unimpressed. A simple light with little personality.",
+      "Por": "Não impressionado. Uma luz simples com pouca personalidade."
     }
   }
 ]

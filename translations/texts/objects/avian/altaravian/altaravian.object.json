@@ -75,23 +75,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/altaravian/altaravian.object": [
-        "/hylotlDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "The red eyes remind me of my brethren.",
-      "Por": "Os olhos vermelhos me lembram dos meus irmãos."
+      "Eng": "Startled. This Avian carving looks very lifelike.",
+      "Por": "Assustado. Esta escultura Avian parece muito real."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/altaravian/altaravian.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/hylotlDescription"
       ]
     },
     "Texts": {
-      "Eng": "This Avian carving looks very lifelike."
+      "Eng": "The red eyes remind me of my brethren.",
+      "Por": "Os olhos vermelhos me lembram dos meus irmãos."
     }
   },
   {

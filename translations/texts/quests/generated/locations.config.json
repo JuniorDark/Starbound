@@ -48,8 +48,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Test Location",
-      "Por": "Local de Teste"
+      "Eng": "Test Location"
     }
   },
   {
@@ -241,8 +240,7 @@
       ]
     },
     "Texts": {
-      "Eng": "boo",
-      "Por": "boo"
+      "Eng": "boo"
     }
   },
   {
@@ -1523,7 +1521,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "passagem de cogumelo"
+    ],
     "Files": {
       "quests/generated/locations.config": [
         "/shroom/building1/name",
@@ -1533,7 +1533,7 @@
     },
     "Texts": {
       "Eng": "mushroom underpass",
-      "Por": "passagem de cogumelo"
+      "Por": "passagem subterrânea de cogumelo"
     }
   },
   {
@@ -2237,7 +2237,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "parede arruinada"
+    ],
     "Files": {
       "quests/generated/locations.config": [
         "/garden/mediumgardenruin1/name",
@@ -3010,7 +3012,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "pequeno lago"
+    ],
     "Files": {
       "quests/generated/locations.config": [
         "/colourful/pond2/name",
@@ -3260,7 +3264,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "túnel pequeno"
+    ],
     "Files": {
       "quests/generated/locations.config": [
         "/alien/tunnel1/name",
@@ -3731,7 +3737,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "andar superior de um prédio abandonad"
+    ],
     "Files": {
       "quests/generated/locations.config": [
         "/scorchedcity/building2/name",

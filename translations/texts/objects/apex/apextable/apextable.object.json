@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/apextable/apextable.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Depressed. Table devoid of joy.",
+      "Por": "Deprimido. Mesa desprovida de alegria."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/apextable/apextable.object": [
         "/apexDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "Standard Issue Table",
       "Por": "Standard Issue Table"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/apex/apextable/apextable.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Table devoid of joy."
     }
   },
   {

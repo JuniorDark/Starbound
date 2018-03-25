@@ -39,17 +39,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/medievalbowl/medievalbowl.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A simple bowl. Likely made from clay."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/glitch/medievalbowl/medievalbowl.object": [
         "/apexDescription"
       ]
     },
@@ -92,6 +81,18 @@
     "Texts": {
       "Eng": "Medieval Bowl",
       "Por": "Medieval Bowl"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/medievalbowl/medievalbowl.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neutral. A simple bowl. Likely made from clay.",
+      "Por": "Neutro. Uma tigela simples. Provavelmente feita de argila."
     }
   },
   {

@@ -48,20 +48,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/beakseed/beakseedseed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/farmables/beakseed/wildbeakseedseed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Does the beakseed look like a beak, or do beaks look like beakseeds?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/farmables/beakseed/beakseedseed.object": [
         "/description"
       ],
       "objects/farmables/beakseed/wildbeakseedseed.object": [
@@ -86,6 +72,21 @@
     "Texts": {
       "Eng": "I wouldn't want to eat a real beak by mistake.",
       "Por": "Eu não gostaria de comer um bico verdadeiro por engano."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/beakseed/beakseedseed.object": [
+        "/glitchDescription"
+      ],
+      "objects/farmables/beakseed/wildbeakseedseed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Philosophical. Does the beakseed look like a beak, or do beaks look like beakseeds?",
+      "Por": "Filosófico. O beakseed parece um bico ou bicos parecem beakseeds?"
     }
   },
   {

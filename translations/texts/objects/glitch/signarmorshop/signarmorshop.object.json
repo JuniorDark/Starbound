@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/signarmorshop/signarmorshop.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A sign that marks an armour shop."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/glitch/signarmorshop/signarmorshop.object": [
         "/avianDescription"
       ]
     },
@@ -56,6 +45,18 @@
     "Texts": {
       "Eng": "Armour! Get yer armour here!",
       "Por": "Armadura! Obtenha sua armadura aqui!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/signarmorshop/signarmorshop.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cheerful. A sign that marks an armour shop.",
+      "Por": "Alegre. Uma placa que marca uma loja de armaduras."
     }
   },
   {

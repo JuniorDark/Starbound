@@ -27,8 +27,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/gnome/smalllamppost/smalllamppost.object": [
-        "/apexDescription",
-        "/glitchDescription/glitchEmotedText"
+        "/apexDescription"
       ]
     },
     "Texts": {
@@ -46,6 +45,18 @@
     "Texts": {
       "Eng": "A tiny lamppost. Try not to kick it over.",
       "Por": "Um poste minúsculo. Tente não chutar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/gnome/smalllamppost/smalllamppost.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. A tiny lamppost.",
+      "Por": "Observador. Um poste minúsculo."
     }
   },
   {

@@ -75,29 +75,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/dark/shadowrock1/shadowrock1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/dark/shadowrock2/shadowrock2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/dark/shadowrock3/shadowrock3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/dark/shadowrock4/shadowrock4.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/dark/shadowrock5/shadowrock5.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A very dark rock, I almost couldn't see it at all."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/dark/shadowrock1/shadowrock1.object": [
         "/avianDescription"
       ],
       "objects/biome/dark/shadowrock2/shadowrock2.object": [
@@ -164,6 +141,30 @@
     "Texts": {
       "Eng": "Igneoussss rock.",
       "Por": "Rocha ígnea."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/dark/shadowrock1/shadowrock1.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/dark/shadowrock2/shadowrock2.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/dark/shadowrock3/shadowrock3.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/dark/shadowrock4/shadowrock4.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/dark/shadowrock5/shadowrock5.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Surprised. A very dark rock, I almost couldn't see it at all.",
+      "Por": "Surpreso. Uma rocha muito escura, eu quase não podia vê-la."
     }
   },
   {

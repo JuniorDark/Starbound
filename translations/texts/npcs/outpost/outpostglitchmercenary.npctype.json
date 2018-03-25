@@ -3,7 +3,8 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/outpost/outpostglitchmercenary.npctype": [
-        "/scriptConfig/dialog/converse/default/default/0"
+        "/scriptConfig/dialog/converse/default/default/0",
+        "/scriptConfig/dialog/converse/glitch/default/0"
       ]
     },
     "Texts": {
@@ -15,24 +16,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/outpost/outpostglitchmercenary.npctype": [
-        "/scriptConfig/dialog/converse/glitch/default/0/glitchEmotedText"
+        "/scriptConfig/dialog/converse/glitch/glitch/0"
       ]
     },
     "Texts": {
-      "Eng": "Please do not be offended if my comrade in black will not speak to you. He's not much of a talker.",
-      "Por": "Por favor, não se ofenda se meu camarada de preto não falar com você. Ele não fala muito."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "npcs/outpost/outpostglitchmercenary.npctype": [
-        "/scriptConfig/dialog/converse/glitch/glitch/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Were times not simpler before we learned of all... this?",
-      "Por": "Não eram tempos mais simples antes de sabermos de tudo... isso?"
+      "Eng": "Wistful. Were times not simpler before we learned of all... this?",
+      "Por": "Saudoso. Eram tempos não mais simples antes que nós aprendemos de tudo... isso?"
     }
   }
 ]

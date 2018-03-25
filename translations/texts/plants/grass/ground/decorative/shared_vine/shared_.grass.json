@@ -4,18 +4,31 @@
     "Files": {
       "plants/grass/ground/decorative/vine/vine.grass": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ],
       "plants/grass/ground/decorative/viney/viney.grass": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ]
     },
     "Texts": {
       "Eng": "A vine.",
       "Por": "Uma vinha."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/vine/vine.grass": [
+        "/glitchDescription"
+      ],
+      "plants/grass/ground/decorative/viney/viney.grass": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. A vine.",
+      "Por": "Afirmação. Uma vinha."
     }
   },
   {

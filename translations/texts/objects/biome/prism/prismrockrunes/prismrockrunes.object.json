@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/prism/prismrockrunes/prismrockrunes.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. This prism has runes carved into it.",
+      "Por": "Curioso. Este prisma tem runas esculpidas nele."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/prism/prismrockrunes/prismrockrunes.object": [
         "/humanDescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "This prism has rather mysterious ancient runes carved into it.",
       "Por": "Este prisma tem runas antigas misteriosas que foram esculpidas nele."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/prism/prismrockrunes/prismrockrunes.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This prism has runes carved into it."
     }
   },
   {

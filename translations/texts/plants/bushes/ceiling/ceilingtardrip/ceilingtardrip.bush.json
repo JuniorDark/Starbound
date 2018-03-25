@@ -1,10 +1,11 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Goteira de piche"
+    ],
     "Files": {
       "plants/bushes/ceiling/ceilingtardrip/ceilingtardrip.bush": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ]
     },
@@ -23,6 +24,18 @@
     "Texts": {
       "Eng": "Sssticky black drip!",
       "Por": "Goteira preta grudenta!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ceiling/ceilingtardrip/ceilingtardrip.bush": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. Dripping tar.",
+      "Por": "Afirmação. Goteira de piche."
     }
   }
 ]

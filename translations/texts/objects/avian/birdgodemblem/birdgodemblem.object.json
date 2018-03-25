@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/birdgodemblem/birdgodemblem.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. There is nothing but treated stone here.",
+      "Por": "Impressionado. Não há nada alem de pedra tratada aqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/birdgodemblem/birdgodemblem.object": [
         "/apexDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "The stone carving looks ready to crumble. It should be preserved.",
       "Por": "A escultura de pedra parece pronta para desmoronar. Ela deve ser preservada."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avian/birdgodemblem/birdgodemblem.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "There is nothing but treated stone here."
     }
   },
   {

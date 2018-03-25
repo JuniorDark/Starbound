@@ -4,7 +4,6 @@
     "Files": {
       "plants/bushes/ceiling/ceilingspiralrocks/ceilingspiralrocks.bush": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ]
     },
@@ -23,6 +22,18 @@
     "Texts": {
       "Eng": "Ssspinny rocks.",
       "Por": "Rochas estranhas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ceiling/ceilingspiralrocks/ceilingspiralrocks.bush": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. Spiral rocks.",
+      "Por": "Relatório. Rochas em espirais."
     }
   }
 ]

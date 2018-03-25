@@ -48,18 +48,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/glitch/medievalfireplace/medievalfireplace.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I adore sitting by a fire on a cold night."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Lareira Medieval"
+    ],
     "Files": {
       "objects/glitch/medievalfireplace/medievalfireplace.object": [
         "/shortdescription",
@@ -68,7 +59,7 @@
     },
     "Texts": {
       "Eng": "Medieval Fireplace",
-      "Por": "Lareira Medieval"
+      "Por": "Medieval Fireplace"
     }
   },
   {
@@ -105,6 +96,18 @@
     "Texts": {
       "Eng": "The temperature in Hylotl cities is carefully controlled. It's nice to feel the warmth of a fire on my skin.",
       "Por": "A temperatura nas cidades Hylotl é cuidadosamente controlada. É bom sentir o calor de um fogo na minha pele."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/medievalfireplace/medievalfireplace.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wistful. I adore sitting by a fire on a cold night.",
+      "Por": "Desejoso. Adoro sentar perto de um fogo em uma noite fria."
     }
   }
 ]

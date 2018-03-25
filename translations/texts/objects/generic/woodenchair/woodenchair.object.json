@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/woodenchair/woodenchair.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disappointed. Uncomfortable seating.",
+      "Por": "Desapontado. Assento desconfortável."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodenchair/woodenchair.object": [
         "/humanDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "Little effort has been made to make this chair comfortable.",
       "Por": "Pouco esforço foi feito para fazer esta cadeira confortável."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/woodenchair/woodenchair.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Uncomfortable seating."
     }
   },
   {

@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/themed/astronaut/uranusmodel/uranusmodel.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fascinated. Uranus is the coldest planet in the Sol System.",
+      "Por": "Fascinado. Urano é o planeta mais frio do Sistema Solar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/astronaut/uranusmodel/uranusmodel.object": [
         "/shortdescription"
       ]
     },
@@ -57,18 +69,6 @@
     "Texts": {
       "Eng": "Uranus is named after an earthen god of the sky. The legend pales compared to Avian sky gods.",
       "Por": "Urano é o nome de um deus do céu da Terra. A lenda é pálida em comparação com os deuses Avian do céu."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/themed/astronaut/uranusmodel/uranusmodel.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Uranus is the coldest planet in the Sol System.",
-      "Por": "Urano é o planeta mais frio do Sistema Solar."
     }
   },
   {

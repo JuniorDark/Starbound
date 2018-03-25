@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/scorchedcity/metallictrapdoor/metallictrapdoor.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alarmed. This platform is unsafe to stand upon.",
+      "Por": "Alarmado. Esta plataforma não é segura para estar em cima."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/scorchedcity/metallictrapdoor/metallictrapdoor.object": [
         "/humanDescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "Stepping on this platform causes it to retract into the wall.",
       "Por": "Pisar nesta plataforma faz com que ela se retraia na parede."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/scorchedcity/metallictrapdoor/metallictrapdoor.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This platform is unsafe to stand upon."
     }
   }
 ]

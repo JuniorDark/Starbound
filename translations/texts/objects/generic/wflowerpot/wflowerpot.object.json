@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/wflowerpot/wflowerpot.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Appreciative. Petals of pure white.",
+      "Por": "Grato. Pétalas de branco puro."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/wflowerpot/wflowerpot.object": [
         "/floranDescription"
       ]
     },
@@ -57,17 +69,6 @@
     "Texts": {
       "Eng": "It looks like an overgrown daisy.",
       "Por": "Parece uma margarida coberta de vegetação."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/wflowerpot/wflowerpot.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Petals of pure white."
     }
   },
   {

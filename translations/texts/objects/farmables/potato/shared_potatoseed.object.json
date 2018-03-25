@@ -18,6 +18,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/potato/potatoseed.object": [
+        "/glitchDescription"
+      ],
+      "objects/farmables/potato/wildpotatoseed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Admiration. Humans create many dishes from such a simple thing.",
+      "Por": "Admiração. Os humanos criam muitos pratos de uma coisa tão simples."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/potato/potatoseed.object": [
         "/humanDescription"
       ],
       "objects/farmables/potato/wildpotatoseed.object": [
@@ -42,20 +57,6 @@
     "Texts": {
       "Eng": "Hard, crunchy potatoesss fresh from the dirt.",
       "Por": "Batatasss duras e crocantes frescas da terra."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/farmables/potato/potatoseed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/farmables/potato/wildpotatoseed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Humans create many dishes from such a simple thing."
     }
   },
   {

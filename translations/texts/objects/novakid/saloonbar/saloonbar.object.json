@@ -75,6 +75,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/novakid/saloonbar/saloonbar.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. This bar surface has seen a lot of use, but it's still polished to a shine.",
+      "Por": "Impressionado. Esta mesa de bar tem tido muito uso, mas ainda é polida."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/novakid/saloonbar/saloonbar.object": [
         "/shortdescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "The surface of this bar has been polished to a shine. It's no doubt seen a lot of use.",
       "Por": "A superfície deste bar foi polida. É sem dúvida teve muito uso."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/novakid/saloonbar/saloonbar.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This bar surface has seen a lot of use, but it's still polished to a shine."
     }
   }
 ]

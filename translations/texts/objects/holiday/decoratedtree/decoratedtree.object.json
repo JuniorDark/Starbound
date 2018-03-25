@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/holiday/decoratedtree/decoratedtree.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Happy. This tree makes me want to sing festive songs.",
+      "Por": "Feliz. Esta árvore me faz querer cantar canções festivas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/holiday/decoratedtree/decoratedtree.object": [
         "/hylotlDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "This tree brings back a lot of memories of home...",
       "Por": "Esta árvore traz de volta um monte de lembranças de casa..."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/holiday/decoratedtree/decoratedtree.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This tree makes me want to sing festive songs."
     }
   },
   {

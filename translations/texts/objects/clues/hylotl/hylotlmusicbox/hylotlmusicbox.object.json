@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/clues/hylotl/hylotlmusicbox/hylotlmusicbox.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Delighted. This box was designed to play a simple song.",
+      "Por": "Encantado. Esta caixa foi projetada para tocar uma música simples."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/clues/hylotl/hylotlmusicbox/hylotlmusicbox.object": [
         "/floranDescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "There's something very tranquil about this little music box.",
       "Por": "Há algo muito tranquilo nesta caixinha de música."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/clues/hylotl/hylotlmusicbox/hylotlmusicbox.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This box was designed to play a simple song."
     }
   },
   {

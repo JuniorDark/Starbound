@@ -138,7 +138,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Te abençoe."
+    ],
     "Files": {
       "dialog/devoutavian.config": [
         "/converse/avian/apex/25",
@@ -168,7 +170,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Pelas asas da Kluex! Um visitante!"
+    ],
     "Files": {
       "dialog/devoutavian.config": [
         "/converse/avian/apex/34",
@@ -384,7 +388,12 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Não se preocupe, isso não é hora de sacrifícios.",
+      "Não se preocupe, isso não é um momento de sacrifício.",
+      "Não se preocupe, já temos a quem sacrificar.",
+      "Não se preocupe, não é hora de um sacrifício."
+    ],
     "Files": {
       "dialog/devoutavian.config": [
         "/converse/avian/apex/33",
@@ -398,7 +407,7 @@
     },
     "Texts": {
       "Eng": "Don't worry, this isn't a time of sacrifice.",
-      "Por": "Não se preocupe, não é hora de um sacrifício."
+      "Por": "Não se preocupe, ainda não é hora de sacrifício."
     }
   },
   {
@@ -439,7 +448,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Bom conhecê-lo.",
+      "Bom te conhecer."
+    ],
     "Files": {
       "dialog/devoutavian.config": [
         "/converse/avian/apex/23",
@@ -469,7 +481,11 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "\"Você já conheceu um Stargazer?",
+      "Você já conheceu um Stargazer ainda?",
+      "Você já conheceu um Stargazer né?"
+    ],
     "Files": {
       "dialog/devoutavian.config": [
         "/converse/avian/apex/21",
@@ -655,7 +671,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Espero que os Grounded digam coisas ruins sobre nós. Bem, eu iria felizmente dizer coisas ruins sobre eles!"
+    ],
     "Files": {
       "dialog/devoutavian.config": [
         "/converse/avian/apex/15",
@@ -764,7 +782,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Desejo-lhe um dia abençoado."
+    ],
     "Files": {
       "dialog/devoutavian.config": [
         "/converse/avian/apex/22",
@@ -938,7 +958,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      " Que Kluex esteja com você.",
+      "Que Kluex esteja com você."
+    ],
     "Files": {
       "dialog/devoutavian.config": [
         "/converse/avian/apex/16",
@@ -952,11 +975,13 @@
     },
     "Texts": {
       "Eng": "Kluex be with you.",
-      "Por": "Que Kluex esteja com você."
+      "Por": "Kluex esteja com você."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Que Kluex te abençoe."
+    ],
     "Files": {
       "dialog/devoutavian.config": [
         "/converse/avian/apex/18",
@@ -970,11 +995,14 @@
     },
     "Texts": {
       "Eng": "Kluex bless you.",
-      "Por": "Que Kluex te abençoe."
+      "Por": "Kluex te abençoe."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Kluex te guiará",
+      "Que Kluex te guie."
+    ],
     "Files": {
       "dialog/devoutavian.config": [
         "/converse/avian/apex/30",
@@ -1016,7 +1044,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Deixe Kluex guiar suas viagens.",
+      "Que Kluex guie suas viagens."
+    ],
     "Files": {
       "dialog/devoutavian.config": [
         "/converse/avian/apex/40",
@@ -1058,7 +1089,11 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Que Kluex pode trazer-lhe força.",
+      "Que Kluex te de força.",
+      "Que Kluex traga-lhe força."
+    ],
     "Files": {
       "dialog/devoutavian.config": [
         "/converse/avian/apex/41",
@@ -1106,7 +1141,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Que Kluex possa torná-lo forte."
+    ],
     "Files": {
       "dialog/devoutavian.config": [
         "/converse/avian/apex/36",
@@ -1120,7 +1157,7 @@
     },
     "Texts": {
       "Eng": "May Kluex make you strong.",
-      "Por": "Que Kluex possa torná-lo forte."
+      "Por": "Que Kluex torne-o forte."
     }
   },
   {
@@ -1166,7 +1203,11 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Que o poderoso Kluex possa defender-te.",
+      "Que o poderoso Kluex possa defendê-lo.",
+      "Que o poderoso Kluex possa te defender."
+    ],
     "Files": {
       "dialog/devoutavian.config": [
         "/converse/avian/apex/38",
@@ -1180,11 +1221,17 @@
     },
     "Texts": {
       "Eng": "May the mighty Kluex defend you.",
-      "Por": "Que o poderoso Kluex possa te defender."
+      "Por": "Que o poderoso Kluex te defenda."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Que você Ascenda lado Kluex.",
+      "Que você Ascenda para o lado de Kluex.",
+      "Que você cresça ao lado de Kluex.",
+      "Que você pode Ascender ao lado do Kluex.",
+      "Que você possa Ascender para o lado de Kluex."
+    ],
     "Files": {
       "dialog/devoutavian.config": [
         "/converse/avian/apex/42",
@@ -1198,11 +1245,14 @@
     },
     "Texts": {
       "Eng": "May you Ascend to Kluex side.",
-      "Por": "Que você possa Ascender para o lado de Kluex."
+      "Por": "Que você possa Ascender no lado de Kluex."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Espero que você possa Ascender.",
+      "Que você possa ascender."
+    ],
     "Files": {
       "dialog/devoutavian.config": [
         "/converse/avian/apex/26",
@@ -1220,7 +1270,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Espero que você encontre a luz de Kluex."
+    ],
     "Files": {
       "dialog/devoutavian.config": [
         "/converse/avian/apex/31",
@@ -1256,7 +1308,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Que a sua vida seja repleta de luz."
+    ],
     "Files": {
       "dialog/devoutavian.config": [
         "/converse/avian/apex/24",
@@ -1286,7 +1340,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Prazer em conhecê-lo, viajante"
+    ],
     "Files": {
       "dialog/devoutavian.config": [
         "/converse/avian/apex/39",
@@ -1471,7 +1527,12 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Bem vindo a nossa vila.",
+      "Bem-vindo a nossa vila.",
+      "Bem-vindo à nossa vila.",
+      "Bem-vindo á nossa aldeia."
+    ],
     "Files": {
       "dialog/devoutavian.config": [
         "/converse/avian/apex/20",
@@ -1485,11 +1546,13 @@
     },
     "Texts": {
       "Eng": "Welcome to our village.",
-      "Por": "Bem-vindo á nossa aldeia."
+      "Por": "Bem-vindo à nossa aldeia."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Bem-vindo, visitante."
+    ],
     "Files": {
       "dialog/devoutavian.config": [
         "/converse/avian/apex/29",

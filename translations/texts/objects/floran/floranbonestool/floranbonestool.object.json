@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/floranbonestool/floranbonestool.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amused. Perhaps this stool was built for a very small Floran.",
+      "Por": "Divertido. Talvez esta banqueta foi construída para um Floran muito pequeno."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/floranbonestool/floranbonestool.object": [
         "/floranDescription"
       ]
     },
@@ -57,17 +69,6 @@
     "Texts": {
       "Eng": "I betcha' one heck of a scrap happened to get this chair.",
       "Por": "Uma banqueta feita de ossos."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/floran/floranbonestool/floranbonestool.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Perhaps this stool was built for a very small Floran."
     }
   },
   {

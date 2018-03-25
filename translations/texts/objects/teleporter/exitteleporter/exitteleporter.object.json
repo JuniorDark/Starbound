@@ -63,24 +63,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/teleporter/exitteleporter/exitteleporter.object": [
-        "/floranDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Teleporter letss Floran get back to ship.",
-      "Por": "Teletransportador permite Floran voltar pra nave."
+      "Eng": "Relieved. This teleporter will allow me to return to my ship.",
+      "Por": "Aliviado. Esse teletransportador me permitirá retornar a minha nave."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/teleporter/exitteleporter/exitteleporter.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/floranDescription"
       ]
     },
     "Texts": {
-      "Eng": "This teleporter will allow me to return to my ship.",
-      "Por": "Este teletransportador permitirá que eu retorne a minha nave."
+      "Eng": "Teleporter letss Floran get back to ship.",
+      "Por": "Teletransportador permite Floran voltar pra nave."
     }
   },
   {

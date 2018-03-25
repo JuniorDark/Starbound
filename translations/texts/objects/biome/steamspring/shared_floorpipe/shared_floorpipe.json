@@ -57,6 +57,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/steamspring/floorpipe1/floorpipe1.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/steamspring/floorpipe2/floorpipe2.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/steamspring/floorpipe3/floorpipe3.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. What a handsome pipe.",
+      "Por": "Impressionado. Que belo cano."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/steamspring/floorpipe1/floorpipe1.object": [
         "/hylotlDescription"
       ],
       "objects/biome/steamspring/floorpipe2/floorpipe2.object": [
@@ -141,23 +159,6 @@
     "Texts": {
       "Eng": "This pipe smokes like a chimney.",
       "Por": "Este cano solta fumaça como uma chaminé."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/steamspring/floorpipe1/floorpipe1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/steamspring/floorpipe2/floorpipe2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/steamspring/floorpipe3/floorpipe3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "What a handsome pipe."
     }
   }
 ]

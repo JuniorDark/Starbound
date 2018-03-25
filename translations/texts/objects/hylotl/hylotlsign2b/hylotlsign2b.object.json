@@ -27,17 +27,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/hylotlsign2b/hylotlsign2b.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A sign that simply says \"bubble\". How useful."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/hylotl/hylotlsign2b/hylotlsign2b.object": [
         "/shortdescription"
       ]
     },
@@ -56,6 +45,18 @@
     "Texts": {
       "Eng": "Bubbles. Beautiful orbs of life floating up to the vast skies above.",
       "Por": "Bolhas. Belas esferas de vida flutuando até o vasto céu acima."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/hylotlsign2b/hylotlsign2b.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Critical. A sign that simply says \"bubble\". How useful.",
+      "Por": "Crítico. Uma placa que simplesmente diz \"bolha\". Que útil."
     }
   },
   {

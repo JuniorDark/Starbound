@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Dano por Tiro:"
+    ],
     "Files": {
       "interface/itemdescriptions/gun.itemdescription": [
         "/damagePerShotTitleLabel/value"

@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/scorchedcity/scorchedcitybrokentank/scorchedcitybrokentank.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A rusted tank."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/scorchedcity/scorchedcitybrokentank/scorchedcitybrokentank.object": [
         "/description"
       ]
     },
@@ -68,6 +57,18 @@
     "Texts": {
       "Eng": "A rusty tank. I wouldn't want to look inside.",
       "Por": "Um tanque enferrujado. Eu não gostaria de olhar dentro."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/scorchedcity/scorchedcitybrokentank/scorchedcitybrokentank.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cautious. A rusted tank.",
+      "Por": "Cauteloso. Um tanque enferrujado."
     }
   },
   {

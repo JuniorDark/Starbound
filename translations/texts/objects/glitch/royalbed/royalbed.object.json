@@ -15,17 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/royalbed/royalbed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A bed built for royalty."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/glitch/royalbed/royalbed.object": [
         "/avianDescription"
       ]
     },
@@ -80,6 +69,18 @@
     "Texts": {
       "Eng": "I suspect this was built for royalty.",
       "Por": "Eu suspeito que isso foi construído para a realeza."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/royalbed/royalbed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Identify. A bed built for royalty.",
+      "Por": "Identificado. Uma cama construída para a realeza."
     }
   },
   {

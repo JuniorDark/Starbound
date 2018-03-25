@@ -33,6 +33,23 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/limestone.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/limestone.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Perceptive. This limestone has a chalky consistency.",
+      "Por": "Perceptivo. Este calcário tem uma consistência farinácea."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Calcário áspero não refinado."
+    ],
+    "Files": {
+      "items/materials/limestone.matitem": [
         "/description"
       ],
       "tiles/materials/limestone.material": [
@@ -57,21 +74,6 @@
     "Texts": {
       "Eng": "Some chalky lookin' limestone.",
       "Por": "Um pouco de calcário farináceo."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/limestone.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/limestone.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This limestone has a chalky consistency.",
-      "Por": "Este calcário tem uma consistência farinácea."
     }
   }
 ]

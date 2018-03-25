@@ -15,23 +15,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/plantgeyser1/plantgeyser1.object": [
-        "/hylotlDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "I'm staying away from this, just to be safe.",
-      "Por": "Vou ficar longe disto, só por segurança."
+      "Eng": "Concerned. If this geyser erupted could it do me harm?",
+      "Por": "Preocupado. Se este gêiser entrar em erupção poderia me fazer mal?"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/plantgeyser1/plantgeyser1.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/hylotlDescription"
       ]
     },
     "Texts": {
-      "Eng": "If this geyser erupted could it do me harm?"
+      "Eng": "I'm staying away from this, just to be safe.",
+      "Por": "Vou ficar longe disto, só por segurança."
     }
   },
   {

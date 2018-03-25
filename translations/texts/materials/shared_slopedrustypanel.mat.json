@@ -3,6 +3,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/slopedrustypanel.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/slopedrustypanel.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eager. I am sure with some elbow grease, this metal panelling could be cleared up.",
+      "Por": "Ansioso. Tenho certeza que com alguma graxa de cotovelo, este painel de metal pode ser limpo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/slopedrustypanel.matitem": [
         "/florandescription"
       ],
       "tiles/materials/slopedrustypanel.material": [
@@ -18,21 +33,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/slopedrustypanel.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/slopedrustypanel.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I am sure with some elbow grease, this metal panelling could be cleared up.",
-      "Por": "Tenho certeza que com um pouco de graxa este painel de metal poderia ser limpo."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/slopedrustypanel.matitem": [
         "/shortdescription"
       ],
       "tiles/materials/slopedrustypanel.material": [
@@ -40,8 +40,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Rusty Panel",
-      "Por": "Rusty Panel"
+      "Eng": "Rusty Panel"
     }
   },
   {
@@ -60,7 +59,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Painéis de metal robustos que enferrujaram com o tempo."
+    ],
     "Files": {
       "items/materials/slopedrustypanel.matitem": [
         "/description"

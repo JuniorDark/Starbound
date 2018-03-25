@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/ironswitch/ironswitch.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A good blade has many uses, even after it dulls. Here, it serves as a lever."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/ironswitch/ironswitch.object": [
         "/avianDescription"
       ]
     },
@@ -56,6 +45,18 @@
     "Texts": {
       "Eng": "I'm torn between pulling the lever and worrying about cutting myself.",
       "Por": "Estou dividido entre puxar a alavanca e me preocupar em me cortar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/ironswitch/ironswitch.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. A good blade has many uses, even after it dulls. Here, it serves as a lever.",
+      "Por": "Impressionado. Uma boa lâmina tem muitos usos, mesmo depois de desgastada. Aqui, serve como uma alavanca."
     }
   },
   {

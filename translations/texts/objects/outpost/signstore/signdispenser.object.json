@@ -39,23 +39,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/signstore/signdispenser.object": [
-        "/floranDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Print ssigns, scan signs.",
-      "Por": "Imprimi placass, escaneia placass."
+      "Eng": "Observant. Printed signs appear here, and signs can be scanned here too.",
+      "Por": "Observador. Placas impressas aparecem aqui, e as placas podem ser escaneadas aqui também."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/signstore/signdispenser.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/floranDescription"
       ]
     },
     "Texts": {
-      "Eng": "Printed signs appear here, and signs can be scanned here too."
+      "Eng": "Print ssigns, scan signs.",
+      "Por": "Imprimi placass, escaneia placass."
     }
   },
   {

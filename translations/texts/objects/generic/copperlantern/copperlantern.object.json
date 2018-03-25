@@ -75,11 +75,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/copperlantern/copperlantern.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "This lantern contains oil."
+      "Eng": "Observant. This lantern contains oil.",
+      "Por": "Observador. Esta lanterna contém óleo."
     }
   }
 ]

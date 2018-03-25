@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/huntingstatue/huntingstatue.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis. The spear has recently been used to impale a creature.",
+      "Por": "Análitico. A lança foi usada recentemente para empalar uma criatura."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/huntingstatue/huntingstatue.object": [
         "/hylotlDescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "That's one tough looking Floran. I wonder if it's anyone specific.",
       "Por": "Esse é um Floran de aparência forte. Me pergunto se é alguém específico."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/floran/huntingstatue/huntingstatue.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The spear has recently been used to impale a creature."
     }
   },
   {

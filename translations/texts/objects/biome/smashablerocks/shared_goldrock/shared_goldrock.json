@@ -78,6 +78,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/smashablerocks/goldrock/goldrock.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/smashablerocks/goldrocksmall/goldrocksmall.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. This rock contains gold, and is covered in cracks.",
+      "Por": "Observador. Esta rocha contém ouro e está coberta de rachaduras."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/smashablerocks/goldrock/goldrock.object": [
         "/apexDescription"
       ],
       "objects/biome/smashablerocks/goldrocksmall/goldrocksmall.object": [
@@ -87,20 +102,6 @@
     "Texts": {
       "Eng": "There appears to be gold within this fragile rock.",
       "Por": "Parece haver ouro dentro desta frágil rocha."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/smashablerocks/goldrock/goldrock.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/smashablerocks/goldrocksmall/goldrocksmall.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This rock contains gold, and is covered in cracks."
     }
   }
 ]

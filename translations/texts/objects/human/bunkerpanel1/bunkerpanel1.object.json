@@ -3,6 +3,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/bunkerpanel1/bunkerpanel1.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Confused. This panel is displaying extraordinarily small environmental changes. For what purpose?",
+      "Por": "Desprezo. O ambiente é provavelmente bom para Glitchs, independentemente do que isso diz."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkerpanel1/bunkerpanel1.object": [
         "/avianDescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "This panel appears to monitor some obscure environmental data.",
       "Por": "Esta parece ser uma análise do ambiente fora do bunker."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/human/bunkerpanel1/bunkerpanel1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This panel is displaying extraordinarily small environmental changes. For what purpose?"
     }
   }
 ]

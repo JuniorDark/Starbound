@@ -3,18 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/themed/cabin/cabinchair/cabinchair.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A chair that isn't still must be dizzying.",
-      "Por": "Uma cadeira de balanço antiga, esculpida à mão."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/themed/cabin/cabinchair/cabinchair.object": [
         "/description"
       ]
     },
@@ -105,6 +93,18 @@
     "Texts": {
       "Eng": "This is one of the nicer wooden chairs I've seen.",
       "Por": "Esta é um das cadeiras de madeira mais agradáveis que eu já vi."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/cabin/cabinchair/cabinchair.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Worried. A chair that isn't still must be dizzying.",
+      "Por": "Preocupado. Uma cadeira que não fica parada deve estar tonta."
     }
   }
 ]

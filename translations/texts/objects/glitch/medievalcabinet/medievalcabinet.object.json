@@ -15,17 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/medievalcabinet/medievalcabinet.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A finely made wooden cabinet."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/glitch/medievalcabinet/medievalcabinet.object": [
         "/novakidDescription"
       ]
     },
@@ -68,6 +57,18 @@
     "Texts": {
       "Eng": "An attractive cabinet made of wood with an intricate grain.",
       "Por": "Um armário atrativo feito da madeira com um grão intricado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/medievalcabinet/medievalcabinet.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Grateful. A finely made wooden cabinet.",
+      "Por": "Grato. Um armário de madeira bem feito."
     }
   },
   {

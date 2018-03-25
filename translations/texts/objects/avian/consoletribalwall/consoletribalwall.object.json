@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/consoletribalwall/consoletribalwall.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mystified. This technology is new even to my creator. The crystals within seem capable of generating electrical current for compatibility.",
+      "Por": "Perplexo. Esta tecnologia é nova até mesmo para o meu criador. Os cristais dentro parecem capazes de gerar corrente elétrica para compatibilidade."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/consoletribalwall/consoletribalwall.object": [
         "/floranDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "This access panel contains technology I don't understand.",
       "Por": "Este painel de acesso contém tecnologia que não entendo."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avian/consoletribalwall/consoletribalwall.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This technology is new even to my creator. The crystals within seem capable of generating electrical current for compatibility."
     }
   },
   {

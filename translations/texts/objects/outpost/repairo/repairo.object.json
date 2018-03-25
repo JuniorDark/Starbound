@@ -63,6 +63,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/repairo/repairo.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Relieved. This mechanical man can fix broken vehicles.",
+      "Por": "Aliviado. Este homem mecânico pode consertar veículos quebrados."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/repairo/repairo.object": [
         "/shortdescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "Shiny metalman fixesss things.",
       "Por": "Homem de metal brilhante conserta coisass."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/outpost/repairo/repairo.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This mechanical man can fix broken vehicles."
     }
   },
   {

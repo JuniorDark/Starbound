@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/ship/glitchshiplockerTier0/glitchshiplockerTier0.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Distressed. This locker seems to be broken.",
+      "Por": "Afligido. Este armário parece quebrado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/glitchshiplockerTier0/glitchshiplockerTier0.object": [
         "/floranDescription"
       ]
     },
@@ -81,18 +93,6 @@
     "Texts": {
       "Eng": "The ship's storage locker. Sadly it seems broken.",
       "Por": "Armário de armazenamento da nave. Infelizmente parece quebrado."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/ship/glitchshiplockerTier0/glitchshiplockerTier0.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This locker seems to be broken.",
-      "Por": "Este armário parece estar quebrado."
     }
   }
 ]

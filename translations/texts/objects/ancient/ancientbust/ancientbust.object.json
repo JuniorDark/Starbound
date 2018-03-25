@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/ancient/ancientbust/ancientbust.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Facinated. This ancient statue still has a functioning light attached.",
+      "Por": "Fascinado. Esta estátua antiga ainda tem uma luz anexada funcionando."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/ancientbust/ancientbust.object": [
         "/floranDescription"
       ]
     },
@@ -69,18 +81,6 @@
     "Texts": {
       "Eng": "The light from this ancient statue casts an eerie ambiance.",
       "Por": "A luz desta antiga estátua projeta um ambiente estranho."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/ancient/ancientbust/ancientbust.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This ancient statue still has a functioning light attached.",
-      "Por": "Esta estátua antiga ainda tem uma luz anexada funcionando."
     }
   },
   {

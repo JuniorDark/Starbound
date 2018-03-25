@@ -31,8 +31,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Astro Cabinet",
-      "Por": "Astro Cabinet"
+      "Eng": "Astro Cabinet"
     }
   },
   {
@@ -57,6 +56,18 @@
     "Texts": {
       "Eng": "I'm a fan of the way this cabinet is designed.",
       "Por": "Sou um fã da forma como este armário foi projetado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/astrocabinet/astrocabinet.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. This small cabinet has a generous storage capacity.",
+      "Por": "Impressionado. Este pequeno armário possui uma capacidade de armazenamento generosa."
     }
   },
   {
@@ -93,18 +104,6 @@
     "Texts": {
       "Eng": "This locker reminds me of something. Can't put my finger on it.",
       "Por": "Este armário me faz lembrar de algo. Não consigo colocar o dedo sobre ele."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/space/astrocabinet/astrocabinet.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This small cabinet has a generous storage capacity.",
-      "Por": "Este pequeno armário tem uma capacidade generosa de armazenamento."
     }
   }
 ]

@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Seu movimento é determinado pelos níveis de temperatura na atmosfera."
+    ],
     "Files": {
       "monsters/boss/guardianminion/collidingminion.monstertype": [
         "/description"

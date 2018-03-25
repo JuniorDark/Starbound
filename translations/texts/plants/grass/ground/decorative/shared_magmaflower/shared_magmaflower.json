@@ -3,24 +3,19 @@
     "DeniedAlternatives": [],
     "Files": {
       "plants/grass/ground/decorative/magmaflower/magmaflower.grass": [
-        "/description",
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ],
       "plants/grass/ground/decorative/magmaflower2/magmaflower2.grass": [
-        "/description",
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ],
       "plants/grass/ground/decorative/magmaflower3/magmaflower3.grass": [
-        "/description",
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ],
       "plants/grass/ground/decorative/magmaflower4/magmaflower4.grass": [
-        "/description",
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ],
       "plants/grass/ground/decorative/magmaflower5/magmaflower5.grass": [
-        "/description",
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ]
     },
     "Texts": {
@@ -74,6 +69,30 @@
     "Texts": {
       "Eng": "Magma flower.",
       "Por": "Uma flor de magma."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/magmaflower/magmaflower.grass": [
+        "/glitchDescription"
+      ],
+      "plants/grass/ground/decorative/magmaflower2/magmaflower2.grass": [
+        "/glitchDescription"
+      ],
+      "plants/grass/ground/decorative/magmaflower3/magmaflower3.grass": [
+        "/glitchDescription"
+      ],
+      "plants/grass/ground/decorative/magmaflower4/magmaflower4.grass": [
+        "/glitchDescription"
+      ],
+      "plants/grass/ground/decorative/magmaflower5/magmaflower5.grass": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. A magma flower.",
+      "Por": "Relatório. Uma flor de magma."
     }
   }
 ]

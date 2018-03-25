@@ -3,6 +3,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/ancientblock.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/ancientblock.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amazed. These blocks are evidently very old.",
+      "Por": "Maravilhado. Estes blocos são evidentemente muito velhos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ancientblock.matitem": [
         "/shortdescription"
       ],
       "tiles/materials/ancientblock.material": [
@@ -27,21 +42,6 @@
     "Texts": {
       "Eng": "Ancient blocksss.",
       "Por": "Blocosss antigosss."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/ancientblock.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/ancientblock.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "These blocks are evidently very old.",
-      "Por": "Esses blocos são evidentemente muito antigos."
     }
   },
   {

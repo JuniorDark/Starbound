@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/jukebox/jukebox.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Groovy. The music affects my circuits in such a way that I can't help but dance.",
+      "Por": "Alegre. A música afeta meus circuitos de tal maneira que não posso deixar de dançar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/jukebox/jukebox.object": [
         "/hylotlDescription"
       ]
     },
@@ -57,17 +69,6 @@
     "Texts": {
       "Eng": "Oh boy, they have my favourite album! Space just got funkier.",
       "Por": "Oh boy, eles têm o meu álbum favorito! O espaço acabou de ficar mais divertido."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/human/jukebox/jukebox.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The music affects my circuits in such a way that I can't help but dance."
     }
   },
   {

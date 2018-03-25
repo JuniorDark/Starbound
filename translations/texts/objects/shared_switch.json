@@ -33,39 +33,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/themed/doom/doomswitch/doomswitch.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/themed/executive/executiveswitch/executiveswitch.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/themed/geometric/geometricswitch/geometricswitch.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/themed/opulent/opulentswitch/opulentswitch.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/themed/serene/sereneswitch/sereneswitch.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/themed/wave/waveswitch/waveswitch.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/tiered/tier3switch/tier3switch.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/tiered/tier4switch/tier4switch.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A single console can control so many different mechanisms at once.",
-      "Por": "Um único console pode controlar tantos mecanismos diferentes ao mesmo tempo."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/themed/doom/doomswitch/doomswitch.object": [
         "/avianDescription"
       ],
       "objects/themed/geometric/geometricswitch/geometricswitch.object": [
@@ -93,7 +60,44 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Impressionado. Um único console pode controlar tantos mecanismos diferentes ao mesmo tempo."
+    ],
+    "Files": {
+      "objects/themed/doom/doomswitch/doomswitch.object": [
+        "/glitchDescription"
+      ],
+      "objects/themed/executive/executiveswitch/executiveswitch.object": [
+        "/glitchDescription"
+      ],
+      "objects/themed/geometric/geometricswitch/geometricswitch.object": [
+        "/glitchDescription"
+      ],
+      "objects/themed/opulent/opulentswitch/opulentswitch.object": [
+        "/glitchDescription"
+      ],
+      "objects/themed/serene/sereneswitch/sereneswitch.object": [
+        "/glitchDescription"
+      ],
+      "objects/themed/wave/waveswitch/waveswitch.object": [
+        "/glitchDescription"
+      ],
+      "objects/tiered/tier3switch/tier3switch.object": [
+        "/glitchDescription"
+      ],
+      "objects/tiered/tier4switch/tier4switch.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. A single console can control so many different mechanisms at once.",
+      "Por": "Impressionado. Um único console pode controlar muitos mecanismos diferentes ao mesmo tempo."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Este console oferece um grande controle."
+    ],
     "Files": {
       "objects/themed/doom/doomswitch/doomswitch.object": [
         "/apexDescription"

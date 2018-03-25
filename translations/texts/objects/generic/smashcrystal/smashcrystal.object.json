@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/smashcrystal/smashcrystal.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excited. Smashing this crystal will produce great wealth.",
+      "Por": "Animado. Esmagar este cristal vai produzir grande riqueza."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/smashcrystal/smashcrystal.object": [
         "/novakidDescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "Smashing this crystal will be satisfying.",
       "Por": "Esmagar este cristal será satisfatório."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/smashcrystal/smashcrystal.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Smashing this crystal will produce great wealth."
     }
   },
   {

@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/plantorb/plantorb.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Astonished. This orb is an impressive natural light source.",
+      "Por": "Espantado. Esta esfera é uma fonte impressionante de luz natural."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/plantorb/plantorb.object": [
         "/shortdescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "There's room to store quite a few things inside this little orb.",
       "Por": "Há espaço para armazenar algumas coisas dentro deste pequeno orbe."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/floran/plantorb/plantorb.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This orb is an impressive natural light source."
     }
   },
   {

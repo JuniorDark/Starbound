@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/protectorate/objects/protectorategardentree/protectorategardentree.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. This tree is as old as the academy.",
+      "Por": "Impressionado. Esta árvore é tão antiga quanto a academia."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/protectorate/objects/protectorategardentree/protectorategardentree.object": [
         "/shortdescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "This big tree is precious to the Protectorate. I heard it's as old as the academy.",
       "Por": "Esta grande árvore é preciosa para o Protetorado. Ouvi dizer que é tão antiga quanto a academia."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/protectorate/objects/protectorategardentree/protectorategardentree.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This tree is as old as the academy."
     }
   }
 ]

@@ -24,6 +24,27 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/hylotllilydeco1/hylotllilydeco1.object": [
+        "/glitchDescription"
+      ],
+      "objects/hylotl/hylotllilydeco2/hylotllilydeco2.object": [
+        "/glitchDescription"
+      ],
+      "objects/hylotl/hylotllilydeco3/hylotllilydeco3.object": [
+        "/glitchDescription"
+      ],
+      "objects/hylotl/hylotllilypad/hylotllilypad.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amused. Someone is fond of lily pads.",
+      "Por": "Divertido. Alguém gosta de vitória régias."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/hylotllilydeco1/hylotllilydeco1.object": [
         "/avianDescription"
       ],
       "objects/hylotl/hylotllilydeco2/hylotllilydeco2.object": [
@@ -39,26 +60,6 @@
     "Texts": {
       "Eng": "I haven't seen this many lily pads since that time I crash-landed in a swamp.",
       "Por": "Eu não vi tantas vitória régias desde aquela vez que eu caí em um pântano."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/hylotl/hylotllilydeco1/hylotllilydeco1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/hylotl/hylotllilydeco2/hylotllilydeco2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/hylotl/hylotllilydeco3/hylotllilydeco3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/hylotl/hylotllilypad/hylotllilypad.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Someone is fond of lily pads."
     }
   },
   {

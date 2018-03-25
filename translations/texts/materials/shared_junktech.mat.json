@@ -18,6 +18,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/junktech.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/junktech.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Interested. There are a variety of technologies within this discarded junk.",
+      "Por": "Interessado. Há uma variedade de tecnologias dentro deste lixo descartado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/junktech.matitem": [
         "/shortdescription"
       ],
       "tiles/materials/junktech.material": [
@@ -42,21 +57,6 @@
     "Texts": {
       "Eng": "Technological trasssh.",
       "Por": "Lixo tecnológico."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/junktech.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/junktech.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "There are a variety of technologies within this discarded junk.",
-      "Por": "Há uma variedade de tecnologias dentro desse lixo descartado."
     }
   },
   {

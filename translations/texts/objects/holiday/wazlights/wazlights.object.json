@@ -3,6 +3,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/holiday/wazlights/wazlights.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Confused. What is a 'waz'?",
+      "Por": "Confuso. O que é um 'waz'?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/holiday/wazlights/wazlights.object": [
         "/hylotlDescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "Waz Lights",
       "Por": "Waz Lights"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/holiday/wazlights/wazlights.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "What is a 'waz'?"
     }
   },
   {

@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/florandoor/florandoor.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Confused. This door need not exist, it is completely useless.",
+      "Por": "Confuso. Esta porta não precisa existir, é completamente inútil."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/florandoor/florandoor.object": [
         "/floranDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "Primitive Door",
       "Por": "Primitive Door"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/floran/florandoor/florandoor.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This door need not exist, it is completely useless."
     }
   }
 ]

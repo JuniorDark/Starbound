@@ -3,6 +3,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/plate.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/plate.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intrigued. These metal plates have been carefully smoothed.",
+      "Por": "Intrigado. Estas placas de metal foram cuidadosamente alisadas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/plate.matitem": [
         "/description"
       ],
       "tiles/materials/plate.material": [
@@ -57,21 +72,6 @@
     "Texts": {
       "Eng": "Ssmooth sshiny metal platess.",
       "Por": "Placass de metal lisso e brilhantess."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/plate.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/plate.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "These metal plates have been carefully smoothed.",
-      "Por": "Estas placas de metal foram cuidadosamente alisadas."
     }
   }
 ]

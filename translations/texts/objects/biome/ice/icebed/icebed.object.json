@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/ice/icebed/icebed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Conflicted. This hard bed is perfect for the Glitch, but what if it melts?",
+      "Por": "Em Conflito. Esta cama dura é perfeita para os Glitch, mas e se ela derreter?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/ice/icebed/icebed.object": [
         "/floranDescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "This bed looks like it'd give you the cold shoulder. Haha... Ha...",
       "Por": "Uma cama feita de gelo."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/ice/icebed/icebed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This hard bed is perfect for the Glitch, but what if it melts?"
     }
   }
 ]

@@ -87,11 +87,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/loudspeaker/loudspeaker.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "This device is capable of receiving signals at multiple frequencies."
+      "Eng": "Testing. This device is capable of receiving signals at multiple frequencies.",
+      "Por": "Teste. Este dispositivo é capaz de receber sinais em várias freqüências."
     }
   },
   {

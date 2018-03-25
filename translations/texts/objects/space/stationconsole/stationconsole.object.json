@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/space/stationconsole/stationconsole.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Interested. This console seems designed for a specific purpose, there are not many buttons.",
+      "Por": "Interessado. Este console parece projetado para uma finalidade específica, não há muitos botões."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/stationconsole/stationconsole.object": [
         "/novakidDescription"
       ]
     },
@@ -55,8 +67,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Station Console",
-      "Por": "Station Console"
+      "Eng": "Station Console"
     }
   },
   {
@@ -69,18 +80,6 @@
     "Texts": {
       "Eng": "This compact terminal has a small display screen.",
       "Por": "Este terminal compacto tem uma tela pequena."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/space/stationconsole/stationconsole.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This console seems designed for a specific purpose, there are not many buttons.",
-      "Por": "Este console parece projetado para um propósito específico, não há muitos botões."
     }
   },
   {

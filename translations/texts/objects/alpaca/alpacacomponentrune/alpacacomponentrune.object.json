@@ -3,18 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alpaca/alpacacomponentrune/alpacacomponentrune.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A rune that signifies the most basic element of organic life.",
-      "Por": "Uma runa que significa o elemento mais básico da vida orgânica."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alpaca/alpacacomponentrune/alpacacomponentrune.object": [
         "/description"
       ]
     },
@@ -57,6 +45,18 @@
     "Texts": {
       "Eng": "Component Rune",
       "Por": "Component Rune"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alpaca/alpacacomponentrune/alpacacomponentrune.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Respectful. A rune that signifies the most basic element of organic life.",
+      "Por": "Respeitoso. Uma runa que representa o elemento mais básico da vida orgânica."
     }
   },
   {

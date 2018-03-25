@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/medievalchandelier/medievalchandelier.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A chandelier, this simple light source feels like home."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/glitch/medievalchandelier/medievalchandelier.object": [
         "/apexDescription"
       ]
     },
@@ -44,6 +33,18 @@
     "Texts": {
       "Eng": "An iron chandelier. A good way to light a large room.",
       "Por": "Um candelabro de ferro. Uma boa maneira de iluminar uma sala grande."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/medievalchandelier/medievalchandelier.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Comforted. A chandelier, this simple light source feels like home.",
+      "Por": "Confortado. Um candelabro, essa fonte de luz simples é como estar em casa."
     }
   },
   {

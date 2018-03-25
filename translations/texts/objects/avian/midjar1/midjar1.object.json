@@ -63,17 +63,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/midjar1/midjar1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Smash it, make it dust."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avian/midjar1/midjar1.object": [
         "/hylotlDescription"
       ]
     },
@@ -104,6 +93,18 @@
     "Texts": {
       "Eng": "This pot is cheap and common. I should smash it.",
       "Por": "Este pote é barato e comum. Eu deveria esmagá-lo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/midjar1/midjar1.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Violent. Smash it, make it dust.",
+      "Por": "Violento. Esmagá-lo, torná-lo pó."
     }
   }
 ]

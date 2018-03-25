@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/turret/turret.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Determined. I must not become the target.",
+      "Por": "Determinado. Não devo me tornar o alvo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/turret/turret.object": [
         "/shortdescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "I must move like the wind to remain unseen by this turret.",
       "Por": "Devo me mover como o vento para permanecer invisível para esta torre."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/apex/turret/turret.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I must not become the target."
     }
   },
   {

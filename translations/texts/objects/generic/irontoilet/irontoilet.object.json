@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/irontoilet/irontoilet.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Puzzlement. This toilet is only really safe for the Glitch, who don't need it.",
+      "Por": "Perplexo. Esta privada só é realmente seguro para os Glitch, que não precisam disso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/irontoilet/irontoilet.object": [
         "/shortdescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "This is not the most appealing toilet I've ever seen.",
       "Por": "Este não é a privada mais atraente que eu já vi."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/irontoilet/irontoilet.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This toilet is only really safe for the Glitch, who don't need it."
     }
   }
 ]

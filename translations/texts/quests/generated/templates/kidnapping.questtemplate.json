@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Appreciative. Thanks for rescuing <victimNpcType> from those <enemy>. <appreciation>",
+      "Por": "Agradecido. Obrigado por resgatar <victimNpcType> daqueles <enemy>. <appreciation>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
         "/scriptConfig/generatedText/text/default/floran/0"
       ]
     },
@@ -99,8 +111,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/kidnapping.questtemplate": [
-        "/scriptConfig/generatedText/text/default/default/1",
-        "/scriptConfig/generatedText/text/default/glitch/1/glitchEmotedText"
+        "/scriptConfig/generatedText/text/default/default/1"
       ]
     },
     "Texts": {
@@ -154,18 +165,6 @@
     "Texts": {
       "Eng": "I'm sure <victim.pronoun.copulative> relieved to have you around!",
       "Por": "Tenho certeza que <victim.pronoun.copulative> esta aliviado por ter você por perto!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/kidnapping.questtemplate": [
-        "/scriptConfig/generatedText/text/default/glitch/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "My <friend> ^orange;<victimNpcType>^white; was meant to visit <earlier> so we could <activity1>, but <victimNpcType.pronoun.subject> hasn't <turned> up! <suspicion> the ^orange;<enemy>^white; I saw near the ^orange;<spawnPoint>^white;<spawnPoint.direction> <involved>. ^green;Can you please save <victimNpcType>^white;?",
-      "Por": "Meu <friend> ^orange;<victimNpcType>^white; era para visitar <earlier> para que pudéssemos <activity1>, mas <victimNpcType.pronoun.subject> não <turned>!  <suspicion> o ^orange;<enemy>^white; que eu vi perto de ^orange;<spawnPoint>^white;<spawnPoint.direction> <involved>. ^green;Você pode por favor salvar <victimNpcType>^white;?"
     }
   },
   {
@@ -232,13 +231,48 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/kidnapping.questtemplate": [
-        "/scriptConfig/generatedText/completionText/default/default/0",
-        "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText"
+        "/scriptConfig/generatedText/text/default/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stressed. My <friend> ^orange;<victimNpcType>^white; was meant to visit <earlier> so we could <activity1>, but <victimNpcType.pronoun.subject> hasn't <turned> up! <suspicion> the ^orange;<enemy>^white; I saw near the ^orange;<spawnPoint>^white;<spawnPoint.direction> <involved>. ^green;Can you please save <victimNpcType>^white;?",
+      "Por": "Estressado. Meu <friend> ^orange;<victimNpcType>^white; era para me visitar <earlier> para que pudéssemos <activity1>, mas <victimNpcType.pronoun.subject> não <turned>! <suspicion> que o ^orange;<enemy>^white; que eu vi perto do ^orange;<spawnPoint>^white; <spawnPoint.direction> <involved>. ^green;Você pode por favor salvar <victimNpcType>^white;?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thankful. You were able to rescue <victimNpcType>? <appreciation>",
+      "Por": "Grato. Você foi capaz de resgatar <victimNpcType>? <appreciation>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/default/0"
       ]
     },
     "Texts": {
       "Eng": "Thanks for rescuing <victimNpcType> from those <enemy>. <appreciation>",
       "Por": "Obrigado por resgatar <victimNpcType> daqueles <enemy>. <appreciation>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/kidnapping.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Worried. I was out <activity> with my <friend> ^orange;<victimNpcType>^white; <earlier>, when <separated>. I saw some ^orange;<enemy>^white; sneaking around and worry <victimNpcType> has been <kidnapped>! I last saw <victimNpcType.pronoun.object> near the ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Can you go and find <victimNpcType.pronoun.object>^white;?",
+      "Por": "Preocupado. Eu estava fora <activity> com meu <friend> ^orange;<victimNpcType>^white; <earlier>, quando <separated>. Vi alguns ^orange;<enemy>^white; se esgueirando na região e <victimNpcType> foi <kidnapped>! Vi <victimNpcType.pronoun.object> pela última vez perto de ^orange;<spawnPoint>^white; <spawnPoint.direction>. ^green;Você pode ir e encontrar <victimNpcType.pronoun.object>^white;?"
     }
   },
   {
@@ -275,18 +309,6 @@
     "Texts": {
       "Eng": "You rescued <victimNpcType>? <appreciation>",
       "Por": "Você resgatou <victimNpcType>? <appreciation>"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/kidnapping.questtemplate": [
-        "/scriptConfig/generatedText/completionText/default/glitch/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "You were able to rescue <victimNpcType>? <appreciation>",
-      "Por": "Você conseguiu resgatar <victimNpcType>? <appreciation>"
     }
   },
   {
@@ -751,7 +773,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "pode essstar envolvido"
+    ],
     "Files": {
       "quests/generated/templates/kidnapping.questtemplate": [
         "/scriptConfig/generatedText/fluff/12/1/1",
@@ -1039,8 +1063,7 @@
       ]
     },
     "Texts": {
-      "Eng": "victim",
-      "Por": "vítima"
+      "Eng": "victim"
     }
   },
   {

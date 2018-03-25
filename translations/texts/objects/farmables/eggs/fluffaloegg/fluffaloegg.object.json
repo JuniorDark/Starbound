@@ -63,6 +63,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/eggs/fluffaloegg/fluffaloegg.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nostalgic. The fluffalo is a common choice of livestock for Glitch farmers.",
+      "Por": "Nostálgico. O fluffalo é uma escolha comum de gado para agricultores Glitch."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/eggs/fluffaloegg/fluffaloegg.object": [
         "/hylotlDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "The egg of a common fluffalo, the mature animal produces plant fibre.",
       "Por": "O ovo de um fluffalo comum, o animal maduro produz plant fibre."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/farmables/eggs/fluffaloegg/fluffaloegg.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The fluffalo is a common choice of livestock for Glitch farmers."
     }
   },
   {

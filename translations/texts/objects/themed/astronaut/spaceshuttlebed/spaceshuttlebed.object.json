@@ -63,6 +63,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/themed/astronaut/spaceshuttlebed/spaceshuttlebed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Proud. What a long way Humankind has come.",
+      "Por": "Orgulhoso. Que longo caminho chegou a humanidade."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/astronaut/spaceshuttlebed/spaceshuttlebed.object": [
         "/shortdescription"
       ]
     },
@@ -93,18 +105,6 @@
     "Texts": {
       "Eng": "Well, looky here. An old masterpiece.",
       "Por": "Bem, olhe aqui. Uma obra-prima antiga."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/themed/astronaut/spaceshuttlebed/spaceshuttlebed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "What a long way Humankind has come.",
-      "Por": "O quão longe chegou a humanidade."
     }
   }
 ]

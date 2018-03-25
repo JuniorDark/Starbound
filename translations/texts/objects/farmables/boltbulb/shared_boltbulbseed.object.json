@@ -33,6 +33,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/boltbulb/boltbulbseed.object": [
+        "/glitchDescription"
+      ],
+      "objects/farmables/boltbulb/wildboltbulbseed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sentimental. This vegetable tastes like home.",
+      "Por": "Sentimental. Este vegetal tem gosto de casa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/boltbulb/boltbulbseed.object": [
         "/apexDescription"
       ],
       "objects/farmables/boltbulb/wildboltbulbseed.object": [
@@ -45,7 +60,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Metal mole, não gosto de carne Glitch",
+      "Metal mole, não gosto de carne Glitch."
+    ],
     "Files": {
       "objects/farmables/boltbulb/boltbulbseed.object": [
         "/floranDescription"
@@ -87,20 +105,6 @@
     "Texts": {
       "Eng": "The grounded have become quite fond of this weird, metallic vegetable.",
       "Por": "Os grounded se tornaram completamente apaixonados por este estranho vegetal metálico."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/farmables/boltbulb/boltbulbseed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/farmables/boltbulb/wildboltbulbseed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This vegetable tastes like home."
     }
   }
 ]

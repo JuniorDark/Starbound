@@ -63,23 +63,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/rust/rustchest/rustchest.object": [
-        "/avianDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Surely one could simply wait for this chest to fall apart.",
-      "Por": "Certamente alguém poderia esperar que esse baú desmoronasse."
+      "Eng": "Sardonic. The rust here is perhaps a bigger deterrent for a Glitch than a lock could ever be.",
+      "Por": "irônico. A ferrugem aqui é talvez um impedimento maior para um Glitch do que uma fechadura poderia ser."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/rust/rustchest/rustchest.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/avianDescription"
       ]
     },
     "Texts": {
-      "Eng": "The rust here is perhaps a bigger deterrent for a Glitch than a lock could ever be."
+      "Eng": "Surely one could simply wait for this chest to fall apart.",
+      "Por": "Certamente alguém poderia esperar que esse baú desmoronasse."
     }
   },
   {

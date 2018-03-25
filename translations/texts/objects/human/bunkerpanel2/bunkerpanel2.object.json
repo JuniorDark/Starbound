@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/bunkerpanel2/bunkerpanel2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intrigued. This appears to be a full-body medical scan. I wonder what was wrong with them?",
+      "Por": "Embaraçado. Um humano com dois corações? Na cultura Glitch, um com tal erro de fabricação seria exterminado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkerpanel2/bunkerpanel2.object": [
         "/description"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "Screen showsss flesh perssson. Floran wondersss if perssson is trapped inssside.",
       "Por": "Este humano tem dois coraçõesss... que ganancioso!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/human/bunkerpanel2/bunkerpanel2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This appears to be a full-body medical scan. I wonder what was wrong with them?"
     }
   },
   {

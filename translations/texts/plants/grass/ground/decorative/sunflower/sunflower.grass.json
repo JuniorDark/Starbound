@@ -16,24 +16,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "plants/grass/ground/decorative/sunflower/sunflower.grass": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "An attractive sunflower.",
-      "Por": "Um girassol encantador."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "plants/grass/ground/decorative/sunflower/sunflower.grass": [
         "/floranDescription"
       ]
     },
     "Texts": {
       "Eng": "Pretty sssunflower.",
       "Por": "Girassol bonito."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/sunflower/sunflower.grass": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. An attractive sunflower.",
+      "Por": "Relatório. Um girassol atraente."
     }
   }
 ]

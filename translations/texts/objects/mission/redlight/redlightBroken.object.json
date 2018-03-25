@@ -34,5 +34,17 @@
       "Eng": "This light ain't havin' a good time.",
       "Por": "Esta luz não está passando bem."
     }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/redlight/redlightBroken.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unimpressed. This light is malfunctioning.",
+      "Por": "Não impressionado. Esta luz não está funcionando corretamente."
+    }
   }
 ]

@@ -63,6 +63,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/birdbed/birdbed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Concerned. The ergonomics of this bed are poorly conceived.",
+      "Por": "Preocupado. A ergonomia desta cama é mal concebida."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/birdbed/birdbed.object": [
         "/shortdescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "That hay don't make the bed any more comfortable.",
       "Por": "Esse feno não deixa a cama mais confortável."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avian/birdbed/birdbed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The ergonomics of this bed are poorly conceived."
     }
   }
 ]

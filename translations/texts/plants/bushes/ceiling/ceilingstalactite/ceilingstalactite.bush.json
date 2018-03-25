@@ -8,19 +8,7 @@
     },
     "Texts": {
       "Eng": "Rock Stalactite.",
-      "Por": "Rock Stalactite."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "plants/bushes/ceiling/ceilingstalactite/ceilingstalactite.bush": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Rock spikes.",
-      "Por": "Espinhos de rocha."
+      "Por": "Estalactite de Rocha."
     }
   },
   {
@@ -32,7 +20,7 @@
     },
     "Texts": {
       "Eng": "Rock ssspikes.",
-      "Por": "Espinhoss de rocha."
+      "Por": "Estacas de rochas."
     }
   },
   {
@@ -45,6 +33,18 @@
     "Texts": {
       "Eng": "Rock stalactite, watch out.",
       "Por": "Estalactite de rocha, cuidado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ceiling/ceilingstalactite/ceilingstalactite.bush": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. Rock spikes.",
+      "Por": "Relatório. Estacas de rochas."
     }
   }
 ]

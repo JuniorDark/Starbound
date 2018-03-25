@@ -18,6 +18,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/wreck/wrecksmalltable/wrecksmalltable.object": [
+        "/glitchDescription"
+      ],
+      "objects/wreck/wrecktable/wrecktable.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disgusted. This old table is in an horrendous state.",
+      "Por": "Enojado. Esta velha mesa está em um estado horrendo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wreck/wrecksmalltable/wrecksmalltable.object": [
         "/floranDescription"
       ],
       "objects/wreck/wrecktable/wrecktable.object": [
@@ -27,21 +42,6 @@
     "Texts": {
       "Eng": "Old table is in disssrepair.",
       "Por": "Mesa velha está em condições precárias."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/wreck/wrecksmalltable/wrecksmalltable.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/wreck/wrecktable/wrecktable.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This old table is in an horrendous state.",
-      "Por": "Esta velha mesa está num estado horrendo."
     }
   },
   {

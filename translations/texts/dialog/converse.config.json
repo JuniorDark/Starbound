@@ -63,18 +63,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/avian/19/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A flock of your kind came through the other day.",
-      "Por": "Um bando da sua espécie veio outro dia."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/floran/generic/45"
       ]
     },
@@ -105,18 +93,6 @@
     "Texts": {
       "Eng": "A human from Earth. It is good to meet you.",
       "Por": "Um humano da Terra. É bom conhecê-lo."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/human/8/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A human!",
-      "Por": "Um humano!"
     }
   },
   {
@@ -165,18 +141,6 @@
     "Texts": {
       "Eng": "A monkey! Oh wait, monkeys have tails. An ape!",
       "Por": "Um macaco! Oh espere, macacos têm caudas. Um ape!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/greeting/glitch/default/6/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A new friend!",
-      "Por": "Um novo amigo!"
     }
   },
   {
@@ -235,8 +199,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Achoo!",
-      "Por": "Achoo!"
+      "Eng": "Achoo!"
     }
   },
   {
@@ -249,6 +212,54 @@
     "Texts": {
       "Eng": "Admire Floran foliage, monkey man!",
       "Por": "Admire a folhagem Floran, homem macaco!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/greeting/glitch/default/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "Affable. Hello there.",
+      "Por": "Amigável. Olá."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/greeting/glitch/default/26"
+      ]
+    },
+    "Texts": {
+      "Eng": "Affable. How do you do?",
+      "Por": "Amigável. Como vai?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/generic/35"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aggravated. I can't find my hacksaw.",
+      "Por": "Agravado. Não consigo encontrar minha serra."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/greeting/glitch/default/23"
+      ]
+    },
+    "Texts": {
+      "Eng": "Agreeable. Welcome stranger.",
+      "Por": "Agradável. Bem-vindo estranho."
     }
   },
   {
@@ -279,24 +290,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/generic/45/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Ahhhh!",
-      "Por": "Ahhhh!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/novakid/apex/5"
       ]
     },
     "Texts": {
       "Eng": "Ain't met many folk with a face like yours, but at least I won't forget you easy!",
       "Por": "Não tinha conhecido muitas pessoas com um rosto como o seu, mas pelo menos não vô esquecer do cê fácil!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/apex/15"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alarmed. Are you Big Ape? Because I cannot imagine an ape even bigger than you.",
+      "Por": "Alarmado. Você é Big Ape? Porque eu não consigo imaginar um macaco ainda maior do que você."
     }
   },
   {
@@ -364,24 +375,48 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/glitch/2/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Always nice to meet a new Glitch.",
-      "Por": "Sempre é bom conhecer um novo Glitch."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/avian/apex/9"
       ]
     },
     "Texts": {
       "Eng": "Always nice to meet an ape. ...Apex! Sorry, I meant Apex. How embarrassing.",
       "Por": "Sempre bom conhecer um ape. ...Apex! Desculpe, eu quis dizer Apex. Que embaraçoso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/generic/37"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ambitious. One day I'll become an amazing blacksmith.",
+      "Por": "Ambicioso. Um dia eu vou me tornar um ferreiro incrível."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/greeting/glitch/default/16"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amicable. Good day to you.",
+      "Por": "Amigável. Bom dia para você."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/floran/17"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amused. Try not to scare anyone plant man, we don't want everyone running for the hills.",
+      "Por": "Divertido. Tente não assustar ninguém homem planta, não queremos todos correndo para as colinas."
     }
   },
   {
@@ -412,6 +447,42 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
+        "/converse/glitch/hylotl/24"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analytical. You have a fish in your pocket.",
+      "Por": "Analítico. Você tem um peixe no seu bolso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/generic/80"
+      ]
+    },
+    "Texts": {
+      "Eng": "Angry. My shoulder is not an appropriate thing in which to check your reflection.",
+      "Por": "Bravo. Meu ombro não é uma coisa apropriada para verificar sua reflexão."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/hylotl/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Animated. Sometimes when I try to swim I just float, but sometimes I try and I sink instead!",
+      "Por": "Animado. Às vezes, quando eu tento nadar, eu apenas flutuo, mas às vezes eu tento e eu afundo em vez disso!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
         "/converse/human/avian/15"
       ]
     },
@@ -424,12 +495,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/apex/3/glitchEmotedText"
+        "/converse/glitch/generic/55"
       ]
     },
     "Texts": {
-      "Eng": "Apex are my favourite beings!",
-      "Por": "Apex são os meus seres favoritos!"
+      "Eng": "Anxious. Have you seen a chicken round here?",
+      "Por": "Ansioso. Você viu um frango por aqui?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/floran/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Anxious. You seem polite, but I cannot be sure you won't try to eat me.",
+      "Por": "Ansioso. Você parece educado, mas não posso ter certeza de que você não vai tentar me comer."
     }
   },
   {
@@ -496,18 +579,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/avian/6/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Are Avian bones hollow?",
-      "Por": "Os ossos Avian são ocos?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/hylotl/hylotl/12"
       ]
     },
@@ -550,18 +621,6 @@
     "Texts": {
       "Eng": "Are all Apex good at science? It was my worst subject at school.",
       "Por": "Todos os Apex são bons na ciência? Foi a minha pior matéria na escola."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/floran/9/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Are all Florans ferocious?",
-      "Por": "Todos os Florans são ferozes?"
     }
   },
   {
@@ -616,18 +675,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/avian/13/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Are temples like castles?",
-      "Por": "Templos são como castelos?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/human/apex/10"
       ]
     },
@@ -664,30 +711,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/novakid/2/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Are there more like you?",
-      "Por": "Há mais como você?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/apex/15/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Are you Big Ape? Because I cannot imagine an ape even bigger than you.",
-      "Por": "Você é Big Ape? Porque não consigo imaginar um macaco ainda maior que você."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/floran/avian/22"
       ]
     },
@@ -706,30 +729,6 @@
     "Texts": {
       "Eng": "Are you a fish or a newt? It's all meat to me.",
       "Por": "Você é um peixe ou um tritão? É tudo carne para mim."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/apex/4/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Are you a human? Why are you so hairy?",
-      "Por": "Você é um humano? Por que você é tão peludo?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/generic/50/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Are you a knight?",
-      "Por": "Você é um cavaleiro?"
     }
   },
   {
@@ -778,18 +777,6 @@
     "Texts": {
       "Eng": "Are you allowed to be here?",
       "Por": "Você está autorizado a estar aqui?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/human/9/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Are you an Apex? Where is your fur?",
-      "Por": "Você é um Apex? Onde está o seu pêlo?"
     }
   },
   {
@@ -964,42 +951,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/novakid/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Are you on fire?",
-      "Por": "Você está pegando fogo?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/novakid/19/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Are you organic, or mechanical?",
-      "Por": "Você é orgânico ou mecânico?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/apex/10/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Are you perhaps related to the Yetis of legend?",
-      "Por": "Você está relacionado ao Yetis da lenda?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/avian/glitch/0"
       ]
     },
@@ -1030,42 +981,6 @@
     "Texts": {
       "Eng": "Are you the product of a Miniknog experiment?",
       "Por": "Você é o produto de um experimento da Miniknog?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/floran/26/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Are you thorny or can I have a hug?",
-      "Por": "Você é espinhoso ou pode me dá um abraço?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/avian/9/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Are your kind descended from chickens?",
-      "Por": "Seu tipo é descendente de galinhas?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/floran/28/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Are your leaves just for show, what is their anatomical function?",
-      "Por": "Suas folhas são apenas para mostrar, qual é a função anatômica?"
     }
   },
   {
@@ -1151,6 +1066,18 @@
     "Texts": {
       "Eng": "As my father used to say - \"Art won't put food on the table.\"",
       "Por": "Como meu pai costumava dizer - \"Arte não vai colocar comida na mesa.\""
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/generic/68"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ashamed. I lied about how many chickens I had to impress my friends.",
+      "Por": "Envergonhado. Eu menti sobre quantas galinhas eu tinha para impressionar meus amigos."
     }
   },
   {
@@ -1277,6 +1204,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
+        "/converse/glitch/floran/27"
+      ]
+    },
+    "Texts": {
+      "Eng": "Awed. You're so pretty!",
+      "Por": "Admirado. Você é tão bonito(a)!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
         "/converse/human/apex/17"
       ]
     },
@@ -1295,6 +1234,30 @@
     "Texts": {
       "Eng": "Back when I was practicin', I used to be the sharpest shooter with a revolver you'd ever meet!",
       "Por": "Quando eu estava praticando, eu costumava ser o atirador mais afiado com um revólver que você já conheceu!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/generic/23"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bashful. You are very nice-looking.",
+      "Por": "Envergonhado. Você é muito bonito(a)."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/avian/23"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bashful. You have beautiful plumage. May I have a feather?",
+      "Por": "Tímido. Você tem uma linda plumagem. Posso pegar uma pena?"
     }
   },
   {
@@ -1337,6 +1300,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
+        "/converse/glitch/generic/79"
+      ]
+    },
+    "Texts": {
+      "Eng": "Befuddled. Sorry, I've only just woken up. What where you saying?",
+      "Por": "Atordoado. Desculpe, acabei de acordar. O que você está dizendo?"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Comporte-se, coisa boboa.",
+      "Comporte-se, coisa tola."
+    ],
+    "Files": {
+      "dialog/converse.config": [
         "/converse/floran/apex/4",
         "/converse/floran/avian/8",
         "/converse/floran/glitch/5",
@@ -1366,12 +1344,84 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
+        "/converse/glitch/generic/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Belligerent. Why are you bothering me?",
+      "Por": "Agressivo. Por que você está me incomodando?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/novakid/13"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bemused. What a strange encounter.",
+      "Por": "Mal-humorado. Que encontro estranho."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
         "/converse/floran/hylotl/22"
       ]
     },
     "Texts": {
       "Eng": "Bet fish man's never heard of Florans before.",
       "Por": "Aposto que homem peixe nunca ouviu falar de Florans antes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/apex/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bewildered. Are you a human? Why are you so hairy?",
+      "Por": "Perplexo. Você é humano? Por que você é tão peludo?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/novakid/15"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bewildered. How do you see without a face?",
+      "Por": "Desnorteado. Como você vê sem um rosto?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/generic/43"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bewildered. I had something to do today and I cannot remember what it was.",
+      "Por": "Perplexo. Eu tinha algo para fazer hoje e eu não consigo lembrar o que era."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/generic/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bewildered. What could I have done with my hat? I just had it in my hand!",
+      "Por": "Perplexo. O que eu poderia ter feito com o meu chapéu? Eu estava com ele na minha mão!"
     }
   },
   {
@@ -1475,12 +1525,84 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/avian/17/glitchEmotedText"
+        "/converse/glitch/hylotl/25"
       ]
     },
     "Texts": {
-      "Eng": "Birds are my favourite animal!",
-      "Por": "Pássaros são o meu animal favorito!"
+      "Eng": "Boastful. Glitch furniture lasts ten times longer than furniture made by the Hylotl.",
+      "Por": "Atrevido. O mobiliário Glitch dura dez vezes mais do que mobiliário feito pelos Hylotl."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/floran/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bold. Your teeth won't pierce my casing!",
+      "Por": "Atrevido. Seus dentes não furarão minha lataria!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/generic/22"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bored. I've been eating pottage for eight straight days. You're lucky you don't have the recipe.",
+      "Por": "Entediado. Eu tenho comido pottage por oito dias seguidos. Você tem sorte de não ter a receita."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/glitch/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bored. Oh, another Glitch. Hooray.",
+      "Por": "Entediado. Oh, outro Glitch. Hooray."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/generic/71"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bored. Time seems to stand still sometimes.",
+      "Por": "Entediado. O tempo parece ficar parado algumas vezes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/generic/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bored. Well this is fun.",
+      "Por": "Entediado. Bem, isso é divertido."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/floran/16"
+      ]
+    },
+    "Texts": {
+      "Eng": "Brave. You are not so frightening.",
+      "Por": "Valente. Você não é tão assustador."
     }
   },
   {
@@ -1571,20 +1693,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/greeting/glitch/default/9/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Can I help you somehow?",
-      "Por": "Posso ajudá-lo de alguma forma?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/greeting/apex/default/8",
-        "/greeting/glitch/default/17/glitchEmotedText"
+        "/greeting/apex/default/8"
       ]
     },
     "Texts": {
@@ -1626,18 +1735,6 @@
     "Texts": {
       "Eng": "Can I tap your head?",
       "Por": "Posso bater na sua cabeça?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/floran/31/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Can plant men get by on just water and sunlight?",
-      "Por": "Vocês Floran podem sobreviver apenas com água e luz do sol?"
     }
   },
   {
@@ -1740,12 +1837,96 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
+        "/converse/glitch/human/13"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cautious. I heard humans often have viruses.",
+      "Por": "Cauteloso. Eu ouvi que humanos têm vírus frequentemente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/avian/29"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cautious. I've never met a bird man before.",
+      "Por": "Cauteloso. Nunca conheci um homem-pássaro antes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/apex/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cautious. You look very strong.",
+      "Por": "Cauteloso. Você parece muito forte."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
         "/converse/human/human/3"
       ]
     },
     "Texts": {
       "Eng": "Cecil! ...Oh. You're not Cecil... You look like Cecil.",
       "Por": "Cecil! ...Ah. Você não é Cecil... Você se parece com Cecil."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/hylotl/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Charitable. Perhaps you would like to examine some Glitch constructions to advance your own designs.",
+      "Por": "Caridoso. Talvez você gostaria de examinar algumas construções Glitch para avançar seus próprios projetos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/glitch/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cheerful. Always nice to meet a new Glitch.",
+      "Por": "Alegre. Sempre bom conhecer um novo Glitch."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/generic/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cheerful. I love my home.",
+      "Por": "Alegre. Eu amo minha casa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/generic/77"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cheerful. What a lovely day.",
+      "Por": "Alegre. Que dia adorável."
     }
   },
   {
@@ -1764,6 +1945,174 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
+        "/converse/glitch/apex/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Compassionate. I've heard terrible things about the Miniknog, I feel so sorry for your people.",
+      "Por": "Compassivo. Eu ouvi coisas terríveis sobre a Miniknog, sinto muito por seu povo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/apex/14"
+      ]
+    },
+    "Texts": {
+      "Eng": "Complimentary. Your fur looks wonderful! Would that I were an Apex.",
+      "Por": "Amável. Seu pelo parece maravilhoso! Se eu fosse um Apex."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/novakid/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Concerned. Are you on fire?",
+      "Por": "Preocupado. Você está em chamas?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/avian/21"
+      ]
+    },
+    "Texts": {
+      "Eng": "Concerned. My, what a sharp beak you have.",
+      "Por": "Preocupado. Meu, que bico afiado você tem."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/hylotl/16"
+      ]
+    },
+    "Texts": {
+      "Eng": "Confused. I thought Hylotl had to stay underwater?",
+      "Por": "Confuso. Pensei que Hylotl tivesse que ficar debaixo d'água?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/apex/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Confused. Is Big Ape an Apex, or something else?",
+      "Por": "Confuso. Big Ape é um Apex, ou algo mais?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/generic/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "Confused. What is happening here?",
+      "Por": "Confuso. O que esta acontecendo aqui?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/novakid/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Confused. What sort of a being are you?",
+      "Por": "Confuso. Que tipo de ser você é?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/novakid/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "Confused. Your face is strange... Did a blacksmith make you?",
+      "Por": "Confuso. Seu rosto é estranho... Um ferreiro te fez?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/generic/70"
+      ]
+    },
+    "Texts": {
+      "Eng": "Content. I think I'll spend the rest of my days here.",
+      "Por": "Contente. Acho que vou passar o resto dos meus dias aqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/generic/29"
+      ]
+    },
+    "Texts": {
+      "Eng": "Content. What a pleasant day.",
+      "Por": "Contente. Que dia agradável."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/greeting/glitch/default/24"
+      ]
+    },
+    "Texts": {
+      "Eng": "Convivial. How nice to make your acquaintance.",
+      "Por": "Alegre. Como é bom te conhecer."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/greeting/glitch/default/15"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cordial. Hail!",
+      "Por": "Sincero. Saudações!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/greeting/glitch/default/27"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cordial. Hello my fine fellow.",
+      "Por": "Sincero. Olá, meu bom camarada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
         "/converse/apex/avian/3"
       ]
     },
@@ -1776,36 +2125,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/hylotl/17/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Could I make you some tea? I think I brew quite a good cup.",
-      "Por": "Posso te fazer um pouco de chá? Eu acho que faço uma boa xícara."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/apex/generic/69"
       ]
     },
     "Texts": {
       "Eng": "Could I maybe see inside your starship, my friend? Just a look is all I ask.",
       "Por": "Posso ver dentro de sua nave estelar, meu amigo? Apenas uma olhada é tudo que eu peço."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/floran/12/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Could a Glitch become a greenfinger?",
-      "Por": "Poderia um Glitch se tornar um greenfinger?"
     }
   },
   {
@@ -1862,24 +2187,240 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/novakid/generic/3"
+        "/converse/glitch/generic/81"
       ]
     },
     "Texts": {
-      "Eng": "Dang, I think I forgot where I left my banjo.",
-      "Por": "Diacho, acho que esqueci onde deixei o meu banjo."
+      "Eng": "Critical. There's no accounting for tastes in fashion...",
+      "Por": "Crítico. Não há contabilidade de gostos em moda..."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/generic/67/glitchEmotedText"
+        "/converse/glitch/apex/8"
       ]
     },
     "Texts": {
-      "Eng": "Day after day, it's always the same.",
-      "Por": "Dia após dia, é sempre a mesma coisa."
+      "Eng": "Critical. Your hair is a rare gift, you should keep it in better condition.",
+      "Por": "Crítico. Seu cabelo é um dom raro, você deve mantê-lo em melhores condições."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/generic/50"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. Are you a knight?",
+      "Por": "Curioso. Você é um cavaleiro?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/novakid/19"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. Are you organic, or mechanical?",
+      "Por": "Curioso. Você é orgânico ou mecânico?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/floran/31"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. Can plant men get by on just water and sunlight?",
+      "Por": "Curioso. Os homens planta podem sobreviver apenas com água e luz solar?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/avian/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. Do you head south for winter?",
+      "Por": "Curioso. Você vai para o sul no inverno?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/hylotl/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. Do you paint? I heard all Hylotl do.",
+      "Por": "Curioso. Você pinta? Ouvi que todos os Hylotl pintam."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/hylotl/26"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. Do you take shelter from the rain?",
+      "Por": "Curioso. Você se refugia da chuva?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/floran/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. Do you you ever need pruning?",
+      "Por": "Curioso. Você alguma vez precisa ser podado?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/floran/14"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. Do your leaves fall off in the autumn?",
+      "Por": "Curioso. Suas folhas caem no outono?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/generic/30"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. Have you ever tasted an automato?",
+      "Por": "Curioso. Você já provou um automato?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/generic/31"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. How do you differentiate between the genders of your species?",
+      "Por": "Curioso. Como você diferencia os gêneros de sua espécie?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. Were you born or grown?",
+      "Por": "Curioso. Você nasceu ou cresceu?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/generic/75"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. What brings you here friend?",
+      "Por": "Curioso. O que o traz aqui amigo?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/apex/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. What function does your pelt serve Ape man?",
+      "Por": "Curioso. Curioso. Qual é a função da sua pele homem macaco?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/apex/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. What is a Miniknog?",
+      "Por": "Curioso. O que é a Miniknog?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/human/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. Where Earth chickens the same as Glitch chickens?",
+      "Por": "Curioso. As galinhas da Terra são iguais às galinhas Glitch?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/generic/48"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. Where do you come from?",
+      "Por": "Curioso. De onde você vem?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/human/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. Why are you wearing that flesh over your chassis?",
+      "Por": "Curioso. Por que você está usando essa carne sobre seu chassi?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/novakid/generic/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dang, I think I forgot where I left my banjo.",
+      "Por": "Diacho, acho que esqueci onde deixei o meu banjo."
     }
   },
   {
@@ -1898,12 +2439,48 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
+        "/converse/glitch/avian/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Delighted. Just as I find myself in need of a new quill, here you are.",
+      "Por": "Encantado. Assim como me encontro na necessidade de uma nova pena, aqui está você."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/hylotl/15"
+      ]
+    },
+    "Texts": {
+      "Eng": "Delighted. Ooh! A Hylotl.",
+      "Por": "Encantado. Ooh! Um Hylotl."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
         "/converse/hylotl/generic/90"
       ]
     },
     "Texts": {
       "Eng": "Delightful to meet you, my dear friend.",
       "Por": "Prazer em conhecê-lo, meu querido amigo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/generic/49"
+      ]
+    },
+    "Texts": {
+      "Eng": "Desperate. You don't happen to have a ratchet do you?",
+      "Por": "Desesperado. Não acontece de ter uma catraca não é?"
     }
   },
   {
@@ -1994,6 +2571,114 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
+        "/converse/glitch/avian/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disdainful. It is said the bird men believe in a feathered god, is that true?",
+      "Por": "Desrespeitoso. Dizem que os homens pássaro acreditam em um deus emplumado, isso é verdade?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/human/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disgusted. Fleshy!",
+      "Por": "Enojado. Carnudo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/generic/40"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dismayed. Please stop pushing my buttons.",
+      "Por": "Desanimado. Por favor, pare de apertar meus botões."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/glitch/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dismissive. I've no time for Glitch that go chasing adventure.",
+      "Por": "Desconsiderado. Eu não tenho tempo para Glitchs aventureiros."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/greeting/glitch/default/20"
+      ]
+    },
+    "Texts": {
+      "Eng": "Distant. Oh, hello.",
+      "Por": "Distante. Oh, olá."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/generic/13"
+      ]
+    },
+    "Texts": {
+      "Eng": "Distracted. Mmm?",
+      "Por": "Distraído. Mmm?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/generic/58"
+      ]
+    },
+    "Texts": {
+      "Eng": "Distraught. I lost my best thimble.",
+      "Por": "Atormentado. Perdi meu melhor dedal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/generic/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disturbed. Why are you here?",
+      "Por": "Perturbado. Por quê você está aqui?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/human/14"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disturbed. You wobble when you walk.",
+      "Por": "Perturbado. Você balança quando você anda."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
         "/converse/human/floran/6"
       ]
     },
@@ -2072,18 +2757,6 @@
     "Texts": {
       "Eng": "Do Glitch sleep?",
       "Por": "Os Glitch dormem?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/hylotl/10/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Do Hylotl enjoy rain?",
-      "Por": "Hylotl gosta de chuva?"
     }
   },
   {
@@ -2534,18 +3207,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/avian/5/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Do you head south for winter?",
-      "Por": "Você vai para o sul no inverno?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/floran/generic/79"
       ]
     },
@@ -2714,18 +3375,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/hylotl/6/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Do you paint? I heard all Hylotl do.",
-      "Por": "Você pinta? Ouvi dizer que todos os Hylotl pintam."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/hylotl/generic/83"
       ]
     },
@@ -2744,18 +3393,6 @@
     "Texts": {
       "Eng": "Do you read much? I suspect with a glow like that you never need a reading lamp.",
       "Por": "Você lê muito? Eu suspeito com um brilho como esse você nunca precisa de uma lâmpada de leitura."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/hylotl/23/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Do you spend more time on land, or in the water?",
-      "Por": "Você passa mais tempo em terra ou na água?"
     }
   },
   {
@@ -2786,36 +3423,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/hylotl/26/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Do you take shelter from the rain?",
-      "Por": "Você se abriga da chuva?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/avian/generic/64"
       ]
     },
     "Texts": {
       "Eng": "Do you think we could maybe be friends?",
       "Por": "Você acha que talvez pudéssemos ser amigos?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/human/3/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Do you think what happened on Earth could happen here?",
-      "Por": "Você acha que o que aconteceu na Terra poderia acontecer aqui?"
     }
   },
   {
@@ -2858,18 +3471,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/floran/10/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Do you you ever need pruning?",
-      "Por": "Você nunca precisa de poda?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/apex/generic/13"
       ]
     },
@@ -2906,18 +3507,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/floran/14/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Do your leaves fall off in the autumn?",
-      "Por": "Suas folhas caem no outono?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/floran/hylotl/29"
       ]
     },
@@ -2948,18 +3537,6 @@
     "Texts": {
       "Eng": "Does punching a shark in the nose really work?",
       "Por": "Será que socar um tubarão no nariz realmente funciona?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/generic/64/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Does traveling the stars make you happy?",
-      "Por": "Viajar pelas estrelas te faz feliz?"
     }
   },
   {
@@ -3038,18 +3615,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/floran/2/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Don't eat anybody.",
-      "Por": "Não coma ninguém."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/apex/human/3"
       ]
     },
@@ -3068,6 +3633,18 @@
     "Texts": {
       "Eng": "Don't go rustin' up on me like an ol' revolver!",
       "Por": "Não vá enferrujar como um revólver velho!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/greeting/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eager. Salutations.",
+      "Por": "Ansioso. Saudações."
     }
   },
   {
@@ -3098,36 +3675,72 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
+        "/converse/glitch/generic/61"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ecstatic. My cousin is visiting today, she's so much fun!",
+      "Por": "Eufórico. Minha prima está visitando hoje, ela é tão divertida!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/glitch/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Embarrassed. I've developed a rust problem.",
+      "Por": "Envergonhado. Eu desenvolvi um problema de ferrugem."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/floran/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enthusiastic. Could a Glitch become a greenfinger?",
+      "Por": "Entusiasmado. Poderia um Glitch se tornar um greenfinger?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/glitch/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enthusiastic. Let's play clunky jacks!",
+      "Por": "Entusiasmado. Vamos jogar clunky jacks!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/hylotl/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Envious. It must be liberating to be able to swim through the oceans without a care.",
+      "Por": "Invejoso. Deve ser libertador poder nadar através dos oceanos sem preocupação."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
         "/converse/human/generic/34"
       ]
     },
     "Texts": {
       "Eng": "Ever played Hopscotch?",
       "Por": "Já brincou de Amarelinha?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/hylotl/11/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Every Hylotl I've met has always been so polite.",
-      "Por": "Cada Hylotl que conheci sempre foi tão educado."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/generic/54/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Every time I bend down my back clanks.",
-      "Por": "Toda vez que eu inclino minhas costas range."
     }
   },
   {
@@ -3146,12 +3759,120 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
+        "/converse/glitch/avian/17"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excited. Birds are my favourite animal!",
+      "Por": "Animado. Pássaros são meu animal favorito!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/generic/18"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excited. I'm going to check my eel traps later. Wish me luck!",
+      "Por": "Animado. Vou verificar minhas armadilhas de enguia mais tarde. Me deseje sorte!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/generic/60"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excited. Oh! It's so nice to meet a new person!",
+      "Por": "Animado. Oh! É tão bom conhecer uma nova pessoa!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/novakid/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excited. Oh! Something new! Nice to meet you!",
+      "Por": "Animado. Oh! Algo novo! Prazer em conhecê-lo!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/greeting/glitch/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excited. Yay! A new friend!",
+      "Por": "Animado. Yay! Um novo amigo!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
         "/converse/apex/generic/77"
       ]
     },
     "Texts": {
       "Eng": "Excuse me if I remain suspicious of you until we are better friends.",
       "Por": "Desculpe-me se continuar desconfiado de você até que sejamos melhores amigos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/generic/33"
+      ]
+    },
+    "Texts": {
+      "Eng": "Exhausted. I've been so busy recently.",
+      "Por": "Exausto. Estive tão ocupado recentemente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/generic/74"
+      ]
+    },
+    "Texts": {
+      "Eng": "Exuberant. I'm learning to play the lute!",
+      "Por": "Exuberante. Estou aprendendo a tocar alaúde!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/avian/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fascinated. Are your kind descended from chickens?",
+      "Por": "Fascinado. Sua espécie é descendente de galinhas?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/floran/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fearful. What sharp teeth you have!",
+      "Por": "Temeroso. Que dentes afiados você tem!"
     }
   },
   {
@@ -3254,12 +3975,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/human/0/glitchEmotedText"
+        "/converse/glitch/glitch/0"
       ]
     },
     "Texts": {
-      "Eng": "Fleshy!",
-      "Por": "Carnudo!"
+      "Eng": "Flirtatious. Your optics are so well lit!",
+      "Por": "Paquerador. Suas óticas são tão bem iluminadas!"
     }
   },
   {
@@ -4889,12 +5610,191 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
+        "/converse/glitch/floran/26"
+      ]
+    },
+    "Texts": {
+      "Eng": "Friendly. Are you thorny or can I have a hug?",
+      "Por": "Amigável. Você é espinhoso ou posso ter um abraço?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/hylotl/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "Friendly. Every Hylotl I've met has always been so polite.",
+      "Por": "Amigável. Todo Hylotl que eu conheci sempre foi tão educado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Friendly. Greetings plant man.",
+      "Por": "Amigável. Saudações homem planta."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/avian/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Friendly. Greetings, my Avian friend!",
+      "Por": "Amigável. Saudações, meu amigo Avian!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/greeting/glitch/default/14"
+      ]
+    },
+    "Texts": {
+      "Eng": "Friendly. I hope you're enjoying your visit.",
+      "Por": "Amigável. Eu espero que você está apreciando sua visita."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/avian/27"
+      ]
+    },
+    "Texts": {
+      "Eng": "Friendly. I hope you're feeling well bird man.",
+      "Por": "Amigável. Espero que você esteja se sentindo bem homem-pássaro."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/floran/32"
+      ]
+    },
+    "Texts": {
+      "Eng": "Friendly. I think plant men are cute, despite what everyone says!",
+      "Por": "Amigável. Eu acho os homens planta tão bonitos, apesar do que todos dizem!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/generic/32"
+      ]
+    },
+    "Texts": {
+      "Eng": "Friendly. It is nice to meet you.",
+      "Por": "Amigável. É bom conhecê-lo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/greeting/glitch/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Friendly. It is wonderful to meet you.",
+      "Por": "Amigável. É maravilhoso conhecê-lo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/greeting/glitch/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Friendly. It's very nice to meet you.",
+      "Por": "Amigável. É muito bom conhecê-lo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/floran/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Friendly. Nice to meet you plant man, we have rich soil here.",
+      "Por": "Amigável. Prazer em conhecê-lo homem planta, temos um solo rico aqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/greeting/glitch/default/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "Friendly. Nice to meet you.",
+      "Por": "Amigável. Prazer em conhecê-lo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/floran/30"
+      ]
+    },
+    "Texts": {
+      "Eng": "Friendly. Would you like some water?",
+      "Por": "Amigável. Gostaria de um pouco de água?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/novakid/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "Friendly. You must never have to buy torch oil.",
+      "Por": "Amigável. Você nunca deve ter que comprar óleo de tocha."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/generic/21"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frustrated. Why is cooking so hard? All my dishes taste terrible.",
+      "Por": "Frustrado. Por que cozinhar tão duramente? Todos os meus pratos tem um gosto terrível."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
         "/converse/avian/apex/12"
       ]
     },
     "Texts": {
-      "Eng": "Gah!",
-      "Por": "Gah!"
+      "Eng": "Gah!"
     }
   },
   {
@@ -4907,6 +5807,54 @@
     "Texts": {
       "Eng": "Gah! ...Oh sorry - I thought you where someone else.",
       "Por": "Gah! ...Oh, desculpe - Eu pensei que você fosse outra pessoa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/greeting/glitch/default/17"
+      ]
+    },
+    "Texts": {
+      "Eng": "Generous. Can I help you?",
+      "Por": "Generoso. Posso ajudar?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/greeting/glitch/default/21"
+      ]
+    },
+    "Texts": {
+      "Eng": "Genial. Why, hello!",
+      "Por": "Simpático. Olá!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/generic/34"
+      ]
+    },
+    "Texts": {
+      "Eng": "Genuine. You are delightful.",
+      "Por": "Genuíno. Você é encantador."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/generic/66"
+      ]
+    },
+    "Texts": {
+      "Eng": "Giggly. Hehehehehe.",
+      "Por": "Feliz. Uma criatura tão bonita!"
     }
   },
   {
@@ -4931,18 +5879,6 @@
     "Texts": {
       "Eng": "Glitch are fascinating. Fascinating.",
       "Por": "Glitch são fascinantes. Fascinante."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/hylotl/25/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Glitch furniture lasts ten times longer than furniture made by the Hylotl.",
-      "Por": "A mobília Glitch dura dez vezes mais do que os móveis fabricados pelos Hylotl."
     }
   },
   {
@@ -5033,18 +5969,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/avian/26/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Good day to you bird man!",
-      "Por": "Bom dia para você, homem pássaro!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/apex/avian/18"
       ]
     },
@@ -5057,7 +5981,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/greeting/glitch/default/16/glitchEmotedText",
         "/greeting/hylotl/default/11"
       ]
     },
@@ -5178,30 +6101,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/floran/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Greetings plant man.",
-      "Por": "Saudações homem planta."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/avian/8/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Greetings, my Avian friend!",
-      "Por": "Saudações, meu amigo Avian!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/greeting/novakid/default/2"
       ]
     },
@@ -5262,24 +6161,84 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/greeting/glitch/default/15/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Hail!",
-      "Por": "Salve!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/greeting/floran/default/19"
       ]
     },
     "Texts": {
       "Eng": "Happy hunting.",
       "Por": "Feliz caçada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/avian/26"
+      ]
+    },
+    "Texts": {
+      "Eng": "Happy. Good day to you bird man!",
+      "Por": "Feliz. Bom dia para você homem-pássaro!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/generic/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Happy. I caught eight bugs today!",
+      "Por": "Feliz. Eu peguei oito insetos hoje!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/novakid/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "Happy. I like bright things.",
+      "Por": "Feliz. Eu gosto de coisas brilhantes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/generic/28"
+      ]
+    },
+    "Texts": {
+      "Eng": "Happy. I love castles!",
+      "Por": "Feliz. Eu amo castelos!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/generic/63"
+      ]
+    },
+    "Texts": {
+      "Eng": "Happy. I'm having a day off tomorrow.",
+      "Por": "Feliz. Vou ter um dia de folga amanhã."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/generic/69"
+      ]
+    },
+    "Texts": {
+      "Eng": "Happy. This is such a friendly place.",
+      "Por": "Feliz. Este é um lugar amigável."
     }
   },
   {
@@ -5551,18 +6510,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/generic/30/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Have you ever tasted an automato?",
-      "Por": "Você já provou um automato?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/human/apex/15"
       ]
     },
@@ -5671,18 +6618,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/generic/55/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Have you seen a chicken round here?",
-      "Por": "Você viu uma galinha por aqui?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/avian/generic/48"
       ]
     },
@@ -5779,18 +6714,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/generic/66/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Hehehehehe.",
-      "Por": "Hehehehehe."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/apex/avian/14"
       ]
     },
@@ -5863,18 +6786,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/greeting/glitch/default/27/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Hello my fine fellow.",
-      "Por": "Olá, meu bom amigo."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/greeting/apex/default/29"
       ]
     },
@@ -5887,25 +6798,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/greeting/avian/default/17",
-        "/greeting/glitch/default/11/glitchEmotedText"
+        "/greeting/avian/default/17"
       ]
     },
     "Texts": {
       "Eng": "Hello!",
       "Por": "Olá!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/human/glitch/7/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Hello! Uh, I hope that wasn't offensive.",
-      "Por": "Olá! Uh, espero que não tenha sido ofensivo."
     }
   },
   {
@@ -5997,24 +6895,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/greeting/glitch/default/28/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Hello...",
-      "Por": "Olá..."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/greeting/human/default/25"
       ]
     },
     "Texts": {
       "Eng": "Hellooo.",
       "Por": "Olá."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/apex/17"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hesitant. Would you... would you be offended if I ran my fingers through your mane?",
+      "Por": "Hesitante. Você ficaria... você ficaria ofendido se eu passase meus dedos através de sua juba?"
     }
   },
   {
@@ -6241,12 +7139,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/generic/44/glitchEmotedText"
+        "/converse/glitch/floran/7"
       ]
     },
     "Texts": {
-      "Eng": "Hi...",
-      "Por": "Oi..."
+      "Eng": "Honest. You have a frightening appearance Floran.",
+      "Por": "Honesto. Você tem uma aparência assustadora, Floran."
     }
   },
   {
@@ -6265,9 +7163,104 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
+        "/converse/glitch/avian/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hopeful. May I buy an egg from you? Your eggs must be quite enormous.",
+      "Por": "Esperançoso. Posso comprar um ovo de você? Seus ovos devem ser bastante enormes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/floran/24"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hopeful. May I smell your flowers?",
+      "Por": "Esperançoso. Posso cheirar suas flores?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/hylotl/27"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hopeful. Perhaps, if you are not too busy, you could take me sailing one day.",
+      "Por": "Esperançoso. Talvez, se você não estiver muito ocupado, você poderia me levar pra velejar um dia."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/hylotl/20"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hospitable. I apologise if Glitch furnishings are not to your taste.",
+      "Por": "Hospitaleiro. Peço desculpas se o mobiliário Glitch não é do seu gosto."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/avian/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hospitable. I have some seeds around here somewhere.",
+      "Por": "Hospitaleiro. Tenho algumas sementes por aqui em algum lugar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/greeting/glitch/default/19"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hospitable. Welcome!",
+      "Por": "Hospitaleiro. Bem vindo!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/apex/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hospitable. Would you care for a banana?",
+      "Por": "Hospitaleiro. Gostaria de uma banana?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/novakid/16"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hostile. I cannot trust you if I cannot judge your facial expressions.",
+      "Por": "Hostil. Eu não posso confiar em você se eu não puder julgar suas expressões faciais."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
         "/greeting/apex/default/2",
-        "/greeting/avian/default/11",
-        "/greeting/glitch/default/22/glitchEmotedText"
+        "/greeting/avian/default/11"
       ]
     },
     "Texts": {
@@ -6317,30 +7310,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/human/11/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "How do you cope with the jiggling of your fleshy shell?",
-      "Por": "Como você lida com a agitação de sua concha carnuda?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/generic/31/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "How do you differentiate between the genders of your species?",
-      "Por": "Como você diferencia os gêneros de sua espécie?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/greeting/apex/default/15"
       ]
     },
@@ -6377,30 +7346,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/avian/7/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "How do you like it here, feathered friend?",
-      "Por": "Gosta daqui, amigo emplumado?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/novakid/18/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "How do you maintain your incandescence?",
-      "Por": "Como você mantém sua incandescência?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/avian/glitch/20"
       ]
     },
@@ -6425,18 +7370,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/novakid/15/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "How do you see without a face?",
-      "Por": "Como você vê sem um rosto?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/floran/novakid/18"
       ]
     },
@@ -6455,18 +7388,6 @@
     "Texts": {
       "Eng": "How do you work?",
       "Por": "Como você funciona?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/glitch/10/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "How do you young Glitch have so much energy?",
-      "Por": "Como vocês jovens Glitch tem tanta energia?"
     }
   },
   {
@@ -6611,18 +7532,6 @@
     "Texts": {
       "Eng": "How many prey have you ssstabbed recently?",
       "Por": "Quantas presas você esssfaqueou recentemente?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/greeting/glitch/default/24/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "How nice to make your acquaintance.",
-      "Por": "Que bom conhecê-lo."
     }
   },
   {
@@ -6797,18 +7706,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/human/7/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Human faces are too expressive.",
-      "Por": "Rostos humanos são muito expressivos."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/floran/human/22"
       ]
     },
@@ -6893,18 +7790,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/hylotl/12/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Hylotl buildings are so much nicer than Glitch castles.",
-      "Por": "Construções Hylotl  são muito mais agradável do que castelos Glitch."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/hylotl/floran/6"
       ]
     },
@@ -6935,6 +7820,18 @@
     "Texts": {
       "Eng": "Hylotl's strive for peace, right? Same as humans. No wonder you're a Protector.",
       "Por": "Os Hylotl lutam pela paz, certo? O mesmo que os humanos. Não me admira que você seja um P rotetor."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/generic/59"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hysterical. Leave me beeeee!",
+      "Por": "Assustado. Oi..."
     }
   },
   {
@@ -6977,18 +7874,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/generic/20/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I am in a terrible mood.",
-      "Por": "Estou de péssimo humor."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/apex/generic/40"
       ]
     },
@@ -7013,18 +7898,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/apex/16/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I am sorry. I drifted off for a moment, imagining your fur blowing softly in the breeze.",
-      "Por": "Desculpa. Eu adormeci por um momento, imaginando sua pele soprando suavemente com a brisa."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/apex/avian/5"
       ]
     },
@@ -7043,18 +7916,6 @@
     "Texts": {
       "Eng": "I am wicked hungry.",
       "Por": "Estou com muita fome"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/hylotl/20/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I apologise if Glitch furnishings are not to your taste.",
-      "Por": "Peço desculpas se o mobiliário Glitch não são para o seu gosto."
     }
   },
   {
@@ -7229,30 +8090,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/generic/3/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I can't find my favourite boots.",
-      "Por": "Não consigo encontrar minhas botas favoritas."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/generic/35/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I can't find my hacksaw.",
-      "Por": "Não encontro a minha serra."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/avian/generic/74"
       ]
     },
@@ -7283,30 +8120,6 @@
     "Texts": {
       "Eng": "I cannot go out tonight, I am washing my hair.",
       "Por": "Eu não posso sair hoje à noite, eu estou lavando o meu cabelo."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/novakid/16/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I cannot trust you if I cannot judge your facial expressions.",
-      "Por": "Não posso confiar em você se não posso avaliar suas expressões faciais."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/generic/6/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I caught eight bugs today!",
-      "Por": "Eu peguei oito insetos hoje!"
     }
   },
   {
@@ -7385,18 +8198,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/floran/29/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I didn't know organic matter could be so strong!",
-      "Por": "Não sabia que a matéria orgânica podia ser tão forte!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/apex/generic/83"
       ]
     },
@@ -7409,48 +8210,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/novakid/3/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I do not know what to make of you.",
-      "Por": "Não sei o que fazer com você."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/generic/51/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I do not really have time to talk.",
-      "Por": "Eu realmente não tenho tempo para conversar."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/apex/generic/103"
       ]
     },
     "Texts": {
       "Eng": "I do not want to talk just now, I have just bumped my head.",
       "Por": "Eu não quero conversar agora, acabei de bater minha cabeça."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/generic/26/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I do not want to talk to you.",
-      "Por": "Não quero falar com você."
     }
   },
   {
@@ -7475,18 +8240,6 @@
     "Texts": {
       "Eng": "I don't drink tea, so I can't offer any. But I do have plenty of seeds!",
       "Por": "Eu não bebo chá, então eu não posso oferecer nenhum. Mas eu tenho muitas sementes!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/avian/12/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I don't know anything about Avians.",
-      "Por": "Não sei nada sobre Avians."
     }
   },
   {
@@ -7842,18 +8595,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/generic/43/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I had something to do today and I cannot remember what it was.",
-      "Por": "Eu tinha algo para fazer hoje e não consigo lembrar o que era."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/apex/hylotl/27"
       ]
     },
@@ -8022,36 +8763,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/avian/11/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I have some seeds around here somewhere.",
-      "Por": "Tenho algumas sementes por aí em algum lugar."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/avian/generic/79"
       ]
     },
     "Texts": {
       "Eng": "I have some spare feathers if you'd like to try and fit in.",
       "Por": "Eu tenho algumas penas de reposição se você gostaria de tentar encaixar."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/generic/11/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I have things to do!",
-      "Por": "Eu tenho coisas para fazer!"
     }
   },
   {
@@ -8166,18 +8883,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/human/13/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I heard humans often have viruses.",
-      "Por": "Ouvi dizer que os humanos costumam ter vírus."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/novakid/floran/6"
       ]
     },
@@ -8190,36 +8895,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/human/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I heard what happened to Earth, just terrible.",
-      "Por": "Eu ouvi o que aconteceu com a Terra, simplesmente terrível."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/avian/human/7"
       ]
     },
     "Texts": {
       "Eng": "I heard what those tentacles did to Earth. The idea gives me nightmares.",
       "Por": "Ouvi o que esses tentáculos fizeram à Terra. A idéia me dá pesadelos."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/avian/4/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I hold no ill will towards you bird man.",
-      "Por": "Não tenho nenhum recentimento em relação a você, homem pássaro."
     }
   },
   {
@@ -8310,30 +8991,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/greeting/glitch/default/14/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I hope you're enjoying your visit.",
-      "Por": "Espero que esteja gostando da sua visita."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/avian/27/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I hope you're feeling well bird man.",
-      "Por": "Espero que esteja se sentindo bem, homem-pássaro."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/apex/generic/6"
       ]
     },
@@ -8370,18 +9027,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/generic/57/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I just had a wonderful nap.",
-      "Por": " Acabei de tirar uma soneca maravilhosa."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/apex/generic/37"
       ]
     },
@@ -8400,18 +9045,6 @@
     "Texts": {
       "Eng": "I keep having tentacle nightmares.",
       "Por": "Eu continuo tendo pesadelos com tentáculos."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/hylotl/14/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I know Hylotls paint and write, but do they dance?",
-      "Por": "Eu sei que Hylotls pintam e escreve, mas eles dançam?"
     }
   },
   {
@@ -8442,18 +9075,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/generic/68/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I lied about how many chickens I had to impress my friends.",
-      "Por": "Eu menti sobre quantas galinhas eu tive para impressionar meus amigos."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/avian/apex/13"
       ]
     },
@@ -8472,18 +9093,6 @@
     "Texts": {
       "Eng": "I like birds; my uncle used to own parrots.",
       "Por": "Eu gosto de pássaros; Meu tio costumava possuir papagaios."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/novakid/12/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I like bright things.",
-      "Por": "Gosto de coisas brilhantes."
     }
   },
   {
@@ -8538,18 +9147,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/generic/58/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I lost my best thimble.",
-      "Por": "Perdi meu melhor dedal."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/human/generic/58"
       ]
     },
@@ -8574,60 +9171,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/apex/6/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I love banana bread! Do you have some with you.",
-      "Por": "Adoro pão de banana! Você tem algum com você."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/generic/28/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I love castles!",
-      "Por": "Eu amo castelos!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/generic/12/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I love my home.",
-      "Por": "Eu amo a minha casa."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/human/glitch/18"
       ]
     },
     "Texts": {
       "Eng": "I love the way you guys talk.",
       "Por": "Eu amo o jeito que vocês falam."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/avian/16/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I love your beak.",
-      "Por": "Adoro o seu bico."
     }
   },
   {
@@ -8910,18 +9459,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/novakid/5/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I saw a Glitch glow like that once - he was very ill.",
-      "Por": "Eu vi um Glitch brilhar assim uma vez - ele estava muito doente."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/avian/human/14"
       ]
     },
@@ -9079,18 +9616,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/avian/24/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I suppose feathers look alright.",
-      "Por": "Suponho que as penas parecem bem."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/apex/generic/97"
       ]
     },
@@ -9127,54 +9652,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/generic/52/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I think I broke my friends crafting table.",
-      "Por": "Acho que quebrei a mesa de artesanato dos meus amigos."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/generic/15/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I think I may have a screw loose.",
-      "Por": "Acho que posso ter um parafuso solto."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/generic/46/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I think I might have buried my spade.",
-      "Por": "Acho que posso ter enterrado a minha pá."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/generic/70/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I think I'll spend the rest of my days here.",
-      "Por": "Acho que vou passar o resto dos meus dias aqui."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/human/generic/52"
       ]
     },
@@ -9199,36 +9676,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/floran/32/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I think plant men are cute, despite what everyone says!",
-      "Por": "Eu acho que os homens planta são fofos, apesar do que todos dizem!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/hylotl/generic/94"
       ]
     },
     "Texts": {
       "Eng": "I think we could become close friends.",
       "Por": "Acho que podemos nos tornar amigos íntimos."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/glitch/6/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I think you have a chip in your right eye bulb.",
-      "Por": "Eu acho que você tem um chip em sua lâmpada do olho direito."
     }
   },
   {
@@ -9247,36 +9700,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/hylotl/16/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I thought Hylotl had to stay underwater?",
-      "Por": "Achei que os Hylotl tinham que ficar debaixo d'água?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/novakid/generic/7"
       ]
     },
     "Texts": {
       "Eng": "I thought I heard a storm roll in, but it must have just been you!",
       "Por": "Pensei ter ouvido uma tempestade chega, mas deve ter sido ocê!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/generic/78/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I thought I left an apple round here somewhere.",
-      "Por": "Pensei que tinha deixado uma maçã por aqui em algum lugar."
     }
   },
   {
@@ -9325,18 +9754,6 @@
     "Texts": {
       "Eng": "I tried the human delicacy \"burgers\" once. Delightful.",
       "Por": "Eu esperimentei a iguaria humana uma vez \"hambúrgueres\". Delicioso."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/novakid/17/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I trust anyone, even those with glowing skin.",
-      "Por": "Eu confio em qualquer um, mesmo aqueles com pele brilhante."
     }
   },
   {
@@ -9403,18 +9820,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/generic/39/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I want to go to bed.",
-      "Por": "Quero ir para a cama."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/hylotl/generic/63"
       ]
     },
@@ -9475,18 +9880,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/greeting/glitch/default/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I will always welcome new friends!",
-      "Por": "Eu sempre receberei novos amigos!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/hylotl/generic/18"
       ]
     },
@@ -9505,18 +9898,6 @@
     "Texts": {
       "Eng": "I wish Avians were descended from crocodiles, not birds.",
       "Por": "Eu queria que os Avians fossem descendentes de crocodilos, não pássaros."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/floran/8/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I wish Glitch could grow flowers.",
-      "Por": "Gostaria que os Glitch pudessem florescer."
     }
   },
   {
@@ -9565,18 +9946,6 @@
     "Texts": {
       "Eng": "I wish that I too glowed like the stars.",
       "Por": "Eu desejo que eu também brilhasse como as estrelas."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/human/2/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I wish that I was in the Protectorate...",
-      "Por": "Eu queria que eu estivesse no Protetorado..."
     }
   },
   {
@@ -9667,18 +10036,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/avian/14/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I wonder who would win a fight, a Glitch knight or an Avian warrior.",
-      "Por": "Eu me pergunto quem ganharia uma luta, um cavaleiro Glitch ou um guerreiro Avian."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/apex/avian/10"
       ]
     },
@@ -9709,30 +10066,6 @@
     "Texts": {
       "Eng": "I would like to know: can Florans communicate with non-sentient plants?",
       "Por": "Eu gostaria de saber: Florans podem se comunicar com plantas não-conscientes?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/hylotl/8/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I would like to visit a Hylotl library some time.",
-      "Por": "Gostaria de visitar uma biblioteca Hylotl qualquer hora."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/hylotl/7/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I wrote an amazing poem once.",
-      "Por": "Eu escrevi um poema incrível uma vez."
     }
   },
   {
@@ -9817,18 +10150,6 @@
     "Texts": {
       "Eng": "I'm a Miniknog guard, you're under arrest! I'm kidding, I'm kidding - the look on your face.",
       "Por": "Eu sou um guarda da Miniknog, você está preso! Estou brincando, estou brincando - o olhar em seu rosto."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/hylotl/9/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I'm a little scared of fish.",
-      "Por": "Tenho um pouco de medo de peixe."
     }
   },
   {
@@ -9967,18 +10288,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/generic/18/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I'm going to check my eel traps later. Wish me luck!",
-      "Por": "Eu vou verificar minhas armadilhas de enguias depois. Me deseje sorte!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/apex/generic/100"
       ]
     },
@@ -10003,18 +10312,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/glitch/12/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I'm going to learn to sword fight! Maybe I'll become a knight!",
-      "Por": "Vou aprender a lutar com espadas! Talvez eu me torne um cavaleiro!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/human/generic/12"
       ]
     },
@@ -10033,18 +10330,6 @@
     "Texts": {
       "Eng": "I'm guessing you have avoided the pleasure of living off of nutrient paste.",
       "Por": "Eu estou supondo que você tem evitado o prazer de viver fora de pasta de nutrientes."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/generic/63/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I'm having a day off tomorrow.",
-      "Por": "Vou ter um dia de folga amanhã."
     }
   },
   {
@@ -10081,18 +10366,6 @@
     "Texts": {
       "Eng": "I'm jealous of you, being an adventurer.",
       "Por": "Estou com ciúmes de você, sendo um aventureiro."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/generic/74/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I'm learning to play the lute!",
-      "Por": "Estou aprendendo a tocar alaúde!"
     }
   },
   {
@@ -10375,18 +10648,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/hylotl/3/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I've always been a fan of your species' superior artistic skills.",
-      "Por": "Eu sempre fui um fã de habilidades artísticas superiores de sua espécie."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/hylotl/apex/5"
       ]
     },
@@ -10435,18 +10696,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/generic/22/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I've been eating pottage for eight straight days. You're lucky you don't have the recipe.",
-      "Por": "Estou comendo lentilhas há oito dias seguidos. Você tem sorte de não ter a receita."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/avian/generic/57"
       ]
     },
@@ -10465,30 +10714,6 @@
     "Texts": {
       "Eng": "I've been nervous for the past few days, like something bad is going to happen.",
       "Por": "Estive nervoso nos últimos dias, como se algo ruim vai acontecer."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/generic/33/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I've been so busy recently.",
-      "Por": "Estive tão ocupado recentemente."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/glitch/3/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I've developed a rust problem.",
-      "Por": "Eu desenvolvi um problema de ferrugem."
     }
   },
   {
@@ -10627,18 +10852,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/apex/7/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I've heard terrible things about the Miniknog, I feel so sorry for your people.",
-      "Por": "Eu ouvi coisas horríveis sobre a Miniknog, eu sinto muito por seu povo."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/hylotl/floran/17"
       ]
     },
@@ -10699,18 +10912,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/hylotl/13/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I've never been to a library, what are they like?",
-      "Por": "Eu nunca fui a uma biblioteca, como elas são?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/floran/generic/72"
       ]
     },
@@ -10735,60 +10936,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/avian/29/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I've never met a bird man before.",
-      "Por": "Nunca conheci um homem-pássaro antes."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/human/avian/8"
       ]
     },
     "Texts": {
       "Eng": "I've never met an Avian I didn't like.",
       "Por": "Eu nunca conheci um Avian que eu não gostei."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/glitch/9/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I've never met such an adventurous Glitch before.",
-      "Por": "Nunca conheci um Glitch tão aventureiro antes."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/hylotl/5/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I've never tried tea, is it good?",
-      "Por": "Nunca experimentei chá, é bom?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/glitch/5/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I've no time for Glitch that go chasing adventure.",
-      "Por": "Não tenho tempo para Glitch aventureiro."
     }
   },
   {
@@ -11070,7 +11223,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Se seu povo não caça, como você sabe quem é o mais forte?"
+    ],
     "Files": {
       "dialog/converse.config": [
         "/converse/floran/human/15",
@@ -11080,6 +11235,78 @@
     "Texts": {
       "Eng": "If your people don't hunt, how do you know who's the sstrongest?",
       "Por": "Se o seu povo não caça, como você sabe quem é o mais forte?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/generic/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impatient. I have things to do!",
+      "Por": "Impaciente. Eu tenho coisas para fazer!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/floran/29"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. I didn't know organic matter could be so strong!",
+      "Por": "Impressionado. Eu não sabia que matéria orgânica poderia ser tão forte!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/glitch/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. I've never met such an adventurous Glitch before.",
+      "Por": "Impressionado. Eu nunca encontrei um Glitch tão aventureiro antes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/generic/53"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. You seem very important.",
+      "Por": "Impressionado. Você parece muito importante."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. You're so shiny.",
+      "Por": "Impressionado. Você é tão brilhante."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/novakid/14"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. Your glowing body is very appealing.",
+      "Por": "Impressionado. Seu corpo brilhante é muito atraente."
     }
   },
   {
@@ -11098,12 +11325,300 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/apex/5/glitchEmotedText"
+        "/converse/glitch/avian/6"
       ]
     },
     "Texts": {
-      "Eng": "Is Big Ape an Apex, or something else?",
-      "Por": "Big Ape é um Apex, ou alguma outra coisa?"
+      "Eng": "Inquisitive. Are Avian bones hollow?",
+      "Por": "Curioso. Os ossos de Avians são ocos?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/apex/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "Inquisitive. Are you perhaps related to the Yetis of legend?",
+      "Por": "Curioso. Você está relacionado com os Yetis da lenda?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/floran/28"
+      ]
+    },
+    "Texts": {
+      "Eng": "Inquisitive. Are your leaves just for show, what is their anatomical function?",
+      "Por": "Curioso. Suas folhas são apenas para mostrar, qual é a sua função anatômica?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/avian/25"
+      ]
+    },
+    "Texts": {
+      "Eng": "Inquisitive. What brings you here bird man?",
+      "Por": "Curioso. O que o traz aqui homem-pássaro?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/avian/15"
+      ]
+    },
+    "Texts": {
+      "Eng": "Inquisitive. What does Kluex look like?",
+      "Por": "Curioso. Com que Kluex se parece?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/glitch/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "Inspired. I'm going to learn to sword fight! Maybe I'll become a knight!",
+      "Por": "Inspirado. Vou aprender a lutar com espada! Talvez eu me torne um cavaleiro!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/glitch/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intent. I think you have a chip in your right eye bulb.",
+      "Por": "Determinado. Acho que você tem um chip no bulbo do seu olho direito."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/avian/13"
+      ]
+    },
+    "Texts": {
+      "Eng": "Interested. Are temples like castles?",
+      "Por": "Interessado. Templos são como castelos?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/hylotl/23"
+      ]
+    },
+    "Texts": {
+      "Eng": "Interested. Do you spend more time on land, or in the water?",
+      "Por": "Interessado. Você fica mais tempo na terra ou na água?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/generic/64"
+      ]
+    },
+    "Texts": {
+      "Eng": "Interested. Does traveling the stars make you happy?",
+      "Por": "Interessado. Será que viajar as estrelas te fazer feliz?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/hylotl/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Interested. I would like to visit a Hylotl library some time.",
+      "Por": "Interessado. Gostaria de visitar uma biblioteca Hylotl alguma hora."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/hylotl/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Interested. I've never tried tea, is it good?",
+      "Por": "Interessado. Eu nunca experimentei chá, é bom?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/generic/82"
+      ]
+    },
+    "Texts": {
+      "Eng": "Interested. There is a severe lack of consistency in your race's exteriors.",
+      "Por": "Interessado. Há uma grave falta de coerência no exterior da sua raça."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/avian/18"
+      ]
+    },
+    "Texts": {
+      "Eng": "Interested. You would make a very comfy feathered pillow.",
+      "Por": "Interessado. Você faria um travesseiro de penas muito confortável."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/novakid/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intrigued. Are there more like you?",
+      "Por": "Intrigado. Há mais como você?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/hylotl/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intrigued. Do Hylotl enjoy rain?",
+      "Por": "Intrigado. Hylotl gosta de chuva?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/human/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intrigued. How do you cope with the jiggling of your fleshy shell?",
+      "Por": "Intrigado. Como você lida com o balançamento de sua concha carnuda?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/novakid/18"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intrigued. How do you maintain your incandescence?",
+      "Por": "Intrigado. Como você mantém sua incandescência?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/hylotl/14"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intrigued. I know Hylotls paint and write, but do they dance?",
+      "Por": "Intrigado. Eu sei que Hylotls pintam e escrevem, mas eles dançam?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/hylotl/13"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intrigued. I've never been to a library, what are they like?",
+      "Por": "Intrigado. Eu nunca fui a uma biblioteca, como elas são?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/novakid/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intrigued. What a strange being?",
+      "Por": "Intrigado. Que ser estranho?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/hylotl/22"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intrigued. What do Hylotl do when they need to take a bath?",
+      "Por": "Intrigado. O que os Hylotl fazem quando precisam tomar um banho?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/human/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intrigued. What is it like to be human?",
+      "Por": "Intrigado. Como é ser humano?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/generic/51"
+      ]
+    },
+    "Texts": {
+      "Eng": "Irritated. I do not really have time to talk.",
+      "Por": "Irritado. Eu realmente não tenho tempo para conversar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/human/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "Irritated. Watch where you locate your lumpy meat!",
+      "Por": "Simpático. Eu ouvi o que aconteceu com a Terra, apenas terrível."
     }
   },
   {
@@ -11326,36 +11841,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/hylotl/2/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "It appears the Glitch aren't the only species lacking in glorious hair.",
-      "Por": "Parece que os Glitch não é a única espécie que falta cabelos gloriosos."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/floran/generic/24"
       ]
     },
     "Texts": {
       "Eng": "It feels like a sstorm is coming.",
       "Por": "Parece que uma tempestade está chegando."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/generic/4/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "It has been a nice day so far.",
-      "Por": "Tem sido um bom dia até agora."
     }
   },
   {
@@ -11470,37 +11961,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/generic/32/glitchEmotedText",
         "/greeting/apex/default/13"
       ]
     },
     "Texts": {
       "Eng": "It is nice to meet you.",
       "Por": "É bom conhecê-lo."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/avian/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "It is said the bird men believe in a feathered god, is that true?",
-      "Por": "Dizem que os homens-pássaro acreditam em um deus emplumado, isso é verdade?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/greeting/glitch/default/2/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "It is wonderful to meet you.",
-      "Por": "É maravilhoso conhecê-lo."
     }
   },
   {
@@ -11525,18 +11991,6 @@
     "Texts": {
       "Eng": "It must be hard for Apex culture to flourish beneath the iron grip of the Miniknog.",
       "Por": "Deve ser difícil para a cultura Apex florescer sob o punho de ferro da Miniknog."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/hylotl/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "It must be liberating to be able to swim through the oceans without a care.",
-      "Por": "Deve ser libertador ser capaz de nadar através dos oceanos sem preocupação."
     }
   },
   {
@@ -11747,18 +12201,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/generic/7/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "It's my birthday today!",
-      "Por": "Hoje é meu aniversário!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/greeting/avian/default/6"
       ]
     },
@@ -11843,36 +12285,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/glitch/4/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "It's strange meeting a foreign Glitch.",
-      "Por": "É estranho conhecer um Glitch estrangeiro."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/hylotl/generic/82"
       ]
     },
     "Texts": {
       "Eng": "It's time to drink tea.",
       "Por": "É hora de beber chá."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/greeting/glitch/default/4/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "It's very nice to meet you.",
-      "Por": "É um prazer conhecer-te."
     }
   },
   {
@@ -11891,12 +12309,120 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
+        "/converse/glitch/hylotl/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "Jealous. Hylotl buildings are so much nicer than Glitch castles.",
+      "Por": "Ciumento. Construções Hylotl são muito mais bonitas do que os castelos Glitch."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/avian/24"
+      ]
+    },
+    "Texts": {
+      "Eng": "Jealous. I suppose feathers look alright.",
+      "Por": "Ciumento. Acho que as penas parecem bem."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/floran/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Jealous. I wish Glitch could grow flowers.",
+      "Por": "Ciumento. Gostaria que os Glitch podessem florescer."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
         "/converse/apex/generic/56"
       ]
     },
     "Texts": {
       "Eng": "Join me for bananas?",
       "Por": "Junte-se a mim para bananas?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/greeting/glitch/default/13"
+      ]
+    },
+    "Texts": {
+      "Eng": "Jolly. Wonderful to meet you.",
+      "Por": "Alegre. Maravilhoso conhecê-lo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/human/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Jovial. A human!",
+      "Por": "Jovial. Um humano!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/human/glitch/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Jovial. Hello! Uh, I hope that wasn't offensive.",
+      "Por": "Jovial. Olá! Uh, espero que não tenha sido ofensivo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/avian/28"
+      ]
+    },
+    "Texts": {
+      "Eng": "Jovial. Well met, my feathered friend.",
+      "Por": "Jovial. Prazer em conhece-lo, meu amigo emplumado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/apex/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Joyful. I love banana bread! Do you have some with you.",
+      "Por": "Alegre. Eu adoro pão de banana! Você tem algum com você."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/avian/22"
+      ]
+    },
+    "Texts": {
+      "Eng": "Joyful. Welcome, bird man.",
+      "Por": "Alegre. Bem-vindo, homem-pássaro."
     }
   },
   {
@@ -11915,24 +12441,36 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/apex/generic/75"
+        "/greeting/glitch/default/6"
       ]
     },
     "Texts": {
-      "Eng": "Just another day in paradise for me.",
-      "Por": "Apenas mais um dia no paraíso para mim."
+      "Eng": "Joyous. A new friend!",
+      "Por": "Alegre. Um novo amigo!"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/avian/2/glitchEmotedText"
+        "/converse/glitch/generic/7"
       ]
     },
     "Texts": {
-      "Eng": "Just as I find myself in need of a new quill, here you are.",
-      "Por": "Assim como eu me encontro na necessidade de uma nova pena, aqui está você."
+      "Eng": "Joyous. It's my birthday today!",
+      "Por": "Alegre. Hoje é meu aniversário!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/apex/generic/75"
+      ]
+    },
+    "Texts": {
+      "Eng": "Just another day in paradise for me.",
+      "Por": "Apenas mais um dia no paraíso para mim."
     }
   },
   {
@@ -11999,12 +12537,48 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/generic/16/glitchEmotedText"
+        "/converse/glitch/floran/25"
       ]
     },
     "Texts": {
-      "Eng": "Keep your distance, I think I have a virus.",
-      "Por": "Mantenha distância, acho que tenho um vírus."
+      "Eng": "Kind. You look friendly enough, I think people have got you Floran all wrong!",
+      "Por": "Gentil. Você parece amigável o suficiente, eu acho que as pessoas entendem vocês Floran tudo errado!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/greeting/glitch/default/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "Kindly. Can I help you somehow?",
+      "Por": "Bondoso. Posso ajudá-lo de alguma forma?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/greeting/glitch/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Kindly. Welcome.",
+      "Por": "Bondoso. Bem-vindo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/apex/13"
+      ]
+    },
+    "Texts": {
+      "Eng": "Kindly. You may rest here any time, ape man.",
+      "Por": "Bondoso. Você pode descansar aqui a qualquer momento, homem macaco."
     }
   },
   {
@@ -12041,18 +12615,6 @@
     "Texts": {
       "Eng": "Last night greenfinger tell sscary sstory about fire. Never play with matches!",
       "Por": "Ontem à noite Greenfinger contou história assustadora sobre fogo. Nunca brinque com fósforos!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/generic/59/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Leave me beeeee!",
-      "Por": "Deixe-me em pazzzzz!"
     }
   },
   {
@@ -12191,18 +12753,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/glitch/7/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Let's play clunky jacks!",
-      "Por": "Vamos jogar clunky jacks!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/floran/generic/22"
       ]
     },
@@ -12311,6 +12861,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
+        "/converse/glitch/generic/27"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lonely. Please don't leave, it's nice to have some company.",
+      "Por": "Solitário. Por favor, não saia, é bom ter uma companhia."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
         "/converse/human/generic/37"
       ]
     },
@@ -12341,18 +12903,6 @@
     "Texts": {
       "Eng": "Looking good, friend. I like your style.",
       "Por": "Boa aparência, amigo. Eu gosto do seu estilo."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/greeting/glitch/default/8/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Lovely to have you here.",
-      "Por": "É um prazer tê-lo aqui."
     }
   },
   {
@@ -12408,36 +12958,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/avian/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "May I buy an egg from you? Your eggs must be quite enormous.",
-      "Por": "Posso comprar um ovo de você? Seus ovos devem ser muito grandes."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/hylotl/avian/3"
       ]
     },
     "Texts": {
       "Eng": "May I have some of your feathers to use as artistic reference?",
       "Por": "Posso usar algumas das suas penas como referência artística?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/floran/18/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "May I have some of your leaves?",
-      "Por": "Posso ter algumas das suas folhas?"
     }
   },
   {
@@ -12462,18 +12988,6 @@
     "Texts": {
       "Eng": "May I paint you? The sheen of your metal is intriguing: the interplay of light and shade.",
       "Por": "Posso pintar você? O brilho do seu metal é intrigante: a interação de luz e sombra."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/floran/24/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "May I smell your flowers?",
-      "Por": "Posso cheirar suas flores?"
     }
   },
   {
@@ -12540,12 +13054,48 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
+        "/converse/glitch/glitch/13"
+      ]
+    },
+    "Texts": {
+      "Eng": "Meditative. Shhh. I'm having new thoughts.",
+      "Por": "Meditativo. Shhh. Estou tendo novos pensamentos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
         "/converse/hylotl/floran/9"
       ]
     },
     "Texts": {
       "Eng": "Meeting a Floran is a little nerve-racking.",
       "Por": "Encontrar um Floran é um pouco irritante."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/generic/42"
+      ]
+    },
+    "Texts": {
+      "Eng": "Merry. Such a pretty creature!",
+      "Por": "Feliz. Uma criatura tão bonita!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/greeting/glitch/default/29"
+      ]
+    },
+    "Texts": {
+      "Eng": "Merry. Welcome, welcome, welcome!",
+      "Por": "Feliz. Bem vindo, bem vindo, bem vindo!"
     }
   },
   {
@@ -12564,12 +13114,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/generic/13/glitchEmotedText"
+        "/converse/glitch/generic/5"
       ]
     },
     "Texts": {
-      "Eng": "Mmm?",
-      "Por": "Mmm?"
+      "Eng": "Mirthful. You look funny!",
+      "Por": "Contente. Você parece engraçado!"
     }
   },
   {
@@ -12636,12 +13186,36 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
+        "/converse/glitch/generic/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Morose. I can't find my favourite boots.",
+      "Por": "Aborrecido. Não consigo encontrar minhas botas favoritas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
         "/converse/apex/hylotl/12"
       ]
     },
     "Texts": {
       "Eng": "Most of our books are about Big Ape.",
       "Por": "A maioria dos nossos livros são sobre Big Ape."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/generic/20"
+      ]
+    },
+    "Texts": {
+      "Eng": "Murderous. I am in a terrible mood.",
+      "Por": "Assassino. Estou de mau humor."
     }
   },
   {
@@ -12696,18 +13270,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/generic/61/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "My cousin is visiting today, she's so much fun!",
-      "Por": "Minha prima está de visita hoje, ela é muito divertida!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/human/glitch/10"
       ]
     },
@@ -12744,18 +13306,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/generic/65/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "My feet ache, my back hurts, my eye bulbs feel dim.",
-      "Por": "Meus pés doem, minhas costas doem, minhas lâmpadas do olho se sentem fracas."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/human/generic/10"
       ]
     },
@@ -12774,18 +13324,6 @@
     "Texts": {
       "Eng": "My friend said humans have dozens of toes, but I think she was pulling my leg.",
       "Por": "Minha amiga disse que os humanos têm dezenas de dedos, mas acho que ela estava me fazendo de bobo."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/generic/36/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "My friend told me I make terrible stew. I make brilliant stew!",
-      "Por": "O meu amigo me disse que faço um guisado terrível. Eu faço um guisado brilhante!"
     }
   },
   {
@@ -12840,18 +13378,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/generic/73/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "My partner and I got our wires crossed. Now he won't talk to me.",
-      "Por": "Meu parceiro e eu tivemos nossos fios cruzados. Agora ele não quer falar comigo."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/hylotl/floran/3"
       ]
     },
@@ -12864,36 +13390,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/generic/24/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "My pig ran away.",
-      "Por": "Meu porco fugiu."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/human/generic/3"
       ]
     },
     "Texts": {
       "Eng": "My shoes are wet, I accidentally stepped in a pond.",
       "Por": "Meus sapatos estão molhados, acidentalmente pisei em uma poça."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/generic/80/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "My shoulder is not an appropriate thing in which to check your reflection.",
-      "Por": "Meu ombro não é uma coisa apropriada para verificar o seu reflexo."
     }
   },
   {
@@ -12924,12 +13426,60 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/avian/21/glitchEmotedText"
+        "/converse/glitch/floran/9"
       ]
     },
     "Texts": {
-      "Eng": "My, what a sharp beak you have.",
-      "Por": "Que bico afiado você tem."
+      "Eng": "Nervous. Are all Florans ferocious?",
+      "Por": "Nervoso. Todos os Florans são ferozes?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/floran/20"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nervous. Will you eh... be here long?",
+      "Por": "Nervoso. Você vai eh... ficar aqui por muito tempo?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/floran/23"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nervous. You don't really eat people do you?",
+      "Por": "Nervoso. Você realmente não comem as pessoas, não é?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/floran/13"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nervous. You're friendly, right?",
+      "Por": "Nervoso. Você é amigável, certo?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/avian/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nervous. You're not here to steal my grain are you?",
+      "Por": "Nervoso. Você não está aqui para roubar meu grão, não é?"
     }
   },
   {
@@ -13080,18 +13630,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/greeting/glitch/default/25/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Nice to get to know you.",
-      "Por": "É bom conhecê-lo."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/greeting/avian/default/5"
       ]
     },
@@ -13110,18 +13648,6 @@
     "Texts": {
       "Eng": "Nice to meat you!",
       "Por": "Prazer em conhecê-lo!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/floran/6/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Nice to meet you plant man, we have rich soil here.",
-      "Por": "Prazer em conhecê-lo homem-planta, temos solo rico aqui."
     }
   },
   {
@@ -13248,18 +13774,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/apex/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "No monkeying around.",
-      "Por": "Sem macaquices."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/human/generic/22"
       ]
     },
@@ -13290,6 +13804,30 @@
     "Texts": {
       "Eng": "No sstab, just say hey.",
       "Por": "Sem essfaquear, apenas dizer oi."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/generic/38"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nonplussed. What are you doing here?",
+      "Por": "Perlexo. O que você está fazendo aqui?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/hylotl/21"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nostalgic. Your scent reminds me of my trips to the seaside as a young Glitch.",
+      "Por": "Nostálgico. Seu cheiro me faz lembrar de minhas viagens para o litoral como um jovem Glitch."
     }
   },
   {
@@ -13440,66 +13978,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/floran/19/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Oh! I didn't notice you there, I thought you were a potted herb.",
-      "Por": "Ah! Eu não notei você ai, eu pensei que você fosse uma planta em um vaso."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/generic/60/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Oh! It's so nice to meet a new person!",
-      "Por": "Oh! É tão bom conhecer uma pessoa nova!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/novakid/7/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Oh! Something new! Nice to meet you!",
-      "Por": "Ah! Algo novo! Prazer em conhecê-lo!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/glitch/8/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Oh, another Glitch. Hooray.",
-      "Por": "Ah, outro Glitch. Hurra."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/greeting/glitch/default/20/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Oh, hello.",
-      "Por": "Ah, Olá."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/hylotl/floran/20"
       ]
     },
@@ -13572,36 +14050,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/generic/37/glitchEmotedText"
+        "/converse/glitch/floran/18"
       ]
     },
     "Texts": {
-      "Eng": "One day I'll become an amazing blacksmith.",
-      "Por": "Um dia vou me tornar um ferreiro incrível."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/generic/17/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "One day follows the next but time seems to stand still.",
-      "Por": "Um dia segue o próximo, mas o tempo parece estar parado."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/hylotl/15/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Ooh! A Hylotl.",
-      "Por": "Ooh! Um Hylotl."
+      "Eng": "Opportunistic. May I have some of your leaves?",
+      "Por": "Oportunista. Posso ter algumas das suas folhas?"
     }
   },
   {
@@ -13668,24 +14122,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/human/novakid/11"
+        "/converse/glitch/apex/3"
       ]
     },
     "Texts": {
-      "Eng": "Ow, my eyes. You're super bright.",
-      "Por": "Oh, meus olhos. Você é super brilhante."
+      "Eng": "Overjoyed. Apex are my favourite beings!",
+      "Por": "Muito feliz. Apex são meus seres favoritos!"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/hylotl/18/glitchEmotedText"
+        "/converse/human/novakid/11"
       ]
     },
     "Texts": {
-      "Eng": "Pacifism seems doomed to failure, my Hylotl friend.",
-      "Por": "O pacifismo parece condenado ao fracasso, meu amigo Hylotl."
+      "Eng": "Ow, my eyes. You're super bright.",
+      "Por": "Oh, meus olhos. Você é super brilhante."
     }
   },
   {
@@ -13728,12 +14182,60 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
+        "/converse/glitch/generic/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Peaceful. It has been a nice day so far.",
+      "Por": "Tranqüilo. Tem sido um bom dia até agora."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
         "/converse/apex/generic/46"
       ]
     },
     "Texts": {
       "Eng": "Penguins? They look cute, but you're a fool if you underestimate them.",
       "Por": "Pinguins? Eles parecem bonito, mas você é um tolo se você subestimá-los."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/avian/14"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pensive. I wonder who would win a fight, a Glitch knight or an Avian warrior.",
+      "Por": "Pensativo. Gostaria de saber quem ganharia uma luta, um cavaleiro Glitch ou um guerreiro Avian."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/floran/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pensive. Sometimes Lords and Ladies have hunts, but I don't think it's like FLoran hunting...",
+      "Por": "Pensativo. Às vezes, Senhores e Senhoras têm caças, mas eu não acho que é como a caça Floran..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/avian/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pensive. Which of you came first? Your egg or.. ERROR",
+      "Por": "Pensativo. Qual de vocês veio primeiro? Seu ovo ou.. ERRO"
     }
   },
   {
@@ -13758,30 +14260,6 @@
     "Texts": {
       "Eng": "People don't make much of it, but you Hylotl must be great engineers to be able to build underwater.",
       "Por": "As pessoas não dão muita importancia, mas vocês Hylotl deve ser grandes engenheiros para ser capaz de construir debaixo d'água."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/generic/19/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "People often think I look regal.",
-      "Por": "As pessoas muitas vezes acham que eu pareço real."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/apex/18/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Perhaps one day you would explain to the Glitch the secret of the banana split.",
-      "Por": "Talvez um dia você explicaria para os Glitch o segredo da banana split."
     }
   },
   {
@@ -13836,30 +14314,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/hylotl/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Perhaps you would like to examine some Glitch constructions to advance your own designs.",
-      "Por": "Talvez você gostaria de examinar algumas construções Glitch para avançar seus próprios projetos."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/hylotl/27/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Perhaps, if you are not too busy, you could take me sailing one day.",
-      "Por": "Talvez, se não estiver muito ocupado, poderia me levar para velejar um dia."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/floran/floran/11"
       ]
     },
@@ -13872,12 +14326,48 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/generic/41/glitchEmotedText"
+        "/converse/glitch/generic/78"
       ]
     },
     "Texts": {
-      "Eng": "Physically we couldn't be more different.",
-      "Por": "Fisicamente não poderíamos ser mais diferentes."
+      "Eng": "Perplexed. I thought I left an apple round here somewhere.",
+      "Por": "Perplexo. Pensei ter deixado uma maçã por aqui em algum lugar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/novakid/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Perplexed. What are you made of?",
+      "Por": "Perplexo. Você é feito de quê?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/human/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Perturbed. Human faces are too expressive.",
+      "Por": "Perturbado. Rostos humanos são muito expressivos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/glitch/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Perturbed. It's strange meeting a foreign Glitch.",
+      "Por": "Perturbado. É estranho encontrar um Glitch estrangeiro."
     }
   },
   {
@@ -13890,6 +14380,18 @@
     "Texts": {
       "Eng": "Place here is nice, right?",
       "Por": "O lugar aqui é agradavel, certo?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/human/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Plaintive. I wish that I was in the Protectorate...",
+      "Por": "Triste. Eu queria estar no Protetorado..."
     }
   },
   {
@@ -13920,12 +14422,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/avian/20/glitchEmotedText"
+        "/converse/glitch/apex/18"
       ]
     },
     "Texts": {
-      "Eng": "Please attempt to restrain your zeal for shiny objects while you are here.",
-      "Por": "Por favor, tente restringir seu zelo por objetos brilhantes enquanto você está aqui."
+      "Eng": "Pleading. Perhaps one day you would explain to the Glitch the secret of the banana split.",
+      "Por": "Implorativo. Talvez um dia você explicasse aos Glitch o segredo da banana split."
     }
   },
   {
@@ -13950,30 +14452,6 @@
     "Texts": {
       "Eng": "Please calm down, Glitch.",
       "Por": "Por favor, acalme-se, Glitch."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/floran/22/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Please don't eat our livestock.",
-      "Por": "Por favor não coma nosso gado."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/generic/27/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Please don't leave, it's nice to have some company.",
-      "Por": "Por favor não vá embora, é bom ter companhia."
     }
   },
   {
@@ -14028,18 +14506,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/generic/40/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Please stop pushing my buttons.",
-      "Por": "Por favor, pare de apertar meus botões."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/hylotl/generic/22"
       ]
     },
@@ -14088,18 +14554,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/hylotl/19/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Please, tell me more about Hylotl craftsmanship.",
-      "Por": "Por favor, me fale mais sobre o artesanato Hylotl."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/greeting/apex/default/21"
       ]
     },
@@ -14118,6 +14572,42 @@
     "Texts": {
       "Eng": "Pleased to meet you.",
       "Por": "Prazer em conhecê-lo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/glitch/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased. What a pleasant Glitch.",
+      "Por": "Satisfeito. Que Glitch agradável."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/novakid/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased. You really brighten up the place.",
+      "Por": "Satisfeito. Você realmente ilumina o lugar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/floran/15"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased. You smell like flowers! How lovely.",
+      "Por": "Contente. Você cheira a flores! Que adorável."
     }
   },
   {
@@ -14184,6 +14674,54 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
+        "/converse/glitch/hylotl/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Proud. I wrote an amazing poem once.",
+      "Por": "Orgulhoso. Eu escrevi um poema incrível uma vez."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/generic/19"
+      ]
+    },
+    "Texts": {
+      "Eng": "Proud. People often think I look regal.",
+      "Por": "Orgulhoso. As pessoas muitas vezes pensam que eu pareço um monarca."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/generic/14"
+      ]
+    },
+    "Texts": {
+      "Eng": "Proud. What do you think of this place?",
+      "Por": "Orgulhoso. O que você acha deste lugar?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/human/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "Quizzical. Are you an Apex? Where is your fur?",
+      "Por": "Curioso. Você é um Apex? Onde está seu pelo?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
         "/converse/apex/avian/21"
       ]
     },
@@ -14196,12 +14734,72 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
+        "/converse/glitch/generic/36"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rankled. My friend told me I make terrible stew. I make brilliant stew!",
+      "Por": "Classificado. Meu amigo me disse que eu fasso um ensopado terrível. Eu faço um ensopado brilhante!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/hylotl/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reassured. It appears the Glitch aren't the only species lacking in glorious hair.",
+      "Por": "Tranquilizado. Parece que os Glitch não são a única espécie que não tem cabelo glorioso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/generic/57"
+      ]
+    },
+    "Texts": {
+      "Eng": "Refreshed. I just had a wonderful nap.",
+      "Por": "Revigorado. Eu tirei uma soneca maravilhosa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
         "/converse/apex/generic/81"
       ]
     },
     "Texts": {
       "Eng": "Relax, stay awhile, unwind. You look tired from all this adventuring.",
       "Por": "Relaxe, fique um pouco, descontraia. Você parece cansado de toda essa aventura."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/floran/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reproving. Don't eat anybody.",
+      "Por": "Reprovação. Não coma ninguém."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/greeting/glitch/default/18"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reserved. Good day.",
+      "Por": "Reservado. Dia bom."
     }
   },
   {
@@ -14244,12 +14842,36 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/greeting/glitch/default/0/glitchEmotedText"
+        "/converse/glitch/generic/73"
       ]
     },
     "Texts": {
-      "Eng": "Salutations.",
-      "Por": "Saudações."
+      "Eng": "Sad. My partner and I got our wires crossed. Now he won't talk to me.",
+      "Por": "Triste. Meu parceiro e eu cruzamo os nossos fios. Agora ele não vai falar comigo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/hylotl/18"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sad. Pacifism seems doomed to failure, my Hylotl friend.",
+      "Por": "Triste. O pacifismo parece ser condenado ao fracasso, meu amigo Hylotl."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/hylotl/19"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sarcastic. Please, tell me more about Hylotl craftsmanship.",
+      "Por": "Sarcástico. Por favor, me fale mais sobre o artesanato Hylotl."
     }
   },
   {
@@ -14328,12 +14950,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/glitch/13/glitchEmotedText"
+        "/converse/glitch/hylotl/17"
       ]
     },
     "Texts": {
-      "Eng": "Shhh. I'm having new thoughts.",
-      "Por": "Shhh. Estou tendo novos pensamentos."
+      "Eng": "Shy. Could I make you some tea? I think I brew quite a good cup.",
+      "Por": "Tímido. Posso fazer um pouco de chá pra você? Acho que faço uma boa xícara."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/hylotl/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shy. I've always been a fan of your species' superior artistic skills.",
+      "Por": "Tímido. Eu sempre fui um fã das habilidades artísticas de qualidade superior de sua espécie."
     }
   },
   {
@@ -14344,8 +14978,31 @@
       ]
     },
     "Texts": {
-      "Eng": "Skreeeeee!",
-      "Por": "Skreeeeee!"
+      "Eng": "Skreeeeee!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/avian/16"
+      ]
+    },
+    "Texts": {
+      "Eng": "Smitten. I love your beak.",
+      "Por": "Amavel. Eu amo seu bico."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/floran/21"
+      ]
+    },
+    "Texts": {
+      "Eng": "Smitten. You have lovely buds.",
+      "Por": "Amavel. Você tem botões adoráveis."
     }
   },
   {
@@ -14532,6 +15189,30 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
+        "/greeting/glitch/default/22"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sociable. How are you doing?",
+      "Por": "Sociável. Como vai você?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/greeting/glitch/default/25"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sociable. Nice to get to know you.",
+      "Por": "Sociável. Prazer em te conhecer."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
         "/converse/hylotl/hylotl/10"
       ]
     },
@@ -14556,36 +15237,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/generic/72/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Someone squished my chicken!",
-      "Por": "Alguém esmagou minha galinha!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/human/hylotl/20"
       ]
     },
     "Texts": {
       "Eng": "Something about you makes me want fish and chips. Can't put my finger on what.",
       "Por": "Algo sobre você me faz querer peixe e batatas fritas."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/generic/25/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Something does not seem right.",
-      "Por": "Algo não parece certo."
     }
   },
   {
@@ -14700,18 +15357,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/floran/11/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Sometimes Lords and Ladies have hunts, but I don't think it's like FLoran hunting...",
-      "Por": "Às vezes, Senhores e Senhoras caçam, mas eu não acho que é como os Floran caçam..."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/human/generic/14"
       ]
     },
@@ -14724,12 +15369,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/hylotl/4/glitchEmotedText"
+        "/converse/glitch/human/4"
       ]
     },
     "Texts": {
-      "Eng": "Sometimes when I try to swim I just float, but sometimes I try and I sink instead!",
-      "Por": "Às vezes, quando eu tento nadar eu apenas flutuo, mas às vezes eu tento e eu afundo."
+      "Eng": "Sorrowful. What happened to Earth was so sad.",
+      "Por": "Triste. O que aconteceu com a Terra foi tão triste."
     }
   },
   {
@@ -14754,18 +15399,6 @@
     "Texts": {
       "Eng": "Sorry, I need some time to myself.",
       "Por": "Desculpe, preciso de um tempo para mim."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/generic/79/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Sorry, I've only just woken up. What where you saying?",
-      "Por": "Desculpe, acabei de acordar. O que estava dizendo?"
     }
   },
   {
@@ -14940,24 +15573,48 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/greeting/hylotl/default/23"
+        "/converse/glitch/generic/44"
       ]
     },
     "Texts": {
-      "Eng": "Such a pleasure.",
-      "Por": "Que prazer."
+      "Eng": "Startled. Hi...",
+      "Por": "Assustado. Oi..."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/generic/42/glitchEmotedText"
+        "/converse/glitch/floran/19"
       ]
     },
     "Texts": {
-      "Eng": "Such a pretty creature!",
-      "Por": "Que criatura tão bonita!"
+      "Eng": "Startled. Oh! I didn't notice you there, I thought you were a potted herb.",
+      "Por": "Assustado. Oh! Eu não notei você ai, eu pensei que você era uma vaso de flor."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/novakid/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Startled. You glow brighter than my eyes.",
+      "Por": "Assustado. Você brilha mais brilhante do que meus olhos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/greeting/hylotl/default/23"
+      ]
+    },
+    "Texts": {
+      "Eng": "Such a pleasure.",
+      "Por": "Que prazer."
     }
   },
   {
@@ -14982,6 +15639,54 @@
     "Texts": {
       "Eng": "Sup?",
       "Por": "E aí?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/greeting/glitch/default/28"
+      ]
+    },
+    "Texts": {
+      "Eng": "Surly. Hello...",
+      "Por": "Grosseiro. Olá..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/novakid/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Surprised. I do not know what to make of you.",
+      "Por": "Surpreso. Eu não sei o que fazer com você."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/generic/47"
+      ]
+    },
+    "Texts": {
+      "Eng": "Suspicious. What's your business here?",
+      "Por": "Suspeito. Qual é o seu assunto aqui?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/human/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sympathetic. I heard what happened to Earth, just terrible.",
+      "Por": "Simpático. Eu ouvi o que aconteceu com a Terra, apenas terrível."
     }
   },
   {
@@ -15114,6 +15819,30 @@
     "Texts": {
       "Eng": "Tentacles, eh? Who'd have 'em? Seriously though, they're the worst.",
       "Por": "Tentáculos, hein? Quem poderia tê-los? Sério, eles são os piores."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/generic/45"
+      ]
+    },
+    "Texts": {
+      "Eng": "Terrified. Ahhhh!",
+      "Por": "Aterrorizado. Ahhhh!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/generic/62"
+      ]
+    },
+    "Texts": {
+      "Eng": "Terrified. This universe is filled with monsters!",
+      "Por": "Aterrorizado. This universe is filled with monsters!"
     }
   },
   {
@@ -15564,18 +16293,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/generic/82/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "There is a severe lack of consistency in your race's exteriors.",
-      "Por": "Há uma severa falta de consistência nos exteriores da sua raça."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/hylotl/floran/30"
       ]
     },
@@ -15660,18 +16377,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/generic/81/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "There's no accounting for tastes in fashion...",
-      "Por": "Não há contabilidade para os gostos na moda ..."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/avian/glitch/15"
       ]
     },
@@ -15720,30 +16425,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/generic/69/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This is such a friendly place.",
-      "Por": "Este é um lugar tão amigável."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/generic/62/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This universe is filled with monsters!",
-      "Por": "Este universo está repleto de monstros!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/apex/generic/57"
       ]
     },
@@ -15780,6 +16461,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
+        "/converse/glitch/generic/41"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thoughtful. Physically we couldn't be more different.",
+      "Por": "Pensativo. Fisicamente, não poderíamos ser mais diferentes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
         "/converse/floran/hylotl/17"
       ]
     },
@@ -15804,12 +16497,36 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/generic/71/glitchEmotedText"
+        "/converse/glitch/glitch/10"
       ]
     },
     "Texts": {
-      "Eng": "Time seems to stand still sometimes.",
-      "Por": "O tempo parece ficar parado às vezes."
+      "Eng": "Tired. How do you young Glitch have so much energy?",
+      "Por": "Cansado. Como você jovem Glitch tem tanta energia?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/generic/39"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tired. I want to go to bed.",
+      "Por": "Cansado. Eu quero ir para a cama."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/generic/65"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tired. My feet ache, my back hurts, my eye bulbs feel dim.",
+      "Por": "Cansado. Meus pés doem, minhas costas doem, meus bulbos oculares sentem fracos."
     }
   },
   {
@@ -15888,6 +16605,78 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
+        "/converse/glitch/generic/72"
+      ]
+    },
+    "Texts": {
+      "Eng": "Traumatised. Someone squished my chicken!",
+      "Por": "Traumatizado. Alguém esmagou minha galinha!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/apex/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trepidatious. No monkeying around.",
+      "Por": "Perturbado. Sem macaquisse por ai."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/generic/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trepidatious. What is your business here?",
+      "Por": "Cauteloso. Qual é o seu assunto aqui?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/generic/46"
+      ]
+    },
+    "Texts": {
+      "Eng": "Troubled. I think I might have buried my spade.",
+      "Por": "Incomodado. Acho que eu poderia ter enterrado minha pá."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/generic/26"
+      ]
+    },
+    "Texts": {
+      "Eng": "Truthful. I do not want to talk to you.",
+      "Por": "Verdadeiro. Eu não quero falar com você."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/avian/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "Truthful. I don't know anything about Avians.",
+      "Por": "Verdadeiro. Eu não sei nada sobre Avians."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
         "/converse/apex/glitch/5"
       ]
     },
@@ -15900,12 +16689,48 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/floran/17/glitchEmotedText"
+        "/converse/glitch/generic/56"
       ]
     },
     "Texts": {
-      "Eng": "Try not to scare anyone plant man, we don't want everyone running for the hills.",
-      "Por": "Tente não assustar ninguém homem-planta, não queremos que todos corram para as colinas."
+      "Eng": "Underwhelmed. Well aren't you fascinating?",
+      "Por": "Despreocupado. Bem, você não é fascinante?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/avian/19"
+      ]
+    },
+    "Texts": {
+      "Eng": "Uninterested. A flock of your kind came through the other day.",
+      "Por": "Desinteressado. Um bando de seu tipo veio aqui outro dia."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/generic/67"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unsatisfied. Day after day, it's always the same.",
+      "Por": "Insatisfeito. Dia após dia, é sempre o mesmo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/avian/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Untroubled. I hold no ill will towards you bird man.",
+      "Por": "Despreocupado. Eu não nenhum recentimento em relação a você, homem-pássaro."
     }
   },
   {
@@ -15996,24 +16821,36 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/apex/generic/79"
+        "/converse/glitch/hylotl/9"
       ]
     },
     "Texts": {
-      "Eng": "Watch out, step away - today I am clumsy.",
-      "Por": "Cuidado, afaste-se - hoje estou desajeitado."
+      "Eng": "Wary. I'm a little scared of fish.",
+      "Por": "Cauteloso. Eu tenho um pouco de medo de peixes."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/human/10/glitchEmotedText"
+        "/converse/glitch/avian/20"
       ]
     },
     "Texts": {
-      "Eng": "Watch where you locate your lumpy meat!",
-      "Por": "Tenha cuidado, carne."
+      "Eng": "Wary. Please attempt to restrain your zeal for shiny objects while you are here.",
+      "Por": "Cauteloso. Por favor, tente controlar o seu amor por objetos brilhantes enquanto estiver aqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/apex/generic/79"
+      ]
+    },
+    "Texts": {
+      "Eng": "Watch out, step away - today I am clumsy.",
+      "Por": "Cuidado, afaste-se - hoje estou desajeitado."
     }
   },
   {
@@ -16167,18 +17004,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/greeting/glitch/default/23/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Welcome stranger.",
-      "Por": "Bem-vindo estranho."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/greeting/hylotl/default/25"
       ]
     },
@@ -16191,7 +17016,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/greeting/glitch/default/19/glitchEmotedText",
         "/greeting/human/default/23"
       ]
     },
@@ -16210,18 +17034,6 @@
     "Texts": {
       "Eng": "Welcome, Hylotl!",
       "Por": "Bem vindo, Hylotl!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/avian/22/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Welcome, bird man.",
-      "Por": "Bem-vindo, homem-pássaro."
     }
   },
   {
@@ -16276,18 +17088,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/greeting/glitch/default/29/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Welcome, welcome, welcome!",
-      "Por": "Bem-vindo, bem-vindo, bem-vindo!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/greeting/hylotl/default/24"
       ]
     },
@@ -16303,7 +17103,6 @@
         "/greeting/apex/default/11",
         "/greeting/avian/default/13",
         "/greeting/floran/default/16",
-        "/greeting/glitch/default/5/glitchEmotedText",
         "/greeting/hylotl/default/13"
       ]
     },
@@ -16316,12 +17115,72 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/generic/56/glitchEmotedText"
+        "/greeting/glitch/default/11"
       ]
     },
     "Texts": {
-      "Eng": "Well aren't you fascinating?",
-      "Por": "Bem, você não é fascinante?"
+      "Eng": "Welcoming. Hello!",
+      "Por": "Acolhedor. Olá!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/avian/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welcoming. How do you like it here, feathered friend?",
+      "Por": "Acolhedor. O que você está achando daqui, amigo empenado?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/novakid/17"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welcoming. I trust anyone, even those with glowing skin.",
+      "Por": "Acolhedor. Eu confio em qualquer um, mesmo aqueles com pele brilhante."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/greeting/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welcoming. I will always welcome new friends!",
+      "Por": "Acolhedor. Eu sempre acolho novos amigos!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/greeting/glitch/default/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welcoming. Lovely to have you here.",
+      "Por": "Acolhedor. Agradável de se ter você aqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/generic/76"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welcoming. What a friendly face!",
+      "Por": "Acolhedor. Que rosto simpático!"
     }
   },
   {
@@ -16352,18 +17211,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/avian/28/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Well met, my feathered friend.",
-      "Por": "Bom conhece-lo, meu amigo emplumado."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/novakid/novakid/2"
       ]
     },
@@ -16382,18 +17229,6 @@
     "Texts": {
       "Eng": "Well this is a surprise, a Floran.",
       "Por": "Bem, isso é uma surpresa, um Floran."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/generic/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Well this is fun.",
-      "Por": "Bem, isso é divertido."
     }
   },
   {
@@ -16424,18 +17259,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/floran/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Were you born or grown?",
-      "Por": "Você nasceu ou cresceu?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/apex/generic/95"
       ]
     },
@@ -16454,18 +17277,6 @@
     "Texts": {
       "Eng": "What a fearsome visage you have.",
       "Por": "Que Cara temerosa você tem."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/generic/76/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "What a friendly face!",
-      "Por": "Que rosto amigável!"
     }
   },
   {
@@ -16496,66 +17307,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/generic/77/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "What a lovely day.",
-      "Por": "Que dia adorável."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/glitch/11/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "What a pleasant Glitch.",
-      "Por": "Que Glitch agradável."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/generic/29/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "What a pleasant day.",
-      "Por": "Que dia agradável."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/novakid/10/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "What a strange being?",
-      "Por": "Que ser estranho?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/novakid/13/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "What a strange encounter.",
-      "Por": "Que encontro estranho."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/hylotl/glitch/17"
       ]
     },
@@ -16580,36 +17331,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/generic/38/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "What are you doing here?",
-      "Por": "O que você está fazendo aqui?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/apex/generic/71"
       ]
     },
     "Texts": {
       "Eng": "What are you here to do?",
       "Por": "O que você está aqui para fazer?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/novakid/6/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "What are you made of?",
-      "Por": "Você é feito de quê?"
     }
   },
   {
@@ -16657,48 +17384,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/avian/25/glitchEmotedText"
+        "/greeting/avian/default/12"
       ]
     },
     "Texts": {
-      "Eng": "What brings you here bird man?",
-      "Por": "O que traz você aqui homem-pássaro?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/generic/75/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "What brings you here friend?",
-      "Por": "O que o traz aqui amigo?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/generic/8/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "What could I have done with my hat? I just had it in my hand!",
-      "Por": "O que eu poderia ter feito com o meu chapéu? Ele estava na minha mão agora mesmo!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/hylotl/22/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "What do Hylotl do when they need to take a bath?",
-      "Por": "O que os Hylotl fazem quando precisam tomar banho?"
+      "Eng": "What can I do for you?",
+      "Por": "O que posso fazer para você?"
     }
   },
   {
@@ -16777,36 +17468,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/generic/14/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "What do you think of this place?",
-      "Por": "O que acha deste lugar?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/avian/generic/68"
       ]
     },
     "Texts": {
       "Eng": "What do you want to talk about?",
       "Por": "Sobre o que você quer falar?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/avian/15/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "What does Kluex look like?",
-      "Por": "Como é Kluex?"
     }
   },
   {
@@ -16843,30 +17510,6 @@
     "Texts": {
       "Eng": "What experiment produced you?",
       "Por": "Que experiência produziu você?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/apex/12/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "What function does your pelt serve Ape man?",
-      "Por": "Qual a função da sua pele homem-macaco?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/human/4/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "What happened to Earth was so sad.",
-      "Por": "O que aconteceu com a Terra foi tão triste."
     }
   },
   {
@@ -16933,60 +17576,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/apex/11/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "What is a Miniknog?",
-      "Por": "O que é uma Miniknog?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/generic/9/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "What is happening here?",
-      "Por": "O que esta acontecendo aqui?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/human/5/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "What is it like to be human?",
-      "Por": "Como é ser humano?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/apex/hylotl/25"
       ]
     },
     "Texts": {
       "Eng": "What is it like to belong under the ocean?",
       "Por": "Como é estar debaixo do oceano?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/generic/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "What is your business here?",
-      "Por": "Qual é o seu proposito aqui?"
     }
   },
   {
@@ -17047,30 +17642,6 @@
     "Texts": {
       "Eng": "What metal are you made from?",
       "Por": "De que metal você é feito?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/floran/3/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "What sharp teeth you have!",
-      "Por": "Que dentes afiados você tem!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/novakid/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "What sort of a being are you?",
-      "Por": "Que tipo de ser você é?"
     }
   },
   {
@@ -17281,18 +17852,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/human/6/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Where Earth chickens the same as Glitch chickens?",
-      "Por": "As galinhas da Terra são as mesmas que as galinhas Glitch?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/avian/generic/24"
       ]
     },
@@ -17342,8 +17901,7 @@
     "Files": {
       "dialog/converse.config": [
         "/converse/avian/novakid/11",
-        "/converse/floran/novakid/13",
-        "/converse/glitch/generic/48/glitchEmotedText"
+        "/converse/floran/novakid/13"
       ]
     },
     "Texts": {
@@ -17397,18 +17955,6 @@
     "Texts": {
       "Eng": "Which meat is the best meat?",
       "Por": "Qual carne é a melhor carne?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/avian/3/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Which of you came first? Your egg or.. ERROR",
-      "Por": "Qual de vocês veio primeiro? Seu ovo ou.. ERRO"
     }
   },
   {
@@ -17523,42 +18069,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/generic/2/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Why are you bothering me?",
-      "Por": "Por que você está me incomodando?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/generic/10/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Why are you here?",
-      "Por": "Por quê você está aqui?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/human/12/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Why are you wearing that flesh over your chassis?",
-      "Por": "Por que você está vestindo essa carne em seu chassi?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/floran/hylotl/18"
       ]
     },
@@ -17595,48 +18105,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/generic/21/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Why is cooking so hard? All my dishes taste terrible.",
-      "Por": "Por que cozinhar é tão difícil? Todos os meus pratos são terríveis."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/greeting/glitch/default/21/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Why, hello!",
-      "Por": "Olá!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/novakid/hylotl/6"
       ]
     },
     "Texts": {
       "Eng": "Why, you're almost as colourful as me!",
       "Por": "Ocê é quase tão colorido como eu!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/floran/20/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Will you eh... be here long?",
-      "Por": "Você vai um... ficar aqui muito tempo?"
     }
   },
   {
@@ -17655,12 +18129,36 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/greeting/glitch/default/13/glitchEmotedText"
+        "/converse/glitch/apex/16"
       ]
     },
     "Texts": {
-      "Eng": "Wonderful to meet you.",
-      "Por": "Prazer em conhecê-lo."
+      "Eng": "Wistful. I am sorry. I drifted off for a moment, imagining your fur blowing softly in the breeze.",
+      "Por": "Melancólico. Sinto muito. Eu adormeci por um momento, imaginando seu pelo soprando suavemente na brisa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/generic/17"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wistful. One day follows the next but time seems to stand still.",
+      "Por": "Desejoso. Um dia segue o próximo, mas o tempo parece ficar parado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/generic/24"
+      ]
+    },
+    "Texts": {
+      "Eng": "Woebegone. My pig ran away.",
+      "Por": "Triste. Meu porco fugiu."
     }
   },
   {
@@ -17679,12 +18177,108 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/apex/9/glitchEmotedText"
+        "/converse/glitch/human/3"
       ]
     },
     "Texts": {
-      "Eng": "Would you care for a banana?",
-      "Por": "Quer uma banana?"
+      "Eng": "Worried. Do you think what happened on Earth could happen here?",
+      "Por": "Preocupado. Você acha que o que aconteceu na Terra poderia acontecer aqui?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/generic/54"
+      ]
+    },
+    "Texts": {
+      "Eng": "Worried. Every time I bend down my back clanks.",
+      "Por": "Preocupado. Toda vez que eu abaixo minhas costas range."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/novakid/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Worried. I saw a Glitch glow like that once - he was very ill.",
+      "Por": "Preocupado. Eu vi um Glitch brilhar assim uma vez - ele estava muito doente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/generic/52"
+      ]
+    },
+    "Texts": {
+      "Eng": "Worried. I think I broke my friends crafting table.",
+      "Por": "Preocupado. Acho que quebrei a mesa de artesanato do meu amigo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/generic/15"
+      ]
+    },
+    "Texts": {
+      "Eng": "Worried. I think I may have a screw loose.",
+      "Por": "Preocupado. Acho que posso ter um parafuso solto."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/generic/16"
+      ]
+    },
+    "Texts": {
+      "Eng": "Worried. Keep your distance, I think I have a virus.",
+      "Por": "Preocupado. Mantenha distância, acho que tenho um vírus."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/floran/22"
+      ]
+    },
+    "Texts": {
+      "Eng": "Worried. Please don't eat our livestock.",
+      "Por": "Preocupado. Por favor, não coma o nosso gado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/generic/25"
+      ]
+    },
+    "Texts": {
+      "Eng": "Worried. Something does not seem right.",
+      "Por": "Preocupado. Algo não parece certo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/converse/glitch/glitch/14"
+      ]
+    },
+    "Texts": {
+      "Eng": "Worried. You don't have a virus do you?",
+      "Por": "Preocupado. Você não tem vírus, não é?"
     }
   },
   {
@@ -17697,30 +18291,6 @@
     "Texts": {
       "Eng": "Would you consider science an art? It seems to take that place in Apex society.",
       "Por": "Você consideraria a ciência uma arte? Parece assumir esse lugar na sociedade Apex."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/floran/30/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Would you like some water?",
-      "Por": "Você gostaria de um pouco de água?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/apex/17/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Would you... would you be offended if I ran my fingers through your mane?",
-      "Por": "Você... se ofenderia se eu passasse meus dedos pela sua juba?"
     }
   },
   {
@@ -17781,18 +18351,6 @@
     "Texts": {
       "Eng": "Y'all have any experience herdin' mooshi?",
       "Por": "Ocê tem alguma experiência em pastorear mooshi?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/greeting/glitch/default/3/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Yay! A new friend!",
-      "Por": "Yay! Um novo amigo!"
     }
   },
   {
@@ -17943,18 +18501,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/generic/34/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "You are delightful.",
-      "Por": "Você é encantador."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/apex/novakid/11"
       ]
     },
@@ -18027,18 +18573,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/floran/16/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "You are not so frightening.",
-      "Por": "Você não é tão assustador."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/apex/glitch/1"
       ]
     },
@@ -18069,18 +18603,6 @@
     "Texts": {
       "Eng": "You are the first human that I've met.",
       "Por": "Você é o primeiro humano que encontro."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/generic/23/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "You are very nice-looking.",
-      "Por": "Você é muito legal."
     }
   },
   {
@@ -18183,48 +18705,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/generic/49/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "You don't happen to have a ratchet do you?",
-      "Por": "Por acaso você não teria uma catraca, teria?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/glitch/14/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "You don't have a virus do you?",
-      "Por": "Você não tem um vírus, não é?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/avian/generic/46"
       ]
     },
     "Texts": {
       "Eng": "You don't look so good. Are you getting enough seeds?",
       "Por": "Você não parece tão bem. Você está recebendo sementes suficientes?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/floran/23/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "You don't really eat people do you?",
-      "Por": "Você realmente não come pessoas, não é?"
     }
   },
   {
@@ -18339,18 +18825,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/novakid/4/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "You glow brighter than my eyes.",
-      "Por": "Você brilha mais forte que meus olhos."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/floran/generic/46"
       ]
     },
@@ -18459,54 +18933,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/hylotl/24/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "You have a fish in your pocket.",
-      "Por": "Você tem um peixe no seu bolso."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/floran/7/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "You have a frightening appearance Floran.",
-      "Por": "Você tem uma aparência assustadora Floran."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/avian/23/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "You have beautiful plumage. May I have a feather?",
-      "Por": "Você tem uma plumagem linda. Posso pegar uma pena?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/floran/21/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "You have lovely buds.",
-      "Por": "Você tem botões adoráveis."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/avian/avian/9"
       ]
     },
@@ -18597,30 +19023,6 @@
     "Texts": {
       "Eng": "You look cold, you need more body hair.",
       "Por": "Você parece estar com frio, você precisa de mais pêlos no corpo."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/floran/25/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "You look friendly enough, I think people have got you Floran all wrong!",
-      "Por": "Você parece amigável o suficiente, eu acho que as pessoas veem vocês Floran tudo errado!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/generic/5/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "You look funny!",
-      "Por": "Você parece engraçado!"
     }
   },
   {
@@ -18807,18 +19209,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/apex/2/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "You look very strong.",
-      "Por": "Você parece muito forte."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/avian/floran/12"
       ]
     },
@@ -18849,18 +19239,6 @@
     "Texts": {
       "Eng": "You may look mighty fleshy an' fragile, but if you can shoot fast you're still a fine type.",
       "Por": "Ocê pode parecer poderoso carnudo e frágil, mas se ocê poder atirar rápido ocê ainda é um tipo fino."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/apex/13/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "You may rest here any time, ape man.",
-      "Por": "Pode descansar aqui a qualquer hora, homem macaco."
     }
   },
   {
@@ -18927,36 +19305,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/novakid/11/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "You must never have to buy torch oil.",
-      "Por": "Você nunca deve ter que comprar óleo de tocha."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/apex/apex/2"
       ]
     },
     "Texts": {
       "Eng": "You need to borrow a comb? Just ask.",
       "Por": "Você precisa pegar um pente emprestado? Basta perguntar."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/novakid/8/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "You really brighten up the place.",
-      "Por": "Você realmente alegra o lugar."
     }
   },
   {
@@ -19131,36 +19485,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/floran/4/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "You seem polite, but I cannot be sure you won't try to eat me.",
-      "Por": "Você parece educado, mas eu não posso ter certeza que você não vai tentar me comer."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/hylotl/generic/95"
       ]
     },
     "Texts": {
       "Eng": "You seem quite boisterous.",
       "Por": "Você parece bastante barulhento."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/generic/53/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "You seem very important.",
-      "Por": "Você parece muito importante."
     }
   },
   {
@@ -19221,18 +19551,6 @@
     "Texts": {
       "Eng": "You smell like flowers and fresh air.",
       "Por": "Você cheira a flores e ar fresco."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/floran/15/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "You smell like flowers! How lovely.",
-      "Por": "Você cheira como flores! Que adorável."
     }
   },
   {
@@ -19335,18 +19653,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/human/14/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "You wobble when you walk.",
-      "Por": "Você balança quando anda."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/avian/floran/21"
       ]
     },
@@ -19365,18 +19671,6 @@
     "Texts": {
       "Eng": "You would be a terrible \"murder in the dark\" player.",
       "Por": "Você seria um terrível jogador de \"Assassinato no escuro\"."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/avian/18/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "You would make a very comfy feathered pillow.",
-      "Por": "Você faria um travesseiro de penas muito confortável."
     }
   },
   {
@@ -19503,18 +19797,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/floran/13/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "You're friendly, right?",
-      "Por": "Você é amigável, certo?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/apex/apex/6"
       ]
     },
@@ -19569,18 +19851,6 @@
     "Texts": {
       "Eng": "You're not from around here, are you?",
       "Por": "Você não é daqui, não é?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/avian/10/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "You're not here to steal my grain are you?",
-      "Por": "Você não está aqui para roubar meu grão, né?"
     }
   },
   {
@@ -19696,36 +19966,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/floran/27/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "You're so pretty!",
-      "Por": "Você é tão bonito!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/human/floran/14"
       ]
     },
     "Texts": {
       "Eng": "You're so pretty.",
       "Por": "Você é tão bonito(a)."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/glitch/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "You're so shiny.",
-      "Por": "Você é tão brilhante."
     }
   },
   {
@@ -19864,18 +20110,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/novakid/9/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Your face is strange... Did a blacksmith make you?",
-      "Por": "Seu rosto é estranho... Foi um ferreiro que te fez?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/avian/avian/2"
       ]
     },
@@ -19936,18 +20170,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/apex/14/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Your fur looks wonderful! Would that I were an Apex.",
-      "Por": "Sua pelo está maravilhosa! Se eu fosse um Apex."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/hylotl/apex/21"
       ]
     },
@@ -19978,30 +20200,6 @@
     "Texts": {
       "Eng": "Your glow, does it ever fade?",
       "Por": "O seu brilho, ele nunca desaparece?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/novakid/14/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Your glowing body is very appealing.",
-      "Por": "Seu corpo brilhante é muito atraente."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/apex/8/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Your hair is a rare gift, you should keep it in better condition.",
-      "Por": "Seu cabelo é um dom raro, você deve mantê-lo em melhores condições."
     }
   },
   {
@@ -20128,48 +20326,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/converse/glitch/glitch/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Your optics are so well lit!",
-      "Por": "Seus óticos estão tão bem iluminados!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/apex/avian/0"
       ]
     },
     "Texts": {
       "Eng": "Your plumage is impressive, my friend.",
       "Por": "Sua plumagem é impressionante, meu amigo."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/hylotl/21/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Your scent reminds me of my trips to the seaside as a young Glitch.",
-      "Por": "Seu perfume me lembra de minhas viagens à beira-mar quando era um jovem Glitch."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
-        "/converse/glitch/floran/5/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Your teeth won't pierce my casing!",
-      "Por": "Seus dentes não vão perfurar meu revestimento!"
     }
   },
   {

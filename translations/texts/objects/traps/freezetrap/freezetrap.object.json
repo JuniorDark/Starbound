@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/traps/freezetrap/freezetrap.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cautious. It's a high-intensity freezing unit.",
+      "Por": "Cauteloso. É uma unidade de congelamento de alta intensidade."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/freezetrap/freezetrap.object": [
         "/shortdescription"
       ]
     },
@@ -33,18 +45,6 @@
     "Texts": {
       "Eng": "Ice, water in it's most deadly form.",
       "Por": "Gelo, água em sua forma mais mortal."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/traps/freezetrap/freezetrap.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "It's a high-intensity freezing unit.",
-      "Por": "É uma unidade de congelamento de alta intensidade."
     }
   },
   {

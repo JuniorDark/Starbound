@@ -39,17 +39,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/prisontable/prisontable.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A regular table."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/human/prisontable/prisontable.object": [
         "/hylotlDescription"
       ]
     },
@@ -92,6 +81,18 @@
     "Texts": {
       "Eng": "Just a typical cafeteria table.",
       "Por": "Apenas uma típica mesa de cafeteria."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisontable/prisontable.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neutral. A regular table.",
+      "Por": "Neutro. Uma mesa normal."
     }
   }
 ]

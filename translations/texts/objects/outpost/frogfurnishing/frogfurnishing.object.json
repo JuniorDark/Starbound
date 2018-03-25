@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/frogfurnishing/frogfurnishing.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. This frog has some comfortable looking wares.",
+      "Por": "Impressionado. Este sapo tem algumas mercadorias de aparência confortável."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/frogfurnishing/frogfurnishing.object": [
         "/apexDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "This creature has an impressive collection of furniture.",
       "Por": "Esta criatura tem uma coleção de móveis impressionante."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/outpost/frogfurnishing/frogfurnishing.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This frog has some comfortable looking wares."
     }
   },
   {

@@ -15,17 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/woodenendtable/woodenendtable.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A piece of furniture that might sit next to a bed."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/woodenendtable/woodenendtable.object": [
         "/apexDescription"
       ]
     },
@@ -80,6 +69,18 @@
     "Texts": {
       "Eng": "A wooden end table with a couple of drawers.",
       "Por": "Uma mesa de madeira com algumas gavetas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodenendtable/woodenendtable.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. A piece of furniture that might sit next to a bed.",
+      "Por": "Curioso. Um móvel que pode ficar ao lado de uma cama."
     }
   },
   {

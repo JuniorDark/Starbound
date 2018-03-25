@@ -2,6 +2,24 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "objects/biome/bioluminescence/glowchest/glowchest.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/jungle/junglechest/junglechest.object": [
+        "/glitchDescription"
+      ],
+      "objects/floran/chestplant1/chestplant1.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. It appears this plant was grown with the express purpose of being a chest.",
+      "Por": "Impressionado. Parece que esta planta foi cultivada com o propósito expresso de ser um baú."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "objects/biome/jungle/junglechest/junglechest.object": [
         "/hylotlDescription"
       ],
@@ -15,25 +33,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/bioluminescence/glowchest/glowchest.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/jungle/junglechest/junglechest.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/floran/chestplant1/chestplant1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "It appears this plant was grown with the express purpose of being a chest.",
-      "Por": "Parece que esta planta foi cultivada com o propósito expresso de ser um baú."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "O próprio báu parece ser orgânico."
+    ],
     "Files": {
       "objects/biome/bioluminescence/glowchest/glowchest.object": [
         "/apexDescription"
@@ -51,7 +53,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Esse baú foi construído ou cultivado?",
+      "Esse baú foi construído, ou plantado?"
+    ],
     "Files": {
       "objects/biome/bioluminescence/glowchest/glowchest.object": [
         "/avianDescription"

@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/space/solarpanel/solarpanel.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. This panel absorbs light to create power. If only I was engineered to do this...",
+      "Por": "Impressionado. Este painel absorve a luz para criar energia. Se eu fosse projetado para fazer isso..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/solarpanel/solarpanel.object": [
         "/floranDescription"
       ]
     },
@@ -31,8 +43,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Solar Panel",
-      "Por": "Solar Panel"
+      "Eng": "Solar Panel"
     }
   },
   {
@@ -45,18 +56,6 @@
     "Texts": {
       "Eng": "This generates power from solar light? I could earn a tidy livin' just sittin' on it.",
       "Por": "Isso gera energia da luz solar? Eu poderia ganhar uma vida arrumada sentando-se nele."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/space/solarpanel/solarpanel.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This panel absorbs light to create power. If only I was engineered to do this...",
-      "Por": "Este painel absorve a luz para criar energia. Se ao menos eu fosse projetado para fazer isso..."
     }
   },
   {

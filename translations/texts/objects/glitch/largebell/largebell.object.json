@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/largebell/largebell.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fearful. This bell signals danger.",
+      "Por": "Com Medo. Este sino sinaliza perigo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/largebell/largebell.object": [
         "/novakidDescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "This bell must make quite a sound.",
       "Por": "Este sino deve fazer um som e tanto."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/glitch/largebell/largebell.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This bell signals danger."
     }
   }
 ]

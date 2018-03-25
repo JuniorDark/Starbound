@@ -63,20 +63,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/skulltorch/skulltorch.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/mission/skullwalltorch/skullwalltorch.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I belive this is a real skull."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/mission/skulltorch/skulltorch.object": [
         "/apexDescription"
       ],
       "objects/mission/skullwalltorch/skullwalltorch.object": [
@@ -86,6 +72,21 @@
     "Texts": {
       "Eng": "This morbid torch provides warmth as well as light.",
       "Por": "Esta tocha mórbida fornece calor, bem como luz."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/skulltorch/skulltorch.object": [
+        "/glitchDescription"
+      ],
+      "objects/mission/skullwalltorch/skullwalltorch.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Uncomfortable. I belive this is a real skull.",
+      "Por": "Desconfortável. Acredito que este é um crânio real."
     }
   },
   {

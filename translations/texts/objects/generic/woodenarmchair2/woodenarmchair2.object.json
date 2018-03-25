@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/woodenarmchair2/woodenarmchair2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Calm. This chair is a powerful relaxant.",
+      "Por": "Calmo. Esta cadeira é um relaxante poderoso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodenarmchair2/woodenarmchair2.object": [
         "/floranDescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "The kind of chair you have for life.",
       "Por": "O tipo de cadeira que você tem para a vida."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/woodenarmchair2/woodenarmchair2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This chair is a powerful relaxant."
     }
   }
 ]

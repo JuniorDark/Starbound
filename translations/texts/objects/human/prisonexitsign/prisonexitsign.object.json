@@ -63,23 +63,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/prisonexitsign/prisonexitsign.object": [
-        "/hylotlDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "The way out of here.",
-      "Por": "A saída daqui."
+      "Eng": "Observant. This sign points the way to the exit.",
+      "Por": "Atento. Esta placa aponta o caminho para a saída."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/prisonexitsign/prisonexitsign.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/hylotlDescription"
       ]
     },
     "Texts": {
-      "Eng": "This sign points the way to the exit."
+      "Eng": "The way out of here.",
+      "Por": "A saída daqui."
     }
   },
   {

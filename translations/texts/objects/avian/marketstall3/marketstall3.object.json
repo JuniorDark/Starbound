@@ -63,6 +63,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/marketstall3/marketstall3.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. This weaponry needs sharpening.",
+      "Por": "Observador. Este armamento precisa ser afiado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/marketstall3/marketstall3.object": [
         "/humanDescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "This weaponry is crude.",
       "Por": "Essa armamento é grosseiro."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avian/marketstall3/marketstall3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This weaponry needs sharpening."
     }
   }
 ]

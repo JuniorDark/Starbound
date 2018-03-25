@@ -51,17 +51,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/desert/sandstonebed/sandstonebed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Bouncing on this bed at just the right angle would cause the sandstone to crumble."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/desert/sandstonebed/sandstonebed.object": [
         "/floranDescription"
       ]
     },
@@ -80,6 +69,18 @@
     "Texts": {
       "Eng": "It don't look comfortable. In fact, I'd rather sleep on the floor next to it.",
       "Por": "Não parece confortável. Na verdade, prefiro dormir no chão ao lado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/desert/sandstonebed/sandstonebed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. Bouncing on this bed at just the right angle would cause the sandstone to crumble.",
+      "Por": "Observador. Saltar sobre esta cama no ângulo certo faria com que o arenito desmoronasse."
     }
   },
   {

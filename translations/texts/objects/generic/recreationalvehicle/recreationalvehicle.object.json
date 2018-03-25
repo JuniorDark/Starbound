@@ -27,17 +27,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/recreationalvehicle/recreationalvehicle.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Broken old travelling machine."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/recreationalvehicle/recreationalvehicle.object": [
         "/avianDescription"
       ]
     },
@@ -104,6 +93,18 @@
     "Texts": {
       "Eng": "Sssmells funny.",
       "Por": "Cheira engraçado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/recreationalvehicle/recreationalvehicle.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Uninterested. Broken old travelling machine.",
+      "Por": "Desinteressado. Máquina de viagem velha quebrada."
     }
   }
 ]

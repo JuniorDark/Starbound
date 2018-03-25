@@ -39,23 +39,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/shootingtarget/shootingtarget.object": [
-        "/floranDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Floran doesssn't need taret practice. Floran hasss best aim.",
-      "Por": "Floran não precissa praticar tiro ao alvo. Floran tem melhor pontaria."
+      "Eng": "Confident. I am positive I could hit the center of this target from a great distance away.",
+      "Por": "Confiante. Estou certo de que poderia atingir o centro desse alvo a uma excelente distância."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/shootingtarget/shootingtarget.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/floranDescription"
       ]
     },
     "Texts": {
-      "Eng": "I am positive I could hit the center of this target from a great distance away."
+      "Eng": "Floran doesssn't need taret practice. Floran hasss best aim.",
+      "Por": "Floran não precissa praticar tiro ao alvo. Floran tem melhor pontaria."
     }
   },
   {

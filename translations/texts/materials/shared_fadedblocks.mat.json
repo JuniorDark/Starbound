@@ -3,6 +3,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/fadedblocks.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/fadedblocks.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Deductive. These faded bricks have been smoothed by the passage of time.",
+      "Por": "Dedutivo. Estes tijolos desbotados foram suavizados pela passagem do tempo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fadedblocks.matitem": [
         "/shortdescription"
       ],
       "tiles/materials/fadedblocks.material": [
@@ -42,21 +57,6 @@
     "Texts": {
       "Eng": "Ssoft faded bricksss.",
       "Por": "Tijolosss macio desbotado."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/fadedblocks.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/fadedblocks.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "These faded bricks have been smoothed by the passage of time.",
-      "Por": "Estes tijolos desbotados foram suavizados pela passagem do tempo."
     }
   }
 ]

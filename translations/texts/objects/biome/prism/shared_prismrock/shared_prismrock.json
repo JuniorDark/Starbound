@@ -104,6 +104,30 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "objects/biome/prism/prismrock4/prismrock4.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/prism/prismrock5/prismrock5.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/prism/prismrock6/prismrock6.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/prism/prismrock7/prismrock7.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/prism/prismrock8/prismrock8.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bewildered. I find these prism rocks to be quite mesmerising.",
+      "Por": "Perplexo. Eu acho essas rochas de prisma bastante fascinantes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "objects/biome/prism/prismrock1/prismrock1.object": [
         "/floranDescription"
       ],
@@ -170,29 +194,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/biome/prism/prismrock4/prismrock4.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/prism/prismrock5/prismrock5.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/prism/prismrock6/prismrock6.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/prism/prismrock7/prismrock7.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/prism/prismrock8/prismrock8.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I find these prism rocks to be quite mesmerising."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
       "objects/biome/prism/prismrock1/prismrock1.object": [
         "/humanDescription"
       ],
@@ -206,6 +207,24 @@
     "Texts": {
       "Eng": "I'm all for rainbow rocks.",
       "Por": "Rochas de prisma. Muito bonita!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/prism/prismrock1/prismrock1.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/prism/prismrock2/prismrock2.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/prism/prismrock3/prismrock3.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. These prisms occur naturally.",
+      "Por": "Impressionado. Estes prismas ocorrem naturalmente."
     }
   },
   {
@@ -314,23 +333,6 @@
     "Texts": {
       "Eng": "These gemstones are fine n' all...but how much are they worth?",
       "Por": "Estas pedras preciosas são finas e tudo... mas quanto elas valem?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/prism/prismrock1/prismrock1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/prism/prismrock2/prismrock2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/prism/prismrock3/prismrock3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "These prisms occur naturally."
     }
   },
   {

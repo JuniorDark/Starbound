@@ -3,6 +3,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/sandstone.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/sandstone01.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. This sandstone is made from fine particles of rock.",
+      "Por": "Atento. Este arenito é feito de partículas finas de rocha."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/sandstone.matitem": [
         "/novakiddescription"
       ],
       "tiles/materials/sandstone01.material": [
@@ -11,7 +26,7 @@
     },
     "Texts": {
       "Eng": "Some sandy lookin' rocks.",
-      "Por": "Algumas rochas arenosas."
+      "Por": "Algumas rochas de areia."
     }
   },
   {
@@ -27,21 +42,6 @@
     "Texts": {
       "Eng": "Ssandy ssandstone rockss.",
       "Por": "Pedrass de arenito."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/sandstone.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/sandstone01.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This sandstone is made from fine particles of rock.",
-      "Por": "Este arenito é feito de partículas finas de rocha."
     }
   },
   {

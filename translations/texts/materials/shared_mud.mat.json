@@ -3,6 +3,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/mud.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/mud.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disgusted. This mud is thick and sticky.",
+      "Por": "Com nojo. Esta lama é grossa e pegajosa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/mud.matitem": [
         "/florandescription"
       ],
       "tiles/materials/mud.material": [
@@ -57,21 +72,6 @@
     "Texts": {
       "Eng": "Thick and sticky mud.",
       "Por": "Lama espessa e pegajosa."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/mud.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/mud.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This mud is thick and sticky.",
-      "Por": "Essa lama é grossa e pegajosa."
     }
   }
 ]

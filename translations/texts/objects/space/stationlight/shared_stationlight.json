@@ -41,7 +41,7 @@
     },
     "Texts": {
       "Eng": "A long industrial looking fluorescent light.",
-      "Por": "Uma luz fluorescente de aparência industrial."
+      "Por": "Uma longa luz fluorescente de aparência industrial."
     }
   },
   {
@@ -63,6 +63,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/space/stationlight/stationlighth.object": [
+        "/glitchDescription"
+      ],
+      "objects/space/stationlight/stationlightv.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Informed. These lights each have a compact power source built inside.",
+      "Por": "Informado. Essas luzes possuem uma fonte de energia compacta embutida no interior."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/stationlight/stationlighth.object": [
         "/humanDescription"
       ],
       "objects/space/stationlight/stationlightv.object": [
@@ -72,21 +87,6 @@
     "Texts": {
       "Eng": "Some big fluorescent lights, the kind seen in ships and stations.",
       "Por": "Algumas grandes luzes fluorescentes, do tipo vista em naves e estações."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/space/stationlight/stationlighth.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/space/stationlight/stationlightv.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "These lights each have a compact power source built inside.",
-      "Por": "Cada uma dessas luzes tem uma fonte de energia compacta embutida."
     }
   },
   {

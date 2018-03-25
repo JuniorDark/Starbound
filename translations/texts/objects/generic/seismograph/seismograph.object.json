@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/seismograph/seismograph.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Informed. This device is monitoring movements in the local area.",
+      "Por": "Informado. Este dispositivo está monitorando movimentos na área local."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/seismograph/seismograph.object": [
         "/avianDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "This device can be used for recording earthquakes. A useful tool to some.",
       "Por": "Este dispositivo pode ser usado para gravação de terremotos. Uma ferramenta útil para alguns."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/seismograph/seismograph.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This device is monitoring movements in the local area."
     }
   },
   {

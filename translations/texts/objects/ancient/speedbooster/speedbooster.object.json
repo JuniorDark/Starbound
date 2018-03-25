@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/ancient/speedbooster/speedbooster.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hopeful. The gas from this device has a sweet smell.",
+      "Por": "Esperançoso. O gás deste dispositivo possui um cheiro doce."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/speedbooster/speedbooster.object": [
         "/shortdescription"
       ]
     },
@@ -56,7 +68,7 @@
     },
     "Texts": {
       "Eng": "Sweet smelling green gas puts a zip in my step.",
-      "Por": "Gás verde de cheiro doce aumenta minha velocidade de corrida."
+      "Por": "Gás verde de cheiro doce aumenta sua velocidade de corrida."
     }
   },
   {
@@ -69,18 +81,6 @@
     "Texts": {
       "Eng": "The beneficial properties of this gas are related to physical speed enhancement.",
       "Por": "As propriedades benéficas deste gás estão relacionadas com o aprimoramento da velocidade física."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/ancient/speedbooster/speedbooster.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The gas from this device has a sweet smell.",
-      "Por": "O gás deste dispositivo tem um cheiro doce."
     }
   },
   {

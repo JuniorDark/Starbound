@@ -63,23 +63,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/copperceilinglight/copperceilinglight.object": [
-        "/floranDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Shiny metal light issn't hot to touch.",
-      "Por": "Luz metálica brilhante não é quente ao toque."
+      "Eng": "Observant. This electric light prevents copper around it from becoming hot.",
+      "Por": "Observador. Esta luz elétrica impede que o cobre em torno dele se torne quente."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/copperceilinglight/copperceilinglight.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/floranDescription"
       ]
     },
     "Texts": {
-      "Eng": "This electric light prevents copper around it from becoming hot."
+      "Eng": "Shiny metal light issn't hot to touch.",
+      "Por": "Luz metálica brilhante não é quente ao toque."
     }
   },
   {

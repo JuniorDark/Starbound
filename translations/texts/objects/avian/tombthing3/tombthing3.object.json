@@ -63,6 +63,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/tombthing3/tombthing3.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intrigued. The Glitch harvest the dead for spare parts. The same may have happened here.",
+      "Por": "Intrigado. Os Glitch colhem os mortos para peças sobressalentes. O mesmo pode ter acontecido aqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/tombthing3/tombthing3.object": [
         "/novakidDescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "Perhaps the body was granted a more honourable resting place.",
       "Por": "Talvez o corpo tenha recebido um lugar de descanso mais honorável."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avian/tombthing3/tombthing3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The Glitch harvest the dead for spare parts. The same may have happened here."
     }
   }
 ]

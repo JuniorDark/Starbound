@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/hylotlmission/hologramprojector/hologramprojector.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intrigued. This device sends holograms across short distances.",
+      "Por": "Intrigado. Este dispositivo envia hologramas em curtas distâncias."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/hylotlmission/hologramprojector/hologramprojector.object": [
         "/floranDescription"
       ]
     },
@@ -45,17 +57,6 @@
     "Texts": {
       "Eng": "Old Hylotl engineering allowed Library staff to communicate across short distances.",
       "Por": "Engenharia Hylotl antiga permitiu que a equipe da Biblioteca se comunicasse em curtas distâncias."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/mission/hylotlmission/hologramprojector/hologramprojector.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This device sends holograms across short distances."
     }
   },
   {

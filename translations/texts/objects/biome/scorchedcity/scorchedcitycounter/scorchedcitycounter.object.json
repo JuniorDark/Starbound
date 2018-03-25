@@ -3,8 +3,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/scorchedcity/scorchedcitycounter/scorchedcitycounter.object": [
-        "/description",
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ]
     },
     "Texts": {
@@ -58,6 +57,18 @@
     "Texts": {
       "Eng": "Counter iss clean. Too clean!",
       "Por": "Balcão está limpo. Muito limpo!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/scorchedcity/scorchedcitycounter/scorchedcitycounter.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased. A clean looking counter.",
+      "Por": "Satisfeito. Um balcão de aparência limpa."
     }
   },
   {

@@ -27,18 +27,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/bribe.questtemplate": [
-        "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "<target> took the <gift>? That's perfect! If I ever need a favour I know I have someone indebted to me now. I can't believe you thought this was some sort of bribe!",
-      "Por": "<target> aceitou o <gift>? Perfeito! Se eu precisar de um favor, sei que tenho alguém em dívida comigo agora. Eu não posso acreditar que você pensou que isso fosse algum tipo de suborno!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/bribe.questtemplate": [
         "/scriptConfig/generatedText/completionText/next/default/0"
       ]
     },
@@ -63,12 +51,48 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/bribe.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Apprehensive. I'd like to make clear that this is very much not a bribe of any sort. I don't even know the meaning of the word. All I need you to do is ^green;give ^orange;<target> ^green;the ^orange;<gift> ^white;to persuade <target.pronoun.object> to act in my favour...",
+      "Por": "Apreensivo. Eu gostaria de deixar claro que este não é um suborno de qualquer espécie. Eu nem sequer sabia o significado da palavra. Tudo o que eu preciso que você faça é ^green;dar a ^orange;<target> ^green;o ^orange;<gift>^white; para persuadir <target.pronoun.object> para agir em meu favor..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/bribe.questtemplate": [
         "/scriptConfig/generatedText/title/0"
       ]
     },
     "Texts": {
       "Eng": "Bribe <target>",
       "Por": "Suborne <target>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/bribe.questtemplate": [
+        "/scriptConfig/generatedText/text/next/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Conniving. The next thing I'd like you to do is give ^orange;<target> ^white;a very special something. ^green;I need <target.pronoun.object> to receive the ^orange;<gift>^white; in order for the plan to work.",
+      "Por": "Conivente. A próxima coisa que eu gostaria que você fizesse é dar para ^orange;<target>^white; uma coisa muito especial. ^green;Eu preciso que <target.pronoun.object> receba o ^orange;<gift>^white; para que o plano funcione."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/bribe.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Exhilarated. <target> took the <gift>? That's perfect! If I ever need a favour I know I have someone indebted to me now. I can't believe you thought this was some sort of bribe!",
+      "Por": "Eufórico. <target> pegou o <gift>? Perfeito! Se algum dia eu precisar de um favor eu sei que alguém está em dívida comigo agora. Eu não posso acreditar que você achava que isso era algum tipo de suborno!"
     }
   },
   {
@@ -123,6 +147,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/bribe.questtemplate": [
+        "/scriptConfig/generatedText/completionText/next/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gratified. So <target> accepted the <gift>? This plan is working out better than I anticipated. ",
+      "Por": "Gratificado. Então <target> aceitou o <gift>? Este plano está funcionando melhor do que eu esperava."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/bribe.questtemplate": [
         "/scriptConfig/generatedText/text/next/default/1"
       ]
     },
@@ -147,36 +183,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/bribe.questtemplate": [
-        "/scriptConfig/generatedText/text/default/glitch/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I'd like to make clear that this is very much not a bribe of any sort. I don't even know the meaning of the word. All I need you to do is ^green;give ^orange;<target> ^green;the ^orange;<gift> ^white;to persuade <target.pronoun.object> to act in my favour...",
-      "Por": "Eu gostaria de deixar claro que isso não é um suborno de qualquer tipo. Eu nem sei o significado dessa palavra. Tudo que eu preciso que você faça é ^green;dar a ^orange;<target> ^green;esse ^orange;<gift> ^white;para persuadir <target.pronoun.object> para agir a meu favor..."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/bribe.questtemplate": [
-        "/scriptConfig/generatedText/text/default/glitch/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "It all comes down to this. ^green;Present ^orange;<target> ^green;with the ^orange;<gift>. ^white;In case <target.pronoun.subject> asks, it's definitely not a bribe...",
-      "Por": "Tudo se resume a isso. ^green;Presenteie ^orange;<target> ^green;com esse ^orange;<gift>. ^white;No caso <target.pronoun.subject> perguntar, diga que não é um suborno..."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/bribe.questtemplate": [
         "/parameters/target/example/name"
       ]
     },
     "Texts": {
-      "Eng": "Mr Corrupt Person",
-      "Por": "Sr. Pessoa Corrupta"
+      "Eng": "Mr Corrupt Person"
     }
   },
   {
@@ -195,12 +206,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/bribe.questtemplate": [
-        "/scriptConfig/generatedText/text/next/glitch/1/glitchEmotedText"
+        "/scriptConfig/generatedText/text/next/glitch/1"
       ]
     },
     "Texts": {
-      "Eng": "Next I need the favour of ^orange;<target>^green; - Could you try bribing <target.pronoun.object> with the ^orange;<gift>^white;? That should hopefully work...",
-      "Por": "Em seguida eu preciso do favor de ^orange;<target>^green; - Você poderia tentar subornar <target.pronoun.object> com o ^orange;<gift>^white;? Isso deve funcionar..."
+      "Eng": "Nervous. Next I need the favour of ^orange;<target>^green; - Could you try bribing <target.pronoun.object> with the ^orange;<gift>^white;? That should hopefully work...",
+      "Por": "Nervoso. Em seguida eu preciso do favor de ^orange;<target>^green; - Você poderia tentar subornar <target.pronoun.object> com o ^orange;<gift>^white;? Isso deve esperançosamente funcionar..."
     }
   },
   {
@@ -255,6 +266,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/bribe.questtemplate": [
+        "/scriptConfig/generatedText/completionText/next/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Paranoid. So you're saying that <target> took the bribe? Ok, it's Ok, I think we've done the right thing...",
+      "Por": "Paranóico. Então você está dizendo que <target> pegou o suborno? Ok, tudo bem, eu acho que fizemos a coisa certa..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/bribe.questtemplate": [
         "/scriptConfig/generatedText/completionText/next/floran/0"
       ]
     },
@@ -279,36 +302,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/bribe.questtemplate": [
-        "/scriptConfig/generatedText/completionText/default/glitch/1/glitchEmotedText"
+        "/scriptConfig/generatedText/completionText/default/glitch/1"
       ]
     },
     "Texts": {
-      "Eng": "So <target.pronoun.subject> just took the <gift>? No questions asked? Here I was thinking it'd be hard to get <target> on my side.",
-      "Por": "Então <target.pronoun.subject> aceitou o <gift>? Sem perguntas? E eu aqui pensando que seria difícil ter <target> ao meu lado."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/bribe.questtemplate": [
-        "/scriptConfig/generatedText/completionText/next/glitch/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "So <target> accepted the <gift>? This plan is working out better than I anticipated. ",
-      "Por": "Então <target> aceitou o <gift>? Este plano está funcionando melhor do que eu esperava."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/bribe.questtemplate": [
-        "/scriptConfig/generatedText/completionText/next/glitch/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "So you're saying that <target> took the bribe? Ok, it's Ok, I think we've done the right thing...",
-      "Por": "Então você está dizendo que <target> aceitou o suborno? Ok, tudo bem, acho que fizemos a coisa certa..."
+      "Eng": "Relieved. So <target.pronoun.subject> just took the <gift>? No questions asked? Here I was thinking it'd be hard to get <target> on my side.",
+      "Por": "Aliviado. Então <target.pronoun.subject> pegou o <gift>? Sem perguntas? E eu aqui pensando que seria difícil conseguir <target> do meu lado"
     }
   },
   {
@@ -327,12 +326,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/bribe.questtemplate": [
-        "/scriptConfig/generatedText/text/next/glitch/0/glitchEmotedText"
+        "/scriptConfig/generatedText/text/default/glitch/1"
       ]
     },
     "Texts": {
-      "Eng": "The next thing I'd like you to do is give ^orange;<target> ^white;a very special something. ^green;I need <target.pronoun.object> to receive the ^orange;<gift>^white; in order for the plan to work.",
-      "Por": "A próxima coisa que eu gostaria que você fizesse é dar a ^orange;<target> ^white;uma coisa muito especial. ^green;Eu preciso que <target.pronoun.object> receba o ^orange;<gift>^white; para que o plano funcione."
+      "Eng": "Tense. It all comes down to this. ^green;Present ^orange;<target> ^green;with the ^orange;<gift>. ^white;In case <target.pronoun.subject> asks, it's definitely not a bribe...",
+      "Por": "Tenso. Tudo se resume a isso. ^green;Presenteie^orange; <target> ^green; com o ^orange;<gift>. ^white;No caso de <target.pronoun.subject> perguntar, isso definitivamente não é um suborno..."
     }
   },
   {

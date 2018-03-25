@@ -27,23 +27,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/clubceilinglightsyellow/clubceilinglightsyellow.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "It's a yellow light."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/hylotl/clubceilinglightsyellow/clubceilinglightsyellow.object": [
         "/novakidDescription"
       ]
     },
     "Texts": {
       "Eng": "This yellow light sure lights up the room.",
       "Por": "Esta luz amarela com certeza ilumina a sala."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/clubceilinglightsyellow/clubceilinglightsyellow.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Uninterested. It's a yellow light.",
+      "Por": "Desinteressado. É uma luz amarela."
     }
   },
   {

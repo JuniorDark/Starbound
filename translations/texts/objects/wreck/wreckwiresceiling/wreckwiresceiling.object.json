@@ -63,24 +63,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/wreck/wreckwiresceiling/wreckwiresceiling.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I hope these wires aren't live.",
-      "Por": "Espero que estes fios não estejam alimentados."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/wreck/wreckwiresceiling/wreckwiresceiling.object": [
         "/hylotlDescription"
       ]
     },
     "Texts": {
       "Eng": "Loose wires ripped from their casing.",
-      "Por": "Fios soltos sem seu revestimento."
+      "Por": "Fios soltos rasgados de seu revestimento."
     }
   },
   {
@@ -93,6 +81,18 @@
     "Texts": {
       "Eng": "Old wiring, torn apart.",
       "Por": "Fiação antiga, despedaçada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wreck/wreckwiresceiling/wreckwiresceiling.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Worried. I hope these wires aren't live.",
+      "Por": "Preocupado. Espero que esses fios não estejam vivos."
     }
   },
   {

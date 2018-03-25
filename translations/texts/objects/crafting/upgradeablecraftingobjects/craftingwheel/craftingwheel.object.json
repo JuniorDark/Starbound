@@ -77,18 +77,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/crafting/upgradeablecraftingobjects/craftingwheel/craftingwheel.object": [
-        "/glitchDescription/glitchEmotedText",
-        "/upgradeStages/0/itemSpawnParameters/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A tailoring tool."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/crafting/upgradeablecraftingobjects/craftingwheel/craftingwheel.object": [
         "/avianDescription",
         "/upgradeStages/0/itemSpawnParameters/avianDescription",
         "/upgradeStages/1/itemSpawnParameters/avianDescription"
@@ -110,17 +98,6 @@
     "Texts": {
       "Eng": "A wooden spinning wheel. So old-fashioned it's almost quaint.",
       "Por": "Uma roda de fiar de madeira. Então, à moda antiga é quase pitoresca."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/crafting/upgradeablecraftingobjects/craftingwheel/craftingwheel.object": [
-        "/upgradeStages/1/itemSpawnParameters/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "An advanced tailoring tool."
     }
   },
   {
@@ -172,6 +149,31 @@
     "Texts": {
       "Eng": "Maybe I can make myself a new shirt on this.",
       "Por": "Talvez eu possa fazer uma camisa nova pra mim nisso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/upgradeablecraftingobjects/craftingwheel/craftingwheel.object": [
+        "/glitchDescription",
+        "/upgradeStages/0/itemSpawnParameters/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. A tailoring tool.",
+      "Por": "Atento. Uma roda de fiar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/upgradeablecraftingobjects/craftingwheel/craftingwheel.object": [
+        "/upgradeStages/1/itemSpawnParameters/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. An advanced tailoring tool.",
+      "Por": "Atento. Uma ferramenta de alfaiataria avançada."
     }
   },
   {

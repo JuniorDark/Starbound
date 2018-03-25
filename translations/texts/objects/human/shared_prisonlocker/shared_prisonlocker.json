@@ -78,20 +78,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/prisonlocker1/prisonlocker1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/human/prisonlocker2/prisonlocker2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Is it a crime to steal stolen goods?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/human/prisonlocker1/prisonlocker1.object": [
         "/floranDescription"
       ],
       "objects/human/prisonlocker2/prisonlocker2.object": [
@@ -116,6 +102,21 @@
     "Texts": {
       "Eng": "The prisoners are long-gone. It's fair to take what's inside.",
       "Por": "Os prisioneiros já se foram há muito tempo. É justo levar o que está por dentro."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisonlocker1/prisonlocker1.object": [
+        "/glitchDescription"
+      ],
+      "objects/human/prisonlocker2/prisonlocker2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thoughtful. Is it a crime to steal stolen goods?",
+      "Por": "Pensativo. É um crime roubar bens roubados?"
     }
   }
 ]

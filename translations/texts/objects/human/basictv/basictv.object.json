@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/basictv/basictv.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Appreciative. The television is truly humanity's most valuable export.",
+      "Por": "Apreciativo. A televisão é verdadeiramente a exportação mais valiosa da humanidade."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/basictv/basictv.object": [
         "/floranDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "Old Television",
       "Por": "Old Television"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/human/basictv/basictv.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The television is truly humanity's most valuable export."
     }
   },
   {

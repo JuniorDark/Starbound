@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/sewergauge/sewergauge.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frustrated. This gauge serves an unknown purpose.",
+      "Por": "Frustrado. Este medidor tem um propósito desconhecido."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/sewergauge/sewergauge.object": [
         "/shortdescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "This could be somethin' important and I'd have no idea.",
       "Por": "Isso pode ser algo importante e eu não tenho idéia."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/glitch/sewergauge/sewergauge.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This gauge serves an unknown purpose."
     }
   },
   {

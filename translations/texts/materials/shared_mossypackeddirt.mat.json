@@ -18,6 +18,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/mossypackeddirt.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/mossypackeddirt.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. This packed dirt has moss growing on it.",
+      "Por": "Atento. Esta terra batida tem musgo crescendo sobre ela."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/mossypackeddirt.matitem": [
         "/florandescription"
       ],
       "tiles/materials/mossypackeddirt.material": [
@@ -26,7 +41,7 @@
     },
     "Texts": {
       "Eng": "Packed dirt covered in growing mosss.",
-      "Por": "Terra comprimida coberta de mussgo crescendo."
+      "Por": "Terra batida coberta de mussgo crescendo."
     }
   },
   {
@@ -41,7 +56,7 @@
     },
     "Texts": {
       "Eng": "Packed dirt, covered in moss.",
-      "Por": "Terra comprimida, coberta de musgo."
+      "Por": "Terra batida, coberta de musgo."
     }
   },
   {
@@ -57,21 +72,6 @@
     "Texts": {
       "Eng": "This here dirt's all cover'd in moss.",
       "Por": "Esta terra aqui esta toda coberta de musgo."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/mossypackeddirt.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/mossypackeddirt.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This packed dirt has moss growing on it.",
-      "Por": "Esta terra comprimida tem musgo crescendo nela."
     }
   }
 ]

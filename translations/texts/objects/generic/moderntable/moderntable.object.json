@@ -63,6 +63,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/moderntable/moderntable.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. This glass appears to be bullet-proof.",
+      "Por": "Impressionado. Este vidro parece ser à prova de balas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/moderntable/moderntable.object": [
         "/shortdescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "Objectss placed on glasss table look floaty.",
       "Por": "Objetos colocados na mesa de vidro parecem flutuantes."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/moderntable/moderntable.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This glass appears to be bullet-proof."
     }
   },
   {

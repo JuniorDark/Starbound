@@ -75,6 +75,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/traps/ancientbouldertrap/ancientbouldertrap.object": [
+        "/glitchDescription"
+      ],
+      "objects/traps/bouldertrap/bouldertrap.object": [
+        "/glitchDescription"
+      ],
+      "objects/traps/floranbouldertrap/floranbouldertrap.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disappointed. Who would make a trap to drop boulders with such convenient timing?",
+      "Por": "Desapontado. Quem iria fazer uma armadilha para deixar cair pedras com tal momento cronometrado?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/ancientbouldertrap/ancientbouldertrap.object": [
         "/floranDescription"
       ],
       "objects/traps/bouldertrap/bouldertrap.object": [
@@ -123,24 +141,6 @@
     "Texts": {
       "Eng": "Rollin' boulders!",
       "Por": "Pedregulhos rolantes!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/traps/ancientbouldertrap/ancientbouldertrap.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/traps/bouldertrap/bouldertrap.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/traps/floranbouldertrap/floranbouldertrap.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Who would make a trap to drop boulders with such convenient timing?",
-      "Por": "Quem faria uma armadilha para soltar pedregulhos com um tempo tão conveniente?"
     }
   }
 ]

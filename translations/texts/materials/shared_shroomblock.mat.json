@@ -33,15 +33,15 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/shroomblock.matitem": [
-        "/glitchdescription/glitchEmotedText"
+        "/glitchdescription"
       ],
       "tiles/materials/shroomblock.material": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Although assembled as a block, this mushroom is alive.",
-      "Por": "Embora montado como um bloco, este cogumelo está vivo."
+      "Eng": "Intrigued. Although assembled as a block, this mushroom is alive.",
+      "Por": "Intrigado. Embora montado como um bloco, este cogumelo está vivo."
     }
   },
   {

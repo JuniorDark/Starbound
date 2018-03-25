@@ -15,17 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/tribalwallcabinet/tribalwallcabinet.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A space-saving storage unit."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avian/tribalwallcabinet/tribalwallcabinet.object": [
         "/humanDescription"
       ]
     },
@@ -80,6 +69,18 @@
     "Texts": {
       "Eng": "Many grounded homes are very small. Storage is often placed on the walls.",
       "Por": "Muitas casas grounded são muito pequenas. O armazenamento geralmente é colocado nas paredes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/tribalwallcabinet/tribalwallcabinet.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neutral. A space-saving storage unit.",
+      "Por": "Neutro. Uma unidade de armazenamento com economia de espaço."
     }
   },
   {

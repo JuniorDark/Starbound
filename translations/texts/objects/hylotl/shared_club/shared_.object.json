@@ -15,7 +15,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Luzes de ambiente para definir o humor. Qual humor? Não tenho certeza."
+    ],
     "Files": {
       "objects/hylotl/clubceilinglights/clubceilinglights.object": [
         "/humanDescription"
@@ -54,21 +56,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/hylotl/clubceilinglights/clubceilinglights.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/hylotl/clublampsmall/clublampsmall.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "It's a blue light."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Só preciso de uma máquina de fumaça para realmente dar a este lugar uma vibração de boate."
+    ],
     "Files": {
       "objects/hylotl/clubceilinglights/clubceilinglights.object": [
         "/apexDescription"
@@ -110,6 +100,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/clubdecks/clubdecks.object": [
+        "/glitchDescription"
+      ],
+      "objects/hylotl/clubspeaker/clubspeaker.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Negative. This music is not pleasant.",
+      "Por": "Negativo. Esta música não é agradável."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/clubdecks/clubdecks.object": [
         "/hylotlDescription"
       ],
       "objects/hylotl/clubspeaker/clubspeaker.object": [
@@ -119,20 +124,6 @@
     "Texts": {
       "Eng": "This is a really popular club song.",
       "Por": "Esta é uma musica de clube muito popular."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/hylotl/clubdecks/clubdecks.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/hylotl/clubspeaker/clubspeaker.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This music is not pleasant."
     }
   },
   {
@@ -163,6 +154,21 @@
     "Texts": {
       "Eng": "This music makes me want to dance!",
       "Por": "Esta música me faz querer dançar!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/clubceilinglights/clubceilinglights.object": [
+        "/glitchDescription"
+      ],
+      "objects/hylotl/clublampsmall/clublampsmall.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Uninterested. It's a blue light.",
+      "Por": "Desinteressado. É uma luz azul."
     }
   },
   {

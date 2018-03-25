@@ -63,6 +63,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/floransmalltable/floransmalltable.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sorrowful. The base of this table is a dead sapling.",
+      "Por": "Triste. A base desta mesa é uma muda morta."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/floransmalltable/floransmalltable.object": [
         "/hylotlDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "The Floran build furniture from the remains of both creatures and plants, it seems.",
       "Por": "Os Floran constroem móveis a partir dos restos de criaturas e plantas, ao que parece."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/floran/floransmalltable/floransmalltable.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The base of this table is a dead sapling."
     }
   },
   {

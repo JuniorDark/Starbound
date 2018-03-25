@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/florancorner/florancorner.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Confused. Stretched leather. Is it decorative?",
+      "Por": "Confuso. Couro esticado. É decorativo?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/florancorner/florancorner.object": [
         "/hylotlDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "Leather Support",
       "Por": "Leather Support"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/floran/florancorner/florancorner.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Stretched leather. Is it decorative?"
     }
   },
   {

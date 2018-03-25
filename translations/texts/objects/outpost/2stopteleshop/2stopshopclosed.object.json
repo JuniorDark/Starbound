@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/2stopteleshop/2stopshopclosed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intrigued. This looks like a merchant's stall - I wonder where the merchant is right now?",
+      "Por": "Intrigado. Isto se parece com tenda de um comerciante - Gostaria de saber onde o comerciante está agora?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/2stopteleshop/2stopshopclosed.object": [
         "/humanDescription"
       ]
     },
@@ -57,17 +69,6 @@
     "Texts": {
       "Eng": "This dull metal frame looks like a merchant's stall. It is vacant right now.",
       "Por": "Esta estrutura de metal parece com a tenda de um comerciante. Esta vazia agora."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/outpost/2stopteleshop/2stopshopclosed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This looks like a merchant's stall - I wonder where the merchant is right now?"
     }
   },
   {

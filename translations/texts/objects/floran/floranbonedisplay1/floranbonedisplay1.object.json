@@ -15,23 +15,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/floranbonedisplay1/floranbonedisplay1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Based on the size of this bone, the creature it came from is likely bigger than an entire Glitch castle."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/floran/floranbonedisplay1/floranbonedisplay1.object": [
         "/shortdescription"
       ]
     },
     "Texts": {
       "Eng": "Bone Trophy",
       "Por": "Bone Trophy"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/floranbonedisplay1/floranbonedisplay1.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fearful. Based on the size of this bone, the creature it came from is likely bigger than an entire Glitch castle.",
+      "Por": "Temeroso. Baseado no tamanho deste osso, a criatura de onde veio é provavelmente maior que um castelo Glitch inteiro."
     }
   },
   {

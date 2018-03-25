@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/protectorate/objects/protectorateamp/protectorateamp.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A good quality amplifier. Someone invested a lot of pixels in this."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/protectorate/objects/protectorateamp/protectorateamp.object": [
         "/floranDescription"
       ]
     },
@@ -68,6 +57,18 @@
     "Texts": {
       "Eng": "An amplifier. For amplifyin'.",
       "Por": "Um amplificador. Para amplificar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/protectorate/objects/protectorateamp/protectorateamp.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. A good quality amplifier. Someone invested a lot of pixels in this.",
+      "Por": "Impressionado. Um amplificador de boa qualidade. Alguém investiu muitos pixels nisso."
     }
   },
   {

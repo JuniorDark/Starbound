@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma pequena pistola totalmente automática."
+    ],
     "Files": {
       "items/active/weapons/npc/npcmachinepistol.activeitem": [
         "/description"

@@ -3,6 +3,23 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/fullwood2.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/fullwood2.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neutral. Unrefined wood.",
+      "Por": "Neutro. Madeira não refinada."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Áspera e não refinada, essa madeira parece recentemente cortada."
+    ],
+    "Files": {
+      "items/materials/fullwood2.matitem": [
         "/description"
       ],
       "tiles/materials/fullwood2.material": [
@@ -27,21 +44,6 @@
     "Texts": {
       "Eng": "Unrefined Wood",
       "Por": "Unrefined Wood"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/fullwood2.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/fullwood2.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Unrefined wood.",
-      "Por": "Madeira não refinada."
     }
   },
   {

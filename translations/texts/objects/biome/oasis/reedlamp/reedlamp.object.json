@@ -27,17 +27,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/oasis/reedlamp/reedlamp.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "It is a lamp disguised as a reed."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/oasis/reedlamp/reedlamp.object": [
         "/humanDescription"
       ]
     },
@@ -68,6 +57,18 @@
     "Texts": {
       "Eng": "It's a glowin' reed.",
       "Por": "É um junco brilhante."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/oasis/reedlamp/reedlamp.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. It is a lamp disguised as a reed.",
+      "Por": "Observador. É uma lâmpada disfarçada de junco."
     }
   },
   {

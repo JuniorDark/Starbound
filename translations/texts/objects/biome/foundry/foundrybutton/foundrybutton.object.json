@@ -27,17 +27,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/foundry/foundrybutton/foundrybutton.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A button for a piece of foundry machinery."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/foundry/foundrybutton/foundrybutton.object": [
         "/avianDescription"
       ]
     },
@@ -56,6 +45,18 @@
     "Texts": {
       "Eng": "A worn and weathered machinery button.",
       "Por": "Um botão de máquina usado e desgastado pelo tempo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/foundry/foundrybutton/foundrybutton.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disinterested. A button for a piece of foundry machinery.",
+      "Por": "Desinteressado. Um botão para uma peça de máquinas de fundição."
     }
   },
   {

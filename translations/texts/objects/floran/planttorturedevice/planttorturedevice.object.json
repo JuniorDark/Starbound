@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/planttorturedevice/planttorturedevice.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A particularly unpleasant method of torture, especially for Glitch."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/floran/planttorturedevice/planttorturedevice.object": [
         "/description"
       ]
     },
@@ -32,6 +21,18 @@
     "Texts": {
       "Eng": "Cool, a relaxing water feature.",
       "Por": "Legal, um recurso de água relaxante."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/planttorturedevice/planttorturedevice.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Discontent. A particularly unpleasant method of torture, especially for Glitch.",
+      "Por": "Descontentamento. Um método particularmente desagradável de tortura, especialmente para os Glitch."
     }
   },
   {

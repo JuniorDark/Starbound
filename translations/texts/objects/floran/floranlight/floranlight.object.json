@@ -39,23 +39,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/floranlight/floranlight.object": [
-        "/humanDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "The green glow makes me uncomfortable.",
-      "Por": "O brilho verde me deixa desconfortável."
+      "Eng": "Impressed. The growth of these pods appears to be strictly controlled.",
+      "Por": "Impressionado. O crescimento destas vagens parece ser estritamente controlado."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/floranlight/floranlight.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/humanDescription"
       ]
     },
     "Texts": {
-      "Eng": "The growth of these pods appears to be strictly controlled."
+      "Eng": "The green glow makes me uncomfortable.",
+      "Por": "O brilho verde me deixa desconfortável."
     }
   },
   {

@@ -3,6 +3,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/wreckplatform.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/platforms/wreckplatform.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alarmed. This rusty scaffolding appears structurally unsound.",
+      "Por": "Alarmado. Este andaime oxidado parece estruturalmente instável."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/wreckplatform.matitem": [
         "/florandescription"
       ],
       "tiles/platforms/wreckplatform.material": [
@@ -30,22 +45,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/wreckplatform.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/platforms/wreckplatform.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This rusty scaffolding appears structurally unsound.",
-      "Por": "Este andaime enferrujado parece estruturalmente instável."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      " Wrecked Platform "
+    ],
     "Files": {
       "items/materials/wreckplatform.matitem": [
         "/shortdescription"

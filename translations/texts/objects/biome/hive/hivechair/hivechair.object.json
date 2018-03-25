@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/hive/hivechair/hivechair.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Concerned. Is this actually a chair, or a hive for a creature?",
+      "Por": "Preocupado. Isso é realmente uma cadeira, ou uma colméia para uma criatura?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/hive/hivechair/hivechair.object": [
         "/shortdescription"
       ]
     },
@@ -57,17 +69,6 @@
     "Texts": {
       "Eng": "I'm not sure how I feel about the cut o' this here chair...",
       "Por": "Não sei como me sinto sobre a forma desta cadeira..."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/hive/hivechair/hivechair.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Is this actually a chair, or a hive for a creature?"
     }
   },
   {

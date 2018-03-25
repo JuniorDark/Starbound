@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Um muco espesso. Ele balança quando cutucado."
+    ],
     "Files": {
       "items/materials/slime.matitem": [
         "/description"
@@ -33,6 +35,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/slime.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/slime.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hesitant. This slime looks sticky.",
+      "Por": "Hesitante. Este lodo parece pegajoso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/slime.matitem": [
         "/shortdescription"
       ],
       "tiles/materials/slime.material": [
@@ -57,21 +74,6 @@
     "Texts": {
       "Eng": "This slime is some nasty lookin' stuff.",
       "Por": "Esse lodo é um material de aparência desagradável."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/slime.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/slime.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This slime looks sticky.",
-      "Por": "Esse lodo parece pegajoso."
     }
   }
 ]

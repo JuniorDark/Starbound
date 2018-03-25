@@ -63,6 +63,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/plantchair/plantchair.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased. These vines don't make this chair any less comfortable.",
+      "Por": "Satisfeito. Estas vinhas não tornam esta cadeira menos confortável."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/plantchair/plantchair.object": [
         "/hylotlDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "These vines are growin' out of control.",
       "Por": "Estas vinhas estão crescendo fora de controle."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/floran/plantchair/plantchair.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "These vines don't make this chair any less comfortable."
     }
   },
   {

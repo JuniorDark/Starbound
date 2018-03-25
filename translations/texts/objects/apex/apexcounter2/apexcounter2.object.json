@@ -87,23 +87,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/apexcounter2/apexcounter2.object": [
-        "/shortdescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Standard Issue Counter",
-      "Por": "Standard Issue Counter"
+      "Eng": "Observant. We can prepare sustenance here.",
+      "Por": "Atento. Podemos preparar sustento aqui."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/apexcounter2/apexcounter2.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "We can prepare sustenance here."
+      "Eng": "Standard Issue Counter",
+      "Por": "Standard Issue Counter"
     }
   }
 ]

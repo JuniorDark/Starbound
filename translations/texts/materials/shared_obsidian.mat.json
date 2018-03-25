@@ -3,6 +3,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/obsidian.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/obsidian.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Astounded. This obsidian is extremely dense and strong.",
+      "Por": "Espantado. Este obsidiana é extremamente densa e forte."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/obsidian.matitem": [
         "/shortdescription"
       ],
       "tiles/materials/obsidian.material": [
@@ -57,21 +72,6 @@
     "Texts": {
       "Eng": "Some black lookin' obsidian rocks.",
       "Por": "Algumas rochas de obsidiana pretas."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/obsidian.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/obsidian.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This obsidian is extremely dense and strong.",
-      "Por": "Esta obsidiana é extremamente densa e forte."
     }
   }
 ]

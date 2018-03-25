@@ -75,6 +75,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/huntinggroundtorch/huntinggroundtorch.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Surprised. This torch stand displays a high level of craftsmanship.",
+      "Por": "Surpreso. Este suporte de tocha exibe um alto nível de artesanato."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/huntinggroundtorch/huntinggroundtorch.object": [
         "/avianDescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "This torch stand design ensures it won't burn anything around it.",
       "Por": "Este design de suporte de tocha garante que ela não queimará nada ao redor."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/floran/huntinggroundtorch/huntinggroundtorch.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This torch stand displays a high level of craftsmanship."
     }
   }
 ]

@@ -18,6 +18,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/mirror.matitem": [
+        "/glitchDescription"
+      ],
+      "tiles/materials/mirror.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Confused. Though it appears to be a mirror there is no reflection.",
+      "Por": "Confuso. Embora pareça ser um espelho não há reflexo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/mirror.matitem": [
         "/shortdescription"
       ],
       "tiles/materials/mirror.material": [
@@ -42,21 +57,6 @@
     "Texts": {
       "Eng": "Somethin' wrong with this mirror. I ain't seein' nothin' reflected.",
       "Por": "Há algo de errado com este espelho. Eu não estou vendo nada sendo refletido."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/mirror.matitem": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "tiles/materials/mirror.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Though it appears to be a mirror there is no reflection.",
-      "Por": "Embora pareça ser um espelho, não há reflexo."
     }
   }
 ]

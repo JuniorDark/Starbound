@@ -15,17 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/metalbarrel1/metalbarrel1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A metal barrel, I can't open it."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/metalbarrel1/metalbarrel1.object": [
         "/apexDescription"
       ]
     },
@@ -56,6 +45,18 @@
     "Texts": {
       "Eng": "A sealed metal barrel.",
       "Por": "Um barril de metal selado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/metalbarrel1/metalbarrel1.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frustrated. A metal barrel, I can't open it.",
+      "Por": "Frustrado. Um barril de metal, não consigo abri-lo."
     }
   },
   {

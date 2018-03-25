@@ -8,7 +8,7 @@
     },
     "Texts": {
       "Eng": "A flickering holographic display of an unidentified planet.",
-      "Por": "Uma tela holográfica cintilante de um planeta não identificado."
+      "Por": "Uma exibição holográfica cintilante de um planeta não identificado."
     }
   },
   {
@@ -63,6 +63,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/space/stationhologram/stationhologram.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. I wonder what planet this hologram is depicting?",
+      "Por": "Curioso. Me pergunto que planeta esse holograma está retratando?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/stationhologram/stationhologram.object": [
         "/floranDescription"
       ]
     },
@@ -87,24 +99,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/space/stationhologram/stationhologram.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I wonder what planet this hologram is depicting?",
-      "Por": "Eu me pergunto que planeta esse holograma está representando?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/space/stationhologram/stationhologram.object": [
         "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "Station Hologram",
-      "Por": "Station Hologram"
+      "Eng": "Station Hologram"
     }
   }
 ]

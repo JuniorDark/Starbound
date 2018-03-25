@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma porta de nave básica. Não abre no momento."
+    ],
     "Files": {
       "objects/ship/apexshipdoorbroken/apexshipdoorBroken.object": [
         "/hylotlDescription"
@@ -30,37 +32,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/ship/apexshipdoorbroken/apexshipdoorBroken.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/avianshipdoorBroken/avianshipdoorBroken.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/floranshipdoorBroken/floranshipdoorBroken.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/glitchshipdoorBroken/glitchshipdoorBroken.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/humanshipdoorBroken/humanshipdoorBroken.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/hylotlshipdoorBroken/hylotlshipdoorBroken.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/novakidshipdoorBroken/novakidshipdoorBroken.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A door. It appears to be disabled currently.",
-      "Por": "Uma porta. Parece estar desativada atualmente."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma porta. Não abre."
+    ],
     "Files": {
       "objects/ship/apexshipdoorbroken/apexshipdoorBroken.object": [
         "/avianDescription"
@@ -90,7 +64,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Porta legal. É uma pena que ele não está abrindo agora."
+    ],
     "Files": {
       "objects/ship/apexshipdoorbroken/apexshipdoorBroken.object": [
         "/humanDescription"
@@ -117,6 +93,36 @@
     "Texts": {
       "Eng": "Cool door. Too bad it isn't opening right now.",
       "Por": "Porta legal. Pena que não está abrindo agora."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/apexshipdoorbroken/apexshipdoorBroken.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/avianshipdoorBroken/avianshipdoorBroken.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/floranshipdoorBroken/floranshipdoorBroken.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/glitchshipdoorBroken/glitchshipdoorBroken.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/humanshipdoorBroken/humanshipdoorBroken.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/hylotlshipdoorBroken/hylotlshipdoorBroken.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/novakidshipdoorBroken/novakidshipdoorBroken.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disappointed. A door. It appears to be disabled currently.",
+      "Por": "Desapontado. Uma porta. Parece estar desativada atualmente."
     }
   },
   {
@@ -150,7 +156,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "A porta está quebrada, não vai abrir tão cedo."
+    ],
     "Files": {
       "objects/ship/apexshipdoorbroken/apexshipdoorBroken.object": [
         "/novakidDescription"
@@ -180,7 +188,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Essas portas são usadas em todos as nossas naves. Este aqui não está boa."
+    ],
     "Files": {
       "objects/ship/apexshipdoorbroken/apexshipdoorBroken.object": [
         "/apexDescription"
@@ -206,7 +216,7 @@
     },
     "Texts": {
       "Eng": "These doors are used on all our ships. This one is not playing nice.",
-      "Por": "Essas portas são usadas em todas as nossas naves. Esta aqui não está boa."
+      "Por": "Essas portas são usadas em todas as nossas naves. Este aqui não está boa."
     }
   }
 ]

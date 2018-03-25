@@ -53,7 +53,6 @@
       "objects/outpost/number5/number5.object": [
         "/apexDescription",
         "/avianDescription",
-        "/glitchDescription/glitchEmotedText",
         "/humanDescription",
         "/hylotlDescription"
       ]
@@ -61,6 +60,18 @@
     "Texts": {
       "Eng": "Five.",
       "Por": "Cinco."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/number5/number5.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neutral. Five.",
+      "Por": "Neutro. Cinco."
     }
   }
 ]

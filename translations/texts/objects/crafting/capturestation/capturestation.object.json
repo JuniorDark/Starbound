@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/crafting/capturestation/capturestation.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excited. With this, I can craft capture pods!",
+      "Por": "Animado. Com isso, eu posso criar capture pods!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/capturestation/capturestation.object": [
         "/floranDescription"
       ]
     },
@@ -105,17 +117,6 @@
     "Texts": {
       "Eng": "Used to produce capture pods, healing stations and other pet related items.",
       "Por": "Usada para produzir capture pods, estações de cura e outros itens relacionados a pets."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/crafting/capturestation/capturestation.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "With this, I can craft capture pods!"
     }
   },
   {

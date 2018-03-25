@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/birdthrone/birdthrone.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Agreeable. Glitch lords also sit upon thrones.",
+      "Por": "Agradável. Senhores Glitch também sentam em tronos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/birdthrone/birdthrone.object": [
         "/shortdescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "Birdman throne make good Floran trophy.",
       "Por": "Trono de homem-pássaro se faz um bom troféu Floran."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avian/birdthrone/birdthrone.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Glitch lords also sit upon thrones."
     }
   },
   {

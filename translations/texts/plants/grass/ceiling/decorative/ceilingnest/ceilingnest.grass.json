@@ -8,7 +8,7 @@
     },
     "Texts": {
       "Eng": "Creature house!",
-      "Por": "Casa de criatura!"
+      "Por": "Abrigo da criatura!"
     }
   },
   {
@@ -28,12 +28,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "plants/grass/ceiling/decorative/ceilingnest/ceilingnest.grass": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "The nest of a tiny creature.",
-      "Por": "O ninho de uma pequena criatura."
+      "Eng": "Statement. The nest of a tiny creature.",
+      "Por": "Relatório. Um ninho de uma criatura muito pequena."
     }
   }
 ]

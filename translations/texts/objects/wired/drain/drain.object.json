@@ -44,19 +44,19 @@
     },
     "Texts": {
       "Eng": "Gurgle gurgle!",
-      "Por": "Glub glub!"
+      "Por": "Gurgle gurgle!"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/wired/drain/drain.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "This drains away water with ease.",
-      "Por": "Isso drena a água com facilidade."
+      "Eng": "Impressed. This drains away water with ease.",
+      "Por": "Impressionado. Isso drena a água com facilidade."
     }
   },
   {

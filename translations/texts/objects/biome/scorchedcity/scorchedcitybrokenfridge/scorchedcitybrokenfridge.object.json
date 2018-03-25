@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/scorchedcity/scorchedcitybrokenfridge/scorchedcitybrokenfridge.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disappointed. This refrigerator was once such a useful device.",
+      "Por": "Decepcionado. Esta geladeira já foi um dispositivo tão útil."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/scorchedcity/scorchedcitybrokenfridge/scorchedcitybrokenfridge.object": [
         "/humanDescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "This fridge is useless now.",
       "Por": "Esta geladeira é inútil agora."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/scorchedcity/scorchedcitybrokenfridge/scorchedcitybrokenfridge.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This refrigerator was once such a useful device."
     }
   }
 ]

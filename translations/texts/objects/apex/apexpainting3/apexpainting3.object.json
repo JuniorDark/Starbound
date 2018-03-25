@@ -15,17 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/apexpainting3/apexpainting3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "An unknown media type."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/apex/apexpainting3/apexpainting3.object": [
         "/shortdescription"
       ]
     },
@@ -44,6 +33,18 @@
     "Texts": {
       "Eng": "Black shiny circle.",
       "Por": "Círculo preto brilhante."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/apexpainting3/apexpainting3.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Confused. An unknown media type.",
+      "Por": "Confuso. Um tipo de mídia desconhecida."
     }
   },
   {

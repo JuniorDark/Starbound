@@ -3,6 +3,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/themed/island/islandcabinet/islandcabinet.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": " Amused. There's a small tree atop this cabinet.",
+      "Por": "Divertido. Há uma pequena árvore no topo deste armário."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/island/islandcabinet/islandcabinet.object": [
         "/humanDescription"
       ]
     },
@@ -57,18 +69,6 @@
     "Texts": {
       "Eng": "Island Cabinet",
       "Por": "Island Cabinet"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/themed/island/islandcabinet/islandcabinet.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "There's a small tree atop this cabinet.",
-      "Por": "Há uma pequena árvore no topo deste armário."
     }
   },
   {

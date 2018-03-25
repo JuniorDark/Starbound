@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/prisonfile1/prisonfile1.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amazed. Someone was imprisoned for assassinating an emperor. He was sent to jail for a week.",
+      "Por": "Espantado. Alguém foi preso por assassinar um imperador. Ele foi mandado para a prisão por uma semana."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisonfile1/prisonfile1.object": [
         "/apexDescription"
       ]
     },
@@ -33,17 +45,6 @@
     "Texts": {
       "Eng": "Rusty Filing Cabinet",
       "Por": "Rusty Filing Cabinet"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/human/prisonfile1/prisonfile1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Someone was imprisoned for assassinating an emperor. He was sent to jail for a week."
     }
   },
   {

@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/arttrophies/paintingpearlearring/paintingpearlearring.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Quizzical. What is the human turning to look at?",
+      "Por": "Interrogativo. A humana está virada para olhar o que?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/arttrophies/paintingpearlearring/paintingpearlearring.object": [
         "/floranDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "This woman is turning to look at something, perhaps.",
       "Por": "Esta mulher está se virando para olhar para algo, talvez."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/arttrophies/paintingpearlearring/paintingpearlearring.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "What is the human turning to look at?"
     }
   }
 ]

@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/avianwaterlight/avianwaterlight.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Appreciative. What a nice light.",
+      "Por": "Apreciativo. Que luz agradável."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/avianwaterlight/avianwaterlight.object": [
         "/humanDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "This crazy light looks like it's made from rock.",
       "Por": "Esta luz louca parece ser feita de pedra."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avian/avianwaterlight/avianwaterlight.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "What a nice light."
     }
   },
   {

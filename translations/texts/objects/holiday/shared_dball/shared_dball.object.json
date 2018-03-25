@@ -3,20 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/holiday/goldball/goldball.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/holiday/redball/redball.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A lovely decoration."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/holiday/goldball/goldball.object": [
         "/floranDescription"
       ],
       "objects/holiday/redball/redball.object": [
@@ -29,7 +15,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Tenho que ter cuidado para não esmagar esta bugiganga."
+    ],
     "Files": {
       "objects/holiday/goldball/goldball.object": [
         "/humanDescription"

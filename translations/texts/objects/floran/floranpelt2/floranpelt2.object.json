@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/floranpelt2/floranpelt2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enticed. The fur is soft. The Floran must carefully skin their conquests.",
+      "Por": "Seduzido. O pelo é macio. Os Floran devem cuidadosamente esfolar suas conquistas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/floranpelt2/floranpelt2.object": [
         "/hylotlDescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "Small Black Pelt",
       "Por": "Small Black Pelt"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/floran/floranpelt2/floranpelt2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The fur is soft. The Floran must carefully skin their conquests."
     }
   },
   {

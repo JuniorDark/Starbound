@@ -48,14 +48,15 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/eggshoot/eggshootseed.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/farmables/eggshoot/wildeggshootseed.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Avians happily eat these, despite their egg-like appearance."
+      "Eng": "Curious. Avians happily eat these, despite their egg-like appearance.",
+      "Por": "Curioso. Avians felizmente come-os, apesar de sua aparência de ovo."
     }
   },
   {

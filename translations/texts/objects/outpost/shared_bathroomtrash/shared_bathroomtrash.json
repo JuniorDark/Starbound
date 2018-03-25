@@ -33,20 +33,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/bathroomtrash/bathroomtrash.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/outpost/bathroomtrashquest/bathroomtrashquest.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Garbage."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/outpost/bathroomtrash/bathroomtrash.object": [
         "/floranDescription"
       ],
       "objects/outpost/bathroomtrashquest/bathroomtrashquest.object": [
@@ -101,6 +87,21 @@
     "Texts": {
       "Eng": "Trash. Just trash. Or is it? Answer: yes.",
       "Por": "Lixo. Apenas lixo. Ou é? Resposta: sim."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/bathroomtrash/bathroomtrash.object": [
+        "/glitchDescription"
+      ],
+      "objects/outpost/bathroomtrashquest/bathroomtrashquest.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unimpressed. Garbage.",
+      "Por": "Não impressionado. Lixo."
     }
   },
   {

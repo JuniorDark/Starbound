@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/foundry/foundryconsole/foundryconsole.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fascinated. I would be interested to find out what these bulbs signify.",
+      "Por": "Fascinado. Eu estaria interessado em descobrir o que significam essas lâmpadas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/foundry/foundryconsole/foundryconsole.object": [
         "/floranDescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "Foundry Console",
       "Por": "Foundry Console"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/foundry/foundryconsole/foundryconsole.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I would be interested to find out what these bulbs signify."
     }
   },
   {

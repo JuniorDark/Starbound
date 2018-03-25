@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/upgrade/techconsole/techconsole.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. This console allows me to equip and remove techs.",
+      "Por": "Impressionado. Este console me permite equipar e remover tecnologias."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/upgrade/techconsole/techconsole.object": [
         "/shortdescription"
       ]
     },

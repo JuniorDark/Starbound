@@ -87,23 +87,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/electricdoor/electricdoor.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The current here is completely grounded, there is no danger."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/electricdoor/electricdoor.object": [
         "/apexDescription"
       ]
     },
     "Texts": {
       "Eng": "This current forms a shield to keep things from passing through.",
       "Por": "Esta corrente forma um escudo para impedir que coisas passem."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/electricdoor/electricdoor.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unconcerned. The current here is completely grounded, there is no danger.",
+      "Por": "Despreocupado A corrente aqui está completamente aterrada, não há perigo."
     }
   }
 ]

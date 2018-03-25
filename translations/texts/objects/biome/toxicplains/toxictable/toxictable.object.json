@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/toxicplains/toxictable/toxictable.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cautious. The thorns are exceptionally sharp.",
+      "Por": "Cauteloso. Os espinhos são excepcionalmente afiados."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/toxicplains/toxictable/toxictable.object": [
         "/novakidDescription"
       ]
     },
@@ -33,17 +45,6 @@
     "Texts": {
       "Eng": "It's hard to get comfortable next to this table.",
       "Por": "É difícil ficar confortável perto desta mesa."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/toxicplains/toxictable/toxictable.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The thorns are exceptionally sharp."
     }
   },
   {

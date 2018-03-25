@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/plantpanel/plantpanel.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. What will pressing these buttons do?",
+      "Por": "Curioso. O que pressionar esses botões vai fazer?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/plantpanel/plantpanel.object": [
         "/floranDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "There's buttons here, I wonder what'll happen if I push 'em all.",
       "Por": "Há botões aqui, eu me pergunto o que acontecerá se eu apertar todos eles."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/floran/plantpanel/plantpanel.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "What will pressing these buttons do?"
     }
   },
   {

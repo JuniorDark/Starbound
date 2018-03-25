@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/volcanic/volcanictrap/volcanictrap.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Distressed. Not what I wanted to see today.",
+      "Por": "Angustiado. Não é o que eu queria ver hoje."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/volcanic/volcanictrap/volcanictrap.object": [
         "/novakidDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "Not something I want to get close to.",
       "Por": "Não é algo que eu quero chegar perto."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/volcanic/volcanictrap/volcanictrap.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Not what I wanted to see today."
     }
   },
   {

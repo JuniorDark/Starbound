@@ -9,7 +9,7 @@
     },
     "Texts": {
       "Eng": "Dirt rocks.",
-      "Por": "Pedras de terra."
+      "Por": "Rochas de areia."
     }
   },
   {
@@ -21,19 +21,19 @@
     },
     "Texts": {
       "Eng": "Dirt rocksss!",
-      "Por": "Pedrasss de terra!"
+      "Por": "Rochas de areia!"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "plants/grass/ceiling/decorative/ceilingdirtrocks/ceilingdirtrocks.grass": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Rocks made of dirt.",
-      "Por": "Pedras feitas de terra."
+      "Eng": "Statement. Rocks made of dirt.",
+      "Por": "Relatório. Rochas feitas de areia."
     }
   }
 ]

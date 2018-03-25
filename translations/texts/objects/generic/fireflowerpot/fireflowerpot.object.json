@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/fireflowerpot/fireflowerpot.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amazed. The colour and shape of this flower closely resemble fire.",
+      "Por": "Espantado. A cor e a forma desta flor assemelham-se a fogo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/fireflowerpot/fireflowerpot.object": [
         "/shortdescription"
       ]
     },
@@ -57,17 +69,6 @@
     "Texts": {
       "Eng": "Flowers on the surface are so vibrant.",
       "Por": "As flores na superfície são tão vibrantes."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/fireflowerpot/fireflowerpot.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The colour and shape of this flower closely resemble fire."
     }
   },
   {

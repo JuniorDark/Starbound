@@ -105,6 +105,45 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/root1/root1.object": [
+        "/glitchDescription"
+      ],
+      "objects/mission/root10/root10.object": [
+        "/glitchDescription"
+      ],
+      "objects/mission/root2/root2.object": [
+        "/glitchDescription"
+      ],
+      "objects/mission/root3/root3.object": [
+        "/glitchDescription"
+      ],
+      "objects/mission/root4/root4.object": [
+        "/glitchDescription"
+      ],
+      "objects/mission/root5/root5.object": [
+        "/glitchDescription"
+      ],
+      "objects/mission/root6/root6.object": [
+        "/glitchDescription"
+      ],
+      "objects/mission/root7/root7.object": [
+        "/glitchDescription"
+      ],
+      "objects/mission/root8/root8.object": [
+        "/glitchDescription"
+      ],
+      "objects/mission/root9/root9.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. There are roots protruding from the ceiling.",
+      "Por": "Atento. Há raízes sobressaindo do teto."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/root1/root1.object": [
         "/avianDescription"
       ],
       "objects/mission/root10/root10.object": [
@@ -240,44 +279,6 @@
     "Texts": {
       "Eng": "There are long roots protruding from the ceiling.",
       "Por": "Há longas raízes sobressaindo do teto."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/mission/root1/root1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/mission/root10/root10.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/mission/root2/root2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/mission/root3/root3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/mission/root4/root4.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/mission/root5/root5.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/mission/root6/root6.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/mission/root7/root7.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/mission/root8/root8.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/mission/root9/root9.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "There are roots protruding from the ceiling."
     }
   },
   {

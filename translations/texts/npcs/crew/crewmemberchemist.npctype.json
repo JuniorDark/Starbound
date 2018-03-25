@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/crew/crewmemberchemist.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excited. Perhaps you could do with a power-up!",
+      "Por": "Animado. Talvez você poderia fazer com um power-up!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberchemist.npctype": [
         "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/0"
       ]
     },
@@ -39,24 +51,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/crew/crewmemberchemist.npctype": [
-        "/scriptConfig/dialog/crewmember/combatBenefit/novakid/default/3"
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0"
       ]
     },
     "Texts": {
-      "Eng": "Hold on partner, I can help you out!",
-      "Por": "Aguenta ai parceiro, eu posso ajudá-lo!"
+      "Eng": "Friendly. I'll give you a boost whenever we're on the ship!",
+      "Por": "Amigável. Vou te dar um impulso sempre que estivermos na nave!"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "npcs/crew/crewmemberchemist.npctype": [
-        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/2/glitchEmotedText"
+        "/scriptConfig/dialog/crewmember/combatBenefit/novakid/default/3"
       ]
     },
     "Texts": {
-      "Eng": "I wonder if this will help you?",
-      "Por": "Eu me pergunto se isso vai ajudá-lo?"
+      "Eng": "Hold on partner, I can help you out!",
+      "Por": "Aguenta ai parceiro, eu posso ajudá-lo!"
     }
   },
   {
@@ -75,8 +87,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/crew/crewmemberchemist.npctype": [
-        "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
-        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0/glitchEmotedText"
+        "/scriptConfig/dialog/crewmember/roleDescription/default/default/0"
       ]
     },
     "Texts": {
@@ -94,6 +105,18 @@
     "Texts": {
       "Eng": "I'll give you a boost whenever we're on the ship, partner!",
       "Por": "Vou te dar um impulso sempre que estivermos na nave, parceiro!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberchemist.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intrigued. I wonder if this will help you?",
+      "Por": "Intrigado. Eu me pergunto se isso vai ajudá-lo?"
     }
   },
   {
@@ -130,18 +153,6 @@
     "Texts": {
       "Eng": "Looks like you could use a hand, partner!",
       "Por": "Parece que você precisa de uma mão, parceiro!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "npcs/crew/crewmemberchemist.npctype": [
-        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Perhaps you could do with a power-up!",
-      "Por": "Talvez isso possa te dar uma ajudinha!"
     }
   },
   {

@@ -39,18 +39,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/wreck/wrecklocker/wrecklocker.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Could this locker still have something inside?",
-      "Por": "Poderia este armário ainda ter algo dentro?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/wreck/wrecklocker/wrecklocker.object": [
         "/novakidDescription"
       ]
     },
@@ -69,6 +57,18 @@
     "Texts": {
       "Eng": "I wouldn't want to store valuables in here.",
       "Por": "Eu não gostaria de armazenar objetos de valor aqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wreck/wrecklocker/wrecklocker.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Inquisitive. Could this locker still have something inside?",
+      "Por": "Curioso. Esse armário ainda poderia ter algo dentro?"
     }
   },
   {

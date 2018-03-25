@@ -16,13 +16,24 @@
     "Files": {
       "plants/grass/ground/decorative/bubbles/bubbles.grass": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ]
     },
     "Texts": {
       "Eng": "Bubbles.",
       "Por": "Bolhas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/bubbles/bubbles.grass": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. Bubbles.",
+      "Por": "Declaração. Bolhas."
     }
   }
 ]

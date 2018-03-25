@@ -51,23 +51,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/hayroll/hayroll.object": [
-        "/shortdescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Hay Roll",
-      "Por": "Hay Roll"
+      "Eng": "Happy. Hay all rolled up and ready to be sold.",
+      "Por": "Feliz. Feno todo enrolado e pronto para ser vendido."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/hayroll/hayroll.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "Hay all rolled up and ready to be sold."
+      "Eng": "Hay Roll",
+      "Por": "Hay Roll"
     }
   },
   {

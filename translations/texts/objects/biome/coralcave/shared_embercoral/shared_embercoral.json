@@ -51,29 +51,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/coralcave/embercoral1/embercoral1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/coralcave/embercoral2/embercoral2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/coralcave/embercoral3/embercoral3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/coralcave/embercoral4/embercoral4.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/coralcave/embercoral5/embercoral5.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A golden coral shrub."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/coralcave/embercoral1/embercoral1.object": [
         "/apexDescription"
       ],
       "objects/biome/coralcave/embercoral2/embercoral2.object": [
@@ -116,6 +93,30 @@
     "Texts": {
       "Eng": "Ember Coral",
       "Por": "Ember Coral"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/coralcave/embercoral1/embercoral1.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/coralcave/embercoral2/embercoral2.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/coralcave/embercoral3/embercoral3.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/coralcave/embercoral4/embercoral4.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/coralcave/embercoral5/embercoral5.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Greedy. A golden coral shrub.",
+      "Por": "Ganancioso. Um arbusto de coral dourado."
     }
   },
   {

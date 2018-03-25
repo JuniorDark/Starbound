@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/penguinbay/penguinbay.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amused. These tiny penguins are smugglers.",
+      "Por": "Divertido. Estes pinguins minúsculos são contrabandistas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/penguinbay/penguinbay.object": [
         "/humanDescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "The Penguin Bay",
       "Por": "A Baía dos Pinguins"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/outpost/penguinbay/penguinbay.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "These tiny penguins are smugglers."
     }
   },
   {

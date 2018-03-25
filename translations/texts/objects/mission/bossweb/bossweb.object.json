@@ -39,23 +39,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/bossweb/bossweb.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Just a huge, sticky web. Nothing to be afraid of."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/mission/bossweb/bossweb.object": [
         "/novakidDescription"
       ]
     },
     "Texts": {
       "Eng": "Nasty lookin' web gunk.",
       "Por": "Teia grudenta desagradável."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/bossweb/bossweb.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Terrified. Just a huge, sticky web. Nothing to be afraid of.",
+      "Por": "Aterrorizado. Apenas uma enorme e pegajosa teia. Nada a temer."
     }
   },
   {

@@ -43,8 +43,19 @@
       ]
     },
     "Texts": {
-      "Eng": "Food Station Sign",
-      "Por": "Food Station Sign"
+      "Eng": "Food Station Sign"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/stationtradesign/stationtradesignfood.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Informed. The image of this symbol is meant to indicate a food station.",
+      "Por": "Informado. A imagem deste símbolo pretende indicar uma estação de alimentos."
     }
   },
   {
@@ -69,18 +80,6 @@
     "Texts": {
       "Eng": "Signs like this usually mean there is a nearby food station.",
       "Por": "Placas como esta geralmente significam que há uma estação de comida próxima."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/space/stationtradesign/stationtradesignfood.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The image of this symbol is meant to indicate a food station.",
-      "Por": "A imagem deste símbolo serve para indicar uma estação de alimentos."
     }
   },
   {

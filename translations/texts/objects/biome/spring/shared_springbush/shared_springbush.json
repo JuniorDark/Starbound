@@ -58,33 +58,27 @@
     "Files": {
       "objects/biome/spring/springbush1/springbush1.object": [
         "/apexDescription",
-        "/description",
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ],
       "objects/biome/spring/springbush2/springbush2.object": [
         "/apexDescription",
-        "/description",
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ],
       "objects/biome/spring/springbush3/springbush3.object": [
         "/apexDescription",
-        "/description",
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ],
       "objects/biome/spring/springbush4/springbush4.object": [
         "/apexDescription",
-        "/description",
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ],
       "objects/biome/spring/springbush5/springbush5.object": [
         "/apexDescription",
-        "/description",
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ],
       "objects/biome/spring/springbush6/springbush6.object": [
         "/apexDescription",
-        "/description",
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ]
     },
     "Texts": {
@@ -171,6 +165,33 @@
     "Texts": {
       "Eng": "Flowery Bush",
       "Por": "Flowery Bush"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/spring/springbush1/springbush1.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/spring/springbush2/springbush2.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/spring/springbush3/springbush3.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/spring/springbush4/springbush4.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/spring/springbush5/springbush5.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/spring/springbush6/springbush6.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neutral. A flowery bush.",
+      "Por": "Neutro. Um arbusto florido."
     }
   }
 ]

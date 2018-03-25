@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/protectorate/objects/protectorateportrait1/protectorateportrait1.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. This human was the first Grand Protector. What an accomplishment.",
+      "Por": "Impressionado. Este humano foi o primeiro Grande Protector. Que realização."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/protectorate/objects/protectorateportrait1/protectorateportrait1.object": [
         "/floranDescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "The first Grand Protector! He looks exactly like you'd expect.",
       "Por": "O primeiro Grande Protetor! Ele parece exatamente como você esperaria."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/protectorate/objects/protectorateportrait1/protectorateportrait1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This human was the first Grand Protector. What an accomplishment."
     }
   }
 ]

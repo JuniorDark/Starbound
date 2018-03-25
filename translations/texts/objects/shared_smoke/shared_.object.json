@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Smoke"
+    ],
     "Files": {
       "objects/biome/volcanic/smokegen/smokegen.object": [
         "/shortdescription"
@@ -25,7 +27,7 @@
     },
     "Texts": {
       "Eng": "Smoke",
-      "Por": "Smoke"
+      "Por": "Fumaça"
     }
   }
 ]

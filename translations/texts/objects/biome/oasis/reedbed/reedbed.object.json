@@ -51,23 +51,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/oasis/reedbed/reedbed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "It is a bed made of wood and reeds. It looks reasonably comfortable."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/oasis/reedbed/reedbed.object": [
         "/humanDescription"
       ]
     },
     "Texts": {
       "Eng": "It's a jungle-themed bed. Or... is it genuinely made of wood and reeds?",
       "Por": "É uma cama de temática da selva. Ou... é genuinamente feita de madeira e juncos?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/oasis/reedbed/reedbed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. It is a bed made of wood and reeds. It looks reasonably comfortable.",
+      "Por": "Observador. É uma cama de madeira e juncos. Parece razoavelmente confortável."
     }
   },
   {

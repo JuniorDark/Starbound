@@ -1,6 +1,9 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Um armário, para colocar as coisas em.",
+      "Um armário, para colocar coisas dentro."
+    ],
     "Files": {
       "objects/ship/apexshiplocker/apexshiplocker.object": [
         "/novakidDescription"
@@ -23,7 +26,7 @@
     },
     "Texts": {
       "Eng": "A locker, for puttin' things in.",
-      "Por": "Um armário, para colocar coisas dentro."
+      "Por": "Um armário para colocar as coisas dentro."
     }
   },
   {
@@ -45,21 +48,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/ship/humanshiplocker/humanshiplocker.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/novakidshiplocker/novakidshiplocker.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Any items of interest inside I wonder?",
-      "Por": "Quaisquer itens de interesse dentro eu me pergunto?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/ship/humanshiplocker/humanshiplocker.object": [
         "/avianDescription"
       ],
       "objects/ship/novakidshiplocker/novakidshiplocker.object": [
@@ -69,6 +57,21 @@
     "Texts": {
       "Eng": "Could there be anything of value within this locker?",
       "Por": "Poderia haver algo de valor dentro deste armário?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/humanshiplocker/humanshiplocker.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/novakidshiplocker/novakidshiplocker.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excited. Any items of interest inside I wonder?",
+      "Por": "Animado. Quaisquer itens de interesse dentro eu me pergunto?"
     }
   },
   {

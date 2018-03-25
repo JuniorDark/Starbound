@@ -75,6 +75,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/jungle/beanstalk/beanstalk.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Suspicious. What might be at the top of a beanstalk?",
+      "Por": "Suspeito. O que poderia estar no topo de um pé de feijão?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/jungle/beanstalk/beanstalk.object": [
         "/hylotlDescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "This beanstalk reminds me of a fairy tale.",
       "Por": "Este pé de feijão me faz lembrar de um conto de fadas"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/jungle/beanstalk/beanstalk.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "What might be at the top of a beanstalk?"
     }
   }
 ]

@@ -39,17 +39,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/sewertank/sewertank.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Heat signatures indicate a living being is inside this tank."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/glitch/sewertank/sewertank.object": [
         "/humanDescription"
       ]
     },
@@ -92,6 +81,18 @@
     "Texts": {
       "Eng": "Sewer Tank",
       "Por": "Sewer Tank"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/sewertank/sewertank.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Startled. Heat signatures indicate a living being is inside this tank.",
+      "Por": "Assustado. As assinaturas de calor indicam que um ser vivo está dentro desse tanque."
     }
   },
   {

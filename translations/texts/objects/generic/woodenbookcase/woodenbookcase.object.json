@@ -75,23 +75,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/woodenbookcase/woodenbookcase.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Just a bookcase."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/woodenbookcase/woodenbookcase.object": [
         "/floranDescription"
       ]
     },
     "Texts": {
       "Eng": "Sssimple wooden bookcase.",
       "Por": "Estante de madeira sssimples."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodenbookcase/woodenbookcase.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Uninterested. Just a bookcase.",
+      "Por": "Desinteressado. Apenas uma estante."
     }
   },
   {

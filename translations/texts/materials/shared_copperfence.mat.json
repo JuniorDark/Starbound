@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma cerca de cobre resistente."
+    ],
     "Files": {
       "items/materials/copperfence.matitem": [
         "/description"
@@ -12,6 +14,21 @@
     "Texts": {
       "Eng": "A sturdy copper fence.",
       "Por": "Uma cerca resistente de cobre."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/copperfence.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/copperfence.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Confident. This copper fence is much stronger than wood.",
+      "Por": "Confiante. Esta cerca de cobre é muito mais forte do que madeira."
     }
   },
   {
@@ -42,21 +59,6 @@
     "Texts": {
       "Eng": "Sssturdy copper fence.",
       "Por": "Cerca resistente de cobre."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/copperfence.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/copperfence.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This copper fence is much stronger than wood.",
-      "Por": "Esta cerca de cobre é muito mais forte que madeira."
     }
   },
   {

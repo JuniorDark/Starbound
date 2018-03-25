@@ -3,36 +3,36 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/dungeon/evilfortress/executioner.npctype": [
-        "/scriptConfig/dialog/attack/glitch/default/2/glitchEmotedText"
+        "/scriptConfig/dialog/attack/glitch/default/2"
       ]
     },
     "Texts": {
-      "Eng": "I have been waiting to try out my new axe!",
-      "Por": "Eu tenho esperado para experimentar meu novo machado!"
+      "Eng": "Excited. I have been waiting to try out my new axe!",
+      "Por": "Animado. Estava esperando para experimentar o meu novo machado!"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "npcs/dungeon/evilfortress/executioner.npctype": [
-        "/scriptConfig/dialog/attack/glitch/default/0/glitchEmotedText"
+        "/scriptConfig/dialog/attack/glitch/default/3"
       ]
     },
     "Texts": {
-      "Eng": "I'm gonna chop you to pieces!",
-      "Por": "Vou cortá-lo em pedaços!"
+      "Eng": "Fearless. I've cut down many like you before!",
+      "Por": "Destemido. Eu já cortei muitos como você antes!"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "npcs/dungeon/evilfortress/executioner.npctype": [
-        "/scriptConfig/dialog/attack/glitch/default/3/glitchEmotedText"
+        "/scriptConfig/dialog/attack/glitch/default/0"
       ]
     },
     "Texts": {
-      "Eng": "I've cut down many like you before!",
-      "Por": "Eu cortei muitos como você antes!"
+      "Eng": "Menacing. I'm gonna chop you to pieces!",
+      "Por": "Ameaçador. Eu vou te cortar em pedaços!"
     }
   }
 ]

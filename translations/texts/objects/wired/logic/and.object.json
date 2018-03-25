@@ -27,13 +27,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/wired/logic/and.object": [
-        "/description",
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ]
     },
     "Texts": {
       "Eng": "An /'AND'/ switch. Requires all inputs to be /'on'/ to work.",
       "Por": "Um interruptor /'E'/. Exige que todas as entradas estejam /'ativadas'/ para ativar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/logic/and.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased. An /'AND'/ switch. Requires all inputs to be /'on'/ to work.",
+      "Por": "Satisfeito. Um interruptor /'E'/. Requer que todas as entradas estejam /'ativadas'/ para ativar."
     }
   }
 ]

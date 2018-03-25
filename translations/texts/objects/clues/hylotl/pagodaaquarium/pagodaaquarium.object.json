@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/clues/hylotl/pagodaaquarium/pagodaaquarium.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. This glass fish tank has a model of an island on top, connected to the base with a metal tunnel.",
+      "Por": "Impressionado. Este aquário de vidro tem um modelo de uma ilha em cima, ligado à base com um túnel de metal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/clues/hylotl/pagodaaquarium/pagodaaquarium.object": [
         "/shortdescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "This fish tank hasn't got any fish in it. It does have a nice lookin' miniature island on top, though.",
       "Por": "Este aquário não tem nenhum peixe. Mas tem uma bela ilha em miniatura em cima."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/clues/hylotl/pagodaaquarium/pagodaaquarium.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This glass fish tank has a model of an island on top, connected to the base with a metal tunnel."
     }
   },
   {

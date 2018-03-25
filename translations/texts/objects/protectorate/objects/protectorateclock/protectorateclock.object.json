@@ -27,17 +27,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/protectorate/objects/protectorateclock/protectorateclock.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I really should get a move on."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/protectorate/objects/protectorateclock/protectorateclock.object": [
         "/apexDescription"
       ]
     },
@@ -68,6 +57,18 @@
     "Texts": {
       "Eng": "Protectorate Clock",
       "Por": "Protectorate Clock"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/protectorate/objects/protectorateclock/protectorateclock.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stressed. I really should get a move on.",
+      "Por": "Estressado. Eu realmente deveria me mover."
     }
   },
   {

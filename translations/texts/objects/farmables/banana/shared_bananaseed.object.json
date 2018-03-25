@@ -33,6 +33,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/banana/bananaseed.object": [
+        "/glitchDescription"
+      ],
+      "objects/farmables/banana/wildbananaseed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cynical. The Apex love these, but The Glitch see nothing special.",
+      "Por": "Cínico. Os Apex amam isso, mas os Glitch não vêem nada de especial."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/banana/bananaseed.object": [
         "/novakidDescription"
       ],
       "objects/farmables/banana/wildbananaseed.object": [
@@ -87,20 +102,6 @@
     "Texts": {
       "Eng": "Sssmells like a monkeyman.",
       "Por": "Cheira como um homem macaco."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/farmables/banana/bananaseed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/farmables/banana/wildbananaseed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The Apex love these, but The Glitch see nothing special."
     }
   },
   {

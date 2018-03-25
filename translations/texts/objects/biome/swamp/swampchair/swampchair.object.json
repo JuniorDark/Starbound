@@ -63,17 +63,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/swamp/swampchair/swampchair.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Sitting here would feel odd."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/swamp/swampchair/swampchair.object": [
         "/shortdescription"
       ]
     },
@@ -104,6 +93,18 @@
     "Texts": {
       "Eng": "This seat is simple. No need for extravagance.",
       "Por": "Este assento é simples. Não há necessidade de extravagância."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/swamp/swampchair/swampchair.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Uncomfortable. Sitting here would feel odd.",
+      "Por": "Desconfortável. Sentado aqui seria estranho."
     }
   }
 ]

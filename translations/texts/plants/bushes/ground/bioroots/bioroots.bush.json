@@ -8,7 +8,7 @@
     },
     "Texts": {
       "Eng": "A bunch of curling roots.",
-      "Por": "Um monte de raízes ondulantes."
+      "Por": "Um grupo de raízes."
     }
   },
   {
@@ -32,19 +32,19 @@
     },
     "Texts": {
       "Eng": "Some curling roots.",
-      "Por": "Algumas raízes ondulantes."
+      "Por": "Algumas Raízes."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "plants/bushes/ground/bioroots/bioroots.bush": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "These look like roots.",
-      "Por": "Parecem raizes."
+      "Eng": "Statement. These look like roots.",
+      "Por": "Declaração. Parecem raízes."
     }
   }
 ]

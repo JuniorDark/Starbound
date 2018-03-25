@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/clues/avian/kluexstatue2/kluexstatue2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intimidated. This statue depicts the god Kluex in a mighty serpent form, as well as stories about him.",
+      "Por": "Intimidado. Esta estátua retrata o deus Kluex em uma poderosa forma de serpente, bem como histórias sobre ele."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/clues/avian/kluexstatue2/kluexstatue2.object": [
         "/shortdescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "This old statue has both a history of Kluex, and a statue of him. He looks long, like a snake!",
       "Por": "Esta estátua antiga tem ambos a história de Kluex e uma estátua dele. Ele parece longo, como uma cobra!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/clues/avian/kluexstatue2/kluexstatue2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This statue depicts the god Kluex in a mighty serpent form, as well as stories about him."
     }
   },
   {

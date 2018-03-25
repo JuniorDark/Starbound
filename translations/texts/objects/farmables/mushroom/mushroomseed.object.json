@@ -99,11 +99,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/mushroom/mushroomseed.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "This fungus does not appear to be corrosive to Glitch."
+      "Eng": "Relieved. This fungus does not appear to be corrosive to Glitch.",
+      "Por": "Aliviado. Este fungo não parece ser corrosivo para os Glitch."
     }
   }
 ]

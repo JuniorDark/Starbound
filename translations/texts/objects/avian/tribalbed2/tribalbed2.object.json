@@ -75,6 +75,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/tribalbed2/tribalbed2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sentimental. This is not unlike the bed I used to rest in.",
+      "Por": "Sentimental. Isso não é diferente da cama em que eu costumava descansar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/tribalbed2/tribalbed2.object": [
         "/floranDescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "This bed looks wonderfully comfortable.",
       "Por": "Esta cama parece maravilhosamente confortável."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avian/tribalbed2/tribalbed2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This is not unlike the bed I used to rest in."
     }
   }
 ]

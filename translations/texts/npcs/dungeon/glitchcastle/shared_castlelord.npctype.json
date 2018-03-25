@@ -1,137 +1,140 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Amedrontado. Um intruso! Guardas!"
+    ],
     "Files": {
       "npcs/dungeon/glitchcastle/castlelord.npctype": [
-        "/scriptConfig/dialog/attack/glitch/1/glitchEmotedText"
+        "/scriptConfig/dialog/attack/glitch/1"
       ],
       "npcs/dungeon/glitchcastle/friendlycastlelord.npctype": [
-        "/scriptConfig/dialog/attack/glitch/1/glitchEmotedText"
+        "/scriptConfig/dialog/attack/glitch/1"
       ]
     },
     "Texts": {
-      "Eng": "A brigand! Guards!",
-      "Por": "Um bandido! Guardas!"
+      "Eng": "Afraid. A brigand! Guards!",
+      "Por": "Com Medo. Um bandido! Guardas!"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Agressivo. Você sairá deste lugar... em pedaços!"
+    ],
     "Files": {
       "npcs/dungeon/glitchcastle/castlelord.npctype": [
-        "/scriptConfig/dialog/attack/glitch/3/glitchEmotedText"
+        "/scriptConfig/dialog/attack/glitch/7"
       ],
       "npcs/dungeon/glitchcastle/friendlycastlelord.npctype": [
-        "/scriptConfig/dialog/attack/glitch/3/glitchEmotedText"
+        "/scriptConfig/dialog/attack/glitch/7"
       ]
     },
     "Texts": {
-      "Eng": "Guards! Guards, help!",
-      "Por": "Guardas! Guardas, socorro!"
+      "Eng": "Aggressive. You will leave this place... in pieces!",
+      "Por": "Agressivo. Você vai deixar este lugar... em pedaços!"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Provocado. Guardas, cortem este canalha em pedaços!"
+    ],
     "Files": {
       "npcs/dungeon/glitchcastle/castlelord.npctype": [
-        "/scriptConfig/dialog/attack/glitch/0/glitchEmotedText"
+        "/scriptConfig/dialog/attack/glitch/4"
       ],
       "npcs/dungeon/glitchcastle/friendlycastlelord.npctype": [
-        "/scriptConfig/dialog/attack/glitch/0/glitchEmotedText"
+        "/scriptConfig/dialog/attack/glitch/4"
       ]
     },
     "Texts": {
-      "Eng": "Guards! To me!",
-      "Por": "Guardas! A mim!"
+      "Eng": "Defiant. Guards, hack this scoundrel apart!",
+      "Por": "Desafiador. Guardas, corte esse canalha em pedaços!"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Assustado. Guardas! Guardas, ajuda!"
+    ],
     "Files": {
       "npcs/dungeon/glitchcastle/castlelord.npctype": [
-        "/scriptConfig/dialog/attack/glitch/4/glitchEmotedText"
+        "/scriptConfig/dialog/attack/glitch/3"
       ],
       "npcs/dungeon/glitchcastle/friendlycastlelord.npctype": [
-        "/scriptConfig/dialog/attack/glitch/4/glitchEmotedText"
+        "/scriptConfig/dialog/attack/glitch/3"
       ]
     },
     "Texts": {
-      "Eng": "Guards, hack this scoundrel apart!",
-      "Por": "Guardas, acabem com este patife!"
+      "Eng": "Frightened. Guards! Guards, help!",
+      "Por": "Assustado. Guardas! Guardas, socorro!"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Raiva. Você vai se arrepender do dia que invadiu este lugar, ladrão!"
+    ],
     "Files": {
       "npcs/dungeon/glitchcastle/castlelord.npctype": [
-        "/scriptConfig/dialog/attack/glitch/5/glitchEmotedText"
+        "/scriptConfig/dialog/attack/glitch/6"
       ],
       "npcs/dungeon/glitchcastle/friendlycastlelord.npctype": [
-        "/scriptConfig/dialog/attack/glitch/5/glitchEmotedText"
+        "/scriptConfig/dialog/attack/glitch/6"
       ]
     },
     "Texts": {
-      "Eng": "I'd take you down myself, but I have guards for that.",
-      "Por": "Eu mesmo te derrubaria, mas tenho guardas para isso."
+      "Eng": "Incensed. You will rue the day you invaded this place, rogue!",
+      "Por": "Furioso. Você vai lamentar o dia em que você invadiu este lugar, trapaceiro!"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Paralisado. Eu sou muito novo para morrer!"
+    ],
     "Files": {
       "npcs/dungeon/glitchcastle/castlelord.npctype": [
-        "/scriptConfig/dialog/attack/glitch/2/glitchEmotedText"
+        "/scriptConfig/dialog/attack/glitch/2"
       ],
       "npcs/dungeon/glitchcastle/friendlycastlelord.npctype": [
-        "/scriptConfig/dialog/attack/glitch/2/glitchEmotedText"
+        "/scriptConfig/dialog/attack/glitch/2"
       ]
     },
     "Texts": {
-      "Eng": "I'm too young to die!",
-      "Por": "Sou muito jovem para morrer!"
+      "Eng": "Petrified. I'm too young to die!",
+      "Por": "Petrificado. Eu sou muito jovem para morrer!"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Desdenhoso. Eu o derrotaria eu mesmo, mas tenho guardas que fazem isso por mim."
+    ],
     "Files": {
       "npcs/dungeon/glitchcastle/castlelord.npctype": [
-        "/scriptConfig/dialog/attack/default/default/0"
+        "/scriptConfig/dialog/attack/glitch/5"
       ],
       "npcs/dungeon/glitchcastle/friendlycastlelord.npctype": [
-        "/scriptConfig/dialog/attack/default/default/0"
+        "/scriptConfig/dialog/attack/glitch/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scornful. I'd take you down myself, but I have guards for that.",
+      "Por": "Desdenhosa. Eu acabaria com você, mas eu tenho guardas para isso."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Com Medo. Guardas! Venham!"
+    ],
+    "Files": {
+      "npcs/dungeon/glitchcastle/castlelord.npctype": [
+        "/scriptConfig/dialog/attack/default/default/0",
+        "/scriptConfig/dialog/attack/glitch/0"
+      ],
+      "npcs/dungeon/glitchcastle/friendlycastlelord.npctype": [
+        "/scriptConfig/dialog/attack/default/default/0",
+        "/scriptConfig/dialog/attack/glitch/0"
       ]
     },
     "Texts": {
       "Eng": "Terrified. Guards! To me!",
       "Por": "Aterrorizado. Guardas! Venham!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "npcs/dungeon/glitchcastle/castlelord.npctype": [
-        "/scriptConfig/dialog/attack/glitch/7/glitchEmotedText"
-      ],
-      "npcs/dungeon/glitchcastle/friendlycastlelord.npctype": [
-        "/scriptConfig/dialog/attack/glitch/7/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "You will leave this place... in pieces!",
-      "Por": "Você vai sair deste lugar... em pedaços!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "npcs/dungeon/glitchcastle/castlelord.npctype": [
-        "/scriptConfig/dialog/attack/glitch/6/glitchEmotedText"
-      ],
-      "npcs/dungeon/glitchcastle/friendlycastlelord.npctype": [
-        "/scriptConfig/dialog/attack/glitch/6/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "You will rue the day you invaded this place, rogue!",
-      "Por": "Você vai se arrepender do dia em que invadiu este lugar, patife!"
     }
   }
 ]

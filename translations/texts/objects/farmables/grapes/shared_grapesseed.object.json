@@ -18,6 +18,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/grapes/grapesseed.object": [
+        "/glitchDescription"
+      ],
+      "objects/farmables/grapes/wildgrapesseed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cheeky. Grapes make for good projectiles as well as good snacks.",
+      "Por": "Atrevido. Uvas fazem bons projéteis, bem como bons petiscos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/grapes/grapesseed.object": [
         "/shortdescription"
       ],
       "objects/farmables/grapes/wildgrapesseed.object": [
@@ -57,20 +72,6 @@
     "Texts": {
       "Eng": "Grapes are good for snackin'.",
       "Por": "Uvas são boas para petiscar."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/farmables/grapes/grapesseed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/farmables/grapes/wildgrapesseed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Grapes make for good projectiles as well as good snacks."
     }
   },
   {

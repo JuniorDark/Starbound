@@ -48,6 +48,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/avesmingo/avesmingoseed.object": [
+        "/glitchDescription"
+      ],
+      "objects/farmables/avesmingo/wildavesmingoseed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Confused. This tastes like... broccoli.",
+      "Por": "Confuso. Isso tem gosto de... brócolis."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/avesmingo/avesmingoseed.object": [
         "/humanDescription"
       ],
       "objects/farmables/avesmingo/wildavesmingoseed.object": [
@@ -87,20 +102,6 @@
     "Texts": {
       "Eng": "This fruit has far too many flavours. Can't appreciate any of 'em.",
       "Por": "Esta fruta tem muito muitos sabores. Não gosto de nenhum deles."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/farmables/avesmingo/avesmingoseed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/farmables/avesmingo/wildavesmingoseed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This tastes like... broccoli."
     }
   },
   {

@@ -21,7 +21,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Um marcador útil para dizer às pessoas que isto é meu."
+    ],
     "Files": {
       "objects/generic/markergroundplaque/markergroundplaque.object": [
         "/avianDescription"
@@ -39,26 +41,6 @@
     "Texts": {
       "Eng": "A handy marker to tell people this is mine.",
       "Por": "Um marcador útil para dizer às pessoas que isso é meu."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/markergroundplaque/markergroundplaque.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/generic/markerwallplaque1/markerwallplaque1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/generic/markerwallplaque2/markerwallplaque2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/generic/markerwallplaque3/markerwallplaque3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A handy plaque to signify ownership."
     }
   },
   {
@@ -83,7 +65,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Um marcador útil para dizer às pessoas que isto é meu."
+    ],
     "Files": {
       "objects/generic/markergroundplaque/markergroundplaque.object": [
         "/hylotlDescription"
@@ -122,6 +106,27 @@
     "Texts": {
       "Eng": "I can use this marker to finally identify something as my own.",
       "Por": "Eu posso usar esse marcador para finalmente identificar algo como meu."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/markergroundplaque/markergroundplaque.object": [
+        "/glitchDescription"
+      ],
+      "objects/generic/markerwallplaque1/markerwallplaque1.object": [
+        "/glitchDescription"
+      ],
+      "objects/generic/markerwallplaque2/markerwallplaque2.object": [
+        "/glitchDescription"
+      ],
+      "objects/generic/markerwallplaque3/markerwallplaque3.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Proud. A handy plaque to signify ownership.",
+      "Por": "Orgulhoso. Uma placa útil para indicar propriedade."
     }
   },
   {

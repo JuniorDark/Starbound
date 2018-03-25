@@ -99,11 +99,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/spring/movingsunflower/movingsunflower.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "This flower is looking for something, or someone."
+      "Eng": "Worried. This flower is looking for something, or someone.",
+      "Por": "Preocupado. Esta flor está procurando algo, ou alguém."
     }
   }
 ]

@@ -2,6 +2,21 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "objects/human/prisontable/prisontable.object": [
+        "/apexDescription"
+      ],
+      "objects/outpost/outposttable/outposttable.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A table.",
+      "Por": "Uma mesa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "objects/generic/woodtable/woodtable.object": [
         "/novakidDescription"
       ],

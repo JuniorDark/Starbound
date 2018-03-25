@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Melhor tomar cuidado com as pedras caindo à frente."
+    ],
     "Files": {
       "objects/mission/fallingrocks/fallingrocks.object": [
         "/novakidDescription"
@@ -15,7 +17,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Pedras caindo. Por que uma caverna não pode ser segura pelo menos uma vez?"
+    ],
     "Files": {
       "objects/mission/fallingrocks/fallingrocks.object": [
         "/humanDescription"
@@ -42,20 +46,6 @@
     "Texts": {
       "Eng": "Perhaps the artist was trying to warn others.",
       "Por": "Talvez o artista estivesse tentando alertar os outros."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/mission/fallingrocks/fallingrocks.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/mission/fallingrocksmodern/fallingrocksmodern.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Perhaps this represents that the area is unsafe?"
     }
   }
 ]

@@ -3,30 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/borrow.questtemplate": [
-        "/scriptConfig/generatedText/text/default/glitch/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A while back I saw ^orange;<target>^white; showing off <target.pronoun.possessiveDet> new ^orange;<item>. ^white;Pretty lucky for us, because we need one for our next task. Go and ^green;ask <target.pronoun.object> if we can borrow it. ",
-      "Por": "Um tempo atrás eu vi ^orange;<target>^white; exibindo <target.pronoun.possessiveDet> novo ^orange;<item>. ^white;Sorte a nossa, porque precisamos de um para a nossa próxima tarefa. Vá e ^green;pergunte a <target.pronoun.object> se podemos pegar emprestado."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/borrow.questtemplate": [
-        "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Ah good, you got the <item>! You'll have to remember to return it at some point, but don't worry about that for now.",
-      "Por": "Ah bom, você pegou o <item>! Você terá que lembrar de devolvê-lo em algum momento, mas não se preocupe com isso por enquanto."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/borrow.questtemplate": [
         "/scriptConfig/generatedText/text/first/floran/0"
       ]
     },
@@ -39,12 +15,36 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/borrow.questtemplate": [
-        "/scriptConfig/generatedText/text/first/glitch/0/glitchEmotedText"
+        "/scriptConfig/generatedText/completionText/first/glitch/0"
       ]
     },
     "Texts": {
-      "Eng": "First things first, you'll need to ^green;speak to ^orange;<target> ^white;and ^green;borrow <target.pronoun.possessiveDet> ^orange;<item>. ^white;Just tell <target.pronoun.object> I sent you, and <target.pronoun.subject>'ll be happy to lend it to you.",
-      "Por": "Primeiramente, você precisará ^green;falar com ^orange;<target> ^white;e ^green;pedir emprestado <target.pronoun.possessiveDet> ^orange;<item>. ^white;Apenas diga a <target.pronoun.object> que eu te enviei e <target.pronoun.subject> ficarei feliz em emprestá-lo a você."
+      "Eng": "Delighted. Great! that's just what we need. I knew <target> would come through for us! Just don't do something silly like forget to hand it back to <target.pronoun.object> when we're done here. That'd be pretty embarrassing!",
+      "Por": "Satisfeito. Ótimo! isso é exatamente o que precisamos. Eu sabia que <target> nos ajudaria! Só não faça alguma coisa boba como se esquecer de entregá-lo de volta para <target.pronoun.object> quando acabarmos aqui. Isso seria muito embaraçoso!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/borrow.questtemplate": [
+        "/scriptConfig/generatedText/text/first/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eager. First things first, you'll need to ^green;speak to ^orange;<target> ^white;and ^green;borrow <target.pronoun.possessiveDet> ^orange;<item>. ^white;Just tell <target.pronoun.object> I sent you, and <target.pronoun.subject>'ll be happy to lend it to you.",
+      "Por": "Ansioso. Primeiro de tudo, você vai precisar ^green;falar com ^orange;<target> ^white;e ^green;pedir emprestado <target.pronoun.possessiveDet> ^orange;<item>. ^white;Apenas diga a <target.pronoun.object> que eu te enviei, e <target.pronoun.subject> ficará feliz em emprestá-lo para você."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/borrow.questtemplate": [
+        "/scriptConfig/generatedText/text/first/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enthusiastic. Our first priority should be obtaining a good quality ^orange;<item>. I think it's quicker to just^green; ask ^orange;<target>^green; if we can borrow <target.pronoun.possessive>. ",
+      "Por": "Entusiasmado. A nossa prioridade deve ser obter um ^orange;<item> de alta qualidade. Acho que é mais rápido apenas ^green;pedir à ^orange;<target>^green; se podemos pegar emprestado <target.pronoun.possessive>."
     }
   },
   {
@@ -69,18 +69,6 @@
     "Texts": {
       "Eng": "Great! <target> sure is a generous neighbour. ",
       "Por": "Ótimo! <target> com certeza é um vizinho generoso."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/borrow.questtemplate": [
-        "/scriptConfig/generatedText/completionText/first/glitch/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Great! that's just what we need. I knew <target> would come through for us! Just don't do something silly like forget to hand it back to <target.pronoun.object> when we're done here. That'd be pretty embarrassing!",
-      "Por": "Ótimo! isso é exatamente o que precisamos. Eu sabia que <target> nos ajudaria! Apenas não faça algo bobo como esquecer de devolvê-lo a <target.pronoun.object> quando terminarmos aqui. Isso seria muito embaraçoso!"
     }
   },
   {
@@ -115,8 +103,7 @@
       ]
     },
     "Texts": {
-      "Eng": "John Smith",
-      "Por": "John Smith"
+      "Eng": "John Smith"
     }
   },
   {
@@ -147,12 +134,60 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/borrow.questtemplate": [
-        "/scriptConfig/generatedText/text/first/glitch/1/glitchEmotedText"
+        "/scriptConfig/generatedText/text/default/glitch/1"
       ]
     },
     "Texts": {
-      "Eng": "Our first priority should be obtaining a good quality ^orange;<item>. I think it's quicker to just^green; ask ^orange;<target>^green; if we can borrow <target.pronoun.possessive>. ",
-      "Por": "Nossa primeira prioridade deve ser obter um ^orange;<item>^white; de boa qualidade.  Eu acho que é mais rápido apenas^green; perguntar   a ^orange;<target>^green; se podemos pegar o <target.pronoun.possessive> emprestado. "
+      "Eng": "Observant. A while back I saw ^orange;<target>^white; showing off <target.pronoun.possessiveDet> new ^orange;<item>. ^white;Pretty lucky for us, because we need one for our next task. Go and ^green;ask <target.pronoun.object> if we can borrow it. ",
+      "Por": "Atento. Um tempo atrás eu vi ^orange;<target>^white; mostrando o <target.pronoun.possessiveDet> novo ^orange;<item>. ^white;Muita sorte pra gente, porque precisamos de um desses para a nossa próxima tarefa. Vá e ^green;peça a <target.pronoun.object> se podemos pegar emprestado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/borrow.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased. This <item> will work perfectly! <target> saved us tracking one down ourselves. Make sure you don't damage it, <target.pronoun.subject> wouldn't be happy if you returned it in poor condition.",
+      "Por": "Satisfeito. Este <item> irá funcionar perfeitamente! <target> nos salvou. Certifique-se de que você não vá quebra-lo, <target.pronoun.subject> não ficaria feliz se você o devolvesse em mau estado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/borrow.questtemplate": [
+        "/scriptConfig/generatedText/completionText/first/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Relieved. You got it! this <item> will do nicely. It was nice of <target> to let us borrow it. Try and remember to return it when we're finished.",
+      "Por": "Aliviado. Você conseguiu! este <item> ira servir muito bem. Foi bom que <target> deixou nos pega-lo emprestado. Tente se lembrar de devolvê-lo quando tivermos terminado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/borrow.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Satisfied. Ah good, you got the <item>! You'll have to remember to return it at some point, but don't worry about that for now.",
+      "Por": "Satisfeito. Ah bom, você tem o <item>! Você vai ter que se lembrar de devolvê-lo em algum momento, mas não se preocupe com isso por enquanto."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/borrow.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Spontaneous. We'll need to ^green;borrow^orange; <target>'s <item> ^white;next. <target.pronoun.capitalSubject>'ll not have a problem handing it over if you ^green;tell <target.pronoun.object> I sent you.",
+      "Por": "Espontâneo. Precisaremos ^green;pedir emprestado em seguida o <item> de ^orange;<target>^white;. <target.pronoun.capitalSubject> não terá problema de entregá-lo se você ^green;dizer a <target.pronoun.object> que eu te mandei."
     }
   },
   {
@@ -177,18 +212,6 @@
     "Texts": {
       "Eng": "That's a decent <item>. Let's hope <target> won't miss it.",
       "Por": "Isto é um <item> decente. Vamos esperar que <target> não sinta falta."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/borrow.questtemplate": [
-        "/scriptConfig/generatedText/completionText/default/glitch/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This <item> will work perfectly! <target> saved us tracking one down ourselves. Make sure you don't damage it, <target.pronoun.subject> wouldn't be happy if you returned it in poor condition.",
-      "Por": "Este <item> vai funcionar perfeitamente <target> nos salvou tempo. Certifique-se de não danificá-lo, <target.pronoun.subject> não ficaria feliz se você devolvesse em mau estado."
     }
   },
   {
@@ -243,18 +266,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/borrow.questtemplate": [
-        "/scriptConfig/generatedText/text/default/glitch/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "We'll need to ^green;borrow^orange; <target>'s <item> ^white;next. <target.pronoun.capitalSubject>'ll not have a problem handing it over if you ^green;tell <target.pronoun.object> I sent you.",
-      "Por": "Precisaremos ^green;pedir emprestado o ^orange;<item> de <target>^white; em seguida\n. <target.pronoun.capitalSubject> não terá problema em entregá-lo se você ^green;dizer <target.pronoun.object> eu te enviei."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/borrow.questtemplate": [
         "/scriptConfig/generatedText/completionText/default/default/1"
       ]
     },
@@ -273,18 +284,6 @@
     "Texts": {
       "Eng": "You got it! Floran thinksss we'll need <item> a little longer than <target> may like. But let'ss worry about that later.",
       "Por": "Você conseguiu! Floran acha que vai precissar de <item> um pouco maisss do que <target> possa gostar. Mas vamos se preocupar com isso depois."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/borrow.questtemplate": [
-        "/scriptConfig/generatedText/completionText/first/glitch/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "You got it! this <item> will do nicely. It was nice of <target> to let us borrow it. Try and remember to return it when we're finished.",
-      "Por": "Você conseguiu! este <item> vai servir muito bem. Foi legal da parte de <target> nos emprestar. Tente lembrar-se de devolvê-lo quando terminarmos."
     }
   },
   {

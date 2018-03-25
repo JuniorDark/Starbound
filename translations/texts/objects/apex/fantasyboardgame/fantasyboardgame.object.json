@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/fantasyboardgame/fantasyboardgame.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Confused. This complicated board game appears to use 40-sided dice.",
+      "Por": "Confuso. Este jogo de tabuleiro complicado parece usar dados de 40 lados."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/fantasyboardgame/fantasyboardgame.object": [
         "/apexDescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "Let the merriment commence!",
       "Por": "Deixe a diversão começar!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/apex/fantasyboardgame/fantasyboardgame.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This complicated board game appears to use 40-sided dice."
     }
   }
 ]

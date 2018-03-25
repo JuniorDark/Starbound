@@ -3,6 +3,36 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/ship/aviantechstationTier0/aviantechstationTier0.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/florantechstationTier0/florantechstationTier0.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/glitchtechstationTier0/glitchtechstationTier0.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/humantechstationTier0/humantechstationTier0.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/hylotltechstationTier0/hylotltechstationTier0.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/novakidtechstationTier0/novakidtechstationTier0.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/techstationTier0/techstationTier0.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Distressed. I first need to reboot this station to communicate with SAIL.",
+      "Por": "Angustiado. Eu preciso primeiro reiniciar esta estação para se comunicar com SAIL."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aviantechstationTier0/aviantechstationTier0.object": [
         "/floranDescription"
       ],
       "objects/ship/florantechstationTier0/florantechstationTier0.object": [
@@ -27,36 +57,6 @@
     "Texts": {
       "Eng": "Floran fix thisss panel to wake ship up!",
       "Por": "Floran conserta esse painel para acordar a nave!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/ship/aviantechstationTier0/aviantechstationTier0.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/florantechstationTier0/florantechstationTier0.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/glitchtechstationTier0/glitchtechstationTier0.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/humantechstationTier0/humantechstationTier0.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/hylotltechstationTier0/hylotltechstationTier0.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/novakidtechstationTier0/novakidtechstationTier0.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/techstationTier0/techstationTier0.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I first need to reboot this station to communicate with SAIL.",
-      "Por": "Primeiro preciso reiniciar esta estação para me comunicar com o SAIL."
     }
   },
   {

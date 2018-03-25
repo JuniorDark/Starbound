@@ -3,21 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/escaperadar/escaperadar.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/outpost/outpostradardish/outpostradardish.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A radar dish.",
-      "Por": "Uma antena de radar."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/mission/escaperadar/escaperadar.object": [
         "/description"
       ],
       "objects/outpost/outpostradardish/outpostradardish.object": [
@@ -30,7 +15,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Belo prato."
+    ],
     "Files": {
       "objects/mission/escaperadar/escaperadar.object": [
         "/avianDescription"
@@ -41,7 +28,7 @@
     },
     "Texts": {
       "Eng": "Nice dish.",
-      "Por": "Belo prato."
+      "Por": "Bela antena."
     }
   }
 ]

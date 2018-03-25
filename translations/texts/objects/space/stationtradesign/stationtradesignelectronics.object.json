@@ -31,8 +31,19 @@
       ]
     },
     "Texts": {
-      "Eng": "Electronics Station Sign",
-      "Por": "Electronics Station Sign"
+      "Eng": "Electronics Station Sign"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/stationtradesign/stationtradesignelectronics.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Informed. The image of this component is meant to indicate an electronics station.",
+      "Por": "Informado. A imagem deste componente pretende indicar uma estação de eletrônicos."
     }
   },
   {
@@ -57,18 +68,6 @@
     "Texts": {
       "Eng": "Signs like this usually mean there is a nearby electronics station.",
       "Por": "Placas como esta geralmente significam que há uma estação de eletrônicos próxima."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/space/stationtradesign/stationtradesignelectronics.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The image of this component is meant to indicate an electronics station.",
-      "Por": "A imagem deste componente serve para indicar uma estação de eletrônicos."
     }
   },
   {

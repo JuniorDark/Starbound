@@ -1,21 +1,25 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Desinteressado. Uma luz grande e feia."
+    ],
     "Files": {
       "objects/ancient/ancientlight/ancientlight.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/ancient/ancientlightround/ancientlightround.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "A large and unsightly light.",
-      "Por": "Uma luz grande e feia."
+      "Eng": "Disinterested. A large and unsightly light.",
+      "Por": "Desinteressado. Uma luz grande e desagradável."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Eu esperava que uma luz de parede deste tamanho iluminasse mais."
+    ],
     "Files": {
       "objects/ancient/ancientlight/ancientlight.object": [
         "/avianDescription"
@@ -26,11 +30,13 @@
     },
     "Texts": {
       "Eng": "I'd expect a wall lamp this large to give off more light.",
-      "Por": "Eu esperava que uma luz de parede deste tamanho iluminasse mais."
+      "Por": "Eu esperaria uma lâmpada de parede tão grande para dar mais luz."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Grande luz feia e velha."
+    ],
     "Files": {
       "objects/ancient/ancientlight/ancientlight.object": [
         "/floranDescription"
@@ -45,7 +51,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Não há nada extraordinário sobre esta luz."
+    ],
     "Files": {
       "objects/ancient/ancientlight/ancientlight.object": [
         "/hylotlDescription"
@@ -75,7 +83,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Esta luz provavelmente esta ligada por milênios."
+    ],
     "Files": {
       "objects/ancient/ancientlight/ancientlight.object": [
         "/humanDescription"
@@ -90,7 +100,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "O que tem vindo a fornecer a energia desta luz por tantos anos?",
+      "O que vem fornecendo a força dessa luz há tantos anos?"
+    ],
     "Files": {
       "objects/ancient/ancientlight/ancientlight.object": [
         "/apexDescription"
@@ -101,7 +114,7 @@
     },
     "Texts": {
       "Eng": "What has been supplying this light's power for so many years?",
-      "Por": "O que vem fornecendo a força dessa luz há tantos anos?"
+      "Por": "O que vem fornecendo a energia dessa luz há tantos anos?"
     }
   }
 ]

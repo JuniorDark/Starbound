@@ -15,17 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/greenflask/greenflask.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "An unknown mixture."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/apex/greenflask/greenflask.object": [
         "/shortdescription"
       ]
     },
@@ -104,6 +93,18 @@
     "Texts": {
       "Eng": "Ssstinking green goo.",
       "Por": "Gossma verde fedorenta."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/greenflask/greenflask.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Suspicious. An unknown mixture.",
+      "Por": "Suspeito. Uma mistura desconhecida."
     }
   }
 ]

@@ -15,17 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/outpostbed/outpostbed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A comfortable place for a nap."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/outpost/outpostbed/outpostbed.object": [
         "/hylotlDescription"
       ]
     },
@@ -92,6 +81,18 @@
     "Texts": {
       "Eng": "Good a place as any to take a nap.",
       "Por": "Bom um lugar como qualquer outro para tirar um cochilo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostbed/outpostbed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased. A comfortable place for a nap.",
+      "Por": "Satisfeito. Um lugar confortável para um cochilo."
     }
   },
   {

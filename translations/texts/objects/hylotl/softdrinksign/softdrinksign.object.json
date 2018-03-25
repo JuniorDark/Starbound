@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/softdrinksign/softdrinksign.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Indifferent. The sign is advertising a brand of all-natural soft drinks.",
+      "Por": "Indiferente.A placa está anunciando uma marca de refrigerantes naturais."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/softdrinksign/softdrinksign.object": [
         "/novakidDescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "Ssign for drinkss.",
       "Por": "Placa para bebidass."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/hylotl/softdrinksign/softdrinksign.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The sign is advertising a brand of all-natural soft drinks."
     }
   },
   {

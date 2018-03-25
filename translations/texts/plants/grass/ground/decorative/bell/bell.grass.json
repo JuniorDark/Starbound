@@ -4,7 +4,6 @@
     "Files": {
       "plants/grass/ground/decorative/bell/bell.grass": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ]
     },
@@ -23,6 +22,18 @@
     "Texts": {
       "Eng": "Red flower.",
       "Por": "Flor Vermelha."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/bell/bell.grass": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. A bellflower.",
+      "Por": "Declaração. Uma campânula."
     }
   }
 ]

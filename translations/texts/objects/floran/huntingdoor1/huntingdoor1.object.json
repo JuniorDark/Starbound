@@ -27,23 +27,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/huntingdoor1/huntingdoor1.object": [
-        "/humanDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "This door has small gaps in it where the stalks of bamboo join together.",
-      "Por": "Esta porta tem pequenas lacunas, onde os talos de bambu se juntam."
+      "Eng": "Surprised. This door is built from organic material, but stands as strong as iron.",
+      "Por": "Surpreso. Esta porta é construída a partir de material orgânico, mas é tão forte quanto o ferro."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/huntingdoor1/huntingdoor1.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/humanDescription"
       ]
     },
     "Texts": {
-      "Eng": "This door is built from organic material, but stands as strong as iron."
+      "Eng": "This door has small gaps in it where the stalks of bamboo join together.",
+      "Por": "Esta porta tem pequenas lacunas, onde os talos de bambu se juntam."
     }
   },
   {

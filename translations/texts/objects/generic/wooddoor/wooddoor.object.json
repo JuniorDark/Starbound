@@ -51,23 +51,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/wooddoor/wooddoor.object": [
-        "/shortdescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Paneled Door",
-      "Por": "Paneled Door"
+      "Eng": "Observant. This door appears to have been manufactured on a production line.",
+      "Por": "Atento. Esta porta parece ter sido fabricada em uma linha de produção."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/wooddoor/wooddoor.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "This door appears to have been manufactured on a production line."
+      "Eng": "Paneled Door",
+      "Por": "Paneled Door"
     }
   },
   {

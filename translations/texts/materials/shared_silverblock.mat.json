@@ -18,6 +18,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/silverblock.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/silverblock.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amazed. This block is entirely solid silver.",
+      "Por": "Surpreso. Este bloco é prata inteiramente sólida."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/silverblock.matitem": [
         "/novakiddescription"
       ],
       "tiles/materials/silverblock.material": [
@@ -57,21 +72,6 @@
     "Texts": {
       "Eng": "Ssilver, sso shiny.",
       "Por": "Prata, tão brilhante."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/silverblock.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/silverblock.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This block is entirely solid silver.",
-      "Por": "Este bloco é inteiramente de prata sólida."
     }
   }
 ]

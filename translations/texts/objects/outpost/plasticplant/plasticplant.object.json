@@ -51,17 +51,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/plasticplant/plasticplant.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Is a fake plant better or worse than a real one?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/outpost/plasticplant/plasticplant.object": [
         "/shortdescription"
       ]
     },
@@ -80,6 +69,18 @@
     "Texts": {
       "Eng": "This plant isn't real!",
       "Por": "Esta planta não é real!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/plasticplant/plasticplant.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unsure. Is a fake plant better or worse than a real one?",
+      "Por": "Incerto. É uma planta falsa melhor ou pior do que uma real?"
     }
   }
 ]

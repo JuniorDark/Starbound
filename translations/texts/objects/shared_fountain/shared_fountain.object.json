@@ -18,6 +18,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/spring/petalfountain/petalfountain.object": [
+        "/glitchDescription"
+      ],
+      "objects/themed/outdoor/outdoorfountain/outdoorfountain.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Relaxed. The water calms me.",
+      "Por": "Relaxado. A água me acalma."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/spring/petalfountain/petalfountain.object": [
         "/hylotlDescription"
       ],
       "objects/themed/outdoor/outdoorfountain/outdoorfountain.object": [
@@ -30,22 +45,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/spring/petalfountain/petalfountain.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/themed/outdoor/outdoorfountain/outdoorfountain.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The water calms me.",
-      "Por": "A água me acalma."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "A água traz vida à Floran."
+    ],
     "Files": {
       "objects/biome/spring/petalfountain/petalfountain.object": [
         "/floranDescription"
