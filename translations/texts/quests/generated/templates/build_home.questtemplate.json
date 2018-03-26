@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "<count> <itemName>"
+      "Eng": "<count> <itemName>",
+      "Por": "<count> <itemName>"
     }
   },
   {
@@ -282,7 +283,8 @@
       ]
     },
     "Texts": {
-      "Eng": "any door"
+      "Eng": "any door",
+      "Por": "qualquer porta"
     }
   },
   {
@@ -293,7 +295,8 @@
       ]
     },
     "Texts": {
-      "Eng": "any light source"
+      "Eng": "any light source",
+      "Por": "qualquer fonte de luz"
     }
   }
 ]
