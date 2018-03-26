@@ -927,9 +927,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Isso e uma piada?"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "hunger.config": [
         "/1/up/0"
@@ -940,7 +938,7 @@
     },
     "Texts": {
       "Eng": "Is this a joke?",
-      "Por": "Isso é uma piada?"
+      "Por": "Isso e uma piada?"
     }
   },
   {
@@ -980,7 +978,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Koichi"
+      "Eng": "Koichi",
+      "Por": "Koichi"
     }
   },
   {
@@ -999,9 +998,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Manipulador de Matéria"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "interface/windowconfig/keybindingsmenu.config": [
         "/keyActions/toolbar/8/label"
@@ -1018,7 +1015,7 @@
     },
     "Texts": {
       "Eng": "Matter Manipulator",
-      "Por": "Matter Manipulator"
+      "Por": "Manipulador de Matéria"
     }
   },
   {
@@ -1046,7 +1043,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Nuru"
+      "Eng": "Nuru",
+      "Por": "Nuru"
     }
   },
   {
@@ -1195,9 +1193,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Sombra"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "biomes/underground_detached/old/shadowrealm/shadow.biome": [
         "/friendlyName"
@@ -1472,7 +1468,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Tonauac"
+      "Eng": "Tonauac",
+      "Por": ""
     }
   },
   {
