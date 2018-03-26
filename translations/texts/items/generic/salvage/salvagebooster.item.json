@@ -7,11 +7,14 @@
       ]
     },
     "Texts": {
-      "Eng": "Salvaged Thruster Nozzle"
+      "Eng": "Salvaged Thruster Nozzle",
+      "Por": "Salvaged Thruster Nozzle"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Este componente poderia ser útil para a fabricação de impulsionadores de mecha."
+    ],
     "Files": {
       "items/generic/salvage/salvagebooster.item": [
         "/description"
@@ -19,7 +22,7 @@
     },
     "Texts": {
       "Eng": "This component could be useful for crafting mech boosters.",
-      "Por": "Este componente poderia ser útil para a fabricação de impulsionadores de mecha."
+      "Por": "Este componente poderia ser útil para a fabricação de propulsores de mecha."
     }
   }
 ]
