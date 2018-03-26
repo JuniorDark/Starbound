@@ -88,18 +88,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/placestation/placestation.config": [
-        "/deployingText/error"
-      ]
-    },
-    "Texts": {
-      "Eng": "Error deploying probe. \nConnection lost...",
-      "Por": "Erro ao implantar a sonda. \nConexão perdida..."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/placestation/placestation.config": [
         "/gui/configure/children/saveButton/caption"
       ]
     },
@@ -198,60 +186,34 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/placestation/placestation.config": [
-        "/deployingText/traveling"
-      ]
-    },
-    "Texts": {
-      "Eng": "^green;Probe dispatched.\nProbe approaching target orbit",
-      "Por": "^green;Sonda despachada.\nSonda se aproximando da órbita alvo"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/placestation/placestation.config": [
-        "/deployingText/deploying"
-      ]
-    },
-    "Texts": {
-      "Eng": "^green;Probe has reached target orbit.\nDeploying station",
-      "Por": "^green;A sonda atingiu a órbita alvo.\nImplantando estação"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/placestation/placestation.config": [
-        "/deployingText/dispatching"
-      ]
-    },
-    "Texts": {
-      "Eng": "^green;Requesting probe dispatch",
-      "Por": "^green;Solicitando despacho de sonda"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/placestation/placestation.config": [
-        "/deployingText/deployed"
-      ]
-    },
-    "Texts": {
-      "Eng": "^green;Station deployed",
-      "Por": "^green;Estação implantada"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/placestation/placestation.config": [
         "/connect/failText"
       ]
     },
     "Texts": {
       "Eng": "^red;Unable to establish high-bandwidth connection to S.A.I.L\nTry again from your ship",
       "Por": "^red;Não é possível estabelecer uma conexão de alta largura de banda com S.A.I.L\nTente novamente de sua nave"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/placestation/placestation.config": [
+        "/descriptionLabel"
+      ]
+    },
+    "Texts": {
+      "Eng": "description > "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/placestation/placestation.config": [
+        "/nameLabel"
+      ]
+    },
+    "Texts": {
+      "Eng": "name > "
     }
   }
 ]

@@ -3,12 +3,34 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/windowconfig/teleportdialog.config": [
+        "/beamPartyMemberLabel"
+      ]
+    },
+    "Texts": {
+      "Eng": "Beam to Party Member"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/teleportdialog.config": [
         "/paneLayout/windowtitle/subtitle"
       ]
     },
     "Texts": {
       "Eng": "Choose a destination",
       "Por": "Escolha um destino"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/teleportdialog.config": [
+        "/deployPartyMemberLabel"
+      ]
+    },
+    "Texts": {
+      "Eng": "Deploy to Party Member"
     }
   },
   {

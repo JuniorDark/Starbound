@@ -325,36 +325,6 @@
     }
   },
   {
-    "DeniedAlternatives": [],
-    "Files": {
-      "biomes/surface/alien.biome": [
-        "/friendlyName"
-      ],
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeNames/alien"
-      ]
-    },
-    "Texts": {
-      "Eng": "Alien",
-      "Por": "Alienígena"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "biomes/surface/arctic.biome": [
-        "/friendlyName"
-      ],
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeNames/arctic"
-      ]
-    },
-    "Texts": {
-      "Eng": "Arctic",
-      "Por": "Ártico"
-    }
-  },
-  {
     "DeniedAlternatives": [
       "Campo de Asteróides "
     ],
@@ -369,21 +339,6 @@
     "Texts": {
       "Eng": "Asteroid Field",
       "Por": "Campo de Asteróides"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "biomes/space/asteroids.biome": [
-        "/friendlyName"
-      ],
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeNames/asteroids"
-      ]
-    },
-    "Texts": {
-      "Eng": "Asteroids",
-      "Por": "Asteróides"
     }
   },
   {
@@ -494,21 +449,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "biomes/surface/barren.biome": [
-        "/friendlyName"
-      ],
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeNames/barren"
-      ]
-    },
-    "Texts": {
-      "Eng": "Barren",
-      "Por": "Estéril"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
       "interface/confirmation/teleportconfirmation.config": [
         "/penguinmission1/labels/name"
       ],
@@ -570,21 +510,6 @@
     "Texts": {
       "Eng": "Crystal Erchius Fuel",
       "Por": "Crystal Erchius Fuel"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "biomes/surface/desert.biome": [
-        "/friendlyName"
-      ],
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeNames/desert"
-      ]
-    },
-    "Texts": {
-      "Eng": "Desert",
-      "Por": "Deserto"
     }
   },
   {
@@ -668,21 +593,6 @@
     "Texts": {
       "Eng": "Dreadwing",
       "Por": "Dreadwing"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "biomes/surface/forest.biome": [
-        "/friendlyName"
-      ],
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeNames/forest"
-      ]
-    },
-    "Texts": {
-      "Eng": "Forest",
-      "Por": "Floresta"
     }
   },
   {
@@ -947,21 +857,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "biomes/surface/jungle.biome": [
-        "/friendlyName"
-      ],
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeNames/jungle"
-      ]
-    },
-    "Texts": {
-      "Eng": "Jungle",
-      "Por": "Selva"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
       "npcs/outpost/koichioutpost.npctype": [
         "/npcname"
       ],
@@ -983,21 +878,6 @@
     "Texts": {
       "Eng": "Koichi",
       "Por": "Koichi"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeNames/magma"
-      ],
-      "items/liquids/lava.liqitem": [
-        "/shortdescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Lava",
-      "Por": "Lava"
     }
   },
   {
@@ -1145,21 +1025,6 @@
     "Texts": {
       "Eng": "Sapling",
       "Por": "Sapling"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "biomes/surface/savannah.biome": [
-        "/friendlyName"
-      ],
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeNames/savannah"
-      ]
-    },
-    "Texts": {
-      "Eng": "Savannah",
-      "Por": "Savana"
     }
   },
   {
@@ -1507,36 +1372,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "biomes/surface/toxic.biome": [
-        "/friendlyName"
-      ],
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeNames/toxic"
-      ]
-    },
-    "Texts": {
-      "Eng": "Toxic",
-      "Por": "Tóxico"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "biomes/surface/tundra.biome": [
-        "/friendlyName"
-      ],
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeNames/tundra"
-      ]
-    },
-    "Texts": {
-      "Eng": "Tundra",
-      "Por": "Tundra"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
       "collections/fossils.collection": [
         "/collectables/mysteriousSkeleton/title"
       ],
@@ -1550,21 +1385,6 @@
     "Texts": {
       "Eng": "Unidentified Fossil",
       "Por": "Unidentified Fossil"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "biomes/surface/volcanic.biome": [
-        "/friendlyName"
-      ],
-      "interface/cockpit/cockpit.config": [
-        "/planetTypeNames/volcanic"
-      ]
-    },
-    "Texts": {
-      "Eng": "Volcanic",
-      "Por": "Vulcânico"
     }
   },
   {

@@ -27,7 +27,8 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/scripted/techupgrade/techupgradegui.config": [
-        "/gui/lblTechSlotBody/value"
+        "/gui/lblTechSlotBody/value",
+        "/slotLabelText/Body"
       ]
     },
     "Texts": {
@@ -39,7 +40,8 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/scripted/techupgrade/techupgradegui.config": [
-        "/gui/lblTechSlotHead/value"
+        "/gui/lblTechSlotHead/value",
+        "/slotLabelText/Head"
       ]
     },
     "Texts": {
@@ -63,7 +65,8 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/scripted/techupgrade/techupgradegui.config": [
-        "/gui/lblTechSlotLeg/value"
+        "/gui/lblTechSlotLeg/value",
+        "/slotLabelText/Legs"
       ]
     },
     "Texts": {
