@@ -927,7 +927,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Isso e uma piada?",
+      "Isso é uma piada?"
+    ],
     "Files": {
       "hunger.config": [
         "/1/up/0"
@@ -998,7 +1001,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Manipulador de Matéria",
+      "Matter Manipulator"
+    ],
     "Files": {
       "interface/windowconfig/keybindingsmenu.config": [
         "/keyActions/toolbar/8/label"
@@ -1193,7 +1199,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Sombra"
+    ],
     "Files": {
       "biomes/underground_detached/old/shadowrealm/shadow.biome": [
         "/friendlyName"
@@ -1469,7 +1477,7 @@
     },
     "Texts": {
       "Eng": "Tonauac",
-      "Por": ""
+      "Por": "Tonauac"
     }
   },
   {
