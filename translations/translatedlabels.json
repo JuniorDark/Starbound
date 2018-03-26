@@ -11163,34 +11163,34 @@
       },
       "playerstation": {
         "backgrounds": {
-          "stationbackground2bend.object.json": 0,
-          "stationbackgroundbendbot.object.json": 0,
-          "stationbackgroundbendtop.object.json": 0,
-          "stationbackgroundcore.object.json": 0,
-          "stationbackgroundcross.object.json": 0,
-          "stationbackgroundhugecorediagbot.object.json": 0,
-          "stationbackgroundhugecorediagtop.object.json": 0,
-          "stationbackgroundmechbay.object.json": 0,
-          "stationbackgroundpassage.object.json": 0,
-          "stationbackgroundpassageglass.object.json": 0,
-          "stationbackgroundpassageglassleft.object.json": 0,
-          "stationbackgroundpassageglassright.object.json": 0,
-          "stationbackgroundshaft.object.json": 0,
-          "stationbackgroundshaftglass.object.json": 0,
-          "stationbackgroundshaftglassbottom.object.json": 0,
-          "stationbackgroundshaftglasstop.object.json": 0,
-          "stationbackgroundstart.object.json": 0,
-          "stationbackgroundtjunchorizontalbottom.object.json": 0,
-          "stationbackgroundtjunchorizontaltop.object.json": 0,
-          "stationbackgroundtjuncvertical.object.json": 0
+          "stationbackground2bend.object.json": 2,
+          "stationbackgroundbendbot.object.json": 2,
+          "stationbackgroundbendtop.object.json": 2,
+          "stationbackgroundcore.object.json": 2,
+          "stationbackgroundcross.object.json": 2,
+          "stationbackgroundhugecorediagbot.object.json": 2,
+          "stationbackgroundhugecorediagtop.object.json": 2,
+          "stationbackgroundmechbay.object.json": 2,
+          "stationbackgroundpassage.object.json": 2,
+          "stationbackgroundpassageglass.object.json": 2,
+          "stationbackgroundpassageglassleft.object.json": 2,
+          "stationbackgroundpassageglassright.object.json": 2,
+          "stationbackgroundshaft.object.json": 2,
+          "stationbackgroundshaftglass.object.json": 2,
+          "stationbackgroundshaftglassbottom.object.json": 2,
+          "stationbackgroundshaftglasstop.object.json": 2,
+          "stationbackgroundstart.object.json": 2,
+          "stationbackgroundtjunchorizontalbottom.object.json": 2,
+          "stationbackgroundtjunchorizontaltop.object.json": 2,
+          "stationbackgroundtjuncvertical.object.json": 2
         },
         "expansionslot": {
-          "expansionslot.object.json": 0,
-          "expansionslothorizontal.object.json": 0,
+          "expansionslot.object.json": 1,
+          "expansionslothorizontal.object.json": 1,
           "shared_expansionslot.json": 8
         },
         "playerstationconsole": {
-          "playerstationconsole.object.json": 8
+          "playerstationconsole.object.json": 9
         }
       },
       "protectorate": {
