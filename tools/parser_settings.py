@@ -91,6 +91,13 @@ foi = {
   ".tooltip": [],
   ".itemdescription": [],
   ".weaponability": ["^ability/name$"],
+  ".collection": ["^title$"],
+  "player.config": ["^collectableUnlock$"],
+  "cockpit.config": ["^systemTooltipConfig/type/value$", "^systemTooltipConfig/explored/value$"],
+  "placestation.config": ["^nameLabel$", "^descriptionLabel$"],
+  "techupgradegui.config": ["^slotLabelText/Head$", "^slotLabelText/Body$", "^slotLabelText/Legs$"],
+  "teleportdialog.config": ["^beamPartyMemberLabel$", "^deployPartyMemberLabel$"],
+  "chieftain.behavior": ["root/children/4/parameters/content/[a-zA-Z]"],
   "_metadata":[]
 
   }

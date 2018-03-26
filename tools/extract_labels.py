@@ -39,19 +39,7 @@ def defaultHandler(val, filename, path):
       break
   return [(sec, val, filename, path)]
   
-def glitchDescriptionSpecialHandler(val, filename, path):
-  ## Handles glitch utterances, and separates it to emote part and text part,
-  ## then saves the parts in new paths to database
-  ## See details in textHandlers description
-  extracted = glitchEmoteExtractor.match(val)
-  is_glitch = glitchIsHere.match(path)
-  if extracted is None or is_glitch is None:
-    return False
-  emote = extracted.groups()[0]
-  text = extracted.groups()[1]
-  t = defaultHandler(text, filename, normpath(join(path, "glitchEmotedText")))
-  e = defaultHandler(emote, filename, normpath(join(path, "glitchEmote")))
-  return t + e
+
 
 textHandlers = [
   ## A list of text handlers.
@@ -63,7 +51,6 @@ textHandlers = [
   ##    first - the text should be handled
   ##    second - the filename, where text was found
   ##    third - the path to field inside json, where text was found
-  glitchDescriptionSpecialHandler,
   defaultHandler
 ]
 
@@ -75,7 +62,7 @@ specialSharedPaths = {
 
 def parseFile(filename):
   chunk = list()
-  with open_n_decode(filename, "r", "ISO-8859-1") as f:
+  with open_n_decode(filename, "r", "utf-8") as f:
     string = prepare(f)
     jsondata = dict()
     try:

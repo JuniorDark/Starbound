@@ -1,3 +1,3 @@
 cd "new_mod";
-zip ../Starbound_PTBR.zip -r ".";
+zip ../PT-BR.zip -r ".";
 cd "..";
