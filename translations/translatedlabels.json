@@ -15,7 +15,7 @@
     "behaviors": {
       "sequences": {
         "floranmission": {
-          "chieftain.behavior.json": 0
+          "chieftain.behavior.json": 1
         }
       }
     },
@@ -13221,7 +13221,7 @@
       }
     },
     "plants.json": 2,
-    "player.config.json": 3,
+    "player.config.json": 4,
     "quests": {
       "food": {
         "firstcrops.questtemplate.json": 3,

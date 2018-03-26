@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Não pode se conectar a parte existente"
+    ],
     "Files": {
       "interface/expandstation/expandstation.config": [
         "/warningMessages/invalid"
@@ -49,7 +51,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Não há materiais suficientes"
+    ],
     "Files": {
       "interface/expandstation/expandstation.config": [
         "/warningMessages/uncraftable"
@@ -97,7 +101,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Slot de Expansão da Estação"
+    ],
     "Files": {
       "interface/expandstation/expandstation.config": [
         "/gui/windowtitle/title"
@@ -121,7 +127,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "colocar"
+    ],
     "Files": {
       "interface/expandstation/expandstation.config": [
         "/gui/placeButton/caption"

@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "PERMITIR ATIVOS INCOMPATIVEIS"
+    ],
     "Files": {
       "interface/optionsmenu/optionsmenu.config": [
         "/paneLayout/allowAssetsMismatchLabel/value"

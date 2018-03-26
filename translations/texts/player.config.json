@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "player.config": [
+        "/collectableUnlock"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;<collectable>^white; added to ^blue;<collection>^reset; collection",
+      "Por": "^green;^green;<collectable>^white; adicionado a coleção ^blue;<collection>^reset; "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "player.config": [
         "/blueprintUnlock"
       ]
     },
