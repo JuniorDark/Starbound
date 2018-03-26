@@ -188,7 +188,7 @@
     },
     "Texts": {
       "Eng": "Finally, let's make ^orange;<target> ^white;realise that I'm better friend material than ^orange;<other>. ^green;Show <target.pronoun.object> this ^orange;note^green; that I've written^white; about <other> and <target.pronoun.subject>'ll see the light!",
-      "Por": "Finalmente, vamos fazer ^orange;<target> ^white;perceber que eu sou um amigo ideal melhor do que ^orange;<other>. ^green;Mostre a <target.pronoun.object> esta ^orange;nota^green; que eu escrevi^white; sobre <other> e <target.pronoun.subject> \r\nvai perceber!"
+      "Por": "Finalmente, vamos fazer ^orange;<target> ^white;perceber que eu sou um amigo ideal melhor do que ^orange;<other>. ^green;Mostre a <target.pronoun.object> esta ^orange;nota^green; que eu escrevi^white; sobre <other> e <target.pronoun.subject> \nvai perceber!"
     }
   },
   {
@@ -499,7 +499,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Notafriendyet Jones"
+      "Eng": "Notafriendyet Jones",
+      "Por": "Notafriendyet Jones"
     }
   },
   {
@@ -558,7 +559,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Rival Person"
+      "Eng": "Rival Person",
+      "Por": "Pessoa Rival"
     }
   },
   {
