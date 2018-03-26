@@ -51,6 +51,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/playerstation/playerstationconsole/playerstationconsole.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Interested. This terminal is able to interconnect itself through a stations many components."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/playerstation/playerstationconsole/playerstationconsole.object": [
         "/shortdescription"
       ]
     },
@@ -81,18 +92,6 @@
     "Texts": {
       "Eng": "This advanced terminal is designed to keep track of space station conditions.",
       "Por": "Este terminal avançado foi projetado para acompanhar as condições da estação espacial."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/playerstation/playerstationconsole/playerstationconsole.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This terminal is able to interconnect itself through a stations many components.",
-      "Por": "Este terminal é capaz de interligar-se através de uma estação de muitos componentes."
     }
   },
   {

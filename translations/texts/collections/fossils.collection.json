@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fossils.collection": [
+        "/collectables/fern/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fossilised fern leaves are evidence of organic life from millennia ago."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fossils.collection": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fossils"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fossils.collection": [
+        "/collectables/trilobite/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trilobites are one of the more well preserved fossil groups thanks to their exoskeleton."
+    }
+  }
+]

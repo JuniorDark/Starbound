@@ -206,6 +206,52 @@
   "codex/other/colonystory6.codex": {
     "/description": "texts/codex/other/shared_colonystory.json"
   },
+  "collections/fossils.collection": {
+    "/collectables/alpacaSkeleton/description": "texts/shared_fossils.json",
+    "/collectables/alpacaSkeleton/title": "texts/shared_fossils.json",
+    "/collectables/amber/description": "texts/shared_fossils.json",
+    "/collectables/amber/title": "texts/shared_fossils.json",
+    "/collectables/ammonite/description": "texts/shared_fossils.json",
+    "/collectables/ammonite/title": "texts/shared_fossils.json",
+    "/collectables/apexSkeleton/description": "texts/shared_fossils.json",
+    "/collectables/apexSkeleton/title": "texts/shared_fossils.json",
+    "/collectables/avianSkeleton/description": "texts/shared_fossils.json",
+    "/collectables/avianSkeleton/title": "texts/shared_fossils.json",
+    "/collectables/avioscaleSkeleton/description": "texts/shared_fossils.json",
+    "/collectables/avioscaleSkeleton/title": "texts/shared_fossils.json",
+    "/collectables/egg/description": "texts/shared_fossils.json",
+    "/collectables/egg/title": "texts/shared_fossils.json",
+    "/collectables/fern/title": "texts/shared_fossils.json",
+    "/collectables/fish/description": "texts/shared_fossils.json",
+    "/collectables/fish/title": "texts/shared_fossils.json",
+    "/collectables/floranSkeleton/description": "texts/shared_fossils.json",
+    "/collectables/floranSkeleton/title": "texts/shared_fossils.json",
+    "/collectables/froggSkeleton/description": "texts/shared_fossils.json",
+    "/collectables/froggSkeleton/title": "texts/shared_fossils.json",
+    "/collectables/glitchSkeleton/description": "texts/shared_fossils.json",
+    "/collectables/glitchSkeleton/title": "texts/shared_fossils.json",
+    "/collectables/humanSkeleton/description": "texts/shared_fossils.json",
+    "/collectables/humanSkeleton/title": "texts/shared_fossils.json",
+    "/collectables/hylotlSkeleton/description": "texts/shared_fossils.json",
+    "/collectables/hylotlSkeleton/title": "texts/shared_fossils.json",
+    "/collectables/ixodoom/description": "texts/shared_fossils.json",
+    "/collectables/ixodoom/title": "texts/shared_fossils.json",
+    "/collectables/mysteriousSkeleton/description": "texts/shared_fossils.json",
+    "/collectables/mysteriousSkeleton/title": "texts/wide_spread_fields.json",
+    "/collectables/mysteriousalien/description": "texts/shared_fossils.json",
+    "/collectables/mysteriousalien/title": "texts/shared_fossils.json",
+    "/collectables/ophidaunt/description": "texts/shared_fossils.json",
+    "/collectables/ophidaunt/title": "texts/shared_fossils.json",
+    "/collectables/penguin/description": "texts/shared_fossils.json",
+    "/collectables/penguin/title": "texts/shared_fossils.json",
+    "/collectables/sabertooth/description": "texts/shared_fossils.json",
+    "/collectables/sabertooth/title": "texts/shared_fossils.json",
+    "/collectables/track/description": "texts/shared_fossils.json",
+    "/collectables/track/title": "texts/shared_fossils.json",
+    "/collectables/trex/description": "texts/shared_fossils.json",
+    "/collectables/trex/title": "texts/shared_fossils.json",
+    "/collectables/trilobite/title": "texts/shared_fossils.json"
+  },
   "dialog/airship.config": {
     "/hail/default/default/3": "texts/dialog/shared_.config.json"
   },
@@ -1793,14 +1839,111 @@
     "/labels/teleporter": "texts/wide_spread_fields.json",
     "/labels/tool": "texts/wide_spread_fields.json"
   },
+  "items/fossils/humanoid/alpacafossil1.item": {
+    "/completeSetDescriptions/description": "texts/shared_fossils.json",
+    "/completeSetDescriptions/shortdescription": "texts/shared_fossils.json"
+  },
+  "items/fossils/humanoid/apexfossil1.item": {
+    "/completeSetDescriptions/description": "texts/shared_fossils.json",
+    "/completeSetDescriptions/shortdescription": "texts/shared_fossils.json"
+  },
+  "items/fossils/humanoid/avianfossil1.item": {
+    "/completeSetDescriptions/description": "texts/shared_fossils.json",
+    "/completeSetDescriptions/shortdescription": "texts/shared_fossils.json"
+  },
+  "items/fossils/humanoid/avioscalefossil1.item": {
+    "/completeSetDescriptions/description": "texts/shared_fossils.json",
+    "/completeSetDescriptions/shortdescription": "texts/shared_fossils.json"
+  },
+  "items/fossils/humanoid/floaranfossil1.item": {
+    "/completeSetDescriptions/description": "texts/shared_fossils.json",
+    "/completeSetDescriptions/shortdescription": "texts/shared_fossils.json"
+  },
+  "items/fossils/humanoid/froggfossil1.item": {
+    "/completeSetDescriptions/description": "texts/shared_fossils.json",
+    "/completeSetDescriptions/shortdescription": "texts/shared_fossils.json"
+  },
   "items/fossils/humanoid/froggfossil3.item": {
     "/shortdescription": "texts/items.json"
   },
+  "items/fossils/humanoid/glitchfossil1.item": {
+    "/completeSetDescriptions/description": "texts/shared_fossils.json",
+    "/completeSetDescriptions/shortdescription": "texts/shared_fossils.json"
+  },
+  "items/fossils/humanoid/humanfossil1.item": {
+    "/completeSetDescriptions/description": "texts/shared_fossils.json",
+    "/completeSetDescriptions/shortdescription": "texts/shared_fossils.json"
+  },
+  "items/fossils/humanoid/hylotlfossil1.item": {
+    "/completeSetDescriptions/description": "texts/shared_fossils.json",
+    "/completeSetDescriptions/shortdescription": "texts/shared_fossils.json"
+  },
   "items/fossils/humanoid/mysteriousfossil1.item": {
-    "/completeSetDescriptions/shortdescription": "texts/items/shared_fossil.json"
+    "/completeSetDescriptions/description": "texts/shared_fossils.json",
+    "/completeSetDescriptions/shortdescription": "texts/wide_spread_fields.json"
+  },
+  "items/fossils/large/ixodoomfossil/ixodoomfossil1.item": {
+    "/completeSetDescriptions/description": "texts/shared_fossils.json",
+    "/completeSetDescriptions/shortdescription": "texts/shared_fossils.json"
+  },
+  "items/fossils/large/ophidauntfossil/ophidauntfossil1.item": {
+    "/completeSetDescriptions/description": "texts/shared_fossils.json",
+    "/completeSetDescriptions/shortdescription": "texts/shared_fossils.json"
+  },
+  "items/fossils/large/trexfossil/trexfossil1.item": {
+    "/completeSetDescriptions/description": "texts/shared_fossils.json",
+    "/completeSetDescriptions/shortdescription": "texts/shared_fossils.json"
+  },
+  "items/fossils/small/amberfossil.item": {
+    "/completeSetDescriptions/description": "texts/shared_fossils.json",
+    "/completeSetDescriptions/shortdescription": "texts/shared_fossils.json",
+    "/shortdescription": "texts/shared_fossils.json"
+  },
+  "items/fossils/small/ammonitefossil.item": {
+    "/completeSetDescriptions/description": "texts/shared_fossils.json",
+    "/completeSetDescriptions/shortdescription": "texts/shared_fossils.json",
+    "/shortdescription": "texts/shared_fossils.json"
+  },
+  "items/fossils/small/eggfossil.item": {
+    "/completeSetDescriptions/description": "texts/shared_fossils.json",
+    "/completeSetDescriptions/shortdescription": "texts/shared_fossils.json",
+    "/shortdescription": "texts/shared_fossils.json"
+  },
+  "items/fossils/small/fernfossil.item": {
+    "/completeSetDescriptions/shortdescription": "texts/shared_fossils.json",
+    "/shortdescription": "texts/shared_fossils.json"
+  },
+  "items/fossils/small/fishfossil.item": {
+    "/completeSetDescriptions/description": "texts/shared_fossils.json",
+    "/completeSetDescriptions/shortdescription": "texts/shared_fossils.json",
+    "/shortdescription": "texts/shared_fossils.json"
+  },
+  "items/fossils/small/mysteriousalienfossil.item": {
+    "/completeSetDescriptions/description": "texts/shared_fossils.json",
+    "/completeSetDescriptions/shortdescription": "texts/shared_fossils.json",
+    "/shortdescription": "texts/shared_fossils.json"
+  },
+  "items/fossils/small/penguinfossil.item": {
+    "/completeSetDescriptions/description": "texts/shared_fossils.json",
+    "/completeSetDescriptions/shortdescription": "texts/shared_fossils.json",
+    "/shortdescription": "texts/shared_fossils.json"
+  },
+  "items/fossils/small/sabertoothfossil.item": {
+    "/completeSetDescriptions/description": "texts/shared_fossils.json",
+    "/completeSetDescriptions/shortdescription": "texts/shared_fossils.json",
+    "/shortdescription": "texts/shared_fossils.json"
+  },
+  "items/fossils/small/trackfossil.item": {
+    "/completeSetDescriptions/description": "texts/shared_fossils.json",
+    "/completeSetDescriptions/shortdescription": "texts/shared_fossils.json",
+    "/shortdescription": "texts/shared_fossils.json"
+  },
+  "items/fossils/small/trilobitefossil.item": {
+    "/completeSetDescriptions/shortdescription": "texts/shared_fossils.json",
+    "/shortdescription": "texts/shared_fossils.json"
   },
   "items/generic/crafting/fossilore.item": {
-    "/shortdescription": "texts/items/shared_fossil.json"
+    "/shortdescription": "texts/wide_spread_fields.json"
   },
   "items/generic/crafting/greenslime.item": {
     "/shortdescription": "texts/shared_slime.json"

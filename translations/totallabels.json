@@ -12,6 +12,13 @@
       "missionpenguin1.aimission.json": 2,
       "missionpenguin2.aimission.json": 3
     },
+    "behaviors": {
+      "sequences": {
+        "floranmission": {
+          "chieftain.behavior.json": 13
+        }
+      }
+    },
     "biomes": {
       "atmosphere": {
         "atmosphere.biome.json": 1,
@@ -333,6 +340,14 @@
       "shared_floran.json": 1
     },
     "codex.config.json": 2,
+    "collections": {
+      "actionfigures.collection.json": 1,
+      "bugs.collection.json": 1,
+      "cooking.collection.json": 1,
+      "fishing.collection.json": 1,
+      "fossils.collection.json": 3,
+      "monsters.collection.json": 1
+    },
     "damage": {
       "shield.damage.json": 1
     },
@@ -2995,54 +3010,54 @@
       },
       "fossils": {
         "humanoid": {
-          "alpacafossil1.item.json": 4,
+          "alpacafossil1.item.json": 2,
           "alpacafossil2.item.json": 2,
           "alpacafossil3.item.json": 2,
-          "apexfossil1.item.json": 4,
+          "apexfossil1.item.json": 2,
           "apexfossil2.item.json": 2,
           "apexfossil3.item.json": 2,
-          "avianfossil1.item.json": 4,
+          "avianfossil1.item.json": 2,
           "avianfossil2.item.json": 2,
           "avianfossil3.item.json": 2,
-          "avioscalefossil1.item.json": 4,
+          "avioscalefossil1.item.json": 2,
           "avioscalefossil2.item.json": 2,
           "avioscalefossil3.item.json": 2,
-          "floaranfossil1.item.json": 4,
+          "floaranfossil1.item.json": 2,
           "floranfossil2.item.json": 2,
           "floranfossil3.item.json": 2,
-          "froggfossil1.item.json": 4,
+          "froggfossil1.item.json": 2,
           "froggfossil2.item.json": 2,
           "froggfossil3.item.json": 1,
-          "glitchfossil1.item.json": 4,
+          "glitchfossil1.item.json": 2,
           "glitchfossil2.item.json": 2,
           "glitchfossil3.item.json": 2,
-          "humanfossil1.item.json": 4,
+          "humanfossil1.item.json": 2,
           "humanfossil2.item.json": 2,
           "humanfossil3.item.json": 2,
-          "hylotlfossil1.item.json": 4,
+          "hylotlfossil1.item.json": 2,
           "hylotlfossil2.item.json": 2,
           "hylotlfossil3.item.json": 2,
-          "mysteriousfossil1.item.json": 3,
+          "mysteriousfossil1.item.json": 2,
           "mysteriousfossil2.item.json": 2,
           "mysteriousfossil3.item.json": 2
         },
         "large": {
           "ixodoomfossil": {
-            "ixodoomfossil1.item.json": 4,
+            "ixodoomfossil1.item.json": 2,
             "ixodoomfossil2.item.json": 2,
             "ixodoomfossil3.item.json": 2,
             "ixodoomfossil4.item.json": 2,
             "ixodoomfossil5.item.json": 2
           },
           "ophidauntfossil": {
-            "ophidauntfossil1.item.json": 4,
+            "ophidauntfossil1.item.json": 2,
             "ophidauntfossil2.item.json": 2,
             "ophidauntfossil3.item.json": 2,
             "ophidauntfossil4.item.json": 2,
             "ophidauntfossil5.item.json": 2
           },
           "trexfossil": {
-            "trexfossil1.item.json": 4,
+            "trexfossil1.item.json": 2,
             "trexfossil2.item.json": 2,
             "trexfossil3.item.json": 2,
             "trexfossil4.item.json": 2,
@@ -3050,16 +3065,16 @@
           }
         },
         "small": {
-          "amberfossil.item.json": 3,
-          "ammonitefossil.item.json": 3,
-          "eggfossil.item.json": 3,
-          "fernfossil.item.json": 3,
-          "fishfossil.item.json": 3,
-          "mysteriousalienfossil.item.json": 3,
-          "penguinfossil.item.json": 3,
-          "sabertoothfossil.item.json": 3,
-          "trackfossil.item.json": 3,
-          "trilobitefossil.item.json": 3
+          "amberfossil.item.json": 1,
+          "ammonitefossil.item.json": 1,
+          "eggfossil.item.json": 1,
+          "fernfossil.item.json": 2,
+          "fishfossil.item.json": 1,
+          "mysteriousalienfossil.item.json": 1,
+          "penguinfossil.item.json": 1,
+          "sabertoothfossil.item.json": 1,
+          "trackfossil.item.json": 1,
+          "trilobitefossil.item.json": 2
         }
       },
       "generic": {
@@ -3688,7 +3703,6 @@
         "wreckplatform.matitem.json": 1
       },
       "rotting.config.json": 5,
-      "shared_fossil.json": 1,
       "shared_toxicwaste.json": 1,
       "ship": {
         "FTLrepairkit.unlock.json": 3,
@@ -13373,6 +13387,7 @@
     "shared_ect.json": 1,
     "shared_eri.json": 2,
     "shared_est.json": 1,
+    "shared_fossils.json": 43,
     "shared_goldenplatform.mat.json": 5,
     "shared_ice..json": 1,
     "shared_ies.json": 1,
@@ -13686,6 +13701,6 @@
       }
     },
     "universe_server.config.json": 2,
-    "wide_spread_fields.json": 74
+    "wide_spread_fields.json": 75
   }
 }

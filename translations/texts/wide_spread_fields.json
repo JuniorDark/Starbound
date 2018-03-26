@@ -1537,6 +1537,24 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "collections/fossils.collection": [
+        "/collectables/mysteriousSkeleton/title"
+      ],
+      "items/fossils/humanoid/mysteriousfossil1.item": [
+        "/completeSetDescriptions/shortdescription"
+      ],
+      "items/generic/crafting/fossilore.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unidentified Fossil",
+      "Por": "Unidentified Fossil"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "biomes/surface/volcanic.biome": [
         "/friendlyName"
       ],
