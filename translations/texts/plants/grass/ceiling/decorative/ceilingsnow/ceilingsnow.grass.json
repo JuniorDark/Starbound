@@ -4,7 +4,6 @@
     "Files": {
       "plants/grass/ceiling/decorative/ceilingsnow/ceilingsnow.grass": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ]
     },
@@ -23,6 +22,18 @@
     "Texts": {
       "Eng": "Sssnow.",
       "Por": "Neve."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ceiling/decorative/ceilingsnow/ceilingsnow.grass": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. Snow.",
+      "Por": "Relatório. Neve."
     }
   }
 ]

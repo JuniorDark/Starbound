@@ -18,6 +18,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/kiwi/kiwiseed.object": [
+        "/glitchDescription"
+      ],
+      "objects/farmables/kiwi/wildkiwiseed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amused. It is remarkable how many foods resemble those who eat them.",
+      "Por": "Divertido. É notável como muitos alimentos se assemelham com aqueles que comê-los."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/kiwi/kiwiseed.object": [
         "/hylotlDescription"
       ],
       "objects/farmables/kiwi/wildkiwiseed.object": [
@@ -42,20 +57,6 @@
     "Texts": {
       "Eng": "Furry, squashy creature-fruit.",
       "Por": "Fruta peluda e mole."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/farmables/kiwi/kiwiseed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/farmables/kiwi/wildkiwiseed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "It is remarkable how many foods resemble those who eat them."
     }
   },
   {

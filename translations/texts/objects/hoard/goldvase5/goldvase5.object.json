@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hoard/goldvase5/goldvase5.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Admiring. This golden jug is nice to look at.",
+      "Por": "Admirando. Este jarro de ouro é agradável de olhar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hoard/goldvase5/goldvase5.object": [
         "/shortdescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "Surely there's a better use for all this gold than a jug?",
       "Por": "Certamente há um uso melhor para todo esse ouro do que um jarro?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/hoard/goldvase5/goldvase5.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This golden jug is nice to look at."
     }
   },
   {

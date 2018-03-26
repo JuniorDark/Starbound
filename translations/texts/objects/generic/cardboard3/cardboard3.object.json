@@ -87,23 +87,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/cardboard3/cardboard3.object": [
-        "/shortdescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Open Cardboard Box",
-      "Por": "Open Cardboard Box"
+      "Eng": "Impressed. This cardboard box is light, but large enough to hold many things inside.",
+      "Por": "Impressionado. Esta caixa de papelão é leve, mas grande o suficiente para guardar muitas coisas dentro."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/cardboard3/cardboard3.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "This cardboard box is light, but large enough to hold many things inside."
+      "Eng": "Open Cardboard Box",
+      "Por": "Open Cardboard Box"
     }
   }
 ]

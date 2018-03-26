@@ -87,23 +87,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/tribalcabinet1/tribalcabinet1.object": [
-        "/shortdescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Small Carved Cabinet",
-      "Por": "Small Carved Cabinet"
+      "Eng": "Observant. The decoration appears to be the work of more than one person.",
+      "Por": "Observador. A decoração parece ser o trabalho de mais de uma pessoa."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/tribalcabinet1/tribalcabinet1.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "The decoration appears to be the work of more than one person."
+      "Eng": "Small Carved Cabinet",
+      "Por": "Small Carved Cabinet"
     }
   }
 ]

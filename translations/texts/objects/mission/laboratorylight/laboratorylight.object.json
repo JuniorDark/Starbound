@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/laboratorylight/laboratorylight.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. This is a very power-efficient lamp.",
+      "Por": "Impressionado. Esta é uma lâmpada muito eficiente em termos de energia."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/laboratorylight/laboratorylight.object": [
         "/shortdescription"
       ]
     },
@@ -57,17 +69,6 @@
     "Texts": {
       "Eng": "This Miniknog-designed light is made to run even on low power.",
       "Por": "Esta luz projetada pela Miniknog é feita para funcionar mesmo em baixa potência."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/mission/laboratorylight/laboratorylight.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This is a very power-efficient lamp."
     }
   },
   {

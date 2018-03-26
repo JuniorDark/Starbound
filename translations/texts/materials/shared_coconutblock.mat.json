@@ -63,15 +63,15 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/coconutblock.matitem": [
-        "/glitchdescription/glitchEmotedText"
+        "/glitchdescription"
       ],
       "tiles/materials/coconutblock.material": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "The primary component of these bricks are coconuts.",
-      "Por": "O principal componente desses tijolos são os cocos."
+      "Eng": "Surprised. The primary component of these bricks are coconuts.",
+      "Por": "Surpreso. O componente principal desses tijolos são cocos."
     }
   }
 ]

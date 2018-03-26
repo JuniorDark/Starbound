@@ -75,23 +75,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/giantflower/giantflowerbed/giantflowerbed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The bed is made out of a carnivorous plant. Worrying."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/giantflower/giantflowerbed/giantflowerbed.object": [
         "/humanDescription"
       ]
     },
     "Texts": {
       "Eng": "The sickly-sweet smell of the plant doesn't help me sleep.",
       "Por": "O cheiro doce da planta não me ajuda a dormir."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/giantflower/giantflowerbed/giantflowerbed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Uncomfortable. The bed is made out of a carnivorous plant. Worrying.",
+      "Por": "Desconfortável. A cama é feita de uma planta carnívora. Preocupante."
     }
   }
 ]

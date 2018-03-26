@@ -15,17 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/marinesign/marinesign.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Human military tactics involve a lot of bravado."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/human/marinesign/marinesign.object": [
         "/novakidDescription"
       ]
     },
@@ -80,6 +69,18 @@
     "Texts": {
       "Eng": "This area clearly had a human military presence once.",
       "Por": "Esta área claramente tinha uma presença militar humana."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/marinesign/marinesign.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thoughtful. Human military tactics involve a lot of bravado.",
+      "Por": "Pensativo. Táticas militares humanas envolvem muita bravura."
     }
   },
   {

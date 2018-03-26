@@ -63,20 +63,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/prisonshower/prisonshower.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/human/prisonshower/prisonshowerdripping.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Showers and Glitch do not mix."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/human/prisonshower/prisonshower.object": [
         "/hylotlDescription"
       ],
       "objects/human/prisonshower/prisonshowerdripping.object": [
@@ -86,6 +72,21 @@
     "Texts": {
       "Eng": "The touch of water would be a blessing right now.",
       "Por": "O toque da água seria uma bênção agora."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisonshower/prisonshower.object": [
+        "/glitchDescription"
+      ],
+      "objects/human/prisonshower/prisonshowerdripping.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Uncomfortable. Showers and Glitch do not mix.",
+      "Por": "Desconfortável. Chuveiros e Glitch não se misturam."
     }
   }
 ]

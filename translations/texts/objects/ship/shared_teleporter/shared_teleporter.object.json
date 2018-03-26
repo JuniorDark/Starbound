@@ -3,36 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/ship/avianteleporter/avianteleporter.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/floranteleporter/floranteleporter.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/glitchteleporter/glitchteleporter.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/humanteleporter/humanteleporter.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/hylotlteleporter/hylotlteleporter.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/novakidteleporter/novakidteleporter.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/teleporter/teleporter.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A teleporter. I am able to enter a sleep mode during the teleport process.",
-      "Por": "Um teletransportador Eu sou capaz de entrar em um modo de suspensão durante o processo de teletransporte."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/ship/avianteleporter/avianteleporter.object": [
         "/hylotlDescription"
       ],
       "objects/ship/floranteleporter/floranteleporter.object": [
@@ -56,11 +26,13 @@
     },
     "Texts": {
       "Eng": "A teleporter. Teleporting feels like diving into the ocean from a mountain top.",
-      "Por": "Um teletransportador. Teletransportar parece como mergulhar no oceano do topo de uma montanha."
+      "Por": "Um teletransportador. Teletransportar parece mergulhar no oceano do topo de uma montanha."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Teletransportador de nave. Floran se sente confuso durante o teleporte."
+    ],
     "Files": {
       "objects/ship/avianteleporter/avianteleporter.object": [
         "/floranDescription"
@@ -86,7 +58,7 @@
     },
     "Texts": {
       "Eng": "Ship teleporter. Floran feel confusssed during teleport.",
-      "Por": "Teletransportador da nave. Floran se sente confusso durante teletransporte."
+      "Por": "Teletransportador de nave. Floran se sente confusso durante teleporte."
     }
   },
   {
@@ -116,7 +88,37 @@
     },
     "Texts": {
       "Eng": "Ship's teleporter. Let's take her for a spin!",
-      "Por": "Teletransportador da nave. Vamos levá-lo para dar uma volta!"
+      "Por": "Teletransportador de nave. Vamos levá-lo para dar uma volta!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/avianteleporter/avianteleporter.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/floranteleporter/floranteleporter.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/glitchteleporter/glitchteleporter.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/humanteleporter/humanteleporter.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/hylotlteleporter/hylotlteleporter.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/novakidteleporter/novakidteleporter.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/teleporter/teleporter.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Smug. A teleporter. I am able to enter a sleep mode during the teleport process.",
+      "Por": "Presunçoso. Um teletransportador. Eu sou capaz de entrar em um modo de sono durante o processo de teletransporte."
     }
   },
   {

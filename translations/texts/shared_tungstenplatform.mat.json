@@ -3,6 +3,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/tungstenplatform.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/platforms/tungstenplatform.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Approving. Tungsten can be made into extremely solid platforms.",
+      "Por": "Aprovação. Tungstênio pode ser transformado em plataformas extremamente sólidas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/tungstenplatform.matitem": [
         "/novakiddescription"
       ],
       "tiles/platforms/tungstenplatform.material": [
@@ -57,21 +72,6 @@
     "Texts": {
       "Eng": "Tungsten Platform",
       "Por": "Tungsten Platform"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/tungstenplatform.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/platforms/tungstenplatform.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Tungsten can be made into extremely solid platforms.",
-      "Por": "Tungstênio pode ser transformado em plataformas extremamente sólidas."
     }
   }
 ]

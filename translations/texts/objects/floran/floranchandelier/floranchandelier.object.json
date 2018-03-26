@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/floranchandelier/floranchandelier.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amused. It appears to be a small tree hanging from the ceiling.",
+      "Por": "Divertido. Parece ser uma pequena árvore pendurada no teto."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/floranchandelier/floranchandelier.object": [
         "/floranDescription"
       ]
     },
@@ -33,17 +45,6 @@
     "Texts": {
       "Eng": "It appears as if a young tree has been hung upside down with torches attached.",
       "Por": "Parece que uma árvore jovem foi pendurada de cabeça para baixo com tochas anexadas."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/floran/floranchandelier/floranchandelier.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "It appears to be a small tree hanging from the ceiling."
     }
   },
   {

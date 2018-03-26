@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/ancientvault/weaponupgradeanvil/weaponupgradeanvil.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. The technical applications of this anvil are as advanced as they are ancient.",
+      "Por": "Impressionado. As aplicações técnicas desta bigorna são tão avançadas quanto antigas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancientvault/weaponupgradeanvil/weaponupgradeanvil.object": [
         "/apexDescription"
       ]
     },
@@ -27,24 +39,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/ancientvault/weaponupgradeanvil/weaponupgradeanvil.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The technical applications of this anvil are as advanced as they are ancient.",
-      "Por": "As aplicações técnicas desta bigorna são tão avançadas quanto antigas."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/ancientvault/weaponupgradeanvil/weaponupgradeanvil.object": [
         "/description"
       ]
     },
     "Texts": {
       "Eng": "This advanced ancient technology can raise the effectiveness of some weapons.",
-      "Por": "Esta antiga tecnologia avançada pode aumentar a eficácia de algumas armas."
+      "Por": "Esta tecnologia antiga avançada pode aumentar a eficácia de algumas armas."
     }
   },
   {

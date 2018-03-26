@@ -3,6 +3,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/volcanic/smokeprimer/smokeprimer.object": [
+        "/glitchDescription"
+      ],
+      "objects/protectorate/objects/protectoratesmokeprimer/protectoratesmokeprimer.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Confused. This smoke must have a origin.",
+      "Por": "Confuso. Essa fumaça deve ter uma origem."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/volcanic/smokeprimer/smokeprimer.object": [
         "/novakidDescription"
       ],
       "objects/protectorate/objects/protectoratesmokeprimer/protectoratesmokeprimer.object": [
@@ -87,21 +102,6 @@
     "Texts": {
       "Eng": "This smoke must be coming from somewhere.",
       "Por": "Essa fumaça deve estar vindo de algum lugar."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/volcanic/smokeprimer/smokeprimer.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/protectorate/objects/protectoratesmokeprimer/protectoratesmokeprimer.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This smoke must have a origin.",
-      "Por": "Esta fumaça deve ter uma origem."
     }
   },
   {

@@ -4,13 +4,24 @@
     "Files": {
       "plants/bushes/ground/moltenrock/moltenrock.bush": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ]
     },
     "Texts": {
       "Eng": "Molten rock.",
       "Por": "Rocha derretida."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/moltenrock/moltenrock.bush": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. Molten rock.",
+      "Por": "Relatório. Rocha derretida."
     }
   }
 ]

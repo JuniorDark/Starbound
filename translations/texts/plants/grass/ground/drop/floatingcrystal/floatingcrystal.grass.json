@@ -3,18 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "plants/grass/ground/drop/floatingcrystal/floatingcrystal.grass": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A floating crystal.",
-      "Por": "Um cristal flutuante."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "plants/grass/ground/drop/floatingcrystal/floatingcrystal.grass": [
         "/description",
         "/shortdescription"
       ]
@@ -33,7 +21,19 @@
     },
     "Texts": {
       "Eng": "Floaty ssshiny.",
-      "Por": "Cristal flutiante."
+      "Por": "Um brilhante voador."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/drop/floatingcrystal/floatingcrystal.grass": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Puzzlement. A floating crystal.",
+      "Por": "Perplexidade. Um cristal flutuante."
     }
   }
 ]

@@ -3,6 +3,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/frozenwater.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/frozenwater.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cautious. The way this ice froze has made it unusually smooth.",
+      "Por": "Cauteloso. A forma como este gelo congelou tornou extraordinariamente liso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/frozenwater.matitem": [
         "/shortdescription"
       ],
       "tiles/materials/frozenwater.material": [
@@ -42,21 +57,6 @@
     "Texts": {
       "Eng": "Ssslippy frozen water.",
       "Por": "Água congelada escorregadia."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/frozenwater.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/frozenwater.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The way this ice froze has made it unusually smooth.",
-      "Por": "A forma como este gelo congelou o tornou extraordinariamente liso."
     }
   },
   {

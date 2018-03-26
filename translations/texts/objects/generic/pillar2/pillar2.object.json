@@ -53,23 +53,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/pillar2/pillar2.object": [
-        "/hylotlDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "The remains of a tall stone pillar.",
-      "Por": "Os restos de um pilar de pedra."
+      "Eng": "Neutral. This pillar has been damaged.",
+      "Por": "Neutro. Este pilar foi danificado."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/pillar2/pillar2.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/hylotlDescription"
       ]
     },
     "Texts": {
-      "Eng": "This pillar has been damaged."
+      "Eng": "The remains of a tall stone pillar.",
+      "Por": "Os restos de um pilar de pedra."
     }
   }
 ]

@@ -15,17 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/outpostkeypad/outpostkeypad.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A keypad, can I crack the code?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/outpost/outpostkeypad/outpostkeypad.object": [
         "/description"
       ]
     },
@@ -80,6 +69,18 @@
     "Texts": {
       "Eng": "Does this keypad do anything?",
       "Por": "Esse teclado faz alguma coisa?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostkeypad/outpostkeypad.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excited. A keypad, can I crack the code?",
+      "Por": "Animado. Um teclado, posso decifrar o código?"
     }
   },
   {

@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/stonecave/cavechest/cavechest.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. It's a cleverly camouflaged chest.",
+      "Por": "Impressionado. É um baú habilmente camuflado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/stonecave/cavechest/cavechest.object": [
         "/avianDescription"
       ]
     },
@@ -57,17 +69,6 @@
     "Texts": {
       "Eng": "It seems like a good place for keeping ssstuff.",
       "Por": "Parece um bom lugar para guardar coisasss."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/stonecave/cavechest/cavechest.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "It's a cleverly camouflaged chest."
     }
   },
   {

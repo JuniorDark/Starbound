@@ -17,22 +17,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
-    "Files": {
-      "plants/grass/ceiling/decorative/ceilinghandlike/ceilinghandlike.grass": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "plants/grass/ground/decorative/handlike/handlike.grass": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A root that resembles a hand.",
-      "Por": "Uma raiz que se assemelha a uma mão."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Raiz comilona.",
+      "Uma raiz comilona."
+    ],
     "Files": {
       "plants/grass/ceiling/decorative/ceilinghandlike/ceilinghandlike.grass": [
         "/floranDescription"
@@ -43,7 +31,22 @@
     },
     "Texts": {
       "Eng": "Grabby root.",
-      "Por": "Raiz pegajosa."
+      "Por": "Raiz."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ceiling/decorative/ceilinghandlike/ceilinghandlike.grass": [
+        "/glitchDescription"
+      ],
+      "plants/grass/ground/decorative/handlike/handlike.grass": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. A root that resembles a hand.",
+      "Por": "Relatório. Uma raiz que se assemelha a uma mão."
     }
   }
 ]

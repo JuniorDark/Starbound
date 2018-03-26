@@ -4,7 +4,6 @@
     "Files": {
       "plants/grass/ground/decorative/rockstacks/rockstacks.grass": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ]
     },
@@ -23,6 +22,18 @@
     "Texts": {
       "Eng": "Rocksss.",
       "Por": "Rochas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/rockstacks/rockstacks.grass": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. A pile of rocks.",
+      "Por": "Relatório. Uma monte de rochas."
     }
   }
 ]

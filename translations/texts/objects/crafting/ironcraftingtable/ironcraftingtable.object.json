@@ -75,23 +75,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/crafting/ironcraftingtable/ironcraftingtable.object": [
-        "/floranDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Iron table for making thingsss.",
-      "Por": "Mesa de ferro para fazer coisasss."
+      "Eng": "Interested. It's an iron crafting table. It's better than a wooden one.",
+      "Por": "Interessado. É uma mesa de fabricação de ferro. É melhor do que uma de madeira."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/crafting/ironcraftingtable/ironcraftingtable.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/floranDescription"
       ]
     },
     "Texts": {
-      "Eng": "It's an iron crafting table. It's better than a wooden one."
+      "Eng": "Iron table for making thingsss.",
+      "Por": "Mesa de ferro para fazer coisasss."
     }
   },
   {

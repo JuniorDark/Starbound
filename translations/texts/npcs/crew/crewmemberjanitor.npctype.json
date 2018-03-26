@@ -3,12 +3,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/crew/crewmemberjanitor.npctype": [
-        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/1/glitchEmotedText"
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0"
       ]
     },
     "Texts": {
-      "Eng": "A job is a job, but still...",
-      "Por": "Um trabalho é um trabalho, mas ainda assim..."
+      "Eng": "Bored. I'm <selfname>... The janitor.",
+      "Por": "Entediado. Eu sou <selfname>... O zelador(a)."
     }
   },
   {
@@ -51,8 +51,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/crew/crewmemberjanitor.npctype": [
-        "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
-        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0/glitchEmotedText"
+        "/scriptConfig/dialog/crewmember/roleDescription/default/default/0"
       ]
     },
     "Texts": {
@@ -94,6 +93,18 @@
     "Texts": {
       "Eng": "The name's <selfname>... The janitor.",
       "Por": " Sou <selfname>... O Zelador(a)."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberjanitor.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Underwhelmed. A job is a job, but still...",
+      "Por": "Desapontado. Um trabalho é um trabalho, mas ainda..."
     }
   },
   {

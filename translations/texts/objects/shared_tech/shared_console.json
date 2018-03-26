@@ -30,22 +30,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/outpost/techlab/techlabconsole2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/upgrade/techconsole/techconsole.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This console allows me to equip and remove techs.",
-      "Por": "Este console me permite equipar e remover tecnologias."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Este consssole permite que Floran equipe tecnologias! Novas tecnologiasss são sempre muito emocionantesss."
+    ],
     "Files": {
       "objects/outpost/techlab/techlabconsole2.object": [
         "/floranDescription"
@@ -60,7 +47,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Com um pouco de conhecimento posso usar esta máquina para equipar tecnologias."
+    ],
     "Files": {
       "objects/outpost/techlab/techlabconsole2.object": [
         "/novakidDescription"

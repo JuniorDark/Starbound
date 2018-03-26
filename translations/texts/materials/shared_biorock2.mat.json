@@ -33,15 +33,15 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/biorock2.matitem": [
-        "/glitchdescription/glitchEmotedText"
+        "/glitchdescription"
       ],
       "tiles/materials/biorock2.material": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "There's a faint blue glow coming from the bacteria in this rock.",
-      "Por": "Há um leve brilho azul vindo das bactérias nesta rocha."
+      "Eng": "Perplexed. There's a faint blue glow coming from the bacteria in this rock.",
+      "Por": "Perplexo. Há um brilho azul fraco vindo da bactéria nesta rocha."
     }
   },
   {

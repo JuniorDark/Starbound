@@ -75,23 +75,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/medievalbookcaseswitch/medievalbookcaseswitch.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Some of the books appear to be placed strangely."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/glitch/medievalbookcaseswitch/medievalbookcaseswitch.object": [
         "/apexDescription"
       ]
     },
     "Texts": {
       "Eng": "Some of these books don't look quite right.",
       "Por": "Alguns desses livros não parecem normais."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/medievalbookcaseswitch/medievalbookcaseswitch.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Suspicious. Some of the books appear to be placed strangely.",
+      "Por": "Suspeito. Alguns dos livros parecem ser colocados estranhamente."
     }
   },
   {

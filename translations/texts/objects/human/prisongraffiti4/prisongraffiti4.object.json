@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/prisongraffiti4/prisongraffiti4.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A crudely-drawn human skull."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/human/prisongraffiti4/prisongraffiti4.object": [
         "/description"
       ]
     },
@@ -80,6 +69,18 @@
     "Texts": {
       "Eng": "It looks like a human skull.",
       "Por": "Parece um crânio humano."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisongraffiti4/prisongraffiti4.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. A crudely-drawn human skull.",
+      "Por": "Observador. Um crânio humano grosseiramente desenhado."
     }
   },
   {

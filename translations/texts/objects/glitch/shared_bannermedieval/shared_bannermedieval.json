@@ -63,6 +63,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/bannermedievallarge/bannermedievallarge.object": [
+        "/glitchDescription"
+      ],
+      "objects/glitch/bannermedievalsmall/bannermedievalsmall.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Proud. The Glitch produce banners of all kinds. They symbolise the different houses of the Glitch.",
+      "Por": "Orgulhoso. Os Glitch produzem estandartes de todos os tipos. Eles simbolizam as diferentes casas dos Glitch."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/bannermedievallarge/bannermedievallarge.object": [
         "/floranDescription"
       ],
       "objects/glitch/bannermedievalsmall/bannermedievalsmall.object": [
@@ -72,20 +87,6 @@
     "Texts": {
       "Eng": "Red sssilky banner.",
       "Por": "Esstandarte de ssseda vermelha."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/glitch/bannermedievallarge/bannermedievallarge.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/glitch/bannermedievalsmall/bannermedievalsmall.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The Glitch produce banners of all kinds. They symbolise the different houses of the Glitch."
     }
   },
   {

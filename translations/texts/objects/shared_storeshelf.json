@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Eu com certeza poderia fazer bom uso desses itens aqui."
+    ],
     "Files": {
       "objects/apex/apexstoreshelf/apexstoreshelf.object": [
         "/novakidDescription"
@@ -33,6 +35,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/apexstoreshelf/apexstoreshelf.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/scorchedcity/scorchedcitystoreshelf/scorchedcitystoreshelf.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Surprised. There are some useful items on this shelf.",
+      "Por": "Surpreso. Existem alguns itens úteis nesta prateleira."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/apexstoreshelf/apexstoreshelf.object": [
         "/apexDescription"
       ],
       "objects/biome/scorchedcity/scorchedcitystoreshelf/scorchedcitystoreshelf.object": [
@@ -45,7 +62,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Esta prateleira está cheia de itens, eu aposto que ela pode conter ainda mais."
+    ],
     "Files": {
       "objects/apex/apexstoreshelf/apexstoreshelf.object": [
         "/humanDescription"
@@ -56,7 +75,7 @@
     },
     "Texts": {
       "Eng": "This shelf is full of items, I bet it can hold even more.",
-      "Por": "Esta prateleira está cheia de itens, eu aposto que ela pode conter ainda mais."
+      "Por": "Esta prateleira está cheia de itens, eu aposto que ele pode conter ainda mais."
     }
   }
 ]

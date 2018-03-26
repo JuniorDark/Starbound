@@ -78,20 +78,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/darkbannermedievallarge/darkbannermedievallarge.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/glitch/darkbannermedievalsmall/darkbannermedievalsmall.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This kind of banner tends to be displayed when less than friendly individuals are nearby..."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/glitch/darkbannermedievallarge/darkbannermedievallarge.object": [
         "/floranDescription"
       ],
       "objects/glitch/darkbannermedievalsmall/darkbannermedievalsmall.object": [
@@ -101,6 +87,21 @@
     "Texts": {
       "Eng": "Thisss banner isss dark like shadows. Floran wantsss to hide under it.",
       "Por": "Este estandarte é escuro como sombras. Floran quer se esconder debaixo dele."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/darkbannermedievallarge/darkbannermedievallarge.object": [
+        "/glitchDescription"
+      ],
+      "objects/glitch/darkbannermedievalsmall/darkbannermedievalsmall.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Worried. This kind of banner tends to be displayed when less than friendly individuals are nearby...",
+      "Por": "Preocupado. Este tipo de estandarte tende a ser exibido quando pessoas não muito amigáveis estão nas proximidades..."
     }
   }
 ]

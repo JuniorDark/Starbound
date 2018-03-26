@@ -39,24 +39,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/themed/steampunk/steampunkbed/steampunkbed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Do these pipes have any function?",
-      "Por": "Esses canos têm alguma função?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/themed/steampunk/steampunkbed/steampunkbed.object": [
         "/floranDescription"
       ]
     },
     "Texts": {
       "Eng": "Floran want to pull apart pipesss, use them as weaponsss.",
       "Por": "Floran quer sseparar canosss, usá-los como armasss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/steampunk/steampunkbed/steampunkbed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intrigued. Do these pipes have any function?",
+      "Por": "Intrigado. Esses canos têm alguma função?"
     }
   },
   {

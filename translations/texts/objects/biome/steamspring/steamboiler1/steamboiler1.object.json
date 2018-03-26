@@ -63,6 +63,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/steamspring/steamboiler1/steamboiler1.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intrigued. This machine appears to heat up water using internal fires.",
+      "Por": "Intrigado. Esta máquina parece aquecer a água usando fogos internos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/steamspring/steamboiler1/steamboiler1.object": [
         "/shortdescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "This crude boiler looks like it could be far older than I would first think.",
       "Por": "Esta caldeira parece que poderia ser muito mais velha do que eu pensaria primeiramente."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/steamspring/steamboiler1/steamboiler1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This machine appears to heat up water using internal fires."
     }
   }
 ]

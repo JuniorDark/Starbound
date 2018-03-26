@@ -39,17 +39,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/arttrophies/paintingcreationofpixel/paintingcreationofpixel.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Is this the hunt for knowledge in painted form?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/arttrophies/paintingcreationofpixel/paintingcreationofpixel.object": [
         "/novakidDescription"
       ]
     },
@@ -68,6 +57,18 @@
     "Texts": {
       "Eng": "Look! Two humansss to hunt! A rare catch!",
       "Por": "Veja! Dois humanosss para caçar! Uma captura rara!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/arttrophies/paintingcreationofpixel/paintingcreationofpixel.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Quizzical. Is this the hunt for knowledge in painted form?",
+      "Por": "Interrogativo. Essa é a busca do conhecimento em forma pintada?"
     }
   },
   {

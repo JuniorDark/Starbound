@@ -4,7 +4,6 @@
     "Files": {
       "plants/bushes/ground/sandstoneplant/sandstoneplant.bush": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ]
     },
@@ -23,6 +22,18 @@
     "Texts": {
       "Eng": "Sssandy.",
       "Por": "Amarelado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/sandstoneplant/sandstoneplant.bush": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. A sandy shrub.",
+      "Por": "Relatório. Um arbusto amarelado."
     }
   }
 ]

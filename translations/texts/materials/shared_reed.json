@@ -33,6 +33,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/reedblock.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/reeds.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. These tightly woven reeds make strong blocks.",
+      "Por": "Impressionado. Estes juncos firmemente tecidos fazem blocos fortes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/reedblock.matitem": [
         "/shortdescription"
       ],
       "tiles/materials/reeds.material": [
@@ -57,21 +72,6 @@
     "Texts": {
       "Eng": "Some reeds that're all woven together.",
       "Por": "Algums juncos que são todos tecidos juntos."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/reedblock.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/reeds.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "These tightly woven reeds make strong blocks.",
-      "Por": "Estes juncos firmemente tecidos fazem blocos fortes."
     }
   }
 ]

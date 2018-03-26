@@ -75,18 +75,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/ancient/essencechest/essencechest.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The eye adorning this chest seems to be judging me.",
-      "Por": "O olho enfeitando este baú parece estar me julgando."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/ancient/essencechest/essencechest.object": [
         "/apexDescription",
         "/avianDescription"
       ]
@@ -94,6 +82,18 @@
     "Texts": {
       "Eng": "This chest looks very old and creepy.",
       "Por": "Este baú parece muito velho e assustador."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/essencechest/essencechest.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unsettled. The eye adorning this chest seems to be judging me.",
+      "Por": "Perturbado. O olho que decora este baú parece estar me julgando."
     }
   }
 ]

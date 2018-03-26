@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma peça extremamente velha de tecnologia."
+    ],
     "Files": {
       "objects/ancient/ancientconsole/ancientconsole.object": [
         "/apexDescription"
@@ -15,7 +17,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Controlesss antigos para o antigo portal."
+    ],
     "Files": {
       "objects/ancient/ancientconsole/ancientconsole.object": [
         "/floranDescription"
@@ -27,6 +31,23 @@
     "Texts": {
       "Eng": "Ancient controlsss for the ancient gate.",
       "Por": "Controlesss antigos para o portal antigo."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Impressionado. O painel de controle para o portal, parece de fato muito antigo."
+    ],
+    "Files": {
+      "objects/ancient/ancientconsole/ancientconsole.object": [
+        "/glitchDescription"
+      ],
+      "objects/ancient/ancientconsole/returnconsole.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. The control panel for the gate, it looks very old indeed.",
+      "Por": "Impressionado. O painel de controle para o portal, parece muito antigo."
     }
   },
   {
@@ -48,21 +69,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/ancient/ancientconsole/ancientconsole.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ancient/ancientconsole/returnconsole.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The control panel for the gate, it looks very old indeed.",
-      "Por": "O painel de controle para o portal, parece muito velho de fato."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/ancient/ancientconsole/ancientconsole.object": [
         "/hylotlDescription"
       ],
       "objects/ancient/ancientconsole/returnconsole.object": [
@@ -75,7 +81,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "O painel de controle do portal. Deve ser tão antigo quanto o portal."
+    ],
     "Files": {
       "objects/ancient/ancientconsole/ancientconsole.object": [
         "/humanDescription"
@@ -90,7 +98,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Este console deve ser tão antigo quanto o portal. Isso é velho!"
+    ],
     "Files": {
       "objects/ancient/ancientconsole/ancientconsole.object": [
         "/avianDescription"
@@ -105,7 +115,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Este parece ser o painel de controle para o portal. Ele ainda parece funcionar."
+    ],
     "Files": {
       "objects/ancient/ancientconsole/ancientconsole.object": [
         "/description"

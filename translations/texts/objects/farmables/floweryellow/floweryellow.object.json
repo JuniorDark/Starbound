@@ -39,11 +39,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/floweryellow/floweryellow.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "A vibrant yellow flower."
+      "Eng": "Enthusiastic. A vibrant yellow flower.",
+      "Por": "Entusiasmado. Uma flor amarela vibrante."
     }
   },
   {
@@ -90,7 +91,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Yellow Flower"
+      "Eng": "Yellow Flower",
+      "Por": "Yellow Flower"
     }
   },
   {

@@ -15,8 +15,19 @@
     "DeniedAlternatives": [],
     "Files": {
       "plants/grass/ground/decorative/thickgrass/thickgrass.grass": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. Thick grass.",
+      "Por": "Relatório. Uma grama espessa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/thickgrass/thickgrass.grass": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ]
     },

@@ -95,6 +95,42 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "objects/biome/jungle/junglebush13/junglebush13.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/jungle/junglebush14/junglebush14.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/jungle/junglebush15/junglebush15.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/jungle/junglebush16/junglebush16.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. A leafy plant.",
+      "Por": "Atento. Uma planta frondosa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/jungle/junglebush17/junglebush17.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/jungle/junglebush18/junglebush18.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. This flower smells horrible",
+      "Por": "Atento. Esta flor tem um cheiro horrível."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "objects/biome/jungle/junglebush17/junglebush17.object": [
         "/shortdescription"
       ],
@@ -150,20 +186,6 @@
     "Texts": {
       "Eng": "This flower smells awful!",
       "Por": "Esta flor tem cheiro horrível!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/jungle/junglebush17/junglebush17.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/jungle/junglebush18/junglebush18.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This flower smells horrible"
     }
   },
   {

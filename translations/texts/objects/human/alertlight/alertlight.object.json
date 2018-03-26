@@ -15,17 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/alertlight/alertlight.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A coloured light."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/human/alertlight/alertlight.object": [
         "/novakidDescription"
       ]
     },
@@ -44,6 +33,18 @@
     "Texts": {
       "Eng": "Alert Light",
       "Por": "Alert Light"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/alertlight/alertlight.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neutral. A coloured light.",
+      "Por": "Neutro. Uma luz colorida."
     }
   },
   {

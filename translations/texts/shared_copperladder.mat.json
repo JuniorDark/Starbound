@@ -48,15 +48,15 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/copperladder.matitem": [
-        "/glitchdescription/glitchEmotedText"
+        "/glitchdescription"
       ],
       "tiles/platforms/copperladder.material": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "This ladder is made from copper.",
-      "Por": "Esta escada é feita de cobre."
+      "Eng": "Surprised. This ladder is made from copper.",
+      "Por": "Surpreso. Esta escada é feita de cobre."
     }
   }
 ]

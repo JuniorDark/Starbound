@@ -3,6 +3,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/fireflybush/fireflybush.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amazed. These fireflies fly in a hypnotic pattern.",
+      "Por": "Espantado. Esses vaga-lumes voam em um padrão hipnótico."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/fireflybush/fireflybush.object": [
         "/hylotlDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "These bugs are all lit up like tiny candles.",
       "Por": "Esses insetos são iluminados como pequenas velas."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/fireflybush/fireflybush.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "These fireflies fly in a hypnotic pattern."
     }
   },
   {

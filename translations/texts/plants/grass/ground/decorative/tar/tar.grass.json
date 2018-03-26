@@ -8,7 +8,19 @@
     },
     "Texts": {
       "Eng": "Gross, sticky tar.",
-      "Por": "Piche nojento e grudento"
+      "Por": "Piche grosso e grudento"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/tar/tar.grass": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. Useful tar.",
+      "Por": "Relatório. Piche útil."
     }
   },
   {
@@ -21,18 +33,6 @@
     "Texts": {
       "Eng": "Sticky tar.",
       "Por": "Piche grudento."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "plants/grass/ground/decorative/tar/tar.grass": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Useful tar.",
-      "Por": "Piche útil."
     }
   }
 ]

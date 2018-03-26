@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/prisonsign1/prisonsign1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "\"Cell Block\"."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/human/prisonsign1/prisonsign1.object": [
         "/floranDescription"
       ]
     },
@@ -68,6 +57,18 @@
     "Texts": {
       "Eng": "I've always wanted to visit a cell block! Wait, no, I'm thinking of the zoo.",
       "Por": "Eu sempre quis visitar um bloco de celas! Espere, não, estou pensando no zoológico."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisonsign1/prisonsign1.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neutral. \"Cell Block\".",
+      "Por": "Neutro. \"Bloco de Celas\"."
     }
   },
   {

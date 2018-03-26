@@ -63,23 +63,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/caveart4/caveart4.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Maybe I am wrong, but... This painting is sorely familiar."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/mission/caveart4/caveart4.object": [
         "/humanDescription"
       ]
     },
     "Texts": {
       "Eng": "Oh no... How did a picture of this get here?!",
       "Por": "Ah não... Como uma pintura disto chegou aqui?!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/caveart4/caveart4.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Terrified. Maybe I am wrong, but... This painting is sorely familiar.",
+      "Por": "Aterrorizado. Talvez eu esteja errado, mas... Esta pintura é muito familiar."
     }
   },
   {

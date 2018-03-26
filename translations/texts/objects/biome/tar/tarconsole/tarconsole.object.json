@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/tar/tarconsole/tarconsole.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. The technical applications of tar appear to be greater than Glitch once presumed.",
+      "Por": "Impressionado. As aplicações técnicas do piche parecem ser maiores do que os Glitch uma vez presumiram."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/tar/tarconsole/tarconsole.object": [
         "/novakidDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "The potential of a natural substance once again being pushed to its practical limits.",
       "Por": "O potencial de uma substância natural mais uma vez sendo empurrado para seus limites práticos."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/tar/tarconsole/tarconsole.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The technical applications of tar appear to be greater than Glitch once presumed."
     }
   }
 ]

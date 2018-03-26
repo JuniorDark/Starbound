@@ -87,6 +87,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/medievallargecookingpot/medievallargecookingpot.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sentimental. This pot smells like many of my favourite meals.",
+      "Por": "Sentimental. Esta panela cheira a muitos dos meus pratos favoritos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/medievallargecookingpot/medievallargecookingpot.object": [
         "/floranDescription"
       ]
     },
@@ -105,17 +117,6 @@
     "Texts": {
       "Eng": "This cooking pot expels the odour of a hundred hearty meals.",
       "Por": "Esta panela expele o odor de uma centena de refeições saudáveis."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/glitch/medievallargecookingpot/medievallargecookingpot.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This pot smells like many of my favourite meals."
     }
   }
 ]

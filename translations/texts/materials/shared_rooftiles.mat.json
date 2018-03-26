@@ -3,6 +3,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/rooftiles.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/rooftiles.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. These roof tiles are sloped to allow for easy rain run off.",
+      "Por": "Atento. Estas telhas de telhado são inclinadas para permitir a chuva escorrer facilmente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rooftiles.matitem": [
         "/shortdescription"
       ],
       "tiles/materials/rooftiles.material": [
@@ -33,21 +48,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/rooftiles.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/rooftiles.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "These roof tiles are sloped to allow for easy rain run off.",
-      "Por": "Estas telhas são inclinadas para permitir que a chuva escorra fácil."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/rooftiles.matitem": [
         "/novakiddescription"
       ],
       "tiles/materials/rooftiles.material": [
@@ -60,7 +60,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Telhas desgastadas. Sua forma me faz sentir desconfortável."
+    ],
     "Files": {
       "items/materials/rooftiles.matitem": [
         "/description"

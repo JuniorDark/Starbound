@@ -87,23 +87,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/bardoor/bardoor.object": [
-        "/avianDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "The Avians used doors much like these to guard their tombs.",
-      "Por": "Os Avians usavam portas como estas para guardar as suas tumbas."
+      "Eng": "Surprised. This looks similar to the cell doors in Glitch dungeons.",
+      "Por": "Surpreso. Isso se parece com as portas de celas em calabouços Glitch."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/bardoor/bardoor.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/avianDescription"
       ]
     },
     "Texts": {
-      "Eng": "This looks similar to the cell doors in Glitch dungeons."
+      "Eng": "The Avians used doors much like these to guard their tombs.",
+      "Por": "Os Avians usavam portas como estas para guardar as suas tumbas."
     }
   }
 ]

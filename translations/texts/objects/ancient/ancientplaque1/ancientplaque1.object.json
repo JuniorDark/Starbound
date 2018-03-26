@@ -39,24 +39,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/ancient/ancientplaque1/ancientplaque1.object": [
-        "/floranDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Floran cannot read thisss. Boring!",
-      "Por": "Floran não pode ler isto. Chato!"
+      "Eng": "Confused. I cannot parse the meaning of this ruin.",
+      "Por": "Confuso. Eu não posso analisar o significado desta ruína."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/ancient/ancientplaque1/ancientplaque1.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/floranDescription"
       ]
     },
     "Texts": {
-      "Eng": "I cannot parse the meaning of this ruin.",
-      "Por": "Não consigo analisar o significado desta ruína."
+      "Eng": "Floran cannot read thisss. Boring!",
+      "Por": "Floran não pode ler isto. Chato!"
     }
   },
   {

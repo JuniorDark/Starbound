@@ -51,11 +51,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/vendingmachine/vendingmachine.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "I can't decide what to buy."
+      "Eng": "Indecisive. I can't decide what to buy.",
+      "Por": "Indeciso. Não consigo decidir o que comprar."
     }
   },
   {

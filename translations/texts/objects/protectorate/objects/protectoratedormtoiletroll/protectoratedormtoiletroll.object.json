@@ -75,23 +75,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/protectorate/objects/protectoratedormtoiletroll/protectoratedormtoiletroll.object": [
-        "/humanDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "The horror of realising the toilet roll holder is empty! Luckily, this one isn't.",
-      "Por": "O horror de perceber o suporte de rolo do banheiro estár vazio! Por sorte, este não esta."
+      "Eng": "Sympathetic. This toilet roll has an undesirable job.",
+      "Por": "Simpático. Este rolo de papel higiênico tem um trabalho indesejável."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/protectorate/objects/protectoratedormtoiletroll/protectoratedormtoiletroll.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/humanDescription"
       ]
     },
     "Texts": {
-      "Eng": "This toilet roll has an undesirable job."
+      "Eng": "The horror of realising the toilet roll holder is empty! Luckily, this one isn't.",
+      "Por": "O horror de perceber o suporte de rolo do banheiro estár vazio! Por sorte, este não esta."
     }
   },
   {

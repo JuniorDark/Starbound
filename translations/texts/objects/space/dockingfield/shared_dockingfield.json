@@ -33,6 +33,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/space/dockingfield/dockingfield.object": [
+        "/glitchDescription"
+      ],
+      "objects/space/dockingfield/dockingfieldsmall.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Informed. This field is a special energy type meant to contain atmosphere and artificial gravity.",
+      "Por": "Informado. Este campo é um tipo de energia especial destinado a conter a atmosfera e a gravidade artificial."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/dockingfield/dockingfield.object": [
         "/avianDescription"
       ],
       "objects/space/dockingfield/dockingfieldsmall.object": [
@@ -72,21 +87,6 @@
     "Texts": {
       "Eng": "This energy field can contain both atmosphere and artificial gravity.",
       "Por": "Este campo de energia pode conter ambos a atmosfera e a gravidade artificial."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/space/dockingfield/dockingfield.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/space/dockingfield/dockingfieldsmall.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This field is a special energy type meant to contain atmosphere and artificial gravity.",
-      "Por": "Este campo é um tipo de energia especial destinado a conter a atmosfera e a gravidade artificial."
     }
   },
   {

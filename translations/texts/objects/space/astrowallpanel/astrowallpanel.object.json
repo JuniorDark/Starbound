@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/space/astrowallpanel/astrowallpanel.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Confused. The function of this panel is not understood.",
+      "Por": "Confuso. A função deste painel não é compreendida."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/astrowallpanel/astrowallpanel.object": [
         "/avianDescription"
       ]
     },
@@ -81,18 +93,6 @@
     "Texts": {
       "Eng": "Sssome kind of plastic panel.",
       "Por": "Algum tipo de painel de plástico."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/space/astrowallpanel/astrowallpanel.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The function of this panel is not understood.",
-      "Por": "A função deste painel não é compreendida."
     }
   },
   {

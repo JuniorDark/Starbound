@@ -3,6 +3,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/woodbridge.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/woodbridge.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Charmed. This aged wood creaks with age.",
+      "Por": "Encantado. Esta madeira envelhecida range com a idade."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/woodbridge.matitem": [
         "/novakiddescription"
       ],
       "tiles/materials/woodbridge.material": [
@@ -42,21 +57,6 @@
     "Texts": {
       "Eng": "The wood is very old and creaks in the wind.",
       "Por": "A madeira é muito antiga e range no vento."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/woodbridge.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/woodbridge.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This aged wood creaks with age.",
-      "Por": "Esta madeira envelhecida range com a idade."
     }
   },
   {

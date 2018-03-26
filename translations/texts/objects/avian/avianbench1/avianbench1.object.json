@@ -51,23 +51,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/avianbench1/avianbench1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A hand-made bench."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avian/avianbench1/avianbench1.object": [
         "/floranDescription"
       ]
     },
     "Texts": {
       "Eng": "Bench ssmell of good wood, well grown.",
       "Por": "Banco tem cheiro de madeira boa, bem crescida."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/avianbench1/avianbench1.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Charmed. A hand-made bench.",
+      "Por": "Encantado. Um banco feito à mão."
     }
   },
   {

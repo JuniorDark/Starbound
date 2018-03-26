@@ -66,6 +66,33 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/strangeweb1/strangeweb1.object": [
+        "/glitchDescription"
+      ],
+      "objects/mission/strangeweb1/strangeweb2.object": [
+        "/glitchDescription"
+      ],
+      "objects/mission/strangeweb1/strangeweb3.object": [
+        "/glitchDescription"
+      ],
+      "objects/mission/strangeweb1/strangeweb4.object": [
+        "/glitchDescription"
+      ],
+      "objects/mission/strangeweb1/strangeweb5.object": [
+        "/glitchDescription"
+      ],
+      "objects/mission/strangeweb1/strangeweb6.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. This fluid-like substance was created by something organic.",
+      "Por": "Observador. Esta substância fluida foi criada por algo orgânico."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/strangeweb1/strangeweb1.object": [
         "/floranDescription"
       ],
       "objects/mission/strangeweb1/strangeweb2.object": [
@@ -141,32 +168,6 @@
     "Texts": {
       "Eng": "Strange organic webbing.",
       "Por": "Teia orgânica estranha."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/mission/strangeweb1/strangeweb1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/mission/strangeweb1/strangeweb2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/mission/strangeweb1/strangeweb3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/mission/strangeweb1/strangeweb4.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/mission/strangeweb1/strangeweb5.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/mission/strangeweb1/strangeweb6.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This fluid-like substance was created by something organic."
     }
   },
   {

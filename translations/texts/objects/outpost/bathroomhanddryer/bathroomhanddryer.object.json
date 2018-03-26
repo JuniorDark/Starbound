@@ -15,17 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/bathroomhanddryer/bathroomhanddryer.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A hand dryer - useful for preventing rust."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/outpost/bathroomhanddryer/bathroomhanddryer.object": [
         "/apexDescription"
       ]
     },
@@ -80,6 +69,18 @@
     "Texts": {
       "Eng": "It's a bit basic.",
       "Por": "É um pouco básico."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/bathroomhanddryer/bathroomhanddryer.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased. A hand dryer - useful for preventing rust.",
+      "Por": "Satisfeito. Um secador de mão - útil para prevenir a ferrugem."
     }
   },
   {

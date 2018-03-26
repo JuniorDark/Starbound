@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/flowerblue/flowerblue.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A blue flower. It has a practical use in creating dye."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/farmables/flowerblue/flowerblue.object": [
         "/apexDescription"
       ]
     },
@@ -31,7 +20,7 @@
     },
     "Texts": {
       "Eng": "A blue flower? This must be useful for somethin'.",
-      "Por": "Uma flor azul? Isso deve ser útil para alguma coisa."
+      "Por": "Uma flor azul? Isso deve ser útil pra alguma coisa."
     }
   },
   {
@@ -90,7 +79,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Blue Flower"
+      "Eng": "Blue Flower",
+      "Por": "Blue Flower"
     }
   },
   {
@@ -103,6 +93,18 @@
     "Texts": {
       "Eng": "Thiss blue flower can be used to colour clothes!",
       "Por": "Esta flor azul pode ser usada para colorir roupas!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/flowerblue/flowerblue.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thoughtful. A blue flower. It has a practical use in creating dye.",
+      "Por": "Pensativo. Uma flor azul. Ela tem um uso prático na fabricação de tintura."
     }
   }
 ]

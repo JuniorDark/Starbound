@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma placa brilhante."
+    ],
     "Files": {
       "objects/hylotl/pumpsign/pumpsign.object": [
         "/hylotlDescription"
@@ -12,21 +14,6 @@
     "Texts": {
       "Eng": "A soft glowing sign.",
       "Por": "Uma placa que brilha suavemente."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/hylotl/pumpsign/pumpsign.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/mission/miningpowersign/miningpowersign.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This low power sign has two states.",
-      "Por": "Esta placa de baixa potência tem dois estados."
     }
   }
 ]

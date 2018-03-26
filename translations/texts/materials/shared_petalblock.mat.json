@@ -3,6 +3,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/petalblock.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/petalblock.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Delighted. These leaves smell of earth and flowers.",
+      "Por": "Encantado. Estas folhas tem cheiro de terra e flores."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/petalblock.matitem": [
         "/florandescription"
       ],
       "tiles/materials/petalblock.material": [
@@ -15,7 +30,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Flores e folhas negras que tem um cheiro doce."
+    ],
     "Files": {
       "items/materials/petalblock.matitem": [
         "/description"
@@ -26,7 +43,7 @@
     },
     "Texts": {
       "Eng": "Sweet smelling dark leaves and flowers.",
-      "Por": "Flores e folhas negras que tem um cheiro doce."
+      "Por": "Cheiro doce de folhas escuras e flores."
     }
   },
   {
@@ -42,21 +59,6 @@
     "Texts": {
       "Eng": "There's some real nice flowers growin' here.",
       "Por": "Há algumas flores realmente agradáveis ​​crescendo aqui."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/petalblock.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/petalblock.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "These leaves smell of earth and flowers.",
-      "Por": "Estas folhas cheiram a terra e a flores."
     }
   }
 ]

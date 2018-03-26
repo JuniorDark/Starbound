@@ -3,7 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "plants/bushes/ground/savannahgreenbush/savannahgreenbush.bush": [
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ]
     },
@@ -34,6 +33,18 @@
     "Texts": {
       "Eng": "Dry busssh.",
       "Por": "Arbusto seco."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/savannahgreenbush/savannahgreenbush.bush": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. A brittle, dry bush.",
+      "Por": "Relatório. Uma arbusto seco e frágil."
     }
   }
 ]

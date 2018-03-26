@@ -58,5 +58,17 @@
       "Eng": "I don't think this gold ball is made of gold at all...",
       "Por": "Eu não acho que essa bola de ouro é realmente feita de ouro..."
     }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/holiday/goldball/goldball.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Joyful. A lovely decoration.",
+      "Por": "Alegre. Uma decoração adorável."
+    }
   }
 ]

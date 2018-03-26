@@ -63,6 +63,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/floranbookcase/floranbookcase.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. This bookcase has not been touched in a long time.",
+      "Por": "Observador. Esta estante não foi tocada em muito tempo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/floranbookcase/floranbookcase.object": [
         "/shortdescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "The Floran seem to incorporate death into every item, even this bookcase.",
       "Por": "Os Floran parecem incorporar a morte em cada item, até mesmo nesta estante."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/floran/floranbookcase/floranbookcase.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This bookcase has not been touched in a long time."
     }
   }
 ]

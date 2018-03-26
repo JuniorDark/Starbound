@@ -3,6 +3,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/aztec.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/aztec.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fascinated. I do not know what these glyphs say.",
+      "Por": "Fascinado. Eu não sei o que esses glifos dizem."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/aztec.matitem": [
         "/florandescription"
       ],
       "tiles/materials/aztec.material": [
@@ -27,21 +42,6 @@
     "Texts": {
       "Eng": "Glyph Block",
       "Por": "Glyph Block"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/aztec.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/aztec.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I do not know what these glyphs say.",
-      "Por": "Não sei o que esses glifos dizem."
     }
   },
   {

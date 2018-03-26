@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Um rifle militar totalmente automático."
+    ],
     "Files": {
       "items/active/weapons/npc/npcassaultrifle.activeitem": [
         "/description"

@@ -15,17 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/foundry/foundrysupport/foundrysupport.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A girder."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/foundry/foundrysupport/foundrysupport.object": [
         "/humanDescription"
       ]
     },
@@ -68,6 +57,18 @@
     "Texts": {
       "Eng": "A strong metal support bracket.",
       "Por": "Um suporte de sustentação de metal forte."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/foundry/foundrysupport/foundrysupport.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disinterested. A girder.",
+      "Por": "Desinteressado. Uma viga."
     }
   },
   {

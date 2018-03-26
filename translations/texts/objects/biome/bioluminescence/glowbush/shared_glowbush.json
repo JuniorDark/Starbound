@@ -123,6 +123,30 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/bioluminescence/glowbush/glowbush1.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/bioluminescence/glowbush/glowbush2.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/bioluminescence/glowbush/glowbush3.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/bioluminescence/glowbush/glowbush4.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/bioluminescence/glowbush/glowbush5.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intrigued. These flowers are surprisingly well adapted to this harsh environment.",
+      "Por": "Intrigado. Estas flores são surpreendentemente bem adaptadas para este ambiente hostil."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/bioluminescence/glowbush/glowbush1.object": [
         "/apexDescription"
       ],
       "objects/biome/bioluminescence/glowbush/glowbush2.object": [
@@ -141,29 +165,6 @@
     "Texts": {
       "Eng": "Pretty glowing flowers.",
       "Por": "Flores muito brilhantes."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/bioluminescence/glowbush/glowbush1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/bioluminescence/glowbush/glowbush2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/bioluminescence/glowbush/glowbush3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/bioluminescence/glowbush/glowbush4.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/bioluminescence/glowbush/glowbush5.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "These flowers are surprisingly well adapted to this harsh environment."
     }
   },
   {

@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Um pedaço de madeira alienígena listrada."
+    ],
     "Files": {
       "items/materials/alienstripedwood.matitem": [
         "/description"
@@ -18,15 +20,15 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/alienstripedwood.matitem": [
-        "/glitchdescription/glitchEmotedText"
+        "/glitchdescription"
       ],
       "tiles/materials/alienstripedblock.material": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "It appears the stripes present in this wood are the result of materials that repel one another.",
-      "Por": "Parece que as listras presentes nesta madeira são o resultado de materiais que se repelem."
+      "Eng": "Interested. It appears the stripes present in this wood are the result of materials that repel one another.",
+      "Por": "Interessado. Parece que as listras presentes nesta madeira são o resultado de materiais que repelem um ao outro."
     }
   },
   {
@@ -41,7 +43,7 @@
     },
     "Texts": {
       "Eng": "SSssstripey wood. Makess sstripey housse!",
-      "Por": "Madeira lissstrada. Faz casssa listrada!"
+      "Por": "Madeira listrada. Faz casssa listrada!"
     }
   },
   {

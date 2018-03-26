@@ -99,17 +99,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/microwave/microwave.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Microwaves can be somewhat damaging to Glitch circuitry."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/human/microwave/microwave.object": [
         "/novakidDescription"
       ]
     },
@@ -128,6 +117,18 @@
     "Texts": {
       "Eng": "Nuke all the foods!",
       "Por": "Bombardeie todos os alimentos!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/microwave/microwave.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Uncomfortable. Microwaves can be somewhat damaging to Glitch circuitry.",
+      "Por": "Desconfortável. Microondas podem ser um pouco prejudicial aos circuitos Glitch."
     }
   }
 ]

@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/frogmerchant/frogmerchant.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Concerned. This frog seems unwilling to communicate.",
+      "Por": "Preocupado. Este sapo não parece disposto a se comunicar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/frogmerchant/frogmerchant.object": [
         "/floranDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "If I kiss it, do you think it'll turn into a prince merchant?",
       "Por": "Se eu beijá-lo, você acha que ele vai se transformar em um príncipe comerciante?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/frogmerchant/frogmerchant.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This frog seems unwilling to communicate."
     }
   },
   {

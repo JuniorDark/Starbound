@@ -15,17 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/medievalglobe/medievalglobe.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A globe, made by a poor cartographer."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/glitch/medievalglobe/medievalglobe.object": [
         "/apexDescription"
       ]
     },
@@ -68,6 +57,18 @@
     "Texts": {
       "Eng": "According to my ship, this globe is completely inaccurate.",
       "Por": "De acordo com a minha nave, este globo é completamente impreciso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/medievalglobe/medievalglobe.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disappointed. A globe, made by a poor cartographer.",
+      "Por": "Desapontado. Um globo, feito por um cartógrafo pobre."
     }
   },
   {

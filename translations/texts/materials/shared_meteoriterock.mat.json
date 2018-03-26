@@ -48,6 +48,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/meteoriterock.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/meteoriterock.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Perceptive. This rock is of extraterrestrial origin.",
+      "Por": "Perceptivo. Esta rocha é de origem extraterrestre."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/meteoriterock.matitem": [
         "/novakiddescription"
       ],
       "tiles/materials/meteoriterock.material": [
@@ -57,21 +72,6 @@
     "Texts": {
       "Eng": "These space rocks ain't like the ones on the ground.",
       "Por": "Estas rochas espaciais não são como as que estão no chão."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/meteoriterock.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/meteoriterock.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This rock is of extraterrestrial origin.",
-      "Por": "Esta rocha é de origem extraterrestre."
     }
   }
 ]

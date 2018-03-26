@@ -3,21 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/darksmoothstone.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/darksmoothstone.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A dark brick made from an unknown stone.",
-      "Por": "Um tijolo escuro feito de uma pedra desconhecida."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/darksmoothstone.matitem": [
         "/novakiddescription"
       ],
       "tiles/materials/darksmoothstone.material": [
@@ -30,7 +15,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Um bloco de pedra lisa e escura."
+    ],
     "Files": {
       "items/materials/darksmoothstone.matitem": [
         "/description"
@@ -42,6 +29,21 @@
     "Texts": {
       "Eng": "A dark, smooth stone block.",
       "Por": "Um bloco de pedra liso e escuro."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/darksmoothstone.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/darksmoothstone.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. A dark brick made from an unknown stone.",
+      "Por": "Curioso. Um tijolo escuro feito de uma pedra desconhecida."
     }
   },
   {

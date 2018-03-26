@@ -87,23 +87,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/novakid/salooncabinet/salooncabinet.object": [
-        "/shortdescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Saloon Cabinet",
-      "Por": "Saloon Cabinet"
+      "Eng": "Observant. The liquid inside these bottles appears to be juice.",
+      "Por": "Observador. O líquido dentro dessas garrafas parece ser suco."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/novakid/salooncabinet/salooncabinet.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "The liquid inside these bottles appears to be juice."
+      "Eng": "Saloon Cabinet",
+      "Por": "Saloon Cabinet"
     }
   }
 ]

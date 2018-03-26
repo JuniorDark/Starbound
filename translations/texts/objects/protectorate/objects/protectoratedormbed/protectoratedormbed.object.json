@@ -27,17 +27,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/protectorate/objects/protectoratedormbed/protectoratedormbed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I wouldn't mind going back to sleep, but I guess I should hurry to the ceremony."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/protectorate/objects/protectoratedormbed/protectoratedormbed.object": [
         "/humanDescription"
       ]
     },
@@ -104,6 +93,18 @@
     "Texts": {
       "Eng": "These beds are simple in design. They are incredibly comfortable though.",
       "Por": "Estas camas são simples no projeto. Eles são incrivelmente confortável embora."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/protectorate/objects/protectoratedormbed/protectoratedormbed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tired. I wouldn't mind going back to sleep, but I guess I should hurry to the ceremony.",
+      "Por": "Cansado. Eu não me importaria de voltar a dormir, mas acho que devo me apressar para a cerimônia."
     }
   }
 ]

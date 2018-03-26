@@ -15,17 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/flagnovakid/flagnovakid.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A small locator module attached to this Novakid flag allows it to be bookmarked for teleportation."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/flagnovakid/flagnovakid.object": [
         "/shortdescription"
       ]
     },
@@ -44,6 +33,18 @@
     "Texts": {
       "Eng": "Novakid flag makess good point to teleport back to ussing teleporter!",
       "Por": "Bandeira Novakid faz um bom ponto para teleportar de volta utilizando teletransportador!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/flagnovakid/flagnovakid.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. A small locator module attached to this Novakid flag allows it to be bookmarked for teleportation.",
+      "Por": "Atento. Um pequeno módulo localizador anexado a esta bandeira Novakid permite que ele seja marcada para teletransporte."
     }
   },
   {

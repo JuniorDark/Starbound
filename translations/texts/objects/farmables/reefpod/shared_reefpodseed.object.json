@@ -33,6 +33,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/reefpod/reefpodseed.object": [
+        "/glitchDescription"
+      ],
+      "objects/farmables/reefpod/wildreefpodseed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Confused. Reefpod are certainly unusual. How can a fruit taste salty?",
+      "Por": "Confuso. Reefpod são certamente incomuns. Como pode uma fruta ser salgada?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/reefpod/reefpodseed.object": [
         "/avianDescription"
       ],
       "objects/farmables/reefpod/wildreefpodseed.object": [
@@ -72,20 +87,6 @@
     "Texts": {
       "Eng": "Reefpod Seed",
       "Por": "Reefpod Seed"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/farmables/reefpod/reefpodseed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/farmables/reefpod/wildreefpodseed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Reefpod are certainly unusual. How can a fruit taste salty?"
     }
   },
   {

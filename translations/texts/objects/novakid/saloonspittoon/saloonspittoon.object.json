@@ -51,17 +51,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/novakid/saloonspittoon/saloonspittoon.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I regret analyzing this pot's contents."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/novakid/saloonspittoon/saloonspittoon.object": [
         "/humanDescription"
       ]
     },
@@ -80,6 +69,18 @@
     "Texts": {
       "Eng": "It's full of spit...",
       "Por": "Está cheio de cuspe..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/novakid/saloonspittoon/saloonspittoon.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nauseous. I regret analyzing this pot's contents.",
+      "Por": "Náuseado. Me arrependo de ter analisado o conteúdo desta panela."
     }
   },
   {

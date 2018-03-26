@@ -45,27 +45,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/themed/farm/kitchencabinet1/kitchencabinet1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/themed/farm/kitchencabinet2/kitchencabinet2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/themed/farm/kitchenceilingcabinet1/kitchenceilingcabinet1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/themed/farm/kitchenceilingcabinet2/kitchenceilingcabinet2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A well-crafted kitchen storage system.",
-      "Por": "Um sistema de armazenamento de cozinha bem trabalhado."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/themed/farm/kitchencabinet1/kitchencabinet1.object": [
         "/floranDescription"
       ],
       "objects/themed/farm/kitchencabinet2/kitchencabinet2.object": [
@@ -81,6 +60,27 @@
     "Texts": {
       "Eng": "Floran will fill cabinet with tasssty foodsss!",
       "Por": "Floran irá preencher armário com alimentosss saborososss!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/farm/kitchencabinet1/kitchencabinet1.object": [
+        "/glitchDescription"
+      ],
+      "objects/themed/farm/kitchencabinet2/kitchencabinet2.object": [
+        "/glitchDescription"
+      ],
+      "objects/themed/farm/kitchenceilingcabinet1/kitchenceilingcabinet1.object": [
+        "/glitchDescription"
+      ],
+      "objects/themed/farm/kitchenceilingcabinet2/kitchenceilingcabinet2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Satisfied. A well-crafted kitchen storage system.",
+      "Por": "Satisfeito. Um sistema de armazenamento de cozinha bem elaborado."
     }
   },
   {

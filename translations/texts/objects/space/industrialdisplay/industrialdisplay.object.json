@@ -39,24 +39,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/space/industrialdisplay/industrialdisplay.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I wonder where the information on this display is coming from.",
-      "Por": "Gostaria de saber de onde vem a informação nesta tela."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/space/industrialdisplay/industrialdisplay.object": [
         "/shortdescription"
       ]
     },
     "Texts": {
       "Eng": "Industrial Display",
       "Por": "Industrial Display"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/industrialdisplay/industrialdisplay.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intrigued. I wonder where the information on this display is coming from.",
+      "Por": "Intrigado. Me pergunto de onde as informações nesta tela estão vindo."
     }
   },
   {

@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/apexpod/apexpod.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shocked. What is going on here!?",
+      "Por": "Chocado. O que está acontecendo aqui!?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/apexpod/apexpod.object": [
         "/floranDescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "This just don't seem right to me.",
       "Por": "Isto não parece certo pra mim."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/apex/apexpod/apexpod.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "What is going on here!?"
     }
   },
   {

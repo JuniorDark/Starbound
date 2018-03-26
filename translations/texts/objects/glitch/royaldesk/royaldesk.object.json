@@ -27,17 +27,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/royaldesk/royaldesk.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A writing desk. Usually manned by the King's page."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/glitch/royaldesk/royaldesk.object": [
         "/novakidDescription"
       ]
     },
@@ -56,6 +45,18 @@
     "Texts": {
       "Eng": "It looks like a writing desk, but there's not a spot of ink on its surface.",
       "Por": "Parece uma escrivaninha, mas não há uma mancha de tinta na superfície."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/royaldesk/royaldesk.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observe. A writing desk. Usually manned by the King's page.",
+      "Por": "Observador. Uma escrivaninha. Normalmente, tripulada pelo rei."
     }
   },
   {

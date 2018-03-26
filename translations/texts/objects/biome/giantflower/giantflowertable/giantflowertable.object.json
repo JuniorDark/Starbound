@@ -39,23 +39,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/giantflower/giantflowertable/giantflowertable.object": [
-        "/floranDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Table will wobble when Floran ssslice meat.",
-      "Por": "Mesa vai balançar quando Floran fatiar carne."
+      "Eng": "Impressed. This giant flower is the product of years of careful cultivation.",
+      "Por": "Impressionado. Esta flor gigante é o produto de anos de cultivo cuidadoso."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/giantflower/giantflowertable/giantflowertable.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/floranDescription"
       ]
     },
     "Texts": {
-      "Eng": "This giant flower is the product of years of careful cultivation."
+      "Eng": "Table will wobble when Floran ssslice meat.",
+      "Por": "Mesa vai balançar quando Floran fatiar carne."
     }
   }
 ]

@@ -3,20 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/hylotlsymbolb/hylotlsymbolb.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/hylotl/hylotlsymbolg/hylotlsymbolg.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A decorated lily pad is still a lily pad."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/hylotl/hylotlsymbolb/hylotlsymbolb.object": [
         "/apexDescription"
       ],
       "objects/hylotl/hylotlsymbolg/hylotlsymbolg.object": [
@@ -26,6 +12,21 @@
     "Texts": {
       "Eng": "A lily pad with a symbol on it.",
       "Por": "Uma vitória régia com um símbolo nela."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/hylotlsymbolb/hylotlsymbolb.object": [
+        "/glitchDescription"
+      ],
+      "objects/hylotl/hylotlsymbolg/hylotlsymbolg.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Critical. A decorated lily pad is still a lily pad.",
+      "Por": "Crítico. Uma vitória régia decorada ainda é uma vitória régia."
     }
   },
   {

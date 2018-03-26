@@ -27,24 +27,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/wreck/wreckscreen/wreckscreen.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Broken beyond repair.",
-      "Por": "Quebrado além do reparo."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/wreck/wreckscreen/wreckscreen.object": [
         "/apexDescription"
       ]
     },
     "Texts": {
       "Eng": "Completely broken, not much use.",
       "Por": "Completamente quebrado, não tem muito uso agora."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wreck/wreckscreen/wreckscreen.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disappointed. Broken beyond repair.",
+      "Por": "Decepcionado. Quebrado além do reparo."
     }
   },
   {

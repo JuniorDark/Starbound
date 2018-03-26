@@ -51,18 +51,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/quest.config": [
-        "/borrow/giftProvided/glitch/default/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "<questGiver> can borrow my <item> if they need it!",
-      "Por": "<questGiver> pode emprestar meu <item> se ele precisa!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/quest.config": [
         "/borrow/giftProvided/avian/default/1"
       ]
     },
@@ -135,18 +123,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/quest.config": [
-        "/kill_npcs/assistantIntro/glitch/default/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "<questGiver> has contracted me to aid you in your battle with the <enemy>!",
-      "Por": "<questGiver> me contratou para ajudá-lo na sua batalha com o <enemy>!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/quest.config": [
         "/gift/giftAccepted2/hylotl/default/0"
       ]
     },
@@ -183,7 +159,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/quest.config": [
-        "/gift/giftAccepted2/glitch/default/0/glitchEmotedText",
         "/gift/giftAccepted2/human/default/1"
       ]
     },
@@ -204,18 +179,6 @@
     "Texts": {
       "Eng": "<questGiver> is a great friend.",
       "Por": "<questGiver> é um grande amigo."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/quest.config": [
-        "/gift/giftAccepted2/glitch/default/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "<questGiver> is a kind person.",
-      "Por": "<questGiver> é uma pessoa gentil."
     }
   },
   {
@@ -294,18 +257,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/quest.config": [
-        "/bribe/giftAccepted/glitch/default/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A bribe! Give my thanks to <questGiver>.",
-      "Por": "Um suborno! Dê meus agradecimentos a <questGiver>."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/quest.config": [
         "/gift/giftAccepted/hylotl/default/1"
       ]
     },
@@ -330,12 +281,60 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/quest.config": [
+        "/kill_npc/surrender/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Afraid. I surrender! Please, put away your weapon.",
+      "Por": "Receoso. Eu me rendo! Por favor, guarda sua arma."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
+        "/intimidate/intimidated/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alarmed. Don't hurt me with that <item> - Tell <questGiver> I'll do anything!",
+      "Por": "Alarmado. Não me machuque com esse <item> - Diga a <questGiver> que eu farei qualquer coisa!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
         "/collect_fine/fineCollected/novakid/default/1"
       ]
     },
     "Texts": {
       "Eng": "Alright alright, I'll pay up! Yer cornered me!",
       "Por": "Tudo bem, vou pagar! Você me encurralou!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
+        "/kill_npcs/assistantIntro/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amicable. <questGiver> has contracted me to aid you in your battle with the <enemy>!",
+      "Por": "Amigável. <questGiver> me contratou para ajudá-lo em sua batalha com o <enemy>!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
+        "/barter/trade/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amicable. Thank you for the goods, here's <questGiver>'s <receivedItems>.",
+      "Por": "Amigável. Obrigado pelas mercadorias, aqui está os <receivedItems> de <questGiver>."
     }
   },
   {
@@ -393,6 +392,43 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/quest.config": [
+        "/collect_fine/fineCollected/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Annoyed. I'll pay the fine - What's the use in quibbling?",
+      "Por": "Irritado. Eu vou pagar a multa - eu não quero mais problemas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
+        "/gift/giftAccepted/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Appreciative. Please thank <questGiver> on my behalf!",
+      "Por": "Agradecido. Por favor agradeça <questGiver> em meu nome!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
+        "/bribe/requestAdditionToHouse/glitch/default/1",
+        "/gift/requestAdditionToHouse/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Appreciative. This gift is so nice, I should show it off. Could you place it in my home for me?",
+      "Por": "Agradecido. Esse presente é tão bom, eu deveria mostrar isso. Você poderia colocá-lo em minha casa para mim?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
         "/barter/trade/apex/default/0"
       ]
     },
@@ -411,18 +447,6 @@
     "Texts": {
       "Eng": "Are you here on behalf of <questGiver>? Here's the parcel. Thank you for these goods.",
       "Por": "Você está aqui em nome de <questGiver>? Aqui está o pacote. Obrigado por estas mercadorias."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/quest.config": [
-        "/intimidate/notIntimidated/glitch/default/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Are you trying to intimidate me on behalf of <questGiver>?",
-      "Por": "Você está tentando me intimidar em nome de <questGiver>?"
     }
   },
   {
@@ -477,12 +501,121 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/quest.config": [
+        "/gift/giftAccepted2/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cheerful. <questGiver> is a kind person.",
+      "Por": "Alegre. <questGiver> é uma pessoa amável."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
+        "/escort_trade/provideDelivery/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cheerful. Here are your goods! Enjoy!",
+      "Por": "Alegre. Aqui estão as suas mercadorias! Aproveite!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
+        "/collect_gift/giftProvided/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cheerful. I hope <questGiver> likes their new <item>!",
+      "Por": "Alegre. Espero que <questGiver> goste do seu novo <item>!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
+        "/bribe/giftAccepted2/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Concerned. I wonder why <questGiver> wanted to bribe me?",
+      "Por": "Preocupado. Eu me pergunto por que <questGiver> queria me subornar?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
+        "/intimidate/notIntimidated/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Confused. Are you trying to intimidate me on behalf of <questGiver>?",
+      "Por": "Confuso. Você está tentando me intimidar em nome de <questGiver>?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
+        "/escort/found/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Confused. I think I might be lost. Er, can you take me back to <questGiver>?",
+      "Por": "Confuso. Acho que posso estar perdido. Er, você pode me levar de volta para <questGiver>?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
         "/kidnapping/followHome/novakid/default/0"
       ]
     },
     "Texts": {
       "Eng": "Could you accompany me back to <questGiver>? I ain't feel too sharp right now...",
       "Por": "Você poderia me acompanhar de volta para <questGiver>? Eu não estou me sentindo muito forte agora..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
+        "/bribe/giftAccepted2/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. I wonder what <questGiver> wants from me?",
+      "Por": "Curioso. Eu me pergunto o que <questGiver> quer de mim?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
+        "/collect_fine/fineCollected/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Defeated. I guess I should pay the fine, I don't want to get into further trouble!",
+      "Por": "Derrotado. Eu acho que eu deveria pagar a multa, eu não quero entrar em mais problemas!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
+        "/bribe/requestAdditionToHouse/glitch/default/0",
+        "/gift/requestAdditionToHouse/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Delighted. What a wonderful gift! Perhaps you could place it in my home for me?",
+      "Por": "Encantado. Que presente maravilhoso! Talvez você poderia colocá-lo em minha casa para mim?"
     }
   },
   {
@@ -501,8 +634,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/quest.config": [
-        "/escort_trade/collectDelivery/default/default/0",
-        "/escort_trade/collectDelivery/glitch/default/0/glitchEmotedText"
+        "/escort_trade/collectDelivery/default/default/0"
       ]
     },
     "Texts": {
@@ -520,18 +652,6 @@
     "Texts": {
       "Eng": "Don't hurt Floran with <item>! Tell <questGiver> Floran will obey!",
       "Por": "Não machuque Floran com <item>! Diga a <questGiver> que Floran obedecerá!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/quest.config": [
-        "/intimidate/intimidated/glitch/default/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Don't hurt me with that <item> - Tell <questGiver> I'll do anything!",
-      "Por": "Não me machuque com esse <item> - Diga a <questGiver> que eu farei qualquer coisa!"
     }
   },
   {
@@ -594,6 +714,31 @@
     "Texts": {
       "Eng": "Don't point that <item> at me! Tell <questGiver> I'll do anything!",
       "Por": "Não aponte esse <item> para mim! Diga a <questGiver> que eu farei qualquer coisa!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
+        "/hat/crafting/glitch/default/0",
+        "/helmet/crafting/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eager. You have brought me the materials! Hold on one moment...",
+      "Por": "Ansioso. Você me trouxe os materiais! Aguarde um momento..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
+        "/request_craft/giftProvided/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Efficient. I've already made the <item> - Please take it.",
+      "Por": "Eficiente. Já fiz o <item> - Por favor, pegue."
     }
   },
   {
@@ -975,6 +1120,66 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/quest.config": [
+        "/escort/found/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flustered. I appear to be lost. Help me - take me back to <questGiver>?",
+      "Por": "Agitado. Eu pareço estar perdido. Ajude-me - leve-me de volta para <questGiver>?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
+        "/borrow/giftProvided/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Friendly. <questGiver> can borrow my <item> if they need it!",
+      "Por": "Amigável. <questGiver> pode pegar emprestado meu <item> se ele precisar!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
+        "/kill_npcs/assistantIntro/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Friendly. I have been hired by <questGiver> to help you in your quest.",
+      "Por": "Amigável. Eu fui contratado por <questGiver> para ajudá-lo em sua missão."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
+        "/collect_gift/giftProvided/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Friendly. Please take this <item> to <questGiver> - I hope they like it!",
+      "Por": "Amigável. Por favor, leve este <item> para <questGiver> - Espero que goste!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
+        "/request_craft/giftProvided/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Generous. You're in luck - I made this <item> earlier. Take it.",
+      "Por": "Generoso. Você está com sorte - eu fiz este <item> mais cedo. Pegue."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
         "/bribe/requestAdditionToHouse/floran/default/1",
         "/gift/requestAdditionToHouse/floran/default/1"
       ]
@@ -994,6 +1199,30 @@
     "Texts": {
       "Eng": "Gifts are a potent form of persuasion! Give my thanks to <questGiver>.",
       "Por": "Presentes são uma forma potente de persuasão! Agradeça a <questGiver>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
+        "/share_secret/pleaseTakeReply/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Grateful. Please take this reply back to <questGiver>.",
+      "Por": "Agradecido. Por favor leve essa resposta de volta para <questGiver>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
+        "/kidnapping/kidnappersDead/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Grateful. You saved me! My hero!",
+      "Por": "Agradecido. Você me salvou! Meu heroi!"
     }
   },
   {
@@ -1072,6 +1301,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/quest.config": [
+        "/gift/giftAccepted/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Happy. Tell <questGiver> that I appreciate their gift!",
+      "Por": "Feliz. Diga a <questGiver> Que eu gostei de seu presente!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
         "/intimidate/notIntimidated/apex/default/0",
         "/intimidate/notIntimidated/apex/default/1"
       ]
@@ -1121,18 +1362,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/quest.config": [
-        "/escort_trade/provideDelivery/glitch/default/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Here are your goods! Enjoy!",
-      "Por": "Aqui estão os seus bens! Aproveite!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/quest.config": [
         "/escort_trade/provideDelivery/hylotl/default/0"
       ]
     },
@@ -1151,18 +1380,6 @@
     "Texts": {
       "Eng": "Here are your goods, partner.",
       "Por": "Aqui estão as suas mercadorias, parceiro."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/quest.config": [
-        "/borrow/giftProvided/glitch/default/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Here is my <item> - Just tell <questGiver> to give it back soon.",
-      "Por": "Aqui está meu <item> - Só diga a <questGiver> para devolvê-lo em breve."
     }
   },
   {
@@ -1650,18 +1867,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/quest.config": [
-        "/escort/found/glitch/default/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I appear to be lost. Help me - take me back to <questGiver>?",
-      "Por": "Parece que estou perdido. Ajude-me - leve-me de volta para <questGiver>?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/quest.config": [
         "/return_stolen/objectTaken/default/default/0",
         "/return_stolen/objectTaken/human/default/0"
       ]
@@ -1735,30 +1940,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/quest.config": [
-        "/extort/giftProvided/glitch/default/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I don't want to get hurt! Take my <item> if that's what you need!",
-      "Por": "Eu não quero me machucar! Pegue meu <item> se é isso que você precisa!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/quest.config": [
-        "/collect_fine/fineCollected/glitch/default/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I guess I should pay the fine, I don't want to get into further trouble!",
-      "Por": "Acho que devo pagar a multa, não quero entrar em mais problemas!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/quest.config": [
         "/return_stolen/objectTaken/avian/default/0"
       ]
     },
@@ -1771,74 +1952,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/quest.config": [
-        "/kill_npcs/assistantIntro/glitch/default/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I have been hired by <questGiver> to help you in your quest.",
-      "Por": "Fui contratado por <questGiver> para ajudá-lo na sua missão."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/quest.config": [
-        "/hat/crafted/glitch/default/0/glitchEmotedText",
-        "/helmet/crafted/glitch/default/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I have finished crafting. Can you deliver this to <questGiver> for me?",
-      "Por": "Eu terminei de criar. Você pode entregar isso para <questGiver> para mim?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/quest.config": [
-        "/hat/crafted/glitch/default/1/glitchEmotedText",
-        "/helmet/crafted/glitch/default/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I have finished! Now please take this package to <questGiver> for me.",
-      "Por": "Eu terminei! Agora, por favor, leve este pacote para <questGiver> para mim."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/quest.config": [
-        "/return_stolen/objectTaken/glitch/default/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I have no idea how that <item> got here!",
-      "Por": "Não tenho ideia de como esse <item> chegou aqui!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/quest.config": [
         "/escort/found/apex/default/0"
       ]
     },
     "Texts": {
       "Eng": "I have no idea where I am. Please take me back to <questGiver>.",
       "Por": "Não tenho idéia de onde estou. Por favor, leve-me de volta para <questGiver>."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/quest.config": [
-        "/collect_gift/giftProvided/glitch/default/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I hope <questGiver> likes their new <item>!",
-      "Por": "Espero que <questGiver> goste de seu novo <item>!"
     }
   },
   {
@@ -1881,48 +2000,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/quest.config": [
-        "/kill_npc/surrender/glitch/default/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I surrender! Please, put away your weapon.",
-      "Por": "Eu me rendo! Por favor, guarde sua arma."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/quest.config": [
         "/kill_npc/surrender/default/default/0"
       ]
     },
     "Texts": {
       "Eng": "I surrender! Put away your weapon!",
       "Por": "Eu me rendo! Guarde sua arma!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/quest.config": [
-        "/kill_npc/surrender/glitch/default/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I surrender, put away your weapon.",
-      "Por": "Eu me rendo, guarde sua arma."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/quest.config": [
-        "/escort/found/glitch/default/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I think I might be lost. Er, can you take me back to <questGiver>?",
-      "Por": "Acho que posso estar perdido. Er, você pode me levar de volta para <questGiver>?"
     }
   },
   {
@@ -2004,48 +2087,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/quest.config": [
-        "/bribe/giftAccepted2/glitch/default/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I wonder what <questGiver> wants from me?",
-      "Por": "Me pergunto o que <questGiver> quer de mim?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/quest.config": [
-        "/bribe/giftAccepted2/glitch/default/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I wonder why <questGiver> wanted to bribe me?",
-      "Por": "Eu me pergunto por que <questGiver> queria me subornar?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/quest.config": [
         "/escort/found/hylotl/default/1"
       ]
     },
     "Texts": {
       "Eng": "I wondered while I wandered, and so I wandered off... Please, take me back to <questGiver>.",
       "Por": "Acho que posso estar perdido.... Por favor, me leve de volta para <questGiver>."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/quest.config": [
-        "/collect_fine/fineCollected/glitch/default/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I'll pay the fine - What's the use in quibbling?",
-      "Por": "Vou pagar a multa! Não há necessidade de perturbar a paz ainda mais."
     }
   },
   {
@@ -2149,18 +2196,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/quest.config": [
-        "/request_craft/giftProvided/glitch/default/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I've already made the <item> - Please take it.",
-      "Por": "Eu já fiz o <item> - Pegue-o."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/quest.config": [
         "/request_craft/giftProvided/hylotl/default/0"
       ]
     },
@@ -2191,6 +2226,30 @@
     "Texts": {
       "Eng": "I... Am very lost right now. Would you be able to take me to <questGiver>?",
       "Por": "Eu... Estou muito perdido agora. Você poderia me levar para <questGiver>?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
+        "/bribe/giftAccepted/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. Thank <questGiver> for this gift on my behalf!",
+      "Por": "Impressionado. Agradeça <questGiver> por este presente em meu nome!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
+        "/escort_trade/collectDelivery/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Interested. Do you have a delivery for me?",
+      "Por": "Interessado. Você tem uma entrega para mim?"
     }
   },
   {
@@ -2293,24 +2352,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/quest.config": [
-        "/return_stolen/objectTaken/novakid/default/0"
+        "/kill_npc/surrender/glitch/default/0"
       ]
     },
     "Texts": {
-      "Eng": "Jus' to let you know, I have no idea where that <item> came from!",
-      "Por": "Só para que você saiba, eu não tenho idéia de onde esse <item> veio!"
+      "Eng": "Judicious. I surrender, put away your weapon.",
+      "Por": "Judicioso. Eu me rendo, guarda sua arma."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "dialog/quest.config": [
-        "/extort/giftProvided/glitch/default/1/glitchEmotedText"
+        "/return_stolen/objectTaken/novakid/default/0"
       ]
     },
     "Texts": {
-      "Eng": "Just take my <item>! <questGiver> can have it!",
-      "Por": "Apenas pegue meu <item>! <questGiver> pode tê-lo!"
+      "Eng": "Jus' to let you know, I have no idea where that <item> came from!",
+      "Por": "Só para que você saiba, eu não tenho idéia de onde esse <item> veio!"
     }
   },
   {
@@ -2335,6 +2394,18 @@
     "Texts": {
       "Eng": "Mighty fine thanks for the goods - Here's <questGiver>'s <receivedItems>.",
       "Por": "Muito obrigado pela mercadoria - Aqui está os <receivedItems> de <questGiver>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
+        "/kill_npc/betray/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mischevious. You fool!",
+      "Por": "Travesso. Seu tolo!"
     }
   },
   {
@@ -2371,6 +2442,18 @@
     "Texts": {
       "Eng": "My web of lies has ensnared you!",
       "Por": "Minha rede de mentiras te enlaçou!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
+        "/return_stolen/objectTaken/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nervous. I have no idea how that <item> got here!",
+      "Por": "Nervoso. Eu não tenho idéia de como esse <item> chegou aqui!"
     }
   },
   {
@@ -2453,24 +2536,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/quest.config": [
-        "/kidnapping/followHome/glitch/default/1/glitchEmotedText"
+        "/extort/giftProvided/glitch/default/0"
       ]
     },
     "Texts": {
-      "Eng": "Perhaps you could escort me back to <questGiver>?",
-      "Por": "Talvez você possa me acompanhar de volta para <questGiver>?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/quest.config": [
-        "/collect_gift/giftProvided/glitch/default/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Please take this <item> to <questGiver> - I hope they like it!",
-      "Por": "Por favor, leve esse <item> para <questGiver> - espero que <questGiver> goste!"
+      "Eng": "Petrified. I don't want to get hurt! Take my <item> if that's what you need!",
+      "Por": "Aterrorizado. Eu não quero me machucar! Pegue o meu <item> se é isso que você precisa!"
     }
   },
   {
@@ -2491,7 +2562,6 @@
       "dialog/quest.config": [
         "/share_secret/pleaseTakeReply/apex/default/0",
         "/share_secret/pleaseTakeReply/default/default/0",
-        "/share_secret/pleaseTakeReply/glitch/default/0/glitchEmotedText",
         "/share_secret/pleaseTakeReply/human/default/0"
       ]
     },
@@ -2528,12 +2598,99 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/quest.config": [
-        "/gift/giftAccepted/glitch/default/0/glitchEmotedText"
+        "/gift/giftAccepted2/glitch/default/0"
       ]
     },
     "Texts": {
-      "Eng": "Please thank <questGiver> on my behalf!",
-      "Por": "Agradeça <questGiver> em meu nome!"
+      "Eng": "Pleased. <questGiver> is a good friend.",
+      "Por": "Satisfeito. <questGiver> é um bom amigo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
+        "/bribe/giftAccepted/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased. A bribe! Give my thanks to <questGiver>.",
+      "Por": "Satisfeito. Um suborno! Diga obrigado a <questGiver>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
+        "/hat/crafted/glitch/default/0",
+        "/helmet/crafted/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased. I have finished crafting. Can you deliver this to <questGiver> for me?",
+      "Por": "Satisfeito. Eu terminei de fazer. Você pode entregar isto para <questGiver> para mim?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
+        "/hat/crafting/glitch/default/1",
+        "/helmet/crafting/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased. You brought me the items we need! Just give me moment to craft this...",
+      "Por": "Satisfeito. Você me trouxe os itens que precisamos! Apenas me dê um momento para fazer isso..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
+        "/borrow/giftProvided/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reasonable. Here is my <item> - Just tell <questGiver> to give it back soon.",
+      "Por": "Sensato Aqui está o meu <item> - Apenas diga a <questGiver> para devolvê-lo em breve."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
+        "/kidnapping/kidnappersDead/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Relieved. Thank goodness you saved me!",
+      "Por": "Aliviado. Graças a Deus você me salvou!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
+        "/hat/crafted/glitch/default/1",
+        "/helmet/crafted/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Satisfied. I have finished! Now please take this package to <questGiver> for me.",
+      "Por": "Satisfeito. Acabei! Agora, por favor, leve este pacote para <questGiver> para mim."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
+        "/kill_npc/betray/glitch/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shocked. You actually fell for that?",
+      "Por": "Chocado. Você realmente caiu nisso?"
     }
   },
   {
@@ -2588,6 +2745,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/quest.config": [
+        "/kill_npc/betray/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Surprised. You actually fell for that?",
+      "Por": "Surpreso. Você realmente caiu nisso?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
         "/extort/giftProvided/hylotl/default/0"
       ]
     },
@@ -2612,36 +2781,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/quest.config": [
-        "/gift/giftAccepted/glitch/default/1/glitchEmotedText"
+        "/extort/giftProvided/glitch/default/1"
       ]
     },
     "Texts": {
-      "Eng": "Tell <questGiver> that I appreciate their gift!",
-      "Por": "Diga a <questGiver> que agradeço o seu presente!"
+      "Eng": "Terrified. Just take my <item>! <questGiver> can have it!",
+      "Por": "Aterrorizado. Apenas pegue meu <item>! <questGiver> pode tê-lo!"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "dialog/quest.config": [
-        "/bribe/giftAccepted/glitch/default/1/glitchEmotedText"
+        "/kidnapping/followHome/glitch/default/0"
       ]
     },
     "Texts": {
-      "Eng": "Thank <questGiver> for this gift on my behalf!",
-      "Por": "Agradeça <questGiver> por este presente em meu nome!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/quest.config": [
-        "/kidnapping/kidnappersDead/glitch/default/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Thank goodness you saved me!",
-      "Por": "Graças a deus você me salvou!"
+      "Eng": "Terrified. Um, could you take me back to <questGiver>?",
+      "Por": "Aterrorizado. Um, poderia me levar de volta a <questGiver>?"
     }
   },
   {
@@ -2692,18 +2849,6 @@
     "Texts": {
       "Eng": "Thank you for delivering this. Here's <questGiver>'s order!",
       "Por": "Obrigado por entregar isso. Aqui está a encomenda de <questGiver>!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/quest.config": [
-        "/barter/trade/glitch/default/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Thank you for the goods, here's <questGiver>'s <receivedItems>.",
-      "Por": "Obrigado pela mercadoria, aqui está o <receivedItems> de <questGiver>."
     }
   },
   {
@@ -2871,18 +3016,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/quest.config": [
-        "/return_stolen/objectTaken/glitch/default/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "That <item> wasn't stolen, it only looks that way!",
-      "Por": "Esse <item> não foi roubado, só parece que foi!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/quest.config": [
         "/kidnapping/followHome/avian/default/1"
       ]
     },
@@ -2968,19 +3101,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/quest.config": [
-        "/bribe/requestAdditionToHouse/glitch/default/1/glitchEmotedText",
-        "/gift/requestAdditionToHouse/glitch/default/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This gift is so nice, I should show it off. Could you place it in my home for me?",
-      "Por": "Este presente é tão bom, eu deveria exibi-lo. Você poderia colocá-lo em minha casa para mim?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/quest.config": [
         "/bribe/requestAdditionToHouse/apex/default/1",
         "/gift/requestAdditionToHouse/apex/default/1"
       ]
@@ -3056,36 +3176,36 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/quest.config": [
-        "/new_stock/trade/glitch/default/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This seems like the right stuff... Ok. Let's trade. Take this parcel to <questGiver>.",
-      "Por": "Esta parece ser a coisa certa... Ok. Vamos negociar. Leve este pacote para <questGiver>."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/quest.config": [
-        "/kidnapping/followHome/glitch/default/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Um, could you take me back to <questGiver>?",
-      "Por": "Um, você poderia me levar de volta para <questGiver>?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/quest.config": [
         "/kidnapping/followHome/human/default/0"
       ]
     },
     "Texts": {
       "Eng": "Um. I'm still pretty frightened. Can you take me home to <questGiver>?",
       "Por": "Um. Ainda estou com medo. Você pode me levar para casa de <questGiver>?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
+        "/intimidate/notIntimidated/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unafraid. Why should I do what <questGiver> wants?",
+      "Por": "Destemido. Por que eu deveria fazer o que <questGiver> quer?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
+        "/new_stock/trade/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wary. This seems like the right stuff... Ok. Let's trade. Take this parcel to <questGiver>.",
+      "Por": "Cuidadoso. Esta parece ser a coisa certa... Ok. Vamos negociar. Leve este pacote para <questgiver>."
     }
   },
   {
@@ -3194,22 +3314,8 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/quest.config": [
-        "/bribe/requestAdditionToHouse/glitch/default/0/glitchEmotedText",
-        "/gift/requestAdditionToHouse/glitch/default/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "What a wonderful gift! Perhaps you could place it in my home for me?",
-      "Por": "Que presente maravilhoso! Talvez você possa colocá-lo em minha casa para mim?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/quest.config": [
         "/intimidate/notIntimidated/avian/default/0",
         "/intimidate/notIntimidated/default/default/0",
-        "/intimidate/notIntimidated/glitch/default/0/glitchEmotedText",
         "/intimidate/notIntimidated/human/default/0",
         "/intimidate/notIntimidated/hylotl/default/1"
       ]
@@ -3242,6 +3348,30 @@
     "Texts": {
       "Eng": "Wonderful! Don't you admire my craftsmanship? Now, could you take the parcel to <questGiver>?",
       "Por": "Maravilhoso! Você não admira minha habilidade? Agora, você poderia levar o pacote para <questGiver>?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
+        "/kidnapping/followHome/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Worried. Perhaps you could escort me back to <questGiver>?",
+      "Por": "Preocupado. Talvez você poderia me escoltar de volta à <questGiver>?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/quest.config": [
+        "/return_stolen/objectTaken/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Worried. That <item> wasn't stolen, it only looks that way!",
+      "Por": "Preocupado. Esse <item> não foi roubado, ele só parece ser!"
     }
   },
   {
@@ -3284,19 +3414,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/quest.config": [
-        "/kill_npc/betray/glitch/default/1/glitchEmotedText",
-        "/kill_npc/betray/glitch/default/2/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "You actually fell for that?",
-      "Por": "Você realmente caiu nessa?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/quest.config": [
         "/kill_npc/betray/hylotl/default/1"
       ]
     },
@@ -3316,19 +3433,6 @@
     "Texts": {
       "Eng": "You brought Floran materials! Floran craft now, hold on...",
       "Por": "Você trouxe os materiais pra Floran! Floran vai criar agora, espere..."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/quest.config": [
-        "/hat/crafting/glitch/default/1/glitchEmotedText",
-        "/helmet/crafting/glitch/default/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "You brought me the items we need! Just give me moment to craft this...",
-      "Por": "Você me trouxe os itens que precisamos! Apenas me dê um momento para criar isso..."
     }
   },
   {
@@ -3448,8 +3552,7 @@
     "Files": {
       "dialog/quest.config": [
         "/kill_npc/betray/apex/default/0",
-        "/kill_npc/betray/default/default/0",
-        "/kill_npc/betray/glitch/default/0/glitchEmotedText"
+        "/kill_npc/betray/default/default/0"
       ]
     },
     "Texts": {
@@ -3468,19 +3571,6 @@
     "Texts": {
       "Eng": "You got the materials, I got the skills. Hold up a moment so I can make this...",
       "Por": "Você tem os materiais, eu tenho as habilidades. Aguarde um momento para que eu possa fazer isso..."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/quest.config": [
-        "/hat/crafting/glitch/default/0/glitchEmotedText",
-        "/helmet/crafting/glitch/default/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "You have brought me the materials! Hold on one moment...",
-      "Por": "Você me trouxe os materiais! Espere um momento..."
     }
   },
   {
@@ -3535,18 +3625,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/quest.config": [
-        "/kidnapping/kidnappersDead/glitch/default/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "You saved me! My hero!",
-      "Por": "Você me salvou! Meu heroi!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/quest.config": [
         "/kidnapping/kidnappersDead/avian/default/1"
       ]
     },
@@ -3577,18 +3655,6 @@
     "Texts": {
       "Eng": "You're a fool!",
       "Por": "Você é um tolo!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/quest.config": [
-        "/request_craft/giftProvided/glitch/default/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "You're in luck - I made this <item> earlier. Take it.",
-      "Por": "Você está com sorte - eu fiz esse <item> mais cedo. Pegue."
     }
   },
   {

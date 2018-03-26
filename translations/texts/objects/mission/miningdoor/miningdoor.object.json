@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/miningdoor/miningdoor.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A door made with tough metal."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/mission/miningdoor/miningdoor.object": [
         "/avianDescription"
       ]
     },
@@ -56,6 +45,18 @@
     "Texts": {
       "Eng": "An ugly door designed with function in mind.",
       "Por": "Uma porta feia projetada com a função em mente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/miningdoor/miningdoor.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Approving. A door made with tough metal.",
+      "Por": "Aprovação. Uma porta feita com metal resistente."
     }
   },
   {

@@ -93,47 +93,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/chessbishop/chessbishop.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/glitch/chessking/chessking.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/glitch/chesskingblack/chesskingblack.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/glitch/chessknight/chessknight.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/glitch/chessknightblack/chessknightblack.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/glitch/chesspawn/chesspawn.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/glitch/chesspawnblack/chesspawnblack.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/glitch/chessqueen/chessqueen.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/glitch/chessqueenblack/chessqueenblack.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/glitch/chessrook/chessrook.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/glitch/chessrookblack/chessrookblack.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Glitch nobility learn to play chess from an early age. They play on large, outdoor boards. "
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/glitch/chessbishop/chessbishop.object": [
         "/hylotlDescription"
       ],
       "objects/glitch/chessbishopblack/chessbishopblack.object": [
@@ -173,6 +132,51 @@
     "Texts": {
       "Eng": "It looks like a large game piece. The Hylotl enjoy many boardgames.",
       "Por": "Parece uma grande peça de jogo. Os Hylotl curtem muitos jogos de tabuleiro."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Sentimental. A nobresa Glitch aprender a jogar xadrez desde novo. Eles jogam em grandes tabuleiros ao ar livre.",
+      "Sentimental. A nobreza Glitch aprender a jogar xadrez desde novo. Eles jogam em grandes tabuleiros ao ar livre."
+    ],
+    "Files": {
+      "objects/glitch/chessbishop/chessbishop.object": [
+        "/glitchDescription"
+      ],
+      "objects/glitch/chessking/chessking.object": [
+        "/glitchDescription"
+      ],
+      "objects/glitch/chesskingblack/chesskingblack.object": [
+        "/glitchDescription"
+      ],
+      "objects/glitch/chessknight/chessknight.object": [
+        "/glitchDescription"
+      ],
+      "objects/glitch/chessknightblack/chessknightblack.object": [
+        "/glitchDescription"
+      ],
+      "objects/glitch/chesspawn/chesspawn.object": [
+        "/glitchDescription"
+      ],
+      "objects/glitch/chesspawnblack/chesspawnblack.object": [
+        "/glitchDescription"
+      ],
+      "objects/glitch/chessqueen/chessqueen.object": [
+        "/glitchDescription"
+      ],
+      "objects/glitch/chessqueenblack/chessqueenblack.object": [
+        "/glitchDescription"
+      ],
+      "objects/glitch/chessrook/chessrook.object": [
+        "/glitchDescription"
+      ],
+      "objects/glitch/chessrookblack/chessrookblack.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sentimental. Glitch nobility learn to play chess from an early age. They play on large, outdoor boards. ",
+      "Por": "Sentimental. A nobreza Glitch aprende a jogar xadrez desde novo. Eles jogam em grandes tabuleiros ao ar livre."
     }
   },
   {

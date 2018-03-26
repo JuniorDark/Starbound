@@ -33,14 +33,15 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/hylotlmission/librarybookcaseG2damage/librarybookcaseG2damage.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/mission/hylotlmission/librarybookcaseS1damage/librarybookcase.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "How did this bookcase suffer such damage?"
+      "Eng": "Curious. How did this bookcase suffer such damage?",
+      "Por": "Curioso. Como essa estante de livros sofreu tal dano?"
     }
   },
   {

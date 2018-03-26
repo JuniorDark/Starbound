@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/themed/gothic/gothicdoor/gothicdoor.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. This door looks old and important.",
+      "Por": "Observador. Esta porta parece antiga e importante."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/gothic/gothicdoor/gothicdoor.object": [
         "/hylotlDescription"
       ]
     },
@@ -69,18 +81,6 @@
     "Texts": {
       "Eng": "This door is givin' me the creeps.",
       "Por": "Esta porta está me dando arrepios."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/themed/gothic/gothicdoor/gothicdoor.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This door looks old and important.",
-      "Por": "Esta porta parece antiga e importante."
     }
   },
   {

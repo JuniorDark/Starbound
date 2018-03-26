@@ -2,23 +2,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/holiday/giantbow1/giantbow1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/holiday/giantbow2/giantbow2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/holiday/smallbow/smallbow.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A decorative ribbon evokes thoughts of giving."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
       "objects/holiday/giantbow2/giantbow2.object": [
         "/avianDescription"
       ],
@@ -32,7 +15,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "É um laço decorativo vermelho."
+    ],
     "Files": {
       "objects/holiday/giantbow2/giantbow2.object": [
         "/apexDescription"
@@ -47,7 +32,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Vermelha como carne. Coresss festivas deixam Floran com fome."
+    ],
     "Files": {
       "objects/holiday/giantbow1/giantbow1.object": [
         "/floranDescription"

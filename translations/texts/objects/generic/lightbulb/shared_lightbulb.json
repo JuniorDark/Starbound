@@ -93,14 +93,15 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/lightbulb/lightbulb.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/generic/lightbulb/lightbulb2.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "I wish to donate this lightbulb a lampshade."
+      "Eng": "Compassionate. I wish to donate this lightbulb a lampshade.",
+      "Por": "Compassivo. Eu desejo doar esta lâmpada para um abajur."
     }
   },
   {

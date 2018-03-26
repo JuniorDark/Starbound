@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/letheiasign/letheiasign.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. This appears to be sign for some sort of brand, or company.",
+      "Por": "Curioso. Isso parece ser uma placa para algum tipo de marca ou empresa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/letheiasign/letheiasign.object": [
         "/novakidDescription"
       ]
     },
@@ -67,7 +79,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Letheia Corp Sign"
+      "Eng": "Letheia Corp Sign",
+      "Por": "Letheia Corp Sign"
     }
   },
   {
@@ -80,17 +93,6 @@
     "Texts": {
       "Eng": "Sssign is very ssslanted.",
       "Por": "Placa é muito inclinada."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/hylotl/letheiasign/letheiasign.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This appears to be sign for some sort of brand, or company."
     }
   },
   {

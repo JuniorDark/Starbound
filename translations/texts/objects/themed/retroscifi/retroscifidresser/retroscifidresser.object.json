@@ -51,18 +51,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/themed/retroscifi/retroscifidresser/retroscifidresser.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Is this someone's idea of furniture from the future?",
-      "Por": "Esta é a ideia de alguém de móveis do futuro?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/themed/retroscifi/retroscifidresser/retroscifidresser.object": [
         "/shortdescription"
       ]
     },
@@ -93,6 +81,18 @@
     "Texts": {
       "Eng": "This style of dresser never feels out of date.",
       "Por": "Este estilo de cômoda nunca se sente desatualizado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/retroscifi/retroscifidresser/retroscifidresser.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thoughtful. Is this someone's idea of furniture from the future?",
+      "Por": "Pensativo. Esta é a idéia de alguém de móveis do futuro?"
     }
   }
 ]

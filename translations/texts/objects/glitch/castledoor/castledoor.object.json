@@ -63,6 +63,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/castledoor/castledoor.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Proud. This door is reinforced to make it more secure.",
+      "Por": "Orgulhoso. Esta porta é reforçada para torná-la mais segura."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/castledoor/castledoor.object": [
         "/hylotlDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "This door is much stronger than it looks.",
       "Por": "Esta porta é muito mais forte do que parece."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/glitch/castledoor/castledoor.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This door is reinforced to make it more secure."
     }
   },
   {

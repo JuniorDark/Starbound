@@ -3,6 +3,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/airlockdoor/airlockdoor.object": [
+        "/glitchDescription"
+      ],
+      "objects/hylotl/airlockhatch/airlockhatch.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. Where is the doorknob?",
+      "Por": "Curioso. Onde está a maçaneta?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/airlockdoor/airlockdoor.object": [
         "/humanDescription"
       ],
       "objects/hylotl/airlockhatch/airlockhatch.object": [
@@ -12,20 +27,6 @@
     "Texts": {
       "Eng": "This is a departure from the Hylotl's traditional aesthetic.",
       "Por": "Esta é uma estética tradicional dos Hylotl."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/hylotl/airlockdoor/airlockdoor.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/hylotl/airlockhatch/airlockhatch.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Where is the doorknob?"
     }
   }
 ]

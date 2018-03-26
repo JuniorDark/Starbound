@@ -4,7 +4,6 @@
     "Files": {
       "plants/bushes/ground/wicked/wicked.bush": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ]
     },
@@ -23,6 +22,18 @@
     "Texts": {
       "Eng": "Dead ssshrub.",
       "Por": "Um arbusto morto."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/wicked/wicked.bush": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. A dead shrub.",
+      "Por": "Relatório. Um arbusto morto."
     }
   }
 ]

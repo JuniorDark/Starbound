@@ -75,6 +75,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/avianbanner2/avianbanner2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Quizzical. What significance is a moon to the Avians?",
+      "Por": "Intrigado. Que significado tem uma lua para os Avians?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/avianbanner2/avianbanner2.object": [
         "/novakidDescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "To the grounded the moon is a symbol of freedom.",
       "Por": "Para os grounded a lua é um símbolo de liberdade."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avian/avianbanner2/avianbanner2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "What significance is a moon to the Avians?"
     }
   }
 ]

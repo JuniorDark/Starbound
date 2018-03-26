@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/foundry/magmalamp/magmalamp.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hypnotised. The pattern of the lave in this lamp is hard to look away from.",
+      "Por": "Hipnotizado. O padrão da lava nesta lâmpada é difícil de olhar para longe."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/foundry/magmalamp/magmalamp.object": [
         "/humanDescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "The lava inside this lamp has a soft glowing ambiance.",
       "Por": "A lava dentro desta lâmpada tem uma atmosfera suave e brilhante."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/foundry/magmalamp/magmalamp.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The pattern of the lave in this lamp is hard to look away from."
     }
   },
   {

@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/apexpainting5/apexpainting5.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Contemplative. Why would the Apex make these?",
+      "Por": "Contemplativo. Por que os Apex fariam isso?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/apexpainting5/apexpainting5.object": [
         "/apexDescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "What kind of blessings do the Apex wish on him, I wonder?",
       "Por": "Que tipo de bênçãos os Apex desejam para ele, eu me pergunto?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/apex/apexpainting5/apexpainting5.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Why would the Apex make these?"
     }
   }
 ]

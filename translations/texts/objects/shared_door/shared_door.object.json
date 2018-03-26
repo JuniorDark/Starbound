@@ -15,7 +15,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "A escotilha para quando ir apenas na horizontal não é suficiente."
+    ],
     "Files": {
       "objects/ancient/ancientverticaldoor/ancientverticaldoor.object": [
         "/humanDescription"
@@ -48,6 +50,24 @@
     "Texts": {
       "Eng": "A humble wooden door.",
       "Por": "Uma porta de madeira humilde."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/templehiddendoor/templehiddendoor.object": [
+        "/glitchDescription"
+      ],
+      "objects/avian/templehiddentrapdoor/templehiddentrapdoor.object": [
+        "/glitchDescription"
+      ],
+      "objects/mission/dirttrapdoor/dirttrapdoor.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Suspicious. Something is hidden here.",
+      "Por": "Suspeito. Algo está escondido aqui."
     }
   }
 ]

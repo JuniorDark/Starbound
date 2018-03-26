@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/wired/standingturret/standingturret.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cautious. Must not disrupt my brother in his vigilance.",
+      "Por": "Cauteloso. Não devo perturbar meu irmão em sua vigilância."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/standingturret/standingturret.object": [
         "/shortdescription"
       ]
     },
@@ -81,18 +93,6 @@
     "Texts": {
       "Eng": "Looks like this thing sure could do some damage!",
       "Por": "Parece que essa coisa poderia fazer um estrago!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/wired/standingturret/standingturret.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Must not disrupt my brother in his vigilance.",
-      "Por": "Não devo perturbar meu irmão em sua vigilância."
     }
   },
   {

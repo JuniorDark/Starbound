@@ -39,24 +39,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/ancient/ancientlightplatform/ancientlightplatform.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "It looks as though I would fall right through this platform.",
-      "Por": "Parece que eu cairia através desta plataforma."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/ancient/ancientlightplatform/ancientlightplatform.object": [
         "/apexDescription"
       ]
     },
     "Texts": {
       "Eng": "Just your average holographic platform.",
       "Por": "Apenas sua plataforma holográfica média."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/ancientlightplatform/ancientlightplatform.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nervous. It looks as though I would fall right through this platform.",
+      "Por": "Nervoso. Parece que eu cairia através desta plataforma."
     }
   },
   {

@@ -63,14 +63,15 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/bunkerlighth/bunkerlighth.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/human/bunkerlightv/bunkerlightv.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "The brightness levels are slightly too high for human eyes."
+      "Eng": "Observant. The brightness levels are slightly too high for human eyes.",
+      "Por": "Observador. Os níveis de brilho são ligeiramente altos demais para os olhos humanos."
     }
   },
   {

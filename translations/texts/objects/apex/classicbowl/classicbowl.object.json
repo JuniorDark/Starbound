@@ -43,18 +43,20 @@
       ]
     },
     "Texts": {
-      "Eng": "Classic Bowl"
+      "Eng": "Classic Bowl",
+      "Por": "Classic Bowl"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/classicbowl/classicbowl.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "The sound of a thrown bowl is most satisfying."
+      "Eng": "Mischievous. The sound of a thrown bowl is most satisfying.",
+      "Por": "Travesso. O som de uma tigela lançada é mais satisfatório."
     }
   },
   {

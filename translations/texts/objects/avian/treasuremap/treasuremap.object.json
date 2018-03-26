@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/treasuremap/treasuremap.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Confident. The probability of this map being accurate is very low.",
+      "Por": "Confiante. A probabilidade deste mapa ser preciso é muito baixa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/treasuremap/treasuremap.object": [
         "/humanDescription"
       ]
     },
@@ -45,17 +57,6 @@
     "Texts": {
       "Eng": "Such adventure awaits me!",
       "Por": "Essa aventura me aguarda!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avian/treasuremap/treasuremap.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The probability of this map being accurate is very low."
     }
   },
   {

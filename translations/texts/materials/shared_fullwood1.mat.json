@@ -3,21 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/fullwood1.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/fullwood1.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Although this wood looks freshly chopped, it has been carefully treated.",
-      "Por": "Embora esta madeira pareça recém cortada, foi cuidadosamente tratada."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/fullwood1.matitem": [
         "/description"
       ],
       "tiles/materials/fullwood1.material": [
@@ -57,6 +42,21 @@
     "Texts": {
       "Eng": "Jusst some bassic wood.",
       "Por": "Apenass um pouco de madeira básica."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fullwood1.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/fullwood1.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Surprised. Although this wood looks freshly chopped, it has been carefully treated.",
+      "Por": "Surpreso. Embora esta madeira pareça recentemente cortada, foi cuidadosamente tratada."
     }
   },
   {

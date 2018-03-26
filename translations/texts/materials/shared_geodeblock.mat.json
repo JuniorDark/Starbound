@@ -3,6 +3,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/geodeblock.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/geodeblock.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amazed. These natural crystals appear to have grown from geodes.",
+      "Por": "Espantado. Estes cristais naturais parecem ter crescido de geodos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/geodeblock.matitem": [
         "/shortdescription"
       ],
       "tiles/materials/geodeblock.material": [
@@ -15,7 +30,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Cristais brilhantes de geodo natural."
+    ],
     "Files": {
       "items/materials/geodeblock.matitem": [
         "/description"
@@ -26,7 +43,7 @@
     },
     "Texts": {
       "Eng": "Glimmering natural geode crystals.",
-      "Por": "Cristais brilhantes de geodo natural."
+      "Por": "Geodo de cristais naturais com um brilho fraco"
     }
   },
   {
@@ -57,21 +74,6 @@
     "Texts": {
       "Eng": "Ssshiny geode crysstalss.",
       "Por": "Geodo de cristaiss brilhantess."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/geodeblock.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/geodeblock.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "These natural crystals appear to have grown from geodes.",
-      "Por": "Estes cristais naturais parecem ter crescido a partir de geodos."
     }
   }
 ]

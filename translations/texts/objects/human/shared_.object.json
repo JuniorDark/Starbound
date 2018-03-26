@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Um aquecedor. Eu nunca senti a necessidade de um."
+    ],
     "Files": {
       "objects/human/bunkerheater1/bunkerheater1.object": [
         "/novakidDescription"
@@ -15,21 +17,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/human/bunkerheater1/bunkerheater1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/human/prisonradiator/prisonradiator.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A small heater."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Um aquecedor espacial. O nome faz soar futurista e legal."
+    ],
     "Files": {
       "objects/human/bunkerheater1/bunkerheater1.object": [
         "/humanDescription"
@@ -56,6 +46,21 @@
     "Texts": {
       "Eng": "A warm, cosy portable heater.",
       "Por": "Um aquecedor portátil quente e acolhedor."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkerheater1/bunkerheater1.object": [
+        "/glitchDescription"
+      ],
+      "objects/human/prisonradiator/prisonradiator.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disinterested. A small heater.",
+      "Por": "Desinteressado. Um pequeno aquecedor."
     }
   },
   {

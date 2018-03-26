@@ -63,6 +63,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/dark/shadowchest/shadowchest.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nervous. This shadowy chest is creepy and I'd hesitate to open it.",
+      "Por": "Nervoso. Este baú sombrio é assustador e eu hesitaria em abri-lo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/dark/shadowchest/shadowchest.object": [
         "/humanDescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "This chest appears to absorb all light in the vicinity.",
       "Por": "Este baú parece absorver toda a luz nas proximidades."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/dark/shadowchest/shadowchest.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This shadowy chest is creepy and I'd hesitate to open it."
     }
   }
 ]

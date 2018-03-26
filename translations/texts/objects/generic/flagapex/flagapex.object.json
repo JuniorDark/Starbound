@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/flagapex/flagapex.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A small locator module attached to this Apex flag allows it to be bookmarked for teleportation."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/flagapex/flagapex.object": [
         "/apexDescription"
       ]
     },
@@ -68,6 +57,18 @@
     "Texts": {
       "Eng": "I can bookmark this Apex flag for quick teleportin'.",
       "Por": "Eu posso favoritar esta bandeira Apex para teleporte rápido."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/flagapex/flagapex.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. A small locator module attached to this Apex flag allows it to be bookmarked for teleportation.",
+      "Por": "Atento. Um pequeno módulo localizador anexado a esta bandeira Apex permite que ela seja marcada para teletransporte."
     }
   },
   {

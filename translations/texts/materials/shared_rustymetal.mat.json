@@ -3,6 +3,23 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/rustymetal.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/rustymetal.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alarmed. The rust on this metal makes me very uncomfortable.",
+      "Por": "Alarmado. A ferrugem neste metal me deixa muito desconfortável."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Metal velho incrustado com ferrugem."
+    ],
+    "Files": {
+      "items/materials/rustymetal.matitem": [
         "/description"
       ],
       "tiles/materials/rustymetal.material": [
@@ -57,21 +74,6 @@
     "Texts": {
       "Eng": "Some ol' metal covered in thick rust.",
       "Por": "Algum metal velho coberto de ferrugem grossa."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/rustymetal.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/rustymetal.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The rust on this metal makes me very uncomfortable.",
-      "Por": "A ferrugem desse metal me deixa muito desconfortável."
     }
   }
 ]

@@ -18,20 +18,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/outpostcargocrate/outpostcargocrate.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/outpost/outpostcargocrateshort/outpostcargocrateshort.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A cargo container - anything could be inside."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/outpost/outpostcargocrate/outpostcargocrate.object": [
         "/hylotlDescription"
       ],
       "objects/outpost/outpostcargocrateshort/outpostcargocrateshort.object": [
@@ -86,6 +72,21 @@
     "Texts": {
       "Eng": "I wonder what's in here.",
       "Por": "Eu me pergunto o que está aqui dentro."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostcargocrate/outpostcargocrate.object": [
+        "/glitchDescription"
+      ],
+      "objects/outpost/outpostcargocrateshort/outpostcargocrateshort.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intrigued. A cargo container - anything could be inside.",
+      "Por": "Intrigado. Um contentor de carga - qualquer coisa poderia estar dentro."
     }
   },
   {

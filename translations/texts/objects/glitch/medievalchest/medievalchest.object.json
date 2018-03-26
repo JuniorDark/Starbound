@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/medievalchest/medievalchest.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excited. The Glitch often store weapons in chests like these. Is there one in here?",
+      "Por": "Animado. Os Glitch muitas vezes armazenam armas em baús como estes. Há alguma aqui?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/medievalchest/medievalchest.object": [
         "/floranDescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "Medieval Chest",
       "Por": "Medieval Chest"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/glitch/medievalchest/medievalchest.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The Glitch often store weapons in chests like these. Is there one in here?"
     }
   },
   {

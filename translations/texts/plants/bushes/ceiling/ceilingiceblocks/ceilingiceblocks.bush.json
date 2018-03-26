@@ -4,7 +4,6 @@
     "Files": {
       "plants/bushes/ceiling/ceilingiceblocks/ceilingiceblocks.bush": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ]
     },
@@ -23,6 +22,18 @@
     "Texts": {
       "Eng": "Icy blocksss.",
       "Por": "Blocos gelados."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ceiling/ceilingiceblocks/ceilingiceblocks.bush": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. Hanging ice blocks.",
+      "Por": "Relatório. Blocos de gelo inclinados."
     }
   }
 ]

@@ -27,17 +27,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/scorchedcity/scorchedcitychestdrawerlarge/scorchedcitychestdrawerlarge.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A large chest of drawers."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/scorchedcity/scorchedcitychestdrawerlarge/scorchedcitychestdrawerlarge.object": [
         "/hylotlDescription"
       ]
     },
@@ -56,6 +45,18 @@
     "Texts": {
       "Eng": "A large contemporary chest of drawers.",
       "Por": "Uma grande cômoda contemporânea."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/scorchedcity/scorchedcitychestdrawerlarge/scorchedcitychestdrawerlarge.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Content. A large chest of drawers.",
+      "Por": "Contente. Uma grande cômoda."
     }
   },
   {

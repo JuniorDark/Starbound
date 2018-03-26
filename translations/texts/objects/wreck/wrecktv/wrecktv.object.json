@@ -27,18 +27,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/wreck/wrecktv/wrecktv.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "No signal, just static.",
-      "Por": "Sem sinal, apenas estática."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/wreck/wrecktv/wrecktv.object": [
         "/novakidDescription"
       ]
     },
@@ -57,6 +45,18 @@
     "Texts": {
       "Eng": "Pretty dancing pattern machine!",
       "Por": "Máquina bonita de dança!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wreck/wrecktv/wrecktv.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sad. No signal, just static.",
+      "Por": "Triste. Sem sinal, apenas estático."
     }
   },
   {

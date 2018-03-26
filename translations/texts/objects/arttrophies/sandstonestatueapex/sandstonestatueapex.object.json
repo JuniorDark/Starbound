@@ -27,17 +27,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/arttrophies/sandstonestatueapex/sandstonestatueapex.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A sturdy stone Apex. A fitting portrayal."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/arttrophies/sandstonestatueapex/sandstonestatueapex.object": [
         "/avianDescription"
       ]
     },
@@ -68,6 +57,18 @@
     "Texts": {
       "Eng": "Apex Sandstone Statue",
       "Por": "Apex Sandstone Statue"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/arttrophies/sandstonestatueapex/sandstonestatueapex.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Contemplative. A sturdy stone Apex. A fitting portrayal.",
+      "Por": "Contemplativo. Um Apex de pedra resistente. Um retrato apropriado."
     }
   },
   {

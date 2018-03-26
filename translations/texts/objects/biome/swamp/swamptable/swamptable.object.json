@@ -15,17 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/swamp/swamptable/swamptable.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A table mostly crafted from large roots."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/swamp/swamptable/swamptable.object": [
         "/apexDescription"
       ]
     },
@@ -56,6 +45,18 @@
     "Texts": {
       "Eng": "Crude, but it does the job.",
       "Por": "Rudimentar, mas serve ao seu proposito."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/swamp/swamptable/swamptable.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. A table mostly crafted from large roots.",
+      "Por": "Observador. Uma mesa principalmente feita a partir de raízes grandes."
     }
   },
   {

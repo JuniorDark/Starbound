@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/torch/torch.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sentimental. Torches are indispensable.",
+      "Por": "Sentimental. Tochas são indispensáveis."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/torch/torch.object": [
         "/hylotlDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "Torches are essential.",
       "Por": "Tochas são essenciais."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/torch/torch.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Torches are indispensable."
     }
   }
 ]

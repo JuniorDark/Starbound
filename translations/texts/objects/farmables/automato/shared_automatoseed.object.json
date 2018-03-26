@@ -93,6 +93,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/automato/automatoseed.object": [
+        "/glitchDescription"
+      ],
+      "objects/farmables/automato/wildautomatoseed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disapproving. Others remove the screws. The Glitch feel they enhance the flavour.",
+      "Por": "Desaprovando. Outros retiram os parafusos. Os Glitch sentem que melhoram o sabor."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/automato/automatoseed.object": [
         "/floranDescription"
       ],
       "objects/farmables/automato/wildautomatoseed.object": [
@@ -102,20 +117,6 @@
     "Texts": {
       "Eng": "Fleshy and juicy, with crunchy bitsss. Like humansss.",
       "Por": "Carnudo e suculento, com pedaços crocantesss. Como os humanosss."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/farmables/automato/automatoseed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/farmables/automato/wildautomatoseed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Others remove the screws. The Glitch feel they enhance the flavour."
     }
   }
 ]

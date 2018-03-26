@@ -1,5 +1,26 @@
 [
   {
+    "DeniedAlternatives": [
+      "Agressivo. Você acabar com você!",
+      "Agressivo. Você acabou de me olhar engraçado?"
+    ],
+    "Files": {
+      "npcs/dungeon/evilfortress/evilknight.npctype": [
+        "/scriptConfig/dialog/attack/glitch/default/2"
+      ],
+      "npcs/dungeon/evilfortress/executioner.npctype": [
+        "/scriptConfig/dialog/attack/glitch/default/1"
+      ],
+      "npcs/threats/glitchthief.npctype": [
+        "/scriptConfig/dialog/attack/glitch/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aggressive. Did you just look at me funny?",
+      "Por": "Agressivo. Você acabou de olhar pra mim rindo?"
+    }
+  },
+  {
     "DeniedAlternatives": [],
     "Files": {
       "npcs/dungeon/novakidvillage/prisonoutlaw.npctype": [
@@ -15,7 +36,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Debaixo deste traje amarelo, meu coração bate pelo amor da descoberta!"
+    ],
     "Files": {
       "npcs/biome/hazmatscientist.npctype": [
         "/scriptConfig/dialog/converse/default/default/14"
@@ -30,25 +53,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
-    "Files": {
-      "npcs/dungeon/evilfortress/evilknight.npctype": [
-        "/scriptConfig/dialog/attack/glitch/default/2/glitchEmotedText"
-      ],
-      "npcs/dungeon/evilfortress/executioner.npctype": [
-        "/scriptConfig/dialog/attack/glitch/default/1/glitchEmotedText"
-      ],
-      "npcs/threats/glitchthief.npctype": [
-        "/scriptConfig/dialog/attack/glitch/default/2/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Did you just look at me funny?",
-      "Por": "Você acabou de olhar para mim?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "A Terra está perdida, e muito arte bela com ela!"
+    ],
     "Files": {
       "npcs/outpost/visitors/socialitevisitor.npctype": [
         "/scriptConfig/dialog/converse/default/default/0"
@@ -63,7 +70,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ar fresco e liberdade, Esta é a vida para mim!"
+    ],
     "Files": {
       "npcs/outpost/visitors/piratevisitor.npctype": [
         "/scriptConfig/dialog/converse/default/default/2"
@@ -109,7 +118,11 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Entrei para um equipe de dirigível quando parei de acreditar em Kluex. Bons tempos dirigindo o vento.",
+      "Entrei para uma tripulação de um dirigível quando eu parei de acreditar em Kluex. Bons tempos dirigindo o vento.",
+      "Entrei para uma tripulação de um dirigível quando eu parei de acreditar em Kluex. Dias felizes montando o vento"
+    ],
     "Files": {
       "npcs/outpost/visitors/piratevisitor.npctype": [
         "/scriptConfig/dialog/converse/default/default/1"
@@ -121,7 +134,7 @@
     },
     "Texts": {
       "Eng": "I joined an airship crew when I stopped believing in Kluex. Happy days riding the wind.",
-      "Por": "\"Entrei para a tripulação de um dirigível quando parei de acreditar em Kluex. Boms tempos dirigindo o vento."
+      "Por": "Entrei para um equipe de dirigível quando parei de acreditar em Kluex. Boms tempos dirigindo o vento."
     }
   },
   {
@@ -467,7 +480,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Homem Larva diz: Serva todos os seus pratos frios, como vingança."
+    ],
     "Files": {
       "npcs/outpost/visitors/maggotmanvisitor.npctype": [
         "/scriptConfig/dialog/converse/default/default/19"
@@ -619,6 +634,21 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "npcs/dungeon/evilfortress/evilknight.npctype": [
+        "/scriptConfig/dialog/attack/glitch/default/0"
+      ],
+      "npcs/threats/glitchthief.npctype": [
+        "/scriptConfig/dialog/attack/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Menacing. You do not want to mess with us!",
+      "Por": "Ameaçador. Você não quer mexer com a gente!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "npcs/furniture/retroscifi.npctype": [
         "/scriptConfig/dialog/converse/default/default/1"
       ],
@@ -647,7 +677,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Yo-ho-ho, é a vida de castigado pra mim!",
+      "Yo-ho-ho, é a vida no chão pra mim!"
+    ],
     "Files": {
       "npcs/outpost/visitors/piratevisitor.npctype": [
         "/scriptConfig/dialog/converse/default/default/0"
@@ -660,21 +693,6 @@
     "Texts": {
       "Eng": "Yo-ho-ho, it's the Grounded life for me!",
       "Por": "Yo-ho-ho, é a vida de Grounded pra mim!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "npcs/dungeon/evilfortress/evilknight.npctype": [
-        "/scriptConfig/dialog/attack/glitch/default/0/glitchEmotedText"
-      ],
-      "npcs/threats/glitchthief.npctype": [
-        "/scriptConfig/dialog/attack/glitch/default/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "You do not want to mess with us!",
-      "Por": "Você não quer mexer conosco!"
     }
   },
   {

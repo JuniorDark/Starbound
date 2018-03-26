@@ -18,21 +18,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/eyepiles.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/eyepiles.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Other than those on top of the pile, most of these eyes will only ever know darkness.",
-      "Por": "Além dos que estão no topo da pilha, a maioria desses olhos só vai conhecer a escuridão."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/eyepiles.matitem": [
         "/shortdescription"
       ],
       "tiles/materials/eyepiles.material": [
@@ -42,6 +27,21 @@
     "Texts": {
       "Eng": "Pile of Eyes",
       "Por": "Pile of Eyes"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/eyepiles.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/eyepiles.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reflective. Other than those on top of the pile, most of these eyes will only ever know darkness.",
+      "Por": "Reflexivo. Exceto os no topo da pilha, a maioria destes olhos só vai conhecer escuridão."
     }
   },
   {

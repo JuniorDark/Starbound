@@ -87,23 +87,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/haystack/haystack.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Hay formed into bales for easy storage."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/glitch/haystack/haystack.object": [
         "/humanDescription"
       ]
     },
     "Texts": {
       "Eng": "I believe these are called bales of hay.",
       "Por": "Eu acredito que estes são chamados de fardos de feno."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/haystack/haystack.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neutral. Hay formed into bales for easy storage.",
+      "Por": "Neutro. Feno formado em fardos para fácil armazenamento."
     }
   }
 ]

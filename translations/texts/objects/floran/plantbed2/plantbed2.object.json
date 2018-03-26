@@ -39,23 +39,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/plantbed2/plantbed2.object": [
-        "/shortdescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Plant Wall Bunk",
-      "Por": "Plant Wall Bunk"
+      "Eng": "Impressed. The design of this bed allows it to hang from the wall.",
+      "Por": "Impressionado. O design desta cama permite que ela fique pendurada na parede."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/plantbed2/plantbed2.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "The design of this bed allows it to hang from the wall."
+      "Eng": "Plant Wall Bunk",
+      "Por": "Plant Wall Bunk"
     }
   },
   {

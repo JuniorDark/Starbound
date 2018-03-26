@@ -39,6 +39,42 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/tools/inspectiontool/scanmode.inspectiontool": [
+        "/nothingThereText/glitch/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disappointed. Nothing there to scan.",
+      "Por": "Decepcionado. Nada aqui pra escanear."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/inspectiontool/scanmode.inspectiontool": [
+        "/outOfRangeText/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disappointed. This hardware's sensors are insufficient to analyze that position from here.",
+      "Por": "Decepcionado. Os sensores deste hardware são insuficientes para analisar essa posição daqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/inspectiontool/scanmode.inspectiontool": [
+        "/outOfRangeText/glitch/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frustrated. The signal is too faint to make out, I believe I'm out of range.",
+      "Por": "Frustrado. O sinal é muito fraco para conseguir, acho que estou fora do alcance."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/inspectiontool/scanmode.inspectiontool": [
         "/outOfRangeText/novakid/1"
       ]
     },
@@ -51,12 +87,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/tools/inspectiontool/scanmode.inspectiontool": [
-        "/outOfRangeText/glitch/1/glitchEmotedText"
+        "/outOfRangeText/glitch/3"
       ]
     },
     "Texts": {
-      "Eng": "I cannot seem to get a reading; perhaps I should get closer.",
-      "Por": "Eu não consigo obter uma leitura, talvez eu deva chegar mais perto."
+      "Eng": "Irked. It must be out of range, I cannot get a reading.",
+      "Por": "Irritado. Deve estar fora do alcance, eu não consigo obter uma leitura."
     }
   },
   {
@@ -69,18 +105,6 @@
     "Texts": {
       "Eng": "It must be out of range, I can't get a reading.",
       "Por": "Deve estar fora do alcance, eu não consigo obter uma leitura."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/tools/inspectiontool/scanmode.inspectiontool": [
-        "/outOfRangeText/glitch/3/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "It must be out of range, I cannot get a reading.",
-      "Por": "Deve estar fora de alcance, não consigo uma leitura."
     }
   },
   {
@@ -111,24 +135,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/tools/inspectiontool/scanmode.inspectiontool": [
-        "/nothingThereText/glitch/2/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Nothing there to scan.",
-      "Por": "Nada ali para escanear."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/tools/inspectiontool/scanmode.inspectiontool": [
         "/nothingThereText/floran/1"
       ]
     },
     "Texts": {
       "Eng": "Nothing to sscan.",
       "Por": "Nada para escanear."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/inspectiontool/scanmode.inspectiontool": [
+        "/outOfRangeText/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Puzzled. I cannot seem to get a reading; perhaps I should get closer.",
+      "Por": "Intrigado. Não consigo obter uma leitura, talvez eu deveria chegar mais perto."
     }
   },
   {
@@ -243,36 +267,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/tools/inspectiontool/scanmode.inspectiontool": [
-        "/outOfRangeText/glitch/2/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The signal is too faint to make out, I believe I'm out of range.",
-      "Por": "O sinal é muito fraco, acho que estou fora de alcance."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/tools/inspectiontool/scanmode.inspectiontool": [
         "/outOfRangeText/default/2"
       ]
     },
     "Texts": {
       "Eng": "The signal's too faint to make out - might be out of range.",
       "Por": "O sinal esta muito fraco para distinguir - pode estar fora do alcance."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/tools/inspectiontool/scanmode.inspectiontool": [
-        "/outOfRangeText/glitch/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This hardware's sensors are insufficient to analyze that position from here.",
-      "Por": "Os sensores deste hardware são insuficientes para analisar essa posição daqui."
     }
   }
 ]

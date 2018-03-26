@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/apexmission/miniknogoldsign/miniknogoldsign.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Appreciative. What plesant shades of grey and silver.",
+      "Por": "Apreciativo. Que tons agradáveis de cinza e prata."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/apexmission/miniknogoldsign/miniknogoldsign.object": [
         "/floranDescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "What a pleasant sign. I wonder how old it is?",
       "Por": "Que placa agradável. Me pergunto quantos anos ela tem?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/mission/apexmission/miniknogoldsign/miniknogoldsign.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "What plesant shades of grey and silver."
     }
   }
 ]

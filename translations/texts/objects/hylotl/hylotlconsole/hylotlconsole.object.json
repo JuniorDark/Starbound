@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/hylotlconsole/hylotlconsole.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. I'm very tempted to press all these buttons.",
+      "Por": "Curioso. Estou muito tentado a pressionar todos esses botões."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/hylotlconsole/hylotlconsole.object": [
         "/floranDescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "I wonder what happens if I press... This button?",
       "Por": "Me pergunto o que acontece se pressionar... Este botão?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/hylotl/hylotlconsole/hylotlconsole.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I'm very tempted to press all these buttons."
     }
   },
   {

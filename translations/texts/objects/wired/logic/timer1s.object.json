@@ -3,23 +3,23 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/wired/logic/timer1s.object": [
-        "/description"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "The timer output alternates between on and off every 1 second.",
-      "Por": "A saída do temporizador alterna entre ligado e desligado a cada 1 segundo."
+      "Eng": "Neutral. The timer output alternates between on and off every 1 seconds.",
+      "Por": "Neutro. A saída do temporizador alterna entre ligado e desligado a cada 1 segundo."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/wired/logic/timer1s.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ]
     },
     "Texts": {
-      "Eng": "The timer output alternates between on and off every 1 seconds.",
+      "Eng": "The timer output alternates between on and off every 1 second.",
       "Por": "A saída do temporizador alterna entre ligado e desligado a cada 1 segundo."
     }
   },

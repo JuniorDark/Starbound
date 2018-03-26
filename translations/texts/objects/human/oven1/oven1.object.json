@@ -15,17 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/oven1/oven1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A conventional oven. Time to whip up a banquet."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/human/oven1/oven1.object": [
         "/avianDescription"
       ]
     },
@@ -104,6 +93,18 @@
     "Texts": {
       "Eng": "It's been so long since I had a home cooked meal... or a home.",
       "Por": "Já faz tanto tempo que eu tive uma refeição caseira... ou uma casa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/oven1/oven1.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Relieved. A conventional oven. Time to whip up a banquet.",
+      "Por": "Aliviado. Um forno convencional. Hora de preparar um banquete."
     }
   },
   {

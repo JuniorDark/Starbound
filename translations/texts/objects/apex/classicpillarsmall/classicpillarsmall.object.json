@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/classicpillarsmall/classicpillarsmall.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Appreciative. Work equal to that of the Glitch stone masons.",
+      "Por": "Apreciativo. Trabalho igual ao dos pedreiros Glitch."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/classicpillarsmall/classicpillarsmall.object": [
         "/humanDescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "The pillar is a work of art in itself.",
       "Por": "O pilar é uma obra de arte em si."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/apex/classicpillarsmall/classicpillarsmall.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Work equal to that of the Glitch stone masons."
     }
   }
 ]

@@ -51,23 +51,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/apexcooldoor/apexcooldoor.object": [
-        "/shortdescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Security Door",
-      "Por": "Security Door"
+      "Eng": "Jealous. Such strong materials.",
+      "Por": "Ciumento. Que material forte."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/apexcooldoor/apexcooldoor.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "Such strong materials."
+      "Eng": "Security Door",
+      "Por": "Security Door"
     }
   },
   {

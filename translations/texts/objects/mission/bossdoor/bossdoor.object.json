@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/bossdoor/bossdoor.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Concerned. This door can only be entered from one direction. There's no going back through it.",
+      "Por": "Preocupado. Esta porta só pode ser atravessada por uma direção. Não há como voltar atrás."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/bossdoor/bossdoor.object": [
         "/shortdescription"
       ]
     },
@@ -57,17 +69,6 @@
     "Texts": {
       "Eng": "This ancient looking door can only be entered from one direction.",
       "Por": "Esta porta de aparência antiga só pode ser atravessada de uma direção."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/mission/bossdoor/bossdoor.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This door can only be entered from one direction. There's no going back through it."
     }
   },
   {

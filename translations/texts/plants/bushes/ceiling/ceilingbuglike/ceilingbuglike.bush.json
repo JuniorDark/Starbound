@@ -9,19 +9,7 @@
     },
     "Texts": {
       "Eng": "A weird protrusion.",
-      "Por": "Uma protrusão estranha."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "plants/bushes/ceiling/ceilingbuglike/ceilingbuglike.bush": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "An unusual protrusion.",
-      "Por": "Uma protrusão incomum."
+      "Por": "A protuberância estranha."
     }
   },
   {
@@ -33,7 +21,19 @@
     },
     "Texts": {
       "Eng": "Creepy ssshape.",
-      "Por": "Forma assustadora."
+      "Por": "Forma assustadorasss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ceiling/ceilingbuglike/ceilingbuglike.bush": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. An unusual protrusion.",
+      "Por": "Declaração. Uma saliência incomum."
     }
   }
 ]

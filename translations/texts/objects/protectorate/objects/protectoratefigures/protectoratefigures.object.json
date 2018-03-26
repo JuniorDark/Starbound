@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/protectorate/objects/protectoratefigures/protectoratefigures.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Happy. Some nice collectors toys!",
+      "Por": "Feliz. Alguns bons brinquedos de colecionadores!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/protectorate/objects/protectoratefigures/protectoratefigures.object": [
         "/shortdescription"
       ]
     },
@@ -51,7 +63,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/protectorate/objects/protectoratefigures/protectoratefigures.object": [
-        "/glitchDescription/glitchEmotedText",
         "/humanDescription"
       ]
     },

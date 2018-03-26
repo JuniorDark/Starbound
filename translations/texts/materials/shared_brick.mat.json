@@ -33,6 +33,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/brick.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/brick.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased. These bricks have been carefully formed and arranged.",
+      "Por": "Satisfeito. Estes tijolos foram cuidadosamente formado e arranjado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/brick.matitem": [
         "/description"
       ],
       "tiles/materials/brick.material": [
@@ -45,7 +60,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Alguns tijolos muito antigos."
+    ],
     "Files": {
       "items/materials/ancientbrick.matitem": [
         "/novakiddescription"
@@ -78,21 +95,6 @@
     "Texts": {
       "Eng": "Ssimple bricksss.",
       "Por": "Tijoloss ssimpless."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/brick.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/brick.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "These bricks have been carefully formed and arranged.",
-      "Por": "Estes tijolos foram cuidadosamente formados e organizados."
     }
   }
 ]

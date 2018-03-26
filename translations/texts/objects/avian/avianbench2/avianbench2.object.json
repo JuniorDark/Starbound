@@ -51,23 +51,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/avianbench2/avianbench2.object": [
-        "/novakidDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Looks like a comfy place to rest my boots a spell.",
-      "Por": "Parece um lugar confortável para descansar as minhas botas."
+      "Eng": "Impressed. This bench is crafted with more skill than most other Avian furniture.",
+      "Por": "Impressionado. Este banco é trabalhado com mais habilidade do que a maioria dos outros móveis Avian."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/avianbench2/avianbench2.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/novakidDescription"
       ]
     },
     "Texts": {
-      "Eng": "This bench is crafted with more skill than most other Avian furniture."
+      "Eng": "Looks like a comfy place to rest my boots a spell.",
+      "Por": "Parece um lugar confortável para descansar as minhas botas."
     }
   },
   {

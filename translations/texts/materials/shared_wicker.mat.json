@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Um material entrelaçado grosseiramente tecido."
+    ],
     "Files": {
       "items/materials/wicker.matitem": [
         "/description"
@@ -33,6 +35,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/wicker.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/wicker.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Perceptive. This wicker is tightly woven and strong.",
+      "Por": "Perceptivo. Este vime é bem tecido e forte."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/wicker.matitem": [
         "/florandescription"
       ],
       "tiles/materials/wicker.material": [
@@ -42,21 +59,6 @@
     "Texts": {
       "Eng": "Sstrong wicker makess wall.",
       "Por": "Vime forte faz parede."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/wicker.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/wicker.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This wicker is tightly woven and strong.",
-      "Por": "Este vime é bem tecido e forte."
     }
   }
 ]

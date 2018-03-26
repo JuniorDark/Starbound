@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Cheiro nojento de fruta no interior."
+    ],
     "Files": {
       "objects/apex/classicglass/classicglass.object": [
         "/floranDescription"
@@ -15,7 +17,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Floran tenta comer comida fressca da caçada."
+    ],
     "Files": {
       "objects/apex/classicbowl/classicbowl.object": [
         "/floranDescription"
@@ -26,11 +30,13 @@
     },
     "Texts": {
       "Eng": "Floran try to eat food freshh from kill.",
-      "Por": "Floran tenta comer comida fressca da caçada."
+      "Por": "Floran não come em pratos, Floran tenta comer comida fresca da matança."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Utensílio de cozinha bastante sofisticado."
+    ],
     "Files": {
       "objects/apex/classicbowl/classicbowl.object": [
         "/humanDescription"

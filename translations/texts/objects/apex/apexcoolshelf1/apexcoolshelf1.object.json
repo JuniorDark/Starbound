@@ -63,23 +63,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/apexcoolshelf1/apexcoolshelf1.object": [
-        "/floranDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Metal shelf iss cold.",
-      "Por": "Prateleira de metal é fria"
+      "Eng": "Disappointed. Nothing here.",
+      "Por": "Desapontado. Nada aqui."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/apexcoolshelf1/apexcoolshelf1.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/floranDescription"
       ]
     },
     "Texts": {
-      "Eng": "Nothing here."
+      "Eng": "Metal shelf iss cold.",
+      "Por": "Prateleira de metal é fria"
     }
   },
   {

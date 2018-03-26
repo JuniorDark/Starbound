@@ -17,7 +17,6 @@
       "objects/biome/oasis/reeddoor/reeddoor.object": [
         "/apexDescription",
         "/avianDescription",
-        "/glitchDescription/glitchEmotedText",
         "/humanDescription",
         "/hylotlDescription",
         "/novakidDescription"
@@ -26,6 +25,18 @@
     "Texts": {
       "Eng": "A door made of wood and reeds.",
       "Por": "Uma porta feita de madeira e juncos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/oasis/reeddoor/reeddoor.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. A door made of wood and reeds.",
+      "Por": "Observador. Uma porta feita de madeira e juncos."
     }
   },
   {

@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Boltbulb! Surpreendentemente suave."
+    ],
     "Files": {
       "items/generic/produce/boltbulb.consumable": [
         "/description"
@@ -11,7 +13,7 @@
     },
     "Texts": {
       "Eng": "Boltbulb! Surprisingly soft.",
-      "Por": "Boltbulb! Surpreendentemente macio."
+      "Por": "Cresce boltbulb! Surpreendentemente macio."
     }
   }
 ]

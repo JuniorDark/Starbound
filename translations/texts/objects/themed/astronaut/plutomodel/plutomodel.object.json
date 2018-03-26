@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/themed/astronaut/plutomodel/plutomodel.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Perplexed. Why do the humans hold Pluto in such high regard? It's not even a planet.",
+      "Por": "Perplexo. Por que os humanos consideram Plutão tanto? Nem sequer é um planeta."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/astronaut/plutomodel/plutomodel.object": [
         "/shortdescription"
       ]
     },
@@ -93,18 +105,6 @@
     "Texts": {
       "Eng": "Sssmall dwarf planet with a chaotic orbit on the outskirts of the Sol Sssystem.",
       "Por": "Pequeno planeta anão com uma órbita caótica nos arredores do Sssistema Solar."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/themed/astronaut/plutomodel/plutomodel.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Why do the humans hold Pluto in such high regard? It's not even a planet.",
-      "Por": "Por que os humanos consideram Plutão tanto? Nem sequer é um planeta."
     }
   }
 ]

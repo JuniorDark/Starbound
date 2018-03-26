@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/plainorbplush/plainorbplush.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Distressed. Will this plushie drain my health if I put it on my head?",
+      "Por": "Angustiado. Será que esta pelúcia drena minha vida se eu colocá-la em minha cabeça?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/plainorbplush/plainorbplush.object": [
         "/hylotlDescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "Will it drain my health if I stick it on my head?",
       "Por": "Será que vai drenar minha vida se eu colocá-la na minha cabeça?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/hylotl/plainorbplush/plainorbplush.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Will this plushie drain my health if I put it on my head?"
     }
   }
 ]

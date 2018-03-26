@@ -63,6 +63,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/ice/icechest/icechest.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hypothesis. This chest was originally designed to store sensitive documents. If the chest melts, the contents are ruined.",
+      "Por": "Hipótese. Este baú foi originalmente projetado para armazenar documentos sensíveis. Se o baú derreter, o conteúdo será arruinado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/ice/icechest/icechest.object": [
         "/shortdescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "This chest doesn't seem very practical.",
       "Por": "Este baú não parece muito prático."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/ice/icechest/icechest.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This chest was originally designed to store sensitive documents. If the chest melts, the contents are ruined."
     }
   }
 ]

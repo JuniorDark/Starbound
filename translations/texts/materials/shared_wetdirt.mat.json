@@ -3,21 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/wetdirt.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/wetdirt.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "It is simply dirt saturated with some water.",
-      "Por": "É simplesmente terra saturada com um pouco de água."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/wetdirt.matitem": [
         "/novakiddescription"
       ],
       "tiles/materials/wetdirt.material": [
@@ -30,7 +15,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Não é lama, não é terra... é terra molhada."
+    ],
     "Files": {
       "items/materials/wetdirt.matitem": [
         "/description"
@@ -42,6 +29,21 @@
     "Texts": {
       "Eng": "Not quite mud, not quite dirt...it's wet dirt.",
       "Por": "Não é bem lama, não é bem terra... é terra molhada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/wetdirt.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/wetdirt.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unimpressed. It is simply dirt saturated with some water.",
+      "Por": "Não Impressionado. É simplesmente terra saturada com água."
     }
   },
   {

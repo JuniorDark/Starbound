@@ -15,18 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/shipcrew.config": [
-        "/converse/glitch/glitch/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A fellow Glitch! My name is <selfname> - it's a pleasure to make your acquaintance.",
-      "Por": "Um amigo Glitch! Meu nome é <selfname> - é um prazer conhecê-lo."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/shipcrew.config": [
         "/converse/apex/apex/2",
         "/converse/apex/default/1"
       ]
@@ -102,6 +90,30 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/shipcrew.config": [
+        "/converse/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bored. Maintaining a spaceship is mind-numbing work - I want to play a game of chess!",
+      "Por": "Entediado. Manter uma nave espacial é um trabalho pesado - eu quero jogar uma partida de xadrez!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/shipcrew.config": [
+        "/converse/glitch/glitch/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bored. Maintaining a spaceship is mind-numbing work - I want to play a game of clunkey jacks!",
+      "Por": "Entediado. Manter uma nave espacial é um trabalho pesado - eu quero jogar uma partida de clunkey jacks!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/shipcrew.config": [
         "/converse/default/default/4",
         "/converse/default/human/6"
       ]
@@ -171,6 +183,32 @@
     "Texts": {
       "Eng": "Don't think just 'cause you're taller than me that you got the drop on me!",
       "Por": "Não pense que só porque você é mais alto do que eu que você tem vantagem sobre mim!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/shipcrew.config": [
+        "/converse/glitch/default/4",
+        "/converse/glitch/glitch/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eager. We don't get visitors often! Are you staying for long?",
+      "Por": "Ansioso. Nós não recebemos visitantes com frequência! Você vai ficar por muito tempo?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/shipcrew.config": [
+        "/converse/glitch/default/2",
+        "/converse/glitch/glitch/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Exhausted. I think I frayed a few wires after moving heavy cargo around...",
+      "Por": "Exausto. Eu acho que eu desgastei alguns fios depois de mover tantas cargas pesadas..."
     }
   },
   {
@@ -376,38 +414,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/shipcrew.config": [
-        "/converse/glitch/default/3/glitchEmotedText",
-        "/converse/glitch/glitch/5/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I didn't know space travel even existed for many years. Isn't it exciting?",
-      "Por": "Não sabia que as viagens espaciais existiam há muitos anos. Não é excitante?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/shipcrew.config": [
         "/converse/penguin/default/8"
       ]
     },
     "Texts": {
       "Eng": "I got some pals lookin' for mercenary work. You should get yourself some dubloons!",
       "Por": "Eu tenho alguns amigos à procura de trabalho mercenário. Você deve obter alguns dubloons!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/shipcrew.config": [
-        "/converse/glitch/default/2/glitchEmotedText",
-        "/converse/glitch/glitch/4/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I think I frayed a few wires after moving heavy cargo around...",
-      "Por": "Acho que desgastou alguns fios depois de mover carga pesada ao redor..."
     }
   },
   {
@@ -490,30 +502,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/shipcrew.config": [
-        "/converse/glitch/default/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Maintaining a spaceship is mind-numbing work - I want to play a game of chess!",
-      "Por": "Manter uma espaçonave é o trabalho de entorpecer a mente - eu quero jogar uma partida de xadrez!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/shipcrew.config": [
-        "/converse/glitch/glitch/3/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Maintaining a spaceship is mind-numbing work - I want to play a game of clunkey jacks!",
-      "Por": "Manter uma espaçonave é o trabalho de entorpecer a mente - eu quero jogar uma partida de clunkey jacks!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/shipcrew.config": [
         "/converse/hylotl/default/0",
         "/converse/hylotl/hylotl/2"
       ]
@@ -540,6 +528,32 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/shipcrew.config": [
+        "/converse/glitch/default/3",
+        "/converse/glitch/glitch/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Overwhelmed. I didn't know space travel even existed for many years. Isn't it exciting?",
+      "Por": "Sobrecarregado. Eu não sabia que a viagem espacial existia há muitos anos. Não é excitante?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/shipcrew.config": [
+        "/converse/glitch/default/0",
+        "/converse/glitch/glitch/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased. The low-moisture atmosphere on board this ship is good for preventing rust.",
+      "Por": "Satisfeito. A atmosfera de baixa umidade a bordo deste nave é boa para prevenir a ferrugem."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/shipcrew.config": [
         "/converse/hylotl/default/1",
         "/converse/hylotl/hylotl/3"
       ]
@@ -553,13 +567,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/shipcrew.config": [
-        "/converse/glitch/default/0/glitchEmotedText",
-        "/converse/glitch/glitch/2/glitchEmotedText"
+        "/converse/glitch/glitch/0"
       ]
     },
     "Texts": {
-      "Eng": "The low-moisture atmosphere on board this ship is good for preventing rust.",
-      "Por": "A atmosfera de baixa umidade a bordo desta nave é boa para prevenir a ferrugem."
+      "Eng": "Surprised. A fellow Glitch! My name is <selfname> - it's a pleasure to make your acquaintance.",
+      "Por": "Surpreso. Um colega Glitch! Meu nome é <selfname> - é um prazer conhecê-lo."
     }
   },
   {
@@ -584,31 +597,6 @@
     "Texts": {
       "Eng": "This sure is the gig of a lifetime. A ship full of fine feathered folks like myself, and all the loot to boot!",
       "Por": "Isso certamente é o show da vida. Uma nave cheia de gente de penas finas como eu e todo o saque para arrancar!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/shipcrew.config": [
-        "/converse/glitch/glitch/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Visitors here are rare, and fellow Glitch visitors are even rarer!",
-      "Por": "Visitantes aqui são raros, e os outros visitantes Glitch são ainda mais raros!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/shipcrew.config": [
-        "/converse/glitch/default/4/glitchEmotedText",
-        "/converse/glitch/glitch/6/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "We don't get visitors often! Are you staying for long?",
-      "Por": "Nós não recebemos visitantes com frequência! Vai ficar muito tempo?"
     }
   },
   {
@@ -648,6 +636,18 @@
     "Texts": {
       "Eng": "Welcome, stranger! How kind of you to visit.",
       "Por": "Bem-vindo, estranho! Que gentileza sua visitar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/shipcrew.config": [
+        "/converse/glitch/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welcoming. Visitors here are rare, and fellow Glitch visitors are even rarer!",
+      "Por": "Acolhedor. Os visitantes aqui são raros, e colegas visitantes Glitch são ainda mais raros!"
     }
   },
   {

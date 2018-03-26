@@ -4,7 +4,6 @@
     "Files": {
       "plants/bushes/ground/tarbulb/tarbulb.bush": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ]
     },
@@ -23,6 +22,18 @@
     "Texts": {
       "Eng": "Sssticky tar.",
       "Por": "Alcatrão fedido."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/tarbulb/tarbulb.bush": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. A glob of tar.",
+      "Por": "Relatório. Um monte de alcatrão."
     }
   }
 ]

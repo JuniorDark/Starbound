@@ -27,7 +27,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Isso parece saboroso."
+    ],
     "Files": {
       "objects/holiday/greengumdrop1/greengumdrop1.object": [
         "/hylotlDescription"

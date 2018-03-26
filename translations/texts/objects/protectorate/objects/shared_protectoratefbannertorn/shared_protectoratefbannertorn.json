@@ -3,20 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/protectorate/objects/protectoratefbannertorn1/protectoratefbannertorn1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/protectorate/objects/protectoratefbannertorn2/protectoratefbannertorn2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A torn Protectorate banner..."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/protectorate/objects/protectoratefbannertorn1/protectoratefbannertorn1.object": [
         "/description"
       ],
       "objects/protectorate/objects/protectoratefbannertorn2/protectoratefbannertorn2.object": [
@@ -41,6 +27,21 @@
     "Texts": {
       "Eng": "A torn banner! Devastating!",
       "Por": "Um estandarte rasgado! Devastador!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/protectorate/objects/protectoratefbannertorn1/protectoratefbannertorn1.object": [
+        "/glitchDescription"
+      ],
+      "objects/protectorate/objects/protectoratefbannertorn2/protectoratefbannertorn2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Devastated. A torn Protectorate banner...",
+      "Por": "Devastado. Um estandarte rasgado do protetorado..."
     }
   },
   {

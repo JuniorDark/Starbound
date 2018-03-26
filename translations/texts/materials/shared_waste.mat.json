@@ -15,7 +15,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Nojento, lixo tóxico que brilha fracamente."
+    ],
     "Files": {
       "items/materials/waste.matitem": [
         "/description"
@@ -33,6 +35,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/waste.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/waste.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Repulsed. The chemicals in this waste are so toxic it is glowing.",
+      "Por": "Enjoado. Os produtos químicos neste resíduo são tão tóxicos que ate esta brilhando."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/waste.matitem": [
         "/florandescription"
       ],
       "tiles/materials/waste.material": [
@@ -42,21 +59,6 @@
     "Texts": {
       "Eng": "Ssstinky toxic messs. Vile poisson.",
       "Por": "Ressíduo tóxico fedido. Veneno vil."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/waste.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/waste.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The chemicals in this waste are so toxic it is glowing.",
-      "Por": "As substâncias químicas neste lixo são tão tóxicas que estão brilhando."
     }
   },
   {

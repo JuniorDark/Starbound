@@ -39,23 +39,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/woodencabinet3/woodencabinet3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A medium amount of storage."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/woodencabinet3/woodencabinet3.object": [
         "/floranDescription"
       ]
     },
     "Texts": {
       "Eng": "Medium ssize ssstorage.",
       "Por": "Armazenamento de tamanho médio."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodencabinet3/woodencabinet3.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neutral. A medium amount of storage.",
+      "Por": "Neutro. Uma quantidade média de armazenamento."
     }
   },
   {

@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Um mercador como eu merece mais. Suficiente é suficiente."
+    ],
     "Files": {
       "dialog/merchant.config": [
         "/final/avian/default/0"
@@ -15,22 +17,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/merchant.config": [
-        "/otherDeed/glitch/default/0/glitchEmotedText"
-      ],
-      "dialog/oremerchant.config": [
-        "/otherDeed/glitch/default/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Are you trying to move another merchant into my store?",
-      "Por": "Você está tentando mover outro comerciante para minha loja?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Melhores ofertas ao redor!",
+      "Melhores ofertas por aí!"
+    ],
     "Files": {
       "dialog/merchant.config": [
         "/tout/default/default/2"
@@ -46,7 +36,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Você alugou minha loja? isso tem que ser um erro..."
+    ],
     "Files": {
       "dialog/merchant.config": [
         "/otherDeed/avian/default/1"
@@ -110,7 +102,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Aqui está um presente por toda a ajuda com minha loja!"
+    ],
     "Files": {
       "dialog/merchant.config": [
         "/rent/default/default/0",
@@ -123,7 +117,7 @@
     },
     "Texts": {
       "Eng": "Here's a gift for all your help with my shop!",
-      "Por": "Aqui está um presente por toda a ajuda com minha loja!"
+      "Por": "Está aqui um presente por toda sua ajuda com a minha loja!"
     }
   },
   {
@@ -142,7 +136,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Eu não posso vender minhas mercadorias nessas condições!"
+    ],
     "Files": {
       "dialog/merchant.config": [
         "/severe/default/default/0",
@@ -159,7 +155,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Eu mereço condições de trabalho melhores que essa!"
+    ],
     "Files": {
       "dialog/merchant.config": [
         "/final/apex/default/1"
@@ -174,7 +172,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Eu desisto, Irei vender minhas mercadorias em algum outro lugar!"
+    ],
     "Files": {
       "dialog/merchant.config": [
         "/final/human/default/2"
@@ -189,22 +189,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/merchant.config": [
-        "/otherDeed/glitch/default/2/glitchEmotedText"
-      ],
-      "dialog/oremerchant.config": [
-        "/otherDeed/glitch/default/2/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I thought I had this shop exclusively for myself.",
-      "Por": "Pensei que tinha esta loja exclusivamente para mim."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Tem algo que precisa comprar?"
+    ],
     "Files": {
       "dialog/merchant.config": [
         "/beacon/human/default/1"
@@ -219,7 +206,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Minha loja precisa estar em boas condições! poderia me ajudar a conserta-la?"
+    ],
     "Files": {
       "dialog/merchant.config": [
         "/enclosedArea/human/default/2"
@@ -234,7 +223,43 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Triste. eu achei que eu tinha essa loja exclusivamente pra mim."
+    ],
+    "Files": {
+      "dialog/merchant.config": [
+        "/otherDeed/glitch/default/2"
+      ],
+      "dialog/oremerchant.config": [
+        "/otherDeed/glitch/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sad. I thought I had this shop exclusively for myself.",
+      "Por": "Triste. Eu pensei que tinha essa loja exclusivamente para mim."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Chocado. Você está tentando colocar outro mercador na minha loja?"
+    ],
+    "Files": {
+      "dialog/merchant.config": [
+        "/otherDeed/glitch/default/0"
+      ],
+      "dialog/oremerchant.config": [
+        "/otherDeed/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shocked. Are you trying to move another merchant into my store?",
+      "Por": "Chocado. Você está tentando mover outro comerciante para minha loja?"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "É isso, eu desisto. Hora de levar meu negócio pra outro lugar!"
+    ],
     "Files": {
       "dialog/merchant.config": [
         "/final/human/default/1"
@@ -249,7 +274,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Há uma outra Deed na minha loja. Certamente não é intencional."
+    ],
     "Files": {
       "dialog/merchant.config": [
         "/otherDeed/avian/default/2"
@@ -264,7 +291,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Há uma outra Deed na minha loja? um erro foi cometido?"
+    ],
     "Files": {
       "dialog/merchant.config": [
         "/otherDeed/hylotl/default/2"
@@ -279,7 +308,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Esta é a minha loja! Por que alguém iria roubar as coisas dela?"
+    ],
     "Files": {
       "dialog/merchant.config": [
         "/tagCriteria/hylotl/default/1"
@@ -294,7 +325,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Por que alguém tentar entrar em minha loja?"
+    ],
     "Files": {
       "dialog/merchant.config": [
         "/otherDeed/avian/default/0"

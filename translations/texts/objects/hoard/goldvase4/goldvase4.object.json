@@ -63,23 +63,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hoard/goldvase4/goldvase4.object": [
-        "/floranDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Ssslim vase iss made of gold!",
-      "Por": "Vaso fino é feito de ouro!"
+      "Eng": "Confidence. This is a slim golden vase.",
+      "Por": "Confiança. Este é um vaso fino dourado."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/hoard/goldvase4/goldvase4.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/floranDescription"
       ]
     },
     "Texts": {
-      "Eng": "This is a slim golden vase."
+      "Eng": "Ssslim vase iss made of gold!",
+      "Por": "Vaso fino é feito de ouro!"
     }
   },
   {

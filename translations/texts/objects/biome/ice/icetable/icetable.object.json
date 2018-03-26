@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/ice/icetable/icetable.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Considering. It would be amusing to see a hot meal served up here.",
+      "Por": "Considerando. Seria divertido ver uma refeição quente servida aqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/ice/icetable/icetable.object": [
         "/floranDescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "Ice Table",
       "Por": "Ice Table"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/ice/icetable/icetable.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "It would be amusing to see a hot meal served up here."
     }
   },
   {

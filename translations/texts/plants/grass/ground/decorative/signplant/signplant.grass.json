@@ -20,7 +20,19 @@
     },
     "Texts": {
       "Eng": "A strange plant.",
-      "Por": "A strange plant."
+      "Por": "Uma planta estranha."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/signplant/signplant.grass": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Confusion. This plant appears to carry a message.",
+      "Por": "Confusa. Esta planta parece conter uma mensagem."
     }
   },
   {
@@ -33,18 +45,6 @@
     "Texts": {
       "Eng": "Floran use this plant for sssigns.",
       "Por": "Os Floran usam esta planta por sinais."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "plants/grass/ground/decorative/signplant/signplant.grass": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This plant appears to carry a message.",
-      "Por": "Esta planta parece levar uma mensagem."
     }
   }
 ]

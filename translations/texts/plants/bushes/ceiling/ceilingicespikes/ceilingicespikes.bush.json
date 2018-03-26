@@ -1,10 +1,11 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Estacas de gelo inclinados."
+    ],
     "Files": {
       "plants/bushes/ceiling/ceilingicespikes/ceilingicespikes.bush": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ]
     },
@@ -23,6 +24,18 @@
     "Texts": {
       "Eng": "Icy ssspikes.",
       "Por": "Estacas geladas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ceiling/ceilingicespikes/ceilingicespikes.bush": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. Hanging ice spikes.",
+      "Por": "Relatório. Estacas de gelo inclinadas."
     }
   }
 ]

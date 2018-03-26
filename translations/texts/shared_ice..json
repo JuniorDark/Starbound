@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Gelo"
+    ],
     "Files": {
       "biomes/surface_detached/ice.biome": [
         "/friendlyName"
@@ -14,7 +16,7 @@
     },
     "Texts": {
       "Eng": "Ice",
-      "Por": "Gelo"
+      "Por": "Ice"
     }
   }
 ]

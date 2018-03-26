@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/techlab/techlabconsole1offline.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Confused. Technology can be so incredibly complicated.",
+      "Por": "Confuso. Tecnologia pode ser tão incrivelmente complicada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/techlab/techlabconsole1offline.object": [
         "/humanDescription"
       ]
     },
@@ -57,17 +69,6 @@
     "Texts": {
       "Eng": "Offline tech console dispenser.",
       "Por": "Distribuidor de console de tecnologia off-line."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/outpost/techlab/techlabconsole1offline.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Technology can be so incredibly complicated."
     }
   },
   {

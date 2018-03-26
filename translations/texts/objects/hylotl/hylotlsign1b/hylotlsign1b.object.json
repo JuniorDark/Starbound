@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/hylotlsign1b/hylotlsign1b.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Confused. Why are the arrows pointing to the shell?",
+      "Por": "Confuso. Por que as setas estão apontando para a concha?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/hylotlsign1b/hylotlsign1b.object": [
         "/hylotlDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "What is this sign telling me? Buy seashells? Collect seashells?",
       "Por": "O que esta placa está me dizendo? Compre conchas? Colete conchas?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/hylotl/hylotlsign1b/hylotlsign1b.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Why are the arrows pointing to the shell?"
     }
   }
 ]

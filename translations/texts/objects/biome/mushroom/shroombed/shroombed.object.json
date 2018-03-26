@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/mushroom/shroombed/shroombed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detection. This mushroom bed emits mild hallucinogenic spores.",
+      "Por": "Detecção. Esta cama de cogumelo emite esporos alucinógenos leves."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/mushroom/shroombed/shroombed.object": [
         "/floranDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "This bed sways on its stalk. I feel queasy.",
       "Por": "Esta cama balança. Eu me sinto enjoado."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/mushroom/shroombed/shroombed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This mushroom bed emits mild hallucinogenic spores."
     }
   }
 ]

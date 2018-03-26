@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/geode/geodeplantpot/geodeplantpot.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Confused. This plant defies everything I know about how geodes are formed.",
+      "Por": "Confuso. Esta planta desafia tudo o que sei sobre como geodes são formados."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/geode/geodeplantpot/geodeplantpot.object": [
         "/shortdescription"
       ]
     },
@@ -45,17 +57,6 @@
     "Texts": {
       "Eng": "The leaves on this plant are actually geode crystals.",
       "Por": "As folhas nesta planta são realmente cristais do geodo."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/geode/geodeplantpot/geodeplantpot.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This plant defies everything I know about how geodes are formed."
     }
   },
   {

@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/rainbowwood/rainbowwoodsafe/rainbowwoodsafe.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. What could a brightly coloured chest like this contain?",
+      "Por": "Curioso. O que poderia um baú brilhantemente colorido como este conter?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/rainbowwood/rainbowwoodsafe/rainbowwoodsafe.object": [
         "/floranDescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "This wooden chest looks fun.",
       "Por": "Este baú de madeira parece divertido."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/rainbowwood/rainbowwoodsafe/rainbowwoodsafe.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "What could a brightly coloured chest like this contain?"
     }
   }
 ]

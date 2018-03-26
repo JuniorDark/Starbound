@@ -33,19 +33,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/bunkerslidingdoor/bunkerslidingdoor.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/outpost/outpostslidingdoor/outpostslidingdoor.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "There is something fascinating about the movement of these doors.",
-      "Por": "Há algo fascinante no movimento destas portas."
+      "Eng": "Hypnotised. There is something fascinating about the movement of these doors.",
+      "Por": "Hipnotizado. Há algo fascinante sobre o movimento dessas portas."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Esta porta deslizante me faz sentir como se estivesse num jogo de ficção científica..."
+    ],
     "Files": {
       "objects/human/bunkerslidingdoor/bunkerslidingdoor.object": [
         "/description"

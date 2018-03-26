@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/novakid/saloondoor/saloondoor.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amused. This 'door' seems to function only as a dramatic signal that someone has entered.",
+      "Por": "Divertido. Esta 'porta' parece funcionar apenas como um sinal dramático que alguém entrou."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/novakid/saloondoor/saloondoor.object": [
         "/apexDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "Steppin' through one o' these, you'd best be ready for anything.",
       "Por": "Passando por uma dessas, é melhor estar pronto para qualquer coisa."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/novakid/saloondoor/saloondoor.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This 'door' seems to function only as a dramatic signal that someone has entered."
     }
   },
   {

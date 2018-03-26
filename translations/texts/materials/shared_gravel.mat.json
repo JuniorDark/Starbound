@@ -18,21 +18,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/gravel.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/gravel.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Coarse, cascading gravel.",
-      "Por": "Cascalho grosso em cascata."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/gravel.matitem": [
         "/novakiddescription"
       ],
       "tiles/materials/gravel.material": [
@@ -72,6 +57,21 @@
     "Texts": {
       "Eng": "Gravel",
       "Por": "Gravel"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/gravel.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/gravel.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Irratated. Coarse, cascading gravel.",
+      "Por": "Irritado. Cascalho grosso em cascata."
     }
   }
 ]

@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Blocos antigos e mal trabalhados, desenhos brutos são riscados na pedra."
+    ],
     "Files": {
       "items/materials/temple4.matitem": [
         "/description"
@@ -56,22 +58,22 @@
     },
     "Texts": {
       "Eng": "Someone's gone and carved a buncha pictures into these bricks.",
-      "Por": "Alguém gravou um monte de gravuras nesses tijolos."
+      "Por": "Alguém se foi e gravou um monte de fotos nesses tijolos."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/temple4.matitem": [
-        "/glitchdescription/glitchEmotedText"
+        "/glitchdescription"
       ],
       "tiles/materials/temple4.material": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "These carvings are rather crudely done.",
-      "Por": "Estes entalhes são feitos de forma crua."
+      "Eng": "Unimpressed. These carvings are rather crudely done.",
+      "Por": "Não impressionado. Essas gravuras são bastante toscas."
     }
   }
 ]

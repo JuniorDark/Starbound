@@ -51,17 +51,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/arcadedance/arcadedance.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "It is an easy game, once you learn to recognize the patterns. 9/10."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/hylotl/arcadedance/arcadedance.object": [
         "/description"
       ]
     },
@@ -80,6 +69,18 @@
     "Texts": {
       "Eng": "Mastering the art of Dance-Dance can prove very challenging indeed.",
       "Por": "Dominar a arte do Dance-Dance pode ser muito desafiador."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/arcadedance/arcadedance.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased. It is an easy game, once you learn to recognize the patterns. 9/10.",
+      "Por": "Satisfeito. É um jogo fácil, uma vez que você aprende a reconhecer os padrões. 9/10."
     }
   },
   {

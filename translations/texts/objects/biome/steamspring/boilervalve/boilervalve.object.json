@@ -63,23 +63,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/steamspring/boilervalve/boilervalve.object": [
-        "/hylotlDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "This old wheel is most commonly used to regulate the flow of fluid.",
-      "Por": "Esta roda velha é mais comumente usada para regular o fluxo de fluido."
+      "Eng": "Observant. This valve has had many coats of paint.",
+      "Por": "Observador. Esta válvula teve muitas camadas de tinta."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/steamspring/boilervalve/boilervalve.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/hylotlDescription"
       ]
     },
     "Texts": {
-      "Eng": "This valve has had many coats of paint."
+      "Eng": "This old wheel is most commonly used to regulate the flow of fluid.",
+      "Por": "Esta roda velha é mais comumente usada para regular o fluxo de fluido."
     }
   },
   {

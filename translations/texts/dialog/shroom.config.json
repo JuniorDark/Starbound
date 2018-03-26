@@ -39,18 +39,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/shroom.config": [
-        "/hail/floran/glitch/7/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Clankbeast halb mesti, deka plant?",
-      "Por": "Clankbeast halb mesti, deka planta?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/shroom.config": [
         "/hail/floran/glitch/4"
       ]
     },
@@ -92,7 +80,7 @@
     },
     "Texts": {
       "Eng": "Fanfoom! Habba clink okay.",
-      "Por": "Fanfoom! Habba clink ok."
+      "Por": "Fanfoom! Habba clink okay."
     }
   },
   {
@@ -168,9 +156,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Halhalhalhoom, carpa casa fry planta! Seemingly."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "dialog/shroom.config": [
         "/hail/floran/floran/4"
@@ -178,7 +164,7 @@
     },
     "Texts": {
       "Eng": "Halhalhalhoom, carpa house fry plant! Seemingly.",
-      "Por": "Halhalhalhoom, carpa house fry planta! Seemingly."
+      "Por": "Halhalhalhoom, carpa house fry plant! Seemingly."
     }
   },
   {
@@ -202,7 +188,7 @@
     },
     "Texts": {
       "Eng": "Halhalhoom! Tentacrush weepa no meat.",
-      "Por": "Halhalhoom! Tentacrush weepa sem carne."
+      "Por": "Halhalhoom! Tentacrush weepa no meat."
     }
   },
   {
@@ -218,9 +204,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Halhalhoom, planta! Exchanga habble pixels! Chop clink!"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "dialog/shroom.config": [
         "/start/default/floran/0"
@@ -241,6 +225,18 @@
     "Texts": {
       "Eng": "Halhalhoom, weepa cantara swoop nab cloudchaser.",
       "Por": "Halhalhoom, weepa cantara swoop nab cloudchaser."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/shroom.config": [
+        "/hail/floran/glitch/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Halhalhoom. Smashroom nab plant?",
+      "Por": "Halhalhoom. Smashroom nab plant?"
     }
   },
   {
@@ -277,7 +273,7 @@
     },
     "Texts": {
       "Eng": "Halhoom no thief smashroom!",
-      "Por": "Halhoom no rouba Esmagarroom!"
+      "Por": "Halhoom no thief smashroom!"
     }
   },
   {
@@ -289,7 +285,7 @@
     },
     "Texts": {
       "Eng": "Halhoom sillypeck. Choka smashroom nab house.",
-      "Por": "Halhoom sillypeck. Choka smashroom nab casa."
+      "Por": "Halhoom sillypeck. Choka smashroom nab house."
     }
   },
   {
@@ -301,7 +297,7 @@
     },
     "Texts": {
       "Eng": "Halhoom smooth! Chop deka halberdeen cartography!",
-      "Por": "Halhoom smooth! Chop deka halberdeen cartografia!"
+      "Por": "Halhoom smooth! Chop deka halberdeen cartography!"
     }
   },
   {
@@ -313,7 +309,7 @@
     },
     "Texts": {
       "Eng": "Halhoom! Nab feara deka plant!",
-      "Por": "Halhoom! Nab feara deka planta!"
+      "Por": "Halhoom! Nab feara deka plant!"
     }
   },
   {
@@ -337,7 +333,7 @@
     },
     "Texts": {
       "Eng": "Halhoom, okay. Nab chop weepa, deka hairthing? Flap?",
-      "Por": "Halhoom, ok. Nab chop weepa, deka cabeludo? Flap?"
+      "Por": "Halhoom, okay. Nab chop weepa, deka hairthing? Flap?"
     }
   },
   {
@@ -349,7 +345,7 @@
     },
     "Texts": {
       "Eng": "Halmarr, spike circular deka bizarra!",
-      "Por": "Halmarr, spike circular deka bizarro!"
+      "Por": "Halmarr, spike circular deka bizarra!"
     }
   },
   {
@@ -385,7 +381,7 @@
     },
     "Texts": {
       "Eng": "Hoom flap! Bizarra no Kluex fry!",
-      "Por": "Hoom flap! Bizarro no Kluex fry!"
+      "Por": "Hoom flap! Bizarra no Kluex fry!"
     }
   },
   {
@@ -409,7 +405,7 @@
     },
     "Texts": {
       "Eng": "Hoom meat. Seemo bizarra stamper!",
-      "Por": "Hoom carne. Seemo bizarro stamper!"
+      "Por": "Hoom meat. Seemo bizarra stamper!"
     }
   },
   {
@@ -458,7 +454,7 @@
     },
     "Texts": {
       "Eng": "Hoom! Hoom hoom shroom! Plant naturra kissface!",
-      "Por": "Hoom! Hoom hoom shroom! Planta naturra kissface!"
+      "Por": "Hoom! Hoom hoom shroom! Plant naturra kissface!"
     }
   },
   {
@@ -470,7 +466,7 @@
     },
     "Texts": {
       "Eng": "Hoom! Hoom hoom! Chop smashroom nab peace kisser!",
-      "Por": "Hoom! Hoom hoom! Chop smashroom nab paz kisser!"
+      "Por": "Hoom! Hoom hoom! Chop smashroom nab peace kisser!"
     }
   },
   {
@@ -494,7 +490,7 @@
     },
     "Texts": {
       "Eng": "Hoom! Meat habble person nab fry!",
-      "Por": "Hoom! carne habble pessoa nab frita!"
+      "Por": "Hoom! Meat habble person nab fry!"
     }
   },
   {
@@ -506,7 +502,7 @@
     },
     "Texts": {
       "Eng": "Hoom! Nab chop Giant Hairthing. Weepa?",
-      "Por": "Hoom! Nab chop Coisa Cabeluda Gigante. Weepa?"
+      "Por": "Hoom! Nab chop Giant Hairthing. Weepa?"
     }
   },
   {
@@ -530,7 +526,7 @@
     },
     "Texts": {
       "Eng": "Hoom, nab feara plant! Habble pixels, mesta clink clink.",
-      "Por": "Hoom, nab feara planta! Habble pixels, mesta clink clink."
+      "Por": "Hoom, nab feara plant! Habble pixels, mesta clink clink."
     }
   },
   {
@@ -542,19 +538,19 @@
     },
     "Texts": {
       "Eng": "Hoom, squishfish. Nab smashroom habba clinker house. Okay?",
-      "Por": "Hoom, squishfish. Nab Esmagarroom habba clinker casa. Ok?"
+      "Por": "Hoom, squishfish. Nab smashroom habba clinker house. Okay?"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "dialog/shroom.config": [
-        "/hail/floran/glitch/3/glitchEmotedText"
+        "/hail/floran/glitch/7"
       ]
     },
     "Texts": {
-      "Eng": "Hoom. Clankbeast house fry, shroomy halb.",
-      "Por": "Hoom. Clankbeast house fry, shroomy halb."
+      "Eng": "Hoom. Clankbeast halb mesti, deka plant?",
+      "Por": "Hoom. Clankbeast halb mesti, deka plant?"
     }
   },
   {
@@ -590,7 +586,7 @@
     },
     "Texts": {
       "Eng": "Hoom. Hoom plant. Nabi spike cutshroom, plesta?",
-      "Por": "Hoom. Hoom plant. Nabi espinho cutshroom, plesta?"
+      "Por": "Hoom. Hoom plant. Nabi spike cutshroom, plesta?"
     }
   },
   {
@@ -626,7 +622,7 @@
     },
     "Texts": {
       "Eng": "Hoom. Plant clinker habba shopshroom plesta?",
-      "Por": "Hoom. Planta clinker habba shopshroom plesta?"
+      "Por": "Hoom. Plant clinker habba shopshroom plesta?"
     }
   },
   {
@@ -639,6 +635,18 @@
     "Texts": {
       "Eng": "Hoom. Plesta mesti hairthing.",
       "Por": "Hoom. Plesta mesti hairthing."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/shroom.config": [
+        "/hail/floran/glitch/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hoom. Shroomy nab clankbeast feara. Mesti bravada!",
+      "Por": "Hoom. Shroomy nab clankbeast feara. Mesti bravada!"
     }
   },
   {
@@ -662,7 +670,7 @@
     },
     "Texts": {
       "Eng": "Hoomah! Mesti hop smashroom danger!",
-      "Por": "Hoomah! Mesti hop Esmagarroom perigo!"
+      "Por": "Hoomah! Mesti hop smashroom danger!"
     }
   },
   {
@@ -686,7 +694,7 @@
     },
     "Texts": {
       "Eng": "Huh huh hoom? Squishfish...",
-      "Por": "Huh huh hoom? Peixe esguicho..."
+      "Por": "Huh huh hoom? Squishfish..."
     }
   },
   {
@@ -717,12 +725,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/shroom.config": [
+        "/hail/floran/glitch/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hurm. Hoom. Clankbeast house fry, shroomy halb.",
+      "Por": "Hurm. Hoom. Clankbeast house fry, shroomy halb."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/shroom.config": [
         "/hail/floran/hylotl/3"
       ]
     },
     "Texts": {
       "Eng": "Kissface plant nab cutshroom, squishfish. Threaten!",
-      "Por": "Kissface planta nab cutshroom, squishfish. Threaten!"
+      "Por": "Kissface plant nab cutshroom, squishfish. Threaten!"
     }
   },
   {
@@ -734,7 +754,7 @@
     },
     "Texts": {
       "Eng": "Kissface plant! Nab halb squishfish! Hahahahahaha!",
-      "Por": "Kissface planta! Nab halb squishfish! Hahahahahaha!"
+      "Por": "Kissface plant! Nab halb squishfish! Hahahahahaha!"
     }
   },
   {
@@ -746,7 +766,7 @@
     },
     "Texts": {
       "Eng": "Meat hoom! Enjoy house choka smashroom?",
-      "Por": "Carne hoom! Aproveite casa choka smashroom?"
+      "Por": "Meat hoom! Enjoy house choka smashroom?"
     }
   },
   {
@@ -758,7 +778,7 @@
     },
     "Texts": {
       "Eng": "Nab clink, come hoom shropshroom!",
-      "Por": "Nab clink, venha hoom shropshroom!"
+      "Por": "Nab clink, come hoom shropshroom!"
     }
   },
   {
@@ -770,7 +790,7 @@
     },
     "Texts": {
       "Eng": "Nab halb smashroom, squishfish! Cantara nab house, chop!",
-      "Por": "Nab halb Esmagarroom, squishfish! Cantara nab casa, chop!"
+      "Por": "Nab halb smashroom, squishfish! Cantara nab house, chop!"
     }
   },
   {
@@ -782,7 +802,7 @@
     },
     "Texts": {
       "Eng": "Nab house, squishfish! Nab nab nab.",
-      "Por": "Nab casa, squishfish! Nab nab nab."
+      "Por": "Nab house, squishfish! Nab nab nab."
     }
   },
   {
@@ -842,7 +862,7 @@
     },
     "Texts": {
       "Eng": "Nay halhoom clink! Come!",
-      "Por": "Nay halhoom clink! Venha!"
+      "Por": "Nay halhoom clink! Come!"
     }
   },
   {
@@ -854,7 +874,7 @@
     },
     "Texts": {
       "Eng": "Nay homshroom fix!",
-      "Por": "Nay homshroom consertar!"
+      "Por": "Nay homshroom fix!"
     }
   },
   {
@@ -902,7 +922,7 @@
     },
     "Texts": {
       "Eng": "No thief habito shroom!",
-      "Por": "Ladrão no habito shroom!"
+      "Por": "No thief habito shroom!"
     }
   },
   {
@@ -914,7 +934,7 @@
     },
     "Texts": {
       "Eng": "Plant hoom! Kissface chop growa, halb!?",
-      "Por": "Planta hoom! Kissface chop growa, halb!?"
+      "Por": "Plant hoom! Kissface chop growa, halb!?"
     }
   },
   {
@@ -933,36 +953,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/shroom.config": [
-        "/hail/floran/glitch/6/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Shroomy nab clankbeast feara. Mesti bravada!",
-      "Por": "Shroomy nab clankbeast feara. Mesti bravada!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/shroom.config": [
-        "/hail/floran/glitch/2/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Smashroom nab plant?",
-      "Por": "Smashroom nab planta?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/shroom.config": [
         "/alert/default/default/2"
       ]
     },
     "Texts": {
       "Eng": "Smashroom thief!",
-      "Por": "Esmagarroom ladrão!"
+      "Por": "Smashroom thief!"
     }
   },
   {
@@ -974,7 +970,7 @@
     },
     "Texts": {
       "Eng": "Smashroom thief! Smash!",
-      "Por": "Esmagarroom ladrão! Esmagar!"
+      "Por": "Smashroom thief! Smash!"
     }
   },
   {
@@ -1010,7 +1006,7 @@
     },
     "Texts": {
       "Eng": "Thief weepa no hoom shroom!",
-      "Por": "Ladrão weepa no hoom shroom!"
+      "Por": "Thief weepa no hoom shroom!"
     }
   },
   {
@@ -1022,7 +1018,7 @@
     },
     "Texts": {
       "Eng": "Thief weepa!",
-      "Por": "Ladrão weepa!"
+      "Por": "Thief weepa!"
     }
   }
 ]

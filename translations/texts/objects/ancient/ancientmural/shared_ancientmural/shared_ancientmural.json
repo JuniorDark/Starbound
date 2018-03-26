@@ -57,6 +57,33 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/ancient/ancientmural/ancientmural1/ancientmural1.object": [
+        "/glitchDescription"
+      ],
+      "objects/ancient/ancientmural/ancientmural2/ancientmural2.object": [
+        "/glitchDescription"
+      ],
+      "objects/ancient/ancientmural/ancientmural3/ancientmural3.object": [
+        "/glitchDescription"
+      ],
+      "objects/ancient/ancientmural/ancientmural4/ancientmural4.object": [
+        "/glitchDescription"
+      ],
+      "objects/ancient/ancientmural/ancientmural5/ancientmural5.object": [
+        "/glitchDescription"
+      ],
+      "objects/ancient/ancientmural/ancientmural6/ancientmural6.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Discontent. This fragmented plaque has impossibly ancient inscriptions upon it.",
+      "Por": "Descontente. Esta placa fragmentada tem inscrições impossivelmente antigas sobre ela."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/ancientmural/ancientmural1/ancientmural1.object": [
         "/floranDescription"
       ],
       "objects/ancient/ancientmural/ancientmural2/ancientmural2.object": [
@@ -213,33 +240,6 @@
     "Texts": {
       "Eng": "There's something exciting about ancient glowing writing. I wonder what it says?",
       "Por": "Há algo excitante sobre escrita brilhante antiga. Eu me pergunto o que ela diz?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/ancient/ancientmural/ancientmural1/ancientmural1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ancient/ancientmural/ancientmural2/ancientmural2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ancient/ancientmural/ancientmural3/ancientmural3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ancient/ancientmural/ancientmural4/ancientmural4.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ancient/ancientmural/ancientmural5/ancientmural5.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ancient/ancientmural/ancientmural6/ancientmural6.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This fragmented plaque has impossibly ancient inscriptions upon it.",
-      "Por": "Esta placa fragmentada tem inscrições impossivelmente antigas sobre ela."
     }
   }
 ]

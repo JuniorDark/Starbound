@@ -40,6 +40,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/outpostservicepanel/outpostservicepanel.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Apprehensive. This service panel has a dire warning on it.",
+      "Por": "Apreensivo. Este painel de serviço tem um aviso terrível nele."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostservicepanel/outpostservicepanel.object": [
         "/novakidDescription"
       ]
     },
@@ -82,17 +94,6 @@
     "Texts": {
       "Eng": "That warning sign seems vaguely serious.",
       "Por": "Esse sinal de alerta parece vagamente sério."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/outpost/outpostservicepanel/outpostservicepanel.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This service panel has a dire warning on it."
     }
   }
 ]

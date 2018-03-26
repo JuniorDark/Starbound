@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Um belo conjunto de armadura."
+    ],
     "Files": {
       "objects/glitch/medievalarmor/medievalarmor.object": [
         "/apexDescription"
@@ -78,20 +80,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/medievalarmor/medievalarmor.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/glitch/medievalarmorarmed/medievalarmorarmed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This armour is built purely for decoration. Real battle armour is far more rugged."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/glitch/medievalarmor/medievalarmor.object": [
         "/hylotlDescription"
       ],
       "objects/glitch/medievalarmorarmed/medievalarmorarmed.object": [
@@ -101,6 +89,21 @@
     "Texts": {
       "Eng": "This armour looks as if it's never seen battle.",
       "Por": "Esta armadura parece que nunca viu uma batalha."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/medievalarmor/medievalarmor.object": [
+        "/glitchDescription"
+      ],
+      "objects/glitch/medievalarmorarmed/medievalarmorarmed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unimpressed. This armour is built purely for decoration. Real battle armour is far more rugged.",
+      "Por": "Não Impressionado. Esta armadura é construída exclusivamente para decoração. A verdadeira armadura de batalha é muito mais robusta."
     }
   }
 ]

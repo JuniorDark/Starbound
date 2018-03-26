@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/novakid/frontierhatrack/frontierhatrack.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Confused. Is this an artificial pair of horns? For what purpose?",
+      "Por": "Confuso. É um par de chifres artificiais? Para qual propósito?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/novakid/frontierhatrack/frontierhatrack.object": [
         "/floranDescription"
       ]
     },
@@ -57,17 +69,6 @@
     "Texts": {
       "Eng": "Frontier Hat Rack",
       "Por": "Frontier Hat Rack"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/novakid/frontierhatrack/frontierhatrack.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Is this an artificial pair of horns? For what purpose?"
     }
   },
   {

@@ -75,23 +75,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/miningbelt/miningbelt.object": [
-        "/shortdescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Mining Conveyer Belt",
-      "Por": "Mining Conveyer Belt"
+      "Eng": "Indifferent. The conveyer belt is seemingly nonfunctional.",
+      "Por": "Indiferente. A esteira transportadora é aparentemente não funcional."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/miningbelt/miningbelt.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "The conveyer belt is seemingly nonfunctional."
+      "Eng": "Mining Conveyer Belt",
+      "Por": "Mining Conveyer Belt"
     }
   }
 ]

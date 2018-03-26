@@ -33,19 +33,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/ancientbrick.matitem": [
-        "/glitchdescription/glitchEmotedText"
+        "/glitchdescription"
       ],
       "tiles/materials/ancientbrick.material": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "These ancient bricks have withstood the ravages of time.",
-      "Por": "Estes tijolos antigos resistiram às devastações do tempo."
+      "Eng": "Impressed. These ancient bricks have withstood the ravages of time.",
+      "Por": "Impressionado. Estes tijolos antigos resistiram à devastação do tempo."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Este tijolo esculpido é imensamente velho."
+    ],
     "Files": {
       "items/materials/ancientbrick.matitem": [
         "/description"
@@ -56,7 +58,7 @@
     },
     "Texts": {
       "Eng": "This carved brick is immeasurably old.",
-      "Por": "Este tijolo esculpido é imensamente velho."
+      "Por": "Este tijolo esculpido é incomensuravelmente velho."
     }
   }
 ]

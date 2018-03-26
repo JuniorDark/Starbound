@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/oasis/reedchest/reedchest.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analytical. The tensile strength of these reeds makes them a poor material from which to construct a chest.",
+      "Por": "Analítico. A resistência à tração destes juncos torna-os um material pobre a partir do qual construir um baú."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/oasis/reedchest/reedchest.object": [
         "/floranDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "Takes some fancy weavin' to make a chest outta reeds.",
       "Por": "Leva alguma tecelagem extravagante para fazer um baú de juncos."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/oasis/reedchest/reedchest.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The tensile strength of these reeds makes them a poor material from which to construct a chest."
     }
   },
   {

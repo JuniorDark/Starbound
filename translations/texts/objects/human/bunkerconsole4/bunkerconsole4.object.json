@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/bunkerconsole4/bunkerconsole4.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Concerned. It appears as if the previous user of this console went insane. There are a number of alarming messages.",
+      "Por": "Preocupado. Parece que o usuário anterior deste console ficou louco. Há uma série de mensagens alarmantes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkerconsole4/bunkerconsole4.object": [
         "/hylotlDescription"
       ]
     },
@@ -45,17 +57,6 @@
     "Texts": {
       "Eng": "Hunting... partiesss.... Floran have parties on hunt too.",
       "Por": "Caçar... festasss.... Floran têm festas na caça também."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/human/bunkerconsole4/bunkerconsole4.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "It appears as if the previous user of this console went insane. There are a number of alarming messages."
     }
   },
   {

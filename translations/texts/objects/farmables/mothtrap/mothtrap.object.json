@@ -15,17 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/mothtrap/mothtrap.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Glitch farm moths to make the finest silk."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/farmables/mothtrap/mothtrap.object": [
         "/avianDescription"
       ]
     },
@@ -56,6 +45,18 @@
     "Texts": {
       "Eng": "Moth Trap",
       "Por": "Moth Trap"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/mothtrap/mothtrap.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Proud. Glitch farm moths to make the finest silk.",
+      "Por": "Orgulhoso. Glitch farma mariposas para fazer a seda a mais fina."
     }
   },
   {

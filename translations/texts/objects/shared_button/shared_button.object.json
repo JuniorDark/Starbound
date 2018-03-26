@@ -3,21 +3,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/hylotlbutton/hylotlbutton.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/wired/smallfloorbutton/smallfloorbutton.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/wired/smallwallbutton/smallwallbutton.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/wired/tinywallbutton/tinywallbutton.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "A button, begging to be pressed.",
-      "Por": "Um botão, implorando para ser pressionado."
+      "Eng": "Tempted. A button, begging to be pressed.",
+      "Por": "Tentado. Um botão, implorando para ser pressionado."
     }
   }
 ]

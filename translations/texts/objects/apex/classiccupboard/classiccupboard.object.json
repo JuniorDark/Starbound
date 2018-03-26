@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/classiccupboard/classiccupboard.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hopeful. Perhaps there is something useful within.",
+      "Por": "Esperançoso. Talvez haja algo útil dentro."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/classiccupboard/classiccupboard.object": [
         "/humanDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "Looks like a big ol' fancy cabinet.",
       "Por": "Parece um grande armário elegante."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/apex/classiccupboard/classiccupboard.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Perhaps there is something useful within."
     }
   },
   {

@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/clues/avian/kluexmap1/kluexmap1.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excited. This old map makes claims of ancient treasures. I wonder how true it is?",
+      "Por": "Animado. Este velho mapa faz reivindicações de tesouros antigos. Eu me pergunto o quão verdadeiro é?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/clues/avian/kluexmap1/kluexmap1.object": [
         "/floranDescription"
       ]
     },
@@ -57,17 +69,6 @@
     "Texts": {
       "Eng": "This map says it marks the way to the location of Kluex's treasure. I wonder who made this?",
       "Por": "Este mapa diz que marca o caminho para a localização do tesouro de Kluex. Eu me pergunto quem fez isso?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/clues/avian/kluexmap1/kluexmap1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This old map makes claims of ancient treasures. I wonder how true it is?"
     }
   },
   {

@@ -75,23 +75,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/planttorch/planttorch.object": [
-        "/avianDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "The plant wrapped around this torch isn't singed by the flames.",
-      "Por": "A planta enrolada em torno desta tocha não é chamuscada pelas chamas."
+      "Eng": "Surprised. This torch is made from a plant that does not burn.",
+      "Por": "Surpreso. Esta tocha é feita de uma planta que não queima."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/planttorch/planttorch.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/avianDescription"
       ]
     },
     "Texts": {
-      "Eng": "This torch is made from a plant that does not burn."
+      "Eng": "The plant wrapped around this torch isn't singed by the flames.",
+      "Por": "A planta enrolada em torno desta tocha não é chamuscada pelas chamas."
     }
   },
   {

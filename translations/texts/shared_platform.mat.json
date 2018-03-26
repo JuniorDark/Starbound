@@ -3,6 +3,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/platform.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/platforms/platform.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Familiar. This is a basic wood platform.",
+      "Por": "Familiar. Esta é uma plataforma de madeira básica."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/platform.matitem": [
         "/novakiddescription"
       ],
       "tiles/platforms/platform.material": [
@@ -11,7 +26,7 @@
     },
     "Texts": {
       "Eng": "Just a platform made outta wood.",
-      "Por": "Apenas uma plataforma feita de madeira."
+      "Por": "Só uma plataforma feita de madeira."
     }
   },
   {
@@ -26,22 +41,7 @@
     },
     "Texts": {
       "Eng": "Ssimple wood platformsss.",
-      "Por": "Plataformasss de madeira ssimples."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/platform.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/platforms/platform.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This is a basic wood platform.",
-      "Por": "Esta é uma plataforma básica de madeira."
+      "Por": "Plataformass de madeira simpless."
     }
   }
 ]

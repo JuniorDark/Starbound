@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/clues/floran/floranhunterpainting/floranhunterpainting.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intrigued. This picture crudely depicts what appears to be a Floran mid-hunt.",
+      "Por": "Intrigado. Este retrato descreve cruamente o que parece ser um caçador Floran intermediário."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/clues/floran/floranhunterpainting/floranhunterpainting.object": [
         "/shortdescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "This here paintin' shows what I think is a warrior runnin' with a spear in hand.",
       "Por": "Esta pintura aqui mostra o que eu acho que é um guerreiro correndo com uma lança na mão."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/clues/floran/floranhunterpainting/floranhunterpainting.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This picture crudely depicts what appears to be a Floran mid-hunt."
     }
   },
   {

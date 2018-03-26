@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma telha que balança."
+    ],
     "Files": {
       "objects/ancient/ancientswitchhidden/ancientswitchhidden.object": [
         "/humanDescription"
@@ -14,29 +16,14 @@
     },
     "Texts": {
       "Eng": "A rattling tile.",
-      "Por": "Um ladrilho chacoalhante."
+      "Por": "Um ladrilho barulhento."
     }
   },
   {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/ancient/ancientswitchhidden/ancientswitchhidden.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/avian/avianswitchhidden/avianswitchhidden1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/avian/avianswitchhidden/avianswitchhidden2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A slightly out of place tile.",
-      "Por": "Um ladrilho ligeiramente fora do lugar."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Um azulejo estranho.",
+      "Uma telha estranha."
+    ],
     "Files": {
       "objects/ancient/ancientswitchhidden/ancientswitchhidden.object": [
         "/hylotlDescription"
@@ -57,7 +44,29 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Curioso. Uma telha fora do lugar."
+    ],
+    "Files": {
+      "objects/ancient/ancientswitchhidden/ancientswitchhidden.object": [
+        "/glitchDescription"
+      ],
+      "objects/avian/avianswitchhidden/avianswitchhidden1.object": [
+        "/glitchDescription"
+      ],
+      "objects/avian/avianswitchhidden/avianswitchhidden2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. A slightly out of place tile.",
+      "Por": "Curioso. Um ladrilho ligeiramente fora de lugar."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Há algo de errado com esta telha."
+    ],
     "Files": {
       "objects/ancient/ancientswitchhidden/ancientswitchhidden.object": [
         "/novakidDescription"
@@ -75,7 +84,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Esta telha parece ser solta.",
+      "Este azulejo parece estar solto."
+    ],
     "Files": {
       "objects/ancient/ancientswitchhidden/ancientswitchhidden.object": [
         "/apexDescription"
@@ -96,7 +108,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Essa telha tem uma aparência ruim.",
+      "Este azulejo esta mal colocado."
+    ],
     "Files": {
       "objects/ancient/ancientswitchhidden/ancientswitchhidden.object": [
         "/avianDescription"
@@ -117,7 +132,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Esta telha parece diferente do resto."
+    ],
     "Files": {
       "objects/ancient/ancientswitchhidden/ancientswitchhidden.object": [
         "/description"
@@ -135,7 +152,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Agitação de telha."
+    ],
     "Files": {
       "objects/ancient/ancientswitchhidden/ancientswitchhidden.object": [
         "/floranDescription"

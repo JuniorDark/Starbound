@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma porta de nave espacial básica."
+    ],
     "Files": {
       "objects/ship/apexshipdoor/apexshipdoor.object": [
         "/hylotlDescription"
@@ -56,11 +58,13 @@
     },
     "Texts": {
       "Eng": "A door, the type you'd find on a ship.",
-      "Por": "Uma porta, o tipo que você encontraria em um a nave."
+      "Por": "Uma porta."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Porta legal."
+    ],
     "Files": {
       "objects/ship/apexshipdoor/apexshipdoor.object": [
         "/avianDescription",
@@ -100,36 +104,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/ship/apexshipdoor/apexshipdoor.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/avianshipdoor/avianshipdoor.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/floranshipdoor/floranshipdoor.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/glitchshipdoor/glitchshipdoor.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/humanshipdoor/humanshipdoor.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/hylotlshipdoor/hylotlshipdoor.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/novakidshipdoor/novakidshipdoor.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A standard ship door.",
-      "Por": "Uma porta de nave padrão."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/ship/apexshipdoor/apexshipdoor.object": [
         "/apexDescription"
       ],
       "objects/ship/avianshipdoor/avianshipdoor.object": [
@@ -153,7 +127,37 @@
     },
     "Texts": {
       "Eng": "Doors like this are common on ships.",
-      "Por": "Portas como esta são comuns em naves."
+      "Por": "Estas portas são usadas em todas as nossas naves."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/apexshipdoor/apexshipdoor.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/avianshipdoor/avianshipdoor.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/floranshipdoor/floranshipdoor.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/glitchshipdoor/glitchshipdoor.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/humanshipdoor/humanshipdoor.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/hylotlshipdoor/hylotlshipdoor.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/novakidshipdoor/novakidshipdoor.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Informed. A standard ship door.",
+      "Por": "Orgulhoso. Uma porta de nave."
     }
   },
   {

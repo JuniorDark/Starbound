@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/apexlamp3/apexlamp3.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cautious. Paper temperature too high.",
+      "Por": "Cauteloso. Temperatura do papel muito alta."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/apexlamp3/apexlamp3.object": [
         "/floranDescription"
       ]
     },
@@ -45,17 +57,6 @@
     "Texts": {
       "Eng": "Paper Lantern",
       "Por": "Paper Lantern"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/apex/apexlamp3/apexlamp3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Paper temperature too high."
     }
   },
   {

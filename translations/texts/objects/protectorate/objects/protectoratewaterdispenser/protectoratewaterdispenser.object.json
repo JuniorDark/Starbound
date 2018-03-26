@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/protectorate/objects/protectoratewaterdispenser/protectoratewaterdispenser.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Appreciative. This water dispenser is topped up daily.",
+      "Por": "Apreciativo. Este distribuidor de água é abastecido diariamente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/protectorate/objects/protectoratewaterdispenser/protectoratewaterdispenser.object": [
         "/description"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "Protectorate Water Dispenser",
       "Por": "Protectorate Water Dispenser"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/protectorate/objects/protectoratewaterdispenser/protectoratewaterdispenser.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This water dispenser is topped up daily."
     }
   },
   {

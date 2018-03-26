@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/apexrecordplayer/apexrecordplayer.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Focused. Music demonstrates a lack of musical theory. Contains messages.",
+      "Por": "Focado. A música demonstra uma falta de teoria musical. Contém mensagens."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/apexrecordplayer/apexrecordplayer.object": [
         "/humanDescription"
       ]
     },
@@ -45,17 +57,6 @@
     "Texts": {
       "Eng": "It's churning out sultry tunes from Big Ape's #1 album, 'Jungle Love'.",
       "Por": "Ela está tocando melodias sensuais do álbum #1 do Big Ape, 'Amor da Selva'."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/apex/apexrecordplayer/apexrecordplayer.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Music demonstrates a lack of musical theory. Contains messages."
     }
   },
   {

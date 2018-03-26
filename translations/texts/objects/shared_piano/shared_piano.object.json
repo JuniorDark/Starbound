@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "As teclas produzem sons agradáveis."
+    ],
     "Files": {
       "objects/apex/apexpiano/apexpiano.object": [
         "/avianDescription"
@@ -11,7 +13,7 @@
     },
     "Texts": {
       "Eng": "The buttons produce pleasant sounds.",
-      "Por": "As teclas produzem sons agradáveis."
+      "Por": "Os botões produzem sons agradáveis."
     }
   }
 ]

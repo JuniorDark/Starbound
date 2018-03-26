@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/florantable1/florantable1.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Caution. If the rope should wear out this table will fall apart.",
+      "Por": "Cautela. Se a corda se desgastar esta mesa vai desmoronar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/florantable1/florantable1.object": [
         "/description"
       ]
     },
@@ -57,17 +69,6 @@
     "Texts": {
       "Eng": "Floran create furniture. Bind wood with rope.",
       "Por": "Floran criar mobília. Amarra madeira com corda."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/floran/florantable1/florantable1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "If the rope should wear out this table will fall apart."
     }
   },
   {

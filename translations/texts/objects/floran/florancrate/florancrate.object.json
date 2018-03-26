@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/florancrate/florancrate.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. What is the chance of a valuable item being a crate so unassuming?",
+      "Por": "Curioso. Qual é a chance de um item valioso estar em uma caixa tão despretensiosa?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/florancrate/florancrate.object": [
         "/floranDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "The bone corners allow it to move easily over the ground.",
       "Por": "Os cantos de ossos permitem que ela se mova facilmente sobre o chão."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/floran/florancrate/florancrate.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "What is the chance of a valuable item being a crate so unassuming?"
     }
   },
   {

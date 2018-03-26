@@ -15,17 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/crafting/pixelcompressor/pixelcompressor.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A pixel bank."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/crafting/pixelcompressor/pixelcompressor.object": [
         "/avianDescription"
       ]
     },
@@ -80,6 +69,18 @@
     "Texts": {
       "Eng": "I wonder if this pixel bank has an overdraft function...",
       "Por": "Me pergunto se este banco de pixel tem uma função de cheque especial..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/pixelcompressor/pixelcompressor.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neutral. A pixel bank.",
+      "Por": "Neutro. Um banco de pixel."
     }
   },
   {

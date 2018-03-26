@@ -39,23 +39,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/classicdoor/classicdoor.object": [
-        "/hylotlDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Scented wood, a practice common in Hylotl craft.",
-      "Por": "Madeira perfumada, uma prática comum na criação Hylotl."
+      "Eng": "Irritated. Sensors suggest a unique odour from this door.",
+      "Por": "Irritado. Sensores sugerem um odor único desta porta."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/classicdoor/classicdoor.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/hylotlDescription"
       ]
     },
     "Texts": {
-      "Eng": "Sensors suggest a unique odour from this door."
+      "Eng": "Scented wood, a practice common in Hylotl craft.",
+      "Por": "Madeira perfumada, uma prática comum na criação Hylotl."
     }
   },
   {

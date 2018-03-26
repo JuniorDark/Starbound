@@ -3,108 +3,97 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/blacksmith.npctype": [
-        "/scriptConfig/dialog/attack/glitch/default/6/glitchEmotedText"
+        "/scriptConfig/dialog/attack/glitch/default/7"
       ]
     },
     "Texts": {
-      "Eng": "A good chance to test me weapon out!",
-      "Por": "Uma boa chance de testar a minha arma!"
+      "Eng": "Bad-tempered. Looks like I'll have to teach ye a lesson.",
+      "Por": "Mau humorado. Parece que eu vou ter que te ensinar uma lição."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "npcs/blacksmith.npctype": [
-        "/scriptConfig/dialog/attack/glitch/default/3/glitchEmotedText"
+        "/scriptConfig/dialog/attack/glitch/default/2"
       ]
     },
     "Texts": {
-      "Eng": "Didn't they tell ye, never aggro a smith?",
-      "Por": "Eles não te contaram, nunca incomode um ferreiro?"
+      "Eng": "Cross. You'll not make a mockery o' me!",
+      "Por": "Zangado. Você não vai me ridicularizar!"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "npcs/blacksmith.npctype": [
-        "/scriptConfig/dialog/attack/glitch/default/1/glitchEmotedText"
+        "/scriptConfig/dialog/attack/glitch/default/0"
       ]
     },
     "Texts": {
-      "Eng": "Here we go again...",
-      "Por": "Aqui vamos nós novamente..."
+      "Eng": "Curmudgeonly. You young'uns are always causin' trouble!",
+      "Por": "Ranzinza. Vocês jovens estão sempre causando problemas!"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "npcs/blacksmith.npctype": [
-        "/scriptConfig/dialog/attack/glitch/default/5/glitchEmotedText"
+        "/scriptConfig/dialog/attack/glitch/default/6"
       ]
     },
     "Texts": {
-      "Eng": "Huh, more disruption.",
-      "Por": "Huh, mais perturbação."
+      "Eng": "Eager. A good chance to test me weapon out!",
+      "Por": "Ansioso. Uma boa oportunidade pra testar a minha arma!"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "npcs/blacksmith.npctype": [
-        "/scriptConfig/dialog/attack/glitch/default/4/glitchEmotedText"
+        "/scriptConfig/dialog/attack/glitch/default/5"
       ]
     },
     "Texts": {
-      "Eng": "Looks like I'll be messin' up me nice new weapon.",
-      "Por": "Parece que vou estragar minha nova arma legal."
+      "Eng": "Resigned. Huh, more disruption.",
+      "Por": "Resignado. Hã, mais interrupções."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "npcs/blacksmith.npctype": [
-        "/scriptConfig/dialog/attack/glitch/default/7/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Looks like I'll have to teach ye a lesson.",
-      "Por": "Parece que vou ter que te ensinar uma lição."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "npcs/blacksmith.npctype": [
-        "/scriptConfig/dialog/attack/default/default/0"
+        "/scriptConfig/dialog/attack/default/default/0",
+        "/scriptConfig/dialog/attack/glitch/default/4"
       ]
     },
     "Texts": {
       "Eng": "Sullen. Looks like I'll be messin' up me nice new weapon.",
-      "Por": "Carrancudo. Parece que vou estragar minha nova arma legal."
+      "Por": "Mal-humorado. Parece que eu vou ter que sujar a minha bela arma nova."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "npcs/blacksmith.npctype": [
-        "/scriptConfig/dialog/attack/glitch/default/0/glitchEmotedText"
+        "/scriptConfig/dialog/attack/glitch/default/3"
       ]
     },
     "Texts": {
-      "Eng": "You young'uns are always causin' trouble!",
-      "Por": "Vocês jovens estão sempre causando problemas!"
+      "Eng": "Surly. Didn't they tell ye, never aggro a smith?",
+      "Por": "Grosseiro. Será que eles não te disseram, nunca ataque um ferreiro?"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "npcs/blacksmith.npctype": [
-        "/scriptConfig/dialog/attack/glitch/default/2/glitchEmotedText"
+        "/scriptConfig/dialog/attack/glitch/default/1"
       ]
     },
     "Texts": {
-      "Eng": "You'll not make a mockery o' me!",
-      "Por": "Você não vai zombar de mim!"
+      "Eng": "Weary. Here we go again...",
+      "Por": "Cansado. Aqui vamos nós novamente..."
     }
   }
 ]

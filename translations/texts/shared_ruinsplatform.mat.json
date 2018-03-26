@@ -3,6 +3,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/ruinsplatform.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/platforms/ruinsplatform.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alarmed. This old wooden platform is structurally unsound.",
+      "Por": "Alarmado. Esta velha plataforma de madeira é estruturalmente inadequada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ruinsplatform.matitem": [
         "/description"
       ],
       "tiles/platforms/ruinsplatform.material": [
@@ -57,21 +72,6 @@
     "Texts": {
       "Eng": "Ruins Platform",
       "Por": "Ruins Platform"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/ruinsplatform.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/platforms/ruinsplatform.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This old wooden platform is structurally unsound.",
-      "Por": "Esta antiga plataforma de madeira é estruturalmente inadequada."
     }
   }
 ]

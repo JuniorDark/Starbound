@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/woodencouch2/woodencouch2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amazed. Such softness.",
+      "Por": "Espantado. Que suavidade."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodencouch2/woodencouch2.object": [
         "/avianDescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "Such comfort. I am able to achieve instant calm.",
       "Por": "Que conforto. Eu sou capaz de alcançar a calma instantânea."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/woodencouch2/woodencouch2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Such softness."
     }
   },
   {

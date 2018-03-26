@@ -87,24 +87,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/themed/cabin/cabinstooltable/cabinstooltable.object": [
-        "/hylotlDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "This small table looks half-finished. Maybe a coat of paint would help.",
-      "Por": "Esta pequena mesa parece meio acabada. Talvez uma camada de tinta ajudasse."
+      "Eng": "Pleased. This small table will be useful for placing things on.",
+      "Por": "Satisfeito. Esta pequena mesa será útil para colocar as coisas nela."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/themed/cabin/cabinstooltable/cabinstooltable.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/hylotlDescription"
       ]
     },
     "Texts": {
-      "Eng": "This small table will be useful for placing things on.",
-      "Por": "Esta pequena mesa será útil para colocar coisas nela."
+      "Eng": "This small table looks half-finished. Maybe a coat of paint would help.",
+      "Por": "Esta pequena mesa parece meio acabada. Talvez uma camada de tinta ajudasse."
     }
   }
 ]

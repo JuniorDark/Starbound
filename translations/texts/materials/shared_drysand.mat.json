@@ -63,15 +63,15 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/drysand.matitem": [
-        "/glitchdescription/glitchEmotedText"
+        "/glitchdescription"
       ],
       "tiles/materials/drysand.material": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "This sand is dry and hard.",
-      "Por": "Esta areia esta seca e dura."
+      "Eng": "Observant. This sand is dry and hard.",
+      "Por": "Atento. Esta areia esta seca e dura."
     }
   }
 ]

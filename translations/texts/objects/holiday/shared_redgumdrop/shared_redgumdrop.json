@@ -33,12 +33,10 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/holiday/redgumdrop1/redgumdrop1.object": [
-        "/apexDescription",
-        "/glitchDescription/glitchEmotedText"
+        "/apexDescription"
       ],
       "objects/holiday/redgumdrop2/redgumdrop2.object": [
-        "/apexDescription",
-        "/glitchDescription/glitchEmotedText"
+        "/apexDescription"
       ]
     },
     "Texts": {
@@ -59,6 +57,21 @@
     "Texts": {
       "Eng": "Floran eat big red sweet!",
       "Por": "Floran come grande doce vermelho!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/holiday/redgumdrop1/redgumdrop1.object": [
+        "/glitchDescription"
+      ],
+      "objects/holiday/redgumdrop2/redgumdrop2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. A tasty red gumdrop.",
+      "Por": "Declaração. Uma jujuba vermelha saborosa."
     }
   }
 ]

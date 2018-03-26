@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/hylotlcityposter/hylotlcityposter.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. What city is depicted in this photograph?",
+      "Por": "Curioso. Qual cidade é representada nesta fotografia?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/hylotlcityposter/hylotlcityposter.object": [
         "/shortdescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "It'sss a picture.",
       "Por": "É uma foto."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/hylotl/hylotlcityposter/hylotlcityposter.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "What city is depicted in this photograph?"
     }
   }
 ]

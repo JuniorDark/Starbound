@@ -27,17 +27,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/scorchedcity/lasertripwire/lasertripwire.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A tripwire with a laser."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/scorchedcity/lasertripwire/lasertripwire.object": [
         "/description",
         "/humanDescription"
       ]
@@ -45,6 +34,18 @@
     "Texts": {
       "Eng": "Crossing this laser beam might trigger something!",
       "Por": "Atravessar este raio laser pode desencadear algo!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/scorchedcity/lasertripwire/lasertripwire.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. A tripwire with a laser.",
+      "Por": "Impressionado. Um fio de disparo com um laser."
     }
   },
   {

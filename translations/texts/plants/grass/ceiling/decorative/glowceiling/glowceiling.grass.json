@@ -4,13 +4,24 @@
     "Files": {
       "plants/grass/ceiling/decorative/glowceiling/glowceiling.grass": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ]
     },
     "Texts": {
       "Eng": "A glowing growth.",
       "Por": "Um brilhante aumento."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ceiling/decorative/glowceiling/glowceiling.grass": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bemusement. A glowing growth.",
+      "Por": "Confuso. Um brilhante aumento."
     }
   },
   {

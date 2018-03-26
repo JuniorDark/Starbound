@@ -27,17 +27,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/arttrophies/rainbowunicornstatue/rainbowunicornstatue.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A unicorn statue. How I'd love to see this creature in the flesh."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/arttrophies/rainbowunicornstatue/rainbowunicornstatue.object": [
         "/humanDescription"
       ]
     },
@@ -56,6 +45,18 @@
     "Texts": {
       "Eng": "Aside from the horn it's a mighty fine lookin' horse.",
       "Por": "Além do chifre é muito parecido com um cavalo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/arttrophies/rainbowunicornstatue/rainbowunicornstatue.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Astonishment. A unicorn statue. How I'd love to see this creature in the flesh.",
+      "Por": "Espanto. Uma estátua de unicórnio. Como eu adoraria ver essa criatura em carne e osso."
     }
   },
   {

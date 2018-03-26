@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/swamp/swampchest/swampchest.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. Imagine all the things that could be kept in here.",
+      "Por": "Curioso. Imagine todas as coisas que poderiam ser guardadas aqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/swamp/swampchest/swampchest.object": [
         "/floranDescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "I would not trust the security of a chest like this.",
       "Por": "Eu não confio na segurança de um baú como este."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/swamp/swampchest/swampchest.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Imagine all the things that could be kept in here."
     }
   },
   {

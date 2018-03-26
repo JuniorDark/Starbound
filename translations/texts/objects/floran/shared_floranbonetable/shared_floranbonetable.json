@@ -48,6 +48,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/floranbonetable1/floranbonetable1.object": [
+        "/glitchDescription"
+      ],
+      "objects/floran/floranbonetable2/floranbonetable2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Surprised. This table appears to have been heat treated kill bacteria.",
+      "Por": "Surpreso. Esta mesa parece ter sido tratada termicamente para matar bactérias."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/floranbonetable1/floranbonetable1.object": [
         "/avianDescription"
       ],
       "objects/floran/floranbonetable2/floranbonetable2.object": [
@@ -72,20 +87,6 @@
     "Texts": {
       "Eng": "This bone table is smooth and cold.",
       "Por": "Esta mesa de osso é lisa e fria."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/floran/floranbonetable1/floranbonetable1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/floran/floranbonetable2/floranbonetable2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This table appears to have been heat treated kill bacteria."
     }
   },
   {

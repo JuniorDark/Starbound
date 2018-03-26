@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/bunkermotiondetector/bunkermotiondetector.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A fairly rudimentary motion detector."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/human/bunkermotiondetector/bunkermotiondetector.object": [
         "/avianDescription"
       ]
     },
@@ -38,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/bunkermotiondetector/bunkermotiondetector.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis. A fairly rudimentary motion detector.",
+      "Por": "Análitico. Um detector de movimento bastante rudimentar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkermotiondetector/bunkermotiondetector.object": [
         "/floranDescription"
       ]
     },
@@ -54,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Looks like this thing is scannin' for movement."
+      "Eng": "Looks like this thing is scannin' for movement.",
+      "Por": "Parece que essa coisa está procurando por movimento."
     }
   },
   {

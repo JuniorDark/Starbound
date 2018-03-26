@@ -48,6 +48,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/apexslidingdoor1/apexslidingdoor1.object": [
+        "/glitchDescription"
+      ],
+      "objects/apex/apexslidingdoor2/apexslidingdoor2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Playful. The sliding noise sends a spark through my circuits.",
+      "Por": "Brincalhão. O barulho de deslizamento envia uma faísca através de meus circuitos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/apexslidingdoor1/apexslidingdoor1.object": [
         "/avianDescription"
       ],
       "objects/apex/apexslidingdoor2/apexslidingdoor2.object": [
@@ -57,21 +72,6 @@
     "Texts": {
       "Eng": "Such novel architecture.",
       "Por": "Que arquitetura curiosa."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/apex/apexslidingdoor1/apexslidingdoor1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/apex/apexslidingdoor2/apexslidingdoor2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The sliding noise sends a spark through my circuits.",
-      "Por": "O ruído de deslizamento envia uma faísca pelos meus circuitos."
     }
   },
   {

@@ -51,23 +51,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/travellersbeacon/travellersbeacon.object": [
-        "/floranDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Lightsss and moving bitsss. Boring!",
-      "Por": "Luzesss e bits em movimento. Chato!"
+      "Eng": "Fascinated. This device is measuring local atmospheric levels.",
+      "Por": "Fascinado. Este dispositivo mede os níveis atmosféricos locais."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/travellersbeacon/travellersbeacon.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/floranDescription"
       ]
     },
     "Texts": {
-      "Eng": "This device is measuring local atmospheric levels."
+      "Eng": "Lightsss and moving bitsss. Boring!",
+      "Por": "Luzesss e bits em movimento. Chato!"
     }
   },
   {

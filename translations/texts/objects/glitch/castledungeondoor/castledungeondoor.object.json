@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/castledungeondoor/castledungeondoor.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Distressed. The Glitch lock prisoners behind doors like these. Often they are other Glitch that have gained self awareness.",
+      "Por": "Afligido. Os Glitch trancam prisioneiros atrás de portas como estas. Muitas vezes eles são outros Glitch que ganharam auto-consciência."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/castledungeondoor/castledungeondoor.object": [
         "/shortdescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "Sstrong metal door.",
       "Por": "Porta de metal forte."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/glitch/castledungeondoor/castledungeondoor.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The Glitch lock prisoners behind doors like these. Often they are other Glitch that have gained self awareness."
     }
   },
   {

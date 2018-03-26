@@ -15,7 +15,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Parece como um Agaran com este chapéu de cogumelo!",
+      "Parece um Agaran com este chapéu de cogumelo!"
+    ],
     "Files": {
       "items/armors/decorative/hats/shroomhead2/shroom.head": [
         "/description"
@@ -26,7 +29,7 @@
     },
     "Texts": {
       "Eng": "Look like an Agaran with this gilled mushroom hat!",
-      "Por": "Pareça um Agaran com este chapéu de cogumelo!"
+      "Por": "Pareça como um Agaran com este chapéu de cogumelo!"
     }
   }
 ]

@@ -39,24 +39,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/themed/steampunk/steampunkglobe/steampunkglobe.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I wonder if the cartography of this globe is accurate?",
-      "Por": "Gostaria de saber se a cartografia deste globo é precisa?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/themed/steampunk/steampunkglobe/steampunkglobe.object": [
         "/humanDescription"
       ]
     },
     "Texts": {
       "Eng": "I wonder what planet this polished wooden globe is depicting?",
       "Por": "Me pergunto que planeta este globo de madeira lustrado está retratando?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/steampunk/steampunkglobe/steampunkglobe.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intrigued. I wonder if the cartography of this globe is accurate?",
+      "Por": "Intrigado. Gostaria de saber se a cartografia deste globo é precisa?"
     }
   },
   {

@@ -18,7 +18,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Floran esmaga muitos potess."
+    ],
     "Files": {
       "objects/avian/smalljar1/smalljar1.object": [
         "/floranDescription"
@@ -75,18 +77,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/smalljar1/smalljar1.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/avian/talljar1/talljar1.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/avian/talljar2/talljar2.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "To smash or not to smash?",
-      "Por": "Para quebrar ou não quebrar?"
+      "Eng": "Thoughtful. To smash or not to smash?",
+      "Por": "Pensativo. Para esmagar ou não esmagar?"
     }
   }
 ]

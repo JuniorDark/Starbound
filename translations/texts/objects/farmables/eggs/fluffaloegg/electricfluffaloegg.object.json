@@ -51,23 +51,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/eggs/fluffaloegg/electricfluffaloegg.object": [
-        "/description"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Hatches into a vulnerable electric fluffalo calf - a good source of static cells once fully grown.",
-      "Por": "Choca um vulnerável filhote de fluffalo elétrico - uma boa fonte de static cells quando estiver totalmente crescido."
+      "Eng": "Engaged. I wonder if the little electric fluffalo will hatch soon?",
+      "Por": "Envolvido. Eu me pergunto se o pequeno fluffalo elétrico vai chocar em breve?"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/eggs/fluffaloegg/electricfluffaloegg.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ]
     },
     "Texts": {
-      "Eng": "I wonder if the little electric fluffalo will hatch soon?"
+      "Eng": "Hatches into a vulnerable electric fluffalo calf - a good source of static cells once fully grown.",
+      "Por": "Choca um vulnerável filhote de fluffalo elétrico - uma boa fonte de static cells quando estiver totalmente crescido."
     }
   },
   {

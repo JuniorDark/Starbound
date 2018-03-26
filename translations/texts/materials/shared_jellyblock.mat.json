@@ -33,21 +33,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/jellyblock.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/jellyblock.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I dislike the way this jelly jiggles.",
-      "Por": "Eu não gosto do jeito que essa gelatina balança."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/jellyblock.matitem": [
         "/shortdescription"
       ],
       "tiles/materials/jellyblock.material": [
@@ -72,6 +57,21 @@
     "Texts": {
       "Eng": "Jiggly wiggly jelly.",
       "Por": "Geléia melequenta."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/jellyblock.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/jellyblock.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Uncomfortable. I dislike the way this jelly jiggles.",
+      "Por": "Desconfortável. Eu não gosto da forma como esta geléia meche."
     }
   }
 ]

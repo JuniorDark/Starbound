@@ -18,19 +18,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/tombbrick2.matitem": [
-        "/glitchdescription/glitchEmotedText"
+        "/glitchdescription"
       ],
       "tiles/materials/tombbrick2.material": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "These bricks have held up well considering their age.",
-      "Por": "Esses tijolos se mantiveram bem considerando sua idade."
+      "Eng": "Impressed. These bricks have held up well considering their age.",
+      "Por": "Impressionado. Estes tijolos mantiveram-se bem considerando sua idade."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Estes tijolos foram se desgastando com o tempo."
+    ],
     "Files": {
       "items/materials/tombbrick2.matitem": [
         "/description"

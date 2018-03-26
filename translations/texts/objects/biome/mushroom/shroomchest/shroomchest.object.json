@@ -51,23 +51,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/mushroom/shroomchest/shroomchest.object": [
-        "/floranDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Floran loot chest. Floran find goodsss.",
-      "Por": "Floran saqueia baú. Floran encontrar bensss."
+      "Eng": "Analysis. Opening this chest releases invisible spores. Long term effects are unknown.",
+      "Por": "Análise. Abrir este baú libera esporos invisíveis. Efeitos a longo prazo são desconhecidos."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/mushroom/shroomchest/shroomchest.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/floranDescription"
       ]
     },
     "Texts": {
-      "Eng": "Opening this chest releases invisible spores. Long term effects are unknown."
+      "Eng": "Floran loot chest. Floran find goodsss.",
+      "Por": "Floran saqueia baú. Floran encontrar bensss."
     }
   },
   {

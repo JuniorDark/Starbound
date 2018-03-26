@@ -3,23 +3,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/featherybird/featherybird.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A beautiful feathered statue."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avian/featherybird/featherybird.object": [
         "/humanDescription"
       ]
     },
     "Texts": {
       "Eng": "A pretty bird statue.",
       "Por": "Uma estátua de pássaro bonita."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/featherybird/featherybird.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Appreciative. A beautiful feathered statue.",
+      "Por": "Apreciativo. Uma estátua emplumada bonita."
     }
   },
   {

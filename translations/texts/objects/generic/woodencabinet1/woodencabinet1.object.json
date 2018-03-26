@@ -51,17 +51,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/woodencabinet1/woodencabinet1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Not much storage here."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/woodencabinet1/woodencabinet1.object": [
         "/novakidDescription"
       ]
     },
@@ -92,6 +81,18 @@
     "Texts": {
       "Eng": "Sstorage. Not much.",
       "Por": "Armazenamento. Não muito."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodencabinet1/woodencabinet1.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unimpressed. Not much storage here.",
+      "Por": "Não impressionado. Não há muito espaço de armazenamento aqui."
     }
   }
 ]

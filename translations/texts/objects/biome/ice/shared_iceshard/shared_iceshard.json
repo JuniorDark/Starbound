@@ -99,29 +99,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/ice/iceshard1/iceshard1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/ice/iceshard2/iceshard2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/ice/iceshard3/iceshard3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/ice/iceshard4/iceshard4.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/ice/iceshard5/iceshard5.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "An ice shard."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/ice/iceshard1/iceshard1.object": [
         "/novakidDescription"
       ],
       "objects/biome/ice/iceshard2/iceshard2.object": [
@@ -140,6 +117,30 @@
     "Texts": {
       "Eng": "Just a big ol' chunk of ice.",
       "Por": "Apenas um grande pedaço de gelo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/ice/iceshard1/iceshard1.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/ice/iceshard2/iceshard2.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/ice/iceshard3/iceshard3.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/ice/iceshard4/iceshard4.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/ice/iceshard5/iceshard5.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neutral. An ice shard.",
+      "Por": "Neutro. Um pedaço de gelo."
     }
   },
   {

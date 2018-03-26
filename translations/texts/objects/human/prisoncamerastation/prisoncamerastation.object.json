@@ -27,17 +27,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/prisoncamerastation/prisoncamerastation.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I am certain one of these cameras is on a loop."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/human/prisoncamerastation/prisoncamerastation.object": [
         "/avianDescription"
       ]
     },
@@ -56,6 +45,18 @@
     "Texts": {
       "Eng": "I'm sure I saw someone disappearing around a corner on one of the screens.",
       "Por": "Eu tenho certeza que eu vi alguém desaparecendo de um canto em uma das telas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisoncamerastation/prisoncamerastation.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Inspecting. I am certain one of these cameras is on a loop.",
+      "Por": "Inspecionando. Eu tenho certeza que uma dessas câmeras está em um loop."
     }
   },
   {

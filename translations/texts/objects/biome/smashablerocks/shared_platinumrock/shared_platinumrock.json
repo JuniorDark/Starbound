@@ -78,6 +78,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/smashablerocks/platinumrock/platinumrock.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/smashablerocks/platinumrocksmall/platinumrocksmall.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. This rock contains platinum, and is covered in cracks.",
+      "Por": "Observador. Esta rocha contém platina e está coberta de rachaduras."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/smashablerocks/platinumrock/platinumrock.object": [
         "/apexDescription"
       ],
       "objects/biome/smashablerocks/platinumrocksmall/platinumrocksmall.object": [
@@ -87,20 +102,6 @@
     "Texts": {
       "Eng": "There appears to be platinum within this fragile rock.",
       "Por": "Parece haver platina dentro desta frágil rocha."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/smashablerocks/platinumrock/platinumrock.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/smashablerocks/platinumrocksmall/platinumrocksmall.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This rock contains platinum, and is covered in cracks."
     }
   }
 ]

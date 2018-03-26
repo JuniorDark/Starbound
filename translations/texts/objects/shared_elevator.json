@@ -21,7 +21,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Um elevador para subir e descer níveis."
+    ],
     "Files": {
       "objects/biome/foundry/foundryelevator/foundryelevatorlong.object": [
         "/humanDescription"
@@ -45,21 +47,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/foundry/foundryelevator/foundryelevatorlong.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/biome/foundry/foundryelevator/foundryelevatorshort.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/generic/durasteelelevator/durasteelelevatorlong.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/generic/durasteelelevator/durasteelelevatorshort.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "An uninspiring elevator.",
-      "Por": "Um elevador não inspirador."
+      "Eng": "Bored. An uninspiring elevator.",
+      "Por": "Entediado. Um elevador sem inspiração."
     }
   },
   {

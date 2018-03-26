@@ -27,23 +27,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/medievalcounter/medievalcounter.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Handcrafted counters like this are very common in Glitch storefronts."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/glitch/medievalcounter/medievalcounter.object": [
         "/shortdescription"
       ]
     },
     "Texts": {
       "Eng": "Medieval Counter",
       "Por": "Medieval Counter"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/medievalcounter/medievalcounter.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nostalgic. Handcrafted counters like this are very common in Glitch storefronts.",
+      "Por": "Nostálgico. Balcões artesanais como este são muito comuns nas lojas Glitch."
     }
   },
   {

@@ -63,17 +63,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/outpostsecurityconsole/outpostsecurityconsole.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Not sure I should touch this security console."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/outpost/outpostsecurityconsole/outpostsecurityconsole.object": [
         "/shortdescription"
       ]
     },
@@ -92,6 +81,18 @@
     "Texts": {
       "Eng": "This console is part of the security system.",
       "Por": "Este console faz parte do sistema de segurança."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostsecurityconsole/outpostsecurityconsole.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Uneasy. Not sure I should touch this security console.",
+      "Por": "Receoso. Não tenho certeza se devo tocar neste console de segurança."
     }
   }
 ]

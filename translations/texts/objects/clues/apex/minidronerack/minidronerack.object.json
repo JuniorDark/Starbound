@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/clues/apex/minidronerack/minidronerack.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enticed. This computer display is showing information from the small robot it is attached to.",
+      "Por": "Seduzido. Esta tela do computador está mostrando informações do pequeno robô ao qual está conectado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/clues/apex/minidronerack/minidronerack.object": [
         "/novakidDescription"
       ]
     },
@@ -57,17 +69,6 @@
     "Texts": {
       "Eng": "This computer appears to be downloading data from a Miniknog surveillance drone.",
       "Por": "Este computador parece estar baixando dados de um drone de vigilância da Miniknog."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/clues/apex/minidronerack/minidronerack.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This computer display is showing information from the small robot it is attached to."
     }
   },
   {

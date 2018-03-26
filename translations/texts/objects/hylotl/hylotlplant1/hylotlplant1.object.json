@@ -15,17 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/hylotlplant1/hylotlplant1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A plastic plant. Cheap."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/hylotl/hylotlplant1/hylotlplant1.object": [
         "/description"
       ]
     },
@@ -68,6 +57,18 @@
     "Texts": {
       "Eng": "These leaves sure feel tough... Hang on, it's plastic!",
       "Por": "Estas folhas são bem duras... Espere, é de plástico!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/hylotlplant1/hylotlplant1.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unimpressed. A plastic plant. Cheap.",
+      "Por": "Não Impressionado. Uma planta de plástico. Barata."
     }
   },
   {

@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/guard.config": [
+        "/hail/glitch/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alert. Who are you?",
+      "Por": "Alerta. Quem é Você?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
         "/hail/apex/default/5"
       ]
     },
@@ -57,18 +69,6 @@
     "Texts": {
       "Eng": "Avians have been great warriors since time immemorial.",
       "Por": "Avians foram grandes guerreiros desde tempos imemoriais."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/guard.config": [
-        "/hail/glitch/default/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Behave yourself.",
-      "Por": "Comporte-se."
     }
   },
   {
@@ -123,12 +123,48 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/guard.config": [
+        "/hail/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cautious. Behave yourself.",
+      "Por": "Cauteloso. Comporte-se."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/glitch/default/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "Concerned. Should you be here?",
+      "Por": "Preocupado. Você deveria estar aqui?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
         "/hail/hylotl/default/4"
       ]
     },
     "Texts": {
       "Eng": "Cross me and I will be forced to strike.",
       "Por": "Passe por mim e eu vou ser forçado a atacar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/glitch/default/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dismissive. Try not to get yourself killed.",
+      "Por": "Desconsiderado. Tente não se matar."
     }
   },
   {
@@ -195,18 +231,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/guard.config": [
-        "/hail/glitch/default/2/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Eep!",
-      "Por": "Eep!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/guard.config": [
         "/hail/apex/default/4"
       ]
     },
@@ -261,18 +285,6 @@
     "Texts": {
       "Eng": "Give Floran a reassson.",
       "Por": "Dê uma razão para Floran."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/guard.config": [
-        "/hail/glitch/default/7/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Have an absolutely wonderful day.",
-      "Por": "Tenha um dia absolutamente maravilhoso."
     }
   },
   {
@@ -423,18 +435,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/guard.config": [
-        "/hail/glitch/default/4/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I'm sure you won't be any trouble.",
-      "Por": "Tenho certeza que você não terá problemas."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/guard.config": [
         "/hail/default/default/0"
       ]
     },
@@ -465,6 +465,30 @@
     "Texts": {
       "Eng": "If you don't intend to cause trouble, then we'll get on jus' fine.",
       "Por": "Se você não pretende causar problemas, então nós vamos nos dar muito bem."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/glitch/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Inexperienced. Eep!",
+      "Por": "Inexperiente. Eep!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/glitch/default/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Insincere. Have an absolutely wonderful day.",
+      "Por": "Insincero. Tenha um dia absolutamente maravilhoso."
     }
   },
   {
@@ -567,12 +591,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/guard.config": [
-        "/hail/glitch/default/9/glitchEmotedText"
+        "/hail/glitch/default/4"
       ]
     },
     "Texts": {
-      "Eng": "Should you be here?",
-      "Por": "Você deveria estar aqui?"
+      "Eng": "Optimistic. I'm sure you won't be any trouble.",
+      "Por": "Otimista. Tenho certeza de que não haverá qualquer problema."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/glitch/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reticent. You won't be a problem...",
+      "Por": "Discreto. Você não vai ser um problema..."
     }
   },
   {
@@ -615,6 +651,30 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/guard.config": [
+        "/hail/glitch/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stern. You behave yourself.",
+      "Por": "Severo. Você deve se comportar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
+        "/hail/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Suspicious. What is your purpose here?",
+      "Por": "Suspeito. Qual é o seu propósito aqui?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/guard.config": [
         "/hail/novakid/default/5"
       ]
     },
@@ -645,18 +705,6 @@
     "Texts": {
       "Eng": "Try not to destroy anything.",
       "Por": "Tente não destruir nada."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/guard.config": [
-        "/hail/glitch/default/8/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Try not to get yourself killed.",
-      "Por": "Tente não se matar."
     }
   },
   {
@@ -747,24 +795,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/guard.config": [
-        "/hail/glitch/default/1/glitchEmotedText"
+        "/hail/human/default/8"
       ]
     },
     "Texts": {
-      "Eng": "What is your purpose here?",
-      "Por": "Qual é o seu propósito aqui?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/guard.config": [
-        "/hail/glitch/default/6/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "You behave yourself.",
-      "Por": "Comporte-se."
+      "Eng": "What's your business here?",
+      "Por": "Qual é o seu negócio aqui?"
     }
   },
   {
@@ -777,18 +813,6 @@
     "Texts": {
       "Eng": "You better not try anything.",
       "Por": "É melhor não tentar qualquer coisa."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/guard.config": [
-        "/hail/glitch/default/5/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "You won't be a problem...",
-      "Por": "Você não será um problema..."
     }
   },
   {

@@ -63,6 +63,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/themed/pastel/pastelwardrobe/pastelwardrobe.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. This wardrobe looks like a labour of love.",
+      "Por": "Impressionado. Este guarda-roupa parece ser um trabalho de amor."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/pastel/pastelwardrobe/pastelwardrobe.object": [
         "/shortdescription"
       ]
     },
@@ -93,18 +105,6 @@
     "Texts": {
       "Eng": "This wardrobe is decorated with painted hearts and big star at the top.",
       "Por": "Este guarda-roupa é decorado com corações pintados e uma grande estrela no topo."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/themed/pastel/pastelwardrobe/pastelwardrobe.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This wardrobe looks like a labour of love.",
-      "Por": "Este guarda-roupa parece ser um trabalho de amor."
     }
   }
 ]

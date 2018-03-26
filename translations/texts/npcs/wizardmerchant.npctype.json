@@ -12,9 +12,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Bruxo"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "npcs/wizardmerchant.npctype": [
         "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title"
@@ -22,19 +20,7 @@
     },
     "Texts": {
       "Eng": "  Wizard",
-      "Por": "Feiticeiro"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "npcs/wizardmerchant.npctype": [
-        "/scriptConfig/dialog/merchant/start/glitch/default/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Cogs and gears only go so far, young one.",
-      "Por": "Coragem para você!"
+      "Por": "Bruxo"
     }
   },
   {
@@ -53,8 +39,31 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/wizardmerchant.npctype": [
-        "/scriptConfig/dialog/merchant/end/default/default/2",
-        "/scriptConfig/dialog/merchant/end/glitch/default/2/glitchEmotedText"
+        "/scriptConfig/dialog/merchant/end/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Convivial. I hope to see you more in future.",
+      "Por": "Social. Eu espero vê-lo mais no futuro."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/wizardmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/end/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cordial. Farewell, traveller.",
+      "Por": "Sincero. Adeus, viajante."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/wizardmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/end/default/default/2"
       ]
     },
     "Texts": {
@@ -66,8 +75,19 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/wizardmerchant.npctype": [
-        "/scriptConfig/dialog/merchant/end/default/default/0",
-        "/scriptConfig/dialog/merchant/end/glitch/default/0/glitchEmotedText"
+        "/scriptConfig/dialog/merchant/start/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enticing. Traveller, come hither, and browse my wares.",
+      "Por": "Sedutor. Viajante, vem cá, e navegue por minhas mercadorias."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/wizardmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/end/default/default/0"
       ]
     },
     "Texts": {
@@ -115,6 +135,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/wizardmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/start/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Furtive. Cogs and gears only go so far, young one.",
+      "Por": "Furtivo. Rodas denteadas e engrenagens só chegam até aí, jovem."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/wizardmerchant.npctype": [
         "/scriptConfig/dialog/merchant/start/apex/default/2"
       ]
     },
@@ -124,9 +156,7 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Que tal algo maravilhoso, não é?"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "npcs/wizardmerchant.npctype": [
         "/scriptConfig/dialog/merchant/start/apex/default/3"
@@ -134,7 +164,7 @@
     },
     "Texts": {
       "Eng": "How about something wondrous, eh?",
-      "Por": "Que tal algo maravilhoso, eh?"
+      "Por": "Que tal algo maravilhoso, não é?"
     }
   },
   {
@@ -153,8 +183,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/wizardmerchant.npctype": [
-        "/scriptConfig/dialog/merchant/end/default/default/1",
-        "/scriptConfig/dialog/merchant/end/glitch/default/1/glitchEmotedText"
+        "/scriptConfig/dialog/merchant/end/default/default/1"
       ]
     },
     "Texts": {
@@ -190,6 +219,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/wizardmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/end/glitch/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Kindly. Courage to you!",
+      "Por": "Bondoso. Coragem para você!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/wizardmerchant.npctype": [
         "/scriptConfig/dialog/merchant/start/avian/default/0"
       ]
     },
@@ -202,24 +243,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/wizardmerchant.npctype": [
-        "/scriptConfig/dialog/merchant/start/glitch/default/2/glitchEmotedText"
+        "/scriptConfig/dialog/merchant/start/glitch/default/2"
       ]
     },
     "Texts": {
-      "Eng": "My wares are wondrous and strange.",
-      "Por": "Meus produtos são maravilhosos e estranhos."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "npcs/wizardmerchant.npctype": [
-        "/scriptConfig/dialog/merchant/start/glitch/default/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Traveller, come hither, and browse my wares.",
-      "Por": "Viajante, venha aqui e veja minhas mercadorias."
+      "Eng": "Tantalising. My wares are wondrous and strange.",
+      "Por": "Tentativo. Minhas mercadorias são maravilhosas e estranhas."
     }
   },
   {

@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/securitycamera/securitycamera.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cautious. This security camera is equipped with motion detection.",
+      "Por": "Cauteloso. Esta câmera de segurança está equipada com detecção de movimento."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/securitycamera/securitycamera.object": [
         "/shortdescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "This camera movesss on its own.",
       "Por": "Essa câmera se move sssozinha."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/apex/securitycamera/securitycamera.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This security camera is equipped with motion detection."
     }
   },
   {

@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/teacup1/teacup1.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Delighted. Tea is a joy to the taste sensors.",
+      "Por": "Satisfeito. O chá é uma alegria para os sensores de sabor."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/teacup1/teacup1.object": [
         "/floranDescription"
       ]
     },
@@ -57,17 +69,6 @@
     "Texts": {
       "Eng": "Never understood what everyone likes so much 'bout tea.",
       "Por": "Nunca entendi o que todos gostam tanto no chá."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/teacup1/teacup1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Tea is a joy to the taste sensors."
     }
   },
   {

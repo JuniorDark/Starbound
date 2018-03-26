@@ -8,7 +8,7 @@
     },
     "Texts": {
       "Eng": "Babie tree.",
-      "Por": "Árvore pequena."
+      "Por": "Árvore gipsófila."
     }
   },
   {
@@ -20,19 +20,7 @@
     },
     "Texts": {
       "Eng": "Little Trees.",
-      "Por": "Little Trees."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "plants/grass/ground/decorative/smallvillage/smallvillage.grass": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Little tree.",
-      "Por": "Árvore pequena."
+      "Por": "Árvores Pequenas."
     }
   },
   {
@@ -45,6 +33,18 @@
     "Texts": {
       "Eng": "Little trees.",
       "Por": "Árvores pequenas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/smallvillage/smallvillage.grass": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. Little tree.",
+      "Por": "Relatório. Uma árvore pequena."
     }
   }
 ]

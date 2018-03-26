@@ -63,23 +63,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/hylotlprizecounter/hylotlprizecounter.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I'd like to win some of these..."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/hylotl/hylotlprizecounter/hylotlprizecounter.object": [
         "/humanDescription"
       ]
     },
     "Texts": {
       "Eng": "I'm partial to that Numi plushie...wonder how much it costs?",
       "Por": "Eu sou parcial para esse Numi de pelúcia... me pergunto quanto custa?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/hylotlprizecounter/hylotlprizecounter.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Motivated. I'd like to win some of these...",
+      "Por": "Motivado. Eu gostaria de ganhar alguns desses..."
     }
   },
   {

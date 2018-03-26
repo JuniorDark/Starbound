@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/rust/rusttable/rusttable.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Annoyed. The rust has caused me to lose my appetite.",
+      "Por": "Irritado. A ferrugem me fez perder o apetite."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/rust/rusttable/rusttable.object": [
         "/shortdescription"
       ]
     },
@@ -57,17 +69,6 @@
     "Texts": {
       "Eng": "Table red, with russst not blood.",
       "Por": "Mesa vermelha, com ferrugem não sssangue."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/rust/rusttable/rusttable.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The rust has caused me to lose my appetite."
     }
   },
   {

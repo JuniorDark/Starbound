@@ -75,29 +75,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/bioluminescentcave/biovine/biovine1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/bioluminescentcave/biovine/biovine2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/bioluminescentcave/biovine/biovine3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/bioluminescentcave/biovine/biovine4.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/bioluminescentcave/biovine/biovine5.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I wish these glowing vines grew in every cave."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/bioluminescentcave/biovine/biovine1.object": [
         "/description"
       ],
       "objects/biome/bioluminescentcave/biovine/biovine2.object": [
@@ -116,6 +93,30 @@
     "Texts": {
       "Eng": "It's a glowing vine!",
       "Por": "É uma vinha brilhante!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/bioluminescentcave/biovine/biovine1.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/bioluminescentcave/biovine/biovine2.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/bioluminescentcave/biovine/biovine3.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/bioluminescentcave/biovine/biovine4.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/bioluminescentcave/biovine/biovine5.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Satisfied. I wish these glowing vines grew in every cave.",
+      "Por": "Satisfeito. Queria que estas vinhas brilhantes cresceram em cada caverna."
     }
   },
   {

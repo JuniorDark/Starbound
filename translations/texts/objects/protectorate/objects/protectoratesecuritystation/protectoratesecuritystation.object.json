@@ -63,17 +63,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/protectorate/objects/protectoratesecuritystation/protectoratesecuritystation.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Metal detectors can be a nightmare for us Glitch."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/protectorate/objects/protectoratesecuritystation/protectoratesecuritystation.object": [
         "/shortdescription"
       ]
     },
@@ -104,6 +93,18 @@
     "Texts": {
       "Eng": "This machine scans luggage.",
       "Por": "Esta máquina escaneia bagagem."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/protectorate/objects/protectoratesecuritystation/protectoratesecuritystation.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Uncomfortable. Metal detectors can be a nightmare for us Glitch.",
+      "Por": "Desconfortável. Os detectores de metal podem ser um pesadelo para nós Glitch."
     }
   }
 ]

@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/plantbrokencage/plantbrokencage.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intrigued. Something powerful must have been held here.",
+      "Por": "Intrigado. Algo poderoso deve ter sido mantido aqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/plantbrokencage/plantbrokencage.object": [
         "/avianDescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "Perhaps a terrifying creature escaped from here.",
       "Por": "Talvez uma criatura aterrorizante tenha escapado daqui."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/floran/plantbrokencage/plantbrokencage.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Something powerful must have been held here."
     }
   },
   {

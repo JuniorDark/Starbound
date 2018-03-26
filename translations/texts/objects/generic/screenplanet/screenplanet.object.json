@@ -51,23 +51,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/screenplanet/screenplanet.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "My internal sensors make the information on this screen obsolete."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/screenplanet/screenplanet.object": [
         "/shortdescription"
       ]
     },
     "Texts": {
       "Eng": "Planet Monitor",
       "Por": "Planet Monitor"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/screenplanet/screenplanet.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Smug. My internal sensors make the information on this screen obsolete.",
+      "Por": "Presunçoso. Meus sensores internos tornam a informação nesta tela obsoleta."
     }
   },
   {

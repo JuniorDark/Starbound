@@ -63,23 +63,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/consoletribal1/consoletribal1.object": [
-        "/hylotlDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "It's not unusual for Avians to decorate technology with carvings.",
-      "Por": "Não é incomum para Avians decorar tecnologia com entalhes."
+      "Eng": "Inquisitive.  The technology powering this console is unknown to me, but seems related to these crystals",
+      "Por": "Inquisitivo. A tecnologia que alimenta este console é desconhecida para mim, mas parece relacionada a estes cristais"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/consoletribal1/consoletribal1.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/hylotlDescription"
       ]
     },
     "Texts": {
-      "Eng": "The technology powering this console is unknown to me, but seems related to these crystals"
+      "Eng": "It's not unusual for Avians to decorate technology with carvings.",
+      "Por": "Não é incomum para Avians decorar tecnologia com entalhes."
     }
   },
   {

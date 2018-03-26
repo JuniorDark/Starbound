@@ -15,8 +15,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/bathroomstall/bathroomstall.object": [
-        "/avianDescription",
-        "/glitchDescription/glitchEmotedText"
+        "/avianDescription"
       ]
     },
     "Texts": {
@@ -82,6 +81,18 @@
     "Texts": {
       "Eng": "Great for hiding in and playing mobile games.",
       "Por": "Ótimo para se esconder e jogar jogos de celular."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/bathroomstall/bathroomstall.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neutral. A bathroom stall.",
+      "Por": "Neutro. Um banheiro."
     }
   },
   {

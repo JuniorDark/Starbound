@@ -3,6 +3,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/fleshblock.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/fleshblock.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disgusted. This is made of squishy flesh.",
+      "Por": "Com nojo. Isso é feito de carne mole."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fleshblock.matitem": [
         "/shortdescription"
       ],
       "tiles/materials/fleshblock.material": [
@@ -42,21 +57,6 @@
     "Texts": {
       "Eng": "Sssquishy meat.",
       "Por": "Carne mole."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/fleshblock.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/fleshblock.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This is made of squishy flesh.",
-      "Por": "Isso é feito de carne mole."
     }
   },
   {

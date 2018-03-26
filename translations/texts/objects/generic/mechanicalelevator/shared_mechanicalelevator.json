@@ -3,20 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/mechanicalelevator/mechanicalelevatorlong.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/generic/mechanicalelevator/mechanicalelevatorshort.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A clockwork elevator, a reliable mechanism indeed."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/mechanicalelevator/mechanicalelevatorlong.object": [
         "/humanDescription"
       ],
       "objects/generic/mechanicalelevator/mechanicalelevatorshort.object": [
@@ -101,6 +87,21 @@
     "Texts": {
       "Eng": "Cogss and gearss movesss platform.",
       "Por": "Rodass e engrenagenss movem plataforma."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/mechanicalelevator/mechanicalelevatorlong.object": [
+        "/glitchDescription"
+      ],
+      "objects/generic/mechanicalelevator/mechanicalelevatorshort.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Satisfied. A clockwork elevator, a reliable mechanism indeed.",
+      "Por": "Satisfeito. Um elevador mecânico, um mecanismo de confiança."
     }
   },
   {

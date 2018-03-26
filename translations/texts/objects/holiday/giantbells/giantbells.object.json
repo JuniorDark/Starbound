@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/holiday/giantbells/giantbells.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cheerful. Joyous holiday bells.",
+      "Por": "Alegre. Sinos festivos alegres."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/holiday/giantbells/giantbells.object": [
         "/shortdescription"
       ]
     },
@@ -57,17 +69,6 @@
     "Texts": {
       "Eng": "Joyful bells.",
       "Por": "Sinos alegres."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/holiday/giantbells/giantbells.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Joyous holiday bells."
     }
   },
   {

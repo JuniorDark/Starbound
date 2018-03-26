@@ -63,6 +63,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/arttrophies/paintingapexpearlearring/paintingapexpearlearring.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. This painting's style doesn't appear to match its age.",
+      "Por": "Atento. O estilo desta pintura não parece corresponder à sua idade."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/arttrophies/paintingapexpearlearring/paintingapexpearlearring.object": [
         "/shortdescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "This painting seems familar, but somehow bothers me.",
       "Por": "Esta pintura parece familiar, mas de algum modo me incomoda."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/arttrophies/paintingapexpearlearring/paintingapexpearlearring.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This painting's style doesn't appear to match its age."
     }
   }
 ]

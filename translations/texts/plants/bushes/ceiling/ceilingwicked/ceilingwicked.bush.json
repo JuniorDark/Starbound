@@ -4,13 +4,24 @@
     "Files": {
       "plants/bushes/ceiling/ceilingwicked/ceilingwicked.bush": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ]
     },
     "Texts": {
       "Eng": "Hanging roots.",
       "Por": "Raízes inclinadas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ceiling/ceilingwicked/ceilingwicked.bush": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. Hanging roots.",
+      "Por": "Relatório. Raízes inclinadas."
     }
   }
 ]

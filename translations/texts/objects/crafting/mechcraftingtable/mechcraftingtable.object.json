@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/crafting/mechcraftingtable/mechcraftingtable.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excited. This station is designed to assemble modular mech components",
+      "Por": "Animado. Esta estação foi projetada para montar componentes modulares de mecha."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/mechcraftingtable/mechcraftingtable.object": [
         "/humanDescription"
       ]
     },
@@ -33,17 +45,6 @@
     "Texts": {
       "Eng": "This industrial looking table produces modular mech components.",
       "Por": "Esta mesa industrial produz componentes modulares de mecha."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/crafting/mechcraftingtable/mechcraftingtable.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This station is designed to assemble modular mech components"
     }
   },
   {
@@ -102,7 +103,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^orange;Mech Part Crafting Table^white;"
+      "Eng": "^orange;Mech Part Crafting Table^white;",
+      "Por": "^orange;Mech Part Crafting Table^white;"
     }
   }
 ]

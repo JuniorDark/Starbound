@@ -3,12 +3,48 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/fetch.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Appreciative. I'm so pleased that you managed to gather these for me, they're essential for my plan. Thank you!",
+      "Por": "Agradecido. Estou tão contente que você conseguiu reunir estes para mim, eles são essenciais para o meu plano. Obrigado!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/fetch.questtemplate": [
         "/scriptConfig/generatedText/text/default/floran/1"
       ]
     },
     "Texts": {
       "Eng": "As your next tasssk, could you ^green;find us ^orange;<fetchedItems>? ^white;Not too big a job for someone sskillful like you.",
       "Por": "Como sua próxima tarefa, você poderia ^green;encontrar pra nós ^orange;<fetchedItems>? ^white;Não é um trabalho tão grande para alguém hábil como você."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/fetch.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Confident. Next ^green;we'll need ^orange;<fetchedItems>.^white; I'm sure that's well within your capabilities.",
+      "Por": "Confiante. Em seguida ^green;vamos precisar de ^orange;<fetchedItems>.^white; Tenho certeza de que está bem dentro de suas capacidades."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/fetch.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eager. Next, ^green;I need you to collect ^orange;<fetchedItems>^white;.",
+      "Por": "Ansioso. Em seguida, ^green;Eu preciso de você para coletar ^orange;<fetchedItems>^white;."
     }
   },
   {
@@ -27,24 +63,48 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/fetch.questtemplate": [
-        "/scriptConfig/generatedText/text/first/floran/0"
+        "/scriptConfig/generatedText/text/first/glitch/0"
       ]
     },
     "Texts": {
-      "Eng": "Firsst, Floran needs you to ^green;find ^orange;<fetchedItems>. ^white;Go go go!",
-      "Por": "Primeiro, Floran precisa de você para ^green;encontrar ^orange;<fetchedItems>. ^white;Vai vai vai"
+      "Eng": "Excited. First ^green;I need you to gather ^orange;<fetchedItems>^white; for me. Thank you in advance!",
+      "Por": "Animado. Primeiro ^green;Eu preciso que você para coletar ^orange;<fetchedItems>^white; para mim. Obrigado antecipadamente!"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/fetch.questtemplate": [
-        "/scriptConfig/generatedText/text/first/glitch/0/glitchEmotedText"
+        "/scriptConfig/generatedText/text/first/glitch/1"
       ]
     },
     "Texts": {
-      "Eng": "First ^green;I need you to gather ^orange;<fetchedItems>^white; for me. Thank you in advance!",
-      "Por": "Primeiro ^green;Eu preciso que você para coletar ^orange;<fetchedItems>^white; para mim. Obrigado antecipadamente!"
+      "Eng": "Excited. For the first part of my plan, ^green;I need you to gather ^orange;<fetchedItems>^white; for me.",
+      "Por": "Animado. Para a primeira parte do meu plano, ^green;Eu preciso que você para coletar ^orange;<fetchedItems>^white; para mim."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/fetch.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Exuberant. Thank you for getting these for me, I have plans for them!",
+      "Por": "Exuberante. Obrigado por obter estes para mim, eu tenho planos para eles!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/fetch.questtemplate": [
+        "/scriptConfig/generatedText/text/first/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Firsst, Floran needs you to ^green;find ^orange;<fetchedItems>. ^white;Go go go!",
+      "Por": "Primeiro, Floran precisa de você para ^green;encontrar ^orange;<fetchedItems>. ^white;Vai vai vai"
     }
   },
   {
@@ -63,12 +123,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/fetch.questtemplate": [
-        "/scriptConfig/generatedText/text/first/glitch/1/glitchEmotedText"
+        "/scriptConfig/generatedText/completionText/first/glitch/0"
       ]
     },
     "Texts": {
-      "Eng": "For the first part of my plan, ^green;I need you to gather ^orange;<fetchedItems>^white; for me.",
-      "Por": "Para a primeira parte do meu plano, ^green;Eu preciso que você para coletar ^orange;<fetchedItems>^white; para mim."
+      "Eng": "Grateful. I appreciate you gathering those items for me! I have a plan for them...",
+      "Por": "Grato. Agradeço você por coletar os itens para mim! Eu tenho um plano para eles..."
     }
   },
   {
@@ -87,60 +147,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/fetch.questtemplate": [
-        "/scriptConfig/generatedText/completionText/first/glitch/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I appreciate you gathering those items for me! I have a plan for them...",
-      "Por": "Agradeço você por coletar os itens para mim! Eu tenho um plano para eles..."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/fetch.questtemplate": [
-        "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I'm so pleased that you managed to gather these for me, they're essential for my plan. Thank you!",
-      "Por": "Estou tão contente que você conseguiu reunir estes para mim, eles são essenciais para o meu plano. Obrigado!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/fetch.questtemplate": [
         "/scriptConfig/generatedText/text/first/default/1"
       ]
     },
     "Texts": {
       "Eng": "Initially, ^green;we'll need to gather ^orange;<fetchedItems>^white;. Could you handle that?",
       "Por": "Inicialmente, ^green;vamos ter que coletar ^orange;<fetchedItems>^white;. Você poderia lidar com isso?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/fetch.questtemplate": [
-        "/scriptConfig/generatedText/text/default/glitch/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Next ^green;we'll need ^orange;<fetchedItems>.^white; I'm sure that's well within your capabilities.",
-      "Por": "Em seguida ^green;vamos precisar de ^orange;<fetchedItems>.^white; Tenho certeza de que está bem dentro de suas capacidades."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/fetch.questtemplate": [
-        "/scriptConfig/generatedText/text/default/glitch/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Next, ^green;I need you to collect ^orange;<fetchedItems>^white;.",
-      "Por": "Em seguida, ^green;Eu preciso de você para coletar ^orange;<fetchedItems>^white;."
     }
   },
   {
@@ -195,12 +207,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/fetch.questtemplate": [
-        "/scriptConfig/generatedText/completionText/default/glitch/1/glitchEmotedText"
+        "/scriptConfig/generatedText/completionText/first/glitch/1"
       ]
     },
     "Texts": {
-      "Eng": "Thank you for getting these for me, I have plans for them!",
-      "Por": "Obrigado por obter estes para mim, eu tenho planos para eles!"
+      "Eng": "Pleased. These items are just what I need for my plan!",
+      "Por": "Satisfeito. Esses itens são exatamente o que preciso para o meu plano!"
     }
   },
   {
@@ -225,18 +237,6 @@
     "Texts": {
       "Eng": "That was quicker than Floran expected! Floran very pleassed.",
       "Por": "Isso foi mais rápido do que Floran esssperava! Floran muito sssatisfeito."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/fetch.questtemplate": [
-        "/scriptConfig/generatedText/completionText/first/glitch/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "These items are just what I need for my plan!",
-      "Por": "Esses itens são exatamente o que preciso para o meu plano!"
     }
   },
   {

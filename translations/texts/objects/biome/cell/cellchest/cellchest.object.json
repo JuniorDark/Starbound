@@ -99,11 +99,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/cell/cellchest/cellchest.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "What a nice chest..."
+      "Eng": "Unenthusiastic. What a nice chest...",
+      "Por": "Não entusiasmado. Que belo baú..."
     }
   }
 ]

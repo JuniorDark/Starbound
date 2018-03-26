@@ -27,17 +27,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/clubceilinglightsred/clubceilinglightsred.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "It's a red light."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/hylotl/clubceilinglightsred/clubceilinglightsred.object": [
         "/shortdescription"
       ]
     },
@@ -68,6 +57,18 @@
     "Texts": {
       "Eng": "This red light sure lights up the room.",
       "Por": "Esta luz vermelha com certeza ilumina a sala."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/clubceilinglightsred/clubceilinglightsred.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Uninterested. It's a red light.",
+      "Por": "Desinteressado. É uma luz vermelha."
     }
   }
 ]

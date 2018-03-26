@@ -18,6 +18,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/composite01.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/composite01.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amazed. This titanium panel is almost flawlessly smooth.",
+      "Por": "Espantado. Este painel de titânio é quase perfeitamente liso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/composite01.matitem": [
         "/novakiddescription"
       ],
       "tiles/materials/composite01.material": [
@@ -42,21 +57,6 @@
     "Texts": {
       "Eng": "Ssmooth shiny titanium panelss.",
       "Por": "Painéis de titânio lisos e brilhantes."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/composite01.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/composite01.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This titanium panel is almost flawlessly smooth.",
-      "Por": "Este painel de titânio é quase perfeitamente liso."
     }
   },
   {

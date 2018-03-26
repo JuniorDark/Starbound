@@ -4,12 +4,10 @@
     "Files": {
       "plants/grass/ceiling/decorative/ceilingcrystalflower/ceilingcrystalflower.grass": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ],
       "plants/grass/ground/decorative/crystalflower/crystalflower.grass": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ]
     },
@@ -19,7 +17,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma flor estranha.",
+      "flor brilhante'sss."
+    ],
     "Files": {
       "plants/grass/ceiling/decorative/ceilingcrystalflower/ceilingcrystalflower.grass": [
         "/floranDescription"
@@ -31,6 +32,23 @@
     "Texts": {
       "Eng": "Ssshiny flower.",
       "Por": "Flor brilhante."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Relatório. Uma flor de cristal."
+    ],
+    "Files": {
+      "plants/grass/ceiling/decorative/ceilingcrystalflower/ceilingcrystalflower.grass": [
+        "/glitchDescription"
+      ],
+      "plants/grass/ground/decorative/crystalflower/crystalflower.grass": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. A crystal flower.",
+      "Por": "Declaração. Uma flor de cristal."
     }
   }
 ]

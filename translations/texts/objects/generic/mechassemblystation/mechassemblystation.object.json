@@ -3,6 +3,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/mechassemblystation/mechassemblystation.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Astonished. This advanced assembly station is designed to make mech suits.",
+      "Por": "Atônito. Esta estação de montagem avançada foi projetada para fazer mechas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/mechassemblystation/mechassemblystation.object": [
         "/description"
       ]
     },
@@ -31,18 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Mech Assembly Station"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/mechassemblystation/mechassemblystation.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This advanced assembly station is designed to make mech suits."
+      "Eng": "Mech Assembly Station",
+      "Por": "Mech Assembly Station"
     }
   },
   {

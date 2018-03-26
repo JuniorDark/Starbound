@@ -3,24 +3,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/arrivedhome.config": [
-        "/rent/glitch/default/2/glitchEmotedText"
+        "/rent/glitch/default/1"
       ]
     },
     "Texts": {
-      "Eng": "A gift of thanks.",
-      "Por": "Um presente de agradecimento."
+      "Eng": "Appreciative. Here is a gift, for all your help.",
+      "Por": "Sensibilizado. Aqui um presente, por toda sua ajuda."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "dialog/arrivedhome.config": [
-        "/beacon/glitch/default/1/glitchEmotedText"
+        "/beacon/glitch/default/1"
       ]
     },
     "Texts": {
-      "Eng": "Did you need me for a particular reason?",
-      "Por": "Precisa de mim por uma razão especial?"
+      "Eng": "Curious. Did you need me for a particular reason?",
+      "Por": "Curioso. Você precisa de mim por algum motivo em especial?"
     }
   },
   {
@@ -45,18 +45,6 @@
     "Texts": {
       "Eng": "Did you need me for anything?",
       "Por": "Você precisa de mim para alguma coisa?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/arrivedhome.config": [
-        "/beacon/glitch/default/3/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Did you want to chat?",
-      "Por": "Quer conversar?"
     }
   },
   {
@@ -123,6 +111,42 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/arrivedhome.config": [
+        "/beacon/glitch/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Friendly. Did you want to chat?",
+      "Por": "Amigável. Você quer conversar?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/rent/glitch/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Friendly. I hope you like the gift, you've earned it!",
+      "Por": "Amigável. Eu espero que você goste do presente, você merece!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/rent/glitch/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Grateful. I got you a present for all you've done for me.",
+      "Por": "Grato. Eu tenho um presente para você por tudo que você fez por mim."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/arrivedhome.config": [
         "/beacon/avian/default/4"
       ]
     },
@@ -153,30 +177,6 @@
     "Texts": {
       "Eng": "Here - I brought a gift for your troubles.",
       "Por": "Aqui eu trouxe um presente para ajudar com seus problemas."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/arrivedhome.config": [
-        "/beacon/glitch/default/2/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Here I am! What did you want to talk about?",
-      "Por": "Aqui estou eu! Sobre o que queria falar?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/arrivedhome.config": [
-        "/rent/glitch/default/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Here is a gift, for all your help.",
-      "Por": "Aqui está um presente, por toda a sua ajuda."
     }
   },
   {
@@ -303,36 +303,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/arrivedhome.config": [
-        "/rent/glitch/default/3/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I got you a present for all you've done for me.",
-      "Por": "Eu tenho um presente para você por tudo o que você fez por mim."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/arrivedhome.config": [
-        "/rent/glitch/default/4/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I hope you like the gift, you've earned it!",
-      "Por": "Espero que goste do presente, você merece!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/arrivedhome.config": [
         "/rent/human/default/0"
       ]
     },
     "Texts": {
       "Eng": "I thought you might like this!",
       "Por": "Eu acho que você vai gostar deste presente!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/beacon/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Interested. You need me for something?",
+      "Por": "Interessado. Você precisa de mim para alguma coisa?"
     }
   },
   {
@@ -351,24 +339,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/arrivedhome.config": [
-        "/beacon/glitch/default/4/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Is this a social call?",
-      "Por": "É uma visita social?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/arrivedhome.config": [
         "/rent/novakid/default/1"
       ]
     },
     "Texts": {
       "Eng": "It's a mighty fine place you've helped me secure. I gotta thank you for it.",
       "Por": "É um lugar multo poderoso que você me ajudou a proteger. Eu tenho que agradecer por isso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/beacon/glitch/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Jovial. Here I am! What did you want to talk about?",
+      "Por": "Alegre. Aqui estou! Sobre o que você quer conversar?"
     }
   },
   {
@@ -405,6 +393,30 @@
     "Texts": {
       "Eng": "Please accept this gift, for all your help.",
       "Por": "Por favor, aceite este presente, por toda sua ajuda."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/beacon/glitch/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Polite. Is this a social call?",
+      "Por": "Educado. Este é uma visita social?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/arrivedhome.config": [
+        "/rent/glitch/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Respectful. A gift of thanks.",
+      "Por": "Respeitoso. Um presente de agradecimento."
     }
   },
   {
@@ -561,18 +573,6 @@
     "Texts": {
       "Eng": "You need me for something, my friend?",
       "Por": "Você precisa de mim para alguma coisa, meu amigo?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/arrivedhome.config": [
-        "/beacon/glitch/default/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "You need me for something?",
-      "Por": "Precisa de mim para alguma coisa?"
     }
   },
   {

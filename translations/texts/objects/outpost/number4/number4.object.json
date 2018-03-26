@@ -42,7 +42,6 @@
         "/apexDescription",
         "/avianDescription",
         "/floranDescription",
-        "/glitchDescription/glitchEmotedText",
         "/humanDescription",
         "/hylotlDescription"
       ]
@@ -50,6 +49,18 @@
     "Texts": {
       "Eng": "Four.",
       "Por": "Quatro."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/number4/number4.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neutral. Four.",
+      "Por": "Neutro. Quatro."
     }
   }
 ]

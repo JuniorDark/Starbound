@@ -48,6 +48,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/holiday/stocking1/stocking1.object": [
+        "/glitchDescription"
+      ],
+      "objects/holiday/stocking2/stocking2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. Why has a sock been hung on the wall? Is there something inside?",
+      "Por": "Curioso. Por que uma meia foi pendurada na parede? Há algo dentro?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/holiday/stocking1/stocking1.object": [
         "/humanDescription"
       ],
       "objects/holiday/stocking2/stocking2.object": [
@@ -102,20 +117,6 @@
     "Texts": {
       "Eng": "Ssstupid fuzzy sock. Sssomething inside?",
       "Por": "Meia felpuda essstúpida. Algo dentro?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/holiday/stocking1/stocking1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/holiday/stocking2/stocking2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Why has a sock been hung on the wall? Is there something inside?"
     }
   }
 ]

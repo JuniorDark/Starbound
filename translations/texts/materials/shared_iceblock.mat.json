@@ -33,6 +33,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/iceblock.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/iceblock.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. This cuts to shape this ice are very precise.",
+      "Por": "Impressionado. Os cortes para moldar este gelo são muito precisos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/iceblock.matitem": [
         "/description"
       ],
       "tiles/materials/iceblock.material": [
@@ -57,21 +72,6 @@
     "Texts": {
       "Eng": "Ssmooth ice blockss.",
       "Por": "Blocoss de gelo liso."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/iceblock.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/iceblock.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This cuts to shape this ice are very precise.",
-      "Por": "Esses cortes para moldar esse gelo são muito precisos."
     }
   }
 ]

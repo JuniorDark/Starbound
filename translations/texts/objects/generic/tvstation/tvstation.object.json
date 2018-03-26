@@ -27,17 +27,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/tvstation/tvstation.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "It appears this station used to broadcast live video."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/tvstation/tvstation.object": [
         "/humanDescription"
       ]
     },
@@ -56,6 +45,18 @@
     "Texts": {
       "Eng": "Once used to broadcast a video signal.",
       "Por": "Uma vez utilizada para transmitir um sinal de vídeo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/tvstation/tvstation.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sad. It appears this station used to broadcast live video.",
+      "Por": "Triste. Parece que esta estação costumava transmitir vídeo ao vivo."
     }
   },
   {

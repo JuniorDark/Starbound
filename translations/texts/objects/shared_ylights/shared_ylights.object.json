@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Eu sempre gostei de pisca-piscas."
+    ],
     "Files": {
       "objects/generic/fairylights/fairylights.object": [
         "/humanDescription"
@@ -15,7 +17,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "É difícil não amar essas belas luzes."
+    ],
     "Files": {
       "objects/generic/fairylights/fairylights.object": [
         "/avianDescription"
@@ -45,7 +49,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Essas pequenas luzes são bastante bonitas.",
+      "Estas pequenas luzes são bastante bonitas."
+    ],
     "Files": {
       "objects/generic/fairylights/fairylights.object": [
         "/apexDescription"
@@ -56,7 +63,7 @@
     },
     "Texts": {
       "Eng": "These little lights are quite pretty.",
-      "Por": "Estas pequenas luzes são bastante bonitas."
+      "Por": "Estas luzinhas são bastante bonitas."
     }
   }
 ]

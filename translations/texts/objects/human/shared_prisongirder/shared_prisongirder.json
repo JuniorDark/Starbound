@@ -78,6 +78,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/prisongirderh/prisongirderh.object": [
+        "/glitchDescription"
+      ],
+      "objects/human/prisongirderv/prisongirderv.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cautious. The likelihood of this girder collapsing is high.",
+      "Por": "Cauteloso. A probabilidade desta viga desmoronar é alta."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisongirderh/prisongirderh.object": [
         "/humanDescription"
       ],
       "objects/human/prisongirderv/prisongirderv.object": [
@@ -102,20 +117,6 @@
     "Texts": {
       "Eng": "Rusty old girder beams - can't be too safe.",
       "Por": "Vigas velhas e enferrujadas - não podem ser muito seguras."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/human/prisongirderh/prisongirderh.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/human/prisongirderv/prisongirderv.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The likelihood of this girder collapsing is high."
     }
   }
 ]

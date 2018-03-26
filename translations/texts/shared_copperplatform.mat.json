@@ -48,6 +48,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/copperplatform.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/platforms/copperplatform.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Interested. This platform appears to be made from copper.",
+      "Por": "Interessado. Esta plataforma parece ser feita de cobre."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/copperplatform.matitem": [
         "/florandescription"
       ],
       "tiles/platforms/copperplatform.material": [
@@ -57,21 +72,6 @@
     "Texts": {
       "Eng": "Platformss made from copper.",
       "Por": "Plataformass feita de cobre."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/copperplatform.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/platforms/copperplatform.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This platform appears to be made from copper.",
-      "Por": "Esta plataforma parece ser feita de cobre."
     }
   }
 ]

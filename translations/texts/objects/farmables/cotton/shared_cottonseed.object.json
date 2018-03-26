@@ -78,6 +78,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/cotton/cottonseed.object": [
+        "/glitchDescription"
+      ],
+      "objects/farmables/cotton/wildcottonseed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Creative. I could use this cotton for a variety of things.",
+      "Por": "Criativo. Eu poderia usar este algodão para uma variedade de coisas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/cotton/cottonseed.object": [
         "/floranDescription"
       ],
       "objects/farmables/cotton/wildcottonseed.object": [
@@ -102,20 +117,6 @@
     "Texts": {
       "Eng": "Hylotl weavers can create the softest of fabrics with cotton.",
       "Por": "Hylotl tecelões podem criar o mais suave de tecidos com algodão."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/farmables/cotton/cottonseed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/farmables/cotton/wildcottonseed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I could use this cotton for a variety of things."
     }
   }
 ]

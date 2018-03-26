@@ -33,6 +33,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/protectorate/objects/protectoratehulagirl/protectoratehulagirl.object": [
+        "/glitchDescription"
+      ],
+      "objects/themed/island/hulagirl/hulagirl.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Entranced. The swaying motion has an almost hypnotic effect.",
+      "Por": "Em Transe. O movimento oscilante tem um efeito quase hipnótico."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/protectorate/objects/protectoratehulagirl/protectoratehulagirl.object": [
         "/hylotlDescription"
       ],
       "objects/themed/island/hulagirl/hulagirl.object": [
@@ -41,7 +56,7 @@
     },
     "Texts": {
       "Eng": "It reminds me of white sands and blue seas.",
-      "Por": "Isso me lembra de areias brancas e mares azuis."
+      "Por": "Isso me lembra as areias brancas e os mares azuis."
     }
   },
   {
@@ -56,7 +71,7 @@
     },
     "Texts": {
       "Eng": "Look at her, strummin' away on her teeny ukulele.",
-      "Por": "Oia pra ela, tocando seu ukulele pequenino."
+      "Por": "Olhe para ela, tocando seu ukulele pequenino."
     }
   },
   {
@@ -72,21 +87,6 @@
     "Texts": {
       "Eng": "The swaying human appears to be playing a ukulele.",
       "Por": "O humano balançante parece estar tocando um ukulele."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/protectorate/objects/protectoratehulagirl/protectoratehulagirl.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/themed/island/hulagirl/hulagirl.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The swaying motion has an almost hypnotic effect.",
-      "Por": "O movimento oscilante tem um efeito quase hipnótico."
     }
   },
   {

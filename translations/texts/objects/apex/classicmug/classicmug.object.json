@@ -39,11 +39,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/classicmug/classicmug.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analytical. The glass appears to have contained a heated fruit juice.",
+      "Por": "Analítico. O copo parece ter contido um suco de fruta aquecido."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/classicmug/classicmug.object": [
         "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "Classic Mug"
+      "Eng": "Classic Mug",
+      "Por": "Classic Mug"
     }
   },
   {
@@ -68,17 +81,6 @@
     "Texts": {
       "Eng": "The Avian do not have cups with this kind of form.",
       "Por": "Os Avian não tem copos com este tipo de formato."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/apex/classicmug/classicmug.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The glass appears to have contained a heated fruit juice."
     }
   }
 ]

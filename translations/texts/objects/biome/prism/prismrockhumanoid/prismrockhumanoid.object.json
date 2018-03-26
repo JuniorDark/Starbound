@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/prism/prismrockhumanoid/prismrockhumanoid.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Horrified. There appears to be a person inside this prism.",
+      "Por": "Horrorizado. Parece haver uma pessoa dentro desse prisma."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/prism/prismrockhumanoid/prismrockhumanoid.object": [
         "/novakidDescription"
       ]
     },
@@ -45,17 +57,6 @@
     "Texts": {
       "Eng": "There appears to be a humanoid figure inside this crystal.",
       "Por": "Parece haver uma figura humanoide dentro desse cristal."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/prism/prismrockhumanoid/prismrockhumanoid.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "There appears to be a person inside this prism."
     }
   },
   {

@@ -51,11 +51,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/ceilingfridge1/largecooler1.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "This cooler is operating at the optimal temperature."
+      "Eng": "Pleased. This cooler is operating at the optimal temperature.",
+      "Por": "Satisfeito. Este refrigerador está operando na temperatura ideal."
     }
   }
 ]

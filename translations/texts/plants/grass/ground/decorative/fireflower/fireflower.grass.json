@@ -3,7 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "plants/grass/ground/decorative/fireflower/fireflower.grass": [
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ]
     },
@@ -34,6 +33,18 @@
     "Texts": {
       "Eng": "Burny flower confuse Floran.",
       "Por": "Flor quente confunde Floran."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/fireflower/fireflower.grass": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. A fire flower.",
+      "Por": "Declaração. Uma flor de fogo."
     }
   }
 ]

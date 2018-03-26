@@ -39,17 +39,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/ice/snowglobe1/snowglobe1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "According to my translator, 'made in China' is printed on the bottom. What does this mean?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/ice/snowglobe1/snowglobe1.object": [
         "/novakidDescription"
       ]
     },
@@ -80,6 +69,18 @@
     "Texts": {
       "Eng": "Ooh, a snowglobe. Can't help but give it a shake!",
       "Por": "Um globo de neve com um boneco de neve dentro."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/ice/snowglobe1/snowglobe1.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reading. According to my translator, 'made in China' is printed on the bottom. What does this mean?",
+      "Por": "Leitura. De acordo com o meu tradutor, 'feito na China' esta impresso no fundo. O que isto significa?"
     }
   },
   {

@@ -15,30 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/gift.questtemplate": [
-        "/scriptConfig/generatedText/completionText/next/glitch/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "<target> appears to have liked the gift! Thank you for your assistance, I greatly appreciate it.",
-      "Por": "<target> parece ter gostado do presente! Obrigado por sua ajuda, eu agradeço muito."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/gift.questtemplate": [
-        "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "<target> liked my present! Thank you for your help in my quest for friendship.",
-      "Por": "<target> gostou do meu presente! Obrigado por sua ajuda em minha busca por amizade."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/gift.questtemplate": [
         "/scriptConfig/generatedText/completionText/default/default/1"
       ]
     },
@@ -75,12 +51,48 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/gift.questtemplate": [
-        "/scriptConfig/generatedText/text/default/glitch/0/glitchEmotedText"
+        "/scriptConfig/generatedText/completionText/next/glitch/0"
       ]
     },
     "Texts": {
-      "Eng": "Finally, ^green;can you give the ^orange;<gift>^green; to ^orange;<target>^white;? I hope <target.pronoun.subject> likes it!",
-      "Por": "Finalmente, ^green;você pode dar o ^orange;<gift>^green; para ^orange;<target>^white;? Espero que <target.pronoun.subject> goste!"
+      "Eng": "Delighted. <target> appears to have liked the gift! Thank you for your assistance, I greatly appreciate it.",
+      "Por": "Encantado. <target> parece ter gostado do presente! Obrigado por sua ajuda, eu agradeço muito."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/gift.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eager. We're almost finished! All you need to do now is ^green;deliver the ^orange;<gift>^green; to ^orange;<target> ^white;and then we'll be done!",
+      "Por": "Ansioso. Estamos quase terminando! Tudo que você precisa fazer agora é ^green;entregar o ^orange;<gift>^green; para ^orange;<target> ^white;e então acabamos!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/gift.questtemplate": [
+        "/scriptConfig/generatedText/text/next/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enthusiastic. Next ^green;I need to win ^orange;<target>'s^white; friendship. Can you ^green;deliver this ^orange;<gift>^white; to <target.pronoun.object> as a gift?",
+      "Por": "Entusiasmado. Em seguida ^green;Eu preciso ganhar a amizade de ^orange;<target>^white;. Você pode ^green;entregar este ^orange;<gift>^white; para <target.pronoun.object> como um presente?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/gift.questtemplate": [
+        "/scriptConfig/generatedText/completionText/next/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Exuberant. I now have a closer friendship with <target> thanks to your help delivering the gift to <target.pronoun.object>. I will remember how reliable you have been!",
+      "Por": "Exuberante. Agora tenho uma amizade íntima com <target> graças à sua ajuda entregando o presente a <target.pronoun.object>. Eu vou lembrar de quão confiável você tem sido!"
     }
   },
   {
@@ -111,12 +123,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/gift.questtemplate": [
+        "/scriptConfig/generatedText/text/next/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Focused. Next, I need to ^green;win the favour of ^orange;<target>.^white; I know that <target.pronoun.subject> would like this ^orange;<gift>, ^white;could you ^green;deliver it to <target.pronoun.object> ^white;for me?",
+      "Por": "Focado. Em seguida, eu preciso ^green;ganhar a confiança de ^orange;<target>.^white; Eu sei que <target.pronoun.subject> gostaria deste ^orange;<gift>, ^white;você poderia ^green;entregá-lo para <target.pronoun.object> ^white;por mim?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/gift.questtemplate": [
         "/parameters/target/example/name"
       ]
     },
     "Texts": {
       "Eng": "Friendly Friendson",
-      "Por": "Amigo Amigável"
+      "Por": "Amigos Amigáveis"
     }
   },
   {
@@ -129,6 +153,18 @@
     "Texts": {
       "Eng": "Good job! Maybe the <gift> wass a bit ssstrange for a trophy, but I'm glad <target.pronoun.subject> liked it!",
       "Por": "Bom trabalho! Talvez o <gift> foi um pouco estranho para um troféu, mas estou feliz que <target.pronoun.subject> gostou!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/gift.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gratified. <target> liked my present! Thank you for your help in my quest for friendship.",
+      "Por": "Agradecido. <target> gostou do meu presente! Obrigado por sua ajuda em minha busca por amizade."
     }
   },
   {
@@ -183,18 +219,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/gift.questtemplate": [
-        "/scriptConfig/generatedText/completionText/next/glitch/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I now have a closer friendship with <target> thanks to your help delivering the gift to <target.pronoun.object>. I will remember how reliable you have been!",
-      "Por": "Agora tenho uma amizade íntima com <target> graças à sua ajuda entregando o presente a <target.pronoun.object>. Eu vou lembrar de quão confiável você tem sido!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/gift.questtemplate": [
         "/scriptConfig/generatedText/text/next/default/0"
       ]
     },
@@ -219,6 +243,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/gift.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Jubilant. The gift delivery was a success! Thank you for helping with this plan, I greatly appreciate it.",
+      "Por": "Alegre. A entrega do presente foi um sucesso! Obrigado por ajudar com este plano, eu agradeço muito."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/gift.questtemplate": [
         "/scriptConfig/generatedText/text/default/floran/1"
       ]
     },
@@ -231,12 +267,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/gift.questtemplate": [
-        "/scriptConfig/generatedText/text/next/glitch/0/glitchEmotedText"
+        "/scriptConfig/generatedText/text/default/glitch/0"
       ]
     },
     "Texts": {
-      "Eng": "Next ^green;I need to win ^orange;<target>'s^white; friendship. Can you ^green;deliver this ^orange;<gift>^white; to <target.pronoun.object> as a gift?",
-      "Por": "Em seguida ^green;Eu preciso ganhar a amizade de ^orange;<target>^white;. Você pode ^green;entregar este ^orange;<gift>^white; para <target.pronoun.object> como um presente?"
+      "Eng": "Nervous. Finally, ^green;can you give the ^orange;<gift>^green; to ^orange;<target>^white;? I hope <target.pronoun.subject> likes it!",
+      "Por": "Nervoso. Finalmente, ^green;você pode dar o ^orange;<gift>^green; para ^orange;<target>^white;? Espero que <target.pronoun.subject> goste!"
     }
   },
   {
@@ -249,18 +285,6 @@
     "Texts": {
       "Eng": "Next, Floran thinkss ^orange;<target> ^white;might like a present. Thiss ^orange;<gift> ^white;will be perfect! Floran not afraid of anything! But... Perhapss you ^green;give it to <target.pronoun.object>?",
       "Por": "Em seguida, Floran acha que ^orange;<target> ^white;pôde gostar de um presente. Este ^orange;<gift> ^white;será perfeito! Floran não tem medo de nada! Mas... Talvez você ^green;deva dar isto para <target.pronoun.object>?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/gift.questtemplate": [
-        "/scriptConfig/generatedText/text/next/glitch/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Next, I need to ^green;win the favour of ^orange;<target>.^white; I know that <target.pronoun.subject> would like this ^orange;<gift>, ^white;could you ^green;deliver it to <target.pronoun.object> ^white;for me?",
-      "Por": "Em seguida, eu preciso ^green;ganhar a confiança de ^orange;<target>.^white; Eu sei que <target.pronoun.subject> gostaria deste ^orange;<gift>, ^white;você poderia ^green;entregá-lo para <target.pronoun.object> ^white;para mim?"
     }
   },
   {
@@ -284,7 +308,7 @@
     },
     "Texts": {
       "Eng": "Okay, next let'ss ^green;give ^orange;<target> ^green;a hunting trophy!^white; Floran ate Floran's last hunting trophy, so this ^orange;<gift> ^white;will have to do. Floran still thinks <target.pronoun.subject> will be impressed!",
-      "Por": "Ok, em seguida vamoss ^green;dar a ^orange;<target> ^green;um troféu de caça!^white; Floran comeu o último troféu de caça de Floran, então esse ^orange;<gift> ^white;\nterá que servir. Floran ainda acha que <target.pronoun.subject> vai ficar impressionado!"
+      "Por": "Ok, em seguida vamoss ^green;dar a ^orange;<target> ^green;um troféu de caça!^white; Floran comeu o último troféu de caça de Floran, então esse ^orange;<gift> ^white;\r\nterá que servir. Floran ainda acha que <target.pronoun.subject> vai ficar impressionado!"
     }
   },
   {
@@ -303,36 +327,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/gift.questtemplate": [
-        "/scriptConfig/generatedText/completionText/default/glitch/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The gift delivery was a success! Thank you for helping with this plan, I greatly appreciate it.",
-      "Por": "A entrega do presente foi um sucesso! Obrigado por ajudar com este plano, eu agradeço muito."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/gift.questtemplate": [
         "/scriptConfig/generatedText/text/default/default/0"
       ]
     },
     "Texts": {
       "Eng": "The only thing left to do now is ^green;deliver the ^orange;<gift>^white; Could you give it to <target> for me?",
       "Por": "A única coisa que resta fazer agora é ^green;entregar o ^orange;<gift>^white; Você poderia dar a <target> por mim?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/gift.questtemplate": [
-        "/scriptConfig/generatedText/text/default/glitch/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "We're almost finished! All you need to do now is ^green;deliver the ^orange;<gift>^green; to ^orange;<target> ^white;and then we'll be done!",
-      "Por": "Estamos quase terminando! Tudo que você precisa fazer agora é ^green;entregar o ^orange;<gift>^green; para ^orange;<target> ^white;e então acabamos!"
     }
   },
   {

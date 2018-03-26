@@ -3,6 +3,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/arcadegame/arcadegameclosed.object": [
+        "/glitchDescription"
+      ],
+      "objects/generic/arcadegame/arcadegameobject.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Determined. I will escape from this hellish labyrinth and defeat Mazebound64 once and for all! 8/10.",
+      "Por": "Determinado. Vou escapar deste labirinto infernal e derrotar Mazebound64 de uma vez por todas! 8/10"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/arcadegame/arcadegameclosed.object": [
         "/floranDescription"
       ],
       "objects/generic/arcadegame/arcadegameobject.object": [
@@ -27,20 +42,6 @@
     "Texts": {
       "Eng": "I am not a fan of Mazebound64. I've heard horror stories about Miniknog testing... Mazes give me the creeps.",
       "Por": "Eu não sou um fã de Mazebound64. Eu ouvi histórias de horror sobre testes da Miniknog... Labirintos me dão arrepios."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/arcadegame/arcadegameclosed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/generic/arcadegame/arcadegameobject.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I will escape from this hellish labyrinth and defeat Mazebound64 once and for all! 8/10."
     }
   },
   {

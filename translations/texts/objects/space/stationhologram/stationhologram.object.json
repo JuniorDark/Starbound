@@ -8,7 +8,7 @@
     },
     "Texts": {
       "Eng": "A flickering holographic display of an unidentified planet.",
-      "Por": "Uma tela holográfica cintilante de um planeta não identificado."
+      "Por": "Uma exibição holográfica cintilante de um planeta não identificado."
     }
   },
   {
@@ -63,6 +63,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/space/stationhologram/stationhologram.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. I wonder what planet this hologram is depicting?",
+      "Por": "Curioso. Me pergunto que planeta esse holograma está retratando?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/stationhologram/stationhologram.object": [
         "/floranDescription"
       ]
     },
@@ -81,18 +93,6 @@
     "Texts": {
       "Eng": "I still wonder why all holograms are required to be blue. Is it a stylistic choice?",
       "Por": "Ainda me pergunto por que todos os hologramas são obrigados a ser azul. É uma escolha estilística?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/space/stationhologram/stationhologram.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I wonder what planet this hologram is depicting?",
-      "Por": "Eu me pergunto que planeta esse holograma está representando?"
     }
   },
   {

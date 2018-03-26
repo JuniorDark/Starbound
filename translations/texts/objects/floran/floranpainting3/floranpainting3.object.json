@@ -27,17 +27,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/floranpainting3/floranpainting3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A simple base 10 numbering system."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/floran/floranpainting3/floranpainting3.object": [
         "/hylotlDescription"
       ]
     },
@@ -104,6 +93,18 @@
     "Texts": {
       "Eng": "Some kinda chart, maybe it's a huntin' record.",
       "Por": "Algum tipo de gráfico, talvez seja um registro de caça."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/floranpainting3/floranpainting3.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unimpressed. A simple base 10 numbering system.",
+      "Por": "Não impressionado. Um simples sistema de numeração de base 10."
     }
   }
 ]

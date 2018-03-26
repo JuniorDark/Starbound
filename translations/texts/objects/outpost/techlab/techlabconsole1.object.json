@@ -75,23 +75,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/techlab/techlabconsole1.object": [
-        "/description"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Purchase tech consoles using this interface.",
-      "Por": "Compre consoles de tecnologia usando esta interface."
+      "Eng": "Pleased. Tech consoles can be purchased from this machine.",
+      "Por": "Satisfeito. Consoles de tecnologia podem ser comprados a partir desta máquina."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/techlab/techlabconsole1.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ]
     },
     "Texts": {
-      "Eng": "Tech consoles can be purchased from this machine."
+      "Eng": "Purchase tech consoles using this interface.",
+      "Por": "Compre consoles de tecnologia usando esta interface."
     }
   },
   {

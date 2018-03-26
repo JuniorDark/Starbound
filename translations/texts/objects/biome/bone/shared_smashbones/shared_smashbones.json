@@ -3,26 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/bone/smashbones1/smashbones1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/bone/smashbones2/smashbones2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/bone/smashbones3/smashbones3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/bone/smashbones4/smashbones4.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A dropkick would likely turn this bone pile to dust."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/bone/smashbones1/smashbones1.object": [
         "/description"
       ],
       "objects/biome/bone/smashbones3/smashbones3.object": [
@@ -95,6 +75,27 @@
     "Texts": {
       "Eng": "Dry, dusty bones, just beggin' for a good kickin'.",
       "Por": "Ossos secos e empoeirados, apenas implorando um bom chute."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/bone/smashbones1/smashbones1.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/bone/smashbones2/smashbones2.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/bone/smashbones3/smashbones3.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/bone/smashbones4/smashbones4.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excited. A dropkick would likely turn this bone pile to dust.",
+      "Por": "Animado. Um chute provavelmente transformaria esta pilha de ossos em pó"
     }
   },
   {

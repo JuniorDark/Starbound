@@ -3,23 +3,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/eggs/robothenegg/robothenegg.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A robot hen's egg!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/farmables/eggs/robothenegg/robothenegg.object": [
         "/hylotlDescription"
       ]
     },
     "Texts": {
       "Eng": "A robot hen's egg. The adult hen will lay AA batteries.",
       "Por": "Um ovo de galinha robô. A galinha adulta botará AA batteries."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/eggs/robothenegg/robothenegg.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Appreciative. A robot hen's egg!",
+      "Por": "Apreciativo. Um ovo de galinha robô!"
     }
   },
   {

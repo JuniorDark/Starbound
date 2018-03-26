@@ -39,23 +39,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/floranpainting1/floranpainting1.object": [
-        "/avianDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Is that smoke and fire?",
-      "Por": "Isso é fumaça e fogo?"
+      "Eng": "Concerned. It appears to be instructions on making fire.",
+      "Por": "Preocupado. Parece ser instruções para fazer fogo."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/floranpainting1/floranpainting1.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/avianDescription"
       ]
     },
     "Texts": {
-      "Eng": "It appears to be instructions on making fire."
+      "Eng": "Is that smoke and fire?",
+      "Por": "Isso é fumaça e fogo?"
     }
   },
   {

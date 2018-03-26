@@ -63,6 +63,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/grandfatherclock/grandfatherclock.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. This time piece appears to be accurate to within 1 millisecond.",
+      "Por": "Impressionado. Este relógio parece ser preciso dentro de 1 milésimo de segundo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/grandfatherclock/grandfatherclock.object": [
         "/hylotlDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "The sound this clock makes can be both ominous and soothing.",
       "Por": "O som que este relógio faz pode ser sinistro e calmante."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/apex/grandfatherclock/grandfatherclock.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This time piece appears to be accurate to within 1 millisecond."
     }
   },
   {

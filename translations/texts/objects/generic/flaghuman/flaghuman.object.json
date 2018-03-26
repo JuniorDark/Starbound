@@ -15,17 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/flaghuman/flaghuman.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A small locator module attached to this human flag allows it to be bookmarked for teleportation."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/flaghuman/flaghuman.object": [
         "/shortdescription"
       ]
     },
@@ -56,6 +45,18 @@
     "Texts": {
       "Eng": "I can bookmark this human flag for quick teleportin'.",
       "Por": "Eu posso favoritar esta bandeira humana para teleporte rápido."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/flaghuman/flaghuman.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. A small locator module attached to this human flag allows it to be bookmarked for teleportation.",
+      "Por": "Atento. Um pequeno módulo localizador anexado a esta bandeira humana permite que ela seja marcada para teletransporte."
     }
   },
   {

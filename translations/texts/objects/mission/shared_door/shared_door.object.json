@@ -78,14 +78,15 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/miningverticaldoor/miningverticaldoor.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/mission/penguinbasedoor/penguinbasedoor.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "This hatch is for vertical access."
+      "Eng": "Observant. This hatch is for vertical access.",
+      "Por": "Observador. Esta escotilha é para acesso vertical."
     }
   }
 ]

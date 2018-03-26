@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/oasis/reedchair/reedchair.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. Reeds make for a creative seating solution in a pinch.",
+      "Por": "Impressionado. Os juncos fazem uma solução de assento criativa em uma pitada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/oasis/reedchair/reedchair.object": [
         "/novakidDescription"
       ]
     },
@@ -57,17 +69,6 @@
     "Texts": {
       "Eng": "Reed Chair",
       "Por": "Reed Chair"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/oasis/reedchair/reedchair.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Reeds make for a creative seating solution in a pinch."
     }
   },
   {

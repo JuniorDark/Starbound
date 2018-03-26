@@ -21,20 +21,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/prisonbars/prisonbars.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/human/prisondoor/prisondoor.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A remarkably strong set of bars."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/human/prisonbars/prisonbars.object": [
         "/humanDescription"
       ],
       "objects/human/prisondoor/prisondoor.object": [
@@ -77,20 +63,6 @@
     "Texts": {
       "Eng": "Floran is sssure Floran could jump this fence! But Floran won't try.",
       "Por": "Floran tem certeza de que Floran poderia pular essa cerca! Mas Floran não tentará."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/human/prisonarch/prisonarch.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/human/prisoncorner/prisoncorner.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Human and Glitch architecture seem to share certain similarities."
     }
   },
   {
@@ -144,6 +116,23 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "objects/human/prisonbars/prisonbars.object": [
+        "/glitchDescription"
+      ],
+      "objects/human/prisondoor/prisondoor.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. A remarkably strong set of bars.",
+      "Por": "Impressionado. Um conjunto extremamente forte de barras."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Bonito ou aterrorizante?"
+    ],
+    "Files": {
       "objects/human/prisonarch/prisonarch.object": [
         "/hylotlDescription"
       ],
@@ -154,6 +143,21 @@
     "Texts": {
       "Eng": "It is simple but there is something to be admired in the crafting.",
       "Por": "É simples, mas há algo a ser admirado na elaboração."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisonarch/prisonarch.object": [
+        "/glitchDescription"
+      ],
+      "objects/human/prisoncorner/prisoncorner.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased. Human and Glitch architecture seem to share certain similarities.",
+      "Por": "Satisfeito. Arquitetura Humana e Glitch parecem compartilhar certas semelhanças."
     }
   },
   {

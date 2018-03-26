@@ -27,17 +27,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/florandesk/florandesk.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A simple wooden desk."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/floran/florandesk/florandesk.object": [
         "/hylotlDescription"
       ]
     },
@@ -68,6 +57,18 @@
     "Texts": {
       "Eng": "I had never pictured a Floran working at a desk until now.",
       "Por": "Eu nunca tinha imaginado um Floran trabalhando em uma mesa até agora."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/florandesk/florandesk.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Indifferent. A simple wooden desk.",
+      "Por": "Indiferente. Uma simples mesa de madeira."
     }
   },
   {

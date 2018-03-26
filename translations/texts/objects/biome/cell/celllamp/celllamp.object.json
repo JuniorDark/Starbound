@@ -75,17 +75,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/cell/celllamp/celllamp.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Looks inorganic, but is made from organic cells. Alive but not alive."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/cell/celllamp/celllamp.object": [
         "/hylotlDescription"
       ]
     },
@@ -104,6 +93,18 @@
     "Texts": {
       "Eng": "No one could accuse this lamp of being utilitarian.",
       "Por": "Ninguém poderia acusar esta lâmpada de ser utilitária."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/cell/celllamp/celllamp.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reflective. Looks inorganic, but is made from organic cells. Alive but not alive.",
+      "Por": "Reflexivo. Parece inorgânico, mas é feito a partir de células orgânicas. Vivo, mas não vivo."
     }
   }
 ]

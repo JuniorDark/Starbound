@@ -3,48 +3,48 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/extort.questtemplate": [
-        "/scriptConfig/generatedText/completionText/first/glitch/0/glitchEmotedText"
+        "/scriptConfig/generatedText/completionText/first/glitch/1"
       ]
     },
     "Texts": {
-      "Eng": "Ah, I see you got the <item> - I expect it was SO difficult to get <target> to hand it over. Keep hold of it for me for the time being, will you?",
-      "Por": "Ah, vejo que você pegou o <item> - Eu espero que foi TÃO difícil conseguir que <target> o entregasse. Guarde-o para mim, por enquanto, você poderia?"
+      "Eng": "Amused. Ah, you got <target>'s <item>. I imagine the look on <target.pronoun.possessiveDet> face was priceless!",
+      "Por": "Divertido. Ah, você pegou o <item> de <target>. Imagino o olhar no rosto de <target.pronoun.possessiveDet> foi impagável!"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/extort.questtemplate": [
-        "/scriptConfig/generatedText/completionText/first/glitch/1/glitchEmotedText"
+        "/scriptConfig/generatedText/text/default/glitch/1"
       ]
     },
     "Texts": {
-      "Eng": "Ah, you got <target>'s <item>. I imagine the look on <target.pronoun.possessiveDet> face was priceless!",
-      "Por": "Ah, você pegou o <item> de <target>. Imagino o olhar no rosto de <target.pronoun.possessiveDet> foi impagável!"
+      "Eng": "Antagonistic. Now we can have a bit of fun! Go find ^orange;<target> ^white;and ^green;pressure <target.pronoun.object> into handing over <target.pronoun.possessiveDet> ^orange;<item>.^white; It shouldn't be too difficult, just mention that ^orange;<questGiver>^white; sent you.",
+      "Por": "Antagônico. Agora podemos ter um pouco de diversão! Vá encontrar ^orange;<target> ^white;e ^green;pressione <target.pronoun.object> para entregar o ^orange;<item> <target.pronoun.possessiveDet>.^white; Não deve ser muito difícil, basta mencionar que ^orange;<questGiver>^white; te enviou."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/extort.questtemplate": [
-        "/scriptConfig/generatedText/text/first/glitch/0/glitchEmotedText"
+        "/scriptConfig/generatedText/text/first/glitch/0"
       ]
     },
     "Texts": {
-      "Eng": "First I need you to ^green;find that fool, ^orange;<target> ^green;and ask <target.pronoun.object> to give up <target.pronoun.possessiveDet> ^orange;<item>. ^white;Make sure you mention that ^orange;<questGiver>^white; sent you, <target.pronoun.subject> won't protest... ",
-      "Por": "Primeiro eu preciso que você ^green;ache que tolo, ^orange;<target> ^green;e peça a <target.pronoun.object> para desistir do <target.pronoun.possessiveDet> ^orange;<item>. ^white;Certifique-se de mencionar que ^orange;<questGiver>^white; te enviou, <target.pronoun.subject> não vai protestar..."
+      "Eng": "Blunt. First I need you to ^green;find that fool, ^orange;<target> ^green;and ask <target.pronoun.object> to give up <target.pronoun.possessiveDet> ^orange;<item>. ^white;Make sure you mention that ^orange;<questGiver>^white; sent you, <target.pronoun.subject> won't protest... ",
+      "Por": "Grosseiro. Primeiro eu preciso que você ^green;ache que tolo, ^orange;<target> ^green;e peça a <target.pronoun.object> para desistir do <target.pronoun.possessiveDet> ^orange;<item>. ^white;Certifique-se de mencionar que ^orange;<questGiver>^white; te enviou, <target.pronoun.subject> não vai protestar..."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/extort.questtemplate": [
-        "/scriptConfig/generatedText/text/first/glitch/1/glitchEmotedText"
+        "/scriptConfig/generatedText/text/default/glitch/0"
       ]
     },
     "Texts": {
-      "Eng": "First, we must deal with ^orange;<target>. ^white;I need <target.pronoun.possessiveDet> ^orange;<item>, ^white;but <target.pronoun.subject>'d be petrified if I went in person. It would save us both some trouble if you were to ^green;fetch it^white; instead.",
-      "Por": "Em primeiro lugar, temos que lidar com ^orange;<target>. ^white;Eu preciso de <target.pronoun.possessiveDet> ^orange;<item>, ^white;mas <target.pronoun.subject> ficaria apavorado se eu fosse em pessoa. Isso nos pouparia alguns problemas se em vez disso você fosse ^green;buscá-lo^white;."
+      "Eng": "Callous. Next, we need one ^orange;<item>^white;. ^orange;<target>^white; will have one. <target.pronoun.capitalSubject> should ^green;give it up without a fight if you tell <target.pronoun.object> I sent you^white;.",
+      "Por": "Insensível. Em seguida, precisamos de um ^orange;<item>^white;. ^orange;<target>^white; terá um. <target.pronoun.capitalSubject> deve ^green;desistir sem lutar se você dizer que <target.pronoun.object> eu te enviei^white;."
     }
   },
   {
@@ -92,7 +92,7 @@
     },
     "Texts": {
       "Eng": "Ms Extorted",
-      "Por": "Sr. Extorção"
+      "Por": "Mr. Extorquido"
     }
   },
   {
@@ -105,30 +105,6 @@
     "Texts": {
       "Eng": "Next step requiress some muscle. Floran knows ^orange;<target>^white; is cowering somewhere. ^green;Go tell <target.pronoun.object> Floran thinks <target.pronoun.subject> should \"volunteer\" <target.pronoun.possessiveDet> ^orange;<item>.",
       "Por": "O próximo passo requer um pouco de músculo. Floran sabe que ^orange;<target>^white; está se encolhido em algum lugar. ^green;Vá dizer a <target.pronoun.object> que Floran pensa <target.pronoun.subject> deveria \"doar\" o <target.pronoun.possessiveDet> ^orange;<item>."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/extort.questtemplate": [
-        "/scriptConfig/generatedText/text/default/glitch/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Next, we need one ^orange;<item>^white;. ^orange;<target>^white; will have one. <target.pronoun.capitalSubject> should ^green;give it up without a fight if you tell <target.pronoun.object> I sent you^white;.",
-      "Por": "Agora podemos ter um pouco de diversão! Vá encontrar ^orange;<target> ^white;e ^green;pressione <target.pronoun.object> para entregar o ^orange;<item> <target.pronoun.possessiveDet>.^white; Não deve ser muito difícil, basta mencionar que ^orange;<questGiver>^white; te enviou."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/extort.questtemplate": [
-        "/scriptConfig/generatedText/text/default/glitch/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Now we can have a bit of fun! Go find ^orange;<target> ^white;and ^green;pressure <target.pronoun.object> into handing over <target.pronoun.possessiveDet> ^orange;<item>.^white; It shouldn't be too difficult, just mention that ^orange;<questGiver>^white; sent you.",
-      "Por": "Agora podemos ter um pouco de diversão! Vá encontrar ^orange;<target> ^white;e ^green;pressione <target.pronoun.object> para entregar o ^orange;<item> <target.pronoun.possessiveDet>.^white; Não deve ser muito difícil, basta mencionar que ^orange;<questGiver>^white; te enviou."
     }
   },
   {
@@ -153,6 +129,42 @@
     "Texts": {
       "Eng": "Perfect. I knew <target> wouldn't dare kick up a fuss. ",
       "Por": "Perfeito. Eu sabia que <target> não faria um escândalo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/extort.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased. You got <target>'s <item>. Ha ha ha... what a coward <target.pronoun.subject> is.",
+      "Por": "Satisfeito. Você pegou o <item> de <target>. Ha ha ha... que covarde <target.pronoun.subject> é."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/extort.questtemplate": [
+        "/scriptConfig/generatedText/completionText/first/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sarcastic. Ah, I see you got the <item> - I expect it was SO difficult to get <target> to hand it over. Keep hold of it for me for the time being, will you?",
+      "Por": "Sarcástico. Ah, vejo que você pegou o <item> - Eu espero que foi TÃO difícil conseguir que <target> o entregasse. Guarde-o para mim, por enquanto, você poderia?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/extort.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Satisfied. This is the perfect <item>. I suppose <target> wasn't too much trouble?",
+      "Por": "Satisfeito. Esse é o <item> perfeito. Eu suponho que <target> não foi um problema?"
     }
   },
   {
@@ -195,24 +207,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/extort.questtemplate": [
-        "/scriptConfig/generatedText/completionText/default/glitch/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This is the perfect <item>. I suppose <target> wasn't too much trouble?",
-      "Por": "Esse é o <item> perfeito. Eu suponho que <target> não causou problema?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/extort.questtemplate": [
         "/scriptConfig/generatedText/text/first/default/0"
       ]
     },
     "Texts": {
       "Eng": "To begin with we need to find ourselves a good ^orange;<item>. ^white;I happen to know that ^orange;<target> ^white;has got one, so you could ^green;pick it up directly from <target.pronoun.object>.^white; <target.pronoun.capitalSubject> already knows <target.pronoun.possessiveDet> place, so <target.pronoun.subject> wouldn't dare to disobey me. ",
       "Por": "Para começar nós precisamos encontrar um bom ^orange;<item>. ^white;Acontece que eu sei que ^orange;<target> ^white;tem um, Então você poderia ^green;pegá-lo diretamente de <target.pronoun.object>.^white; <target.pronoun.capitalSubject> já sabe o <target.pronoun.possessiveDet> lugar, portanto, <target.pronoun.subject> não se atreveria a me desobedecer."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/extort.questtemplate": [
+        "/scriptConfig/generatedText/text/first/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Uncaring. First, we must deal with ^orange;<target>. ^white;I need <target.pronoun.possessiveDet> ^orange;<item>, ^white;but <target.pronoun.subject>'d be petrified if I went in person. It would save us both some trouble if you were to ^green;fetch it^white; instead.",
+      "Por": "Indiferente. Em primeiro lugar, temos que lidar com ^orange;<target>. ^white;Eu preciso de <target.pronoun.possessiveDet> ^orange;<item>, ^white;mas <target.pronoun.subject> ficaria apavorado se eu fosse em pessoa. Isso nos pouparia alguns problemas se você fosse buscá-lo invés."
     }
   },
   {
@@ -261,18 +273,6 @@
     "Texts": {
       "Eng": "Well done! This <item> will come in handy to us very soon. ",
       "Por": "Muito bem! Este <item> virá a calhar para nós muito em breve."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/extort.questtemplate": [
-        "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "You got <target>'s <item>. Ha ha ha... what a coward <target.pronoun.subject> is.",
-      "Por": "Você pegou o <item> de <target>. Ha ha ha... que covarde <target.pronoun.subject> é."
     }
   },
   {

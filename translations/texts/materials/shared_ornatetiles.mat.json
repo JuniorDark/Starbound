@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Telhas de telhado ornamentado requintado."
+    ],
     "Files": {
       "items/materials/ornatetiles.matitem": [
         "/description"
@@ -12,6 +14,21 @@
     "Texts": {
       "Eng": "Exquisite ornate roof tiles.",
       "Por": "Telhas de telhado requintadas ornamentado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ornatetiles.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/ornatetiles.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Familiar. Similar tiles can often be found in traditional roof design.",
+      "Por": "Familiar. Telhas similares podem frequentemente ser encontradas em projeto tradicional de telhado."
     }
   },
   {
@@ -42,21 +59,6 @@
     "Texts": {
       "Eng": "Ornate Tiles",
       "Por": "Ornate Tiles"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/ornatetiles.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/ornatetiles.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Similar tiles can often be found in traditional roof design.",
-      "Por": "Telhas similares podem ser encontradas frequentemente em design tradicional de telhado."
     }
   },
   {

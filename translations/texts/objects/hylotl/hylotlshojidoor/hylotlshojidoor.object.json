@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/hylotlshojidoor/hylotlshojidoor.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Critical. This door is simply perfect if you abhor privacy.",
+      "Por": "Crítico. Esta porta é simplesmente perfeita se você abomina a privacidade."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/hylotlshojidoor/hylotlshojidoor.object": [
         "/floranDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "This door don't seem safe. I could poke a hole in it with my finger.",
       "Por": "Esta porta não parece segura. Eu poderia fazer um buraco com meu dedo."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/hylotl/hylotlshojidoor/hylotlshojidoor.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This door is simply perfect if you abhor privacy."
     }
   },
   {

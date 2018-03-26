@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/protectorate/objects/protectoratebrokenportrait4/protectoratebrokenportrait4.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. The plaque reads \"Esther Bright - Former Grand Protector\".",
+      "Por": "Curioso. A placa diz \"Esther Bright - Ex-Grande Protetora\"."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/protectorate/objects/protectoratebrokenportrait4/protectoratebrokenportrait4.object": [
         "/description"
       ]
     },
@@ -41,7 +53,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/protectorate/objects/protectoratebrokenportrait4/protectoratebrokenportrait4.object": [
-        "/glitchDescription/glitchEmotedText",
         "/humanDescription"
       ]
     },

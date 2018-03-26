@@ -3,24 +3,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "plants/grass/ground/decorative/heckflower/heckflower.grass": [
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ]
     },
     "Texts": {
-      "Eng": "A flower made of flesh.",
-      "Por": "Uma flor feita de carne."
+      "Eng": "A vile, fleshy flower.",
+      "Por": "Uma flor carnuda e má."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "plants/grass/ground/decorative/heckflower/heckflower.grass": [
-        "/description"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "A vile, fleshy flower.",
-      "Por": "Uma flor de carne."
+      "Eng": "Disgust. A flower made of flesh.",
+      "Por": "Nojo. Uma flor feita de carne."
     }
   },
   {
@@ -32,7 +32,7 @@
     },
     "Texts": {
       "Eng": "Heck Flower",
-      "Por": "Heck Flower"
+      "Por": "Flor de Carne"
     }
   },
   {

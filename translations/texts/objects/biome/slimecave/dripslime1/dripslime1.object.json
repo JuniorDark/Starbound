@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/slimecave/dripslime1/dripslime1.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disgusted. There appears to be dripping slime.",
+      "Por": "Com nojo. Parece estar pingando lodo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/slimecave/dripslime1/dripslime1.object": [
         "/floranDescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "Slime seems to get everywhere if you let it.",
       "Por": "Lodo parece ficar em todos os lugares se você deixar."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/slimecave/dripslime1/dripslime1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "There appears to be dripping slime."
     }
   },
   {

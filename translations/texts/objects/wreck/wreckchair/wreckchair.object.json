@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/wreck/wreckchair/wreckchair.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Appalled. This chair is infested.",
+      "Por": "Chocado. Esta cadeira está infestada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wreck/wreckchair/wreckchair.object": [
         "/humanDescription"
       ]
     },
@@ -81,18 +93,6 @@
     "Texts": {
       "Eng": "This chair is full o' bugs!",
       "Por": "Esta cadeira está cheia de insetos!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/wreck/wreckchair/wreckchair.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This chair is infested.",
-      "Por": "Esta cadeira está infestada pela ferrugem."
     }
   },
   {

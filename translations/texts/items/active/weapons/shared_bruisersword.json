@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Essa coisa é enorme!"
+    ],
     "Files": {
       "items/active/weapons/arena/bruisersword/bruisersword.activeitem": [
         "/description"

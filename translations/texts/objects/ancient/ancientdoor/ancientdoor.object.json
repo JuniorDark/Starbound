@@ -51,24 +51,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/ancient/ancientdoor/ancientdoor.object": [
-        "/humanDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "I bet these runes say 'open' and 'close'.",
-      "Por": "Aposto que essas runas dizem 'abrir' e 'fechar'."
+      "Eng": "Guarded. It would not be surprising if this ancient door failed to open.",
+      "Por": "Cauteloso. Não seria surpresa se esta porta ancestral falhasse ao abrir."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/ancient/ancientdoor/ancientdoor.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/humanDescription"
       ]
     },
     "Texts": {
-      "Eng": "It would not be surprising if this ancient door failed to open.",
-      "Por": "Não seria surpresa se esta porta ancestral falhasse ao abrir."
+      "Eng": "I bet these runes say 'open' and 'close'.",
+      "Por": "Aposto que essas runas dizem 'abrir' e 'fechar'."
     }
   },
   {

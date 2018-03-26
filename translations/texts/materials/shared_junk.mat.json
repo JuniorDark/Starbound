@@ -11,22 +11,7 @@
     },
     "Texts": {
       "Eng": "An ol' heap of garbage.",
-      "Por": "Um monte de lixo."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/junk.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/junk.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I can see many different types of twisted broken debris in this pile.",
-      "Por": "Eu posso ver muitos tipos diferentes de detritos quebrados torcidos nesta pilha."
+      "Por": "Um velho monte de lixo."
     }
   },
   {
@@ -42,6 +27,21 @@
     "Texts": {
       "Eng": "Junk Pile",
       "Por": "Junk Pile"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/junk.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/junk.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. I can see many different types of twisted broken debris in this pile.",
+      "Por": "Atento. Eu posso ver muitos tipos diferentes de detritos retorcidos quebrados nesta pilha."
     }
   },
   {

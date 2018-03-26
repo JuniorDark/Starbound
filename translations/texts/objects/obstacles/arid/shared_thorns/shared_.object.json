@@ -3,6 +3,27 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/obstacles/arid/thorns1/thorns1.object": [
+        "/glitchDescription"
+      ],
+      "objects/obstacles/arid/thorns2/thorns2.object": [
+        "/glitchDescription"
+      ],
+      "objects/obstacles/arid/thorns3/thorns3.object": [
+        "/glitchDescription"
+      ],
+      "objects/obstacles/arid/thorns4/thorns4.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cautious. These look dangerous.",
+      "Por": "Cauteloso. Parecem perigosos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/obstacles/arid/thorns1/thorns1.object": [
         "/avianDescription"
       ],
       "objects/obstacles/arid/thorns2/thorns2.object": [
@@ -60,26 +81,6 @@
     "Texts": {
       "Eng": "Sharp. I'd better avoid them.",
       "Por": "Afiado. É melhor evitá-los."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/obstacles/arid/thorns1/thorns1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/obstacles/arid/thorns2/thorns2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/obstacles/arid/thorns3/thorns3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/obstacles/arid/thorns4/thorns4.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "These look dangerous."
     }
   },
   {

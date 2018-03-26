@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/spring/splendidplant/splendidplant.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased. This plant conveys much positive energy.",
+      "Por": "Satisfeito. Esta planta transmite muita energia positiva."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/spring/splendidplant/splendidplant.object": [
         "/shortdescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "The heart of this flower shines like the dawn sun.",
       "Por": "O coração desta flor brilha como o sol do amanhecer."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/spring/splendidplant/splendidplant.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This plant conveys much positive energy."
     }
   },
   {

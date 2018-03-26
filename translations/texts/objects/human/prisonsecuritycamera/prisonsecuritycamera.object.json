@@ -51,17 +51,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/prisonsecuritycamera/prisonsecuritycamera.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I feel like I am being watched."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/human/prisonsecuritycamera/prisonsecuritycamera.object": [
         "/humanDescription"
       ]
     },
@@ -104,6 +93,18 @@
     "Texts": {
       "Eng": "Such an invasion of privacy.",
       "Por": "Uma invasão de privacidade."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisonsecuritycamera/prisonsecuritycamera.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Uncomfortable. I feel like I am being watched.",
+      "Por": "Desconfortável. Sinto que estou sendo observado."
     }
   }
 ]

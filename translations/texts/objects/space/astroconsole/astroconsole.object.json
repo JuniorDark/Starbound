@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/space/astroconsole/astroconsole.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. This information display is in good condition.",
+      "Por": "Impressionado. Esta tela de informações está em boas condições."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/astroconsole/astroconsole.object": [
         "/floranDescription"
       ]
     },
@@ -75,18 +87,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/space/astroconsole/astroconsole.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This information display is in good condition.",
-      "Por": "Este monitor de informações está em boas condições."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/space/astroconsole/astroconsole.object": [
         "/novakidDescription"
       ]
     },
@@ -104,7 +104,7 @@
     },
     "Texts": {
       "Eng": "This size of this console display makes reading information very easy.",
-      "Por": "O tamanho da tela desse console facilita a leitura das informações."
+      "Por": "O tamanho da tela do console facilita a leitura das informações."
     }
   }
 ]

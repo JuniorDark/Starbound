@@ -47,5 +47,23 @@
       "Eng": "An anvil. The Apex haven't used these for metalwork for a long, long time.",
       "Por": "Uma bigorna. Os Apex não tem usado isto para metalurgia por um longo, longo tempo."
     }
+  },
+  {
+    "DeniedAlternatives": [
+      "Orgulhoso. Os Glitch criam todos os tipos de armas nessas bigornas. Eles até mesmo criam bigornas nestas bigornas."
+    ],
+    "Files": {
+      "objects/crafting/ironanvil/ironanvil.object": [
+        "/glitchDescription"
+      ],
+      "objects/crafting/upgradeablecraftingobjects/craftinganvil/craftinganvil.object": [
+        "/glitchDescription",
+        "/upgradeStages/0/itemSpawnParameters/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Proud. The Glitch craft all sorts of weapons on these anvils. They even craft anvils on these anvils.",
+      "Por": "Orgulhoso. Os Glitch criam todos os tipos de armas nessas bigornas. Eles até mesmo criam bigornas sobre estas bigornas."
+    }
   }
 ]

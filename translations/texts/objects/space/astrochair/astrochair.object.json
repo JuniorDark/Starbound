@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/space/astrochair/astrochair.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Interested. This seat is designed to support launch forces for space travellers.",
+      "Por": "Interessado. Este assento é projetado para suportar forças de lançamento para viajantes espaciais."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/astrochair/astrochair.object": [
         "/apexDescription"
       ]
     },
@@ -81,18 +93,6 @@
     "Texts": {
       "Eng": "This here chair is pretty solid, I can't even kick it over.",
       "Por": "Esta cadeira é bastante sólida, eu não consigo nem mesmo chutá-la."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/space/astrochair/astrochair.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This seat is designed to support launch forces for space travellers.",
-      "Por": "Este assento é projetado para suportar forças de lançamento para viajantes espaciais."
     }
   },
   {

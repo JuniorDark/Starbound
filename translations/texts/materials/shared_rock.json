@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Pedrass duras duras "
+    ],
     "Files": {
       "items/materials/rock01.matitem": [
         "/florandescription"
@@ -63,7 +65,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Apenas um monte de pedras "
+    ],
     "Files": {
       "items/materials/rock01.matitem": [
         "/novakiddescription"
@@ -126,7 +130,76 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Atento. Estas são pedras ásperas comuns",
+      "Atento. Estas são pedras ásperas comuns."
+    ],
+    "Files": {
+      "items/materials/rock01.matitem": [
+        "/glitchdescription"
+      ],
+      "items/materials/rock02.matitem": [
+        "/glitchdescription"
+      ],
+      "items/materials/rock03.matitem": [
+        "/glitchdescription"
+      ],
+      "items/materials/rock04.matitem": [
+        "/glitchdescription"
+      ],
+      "items/materials/rock12.matitem": [
+        "/glitchdescription"
+      ],
+      "items/materials/rock15.matitem": [
+        "/glitchdescription"
+      ],
+      "items/materials/rock17.matitem": [
+        "/glitchdescription"
+      ],
+      "items/materials/rock19.matitem": [
+        "/glitchdescription"
+      ],
+      "items/materials/rock20.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/rock01.material": [
+        "/glitchDescription"
+      ],
+      "tiles/materials/rock02.material": [
+        "/glitchDescription"
+      ],
+      "tiles/materials/rock03.material": [
+        "/glitchDescription"
+      ],
+      "tiles/materials/rock04.material": [
+        "/glitchDescription"
+      ],
+      "tiles/materials/rock12.material": [
+        "/glitchDescription"
+      ],
+      "tiles/materials/rock15.material": [
+        "/glitchDescription"
+      ],
+      "tiles/materials/rock17.material": [
+        "/glitchDescription"
+      ],
+      "tiles/materials/rock19.material": [
+        "/glitchDescription"
+      ],
+      "tiles/materials/rock20.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. These are common rough stones.",
+      "Por": "Atento. Essas são pedras ásperas comuns."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Rough Stone",
+      "Rough Stone "
+    ],
     "Files": {
       "items/materials/rock01.matitem": [
         "/shortdescription"
@@ -185,11 +258,15 @@
     },
     "Texts": {
       "Eng": "Rough Stone",
-      "Por": "Rough Stone"
+      "Por": "Rough stone"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Pedra bruta, não refinada",
+      "Pedra bruta, não refinada ",
+      "Pedra áspera, não refinada."
+    ],
     "Files": {
       "items/materials/rock01.matitem": [
         "/description"
@@ -249,69 +326,6 @@
     "Texts": {
       "Eng": "Rough, unrefined stone.",
       "Por": "Pedra bruta, não refinada."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/rock01.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "items/materials/rock02.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "items/materials/rock03.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "items/materials/rock04.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "items/materials/rock12.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "items/materials/rock15.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "items/materials/rock17.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "items/materials/rock19.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "items/materials/rock20.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/rock01.material": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "tiles/materials/rock02.material": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "tiles/materials/rock03.material": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "tiles/materials/rock04.material": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "tiles/materials/rock12.material": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "tiles/materials/rock15.material": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "tiles/materials/rock17.material": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "tiles/materials/rock19.material": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "tiles/materials/rock20.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "These are common rough stones.",
-      "Por": "Estas são pedras brutas comuns."
     }
   }
 ]

@@ -15,18 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/themed/sea/sealamp/sealamp.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A seashell using power to glow.",
-      "Por": "Uma concha com poder para brilhar."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/themed/sea/sealamp/sealamp.object": [
         "/humanDescription"
       ]
     },
@@ -57,6 +45,18 @@
     "Texts": {
       "Eng": "Sssweet lamp.",
       "Por": "Lâmpada encantadora."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/sea/sealamp/sealamp.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Surprised. A seashell using power to glow.",
+      "Por": "Surpreso. Uma concha com poder para brilhar."
     }
   },
   {

@@ -15,17 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/shipyardcaptain/shipyardcaptain.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I can buy vehicles from this gentleman."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/outpost/shipyardcaptain/shipyardcaptain.object": [
         "/novakidDescription"
       ]
     },
@@ -56,6 +45,18 @@
     "Texts": {
       "Eng": "Penguin Pete's Vehicle Lot",
       "Por": "Lote de Veículos do Penguin Pete"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/shipyardcaptain/shipyardcaptain.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased. I can buy vehicles from this gentleman.",
+      "Por": "Satisfeito. Eu posso comprar veículos deste cavalheiro."
     }
   },
   {

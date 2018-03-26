@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Sulfúrico"
+    ],
     "Files": {
       "biomes/underground_detached/old/sulphur/sulphur.biome": [
         "/friendlyName"
@@ -11,7 +13,7 @@
     },
     "Texts": {
       "Eng": "Sulphur",
-      "Por": "Sulfúrico"
+      "Por": "Sulphur"
     }
   }
 ]

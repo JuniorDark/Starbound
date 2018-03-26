@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/ornatetorch/ornatetorch.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased. This lantern has been delicately crafted.",
+      "Por": "Satisfeito. Esta lanterna foi delicadamente trabalhada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/ornatetorch/ornatetorch.object": [
         "/floranDescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "The finest craftsmanship, a reliable source of light.",
       "Por": "O mais fino artesanato, uma fonte confiável de luz."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/hylotl/ornatetorch/ornatetorch.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This lantern has been delicately crafted."
     }
   },
   {

@@ -51,24 +51,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/themed/astronaut/satellite/satellite.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Human technology has always been an inspiration to me.",
-      "Por": "A tecnologia humana sempre foi uma inspiração para mim."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/themed/astronaut/satellite/satellite.object": [
         "/avianDescription"
       ]
     },
     "Texts": {
       "Eng": "I wonder what humans used these for.",
       "Por": "Me pergunto para que os humanos usaram isso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/astronaut/satellite/satellite.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. Human technology has always been an inspiration to me.",
+      "Por": "Impressionado. A tecnologia humana sempre foi uma inspiração para mim."
     }
   },
   {

@@ -18,7 +18,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma luz fraca."
+    ],
     "Files": {
       "objects/hylotl/underwaterlightsmall/underwaterlightsmallbroken.object": [
         "/hylotlDescription"
@@ -36,21 +38,20 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Preocupado. Esta luz não está funcionando corretamente."
+    ],
     "Files": {
       "objects/hylotl/underwaterlightsmall/underwaterlightsmallbroken.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/mission/redlight/redlightBroken.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/ship/apexshiplight/apexshiplightBroken.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "This light is malfunctioning.",
-      "Por": "Esta luz está com defeito."
+      "Eng": "Concerned. This light is malfunctioning.",
+      "Por": "Preocupado. Esta luz está com defeito."
     }
   },
   {
@@ -72,7 +73,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Esta luz está a piscar."
+    ],
     "Files": {
       "objects/hylotl/underwaterlightsmall/underwaterlightsmallbroken.object": [
         "/humanDescription"

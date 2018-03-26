@@ -15,17 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/outpoststandingdesk/outpoststandingdesk.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A desk, you stand at rather than sitting?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/outpost/outpoststandingdesk/outpoststandingdesk.object": [
         "/humanDescription"
       ]
     },
@@ -104,6 +93,18 @@
     "Texts": {
       "Eng": "Standing Desk",
       "Por": "Standing Desk"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpoststandingdesk/outpoststandingdesk.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Surprised. A desk, you stand at rather than sitting?",
+      "Por": "Surpreso. Uma mesa, você fica em pé em vez de sentar?"
     }
   }
 ]

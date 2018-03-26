@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/penguinbay/penguinbayclosed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. What is this place, and how did they get hold of such a large anchor?",
+      "Por": "Curioso. O que é esse lugar e como eles conseguiram uma âncora tão grande?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/penguinbay/penguinbayclosed.object": [
         "/hylotlDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "This is a shifty lookin' box. I wonder what's inside?",
       "Por": "Esta é uma caixa de aparência deslumbrante. Eu me pergunto o que está dentro?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/outpost/penguinbay/penguinbayclosed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "What is this place, and how did they get hold of such a large anchor?"
     }
   }
 ]

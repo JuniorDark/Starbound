@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/space/stationpylon/stationpylon.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Confused. This machine appears to be very important, but I cannot identify its purpose.",
+      "Por": "Confuso. Esta máquina parece ser muito importante, mas não consigo identificar seu propósito."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/stationpylon/stationpylon.object": [
         "/floranDescription"
       ]
     },
@@ -45,18 +57,6 @@
     "Texts": {
       "Eng": "This certainly looks a splinter more complex than a steam engine, that's for sure...",
       "Por": "Isso certamente parece uma aparência mais complexa do que uma máquina a vapor, com certeza..."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/space/stationpylon/stationpylon.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This machine appears to be very important, but I cannot identify its purpose.",
-      "Por": "Esta máquina parece ser muito importante, mas não consigo identificar sua finalidade."
     }
   },
   {

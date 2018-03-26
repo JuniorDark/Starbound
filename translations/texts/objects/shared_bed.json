@@ -1,6 +1,10 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma cama grande. Devo ser facilmente capaz de descansar aqui.",
+      "Uma ótima cama. Deve ser fácil conseguir descansar aqui.",
+      "Uma ótima cama. Poderia facilmente descansar aqui."
+    ],
     "Files": {
       "objects/themed/geometric/geometricbed/geometricbed.object": [
         "/humanDescription"
@@ -24,7 +28,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Floran descança na cama excelente.",
+      "Floran dessscansa em grande cama."
+    ],
     "Files": {
       "objects/themed/geometric/geometricbed/geometricbed.object": [
         "/floranDescription"
@@ -51,7 +58,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Este é lugar muito confortável para descansar as minhas penas."
+    ],
     "Files": {
       "objects/themed/geometric/geometricbed/geometricbed.object": [
         "/avianDescription"

@@ -3,6 +3,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/huntingpike1/huntingpike1.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Appalled. These Floran display the bones of the dead in such a violent manner.",
+      "Por": "Chocado. Esses Floran exibem os ossos dos mortos de maneira tão violenta."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/huntingpike1/huntingpike1.object": [
         "/hylotlDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "Starin' at this thing gives me the jitters.",
       "Por": "Olhar para esta coisa me dá arrepios."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/floran/huntingpike1/huntingpike1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "These Floran display the bones of the dead in such a violent manner."
     }
   },
   {

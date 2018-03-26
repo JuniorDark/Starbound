@@ -33,6 +33,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/floranceilingbones1/floranceilingbones1.object": [
+        "/glitchDescription"
+      ],
+      "objects/floran/floranceilingbones2/floranceilingbones2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disturbed. The sound these bones make is similar to that of chirping insects.",
+      "Por": "Perturbado. O som que estes ossos fazem é semelhante ao de insetos chilreando."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/floranceilingbones1/floranceilingbones1.object": [
         "/humanDescription"
       ],
       "objects/floran/floranceilingbones2/floranceilingbones2.object": [
@@ -87,20 +102,6 @@
     "Texts": {
       "Eng": "The sound of bones in the wind makes my skin crawl.",
       "Por": "O som de ossos no vento me dá arrepios."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/floran/floranceilingbones1/floranceilingbones1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/floran/floranceilingbones2/floranceilingbones2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The sound these bones make is similar to that of chirping insects."
     }
   },
   {

@@ -15,17 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/gunchest/gunchest.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A hi-tech chest universally recognised for gun storage."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/gunchest/gunchest.object": [
         "/description"
       ]
     },
@@ -80,6 +69,18 @@
     "Texts": {
       "Eng": "I've seen many a Miniknog guard store their guns in chests like this.",
       "Por": "Eu vi muitos guardas da Miniknog guardarem suas armas em baús como este."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/gunchest/gunchest.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reassured. A hi-tech chest universally recognised for gun storage.",
+      "Por": "Tranquilizado. Um baú de alta tecnologia universalmente reconhecido para o armazenamento de armas."
     }
   },
   {

@@ -39,24 +39,36 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/build_home.questtemplate": [
-        "/scriptConfig/generatedText/text/default/glitch/0/glitchEmotedText"
+        "/scriptConfig/generatedText/completionText/default/glitch/1"
       ]
     },
     "Texts": {
-      "Eng": "All you need to do now is ^green;make a home^white; using your ^orange;<furnitureSet>, ^white;and a ^orange;Colony Deed^white;! I'll be making a new friend in no time!",
-      "Por": "Tudo que você precisa fazer agora é ^green;fazer uma casa^white; usando seu ^orange;<furnitureSet>, ^white;e uma ^orange;Colony Deed^white;! Eu vou estar fazendo um novo amigo em pouco tempo!"
+      "Eng": "Delighted. I'm always surprised how fast new homes are inhabited - I guess there's a lot of demand out there! Thank you for your help.",
+      "Por": "Satisfeito. Eu estou sempre surpreso com o quão rápido novas casas são habitadas - Acho que há muita demanda lá fora! Obrigado pela ajuda."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/build_home.questtemplate": [
-        "/scriptConfig/generatedText/text/default/glitch/1/glitchEmotedText"
+        "/scriptConfig/generatedText/text/default/glitch/1"
       ]
     },
     "Texts": {
-      "Eng": "Finally, ^green;build a new home^white; and ^green;furnish it^white; with your ^orange;<furnitureSet>.^white; Don't forget to place a ^orange;Colony Deed!^orange;",
-      "Por": "Finalmente, ^green;construa uma nova casa^white; e ^green;mobilhe ela^white; com seu ^orange;<furnitureSet>.^white; Não esqueça de colocar um ^orange;Colony Deed!^orange;"
+      "Eng": "Enthusiastic. Finally, ^green;build a new home^white; and ^green;furnish it^white; with your ^orange;<furnitureSet>.^white; Don't forget to place a ^orange;Colony Deed!^orange;",
+      "Por": "Entusiasmado. Finalmente, ^green;construa uma nova casa^white; e ^green;mobiliar ela^white; com seu ^orange;<furnitureSet>.^white; Não se esqueça de colocar um ^orange;Colony Deed!^orange;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/build_home.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excited. All you need to do now is ^green;make a home^white; using your ^orange;<furnitureSet>, ^white;and a ^orange;Colony Deed^white;! I'll be making a new friend in no time!",
+      "Por": "Animado. Tudo que você precisa fazer agora é ^green;fazer uma casa^white; usando seu ^orange;<furnitureSet>, ^white;e uma ^orange;Colony Deed^white;! Eu vou estar fazendo um novo amigo em pouco tempo!"
     }
   },
   {
@@ -87,18 +99,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/build_home.questtemplate": [
-        "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I have a new friend to get acquainted with - I'm sure they'll be a wonderful companion! Thank you for making this happen!",
-      "Por": "Eu tenho um novo amigo para me familiarizar - tenho certeza de que ele sera uma companhia maravilhosa! Obrigado por fazer isso acontecer!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/build_home.questtemplate": [
         "/scriptConfig/generatedText/failureText/0"
       ]
     },
@@ -117,18 +117,6 @@
     "Texts": {
       "Eng": "I was unable to help <questGiver> make a new friend. I'm sure <questGiver.pronoun.subject>'ll get over it.",
       "Por": "Eu fui incapaz de ajudar <questGiver> a fazer um novo amigo. Tenho certeza que <questGiver.pronoun.subject> vai superar isso."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/build_home.questtemplate": [
-        "/scriptConfig/generatedText/completionText/default/glitch/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I'm always surprised how fast new homes are inhabited - I guess there's a lot of demand out there! Thank you for your help.",
-      "Por": "Eu sempre me surpreendo com a rapidez com que novas casas são habitadas - eu acho que há muita demanda por aí! Obrigado pela ajuda."
     }
   },
   {
@@ -165,6 +153,18 @@
     "Texts": {
       "Eng": "Success! I've finally got a new neighbour! This place gets lonely sometimes, it's nice to have folks to talk to.",
       "Por": "Sucesso! Eu finalmente tenho um novo vizinho! Este lugar fica solitário às vezes, é bom ter pessoas para conversar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/build_home.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thrilled. I have a new friend to get acquainted with - I'm sure they'll be a wonderful companion! Thank you for making this happen!",
+      "Por": "Emocionado. Eu tenho um novo amigo para se familiarizar - Tenho certeza de que vai ser um companheiro maravilhoso! Obrigado por fazer isso acontecer!"
     }
   },
   {

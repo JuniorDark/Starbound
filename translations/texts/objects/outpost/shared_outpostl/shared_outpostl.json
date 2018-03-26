@@ -48,6 +48,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/outpostlamp/outpostlamp.object": [
+        "/glitchDescription"
+      ],
+      "objects/outpost/outpostlight/outpostlight.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. This wall mounted light is effective.",
+      "Por": "Impressionado. Esta luz de parede é eficaz."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostlamp/outpostlamp.object": [
         "/floranDescription"
       ],
       "objects/outpost/outpostlight/outpostlight.object": [
@@ -72,20 +87,6 @@
     "Texts": {
       "Eng": "This light's okay, but it ain't as bright as me!",
       "Por": "Esta luz é boa, mas não é tão brilhante quanto eu!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/outpost/outpostlamp/outpostlamp.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/outpost/outpostlight/outpostlight.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This wall mounted light is effective."
     }
   }
 ]

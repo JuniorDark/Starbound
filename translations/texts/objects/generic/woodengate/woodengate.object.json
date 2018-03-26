@@ -75,23 +75,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/woodengate/woodengate.object": [
-        "/floranDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Thin twigss make a door.",
-      "Por": "Galhoss finos fazem porta."
+      "Eng": "Neutral. This is a gate.",
+      "Por": "Neutro. Isto é um portão."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/woodengate/woodengate.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/floranDescription"
       ]
     },
     "Texts": {
-      "Eng": "This is a gate."
+      "Eng": "Thin twigss make a door.",
+      "Por": "Galhoss finos fazem porta."
     }
   },
   {

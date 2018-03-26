@@ -15,7 +15,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma viga de metal forte olhando."
+    ],
     "Files": {
       "items/materials/girder.matitem": [
         "/description"
@@ -30,7 +32,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Vigass de metal frio."
+    ],
     "Files": {
       "items/materials/girder.matitem": [
         "/floranDescription"
@@ -63,15 +67,15 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/girder.matitem": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "tiles/materials/girder.material": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "This reinforced metal girder is very strong.",
-      "Por": "Esta viga de metal reforçada é muito forte."
+      "Eng": "Impressed. This reinforced metal girder is very strong.",
+      "Por": "Impressionado. Esta viga de metal reforçado é muito forte."
     }
   }
 ]

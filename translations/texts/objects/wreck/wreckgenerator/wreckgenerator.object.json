@@ -3,24 +3,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/wreck/wreckgenerator/wreckgenerator.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A broken electrical generator.",
-      "Por": "Um gerador elétrico quebrado."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/wreck/wreckgenerator/wreckgenerator.object": [
         "/avianDescription"
       ]
     },
     "Texts": {
       "Eng": "A huge electrical generator.",
       "Por": "Um enorme gerador elétrico."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wreck/wreckgenerator/wreckgenerator.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disappointed. A broken electrical generator.",
+      "Por": "Decepcionado. Um gerador elétrico quebrado."
     }
   },
   {

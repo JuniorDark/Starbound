@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/tribalserver/tribalserver.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intimidated. The amount of data stored here is vast.",
+      "Por": "Intimidado. A quantidade de dados armazenados aqui é vasta."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/tribalserver/tribalserver.object": [
         "/apexDescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "Ssserver with more information than Floran's brain.'",
       "Por": "Ssservidor com mais informações do que o cérebro de Floran."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avian/tribalserver/tribalserver.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The amount of data stored here is vast."
     }
   },
   {

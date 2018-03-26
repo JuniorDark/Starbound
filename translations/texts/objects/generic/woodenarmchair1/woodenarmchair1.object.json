@@ -51,23 +51,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/woodenarmchair1/woodenarmchair1.object": [
-        "/hylotlDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Humble and comfortable.",
-      "Por": "Humilde e confortável."
+      "Eng": "Content. I could happily while away the hours in this chair.",
+      "Por": "Contente. Eu poderia felizmente passar horas nesta cadeira."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/woodenarmchair1/woodenarmchair1.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/hylotlDescription"
       ]
     },
     "Texts": {
-      "Eng": "I could happily while away the hours in this chair."
+      "Eng": "Humble and comfortable.",
+      "Por": "Humilde e confortável."
     }
   },
   {

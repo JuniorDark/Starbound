@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/wired/alarm/alarm.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alarmed. This will alert many, I should be careful.",
+      "Por": "Alarmado. Isto irá alertar muitos, eu deveria ter cuidado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/alarm/alarm.object": [
         "/hylotlDescription"
       ]
     },
@@ -81,18 +93,6 @@
     "Texts": {
       "Eng": "This here alarm sure will make getting away with loot hard.",
       "Por": "Este alarme com certeza assustara criminosos."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/wired/alarm/alarm.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This will alert many, I should be careful.",
-      "Por": "Isso vai alertar muitos, eu deveria ter cuidado."
     }
   },
   {

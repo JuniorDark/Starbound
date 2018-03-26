@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/classicbookcase/classicbookcase.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Inquisitive. Perhaps there is knowledge here I could use.",
+      "Por": "Inquisitivo. Talvez haja conhecimento aqui que eu poderia usar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/classicbookcase/classicbookcase.object": [
         "/humanDescription"
       ]
     },
@@ -57,17 +69,6 @@
     "Texts": {
       "Eng": "Just a buncha books in a fancy lookin' bookcase.",
       "Por": "Apenas um monte de livros em uma estante extravagante."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/apex/classicbookcase/classicbookcase.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Perhaps there is knowledge here I could use."
     }
   },
   {

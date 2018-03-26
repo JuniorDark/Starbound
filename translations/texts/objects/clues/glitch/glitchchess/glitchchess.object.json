@@ -15,17 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/clues/glitch/glitchchess/glitchchess.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I miss my time spent playing chess. These pieces are well crafted"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/clues/glitch/glitchchess/glitchchess.object": [
         "/novakidDescription"
       ]
     },
@@ -104,6 +93,18 @@
     "Texts": {
       "Eng": "This chess board has custom pieces.",
       "Por": "Este tabuleiro de xadrez tem peças personalizadas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/clues/glitch/glitchchess/glitchchess.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wistful. I miss my time spent playing chess. These pieces are well crafted",
+      "Por": "Melancólico. Sinto falta do meu tempo jogando xadrez. Estas peças são bem trabalhadas."
     }
   }
 ]

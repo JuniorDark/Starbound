@@ -99,11 +99,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/coppershelf/coppershelf.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "This wall shelf is made from copper."
+      "Eng": "Observant. This wall shelf is made from copper.",
+      "Por": "Observador. Esta prateleira de parede é feita de cobre."
     }
   }
 ]

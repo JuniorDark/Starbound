@@ -3,21 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/ash.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/ash.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A pile of packed ash.",
-      "Por": "Uma pilha de cinzas embaladas."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/ash.matitem": [
         "/description"
       ],
       "tiles/materials/ash.material": [
@@ -71,7 +56,22 @@
     },
     "Texts": {
       "Eng": "Big ol' pile of ash.",
-      "Por": "Grande pilha de cinzas."
+      "Por": "Pilha grande de cinzas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ash.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/ash.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. A pile of packed ash.",
+      "Por": "Curioso. Uma pilha de cinzas embalada."
     }
   }
 ]

@@ -63,17 +63,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/hylotlmission/librarybookcaseN2damage/librarybookcaseN2damage.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Many books are missing from this bookcase."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/mission/hylotlmission/librarybookcaseN2damage/librarybookcaseN2damage.object": [
         "/floranDescription"
       ]
     },
@@ -104,6 +93,18 @@
     "Texts": {
       "Eng": "Someone has looted all the good books.",
       "Por": "Alguém roubou todos os bons livros."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/hylotlmission/librarybookcaseN2damage/librarybookcaseN2damage.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Worried. Many books are missing from this bookcase.",
+      "Por": "Preocupado. Muitos livros estão faltando nesta estante."
     }
   }
 ]

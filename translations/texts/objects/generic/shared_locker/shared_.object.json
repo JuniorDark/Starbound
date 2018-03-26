@@ -18,20 +18,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/locker1/locker1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/generic/locker2/locker2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A small amount of wall storage."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/locker1/locker1.object": [
         "/apexDescription"
       ],
       "objects/generic/locker2/locker2.object": [
@@ -41,6 +27,21 @@
     "Texts": {
       "Eng": "A storage locker.",
       "Por": "Um armário de armazenamento."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/locker1/locker1.object": [
+        "/glitchDescription"
+      ],
+      "objects/generic/locker2/locker2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neutral. A small amount of wall storage.",
+      "Por": "Neutro. Uma pequena quantidade de armazenamento na parede."
     }
   },
   {

@@ -39,17 +39,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/mushroom/shroomdoor/shroomdoor.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A mushroom door."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/mushroom/shroomdoor/shroomdoor.object": [
         "/apexDescription"
       ]
     },
@@ -68,6 +57,18 @@
     "Texts": {
       "Eng": "A squishy mushroom door. It's cute!.",
       "Por": "Uma porta de cogumelo mole. É fofa!."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/mushroom/shroomdoor/shroomdoor.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fascinated. A mushroom door.",
+      "Por": "Fascinado. Uma porta de cogumelo."
     }
   },
   {

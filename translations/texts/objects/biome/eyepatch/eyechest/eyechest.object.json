@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/eyepatch/eyechest/eyechest.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. The eye is actually a very sophisticated lock. Thankfully, it's broken.",
+      "Por": "Curioso. O olho é na verdade uma fechadura muito sofisticada. Felizmente, está quebrada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/eyepatch/eyechest/eyechest.object": [
         "/shortdescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "Perhaps the eye is meant to be some kind of deterrent for thieves. It's almost working on me.",
       "Por": "Talvez o olho esteja destinado a ser algum tipo de intimidação para ladrões. Está quase funcionando em mim."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/eyepatch/eyechest/eyechest.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The eye is actually a very sophisticated lock. Thankfully, it's broken."
     }
   },
   {

@@ -27,23 +27,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/steamspring/brasslamppost1/brasslamppost1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A tall lamppost made from metal."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/steamspring/brasslamppost1/brasslamppost1.object": [
         "/shortdescription"
       ]
     },
     "Texts": {
       "Eng": "Brass Lamp Post",
       "Por": "Brass Lamp Post"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/steamspring/brasslamppost1/brasslamppost1.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. A tall lamppost made from metal.",
+      "Por": "Observador. Um poste alto, feito de metal."
     }
   },
   {

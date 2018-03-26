@@ -48,6 +48,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/protectorate/objects/protectoratebrokendisplay1/protectoratebrokendisplay1.object": [
+        "/glitchDescription"
+      ],
+      "objects/protectorate/objects/protectoratebrokendisplay2/protectoratebrokendisplay2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Distressed. Oh no! These valued displays are beyond repair.",
+      "Por": "Angustiado. Oh, não! Estas exposições valorizadas estão além do reparo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/protectorate/objects/protectoratebrokendisplay1/protectoratebrokendisplay1.object": [
         "/novakidDescription"
       ],
       "objects/protectorate/objects/protectoratebrokendisplay2/protectoratebrokendisplay2.object": [
@@ -57,20 +72,6 @@
     "Texts": {
       "Eng": "I don't wanna believe what I'm seein'...",
       "Por": "Não quero acreditar no que estou vendo..."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/protectorate/objects/protectoratebrokendisplay1/protectoratebrokendisplay1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/protectorate/objects/protectoratebrokendisplay2/protectoratebrokendisplay2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Oh no! These valued displays are beyond repair."
     }
   },
   {

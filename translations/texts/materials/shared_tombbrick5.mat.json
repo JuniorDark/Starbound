@@ -3,6 +3,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/tombbrick5.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/tombbrick5.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. These bricks have had all edges carefully smoothed.",
+      "Por": "Impressionado. Estes tijolos tiveram todas as bordas cuidadosamente alisadas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/tombbrick5.matitem": [
         "/description"
       ],
       "tiles/materials/tombbrick5.material": [
@@ -42,21 +57,6 @@
     "Texts": {
       "Eng": "Ssmooth bricks and ssoft.",
       "Por": "Tijolos lisoss e macioss."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/tombbrick5.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/tombbrick5.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "These bricks have had all edges carefully smoothed.",
-      "Por": "Esses tijolos tiveram todas as bordas cuidadosamente alisadas."
     }
   },
   {

@@ -3,17 +3,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/cocoa/wildcocoaseed.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/farmables/coffee/coffeeseed.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/farmables/coffee/wildcoffeeseed.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Glitch see no good use for these bitter beans."
+      "Eng": "Ponderous. Glitch see no good use for these bitter beans.",
+      "Por": "Ponderoso. Glitchs não vem nenhuma utilidade para estes grãos amargos."
     }
   }
 ]

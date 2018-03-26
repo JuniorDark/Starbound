@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/foundry/lavatanklarge/lavatanklarge.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Overwhelmed. The scale of this tank is awesome.",
+      "Por": "Emocionado. A escala deste tanque é incrível."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/foundry/lavatanklarge/lavatanklarge.object": [
         "/floranDescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "The fumes from this tank are almost toxic.",
       "Por": "As fumaças deste tanque são quase tóxicas."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/foundry/lavatanklarge/lavatanklarge.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The scale of this tank is awesome."
     }
   },
   {

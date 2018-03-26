@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/mushroom/shroomlamp/shroomlamp.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis. The glow is produced by spores which seem to display parasitic behaviour.",
+      "Por": "Análise. O brilho é produzido por esporos que parecem exibir comportamentos parasitas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/mushroom/shroomlamp/shroomlamp.object": [
         "/floranDescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "Shroom Lamp",
       "Por": "Shroom Lamp"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/mushroom/shroomlamp/shroomlamp.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The glow is produced by spores which seem to display parasitic behaviour."
     }
   },
   {

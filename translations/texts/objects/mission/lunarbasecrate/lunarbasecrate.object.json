@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/lunarbasecrate/lunarbasecrate.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Envious. This crate is well maintained and polished.",
+      "Por": "Invejoso. Esta caixa é bem conservada e polida."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/lunarbasecrate/lunarbasecrate.object": [
         "/shortdescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "This crate is used for storing different types of equipment.",
       "Por": "Esta caixa é usada para armazenar diferentes tipos de equipamentos."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/mission/lunarbasecrate/lunarbasecrate.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This crate is well maintained and polished."
     }
   },
   {

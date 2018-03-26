@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/barbedwire/barbedwire.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cautious. This sharp wire could scratch even the toughest Glitch shell.",
+      "Por": "Cauteloso. Este arame afiado pode arranhar até mesmo a mais resistente lataria Glitch."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/barbedwire/barbedwire.object": [
         "/description"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "Sharp, ssspiky ssstring.",
       "Por": "Fio pontiagudo e afiado."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/human/barbedwire/barbedwire.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This sharp wire could scratch even the toughest Glitch shell."
     }
   }
 ]

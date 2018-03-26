@@ -8,19 +8,7 @@
     },
     "Texts": {
       "Eng": "A strange natural growth.",
-      "Por": "Uma formação natural estranha."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "plants/grass/ground/decorative/tiberia/tiberia.grass": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "An unknown natural formation.",
-      "Por": "Uma formação natural desconhecida."
+      "Por": "Um aumento natural estranho."
     }
   },
   {
@@ -32,7 +20,19 @@
     },
     "Texts": {
       "Eng": "Floran not sure what this is.",
-      "Por": "Floran não sabe o que é isso."
+      "Por": "Os Floran não sabem o que isso é."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/tiberia/tiberia.grass": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. An unknown natural formation.",
+      "Por": "Relatório. Uma formação natural desconhecida."
     }
   },
   {
@@ -44,7 +44,7 @@
     },
     "Texts": {
       "Eng": "Strange growth.",
-      "Por": "Strange growth."
+      "Por": "Um aumento estranho."
     }
   }
 ]

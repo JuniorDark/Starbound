@@ -3,6 +3,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/invisiblesparker/invisiblesparker.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Concerned. This has sustained heavy damage.",
+      "Por": "Preocupado. Isso sofreu grandes danos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/invisiblesparker/invisiblesparker.object": [
         "/hylotlDescription"
       ]
     },
@@ -70,17 +82,6 @@
     "Texts": {
       "Eng": "This damage is not going to be easy to fix.",
       "Por": "Este dano não será fácil de consertar."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/invisiblesparker/invisiblesparker.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This has sustained heavy damage."
     }
   }
 ]

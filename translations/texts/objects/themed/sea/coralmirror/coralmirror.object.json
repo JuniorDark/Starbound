@@ -39,18 +39,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/themed/sea/coralmirror/coralmirror.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The quality of this reflection is as hazy as looking through water.",
-      "Por": "A qualidade desta reflexão é turva como olhar através da água."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/themed/sea/coralmirror/coralmirror.object": [
         "/novakidDescription"
       ]
     },
@@ -93,6 +81,18 @@
     "Texts": {
       "Eng": "The reflection quality of this mirror is terrible.",
       "Por": "A qualidade de reflexão deste espelho é terrível."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/sea/coralmirror/coralmirror.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unsatisfied. The quality of this reflection is as hazy as looking through water.",
+      "Por": "Insatisfeito. A qualidade do reflexo deste espelho é turvo como olhar através da água."
     }
   },
   {

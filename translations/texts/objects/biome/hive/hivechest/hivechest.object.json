@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/hive/hivechest/hivechest.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A fleshy, pulsating chest."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/hive/hivechest/hivechest.object": [
         "/humanDescription"
       ]
     },
@@ -44,6 +33,18 @@
     "Texts": {
       "Eng": "A really gross looking chest.",
       "Por": "Um baú de aparência muito nojenta."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/hive/hivechest/hivechest.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disgust. A fleshy, pulsating chest.",
+      "Por": "Nojo. Um baú carnudo e pulsante."
     }
   },
   {

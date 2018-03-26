@@ -16,8 +16,7 @@
     "Files": {
       "objects/biome/scorchedcity/scorchedcitychestdrawersmall/scorchedcitychestdrawersmall.object": [
         "/apexDescription",
-        "/avianDescription",
-        "/glitchDescription/glitchEmotedText"
+        "/avianDescription"
       ]
     },
     "Texts": {
@@ -47,6 +46,18 @@
     "Texts": {
       "Eng": "A small contemporary chest of drawers.",
       "Por": "Uma pequena cômoda contemporânea."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/scorchedcity/scorchedcitychestdrawersmall/scorchedcitychestdrawersmall.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Content. A small chest of drawers.",
+      "Por": "Contente. Uma pequena cômoda."
     }
   },
   {

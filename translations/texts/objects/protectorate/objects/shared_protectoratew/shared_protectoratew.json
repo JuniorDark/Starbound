@@ -129,6 +129,27 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/protectorate/objects/protectoratewallbanner/protectoratewallbanner.object": [
+        "/glitchDescription"
+      ],
+      "objects/protectorate/objects/protectoratewindbanner/protectoratewindbanner.object": [
+        "/glitchDescription"
+      ],
+      "objects/protectorate/objects/protectoratewindbanner2/protectoratewindbanner2.object": [
+        "/glitchDescription"
+      ],
+      "objects/protectorate/objects/protectoratewindbanner3/protectoratewindbanner3.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Proud. The iconic Protectorate banner. I'm glad to be a part of this.",
+      "Por": "Orgulhoso. O emblemático estandarte do Protetorado. Fico feliz em fazer parte disso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/protectorate/objects/protectoratewallbanner/protectoratewallbanner.object": [
         "/hylotlDescription"
       ],
       "objects/protectorate/objects/protectoratewindbanner/protectoratewindbanner.object": [
@@ -144,26 +165,6 @@
     "Texts": {
       "Eng": "The Protectorate banner represents so much. It means a lot to us all.",
       "Por": "O estandarte do protetorado representa tanto. Significa muito para todos nós."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/protectorate/objects/protectoratewallbanner/protectoratewallbanner.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/protectorate/objects/protectoratewindbanner/protectoratewindbanner.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/protectorate/objects/protectoratewindbanner2/protectoratewindbanner2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/protectorate/objects/protectoratewindbanner3/protectoratewindbanner3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The iconic Protectorate banner. I'm glad to be a part of this."
     }
   },
   {

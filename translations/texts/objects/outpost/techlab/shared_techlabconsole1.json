@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Tech Console Dispenser"
+    ],
     "Files": {
       "objects/outpost/techlab/techlabconsole1.object": [
         "/interactData/paneLayoutOverride/windowtitle/title",
@@ -12,7 +14,7 @@
     },
     "Texts": {
       "Eng": "Tech Console Dispenser",
-      "Por": "Tech Console Dispenser"
+      "Por": "Distribuidor de Console de Tecnologia"
     }
   }
 ]

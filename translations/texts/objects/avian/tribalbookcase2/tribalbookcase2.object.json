@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/tribalbookcase2/tribalbookcase2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. The crystal appears to have a restorative effect on books placed inside.",
+      "Por": "Observador. O cristal parece ter um efeito restaurador nos livros colocados dentro."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/tribalbookcase2/tribalbookcase2.object": [
         "/shortdescription"
       ]
     },
@@ -33,17 +45,6 @@
     "Texts": {
       "Eng": "The bookcase looks old, but the books don't seem to have aged much.",
       "Por": "A estante parece antiga, mas os livros não parecem ter envelhecido muito."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avian/tribalbookcase2/tribalbookcase2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The crystal appears to have a restorative effect on books placed inside."
     }
   },
   {

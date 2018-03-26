@@ -18,6 +18,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/redtoyblock.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/redtoyblock.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amused. These toy blocks stack and lock together.",
+      "Por": "Divertido. Estes blocos de brinquedo empilham e encaixam-se juntos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/redtoyblock.matitem": [
         "/florandescription"
       ],
       "tiles/materials/redtoyblock.material": [
@@ -57,21 +72,6 @@
     "Texts": {
       "Eng": "These colourful blocks are meant for playin' with.",
       "Por": "Estes blocos coloridos são feitos para brincar."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/redtoyblock.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/redtoyblock.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "These toy blocks stack and lock together.",
-      "Por": "Estes blocos do brinquedo empilham e travam junto."
     }
   }
 ]

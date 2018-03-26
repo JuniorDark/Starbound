@@ -34,5 +34,17 @@
       "Eng": "I'd better watch out, these beams of light could fry me.",
       "Por": "É melhor eu tomar cuidado, esses feixes de luz poderiam me fritar."
     }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/crystaltrap/crystaltrap.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Surprised. A crystal that projects deadly beams of light! Now I have seen everything.",
+      "Por": "Surpreso. Um cristal que projeta feixes mortais de luz! Agora eu vi de tudo."
+    }
   }
 ]

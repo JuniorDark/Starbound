@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Volte para ^orange;Esther^reset; no ^orange;Ark^reset;"
+    ],
     "Files": {
       "quests/outpost/outpostclue.questtemplate": [
         "/scriptConfig/descriptions/turnIn"

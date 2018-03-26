@@ -63,17 +63,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/hylotlchair/hylotlchair.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I don't need to sit..."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/hylotl/hylotlchair/hylotlchair.object": [
         "/apexDescription",
         "/humanDescription",
         "/novakidDescription"
@@ -82,6 +71,18 @@
     "Texts": {
       "Eng": "It's a chair.",
       "Por": "É uma cadeira."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/hylotlchair/hylotlchair.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Uninterested. I don't need to sit...",
+      "Por": "Desinteressado. Não preciso me sentar..."
     }
   }
 ]

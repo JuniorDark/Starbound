@@ -63,6 +63,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/wreck/wreckboiler/wreckboiler.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Melancholy. This boiler will leak once the rust wears through.",
+      "Por": "Melancólico. Esta caldeira vai vazar quando a ferrugem passar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wreck/wreckboiler/wreckboiler.object": [
         "/humanDescription"
       ]
     },
@@ -81,18 +93,6 @@
     "Texts": {
       "Eng": "This boiler is past its best.",
       "Por": "Esta caldeira já passou do seu melhor."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/wreck/wreckboiler/wreckboiler.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This boiler will leak once the rust wears through.",
-      "Por": "Esta caldeira vai vazar quando a ferrugem desgastar completamente."
     }
   },
   {

@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/arcademachine/arcademachine.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. The Super Tralgar Blaster 2 player with the highest score has the initials 'CF'.",
+      "Por": "Curioso. O jogador de Super Tralgar Blaster 2 com a pontuação mais alta tem as iniciais 'CF'."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/arcademachine/arcademachine.object": [
         "/hylotlDescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "Super Tralgar Blaster 2! It's a classic bullet hell game. I'm glad I never have to shoot other ships in real life!",
       "Por": "Super Tralgar Blaster 2! É um clássico jogo de bullet hell. Estou feliz por eu nunca ter que atirar em outras naves na vida real!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/arcademachine/arcademachine.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The Super Tralgar Blaster 2 player with the highest score has the initials 'CF'."
     }
   }
 ]

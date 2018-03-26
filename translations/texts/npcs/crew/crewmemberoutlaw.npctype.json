@@ -3,12 +3,120 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/crew/crewmemberoutlaw.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Appreciative. Thank you for allowing me to stay here. I can join you in battle if you ever need me, I won't forget our bargain.",
+      "Por": "Sensibilizado. Obrigado por me permitir ficar aqui. Eu posso acompanhá-lo na batalha, se você precisar de mim, eu não vou esquecer do nosso negócio."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberoutlaw.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Appreciative. Thank you for giving me a place to hide. I will stay here, and fight for you when you require me.",
+      "Por": "Sensibilizado. Obrigado por me dar um lugar para se esconder. Vou ficar aqui e lutar por você quando você requisitar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberoutlaw.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Concerned. There are people... Looking for me... Let me hide away on your ship, I'll fight for you in return.",
+      "Por": "Preocupado. Há pessoas... Me procurando... Deixe-me esconder em sua nave, eu vou lutar por você em troca."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberoutlaw.npctype": [
         "/scriptConfig/crew/role/field"
       ]
     },
     "Texts": {
       "Eng": "Criminal",
       "Por": "Criminoso(a)"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberoutlaw.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Desperate. I don't want to hurt you, I just need to lay low! Can I stow away with you?",
+      "Por": "Desesperado. Eu não quero te machucar, eu só preciso passar despercebido! Posso ficar clandestinamente com você?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberoutlaw.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Desperate. I need to lay low! I'll fight with you if you let me stay on your ship.",
+      "Por": "Desesperado. Eu preciso passar despercebido! Eu vou lutar com você se você me deixar ficar em sua nave."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberoutlaw.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Desperate. I need to lay low! Please don't turn me in, can I join your crew instead?",
+      "Por": "Desesperado. Eu preciso passar despercebido! Por favor, não me entregue, eu posso participar de sua tripulação em vez disso?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberoutlaw.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Desperate. I really need to hide. Do you have a ship? I'll fight for you!",
+      "Por": "Desesperado. Eu realmente preciso se esconder. Você tem uma nave? Eu vou lutar por você!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberoutlaw.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Desperate. I'm a good person really! Please, let me stow away on your ship with you!",
+      "Por": "Desesperado. Eu sou uma boa pessoa realmente! Por favor, deixe-me ficar clandestinamente em sua nave com você!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberoutlaw.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/glitch/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Desperate. Please, let me hide on your ship! I'll fight for you! There are people I need to avoid...",
+      "Por": "Desesperado. Por favor, deixe-me esconder na sua nave! Eu vou lutar por você! Há pessoas que eu preciso evitar..."
     }
   },
   {
@@ -135,6 +243,32 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/crew/crewmemberoutlaw.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Grateful. I can hide out here until the heat dies down! Whenever you need backup I am be here to help.",
+      "Por": "Grato. Eu posso me esconder aqui até que a poeira baixe! Sempre que você precisar de reforço estarei aqui para ajudar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberoutlaw.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Grateful. This ship is the ideal place to lay low. If you need backup, I shall be here!",
+      "Por": "Grato. Este nave é o local ideal para passar despercebido. Se você precisar de reforço eu estarei aqui!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Eu posso definitivamente passar despercebido aqui. Muito obrigado  - se você quiser algum apoio eu estarei aqui para ajudar!"
+    ],
+    "Files": {
+      "npcs/crew/crewmemberoutlaw.npctype": [
         "/scriptConfig/dialog/crewmember/roleDescription/default/default/1",
         "/scriptConfig/dialog/crewmember/roleDescription/hylotl/default/1"
       ]
@@ -197,18 +331,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/crew/crewmemberoutlaw.npctype": [
-        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/3/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I can hide out here until the heat dies down! Whenever you need backup I am be here to help.",
-      "Por": "Eu posso me esconder aqui até a poeira baixar! Sempre que precisar de apoio, estou aqui para ajudar."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "npcs/crew/crewmemberoutlaw.npctype": [
         "/scriptConfig/dialog/crewmember/roleDescription/apex/default/1"
       ]
     },
@@ -223,7 +345,6 @@
       "npcs/crew/crewmemberoutlaw.npctype": [
         "/scriptConfig/dialog/crewmember/offer/avian/default/3",
         "/scriptConfig/dialog/crewmember/offer/default/default/3",
-        "/scriptConfig/dialog/crewmember/offer/glitch/default/3/glitchEmotedText",
         "/scriptConfig/dialog/crewmember/offer/hylotl/default/3"
       ]
     },
@@ -274,21 +395,8 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/crew/crewmemberoutlaw.npctype": [
-        "/scriptConfig/dialog/crewmember/offer/glitch/default/4/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I need to lay low! I'll fight with you if you let me stay on your ship.",
-      "Por": "Preciso me esconder! Lutarei ao seu lado se me deixar ficar na sua nave."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "npcs/crew/crewmemberoutlaw.npctype": [
         "/scriptConfig/dialog/crewmember/offer/avian/default/0",
         "/scriptConfig/dialog/crewmember/offer/default/default/0",
-        "/scriptConfig/dialog/crewmember/offer/glitch/default/0/glitchEmotedText",
         "/scriptConfig/dialog/crewmember/offer/hylotl/default/0"
       ]
     },
@@ -339,18 +447,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/crew/crewmemberoutlaw.npctype": [
-        "/scriptConfig/dialog/crewmember/offer/glitch/default/6/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I really need to hide. Do you have a ship? I'll fight for you!",
-      "Por": "Eu realmente preciso me esconder. Você tem uma nave? Eu lutarei por você!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "npcs/crew/crewmemberoutlaw.npctype": [
         "/scriptConfig/dialog/crewmember/offer/apex/default/6",
         "/scriptConfig/dialog/crewmember/offer/default/default/6",
         "/scriptConfig/dialog/crewmember/offer/hylotl/default/6"
@@ -386,7 +482,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Eu juro que não sou realmente tão mau... Esta nave é um lugar perfeito para passar despercebido. Se você precisar de uma mão extra para ajudar em suas viagens, venha me pegar!"
+    ],
     "Files": {
       "npcs/crew/crewmemberoutlaw.npctype": [
         "/scriptConfig/dialog/crewmember/roleDescription/default/default/2",
@@ -396,18 +494,6 @@
     "Texts": {
       "Eng": "I swear I'm not so bad really... This ship is a perfect place to lie low. If you need an extra helping hand in your travels, come get me!",
       "Por": "Eu juro que não sou realmente tão mau... Esta nave é um lugar perfeito para passar despercebido. Se você precisar de uma mão extra para ajudar em suas viagens, venha me buscar!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "npcs/crew/crewmemberoutlaw.npctype": [
-        "/scriptConfig/dialog/crewmember/offer/glitch/default/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I'm a good person really! Please, let me stow away on your ship with you!",
-      "Por": "Eu sou uma boa pessoa, serio! Por favor, deixe-me ir na sua nave com você!"
     }
   },
   {
@@ -463,18 +549,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/crew/crewmemberoutlaw.npctype": [
-        "/scriptConfig/dialog/crewmember/offer/glitch/default/5/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Please, let me hide on your ship! I'll fight for you! There are people I need to avoid...",
-      "Por": "Por favor, deixe-me esconder em sua nave! Eu lutarei por você! Há pessoas que eu preciso evitar..."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "npcs/crew/crewmemberoutlaw.npctype": [
         "/scriptConfig/dialog/crewmember/roleDescription/apex/default/2"
       ]
     },
@@ -487,36 +561,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/crew/crewmemberoutlaw.npctype": [
-        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Thank you for allowing me to stay here. I can join you in battle if you ever need me, I won't forget our bargain.",
-      "Por": "Obrigado por me permitir ficar aqui. Eu posso me juntar a você na batalha se você precisar de mim, não esquecerei o nosso acordo."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "npcs/crew/crewmemberoutlaw.npctype": [
         "/scriptConfig/dialog/crewmember/roleDescription/apex/default/0"
       ]
     },
     "Texts": {
       "Eng": "Thank you for giving me a place to hide away. I will be here to provide some extra force whenever you need me.",
       "Por": "Obrigado por me dar um lugar para se esconder. Eu estarei aqui para fornecer força extra sempre que você precisar de mim."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "npcs/crew/crewmemberoutlaw.npctype": [
-        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/2/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Thank you for giving me a place to hide. I will stay here, and fight for you when you require me.",
-      "Por": "Obrigado por me dar um lugar para me esconder. Eu vou ficar aqui, e lutar por você quando você precisar de mim."
     }
   },
   {
@@ -568,30 +618,6 @@
     "Texts": {
       "Eng": "There are people... Looking for me... I'll work for you if you let me hide away on your ship!",
       "Por": "Há pessoas... Me procurando... Eu vou trabalhar para você, se você me deixar se esconder em sua nave!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "npcs/crew/crewmemberoutlaw.npctype": [
-        "/scriptConfig/dialog/crewmember/offer/glitch/default/2/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "There are people... Looking for me... Let me hide away on your ship, I'll fight for you in return.",
-      "Por": "Há pessoas... Procurando por mim... Deixe-me esconder em sua nave, e lutarei por você em troca."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "npcs/crew/crewmemberoutlaw.npctype": [
-        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This ship is the ideal place to lay low. If you need backup, I shall be here!",
-      "Por": "Esta nave é o lugar ideal para se esconder. Se precisar de reforços, estarei aqui!"
     }
   },
   {

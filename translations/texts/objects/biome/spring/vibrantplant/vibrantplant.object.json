@@ -15,17 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/spring/vibrantplant/vibrantplant.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Did someone grow this plant to be this vibrant?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/spring/vibrantplant/vibrantplant.object": [
         "/floranDescription"
       ]
     },
@@ -68,6 +57,18 @@
     "Texts": {
       "Eng": "I think this plant lacks subtlety.",
       "Por": "Acho que esta planta carece de sutileza."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/spring/vibrantplant/vibrantplant.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Surprised. Did someone grow this plant to be this vibrant?",
+      "Por": "Surpreso. Alguém cultivou esta planta para ser tão vibrante?"
     }
   },
   {

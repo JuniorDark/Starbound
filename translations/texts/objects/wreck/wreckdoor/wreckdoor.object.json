@@ -39,12 +39,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/wreck/wreckdoor/wreckdoor.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Rust makes this door creek.",
-      "Por": "Ferrugem faz esta porta ranger."
+      "Eng": "Observant. Rust makes this door creek.",
+      "Por": "Observador. A ferrugem faz este porta ranger."
     }
   },
   {
@@ -80,7 +80,7 @@
     },
     "Texts": {
       "Eng": "This door was once very secure.",
-      "Por": "Português \nEsta porta já foi muito segura."
+      "Por": "Português \r\nEsta porta já foi muito segura."
     }
   },
   {

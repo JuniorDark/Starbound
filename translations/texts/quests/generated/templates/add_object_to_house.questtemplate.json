@@ -39,24 +39,36 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/add_object_to_house.questtemplate": [
-        "/scriptConfig/generatedText/text/default/floran/0"
+        "/scriptConfig/generatedText/text/default/glitch/1"
       ]
     },
     "Texts": {
-      "Eng": "Finally Floran hasss the ^orange;<object> ^white;Floran wanted! It will look good in Floran's home, so ^green;please put it down sssomewhere in there.",
-      "Por": "Finalmente Floran tem o ^orange;<object> ^white; que Floran queria! Ele vai ficar bem na casa de Floran, então ^green;por favor coloque-o em algum lugar lá dentro."
+      "Eng": "Eager. We are almost done! All you need to do now is ^green;place the ^orange;<object>^green; in my home^white; somewhere!",
+      "Por": "Ansioso. Estamos quase terminando! Tudo que você precisa fazer agora é colocar o ^orange;<object> ^white;em algum lugar ^green;na minha casa!"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/add_object_to_house.questtemplate": [
-        "/scriptConfig/generatedText/text/default/glitch/0/glitchEmotedText"
+        "/scriptConfig/generatedText/text/default/glitch/0"
       ]
     },
     "Texts": {
-      "Eng": "Finally, could you ^green; place the ^orange;<object>^green; somewhere in my home? ^white;You should ^green;make some more room^white; if necessary.",
-      "Por": "Finalmente, você poderia ^green;colocar o ^orange;<object>^green; em algum lugar em minha casa? ^white;Você deve^green; liberar mais espaço^white; se necessário."
+      "Eng": "Excited. Finally, could you ^green; place the ^orange;<object>^green; somewhere in my home? ^white;You should ^green;make some more room^white; if necessary.",
+      "Por": "Animado. Finalmente, você pode ^green;colocar o ^orange;<object>^green; em algum lugar na minha casa? ^white;Você deve ^green;abrir mais espaço^white; se necessário."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/add_object_to_house.questtemplate": [
+        "/scriptConfig/generatedText/text/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Finally Floran hasss the ^orange;<object> ^white;Floran wanted! It will look good in Floran's home, so ^green;please put it down sssomewhere in there.",
+      "Por": "Finalmente Floran tem o ^orange;<object> ^white; que Floran queria! Ele vai ficar bem na casa de Floran, então ^green;por favor coloque-o em algum lugar lá dentro."
     }
   },
   {
@@ -99,18 +111,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/add_object_to_house.questtemplate": [
-        "/scriptConfig/generatedText/completionText/default/glitch/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I think the addition of the <object> is just what my home needed. Thank you for your help!",
-      "Por": "Eu acho que a adição do <object> é exatamente o que minha casa precisava. Obrigado pela ajuda!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/add_object_to_house.questtemplate": [
         "/scriptConfig/generatedText/text/default/default/1"
       ]
     },
@@ -135,24 +135,36 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/add_object_to_house.questtemplate": [
-        "/scriptConfig/generatedText/title/1"
+        "/scriptConfig/generatedText/completionText/default/glitch/0"
       ]
     },
     "Texts": {
-      "Eng": "Redecorating for <questGiver>",
-      "Por": "Redecorando para <questGiver>"
+      "Eng": "Overjoyed. That <object> really adds to the ambiance, do you not agree? Thank you for helping me!",
+      "Por": "Entusiasmado. Esse <object> realmente complementa o ambiente, você não concorda? Obrigado por me ajudar!"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/add_object_to_house.questtemplate": [
-        "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText"
+        "/scriptConfig/generatedText/completionText/default/glitch/1"
       ]
     },
     "Texts": {
-      "Eng": "That <object> really adds to the ambiance, do you not agree? Thank you for helping me!",
-      "Por": "Esse <object> realmente adiciona ao ambiente, você não concorda? Obrigado por me ajudar!"
+      "Eng": "Pleased. I think the addition of the <object> is just what my home needed. Thank you for your help!",
+      "Por": "Satisfeito. Eu acho que a adição do <object> é exatamente o que a minha casa necessitava. Obrigado pela sua ajuda!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/add_object_to_house.questtemplate": [
+        "/scriptConfig/generatedText/title/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Redecorating for <questGiver>",
+      "Por": "Redecorando para <questGiver>"
     }
   },
   {
@@ -189,18 +201,6 @@
     "Texts": {
       "Eng": "This <object> is really helping my home look shiny! Thanksss for your help!",
       "Por": "Este <object> realmente ajuda a minha casa parecer brilhante! Obrigado pela sssua ajuda!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/add_object_to_house.questtemplate": [
-        "/scriptConfig/generatedText/text/default/glitch/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "We are almost done! All you need to do now is ^green;place the ^orange;<object>^green; in my home^white; somewhere!",
-      "Por": "Estamos quase acabando! Tudo que você precisa fazer agora é ^green;colocar o ^orange;<object>^white; em algum lugar^green; na minha casa !"
     }
   },
   {

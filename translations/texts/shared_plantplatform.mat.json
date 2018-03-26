@@ -3,6 +3,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/plantplatform.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/platforms/plantplatform.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cautious. This mossy platform is slimy and slippery.",
+      "Por": "Cuidado. Esta plataforma com musgo é viscosa e escorregadia."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/plantplatform.matitem": [
         "/florandescription"
       ],
       "tiles/platforms/plantplatform.material": [
@@ -30,7 +45,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "A plataforma é viscosa com musgo e folhas. Melhor ter cuidado para não escorregar!"
+    ],
     "Files": {
       "items/materials/plantplatform.matitem": [
         "/description"
@@ -57,21 +74,6 @@
     "Texts": {
       "Eng": "This moss makes this platform mighty slippery.",
       "Por": "Este musgo torna esta plataforma muito escorregadia."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/plantplatform.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/platforms/plantplatform.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This mossy platform is slimy and slippery.",
-      "Por": "Esta plataforma é viscosa e escorregadia."
     }
   }
 ]

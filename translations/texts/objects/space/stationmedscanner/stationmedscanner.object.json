@@ -15,24 +15,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/space/stationmedscanner/stationmedscanner.object": [
-        "/floranDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Fancy lightsss all around this metal bed.",
-      "Por": "Luzesss chiques ao redor desta cama de metal."
+      "Eng": "Curious. I wonder if this medical bed can account for Glitch anatomy.",
+      "Por": "Curioso. Eu me pergunto se esta cama médica pode explicar a anatomia Glitch."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/space/stationmedscanner/stationmedscanner.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/floranDescription"
       ]
     },
     "Texts": {
-      "Eng": "I wonder if this medical bed can account for Glitch anatomy.",
-      "Por": "Eu me pergunto se essa cama médica pode explicar a anatomia Glitch."
+      "Eng": "Fancy lightsss all around this metal bed.",
+      "Por": "Luzesss chiques ao redor desta cama de metal."
     }
   },
   {

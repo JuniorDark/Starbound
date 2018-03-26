@@ -3,27 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "plants/grass/ground/decorative/jungleflower1/jungleflower1.grass": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "plants/grass/ground/decorative/jungleflower2/jungleflower2.grass": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "plants/grass/ground/decorative/jungleflower3/jungleflower3.grass": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "plants/grass/ground/decorative/jungleswirly/jungleswirly.grass": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A flower indigenous to jungle regions.",
-      "Por": "Uma flor nativa das regiões de selva."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "plants/grass/ground/decorative/jungleflower1/jungleflower1.grass": [
         "/shortdescription"
       ],
       "plants/grass/ground/decorative/jungleflower2/jungleflower2.grass": [
@@ -38,7 +17,7 @@
     },
     "Texts": {
       "Eng": "A jungle flower.",
-      "Por": "A jungle flower."
+      "Por": "Uma flor de selva."
     }
   },
   {
@@ -59,7 +38,7 @@
     },
     "Texts": {
       "Eng": "An exotic jungle flower.",
-      "Por": "Uma flor exótica da selva."
+      "Por": "Uma flor exótica de selva."
     }
   },
   {
@@ -81,6 +60,27 @@
     "Texts": {
       "Eng": "Flower reminds Floran of home.",
       "Por": "Flor lembra casa de Floran."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/jungleflower1/jungleflower1.grass": [
+        "/glitchDescription"
+      ],
+      "plants/grass/ground/decorative/jungleflower2/jungleflower2.grass": [
+        "/glitchDescription"
+      ],
+      "plants/grass/ground/decorative/jungleflower3/jungleflower3.grass": [
+        "/glitchDescription"
+      ],
+      "plants/grass/ground/decorative/jungleswirly/jungleswirly.grass": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. A flower indigenous to jungle regions.",
+      "Por": "Afirmação. Uma flor indígena de regiões de selva."
     }
   }
 ]

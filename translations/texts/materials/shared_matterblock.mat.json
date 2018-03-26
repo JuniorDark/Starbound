@@ -3,6 +3,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/matterblock.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/matterblock.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fascinated. This appears to be a rare form of raw matter.",
+      "Por": "Fascinado. Isso parece ser uma forma rara de matéria crua."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/matterblock.matitem": [
         "/florandescription"
       ],
       "tiles/materials/matterblock.material": [
@@ -27,21 +42,6 @@
     "Texts": {
       "Eng": "Some strange lookin' crystals.",
       "Por": "Alguns cristais estranhos."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/matterblock.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/matterblock.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This appears to be a rare form of raw matter.",
-      "Por": "Esta parece ser uma forma rara de matéria-prima."
     }
   }
 ]

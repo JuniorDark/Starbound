@@ -15,23 +15,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/screen1/screen1.object": [
-        "/shortdescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Data Screen",
-      "Por": "Data Screen"
+      "Eng": "Confused. I can not interface with this machine.",
+      "Por": "Confuso. Não consigo interagir com esta máquina."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/screen1/screen1.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "I can not interface with this machine."
+      "Eng": "Data Screen",
+      "Por": "Data Screen"
     }
   },
   {

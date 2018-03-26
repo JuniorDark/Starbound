@@ -37,7 +37,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Se precisar de mais alguma coisa, venha me ver!"
+    ],
     "Files": {
       "npcs/dungeon/avianairship/airshipquartermaster.npctype": [
         "/scriptConfig/dialog/merchant/end/avian/default/1",
@@ -50,7 +52,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Venha até nós se precisar de mais coisas!"
+    ],
     "Files": {
       "npcs/dungeon/avianairship/airshipquartermaster.npctype": [
         "/scriptConfig/dialog/merchant/end/avian/default/0",
@@ -100,7 +104,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Se você tiver pixels, nós temos as mercadorias."
+    ],
     "Files": {
       "npcs/dungeon/avianairship/airshipquartermaster.npctype": [
         "/scriptConfig/dialog/merchant/end/avian/default/2",
@@ -176,7 +182,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Dê uma olhada!"
+    ],
     "Files": {
       "npcs/dungeon/avianairship/airshipquartermaster.npctype": [
         "/scriptConfig/dialog/merchant/start/avian/default/3",
@@ -185,7 +193,7 @@
     },
     "Texts": {
       "Eng": "Take a look!",
-      "Por": "Dê uma olhada!"
+      "Por": "Dê uma olhada."
     }
   },
   {

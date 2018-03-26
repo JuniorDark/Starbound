@@ -44,7 +44,19 @@
     },
     "Texts": {
       "Eng": "Man, this is positioned great for leaning back.",
-      "Por": "Cara, isto está bem posicionado para inclinar-se para trás."
+      "Por": "Meu, isto está bem posicionado para inclinar-se para trás."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/astroceilingmonitor/astroceilingmonitor.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased. This display arrangement is an efficient use of space.",
+      "Por": "Satisfeito. Este arranjo de exibição é um uso eficiente de espaço."
     }
   },
   {
@@ -56,7 +68,7 @@
     },
     "Texts": {
       "Eng": "There's something familiar about this display configuration.",
-      "Por": "Há alguma coisa familiar sobre esta configuração de tela."
+      "Por": "Há alguma coisa familiar sobre esta configuração de exibição."
     }
   },
   {
@@ -75,24 +87,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/space/astroceilingmonitor/astroceilingmonitor.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This display arrangement is an efficient use of space.",
-      "Por": "Este arranjo de tela é um uso eficiente de espaço."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/space/astroceilingmonitor/astroceilingmonitor.object": [
         "/hylotlDescription"
       ]
     },
     "Texts": {
       "Eng": "This display is able to utilize little used space.",
-      "Por": "Esta tela é capaz de utilizar pouquíssimo espaço."
+      "Por": "Esta tela é capaz de utilizar pouco espaço usado."
     }
   },
   {

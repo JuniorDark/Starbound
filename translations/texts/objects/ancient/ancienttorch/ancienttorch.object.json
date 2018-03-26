@@ -15,18 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/ancient/ancienttorch/ancienttorch.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A old torch which has been lit for a great, undetermined amount of time.",
-      "Por": "Uma tocha antiga que esta acesa por uma grande e indeterminada quantidade de tempo."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/ancient/ancienttorch/ancienttorch.object": [
         "/novakidDescription"
       ]
     },
@@ -93,6 +81,18 @@
     "Texts": {
       "Eng": "Ancient Torch",
       "Por": "Ancient Torch"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/ancienttorch/ancienttorch.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. A old torch which has been lit for a great, undetermined amount of time.",
+      "Por": "Observador. Uma tocha velha que ficou iluminada por uma grande e indeterminada quantidade de tempo."
     }
   },
   {

@@ -30,6 +30,33 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/protectorate/objects/protectorateincap1/protectorateincap1.object": [
+        "/glitchDescription"
+      ],
+      "objects/protectorate/objects/protectorateincap2/protectorateincap2.object": [
+        "/glitchDescription"
+      ],
+      "objects/protectorate/objects/protectorateincap3/protectorateincap3.object": [
+        "/glitchDescription"
+      ],
+      "objects/protectorate/objects/protectorateincap4/protectorateincap4.object": [
+        "/glitchDescription"
+      ],
+      "objects/protectorate/objects/protectorateincap5/protectorateincap5.object": [
+        "/glitchDescription"
+      ],
+      "objects/protectorate/objects/protectorateincap6/protectorateincap6.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Devastated. I have no words...",
+      "Por": "Devastado. Não tenho palavras..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/protectorate/objects/protectorateincap1/protectorateincap1.object": [
         "/avianDescription"
       ],
       "objects/protectorate/objects/protectorateincap2/protectorateincap2.object": [
@@ -105,32 +132,6 @@
     "Texts": {
       "Eng": "I don't want to look...",
       "Por": "Eu não quero olhar..."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/protectorate/objects/protectorateincap1/protectorateincap1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/protectorate/objects/protectorateincap2/protectorateincap2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/protectorate/objects/protectorateincap3/protectorateincap3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/protectorate/objects/protectorateincap4/protectorateincap4.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/protectorate/objects/protectorateincap5/protectorateincap5.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/protectorate/objects/protectorateincap6/protectorateincap6.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I have no words..."
     }
   },
   {

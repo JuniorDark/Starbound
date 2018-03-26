@@ -55,7 +55,20 @@
       ]
     },
     "Texts": {
-      "Eng": "Hanging Booster"
+      "Eng": "Hanging Booster",
+      "Por": "Hanging Booster"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/hangingbooster/hangingbooster.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Interested. Suspended like this gives easy access to the internal mechanics of this mech booster.",
+      "Por": "Interessado. Suspenso assim dá fácil acesso à mecânica interna deste propulsor de mecha."
     }
   },
   {
@@ -68,17 +81,6 @@
     "Texts": {
       "Eng": "Mech rocket hanging on chainsss.",
       "Por": "Propulsor de mecha pendurado em correntesss."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/outpost/hangingbooster/hangingbooster.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Suspended like this gives easy access to the internal mechanics of this mech booster."
     }
   },
   {

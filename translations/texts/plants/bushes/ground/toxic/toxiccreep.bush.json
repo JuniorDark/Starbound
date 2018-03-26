@@ -27,12 +27,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "plants/bushes/ground/toxic/toxiccreep.bush": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "This plant looks to thrive on the surrounding radiation.",
-      "Por": "Esta planta parece prosperar na radiação circundante."
+      "Eng": "Statement. This plant looks to thrive on the surrounding radiation.",
+      "Por": "Declaração. Esta planta parece crescer em torno da radiação."
     }
   },
   {
@@ -44,7 +44,7 @@
     },
     "Texts": {
       "Eng": "Toxic Creep.",
-      "Por": "Toxic Creep."
+      "Por": "Creep Tóxico"
     }
   }
 ]

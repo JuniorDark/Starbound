@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/crafting/3dprinter/3dprinter.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "In love. Such technology is art.",
+      "Por": "Apaixonado. Essa tecnologia é arte."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/3dprinter/3dprinter.object": [
         "/novakidDescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "Pretty pixelsss print pretty thingss for Floran.",
       "Por": "Pixelsss bonitos imprimem coisass bonitass para Floran."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/crafting/3dprinter/3dprinter.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Such technology is art."
     }
   },
   {

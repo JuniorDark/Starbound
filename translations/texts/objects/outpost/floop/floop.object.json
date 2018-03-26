@@ -41,8 +41,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/floop/floop.object": [
-        "/apexDescription",
-        "/glitchDescription/glitchEmotedText"
+        "/apexDescription"
       ]
     },
     "Texts": {
@@ -72,6 +71,18 @@
     "Texts": {
       "Eng": "It's a floop sign! Whoopie!",
       "Por": "É um placa de floop! Whoopie!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/floop/floop.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Puzzled. Floop sign.",
+      "Por": "Intrigado. Uma placa escrito Floop."
     }
   }
 ]

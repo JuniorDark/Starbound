@@ -27,12 +27,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/hat.questtemplate": [
-        "/scriptConfig/generatedText/text/default/glitch/0/glitchEmotedText"
+        "/scriptConfig/generatedText/completionText/default/glitch/0"
       ]
     },
     "Texts": {
-      "Eng": "All you have to do now is ask ^orange;<friend>^white; to make my new ^orange;headwear.^white; Could you ^green;deliver the ^orange;<clothingIngredients>^green; to <friend.pronoun.object>?",
-      "Por": "Tudo que você tem que fazer agora é pedir a ^orange;<friend>^white;para fazer minha nova ^orange;chapelaria.^white; Você poderia ^green;entregar o ^orange;<clothingIngredients>^green; para <friend.pronoun.object>?"
+      "Eng": "Appreciative. Thanks to you, I definitely look <adjective>!",
+      "Por": "Agradecido. Graças a você, eu definitivamente pareço <adjective>!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/hat.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Delighted. This new look really makes me look <adjective>, don't you think? Thank you for your help.",
+      "Por": "Satisfeito. Este novo visual realmente me faz parecer <adjective>, você não acha? Obrigado pela ajuda."
     }
   },
   {
@@ -45,18 +57,6 @@
     "Texts": {
       "Eng": "Finally, Floran needs you to ^green;deliver ^orange;<clothingIngredients>^green; to ^orange;<friend>^white; ssso <friend.pronoun.subject> can make Floran's ^orange;headwear.^white; Hurry!",
       "Por": "Finalmente, Floran precisa de você para ^green;entregar ^orange;<clothingIngredients>^green; para ^orange;<friend>^white; então <friend.pronoun.subject> pode fazer a ^orange;chapelaria^white; de Floran. Rapido!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/hat.questtemplate": [
-        "/scriptConfig/generatedText/text/default/glitch/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Finally, can you ^green;deliver the ^orange;<clothingIngredients>^green; to ^orange;<friend>^white;, so <friend.pronoun.subject> can craft me my ^orange;headwear?",
-      "Por": "Finalmente, você pode ^green;entregar o ^orange;<clothingIngredients>^green; para ^orange;<friend>^white;, então <friend.pronoun.subject> podem criar pra mim a minha ^orange;chapelaria?"
     }
   },
   {
@@ -147,6 +147,30 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/hat.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Patient. Finally, can you ^green;deliver the ^orange;<clothingIngredients>^green; to ^orange;<friend>^white;, so <friend.pronoun.subject> can craft me my ^orange;headwear?",
+      "Por": "Paciente. Finalmente, você pode ^green;entregar o ^orange;<clothingIngredients>^green; para ^orange;<friend>^white;, então <friend.pronoun.subject> podem criar pra mim a minha ^orange;chapelaria?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/hat.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased. All you have to do now is ask ^orange;<friend>^white; to make my new ^orange;headwear.^white; Could you ^green;deliver the ^orange;<clothingIngredients>^green; to <friend.pronoun.object>?",
+      "Por": "Satisfeito. Tudo que você tem que fazer agora é pedir a ^orange;<friend>^white;para fazer minha nova ^orange;chapelaria.^white; Você poderia ^green;entregar o ^orange;<clothingIngredients>^green; para <friend.pronoun.object>?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/hat.questtemplate": [
         "/scriptConfig/generatedText/completionText/default/floran/0"
       ]
     },
@@ -171,36 +195,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/hat.questtemplate": [
-        "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Thanks to you, I definitely look <adjective>!",
-      "Por": "Graças a você, eu definitivamente pareço <adjective>!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/hat.questtemplate": [
         "/scriptConfig/generatedText/completionText/default/default/1"
       ]
     },
     "Texts": {
       "Eng": "Thanks! How do I look? Suitably <adjective>, I'm sure.",
       "Por": "Obrigado! Como estou? Adequadamente <adjective>, eu tenho certeza."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/hat.questtemplate": [
-        "/scriptConfig/generatedText/completionText/default/glitch/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This new look really makes me look <adjective>, don't you think? Thank you for your help.",
-      "Por": "Este novo visual realmente me faz parecer <adjective>, você não acha? Obrigado pela ajuda."
     }
   },
   {

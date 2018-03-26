@@ -3,7 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "plants/grass/ground/decorative/rustflower/rustflower.grass": [
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ]
     },
@@ -34,6 +33,18 @@
     "Texts": {
       "Eng": "Sssharp hard flower.",
       "Por": "Uma flor forte e afiada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/rustflower/rustflower.grass": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. A metallic flower.",
+      "Por": "Relatório. Uma flor metálica."
     }
   }
 ]

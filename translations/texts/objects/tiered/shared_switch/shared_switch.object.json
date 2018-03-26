@@ -48,21 +48,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/tiered/tier1switch/tier1switch.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/tiered/tier2switch/tier2switch.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A simple lever can control so many different mechanisms.",
-      "Por": "Uma alavanca simples pode controlar tantos mecanismos diferentes."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/tiered/tier1switch/tier1switch.object": [
         "/avianDescription"
       ],
       "objects/tiered/tier2switch/tier2switch.object": [
@@ -87,6 +72,21 @@
     "Texts": {
       "Eng": "Floran pull lever. Make thingsss happen!",
       "Por": "Floran puxa alavanca. Faz coisasss acontecerem!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/tiered/tier1switch/tier1switch.object": [
+        "/glitchDescription"
+      ],
+      "objects/tiered/tier2switch/tier2switch.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. A simple lever can control so many different mechanisms.",
+      "Por": "Impressionado. Uma alavanca simples pode controlar tantos mecanismos diferentes."
     }
   },
   {

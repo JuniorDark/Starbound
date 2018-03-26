@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/rainbowwood/rainbowwoodbed/rainbowwoodbed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amused. This bed has a childlike appeal.",
+      "Por": "Divertido. Esta cama tem um apelo infantil."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/rainbowwood/rainbowwoodbed/rainbowwoodbed.object": [
         "/floranDescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "Sleeping under a rainbow is bound to bring you luck.",
       "Por": "Dormir debaixo de um arco-íris é obrigado a lhe dar sorte."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/rainbowwood/rainbowwoodbed/rainbowwoodbed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This bed has a childlike appeal."
     }
   },
   {

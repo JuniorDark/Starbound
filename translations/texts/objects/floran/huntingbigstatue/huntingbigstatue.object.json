@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/huntingbigstatue/huntingbigstatue.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. Was the Floran depicted here important as a hunter?",
+      "Por": "Curioso. O Floran representado aqui foi importante como um caçador?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/huntingbigstatue/huntingbigstatue.object": [
         "/avianDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "This sstatue repressentss the hunt, not a sspecific Floran.",
       "Por": "Esta estátua repressenta a caça, não um Floran específico."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/floran/huntingbigstatue/huntingbigstatue.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Was the Floran depicted here important as a hunter?"
     }
   }
 ]

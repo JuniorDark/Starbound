@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/marketstall1/marketstall1.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Envious. If I were capable of producing saliva, I would be salivating.",
+      "Por": "Invejoso. Se eu fosse capaz de produzir saliva, estaria salivando."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/marketstall1/marketstall1.object": [
         "/novakidDescription"
       ]
     },
@@ -45,17 +57,6 @@
     "Texts": {
       "Eng": "I'm dying to taste some of this fruit.",
       "Por": "Estou morrendo de vontade de provar algumas dessas frutas."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avian/marketstall1/marketstall1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "If I were capable of producing saliva, I would be salivating."
     }
   },
   {

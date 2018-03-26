@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/flagavian/flagavian.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A small locator module attached to this Avian flag allows it to be bookmarked for teleportation."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/flagavian/flagavian.object": [
         "/apexDescription"
       ]
     },
@@ -56,6 +45,18 @@
     "Texts": {
       "Eng": "I can bookmark this Avian flag for quick teleportin'.",
       "Por": "Eu posso favoritar esta bandeira Avian para teleporte rápido."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/flagavian/flagavian.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. A small locator module attached to this Avian flag allows it to be bookmarked for teleportation.",
+      "Por": "Atento. Um pequeno módulo localizador anexado a esta bandeira Avian permite que ela seja marcada para teletransporte."
     }
   },
   {

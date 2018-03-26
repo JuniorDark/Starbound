@@ -56,26 +56,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/crafting/ironanvil/ironanvil.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/crafting/upgradeablecraftingobjects/craftinganvil/craftinganvil.object": [
-        "/glitchDescription/glitchEmotedText",
-        "/upgradeStages/0/itemSpawnParameters/glitchDescription/glitchEmotedText"
-      ],
-      "objects/glitch/anvil/anvil.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The Glitch craft all sorts of weapons on these anvils. They even craft anvils on these anvils.",
-      "Por": "Os Glitch criam todos os tipos de armas nessas bigornas. Eles até criam bigornas nessas bigornas."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Muito pessada, útil em uma armadilha."
+    ],
     "Files": {
       "objects/crafting/ironanvil/ironanvil.object": [
         "/floranDescription"

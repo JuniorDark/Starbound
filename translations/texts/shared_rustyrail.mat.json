@@ -3,6 +3,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/rustyrail.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/rails/rustyrail.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Concerned. These rails look worn and rusted.",
+      "Por": "Preocupado. Esses trilhos parecem desgastados ​​e enferrujados."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rustyrail.matitem": [
         "/shortdescription"
       ],
       "tiles/rails/rustyrail.material": [
@@ -45,7 +60,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Estes trilhos são um pouco áspero, mas funcional."
+    ],
     "Files": {
       "items/materials/rustyrail.matitem": [
         "/description"
@@ -57,21 +74,6 @@
     "Texts": {
       "Eng": "These rails are a bit rough, but functional.",
       "Por": "Estes trilhos são um pouco ásperos, mas funcional."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/rustyrail.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/rails/rustyrail.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "These rails look worn and rusted.",
-      "Por": "Esses trilhos parecem desgastados e enferrujados."
     }
   }
 ]

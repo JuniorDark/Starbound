@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/plantvinetable/plantvinetable.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Concerned. These plants have been left untended for so long they've covered this table.",
+      "Por": "Preocupado. Essas plantas foram abandonadas durante tanto tempo que cobriram esta mesa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/plantvinetable/plantvinetable.object": [
         "/floranDescription"
       ]
     },
@@ -33,17 +45,6 @@
     "Texts": {
       "Eng": "Overgrown Table",
       "Por": "Overgrown Table"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/floran/plantvinetable/plantvinetable.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "These plants have been left untended for so long they've covered this table."
     }
   },
   {

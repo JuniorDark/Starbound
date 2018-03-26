@@ -27,17 +27,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/coffeemachine/coffeemachine.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A coffee machine."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/outpost/coffeemachine/coffeemachine.object": [
         "/subtitle"
       ]
     },
@@ -104,6 +93,18 @@
     "Texts": {
       "Eng": "I like the smell of this.",
       "Por": "Eu gosto do cheiro disso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/coffeemachine/coffeemachine.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neutral. A coffee machine.",
+      "Por": "Neutro. Uma máquina de café."
     }
   },
   {

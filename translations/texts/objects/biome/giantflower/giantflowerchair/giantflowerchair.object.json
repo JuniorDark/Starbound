@@ -63,23 +63,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/giantflower/giantflowerchair/giantflowerchair.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "How many years did it take for the petals to strengthen enough to support my weight?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/giantflower/giantflowerchair/giantflowerchair.object": [
         "/novakidDescription"
       ]
     },
     "Texts": {
       "Eng": "Sittin' on petals makes me feel like a fairy of the forest.",
       "Por": "Sentar em pétalas me faz sentir como uma fada da floresta."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/giantflower/giantflowerchair/giantflowerchair.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thoughtful. How many years did it take for the petals to strengthen enough to support my weight?",
+      "Por": "Pensativo. Quantos anos levou para as pétalas se fortalecerem o suficiente para sustentar meu peso?"
     }
   }
 ]

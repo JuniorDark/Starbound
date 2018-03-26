@@ -15,18 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/themed/retroscifi/retroscifitable/retroscifitable.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A particularly well balanced table.",
-      "Por": "Uma mesa particularmente bem equilibrada."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/themed/retroscifi/retroscifitable/retroscifitable.object": [
         "/description"
       ]
     },
@@ -69,6 +57,18 @@
     "Texts": {
       "Eng": "I'm afraid this table would tip over if I placed something heavy on it.",
       "Por": "Tenho medo que esta mesa iria tombar se eu colocar algo pesado sobre ela."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/retroscifi/retroscifitable/retroscifitable.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. A particularly well balanced table.",
+      "Por": "Impressionado. Uma mesa particularmente bem equilibrada."
     }
   },
   {

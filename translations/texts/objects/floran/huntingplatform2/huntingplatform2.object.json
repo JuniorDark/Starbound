@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/huntingplatform2/huntingplatform2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. Though the materials are basic, this platform is very well made.",
+      "Por": "Impressionado. Embora os materiais sejam básicos, esta plataforma está muito bem feita."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/huntingplatform2/huntingplatform2.object": [
         "/novakidDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "This wooden platform looks solidly constructed.",
       "Por": "Esta plataforma de madeira parece solidamente construída."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/floran/huntingplatform2/huntingplatform2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Though the materials are basic, this platform is very well made."
     }
   }
 ]

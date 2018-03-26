@@ -63,6 +63,36 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/ship/aviantechstation/aviantechstation.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/florantechstation/florantechstation.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/glitchtechstation/glitchtechstation.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/humantechstation/humantechstation.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/hylotltechstation/hylotltechstation.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/novakidtechstation/novakidtechstation.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/techstation/techstation.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Happy. This station allows me to talk to SAIL.",
+      "Por": "Feliz. Esta estação permite que eu fale com SAIL."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aviantechstation/aviantechstation.object": [
         "/dialog/wakeUp/1/0"
       ],
       "objects/ship/florantechstation/florantechstation.object": [
@@ -330,7 +360,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Sistema desligado, favor reinicie."
+    ],
     "Files": {
       "objects/ship/aviantechstation/aviantechstation.object": [
         "/dialog/wakePlayer/0/0"
@@ -356,7 +388,7 @@
     },
     "Texts": {
       "Eng": "System is down, please reboot.",
-      "Por": "Sistema desligado, por favor reinicie.\""
+      "Por": "Por favor reinicie o sistema."
     }
   },
   {
@@ -390,7 +422,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Esta console me permite se comunicar com SAIL."
+    ],
     "Files": {
       "objects/ship/aviantechstation/aviantechstation.object": [
         "/hylotlDescription"
@@ -477,36 +511,6 @@
     "Texts": {
       "Eng": "This station allows me to communicate with SAIL.",
       "Por": "Esta estação permite que eu me comunique com SAIL."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/ship/aviantechstation/aviantechstation.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/florantechstation/florantechstation.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/glitchtechstation/glitchtechstation.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/humantechstation/humantechstation.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/hylotltechstation/hylotltechstation.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/novakidtechstation/novakidtechstation.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/techstation/techstation.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This station allows me to talk to SAIL.",
-      "Por": "Esta estação me permite falar com o SAIL."
     }
   },
   {

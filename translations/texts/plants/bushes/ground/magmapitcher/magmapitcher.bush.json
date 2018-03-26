@@ -8,7 +8,7 @@
     },
     "Texts": {
       "Eng": "Burny liquidsss.",
-      "Por": "Líquidosss quentes."
+      "Por": "Líquidos quentes."
     }
   },
   {
@@ -21,19 +21,19 @@
     },
     "Texts": {
       "Eng": "Cones filled with magma.",
-      "Por": "Cones cheios de magma."
+      "Por": "Coníferos enchidos com magma."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "plants/bushes/ground/magmapitcher/magmapitcher.bush": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Cones of magma.",
-      "Por": "Cones de magma."
+      "Eng": "Statement. Cones of magma.",
+      "Por": "Relatório. Coníferos de magma."
     }
   }
 ]

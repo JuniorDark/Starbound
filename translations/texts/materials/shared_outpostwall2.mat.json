@@ -33,21 +33,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/outpostwall2.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/outpostwall2.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Nothing will move this structurally reinforced wall.",
-      "Por": "Nada moverá essa parede estruturalmente reforçada."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/outpostwall2.matitem": [
         "/shortdescription"
       ],
       "tiles/materials/outpostwall2.material": [
@@ -57,6 +42,21 @@
     "Texts": {
       "Eng": "Outpost Thick Wall",
       "Por": "Outpost Thick Wall"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/outpostwall2.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/outpostwall2.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased. Nothing will move this structurally reinforced wall.",
+      "Por": "Satisfeito. Nada moverá esta parede estruturalmente reforçada."
     }
   },
   {

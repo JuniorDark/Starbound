@@ -75,23 +75,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/arttrophies/derrickstatue/derrickstatue.object": [
-        "/apexDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "This carving depicts a creature named Derrick.",
-      "Por": "Esta escultura retrata uma criatura chamada Derrick."
+      "Eng": "Interested. This statue appears to be a tribute to a lost pet.",
+      "Por": "Interessado. Esta estátua parece ser um tributo a um animal de estimação perdido."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/arttrophies/derrickstatue/derrickstatue.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/apexDescription"
       ]
     },
     "Texts": {
-      "Eng": "This statue appears to be a tribute to a lost pet."
+      "Eng": "This carving depicts a creature named Derrick.",
+      "Por": "Esta escultura retrata uma criatura chamada Derrick."
     }
   },
   {

@@ -4,7 +4,6 @@
     "Files": {
       "plants/bushes/ceiling/ceilingarchrock/ceilingarchrock.bush": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ]
     },
@@ -23,6 +22,18 @@
     "Texts": {
       "Eng": "Curvy rocksss.",
       "Por": "Rochas Curvy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ceiling/ceilingarchrock/ceilingarchrock.bush": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. An arched rock.",
+      "Por": "Declaração. Uma rocha arqueada."
     }
   }
 ]

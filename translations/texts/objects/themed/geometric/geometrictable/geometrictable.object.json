@@ -15,8 +15,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/themed/geometric/geometrictable/geometrictable.object": [
-        "/description",
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ]
     },
     "Texts": {
@@ -34,6 +33,18 @@
     "Texts": {
       "Eng": "An immensely sturdy geometric table.",
       "Por": "Uma mesa geométrica imensamente sólida."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/geometric/geometrictable/geometrictable.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Approving. A very well-made geometric table.",
+      "Por": "Aprovação. Uma mesa geométrica muito bem-feita."
     }
   },
   {

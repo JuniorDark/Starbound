@@ -75,17 +75,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/arcadepurple/arcadepurple.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This game is called Screaming Fashion Agent and I am very unsettled by it. 6/10."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/hylotl/arcadepurple/arcadepurple.object": [
         "/apexDescription"
       ]
     },
@@ -104,6 +93,18 @@
     "Texts": {
       "Eng": "This machine runs 'Screaming Fashion Agent'.",
       "Por": "Essa maquina roda o jogo 'Screaming Fashion Agent'."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/arcadepurple/arcadepurple.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Uneasy. This game is called Screaming Fashion Agent and I am very unsettled by it. 6/10.",
+      "Por": "Inquieto. Este jogo é chamado Screaming Fashion Agent e eu estou muito perturbado por isso. 6/10."
     }
   }
 ]

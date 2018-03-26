@@ -39,23 +39,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/hylotlmailbox/hylotlmailbox.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A dropbox for mail."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/hylotl/hylotlmailbox/hylotlmailbox.object": [
         "/floranDescription"
       ]
     },
     "Texts": {
       "Eng": "Floran not send letters.",
       "Por": "Floran não manda cartas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/hylotlmailbox/hylotlmailbox.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Indifferent. A dropbox for mail.",
+      "Por": "Indiferente. A caixa de depósito para o correio."
     }
   },
   {

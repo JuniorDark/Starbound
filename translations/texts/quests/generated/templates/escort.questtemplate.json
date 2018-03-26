@@ -209,6 +209,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/escort.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Relieved. Thanks for bringing <targetNpcType> back here. <appreciation>",
+      "Por": "Aliviado. Obrigado por trazer <targetNpcType> de volta para cá. <appreciation>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/escort.questtemplate": [
         "/scriptConfig/generatedText/fluff/7/1/1"
       ]
     },
@@ -227,18 +239,6 @@
     "Texts": {
       "Eng": "Thanks for bringing <targetNpcType> back here! <appreciation>",
       "Por": "Obrigado por trazer <targetNpcType> de volta para cá! <appreciation>"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/escort.questtemplate": [
-        "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Thanks for bringing <targetNpcType> back here. <appreciation>",
-      "Por": "Obrigado por trazer <targetNpcType> de volta aqui. <appreciation>"
     }
   },
   {

@@ -15,7 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "plants/grass/ground/decorative/savannahgrass/savannahgrass.grass": [
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ]
     },
@@ -34,6 +33,18 @@
     "Texts": {
       "Eng": "Dry, brittle grass.",
       "Por": "Grama frágil e seca."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/savannahgrass/savannahgrass.grass": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. Dry grass.",
+      "Por": "Relatório. Grama seca."
     }
   }
 ]

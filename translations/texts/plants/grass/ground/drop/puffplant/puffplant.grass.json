@@ -4,7 +4,6 @@
     "Files": {
       "plants/grass/ground/drop/puffplant/puffplant.grass": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ]
     },
@@ -23,6 +22,18 @@
     "Texts": {
       "Eng": "Floran like to sssquish puffball.",
       "Por": "Floran gosta de apertar puffball."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/drop/puffplant/puffplant.grass": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. A puffball.",
+      "Por": "Declaração. Um puffball."
     }
   }
 ]

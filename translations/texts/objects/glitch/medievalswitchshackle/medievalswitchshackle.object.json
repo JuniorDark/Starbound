@@ -39,17 +39,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/medievalswitchshackle/medievalswitchshackle.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "One of these chains is not made of iron."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/glitch/medievalswitchshackle/medievalswitchshackle.object": [
         "/novakidDescription"
       ]
     },
@@ -92,6 +81,18 @@
     "Texts": {
       "Eng": "One of these shackles looks suspicious...",
       "Por": "Uma dessas algemas parece suspeita."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/medievalswitchshackle/medievalswitchshackle.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sceptical. One of these chains is not made of iron.",
+      "Por": "Cético. Uma destas correntes não é feita de ferro."
     }
   }
 ]

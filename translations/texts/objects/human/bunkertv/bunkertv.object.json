@@ -75,17 +75,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/bunkertv/bunkertv.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "One of the items on the list is \"fix up the robot\"."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/human/bunkertv/bunkertv.object": [
         "/shortdescription"
       ]
     },
@@ -104,6 +93,18 @@
     "Texts": {
       "Eng": "This appears to display a list of tasks that need completing. Someone is going to be busy.",
       "Por": "Isso parece exibir uma lista de tarefas que precisam ser concluídas. Alguém vai estar ocupado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkertv/bunkertv.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wary. One of the items on the list is \"fix up the robot\".",
+      "Por": "Cauteloso. Um dos itens da lista é \"consertar o robô\"."
     }
   }
 ]

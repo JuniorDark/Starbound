@@ -60,37 +60,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/apex/apexstoragelocker/apexstoragelocker.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/avian/avianstoragelocker/avianstoragelocker.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/floran/floranstoragelocker/floranstoragelocker.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/glitch/glitchstoragelocker/glitchstoragelocker.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/human/humanstoragelocker/humanstoragelocker.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/hylotl/hylotlstoragelocker/hylotlstoragelocker.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/novakid/novakidstoragelocker/novakidstoragelocker.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A metallic storage locker.",
-      "Por": "Um armário de armazenamento metálico."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma solução de armazenamento agradável, espaçosa e montada na parede."
+    ],
     "Files": {
       "objects/apex/apexstoragelocker/apexstoragelocker.object": [
         "/description"
@@ -150,7 +122,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Floran pode guardar coisas no armário."
+    ],
     "Files": {
       "objects/apex/apexstoragelocker/apexstoragelocker.object": [
         "/floranDescription"
@@ -211,6 +185,38 @@
   },
   {
     "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/apexstoragelocker/apexstoragelocker.object": [
+        "/glitchDescription"
+      ],
+      "objects/avian/avianstoragelocker/avianstoragelocker.object": [
+        "/glitchDescription"
+      ],
+      "objects/floran/floranstoragelocker/floranstoragelocker.object": [
+        "/glitchDescription"
+      ],
+      "objects/glitch/glitchstoragelocker/glitchstoragelocker.object": [
+        "/glitchDescription"
+      ],
+      "objects/human/humanstoragelocker/humanstoragelocker.object": [
+        "/glitchDescription"
+      ],
+      "objects/hylotl/hylotlstoragelocker/hylotlstoragelocker.object": [
+        "/glitchDescription"
+      ],
+      "objects/novakid/novakidstoragelocker/novakidstoragelocker.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neutral. A metallic storage locker.",
+      "Por": "Neutro. Um armário metálico."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Um lugar para guardar pertences pessoais."
+    ],
     "Files": {
       "objects/apex/apexstoragelocker/apexstoragelocker.object": [
         "/hylotlDescription"

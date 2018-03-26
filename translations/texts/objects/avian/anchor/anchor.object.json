@@ -75,6 +75,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/anchor/anchor.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. The Glitch make use of anchors like these on their great sailing ships. Why is this one here?",
+      "Por": "Curioso. Os Glitchs fazem uso de âncoras como estes em suas grandes veleiros . Será que é este aqui ?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/anchor/anchor.object": [
         "/floranDescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "That's one heavy lookin' hunk of metal.",
       "Por": "Essa é um pesado pedaço de metal."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avian/anchor/anchor.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The Glitch make use of anchors like these on their great sailing ships. Why is this one here?"
     }
   }
 ]

@@ -27,17 +27,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/woodenlamp1/woodenlamp1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A simple table lamp."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/woodenlamp1/woodenlamp1.object": [
         "/apexDescription"
       ]
     },
@@ -56,6 +45,18 @@
     "Texts": {
       "Eng": "A tiny wooden light powered by electricity.",
       "Por": "Uma pequena luz de madeira alimentada por eletricidade."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodenlamp1/woodenlamp1.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased. A simple table lamp.",
+      "Por": "Satisfeito. Uma lâmpada de mesa simples."
     }
   },
   {

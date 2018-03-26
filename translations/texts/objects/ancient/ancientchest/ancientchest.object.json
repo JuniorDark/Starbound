@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/ancient/ancientchest/ancientchest.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cautious. The structure of this chest is impenetrable to my sensors.",
+      "Por": "Cauteloso. A estrutura desse baú é impenetrável para os meus sensores."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/ancientchest/ancientchest.object": [
         "/floranDescription"
       ]
     },
@@ -69,18 +81,6 @@
     "Texts": {
       "Eng": "That is one old looking chest.",
       "Por": "Esse é mesmo um baú antigo."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/ancient/ancientchest/ancientchest.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The structure of this chest is impenetrable to my sensors.",
-      "Por": "A estrutura desse baú é impenetrável para os meus sensores."
     }
   },
   {

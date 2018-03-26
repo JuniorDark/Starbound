@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Um suporte de parede usado na construção de nave."
+    ],
     "Files": {
       "items/materials/apexshipsupport.matitem": [
         "/description"
@@ -18,6 +20,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/apexshipsupport.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/apexshipsupport.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Informed. Supports like this are often used in ship construction.",
+      "Por": "Informado. Suportes como este são muitas vezes utilizados na construção de naves."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/apexshipsupport.matitem": [
         "/novakiddescription"
       ],
       "tiles/materials/apexshipsupport.material": [
@@ -26,7 +43,7 @@
     },
     "Texts": {
       "Eng": "Made for holdin' spaceships together.",
-      "Por": "Feito para segurar espaçonaves."
+      "Por": "Feito para segurar naves espaciais."
     }
   },
   {
@@ -57,21 +74,6 @@
     "Texts": {
       "Eng": "Ssship sstructural ssupport.",
       "Por": "Sssuporte esstrutural de nave."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/apexshipsupport.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/apexshipsupport.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Supports like this are often used in ship construction.",
-      "Por": "Suportes como esse são usados com frequência na construção de naves."
     }
   }
 ]

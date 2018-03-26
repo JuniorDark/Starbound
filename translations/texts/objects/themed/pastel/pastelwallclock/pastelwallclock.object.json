@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/themed/pastel/pastelwallclock/pastelwallclock.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. This is a very odd shaped clock.",
+      "Por": "Curioso. Este é um relógio em uma forma muito estranha."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/pastel/pastelwallclock/pastelwallclock.object": [
         "/floranDescription"
       ]
     },
@@ -81,18 +93,6 @@
     "Texts": {
       "Eng": "Pastel Wall Clock",
       "Por": "Pastel Wall Clock"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/themed/pastel/pastelwallclock/pastelwallclock.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This is a very odd shaped clock.",
-      "Por": "Este é um relógio com uma forma muito estranha."
     }
   },
   {

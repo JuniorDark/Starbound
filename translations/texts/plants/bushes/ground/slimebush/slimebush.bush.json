@@ -4,7 +4,6 @@
     "Files": {
       "plants/bushes/ground/slimebush/slimebush.bush": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ]
     },
@@ -23,6 +22,18 @@
     "Texts": {
       "Eng": "Ssslimy bush.",
       "Por": "Um arbusto viscoso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/slimebush/slimebush.bush": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. A slimy bush.",
+      "Por": "Relatório. Um arbusto viscoso."
     }
   }
 ]

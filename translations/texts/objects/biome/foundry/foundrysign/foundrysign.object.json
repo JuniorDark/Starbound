@@ -27,23 +27,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/foundry/foundrysign/foundrysign.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A warning sign alluding to fire nearby."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/foundry/foundrysign/foundrysign.object": [
         "/humanDescription"
       ]
     },
     "Texts": {
       "Eng": "Beware of heat hazards.",
       "Por": "Cuidado com os perigos do calor."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/foundry/foundrysign/foundrysign.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. A warning sign alluding to fire nearby.",
+      "Por": "Curioso. Uma placa de aviso, aludindo ao fogo nas proximidades."
     }
   },
   {

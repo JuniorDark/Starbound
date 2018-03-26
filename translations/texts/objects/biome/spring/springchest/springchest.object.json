@@ -75,6 +75,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/spring/springchest/springchest.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cynical. This chest looks innocent. Too innocent, surely.",
+      "Por": "Cínico. Este baú parece inocente. Muito inocente, certamente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/spring/springchest/springchest.object": [
         "/shortdescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "The besst chest a Floran can possess.",
       "Por": "O melhor baú que um Floran pode possuir."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/spring/springchest/springchest.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This chest looks innocent. Too innocent, surely."
     }
   }
 ]

@@ -48,21 +48,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/wreck/wreckpanel1/wreckpanel1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/wreck/wreckpanel2/wreckpanel2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This input panel is completely dead.",
-      "Por": "Este painel de entrada está completamente inoperante."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/wreck/wreckpanel1/wreckpanel1.object": [
         "/hylotlDescription"
       ],
       "objects/wreck/wreckpanel2/wreckpanel2.object": [
@@ -90,7 +75,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Este painel está muito quebrado"
+    ],
     "Files": {
       "objects/wreck/wreckpanel1/wreckpanel1.object": [
         "/floranDescription"
@@ -102,6 +89,21 @@
     "Texts": {
       "Eng": "This panel isss very broken.",
       "Por": "Este painel está muito quebrado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wreck/wreckpanel1/wreckpanel1.object": [
+        "/glitchDescription"
+      ],
+      "objects/wreck/wreckpanel2/wreckpanel2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vexed. This input panel is completely dead.",
+      "Por": "Irritado. Este painel de entrada está completamente morto."
     }
   }
 ]

@@ -26,22 +26,7 @@
     },
     "Texts": {
       "Eng": "A bone.",
-      "Por": "A bone."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "plants/grass/ground/decorative/fleshbone/fleshbone.grass": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "plants/grass/ground/decorative/freebone/freebone.grass": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A long-dead bone.",
-      "Por": "Um osso de algo morto há muito tempo."
+      "Por": "Um osso."
     }
   },
   {
@@ -57,6 +42,21 @@
     "Texts": {
       "Eng": "Floran likely kill this.",
       "Por": "Floran provavelmente matou isso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/fleshbone/fleshbone.grass": [
+        "/glitchDescription"
+      ],
+      "plants/grass/ground/decorative/freebone/freebone.grass": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. A long-dead bone.",
+      "Por": "Afirmação. Um osso morto há muito tempo."
     }
   }
 ]

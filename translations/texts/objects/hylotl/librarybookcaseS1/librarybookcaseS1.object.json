@@ -51,17 +51,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/librarybookcaseS1/librarybookcaseS1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I wish I had time to read more books."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/hylotl/librarybookcaseS1/librarybookcaseS1.object": [
         "/novakidDescription"
       ]
     },
@@ -92,6 +81,18 @@
     "Texts": {
       "Eng": "There are a lot of books here.",
       "Por": "Há muitos livros aqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/librarybookcaseS1/librarybookcaseS1.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wistful. I wish I had time to read more books.",
+      "Por": "Melancólico. Gostaria de ter tempo para ler mais livros."
     }
   }
 ]

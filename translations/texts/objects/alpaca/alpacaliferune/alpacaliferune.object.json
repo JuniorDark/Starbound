@@ -39,18 +39,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alpaca/alpacaliferune/alpacaliferune.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "An old rune that represents the virtue of life.",
-      "Por": "Uma runa antiga que representa a virtude da vida."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alpaca/alpacaliferune/alpacaliferune.object": [
         "/floranDescription"
       ]
     },
@@ -81,6 +69,18 @@
     "Texts": {
       "Eng": "Life Rune",
       "Por": "Life Rune"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alpaca/alpacaliferune/alpacaliferune.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Optimistic. An old rune that represents the virtue of life.",
+      "Por": "Otimista. Uma runa antiga que representa a virtude da vida."
     }
   },
   {

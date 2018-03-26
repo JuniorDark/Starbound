@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/wreck/wreckbed/wreckbed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disgusted. Rust!",
+      "Por": "Enojado. Ferrugem!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wreck/wreckbed/wreckbed.object": [
         "/description"
       ]
     },
@@ -57,18 +69,6 @@
     "Texts": {
       "Eng": "Not a very inviting place to sleep.",
       "Por": "Não é um lugar muito convidativo para dormir."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/wreck/wreckbed/wreckbed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Rust!",
-      "Por": "Ferrugem!"
     }
   },
   {

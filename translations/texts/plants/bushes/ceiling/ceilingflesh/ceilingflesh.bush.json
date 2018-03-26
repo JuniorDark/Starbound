@@ -3,25 +3,13 @@
     "DeniedAlternatives": [],
     "Files": {
       "plants/bushes/ceiling/ceilingflesh/ceilingflesh.bush": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A hanging wad of meat.",
-      "Por": "Um pedaço de carne pendurado."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "plants/bushes/ceiling/ceilingflesh/ceilingflesh.bush": [
         "/description",
         "/shortdescription"
       ]
     },
     "Texts": {
       "Eng": "A quivering lump of flesh.",
-      "Por": "Um pedaço de carne tremendo."
+      "Por": "Um tremendo pedaço de carne."
     }
   },
   {
@@ -34,6 +22,18 @@
     "Texts": {
       "Eng": "Flesssh.",
       "Por": "Carne."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ceiling/ceilingflesh/ceilingflesh.bush": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Revulsion. A hanging wad of meat.",
+      "Por": "Desgosto. Um pacote inclinado de carne."
     }
   }
 ]

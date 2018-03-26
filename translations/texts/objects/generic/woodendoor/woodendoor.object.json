@@ -27,23 +27,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/woodendoor/woodendoor.object": [
-        "/floranDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Floran alsso make similar wooden door.",
-      "Por": "Floran também faz porta de madeira semelhante."
+      "Eng": "Cheerful. It appears to be a handmade door.",
+      "Por": "Alegre. Parece ser uma porta feita à mão."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/woodendoor/woodendoor.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/floranDescription"
       ]
     },
     "Texts": {
-      "Eng": "It appears to be a handmade door."
+      "Eng": "Floran alsso make similar wooden door.",
+      "Por": "Floran também faz porta de madeira semelhante."
     }
   },
   {

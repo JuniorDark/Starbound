@@ -75,17 +75,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/medievalcandle/medievalcandle.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Candlelight, how I have missed it."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/glitch/medievalcandle/medievalcandle.object": [
         "/hylotlDescription"
       ]
     },
@@ -104,6 +93,18 @@
     "Texts": {
       "Eng": "Naked flamesss are too dangerousss!",
       "Por": "Chamasss nuas são muito perigosasss!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/medievalcandle/medievalcandle.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sentimental. Candlelight, how I have missed it.",
+      "Por": "Sentimental. Luz de vela, como eu senti sua falta."
     }
   }
 ]

@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/badgooplush/badgooplush.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A cuddly little goo."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/hylotl/badgooplush/badgooplush.object": [
         "/avianDescription"
       ]
     },
@@ -44,6 +33,18 @@
     "Texts": {
       "Eng": "An adorable goo doll.",
       "Por": "Uma boneca goo adorável."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/badgooplush/badgooplush.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Appreciative. A cuddly little goo.",
+      "Por": "Apreciativo. Uma goo fofinha."
     }
   },
   {

@@ -18,6 +18,23 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/hylotlcounter/hylotlcounter.object": [
+        "/glitchDescription"
+      ],
+      "objects/hylotl/hylotltable/hylotltable.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amused. This piece of Hylotl furniture looks much like one of the Hylotl themselves.",
+      "Por": "Divertido. Esta peça de mobiliário Hylotl parece muito com um dos próprios Hylotl."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Assim como homem-peixe para fazer a mobília parecer exatamente com eles."
+    ],
+    "Files": {
+      "objects/hylotl/hylotlcounter/hylotlcounter.object": [
         "/floranDescription"
       ],
       "objects/hylotl/hylotltable/hylotltable.object": [
@@ -60,21 +77,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/hylotl/hylotlcounter/hylotlcounter.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/hylotl/hylotltable/hylotltable.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This piece of Hylotl furniture looks much like one of the Hylotl themselves."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Nós, Hylotl, estamos intensamente orgulhosos de nossa estética, e assim desfrutamos de criar arte que nos assemelhe."
+    ],
     "Files": {
       "objects/hylotl/hylotlcounter/hylotlcounter.object": [
         "/hylotlDescription"

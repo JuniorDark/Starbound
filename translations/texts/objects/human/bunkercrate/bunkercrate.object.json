@@ -39,17 +39,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/bunkercrate/bunkercrate.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A metal box."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/human/bunkercrate/bunkercrate.object": [
         "/apexDescription",
         "/description"
       ]
@@ -93,6 +82,18 @@
     "Texts": {
       "Eng": "Metal box.",
       "Por": "Caixa de metal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkercrate/bunkercrate.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neutral. A metal box.",
+      "Por": "Neutro. Uma caixa de metal."
     }
   }
 ]

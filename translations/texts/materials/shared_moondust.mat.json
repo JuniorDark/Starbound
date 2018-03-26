@@ -3,6 +3,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/moondust.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/moondust.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Delighted. This moondust is soft to the touch.",
+      "Por": "Encantado. Esta poeira lunar é suave ao toque."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/moondust.matitem": [
         "/florandescription"
       ],
       "tiles/materials/moondust.material": [
@@ -45,7 +60,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Moondust, a coisa que os sonhos são feitos."
+    ],
     "Files": {
       "items/materials/moondust.matitem": [
         "/description"
@@ -57,21 +74,6 @@
     "Texts": {
       "Eng": "Moondust, the thing dreams are made of.",
       "Por": "Poeira lunar, a coisa que os sonhos são feitos."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/moondust.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/moondust.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This moondust is soft to the touch.",
-      "Por": "Esta poeira lunar é suave ao toque."
     }
   }
 ]

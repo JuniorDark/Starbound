@@ -48,6 +48,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/toxictop/toxictopseed.object": [
+        "/glitchDescription"
+      ],
+      "objects/farmables/toxictop/wildtoxictopseed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Perplexed. This plant is toxic to every known species bar penguins.",
+      "Por": "Perplexo. Esta planta é tóxica para todos as espécies de pinguins de bar conhecidas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/toxictop/toxictopseed.object": [
         "/avianDescription"
       ],
       "objects/farmables/toxictop/wildtoxictopseed.object": [
@@ -87,20 +102,6 @@
     "Texts": {
       "Eng": "This plant could make me sick. Or could it cure sickness?",
       "Por": "Esta planta pode me deixar doente. Ou poderia curar a doença?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/farmables/toxictop/toxictopseed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/farmables/toxictop/wildtoxictopseed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This plant is toxic to every known species bar penguins."
     }
   },
   {

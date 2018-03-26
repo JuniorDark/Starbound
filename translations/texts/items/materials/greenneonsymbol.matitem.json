@@ -20,7 +20,7 @@
     },
     "Texts": {
       "Eng": "Floran like green picture.",
-      "Por": "Floran gosta de foto verde."
+      "Por": "Floran gosta de simbolo verde."
     }
   },
   {
@@ -39,12 +39,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/greenneonsymbol.matitem": [
-        "/glitchdescription/glitchEmotedText"
+        "/glitchdescription"
       ]
     },
     "Texts": {
-      "Eng": "This symbol's meaning escapes me.",
-      "Por": "O significado desse símbolo me escapa."
+      "Eng": "Perturbed. This symbol's meaning escapes me.",
+      "Por": "Perturbado. O significado deste símbolo me escapa."
     }
   }
 ]

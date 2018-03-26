@@ -72,29 +72,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/wickerbasket1/wickerbasket1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/glitch/wickerbasket2/wickerbasket2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/glitch/wickerbasket3/wickerbasket3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/glitch/wickerbasket4/wickerbasket4.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/glitch/wickerbasket5/wickerbasket5.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A wicker basket. What's inside I wonder?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/glitch/wickerbasket1/wickerbasket1.object": [
         "/avianDescription"
       ],
       "objects/glitch/wickerbasket2/wickerbasket2.object": [
@@ -113,6 +90,27 @@
     "Texts": {
       "Eng": "A woven basket. Perhaps there are goodies inside.",
       "Por": "Uma cesta tecida. Talvez haja presentes dentro."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/wickerbasket1/wickerbasket1.object": [
+        "/glitchDescription"
+      ],
+      "objects/glitch/wickerbasket2/wickerbasket2.object": [
+        "/glitchDescription"
+      ],
+      "objects/glitch/wickerbasket3/wickerbasket3.object": [
+        "/glitchDescription"
+      ],
+      "objects/glitch/wickerbasket4/wickerbasket4.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enticed. A wicker basket. What's inside I wonder?",
+      "Por": "Seduzido. Uma cesta de vime. O que há dentro eu me pergunto?"
     }
   },
   {
@@ -164,7 +162,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Isto parece um meio esmagável!"
+    ],
     "Files": {
       "objects/glitch/wickerbasket1/wickerbasket1.object": [
         "/novakidDescription"
@@ -184,7 +184,7 @@
     },
     "Texts": {
       "Eng": "This looks kinda smashable!",
-      "Por": "\"Isto parece meio esmagável!"
+      "Por": "Isto parece um meio esmagavel!"
     }
   }
 ]

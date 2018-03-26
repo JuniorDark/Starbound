@@ -15,17 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/sundecor/sundecor.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Avian beliefs are no more ludicrous than those of the Glitch."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avian/sundecor/sundecor.object": [
         "/floranDescription"
       ]
     },
@@ -92,6 +81,18 @@
     "Texts": {
       "Eng": "It's a sun with an Avian face. What does it mean?",
       "Por": "É um sol com um rosto Avian. O que isso significa?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/sundecor/sundecor.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Surprised. Avian beliefs are no more ludicrous than those of the Glitch.",
+      "Por": "Surpreso. As crenças Avian não são mais absurdas do que as dos Glitch."
     }
   },
   {

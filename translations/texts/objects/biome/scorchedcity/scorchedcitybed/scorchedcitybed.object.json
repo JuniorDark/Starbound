@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/scorchedcity/scorchedcitybed/scorchedcitybed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A bed with an appealingly high level of sterility."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/scorchedcity/scorchedcitybed/scorchedcitybed.object": [
         "/description"
       ]
     },
@@ -68,6 +57,18 @@
     "Texts": {
       "Eng": "A simple bed, it will serve it's purpose.",
       "Por": "Uma cama simples, que irá servir a sua finalidade."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/scorchedcity/scorchedcitybed/scorchedcitybed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Calm. A bed with an appealingly high level of sterility.",
+      "Por": "Calmo. Uma cama com um alto nível de esterilidade."
     }
   },
   {

@@ -27,6 +27,30 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/smashabledrink1/smashabledrink1.object": [
+        "/glitchDescription"
+      ],
+      "objects/hylotl/smashabledrink2/smashabledrink2.object": [
+        "/glitchDescription"
+      ],
+      "objects/hylotl/smashabledrink3/smashabledrink3.object": [
+        "/glitchDescription"
+      ],
+      "objects/hylotl/smashabledrink4/smashabledrink4.object": [
+        "/glitchDescription"
+      ],
+      "objects/hylotl/smashabledrink5/smashabledrink5.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mischievous. There's nothing left in the bottle, so it's tempting to smash it.",
+      "Por": "Travesso. Não sobrou nada na garrafa, então é tentador esmagá-la."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/smashabledrink1/smashabledrink1.object": [
         "/floranDescription"
       ],
       "objects/hylotl/smashabledrink2/smashabledrink2.object": [
@@ -79,29 +103,6 @@
     "Texts": {
       "Eng": "The bottle is empty, so what's left to do but smash it?",
       "Por": "A garrafa está vazia, então o que resta fazer senão esmagá-la?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/hylotl/smashabledrink1/smashabledrink1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/hylotl/smashabledrink2/smashabledrink2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/hylotl/smashabledrink3/smashabledrink3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/hylotl/smashabledrink4/smashabledrink4.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/hylotl/smashabledrink5/smashabledrink5.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "There's nothing left in the bottle, so it's tempting to smash it."
     }
   },
   {

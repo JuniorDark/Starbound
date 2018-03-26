@@ -15,17 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hoard/grail/grail.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A chalice of some sort."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/hoard/grail/grail.object": [
         "/apexDescription"
       ]
     },
@@ -92,6 +81,18 @@
     "Texts": {
       "Eng": "Looks like a fancy cup. Is it meant to be special?",
       "Por": "Parece um copo elegante. Isso é para ser especial?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hoard/grail/grail.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. A chalice of some sort.",
+      "Por": "Observador. Um cálice de algum tipo."
     }
   },
   {

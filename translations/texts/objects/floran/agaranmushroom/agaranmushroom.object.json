@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/agaranmushroom/agaranmushroom.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amused. This is a living Agaran, cleverly disguised.",
+      "Por": "Divertido. Este é uma Agaran vivo, habilmente disfarçado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/agaranmushroom/agaranmushroom.object": [
         "/floranDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "Needs more caterpillar.",
       "Por": "Precisa de mais lagarta."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/floran/agaranmushroom/agaranmushroom.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This is a living Agaran, cleverly disguised."
     }
   },
   {

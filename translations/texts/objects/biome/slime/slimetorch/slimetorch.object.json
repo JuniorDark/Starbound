@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/slime/slimetorch/slimetorch.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amused. Slime burns green.",
+      "Por": "Divertido. Slime queima verde."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/slime/slimetorch/slimetorch.object": [
         "/apexDescription"
       ]
     },
@@ -57,17 +69,6 @@
     "Texts": {
       "Eng": "Slime Torch",
       "Por": "Slime Torch"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/slime/slimetorch/slimetorch.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Slime burns green."
     }
   },
   {

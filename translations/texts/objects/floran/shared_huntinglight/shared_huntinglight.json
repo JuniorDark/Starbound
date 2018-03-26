@@ -54,6 +54,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/huntinglight1/huntinglight1.object": [
+        "/glitchDescription"
+      ],
+      "objects/floran/huntinglight2/huntinglight2.object": [
+        "/glitchDescription"
+      ],
+      "objects/floran/huntinglight3/huntinglight3.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. The Floran are able to harness nature most effectively.",
+      "Por": "Impressionado. Os Floran são capaz de aproveitar a natureza de forma mais eficaz."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/huntinglight1/huntinglight1.object": [
         "/floranDescription"
       ],
       "objects/floran/huntinglight2/huntinglight2.object": [
@@ -78,23 +96,6 @@
     "Texts": {
       "Eng": "Such pretty lights.",
       "Por": "Luzes tão bonitas."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/floran/huntinglight1/huntinglight1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/floran/huntinglight2/huntinglight2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/floran/huntinglight3/huntinglight3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The Floran are able to harness nature most effectively."
     }
   },
   {

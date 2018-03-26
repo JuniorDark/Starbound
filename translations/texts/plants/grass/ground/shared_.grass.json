@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma flor bonita."
+    ],
     "Files": {
       "plants/grass/ground/decorative/fancy/fancy.grass": [
         "/description",
@@ -80,66 +82,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "plants/grass/ground/decorative/fancy/fancy.grass": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "plants/grass/ground/decorative/geometric/geometric.grass": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "plants/grass/ground/decorative/r/r.grass": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "plants/grass/ground/decorative/sflower/sflower.grass": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "plants/grass/ground/decorative/spin/spin.grass": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "plants/grass/ground/decorative/stary/stary.grass": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "plants/grass/ground/decorative/sticky/sticky.grass": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "plants/grass/ground/decorative/testflower/testflower.grass": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "plants/grass/ground/decorative/testflower2/testflower2.grass": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "plants/grass/ground/decorative/testflower3/testflower3.grass": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "plants/grass/ground/decorative/testflower4/testflower4.grass": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "plants/grass/ground/decorative/testflower5/testflower5.grass": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "plants/grass/ground/decorative/testflower6/testflower6.grass": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "plants/grass/ground/decorative/testflower7/testflower7.grass": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "plants/grass/ground/decorative/thickpetals/thickpetals.grass": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "plants/grass/ground/drop/blobby/blobby.grass": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "plants/grass/ground/drop/wflower/wflower.grass": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "An attractive flower.",
-      "Por": "Uma flor encantadora."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "plants/grass/ground/decorative/fancy/fancy.grass": [
         "/floranDescription"
       ],
       "plants/grass/ground/decorative/geometric/geometric.grass": [
@@ -194,6 +136,69 @@
     "Texts": {
       "Eng": "Pretty.",
       "Por": "Bonita."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Relatório. Um flor atraente.",
+      "Relatório. Uma flor atraente."
+    ],
+    "Files": {
+      "plants/grass/ground/decorative/fancy/fancy.grass": [
+        "/glitchDescription"
+      ],
+      "plants/grass/ground/decorative/geometric/geometric.grass": [
+        "/glitchDescription"
+      ],
+      "plants/grass/ground/decorative/r/r.grass": [
+        "/glitchDescription"
+      ],
+      "plants/grass/ground/decorative/sflower/sflower.grass": [
+        "/glitchDescription"
+      ],
+      "plants/grass/ground/decorative/spin/spin.grass": [
+        "/glitchDescription"
+      ],
+      "plants/grass/ground/decorative/stary/stary.grass": [
+        "/glitchDescription"
+      ],
+      "plants/grass/ground/decorative/sticky/sticky.grass": [
+        "/glitchDescription"
+      ],
+      "plants/grass/ground/decorative/testflower/testflower.grass": [
+        "/glitchDescription"
+      ],
+      "plants/grass/ground/decorative/testflower2/testflower2.grass": [
+        "/glitchDescription"
+      ],
+      "plants/grass/ground/decorative/testflower3/testflower3.grass": [
+        "/glitchDescription"
+      ],
+      "plants/grass/ground/decorative/testflower4/testflower4.grass": [
+        "/glitchDescription"
+      ],
+      "plants/grass/ground/decorative/testflower5/testflower5.grass": [
+        "/glitchDescription"
+      ],
+      "plants/grass/ground/decorative/testflower6/testflower6.grass": [
+        "/glitchDescription"
+      ],
+      "plants/grass/ground/decorative/testflower7/testflower7.grass": [
+        "/glitchDescription"
+      ],
+      "plants/grass/ground/decorative/thickpetals/thickpetals.grass": [
+        "/glitchDescription"
+      ],
+      "plants/grass/ground/drop/blobby/blobby.grass": [
+        "/glitchDescription"
+      ],
+      "plants/grass/ground/drop/wflower/wflower.grass": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. An attractive flower.",
+      "Por": "Declaração. Uma flor atraente."
     }
   }
 ]

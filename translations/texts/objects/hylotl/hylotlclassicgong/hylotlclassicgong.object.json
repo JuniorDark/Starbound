@@ -87,23 +87,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/hylotlclassicgong/hylotlclassicgong.object": [
-        "/shortdescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Traditional Gong",
-      "Por": "Traditional Gong"
+      "Eng": "Thoughtful. While the shape impairs the sound, it is pleasing to the eye.",
+      "Por": "Pensativo. Enquanto a forma prejudica o som, é agradável aos olhos."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/hylotlclassicgong/hylotlclassicgong.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "While the shape impairs the sound, it is pleasing to the eye."
+      "Eng": "Traditional Gong",
+      "Por": "Traditional Gong"
     }
   }
 ]

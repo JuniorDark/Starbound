@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/space/stationtradesign/stationtradesignmedic.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Informed. The image of this symbol is meant to indicate a medical station.",
+      "Por": "Informado. A imagem deste símbolo pretende indicar uma estação médica."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/stationtradesign/stationtradesignmedic.object": [
         "/shortdescription"
       ]
     },
@@ -57,18 +69,6 @@
     "Texts": {
       "Eng": "Signs like this usually mean there is a nearby medical station.",
       "Por": "Placas como esta geralmente significam que há uma estação médica próxima."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/space/stationtradesign/stationtradesignmedic.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The image of this symbol is meant to indicate a medical station.",
-      "Por": "A imagem deste símbolo serve para indicar uma estação médica."
     }
   },
   {

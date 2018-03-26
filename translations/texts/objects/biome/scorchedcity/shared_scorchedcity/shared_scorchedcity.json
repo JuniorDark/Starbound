@@ -33,12 +33,10 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/scorchedcity/scorchedcitycrate/scorchedcitycrate.object": [
-        "/apexDescription",
-        "/glitchDescription/glitchEmotedText"
+        "/apexDescription"
       ],
       "objects/biome/scorchedcity/scorchedcitysmallcrate/scorchedcitysmallcrate.object": [
-        "/apexDescription",
-        "/glitchDescription/glitchEmotedText"
+        "/apexDescription"
       ]
     },
     "Texts": {
@@ -59,6 +57,21 @@
     "Texts": {
       "Eng": "A rusty storage box.",
       "Por": "Uma caixa de armazenamento enferrujada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/scorchedcity/scorchedcitycrate/scorchedcitycrate.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/scorchedcity/scorchedcitysmallcrate/scorchedcitysmallcrate.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cautious. A rusty looking crate.",
+      "Por": "Cauteloso. Uma caixa enferrujada."
     }
   },
   {

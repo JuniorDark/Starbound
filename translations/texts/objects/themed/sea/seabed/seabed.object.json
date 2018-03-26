@@ -3,18 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/themed/sea/seabed/seabed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A bed fit for a Hylotl king.",
-      "Por": "Uma cama adequada para um rei Hylotl."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/themed/sea/seabed/seabed.object": [
         "/description"
       ]
     },
@@ -45,6 +33,18 @@
     "Texts": {
       "Eng": "Guaranteed to enduce sub-aquatic slumber.",
       "Por": "Garantido de induzir o sono subaquático."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/sea/seabed/seabed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Proud. A bed fit for a Hylotl king.",
+      "Por": "Orgulhoso. Uma cama adequada para um rei Hylotl."
     }
   },
   {

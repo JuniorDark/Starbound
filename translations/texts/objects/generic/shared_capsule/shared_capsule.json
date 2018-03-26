@@ -21,7 +21,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma cápsula. Estas, muitas vezes contêm suprimentos."
+    ],
     "Files": {
       "objects/generic/capsulebig/capsulebig.object": [
         "/apexDescription"
@@ -42,7 +44,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma grande cápsula quebrável. Pergunto o que há dentro."
+    ],
     "Files": {
       "objects/generic/capsulebig/capsulebig.object": [
         "/description"
@@ -57,27 +61,32 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Destrutivo. É difícil resistir ao desejo de quebrar esta cápsula."
+    ],
     "Files": {
       "objects/generic/capsulebig/capsulebig.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/generic/capsulemed/capsulemed.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/generic/capsulesmall/capsulesmall.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/generic/capsulespace/capsulespace.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "It is difficult to resist the urge to break this capsule."
+      "Eng": "Destructive. It is difficult to resist the urge to break this capsule.",
+      "Por": "Destrutivo. É difícil resistir ao desejo de quebrar essa cápsula."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Esta cápsula deve ser perfeita para a prática de tiro ao alvo."
+    ],
     "Files": {
       "objects/generic/capsulebig/capsulebig.object": [
         "/novakidDescription"

@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/themed/steampunk/steampunkdesk/steampunkdesk.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Concerned. There appears to be a metal head on this desk.",
+      "Por": "Preocupado. Parece haver uma cabeça de metal nesta mesa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/steampunk/steampunkdesk/steampunkdesk.object": [
         "/floranDescription"
       ]
     },
@@ -57,18 +69,6 @@
     "Texts": {
       "Eng": "Steampunk Desk",
       "Por": "Steampunk Desk"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/themed/steampunk/steampunkdesk/steampunkdesk.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "There appears to be a metal head on this desk.",
-      "Por": "Parece haver uma cabeça de metal nesta mesa."
     }
   },
   {

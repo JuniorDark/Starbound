@@ -229,7 +229,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "dela"
+    ],
     "Files": {
       "quests/quests.config": [
         "/pronouns/female/capitalObject",
@@ -387,7 +389,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "si mesmos"
+    ],
     "Files": {
       "quests/quests.config": [
         "/pronouns/neutral/capitalReflexive",
@@ -400,7 +404,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "ele"
+    ],
     "Files": {
       "quests/quests.config": [
         "/pronouns/neutral/capitalSubject",

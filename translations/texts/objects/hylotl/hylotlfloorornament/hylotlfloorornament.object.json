@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/hylotlfloorornament/hylotlfloorornament.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. It appears to be an orb with living frog spawn.",
+      "Por": "Curioso. Parece ser um esfera com girinos de sapo vivo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/hylotlfloorornament/hylotlfloorornament.object": [
         "/shortdescription"
       ]
     },
@@ -45,17 +57,6 @@
     "Texts": {
       "Eng": "I can see the precious frog spawn swimming around inside. A celebration of Hylotl life.",
       "Por": "Posso ver os preciosos girinos nadando por dentro. Uma celebração da vida Hylotl."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/hylotl/hylotlfloorornament/hylotlfloorornament.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "It appears to be an orb with living frog spawn."
     }
   },
   {

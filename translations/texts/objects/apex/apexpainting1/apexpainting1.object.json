@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/apexpainting1/apexpainting1.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Distrusting. Inaccurate painting suspected.",
+      "Por": "Desconfiando. Pintura imprecisa suspeita."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/apexpainting1/apexpainting1.object": [
         "/shortdescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "I don't think this guy is living up to his image.",
       "Por": "Eu não acho que esse cara está vivendo de acordo com sua imagem."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/apex/apexpainting1/apexpainting1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Inaccurate painting suspected."
     }
   },
   {

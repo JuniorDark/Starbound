@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/medievalbookcase/medievalbookcase.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intrigued. The Glitch have not produced many books. I wonder if there are any here.",
+      "Por": "Intrigado. Os Glitch não produziram muitos livros. Eu me pergunto se há algum aqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/medievalbookcase/medievalbookcase.object": [
         "/shortdescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "Perhaps there are some great legends in these old books.",
       "Por": "Talvez existam algumas grandes lendas nestes livros antigos."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/glitch/medievalbookcase/medievalbookcase.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The Glitch have not produced many books. I wonder if there are any here."
     }
   },
   {

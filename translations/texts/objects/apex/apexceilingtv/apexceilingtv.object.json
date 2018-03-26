@@ -75,6 +75,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/apexceilingtv/apexceilingtv.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sympathetic. These creatures have less freedom than the Glitch.",
+      "Por": "Simpático. Essas criaturas têm menos liberdade do que os Glitch."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/apexceilingtv/apexceilingtv.object": [
         "/hylotlDescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "There is one of these in every Apex home. They're full of 'educational' broadcasts. If you watch long enough you might spot an image of yourself... watching the television.",
       "Por": "Há uma destas em cada casa dos Apex. Elas estão cheias de transmissões \"educacionais\". Se você assistir tempo suficiente você pode ver uma imagem de si mesmo... assistindo a televisão."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/apex/apexceilingtv/apexceilingtv.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "These creatures have less freedom than the Glitch."
     }
   }
 ]

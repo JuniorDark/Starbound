@@ -51,12 +51,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/new_stock2.questtemplate": [
-        "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText"
+        "/scriptConfig/generatedText/text/default/glitch/1"
       ]
     },
     "Texts": {
-      "Eng": "I am happy to announce that I will now stock a <newItem> as part of my regular inventory. Thank you for your help!",
-      "Por": "Estou feliz em anunciar que agora irei estocar um <newItem> como parte de meu inventário regular. Obrigado pela ajuda!"
+      "Eng": "Hopeful. If you speak to ^orange;<target>^white; at the ^orange;<spawnPoint>^white;<spawnPoint.direction> <target.pronoun.subject> might have the materials I need to create a new item of stock. Please ^green;see if <target.pronoun.subject> will accept ^orange;<tradedItems> ^white;in exchange",
+      "Por": "Esperançoso. Se você falar com ^orange;<target>^white; no ^orange;<spawnPoint> ^white; <spawnPoint.direction> <target.pronoun.subject> pode ter os materiais que eu preciso para criar um novo item de estoque. Por favor ^green;veja se <target.pronoun.subject> aceitará ^orange;<tradedItems> ^white;em troca"
     }
   },
   {
@@ -87,12 +87,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/new_stock2.questtemplate": [
-        "/scriptConfig/generatedText/text/default/glitch/1/glitchEmotedText"
+        "/scriptConfig/generatedText/text/default/glitch/0"
       ]
     },
     "Texts": {
-      "Eng": "If you speak to ^orange;<target>^white; at the ^orange;<spawnPoint>^white;<spawnPoint.direction> <target.pronoun.subject> might have the materials I need to create a new item of stock. Please ^green;see if <target.pronoun.subject> will accept ^orange;<tradedItems> ^white;in exchange",
-      "Por": "Se você falar com ^orange;<target>^white; no ^orange;<spawnPoint> ^white; <spawnPoint.direction> <target.pronoun.subject> pode ter os materiais que eu preciso para criar um novo item de estoque. Por favor ^green;veja se <target.pronoun.subject> aceitará ^orange;<tradedItems> ^white;em troca"
+      "Eng": "Jealous. The merchant known as ^orange;<target>^white; is a popular fellow... Maybe you could ^green;deliver ^orange;<tradedItems>^green; to <target.pronoun.object> at the ^orange;<spawnPoint>^white;<spawnPoint.direction> in exchange for the supplies I need?",
+      "Por": "Ciumento. O comerciante conhecido como ^orange;<target>^white; é um cara popular... Talvez você possa ^green;entregar ^orange;<tradedItems>^green; para <target.pronoun.object> no ^orange;<spawnPoint> ^white;<spawnPoint.direction> em troca dos suprimentos que eu preciso?"
     }
   },
   {
@@ -135,6 +135,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/new_stock2.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Overjoyed. I am happy to announce that I will now stock a <newItem> as part of my regular inventory. Thank you for your help!",
+      "Por": "Felicíssimo. Estou feliz em anunciar que agora irei estocar um <newItem> como parte de meu inventário regular. Obrigado pela ajuda!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/new_stock2.questtemplate": [
         "/scriptConfig/generatedText/completionText/default/default/0"
       ]
     },
@@ -159,12 +171,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/new_stock2.questtemplate": [
-        "/scriptConfig/generatedText/text/default/glitch/0/glitchEmotedText"
+        "/scriptConfig/generatedText/completionText/default/glitch/1"
       ]
     },
     "Texts": {
-      "Eng": "The merchant known as ^orange;<target>^white; is a popular fellow... Maybe you could ^green;deliver ^orange;<tradedItems>^green; to <target.pronoun.object> at the ^orange;<spawnPoint>^white;<spawnPoint.direction> in exchange for the supplies I need?",
-      "Por": "O comerciante conhecido como ^orange;<target>^white; é um cara popular... Talvez você possa ^green;entregar ^orange;<tradedItems>^green; para <target.pronoun.object> no ^orange;<spawnPoint> ^white;<spawnPoint.direction> em troca dos suprimentos que eu preciso?"
+      "Eng": "Thrilled. You did it! Now I will always have a <newItem> in stock alongside my exisiting range of products.",
+      "Por": "Emocionado. Você conseguiu! Agora eu sempre terei um <newItem> em estoque juntamente com minha variedade existente de produtos."
     }
   },
   {
@@ -177,18 +189,6 @@
     "Texts": {
       "Eng": "When the town hearsss that Floran's shop has a new <newItem>, Floran is sure they will be queue out the door!",
       "Por": "Quando a cidade ouvir que loja de Floran tem um novo <newItem>, Floran tem certeza que eles farão fila para fora da porta!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/new_stock2.questtemplate": [
-        "/scriptConfig/generatedText/completionText/default/glitch/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "You did it! Now I will always have a <newItem> in stock alongside my exisiting range of products.",
-      "Por": "Você conseguiu! Agora eu sempre terei um <newItem> em estoque juntamente com minha variedade existente de produtos."
     }
   },
   {

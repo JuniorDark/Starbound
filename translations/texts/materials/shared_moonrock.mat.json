@@ -3,6 +3,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/moonrock.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/moonrock.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Deductive. This rock is lunar in nature.",
+      "Por": "Dedutivo. Esta rocha é lunar de natureza."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/moonrock.matitem": [
         "/florandescription"
       ],
       "tiles/materials/moonrock.material": [
@@ -42,21 +57,6 @@
     "Texts": {
       "Eng": "Some dry n' dusty lookin' moonrock.",
       "Por": "Algumas rochas lunares secas e poeirentas."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/moonrock.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/moonrock.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This rock is lunar in nature.",
-      "Por": "Esta rocha é de natureza lunar."
     }
   },
   {

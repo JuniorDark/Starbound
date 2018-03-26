@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/ice/icedoor/icedoor.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis. The ice is layered, making it hard to break this door down.",
+      "Por": "Análise. O gelo está em camadas, tornando difícil arrombar esta porta."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/ice/icedoor/icedoor.object": [
         "/floranDescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "Standing by this door for too long makes me shiver.",
       "Por": "Ficar perto desta porta por muito tempo me faz tremer."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/ice/icedoor/icedoor.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The ice is layered, making it hard to break this door down."
     }
   },
   {

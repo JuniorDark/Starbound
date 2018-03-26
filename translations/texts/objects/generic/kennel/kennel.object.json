@@ -63,6 +63,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/kennel/kennel.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Happy. This kennel could house an adorable robot dog.",
+      "Por": "Feliz. Este canil poderia abrigar um cão robô adorável."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/kennel/kennel.object": [
         "/shortdescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "This crude house smells of wet dog.",
       "Por": "Esta casa cheira a cachorro molhado."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/kennel/kennel.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This kennel could house an adorable robot dog."
     }
   }
 ]

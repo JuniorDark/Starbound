@@ -4,17 +4,14 @@
     "Files": {
       "plants/grass/ground/decorative/waterplant/waterplant.grass": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ],
       "plants/grass/ground/decorative/waterplant2/waterplant2.grass": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ],
       "plants/grass/ground/decorative/waterplant3/waterplant3.grass": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ]
     },
@@ -39,6 +36,24 @@
     "Texts": {
       "Eng": "Ssswimmy plant.",
       "Por": "Uma planta embaçada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/waterplant/waterplant.grass": [
+        "/glitchDescription"
+      ],
+      "plants/grass/ground/decorative/waterplant2/waterplant2.grass": [
+        "/glitchDescription"
+      ],
+      "plants/grass/ground/decorative/waterplant3/waterplant3.grass": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. An underwater plant.",
+      "Por": "Relatório. Uma planta subaquática."
     }
   }
 ]

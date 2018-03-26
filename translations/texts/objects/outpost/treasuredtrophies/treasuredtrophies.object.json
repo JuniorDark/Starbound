@@ -15,17 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/treasuredtrophies/treasuredtrophies.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A shop that barters for objects rather than pixels?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/outpost/treasuredtrophies/treasuredtrophies.object": [
         "/description"
       ]
     },
@@ -86,6 +75,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/treasuredtrophies/treasuredtrophies.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intrigued. A shop that barters for objects rather than pixels?",
+      "Por": "Intrigado. Uma loja que negocia por objetos ao invés de pixels?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/treasuredtrophies/treasuredtrophies.object": [
         "/floranDescription"
       ]
     },
@@ -95,7 +96,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Troféus Valiosos"
+    ],
     "Files": {
       "objects/outpost/treasuredtrophies/treasuredtrophies.object": [
         "/interactData/paneLayoutOverride/windowtitle/title",
@@ -104,7 +107,7 @@
     },
     "Texts": {
       "Eng": "Treasured Trophies",
-      "Por": "Troféus Valiosos"
+      "Por": "Treasured Trophies"
     }
   },
   {

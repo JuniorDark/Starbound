@@ -18,6 +18,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/tar.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/tar.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cautious. This tar is thick and very sticky.",
+      "Por": "Cauteloso. Este piche é espesso e muito pegajoso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/tar.matitem": [
         "/florandescription"
       ],
       "tiles/materials/tar.material": [
@@ -30,7 +45,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Piche espesso. Só de olhar para ele se sente pegajoso."
+    ],
     "Files": {
       "items/materials/tar.matitem": [
         "/description"
@@ -42,21 +59,6 @@
     "Texts": {
       "Eng": "Thick, rancid tar. Just looking at it feels sticky.",
       "Por": "Piche espesso. Só de olhar para ele parece pegajoso."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/tar.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/tar.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This tar is thick and very sticky.",
-      "Por": "Este piche é grosso e muito pegajoso."
     }
   }
 ]

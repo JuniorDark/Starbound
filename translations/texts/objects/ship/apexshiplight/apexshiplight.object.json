@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/ship/apexshiplight/apexshiplight.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. This lighting fixture generates more light than heat.",
+      "Por": "Impressionado. Este dispositivo de iluminação gera mais luz do que calor."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/apexshiplight/apexshiplight.object": [
         "/floranDescription"
       ]
     },
@@ -69,18 +81,6 @@
     "Texts": {
       "Eng": "That's one bright lightbulb.",
       "Por": "É uma lâmpada brilhante."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/ship/apexshiplight/apexshiplight.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This lighting fixture generates more light than heat.",
-      "Por": "Esta luminária gera mais luz que calor."
     }
   }
 ]

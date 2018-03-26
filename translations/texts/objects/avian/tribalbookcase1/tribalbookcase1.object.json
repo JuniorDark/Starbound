@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/tribalbookcase1/tribalbookcase1.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neutral. This bookcase looks home made.",
+      "Por": "Neutro. Esta estante parece feita em casa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/tribalbookcase1/tribalbookcase1.object": [
         "/avianDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "This bookcase appears to be the product of someone's hobby.",
       "Por": "Esta estante parece ser o produto do passatempo de alguém."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avian/tribalbookcase1/tribalbookcase1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This bookcase looks home made."
     }
   },
   {

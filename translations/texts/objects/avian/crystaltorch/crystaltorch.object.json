@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/crystaltorch/crystaltorch.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intrigued. This crystal appears to float, generating its own gravitational field and also produces its own light.",
+      "Por": "Intrigado. Este cristal parece flutuar, gerando seu próprio campo gravitacional e também produzindo sua própria luz."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/crystaltorch/crystaltorch.object": [
         "/hylotlDescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "The crystal is floating in place. It appears to be generating the light.",
       "Por": "O cristal está flutuando no lugar. Parece estar gerando a luz."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avian/crystaltorch/crystaltorch.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This crystal appears to float, generating its own gravitational field and also produces its own light."
     }
   },
   {

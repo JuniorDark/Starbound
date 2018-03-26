@@ -33,6 +33,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/cactiblock.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/cactiblock.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cautious. This construction block has been made from prickly cactus.",
+      "Por": "Cuidado. Este bloco de construção foi feito de um cacto espinhoso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/cactiblock.matitem": [
         "/florandescription"
       ],
       "tiles/materials/cactiblock.material": [
@@ -57,21 +72,6 @@
     "Texts": {
       "Eng": "It's made outta cactus. Better not lean against this.",
       "Por": "Foi feito de cacto. Melhor não encostar nisso."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/cactiblock.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/cactiblock.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This construction block has been made from prickly cactus.",
-      "Por": "Este bloco de construção foi feito de cacto espinhoso."
     }
   }
 ]

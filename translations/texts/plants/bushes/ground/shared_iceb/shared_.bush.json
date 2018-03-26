@@ -4,12 +4,10 @@
     "Files": {
       "plants/bushes/ground/iceblocks/iceblocks.bush": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ],
       "plants/bushes/ground/icebush/icebush.bush": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ]
     },
@@ -31,6 +29,21 @@
     "Texts": {
       "Eng": "Cold ice!",
       "Por": "Gelo frio!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/iceblocks/iceblocks.bush": [
+        "/glitchDescription"
+      ],
+      "plants/bushes/ground/icebush/icebush.bush": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. A block of ice.",
+      "Por": "Relatório. Um bloco de gelo."
     }
   }
 ]

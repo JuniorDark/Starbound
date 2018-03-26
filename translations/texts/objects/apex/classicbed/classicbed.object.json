@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/classicbed/classicbed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Comfortable. This bed does wonderful things to my sensors.",
+      "Por": "Confortável. Esta cama faz coisas maravilhosas para os meus sensores."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/classicbed/classicbed.object": [
         "/avianDescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "Such finery, but no match for Hylotl craftsmanship.",
       "Por": "belos adornos, mas não é páreo para o artesanato Hylotl."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/apex/classicbed/classicbed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This bed does wonderful things to my sensors."
     }
   },
   {

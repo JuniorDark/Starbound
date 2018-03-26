@@ -33,6 +33,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/florancabinet1/florancabinet1.object": [
+        "/glitchDescription"
+      ],
+      "objects/floran/florancabinet2/florancabinet2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frightened. The fangs on this cabinet are razor sharp.",
+      "Por": "Assustado. As presas neste armário são afiadas como navalha."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/florancabinet1/florancabinet1.object": [
         "/novakidDescription"
       ],
       "objects/floran/florancabinet2/florancabinet2.object": [
@@ -57,20 +72,6 @@
     "Texts": {
       "Eng": "The fangs of some poor creature adorn this cabinet.",
       "Por": "As presas de alguma pobre criatura decoram este gabinete."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/floran/florancabinet1/florancabinet1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/floran/florancabinet2/florancabinet2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The fangs on this cabinet are razor sharp."
     }
   },
   {

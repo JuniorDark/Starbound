@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "tiles/materials/rainbowwood.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. Unrefined rainbow wood.",
+      "Por": "Afirmação. Rainbow Wood não refinada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/rainbowwood.material": [
         "/shortdescription"
       ]
     },
@@ -27,24 +39,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "tiles/materials/rainbowwood.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Unrefined rainbow wood.",
-      "Por": "Madeira arco-íris não refinada."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "tiles/materials/rainbowwood.material": [
         "/floranDescription"
       ]
     },
     "Texts": {
       "Eng": "Unssstabbed rainbow wood.",
-      "Por": "Madeira arco-íris não esssfaqueada."
+      "Por": "Rainbow Wood não esssfaqueada."
     }
   }
 ]

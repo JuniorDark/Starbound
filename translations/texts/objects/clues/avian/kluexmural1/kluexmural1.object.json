@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/clues/avian/kluexmural1/kluexmural1.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intrigued. This mural appears to describe a temple of ancient treasures.",
+      "Por": "Intrigado. Este mural parece descrever um templo de tesouros antigos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/clues/avian/kluexmural1/kluexmural1.object": [
         "/shortdescription"
       ]
     },
@@ -45,17 +57,6 @@
     "Texts": {
       "Eng": "This curious mural tells a tale of an ancient Avian temple, filled with riches.",
       "Por": "Este mural curioso conta um conto de um antigo templo Avian, cheio de riquezas."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/clues/avian/kluexmural1/kluexmural1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This mural appears to describe a temple of ancient treasures."
     }
   },
   {

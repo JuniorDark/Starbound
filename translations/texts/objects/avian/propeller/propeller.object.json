@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/propeller/propeller.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. These propellers must spin very quickly to keep an entire ship in the air.",
+      "Por": "Atento. Essas hélices devem girar muito rapidamente para manter um navio inteiro no ar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/propeller/propeller.object": [
         "/shortdescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "The propeller is very loud.",
       "Por": "A hélice é muito alta."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avian/propeller/propeller.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "These propellers must spin very quickly to keep an entire ship in the air."
     }
   },
   {

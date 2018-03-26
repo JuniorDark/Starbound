@@ -18,14 +18,15 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/tomato/tomatoseed.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/farmables/tomato/wildtomatoseed.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Rotten tomatoes make for good projectiles."
+      "Eng": "Mischievous. Rotten tomatoes make for good projectiles.",
+      "Por": "Pernicioso. Tomates podres fazem bons projéteis."
     }
   },
   {

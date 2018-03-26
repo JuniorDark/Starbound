@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Um impulsionador, as asas de uma nave."
+    ],
     "Files": {
       "objects/ship/boosters/bigboosterflame/bigboosterflame.object": [
         "/avianDescription"
@@ -65,11 +67,13 @@
     },
     "Texts": {
       "Eng": "A booster, the wings of a ship.",
-      "Por": "Um propulsor, as asas de uma nave."
+      "Por": "Um propulsor, as asas de um nave."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Um impulsionador. Estes são conhecidos por mal funcionamento e explodir."
+    ],
     "Files": {
       "objects/ship/boosters/bigboosterflame/bigboosterflame.object": [
         "/apexDescription"
@@ -134,7 +138,78 @@
     },
     "Texts": {
       "Eng": "A booster. These have been known to malfunction and explode.",
-      "Por": "Um propulsor. Estes têm sido conhecido por mau funcionamento e explodir."
+      "Por": "Um propulsor. Estes têm sido conhecido por funcionar mal e explodir."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Analisar. Temperatura muito alta para medir."
+    ],
+    "Files": {
+      "objects/ship/boosters/bigboosterflame/bigboosterflame.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/boosters/bigboosterflame/bigboosterflameavian.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/boosters/bigboosterflame/bigboosterflameglitch.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/boosters/bigboosterflame/bigboosterflamehuman.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/boosters/bigboosterflame/encounterbigboosterflame.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflame.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflameapex.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflameapex2.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflameapex3.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflamehuman2.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflamehuman3.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/boosters/boosterflame/boosterflamenovakid.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/boosters/boosterflame/encounterboosterflame.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/boosters/boosterflamehuman/boosterflamehuman.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/boosters/boosterflamehuman/encounterboosterflamehuman.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/boosters/smallboosterflame/encountersmallboosterflame.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/boosters/smallboosterflame/encountersmallboosterflame2.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/boosters/smallboosterflame/smallboosterflame.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/boosters/smallboosterflame/smallboosterflameglitch.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/boosters/smallboosterflame/smallboosterflamehuman2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analyse. Temperature too high to measure.",
+      "Por": "Analítico. Temperatura muito alta para medir."
     }
   },
   {
@@ -207,7 +282,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Pergunto-me quão rapidamente que iria cozinhar um hambúrguer."
+    ],
     "Files": {
       "objects/ship/boosters/bigboosterflame/bigboosterflame.object": [
         "/description"
@@ -345,7 +422,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Fogo assustador"
+    ],
     "Files": {
       "objects/ship/boosters/bigboosterflame/bigboosterflame.object": [
         "/floranDescription"
@@ -414,76 +493,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/ship/boosters/bigboosterflame/bigboosterflame.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/boosters/bigboosterflame/bigboosterflameavian.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/boosters/bigboosterflame/bigboosterflameglitch.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/boosters/bigboosterflame/bigboosterflamehuman.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/boosters/bigboosterflame/encounterbigboosterflame.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/boosters/boosterflame/boosterflame.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/boosters/boosterflame/boosterflameapex.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/boosters/boosterflame/boosterflameapex2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/boosters/boosterflame/boosterflameapex3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/boosters/boosterflame/boosterflamehuman2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/boosters/boosterflame/boosterflamehuman3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/boosters/boosterflame/boosterflamenovakid.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/boosters/boosterflame/encounterboosterflame.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/boosters/boosterflamehuman/boosterflamehuman.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/boosters/boosterflamehuman/encounterboosterflamehuman.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/boosters/smallboosterflame/encountersmallboosterflame.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/boosters/smallboosterflame/encountersmallboosterflame2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/boosters/smallboosterflame/smallboosterflame.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/boosters/smallboosterflame/smallboosterflameglitch.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/boosters/smallboosterflame/smallboosterflamehuman2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Temperature too high to measure.",
-      "Por": "Temperatura muito alta para medir."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Esta coisa é alimenta por combustível."
+    ],
     "Files": {
       "objects/ship/boosters/bigboosterflame/bigboosterflame.object": [
         "/humanDescription"
@@ -548,7 +560,7 @@
     },
     "Texts": {
       "Eng": "This thing eats through fuel.",
-      "Por": "Esta coisa é alimentada por combustível"
+      "Por": "Esta coisa se alimenta de combustível"
     }
   }
 ]

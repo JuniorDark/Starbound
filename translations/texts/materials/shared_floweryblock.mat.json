@@ -18,6 +18,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/floweryblock.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/floweryblock.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Delighted. This arrangement of flowers is pleasing.",
+      "Por": "Encantado. Este arranjo de flores é agradável."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/floweryblock.matitem": [
         "/shortdescription"
       ],
       "tiles/materials/floweryblock.material": [
@@ -57,21 +72,6 @@
     "Texts": {
       "Eng": "Thesse flowerss look healthy.",
       "Por": "Estass floress parecem saudáveis."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/floweryblock.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/floweryblock.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This arrangement of flowers is pleasing.",
-      "Por": "Este arranjo de flores é agradável."
     }
   }
 ]

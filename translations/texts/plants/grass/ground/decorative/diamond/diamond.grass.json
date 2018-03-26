@@ -4,7 +4,6 @@
     "Files": {
       "plants/grass/ground/decorative/diamond/diamond.grass": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ]
     },
@@ -23,6 +22,18 @@
     "Texts": {
       "Eng": "Ssshiny diamonds.",
       "Por": "Diamantes brilhantes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/diamond/diamond.grass": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. A diamond flower.",
+      "Por": "Relatório. Uma flor de diamante."
     }
   }
 ]

@@ -1,21 +1,24 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Inspirado. Módulo de criação ativado."
+    ],
     "Files": {
       "objects/crafting/upgradeablecraftingobjects/craftingfurniture/craftingfurniture.object": [
-        "/glitchDescription/glitchEmotedText",
-        "/upgradeStages/0/itemSpawnParameters/glitchDescription/glitchEmotedText",
-        "/upgradeStages/1/itemSpawnParameters/glitchDescription/glitchEmotedText"
+        "/glitchDescription",
+        "/upgradeStages/0/itemSpawnParameters/glitchDescription",
+        "/upgradeStages/1/itemSpawnParameters/glitchDescription"
       ],
       "objects/crafting/upgradeablecraftingobjects/inventorstable/inventorstable.object": [
-        "/glitchDescription/glitchEmotedText",
-        "/upgradeStages/0/itemSpawnParameters/glitchDescription/glitchEmotedText",
-        "/upgradeStages/1/itemSpawnParameters/glitchDescription/glitchEmotedText",
-        "/upgradeStages/2/itemSpawnParameters/glitchDescription/glitchEmotedText"
+        "/glitchDescription",
+        "/upgradeStages/0/itemSpawnParameters/glitchDescription",
+        "/upgradeStages/1/itemSpawnParameters/glitchDescription",
+        "/upgradeStages/2/itemSpawnParameters/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Crafting module activated."
+      "Eng": "Inspired. Crafting module activated.",
+      "Por": "Inspirado. Módulo de fabricação ativado."
     }
   }
 ]

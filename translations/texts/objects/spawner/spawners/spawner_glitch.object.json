@@ -3,6 +3,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/spawner/spawners/spawner_glitch.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Encouraged. This technology could allow our species to grow exponentially.",
+      "Por": "Encorajado. Esta tecnologia poderia permitir que a nossa espécie cresça exponencialmente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/spawner/spawners/spawner_glitch.object": [
         "/floranDescription"
       ]
     },
@@ -81,18 +93,6 @@
     "Texts": {
       "Eng": "Spawn your very own Glitch villager!",
       "Por": "Spawne seu próprio aldeão Glitch!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/spawner/spawners/spawner_glitch.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This technology could allow our species to grow exponentially.",
-      "Por": "Esta tecnologia poderia permitir que a nossa espécie cresça exponencialmente."
     }
   }
 ]

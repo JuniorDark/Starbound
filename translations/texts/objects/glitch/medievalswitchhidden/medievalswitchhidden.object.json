@@ -27,23 +27,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/medievalswitchhidden/medievalswitchhidden.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A strangely places tile."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/glitch/medievalswitchhidden/medievalswitchhidden.object": [
         "/shortdescription"
       ]
     },
     "Texts": {
       "Eng": "Grey Hidden Switch",
       "Por": "Grey Hidden Switch"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/medievalswitchhidden/medievalswitchhidden.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Suspicious. A strangely places tile.",
+      "Por": "Suspeito. Um azulejo estranhamente colocado."
     }
   },
   {

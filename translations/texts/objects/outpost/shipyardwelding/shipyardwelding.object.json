@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/shipyardwelding/shipyardwelding.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fascinated. I wonder what that penguin is up to?",
+      "Por": "Fascinado. Eu me pergunto o que esse pinguim esta fazendo?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/shipyardwelding/shipyardwelding.object": [
         "/description"
       ]
     },
@@ -45,17 +57,6 @@
     "Texts": {
       "Eng": "I cannot tell if he is building or dismantling that object.",
       "Por": "Eu não posso dizer se ele está construindo ou desmontando esse objeto."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/outpost/shipyardwelding/shipyardwelding.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I wonder what that penguin is up to?"
     }
   },
   {

@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/arttrophies/paintinggothic/paintinggothic.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Deductive. This must depict humanity before they were known to the rest of the universe.",
+      "Por": "Dedutivo. Isso deve representar a humanidade antes de serem conhecidos pelo resto do universo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/arttrophies/paintinggothic/paintinggothic.object": [
         "/shortdescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "They appear to be... human?",
       "Por": "Eles parecem ser... humanos?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/arttrophies/paintinggothic/paintinggothic.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This must depict humanity before they were known to the rest of the universe."
     }
   }
 ]

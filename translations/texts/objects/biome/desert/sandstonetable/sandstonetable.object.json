@@ -63,17 +63,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/desert/sandstonetable/sandstonetable.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A table made of sandstone."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/desert/sandstonetable/sandstonetable.object": [
         "/avianDescription"
       ]
     },
@@ -92,6 +81,18 @@
     "Texts": {
       "Eng": "Floran ssslice here.",
       "Por": "Floran fatia aqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/desert/sandstonetable/sandstonetable.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neutral. A table made of sandstone.",
+      "Por": "Neutro. Uma mesa de arenito."
     }
   },
   {

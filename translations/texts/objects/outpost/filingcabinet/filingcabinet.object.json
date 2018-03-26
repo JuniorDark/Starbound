@@ -51,17 +51,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/filingcabinet/filingcabinet.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A filing cabinet with possibly classified documents inside."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/outpost/filingcabinet/filingcabinet.object": [
         "/humanDescription"
       ]
     },
@@ -104,6 +93,18 @@
     "Texts": {
       "Eng": "Filing Cabinet",
       "Por": "Filing Cabinet"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/filingcabinet/filingcabinet.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intrigued. A filing cabinet with possibly classified documents inside.",
+      "Por": "Intrigado. Um armário de documentos possivelmente classificados dentro."
     }
   }
 ]

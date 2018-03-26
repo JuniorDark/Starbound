@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/slime/slimechair/slimechair.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fascinated. While the material is unpleasant, it's natural curvature is pleasing to the eye.",
+      "Por": "Fascinado. Enquanto o material é desagradável, é a curvatura natural é agradável ao olho."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/slime/slimechair/slimechair.object": [
         "/humanDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "This chair is nonsensical.",
       "Por": "Esta cadeira é absurda."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/slime/slimechair/slimechair.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "While the material is unpleasant, it's natural curvature is pleasing to the eye."
     }
   },
   {

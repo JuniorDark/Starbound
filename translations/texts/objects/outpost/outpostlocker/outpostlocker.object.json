@@ -27,17 +27,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/outpostlocker/outpostlocker.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A locker, for locking up things you want to lock away."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/outpost/outpostlocker/outpostlocker.object": [
         "/humanDescription"
       ]
     },
@@ -92,6 +81,18 @@
     "Texts": {
       "Eng": "Just a locker, does the job I guess.",
       "Por": "Apenas um armário, da pro gasto eu acho."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostlocker/outpostlocker.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neutral. A locker, for locking up things you want to lock away.",
+      "Por": "Neutro. Um armário, para trancar coisas que você quer dentro."
     }
   },
   {

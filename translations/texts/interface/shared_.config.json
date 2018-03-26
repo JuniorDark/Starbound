@@ -117,7 +117,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Digite o nome do favorito"
+    ],
     "Files": {
       "interface/cockpit/cockpit.config": [
         "/gui/editBookmarkFrame/children/name/hint"
@@ -162,7 +164,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Saltar"
+    ],
     "Files": {
       "interface/cockpit/cockpit.config": [
         "/gui/jumpDialog/children/jump/caption"
@@ -173,11 +177,14 @@
     },
     "Texts": {
       "Eng": "Jump",
-      "Por": "Saltar"
+      "Por": "Pular"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "MATERIAIS DISPONÍVEIS",
+      "MATERIAIS DISPONÍVEIS "
+    ],
     "Files": {
       "interface/objectcrafting/fossilstation.config": [
         "/paneLayout/lblProduct/value"
@@ -227,7 +234,7 @@
     },
     "Texts": {
       "Eng": "MATERIALS AVAILABLE",
-      "Por": "MATERIAIS DISPONÍVEIS"
+      "Por": "MATERIAIS DISPONIVEIS"
     }
   },
   {
@@ -276,7 +283,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Pesquisar ",
+      "Procurar"
+    ],
     "Files": {
       "interface/objectcrafting/fossilstation.config": [
         "/paneLayout/filter/hint"
@@ -475,7 +485,7 @@
     },
     "Texts": {
       "Eng": "x?\\d{0,4}",
-      "Por": "x?\\d{0,4}"
+      "Por": "Outpost - 2 Stop Teleshop"
     }
   }
 ]

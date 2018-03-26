@@ -39,11 +39,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/arttrophies/backerstatue/benjaminstatue.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "The plaque claims this is dedicated to the grand Benjamin \"Meuterion\" Deust."
+      "Eng": "Observant. The plaque claims this is dedicated to the grand Benjamin \"Meuterion\" Deust.",
+      "Por": "Observador. Esta placa é dedicada ao grande Benjamin \"Meuterion\" Deust."
     }
   },
   {
@@ -55,7 +56,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The plaque reads \"A statue dedicated to Benjamin \"Meuterion\" Deust.\""
+      "Eng": "The plaque reads \"A statue dedicated to Benjamin \"Meuterion\" Deust.\"",
+      "Por": "A placa diz \"Uma estátua dedicada a Benjamin \"Meuterion\" Deust.\""
     }
   },
   {
@@ -66,7 +68,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This plaque reads \"A statue dedicated to Benjamin \"Meuterion\" Deust.\""
+      "Eng": "This plaque reads \"A statue dedicated to Benjamin \"Meuterion\" Deust.\"",
+      "Por": "A placa diz \"Uma estátua dedicada a Benjamin \"Meuterion\" Deust.\""
     }
   }
 ]

@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/space/stationvendingmachine/stationvendingmachine.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Interested. This vending machine seems in working order, it may have supplies.",
+      "Por": "Interessado. Esta máquina de venda automática parece estar funcionando, pode ter suprimentos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/stationvendingmachine/stationvendingmachine.object": [
         "/floranDescription"
       ]
     },
@@ -81,18 +93,6 @@
     "Texts": {
       "Eng": "This vending machine looks helpful, it could provide some necessary food supplies.",
       "Por": "Esta máquina de venda automática parece útil, ela poderia fornecer alguns suprimentos de alimentos necessários."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/space/stationvendingmachine/stationvendingmachine.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This vending machine seems in working order, it may have supplies.",
-      "Por": "Esta máquina de venda automática parece estar funcionando, pode ter suprimentos."
     }
   },
   {

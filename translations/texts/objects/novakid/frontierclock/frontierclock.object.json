@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/novakid/frontierclock/frontierclock.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Charmed. This clock must have taken a lot of care to produce by hand.",
+      "Por": "Encantado. Este relógio deve ter levado uma série de cuidados para produzir à mão."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/novakid/frontierclock/frontierclock.object": [
         "/shortdescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "This clock looks handmade. I'm impressed with the woodwork!",
       "Por": "Este relógio parece feito à mão. Estou impressionado com a madeira!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/novakid/frontierclock/frontierclock.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This clock must have taken a lot of care to produce by hand."
     }
   },
   {

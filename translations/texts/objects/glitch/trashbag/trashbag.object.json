@@ -15,8 +15,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/trashbag/trashbag.object": [
-        "/apexDescription",
-        "/glitchDescription/glitchEmotedText"
+        "/apexDescription"
       ]
     },
     "Texts": {
@@ -70,6 +69,18 @@
     "Texts": {
       "Eng": "Just another bag of trash.",
       "Por": "Apenas outro saco de lixo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/trashbag/trashbag.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. A bag of trash.",
+      "Por": "Observador. Um saco de lixo."
     }
   },
   {

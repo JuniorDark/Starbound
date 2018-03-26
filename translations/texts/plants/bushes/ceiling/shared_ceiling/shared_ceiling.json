@@ -4,23 +4,38 @@
     "Files": {
       "plants/bushes/ceiling/ceilingdesertrocks/ceilingdesertrocks.bush": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ],
       "plants/bushes/ceiling/ceilingdesertrocks2/ceilingdesertrocks2.bush": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ],
       "plants/bushes/ceiling/ceilingrockcave/ceilingrockcave.bush": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ]
     },
     "Texts": {
       "Eng": "Hanging desert rocks.",
       "Por": "Rochas do deserto inclinadas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ceiling/ceilingdesertrocks/ceilingdesertrocks.bush": [
+        "/glitchDescription"
+      ],
+      "plants/bushes/ceiling/ceilingdesertrocks2/ceilingdesertrocks2.bush": [
+        "/glitchDescription"
+      ],
+      "plants/bushes/ceiling/ceilingrockcave/ceilingrockcave.bush": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. Hanging desert rocks.",
+      "Por": "Relatório. Rochas do deserto inclinadas."
     }
   }
 ]

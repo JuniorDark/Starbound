@@ -18,6 +18,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/dangersignh/dangersignh.object": [
+        "/glitchDescription"
+      ],
+      "objects/human/dangersignv/dangersignv.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Brave. This sign is more of a challenge than a warning.",
+      "Por": "Bravo. Esta placa é mais um desafio do que um aviso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/dangersignh/dangersignh.object": [
         "/floranDescription"
       ],
       "objects/human/dangersignv/dangersignv.object": [
@@ -102,20 +117,6 @@
     "Texts": {
       "Eng": "This says danger, but there's no indication of what's dangerous...",
       "Por": "Isso diz perigo, mas não há indicação do que é perigoso..."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/human/dangersignh/dangersignh.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/human/dangersignv/dangersignv.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This sign is more of a challenge than a warning."
     }
   }
 ]

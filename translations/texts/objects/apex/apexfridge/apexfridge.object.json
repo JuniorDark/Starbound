@@ -39,23 +39,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/apexfridge/apexfridge.object": [
-        "/floranDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Floran lovesss cold food ssstore. Keep meat fresh, yesss.",
-      "Por": " Floran ama loja de comida fria. Mantenha a carne fresca, simm."
+      "Eng": "Determined. I must raid this food storage device!",
+      "Por": "Determinado. Devo invadir este dispositivo de armazenamento de comida!"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/apexfridge/apexfridge.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/floranDescription"
       ]
     },
     "Texts": {
-      "Eng": "I must raid this food storage device!"
+      "Eng": "Floran lovesss cold food ssstore. Keep meat fresh, yesss.",
+      "Por": " Floran ama loja de comida fria. Mantenha a carne fresca, simm."
     }
   },
   {

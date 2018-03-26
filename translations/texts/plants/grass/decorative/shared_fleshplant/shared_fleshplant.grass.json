@@ -4,12 +4,10 @@
     "Files": {
       "plants/grass/ceiling/decorative/ceilingfleshplant/ceilingfleshplant.grass": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ],
       "plants/grass/ground/decorative/fleshplant/fleshplant.grass": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ]
     },
@@ -19,7 +17,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Carne'sss"
+    ],
     "Files": {
       "plants/grass/ceiling/decorative/ceilingfleshplant/ceilingfleshplant.grass": [
         "/floranDescription"
@@ -31,6 +31,23 @@
     "Texts": {
       "Eng": "Flesssh!",
       "Por": "Carne."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Repulsão. Um glóbulo de carne."
+    ],
+    "Files": {
+      "plants/grass/ceiling/decorative/ceilingfleshplant/ceilingfleshplant.grass": [
+        "/glitchDescription"
+      ],
+      "plants/grass/ground/decorative/fleshplant/fleshplant.grass": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Repulsion. A globule of flesh.",
+      "Por": "Desgosto. Um glóbulo de carne."
     }
   }
 ]

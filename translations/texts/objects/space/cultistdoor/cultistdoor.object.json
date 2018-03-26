@@ -75,18 +75,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/space/cultistdoor/cultistdoor.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The large eye symbol on this door seems to gaze around.",
-      "Por": "O grande símbolo de olho nesta porta parece olhar ao redor."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/space/cultistdoor/cultistdoor.object": [
         "/humanDescription"
       ]
     },
@@ -105,6 +93,18 @@
     "Texts": {
       "Eng": "This large eye... Feels like I'm being watched.",
       "Por": "Este grande olho... Parece que estou sendo observado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/cultistdoor/cultistdoor.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unsettled. The large eye symbol on this door seems to gaze around.",
+      "Por": "Inquieto. O símbolo de olho grande nesta porta parece olhar ao redor."
     }
   }
 ]

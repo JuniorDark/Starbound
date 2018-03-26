@@ -4,13 +4,24 @@
     "Files": {
       "plants/bushes/ground/tendonlight/tendonlight.bush": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ]
     },
     "Texts": {
       "Eng": "A glowing piece of flesh.",
       "Por": "Um brilhante pedaço de carne."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/tendonlight/tendonlight.bush": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Horrified. A glowing piece of flesh.",
+      "Por": "Horrorizado. Um brilhante pedaço de carne."
     }
   }
 ]

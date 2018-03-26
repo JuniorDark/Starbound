@@ -55,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Glitch Sandstone Statue"
+      "Eng": "Glitch Sandstone Statue",
+      "Por": "Glitch Sandstone Statue"
     }
   },
   {
@@ -68,6 +69,18 @@
     "Texts": {
       "Eng": "I've always wanted a Glitch sidekick. This statue is the next best thing.",
       "Por": "Eu sempre quis um ajudante Glitch. Esta estátua é a melhor coisa mais proxima."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/arttrophies/sandstonestatueglitch/sandstonestatueglitch.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Informed. This statue depicts the first Glitch model, before the self-aware began to modify themselves.",
+      "Por": "Informado. Esta estátua representa o primeiro modelo Glitch, antes que os autoconscientes começaram a se modificar."
     }
   },
   {
@@ -92,17 +105,6 @@
     "Texts": {
       "Eng": "Now who'd go and build a metal-man out of sandystone?",
       "Por": "Quem iria construir um homem de metal feito de arenito?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/arttrophies/sandstonestatueglitch/sandstonestatueglitch.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This statue depicts the first Glitch model, before the self-aware began to modify themselves."
     }
   }
 ]

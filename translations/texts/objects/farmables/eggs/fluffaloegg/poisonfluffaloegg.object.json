@@ -39,23 +39,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/eggs/fluffaloegg/poisonfluffaloegg.object": [
-        "/description"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Hatches into a vulnerable poison fluffalo calf - a good source of venom samples once fully grown.",
-      "Por": "Choca em um vulnerável filhote de fluffalo de veneno - uma boa fonte de venom samples quando estiver totalmente crescido."
+      "Eng": "Enchanted. I hope the little poison fluffalo calf hatches soon.",
+      "Por": "Encantado. Espero que o pequeno filhote de fluffalo de veneno choque em breve."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/eggs/fluffaloegg/poisonfluffaloegg.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ]
     },
     "Texts": {
-      "Eng": "I hope the little poison fluffalo calf hatches soon."
+      "Eng": "Hatches into a vulnerable poison fluffalo calf - a good source of venom samples once fully grown.",
+      "Por": "Choca em um vulnerável filhote de fluffalo de veneno - uma boa fonte de venom samples quando estiver totalmente crescido."
     }
   },
   {

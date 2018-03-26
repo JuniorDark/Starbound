@@ -39,23 +39,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/alpine/mistprimer/mistprimer.object": [
-        "/shortdescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Pile of Mossy Stones",
-      "Por": "Pile of Mossy Stones"
+      "Eng": "Neutral. Some mossy stones.",
+      "Por": "Neutro. Algumas pedras cobertas de musgo."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/alpine/mistprimer/mistprimer.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "Some mossy stones."
+      "Eng": "Pile of Mossy Stones",
+      "Por": "Pile of Mossy Stones"
     }
   },
   {

@@ -3,21 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/grassyrock.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/grassyrock.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Grass is growing in the crevices of this rock.",
-      "Por": "Grama está crescendo nas fendas dessa rocha."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/grassyrock.matitem": [
         "/florandescription"
       ],
       "tiles/materials/grassyrock.material": [
@@ -46,6 +31,23 @@
   },
   {
     "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/grassyrock.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/grassyrock.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. Grass is growing in the crevices of this rock.",
+      "Por": "Atento. Grama está crescendo nas fendas da rocha."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Pedra áspera coberta de grama."
+    ],
     "Files": {
       "items/materials/grassyrock.matitem": [
         "/description"

@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/novakid/frontiercoffin/frontiercoffin.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Concerned. What would happen if you were locked inside this by accident?",
+      "Por": "Preocupado. O que aconteceria se você fosse trancado dentro por acidente?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/novakid/frontiercoffin/frontiercoffin.object": [
         "/shortdescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "Traditional Avian culture would bury their dead in much grander coffins than this.",
       "Por": "A cultura Avian tradicional enterraria seus mortos em caixões muito maiores do que este."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/novakid/frontiercoffin/frontiercoffin.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "What would happen if you were locked inside this by accident?"
     }
   }
 ]

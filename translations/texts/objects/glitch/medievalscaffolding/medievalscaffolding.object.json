@@ -27,17 +27,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/medievalscaffolding/medievalscaffolding.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A temporary structure for when someone is building tall buildings."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/glitch/medievalscaffolding/medievalscaffolding.object": [
         "/apexDescription"
       ]
     },
@@ -80,6 +69,18 @@
     "Texts": {
       "Eng": "Looks like wooden scaffolding. Not sure how safe it is.",
       "Por": "Parece andaimes de madeira. Não tenho certeza do quão seguro é."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/medievalscaffolding/medievalscaffolding.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neutral. A temporary structure for when someone is building tall buildings.",
+      "Por": "Neutro. Uma estrutura temporária para quando alguém está construindo edifícios altos."
     }
   },
   {

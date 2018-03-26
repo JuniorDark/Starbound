@@ -18,6 +18,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/alienrock.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/alienrock.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amazed. This rock is of an alien origin.",
+      "Por": "Maravilhado. Esta rocha é de origem alienígena."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alienrock.matitem": [
         "/florandescription"
       ],
       "tiles/materials/alienrock.material": [
@@ -42,21 +57,6 @@
     "Texts": {
       "Eng": "Some kinda alien lookin' rock.",
       "Por": "Algum tipo de rocha alienígena."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/alienrock.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/alienrock.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This rock is of an alien origin.",
-      "Por": "Esta rocha é de origem alienígena."
     }
   },
   {

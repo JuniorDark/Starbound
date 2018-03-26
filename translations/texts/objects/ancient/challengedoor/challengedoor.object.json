@@ -39,18 +39,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/ancient/challengedoor/challengedoor.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Am I prepared to face whatever is on the other side of this gate?",
-      "Por": "Será que estou preparado para enfrentar o que está do outro lado deste porta?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/ancient/challengedoor/challengedoor.object": [
         "/hylotlDescription"
       ]
     },
@@ -69,6 +57,18 @@
     "Texts": {
       "Eng": "An ominous door that could lead to any dimension.",
       "Por": "Uma porta sinistra que poderia levar a qualquer dimensão."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/challengedoor/challengedoor.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cautious. Am I prepared to face whatever is on the other side of this gate?",
+      "Por": "Cauteloso. Estou preparado para enfrentar o que está do outro lado deste porta?"
     }
   },
   {

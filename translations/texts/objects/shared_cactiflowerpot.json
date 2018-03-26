@@ -30,7 +30,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Um cacto envasado. Eu não vejo o apelo."
+    ],
     "Files": {
       "objects/generic/cactiflowerpot/cactiflowerpot.object": [
         "/apexDescription"
@@ -45,7 +47,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma planta espinhosa com uma flor colorida pequena."
+    ],
     "Files": {
       "objects/generic/cactiflowerpot/cactiflowerpot.object": [
         "/avianDescription"
@@ -78,21 +82,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/cactiflowerpot/cactiflowerpot.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/protectorate/objects/protectoratecactiflowerpot/protectoratecactiflowerpot.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Cacti like these require almost no water to remain healthy.",
-      "Por": "Cactos como este exigem quase nenhuma água para se manter saudável."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/cactiflowerpot/cactiflowerpot.object": [
         "/novakidDescription"
       ],
       "objects/protectorate/objects/protectoratecactiflowerpot/protectoratecactiflowerpot.object": [
@@ -105,7 +94,26 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Informado. Cactos como este requer quase nenhuma água para permanecer saudável."
+    ],
+    "Files": {
+      "objects/generic/cactiflowerpot/cactiflowerpot.object": [
+        "/glitchDescription"
+      ],
+      "objects/protectorate/objects/protectoratecactiflowerpot/protectoratecactiflowerpot.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Informed. Cacti like these require almost no water to remain healthy.",
+      "Por": "Informado. Cactos como esses exigem quase nenhuma água para se manterem saudáveis."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Planta sssuculenta tem auto-defesa."
+    ],
     "Files": {
       "objects/generic/cactiflowerpot/cactiflowerpot.object": [
         "/floranDescription"

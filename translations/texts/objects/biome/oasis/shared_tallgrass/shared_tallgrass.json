@@ -45,26 +45,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/oasis/tallgrass1/tallgrass1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/oasis/tallgrass2/tallgrass2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/oasis/tallgrass3/tallgrass3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/oasis/tallgrass4/tallgrass4.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Floran often disguise themselves in tall grass to hunt their prey."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/oasis/tallgrass1/tallgrass1.object": [
         "/hylotlDescription"
       ],
       "objects/biome/oasis/tallgrass2/tallgrass2.object": [
@@ -101,6 +81,27 @@
     "Texts": {
       "Eng": "I just want to run barefoot through this grass.",
       "Por": "Só quero correr descalço por esta grama."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/oasis/tallgrass1/tallgrass1.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/oasis/tallgrass2/tallgrass2.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/oasis/tallgrass3/tallgrass3.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/oasis/tallgrass4/tallgrass4.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stealthy. Floran often disguise themselves in tall grass to hunt their prey.",
+      "Por": "Furtivo. Florans costumam se disfarçar na grama alta para caçar suas presas."
     }
   },
   {

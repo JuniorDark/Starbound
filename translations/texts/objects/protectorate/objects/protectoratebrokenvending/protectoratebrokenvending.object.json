@@ -51,17 +51,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/protectorate/objects/protectoratebrokenvending/protectoratebrokenvending.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I hope I fare better than this poor vending machine."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/protectorate/objects/protectoratebrokenvending/protectoratebrokenvending.object": [
         "/avianDescription"
       ]
     },
@@ -104,6 +93,18 @@
     "Texts": {
       "Eng": "This vending machine once sold delicious drinks.",
       "Por": "Esta máquina de venda uma vez vendeu bebidas deliciosas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/protectorate/objects/protectoratebrokenvending/protectoratebrokenvending.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wistful. I hope I fare better than this poor vending machine.",
+      "Por": "Desejoso. Espero me sair melhor do que esta pobre máquina de venda."
     }
   }
 ]

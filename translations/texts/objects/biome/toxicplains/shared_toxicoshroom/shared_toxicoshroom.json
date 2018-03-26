@@ -27,29 +27,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/toxicplains/toxicoshroom1/toxicoshroom1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/toxicplains/toxicoshroom2/toxicoshroom2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/toxicplains/toxicoshroom3/toxicoshroom3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/toxicplains/toxicoshroom4/toxicoshroom4.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/toxicplains/toxicoshroom5/toxicoshroom5.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A type of glowing fungus."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/toxicplains/toxicoshroom1/toxicoshroom1.object": [
         "/novakidDescription"
       ],
       "objects/biome/toxicplains/toxicoshroom2/toxicoshroom2.object": [
@@ -68,6 +45,30 @@
     "Texts": {
       "Eng": "An glowin' plant. Its light is welcome.",
       "Por": "Uma planta brilhante. Sua luz é bem-vinda."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/toxicplains/toxicoshroom1/toxicoshroom1.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/toxicplains/toxicoshroom2/toxicoshroom2.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/toxicplains/toxicoshroom3/toxicoshroom3.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/toxicplains/toxicoshroom4/toxicoshroom4.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/toxicplains/toxicoshroom5/toxicoshroom5.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. A type of glowing fungus.",
+      "Por": "Curioso. Um tipo de fungo brilhante."
     }
   },
   {

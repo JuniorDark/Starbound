@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/eggs/fluffaloegg/firefluffaloegg.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Captivated. This will hatch into a fire fluffalo; an adorable beast that produces scorched cores.",
+      "Por": "Cativado. Isso vai chocar em um fluffalo de fogo, um animal adorável que produz scorched cores."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/eggs/fluffaloegg/firefluffaloegg.object": [
         "/shortdescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "The egg of a fire fluffalo. These peaceful pastoral animals produce scorched cores for crafting.",
       "Por": "O ovo de um fluffalo de fogo. Estes animais pastorais pacíficos produzem scorched cores para fabricação."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/farmables/eggs/fluffaloegg/firefluffaloegg.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This will hatch into a fire fluffalo; an adorable beast that produces scorched cores."
     }
   }
 ]

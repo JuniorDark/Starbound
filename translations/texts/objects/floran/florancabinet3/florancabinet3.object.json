@@ -15,17 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/florancabinet3/florancabinet3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "An innovative design, the leather stretches if necessary."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/floran/florancabinet3/florancabinet3.object": [
         "/floranDescription"
       ]
     },
@@ -44,6 +33,18 @@
     "Texts": {
       "Eng": "Huge Primitive Cabinet",
       "Por": "Huge Primitive Cabinet"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/florancabinet3/florancabinet3.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Inspired. An innovative design, the leather stretches if necessary.",
+      "Por": "Inspirado. Um design inovador, o couro estica, se necessário."
     }
   },
   {

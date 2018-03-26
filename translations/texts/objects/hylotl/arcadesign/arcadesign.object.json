@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/arcadesign/arcadesign.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "An amusement arcade!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/hylotl/arcadesign/arcadesign.object": [
         "/description"
       ]
     },
@@ -80,6 +69,18 @@
     "Texts": {
       "Eng": "Arcade! Floran enjoysss winning!",
       "Por": "Fliperama! Floran gossta de ganhar!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/arcadesign/arcadesign.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Delighted. An amusement arcade!",
+      "Por": "Encantado. Um fliperama!"
     }
   },
   {

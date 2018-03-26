@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/novakid/safe/safe.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Confidence. This is a functioning safe.",
+      "Por": "Confiança. Este é um cofre funcional."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/novakid/safe/safe.object": [
         "/humanDescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "Safe",
       "Por": "Safe"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/novakid/safe/safe.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This is a functioning safe."
     }
   },
   {

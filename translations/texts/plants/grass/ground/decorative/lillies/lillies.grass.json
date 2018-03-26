@@ -3,24 +3,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "plants/grass/ground/decorative/lillies/lillies.grass": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "An attractive lily.",
-      "Por": "Um lírio encantador."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "plants/grass/ground/decorative/lillies/lillies.grass": [
         "/shortdescription"
       ]
     },
     "Texts": {
       "Eng": "Lilies.",
-      "Por": "Lilies."
+      "Por": "Lírios."
     }
   },
   {
@@ -44,7 +32,19 @@
     },
     "Texts": {
       "Eng": "Pretty liliesss.",
-      "Por": "Líriosss bonitos."
+      "Por": "Lírios bonitos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/lillies/lillies.grass": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. An attractive lily.",
+      "Por": "Relatório. Um lírio atraente."
     }
   }
 ]

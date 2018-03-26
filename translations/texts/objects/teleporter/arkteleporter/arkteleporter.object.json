@@ -15,24 +15,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/teleporter/arkteleporter/arkteleporter.object": [
-        "/shortdescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Ark Teleporter",
-      "Por": "Ark Teleporter"
+      "Eng": "Analytical. I believe this teleporter is connected to the Ark ruins.",
+      "Por": "Analítico. Eu acredito que este teletransportador está conectado às ruínas Ark."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/teleporter/arkteleporter/arkteleporter.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "I believe this teleporter is connected to the Ark ruins.",
-      "Por": "Creio que este teletransportador está ligado às ruínas Ark."
+      "Eng": "Ark Teleporter",
+      "Por": "Ark Teleporter"
     }
   },
   {

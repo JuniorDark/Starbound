@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Um alcatrão cristalizado."
+    ],
     "Files": {
       "objects/biome/tar/tarcrystal1/tarcrystal1.object": [
         "/novakidDescription"
@@ -19,7 +21,6 @@
       ],
       "plants/bushes/ground/tarcrystal/tarcrystal.bush": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ]
     },

@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma plataforma polida feita de prata pura."
+    ],
     "Files": {
       "items/materials/silverplatform.matitem": [
         "/description"
@@ -18,15 +20,15 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/silverplatform.matitem": [
-        "/glitchdescription/glitchEmotedText"
+        "/glitchdescription"
       ],
       "tiles/platforms/silverplatform.material": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "I can see my reflection in these silver platforms.",
-      "Por": "Posso ver o meu reflexo nessas plataformas."
+      "Eng": "Delighted. I can see my reflection in these silver platforms.",
+      "Por": "Sastifeito. Eu posso ver meu reflexo nessas plataformas."
     }
   },
   {

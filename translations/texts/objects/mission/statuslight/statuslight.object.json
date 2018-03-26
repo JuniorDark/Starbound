@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/statuslight/statuslight.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A blue light indicates an active switch."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/mission/statuslight/statuslight.object": [
         "/hylotlDescription"
       ]
     },
@@ -44,6 +33,18 @@
     "Texts": {
       "Eng": "Blue light means ssswitch is on.",
       "Por": "Luz azul significa que interruptor está ligado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/statuslight/statuslight.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Perceptive. A blue light indicates an active switch.",
+      "Por": "Perceptivo. Uma luz azul indica um interruptor ativo."
     }
   },
   {

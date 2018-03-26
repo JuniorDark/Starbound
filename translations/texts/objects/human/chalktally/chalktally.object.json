@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/chalktally/chalktally.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. This signifies twenty five occurrences of... something. We shall never know what.",
+      "Por": "Curioso. Isso significa vinte e cinco ocorrências de... algo. Nunca saberemos o quê."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/chalktally/chalktally.object": [
         "/floranDescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "Tally Marks",
       "Por": "Tally Marks"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/human/chalktally/chalktally.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This signifies twenty five occurrences of... something. We shall never know what."
     }
   }
 ]

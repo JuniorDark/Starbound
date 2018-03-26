@@ -33,14 +33,15 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/penguinbar/penguinbartop.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/outpost/penguinbar/penguinbartop2.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "The bartender may be holding a bottle but I don't see him selling anyone a drink..."
+      "Eng": "Suspicious. The bartender may be holding a bottle but I don't see him selling anyone a drink...",
+      "Por": "Suspeito. O barman pode estar segurando uma garrafa, mas eu não vejo ele vender uma bebida pra alguém..."
     }
   },
   {

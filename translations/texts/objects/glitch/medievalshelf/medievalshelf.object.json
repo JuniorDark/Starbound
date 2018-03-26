@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/medievalshelf/medievalshelf.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disinterested. Just an old shelf.",
+      "Por": "Desinteressado. Apenas uma antiga prateleira."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/medievalshelf/medievalshelf.object": [
         "/floranDescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "It's just an empty shelf.",
       "Por": "É apenas uma prateleira vazia."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/glitch/medievalshelf/medievalshelf.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Just an old shelf."
     }
   },
   {

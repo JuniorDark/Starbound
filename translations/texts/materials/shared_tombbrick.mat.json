@@ -3,21 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/tombbrick.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/tombbrick.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Closer inspection suggests these bricks are quite old.",
-      "Por": "Uma inspeção mais detalhada sugere que esses tijolos são bem antigos."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/tombbrick.matitem": [
         "/florandescription"
       ],
       "tiles/materials/tombbrick.material": [
@@ -57,6 +42,21 @@
     "Texts": {
       "Eng": "Just some ol' dusty bricks.",
       "Por": "Apenas alguns tijolos empoeirados."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/tombbrick.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/tombbrick.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Surprised. Closer inspection suggests these bricks are quite old.",
+      "Por": "Surpreso. Uma inspeção mais próxima sugere que esses tijolos são bastante antigos."
     }
   },
   {

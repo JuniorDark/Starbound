@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/hive/hivedoor/hivedoor.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alarmed. This door appears to be dripping with some biological fluid...",
+      "Por": "Alarmado. Esta porta parece estar pingando algum fluido biológico..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/hive/hivedoor/hivedoor.object": [
         "/floranDescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "I'm not sure that a door dripping slime everywhere is the most hygienic choice to decorate with.",
       "Por": "Não tenho certeza de que uma porta gotejando lodo em todos os lugares é a escolha mais higiênica para decorar."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/hive/hivedoor/hivedoor.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This door appears to be dripping with some biological fluid..."
     }
   },
   {

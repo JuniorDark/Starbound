@@ -24,7 +24,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "^#b9b5b2;Vida e bem-estar"
+    ],
     "Files": {
       "objects/crafting/upgradeablecraftingobjects/craftingmedical/craftingmedical.object": [
         "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle",
@@ -107,13 +109,14 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/crafting/upgradeablecraftingobjects/craftingmedical/craftingmedical.object": [
-        "/glitchDescription/glitchEmotedText",
-        "/upgradeStages/0/itemSpawnParameters/glitchDescription/glitchEmotedText",
-        "/upgradeStages/1/itemSpawnParameters/glitchDescription/glitchEmotedText"
+        "/glitchDescription",
+        "/upgradeStages/0/itemSpawnParameters/glitchDescription",
+        "/upgradeStages/1/itemSpawnParameters/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Medical module activated."
+      "Eng": "Inspired. Medical module activated.",
+      "Por": "Inspirado. Módulo médico ativado."
     }
   },
   {

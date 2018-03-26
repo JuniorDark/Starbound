@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/medievalbucket/medievalbucket.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Humbled. This bucket has been used to draw water from wells and streams.",
+      "Por": "Humilhado. Este balde tem sido usado para extrair água de poços e riachos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/medievalbucket/medievalbucket.object": [
         "/shortdescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "There's a hole in this bucket.",
       "Por": "Há um buraco neste balde."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/glitch/medievalbucket/medievalbucket.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This bucket has been used to draw water from wells and streams."
     }
   },
   {

@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/tombthing2/tombthing2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. This tomb was decorated by unsteady hands.",
+      "Por": "Observador. Esta tumba foi decorada por mãos instáveis."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/tombthing2/tombthing2.object": [
         "/apexDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "This is somebody's resting place. Judgin' by the decorations, they must've been well liked.",
       "Por": "Este é o lugar de descanso de alguém. A julgar pela decoração, eles devem ter sido bem queridos."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avian/tombthing2/tombthing2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This tomb was decorated by unsteady hands."
     }
   },
   {

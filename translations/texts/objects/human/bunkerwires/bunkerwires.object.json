@@ -27,23 +27,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/bunkerwires/bunkerwires.object": [
-        "/avianDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Haphazard wires.",
-      "Por": "Fios desorganizados."
+      "Eng": "Cautious. Scans indicate a ninety eight percent chance of electrical failure.",
+      "Por": "Cauteloso. Leituras indicam uma probabilidade de noventa e oito por cento de falha elétrica."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/bunkerwires/bunkerwires.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/avianDescription"
       ]
     },
     "Texts": {
-      "Eng": "Scans indicate a ninety eight percent chance of electrical failure."
+      "Eng": "Haphazard wires.",
+      "Por": "Fios desorganizados."
     }
   },
   {

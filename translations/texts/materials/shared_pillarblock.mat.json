@@ -3,6 +3,23 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/pillarblock.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/pillarblock.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amazed. I believe this stone pillar is very old.",
+      "Por": "Surpreso. Eu acredito que este pilar de pedra é muito velho."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Um pilar de pedra de aparência antiga."
+    ],
+    "Files": {
+      "items/materials/pillarblock.matitem": [
         "/description"
       ],
       "tiles/materials/pillarblock.material": [
@@ -15,22 +32,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/pillarblock.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/pillarblock.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I believe this stone pillar is very old.",
-      "Por": "Acredito que este pilar de pedra é muito antigo."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Pillar Block "
+    ],
     "Files": {
       "items/materials/pillarblock.matitem": [
         "/shortdescription"

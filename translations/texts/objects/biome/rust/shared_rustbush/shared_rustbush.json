@@ -108,6 +108,27 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/rust/rustbush1/rustbush1.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/rust/rustbush2/rustbush2.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/rust/rustbush3/rustbush3.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/rust/rustbush4/rustbush4.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nervous. The sight of rust makes me feel faint.",
+      "Por": "Nervoso. A visão da ferrugem faz me sentir fraco."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/rust/rustbush1/rustbush1.object": [
         "/shortdescription"
       ],
       "objects/biome/rust/rustbush2/rustbush2.object": [
@@ -123,26 +144,6 @@
     "Texts": {
       "Eng": "Rusty Bush",
       "Por": "Rusty Bush"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/rust/rustbush1/rustbush1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/rust/rustbush2/rustbush2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/rust/rustbush3/rustbush3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/rust/rustbush4/rustbush4.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The sight of rust makes me feel faint."
     }
   },
   {

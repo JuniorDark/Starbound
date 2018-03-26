@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/bearplush/bearplush.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excited. This delightful bear is almost too much!",
+      "Por": "Animado. Este urso maravilhoso é quase demais!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/bearplush/bearplush.object": [
         "/avianDescription"
       ]
     },
@@ -45,17 +57,6 @@
     "Texts": {
       "Eng": "Shriek! A wonderful bear plushie. I need this one!",
       "Por": "Ahhhhh! Um maravilhoso ursinho de pelúcia. Eu preciso desse!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/hylotl/bearplush/bearplush.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This delightful bear is almost too much!"
     }
   }
 ]

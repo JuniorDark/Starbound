@@ -39,23 +39,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/clues/apex/bigapedoll/bigapedoll.object": [
-        "/floranDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Floran sssuspicious of doll.",
-      "Por": "Floran ssssuspeita de boneca."
+      "Eng": "Concerned. I think this doll is in fact some sort of spying device.",
+      "Por": "Preocupado. Acho que essa boneca é de fato uma espécie de dispositivo de espionagem."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/clues/apex/bigapedoll/bigapedoll.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/floranDescription"
       ]
     },
     "Texts": {
-      "Eng": "I think this doll is in fact some sort of spying device."
+      "Eng": "Floran sssuspicious of doll.",
+      "Por": "Floran ssssuspeita de boneca."
     }
   },
   {

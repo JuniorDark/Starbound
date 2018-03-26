@@ -3,6 +3,23 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/homewalls1.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/homewalls1.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Delighted. These painted bricks are quaint.",
+      "Por": "Encantado. Estes tijolos pintados são pitorescos."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Alvenaria bem pintada."
+    ],
+    "Files": {
+      "items/materials/homewalls1.matitem": [
         "/description"
       ],
       "tiles/materials/homewalls1.material": [
@@ -57,21 +74,6 @@
     "Texts": {
       "Eng": "Some real pretty painted bricks.",
       "Por": "Alguns tijolos pintados muito bonitos."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/homewalls1.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/homewalls1.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "These painted bricks are quaint.",
-      "Por": "Esses tijolos pintados são pitorescos."
     }
   }
 ]

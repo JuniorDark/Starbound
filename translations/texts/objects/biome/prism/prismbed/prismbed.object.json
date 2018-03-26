@@ -51,17 +51,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/prism/prismbed/prismbed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "My gaze is caught in the dancing lights within this bed."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/prism/prismbed/prismbed.object": [
         "/shortdescription"
       ]
     },
@@ -104,6 +93,18 @@
     "Texts": {
       "Eng": "This glass is so clear, it is like a still pool of water.",
       "Por": "Este vidro é tão claro, é como uma piscina de água imóvel."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/prism/prismbed/prismbed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Transfixed. My gaze is caught in the dancing lights within this bed.",
+      "Por": "Paralisado. Meu olhar está preso nas luzes dançantes dentro desta cama."
     }
   }
 ]

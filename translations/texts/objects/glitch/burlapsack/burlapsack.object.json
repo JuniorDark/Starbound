@@ -76,23 +76,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/burlapsack/burlapsack.object": [
-        "/floranDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Sscratchy fibre sssack.",
-      "Por": "Sssaco de fibras ássperas."
+      "Eng": "Curious. This appears to be full of flour.",
+      "Por": "Curioso. Isso parece estar cheio de farinha."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/burlapsack/burlapsack.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/floranDescription"
       ]
     },
     "Texts": {
-      "Eng": "This appears to be full of flour."
+      "Eng": "Sscratchy fibre sssack.",
+      "Por": "Sssaco de fibras ássperas."
     }
   }
 ]

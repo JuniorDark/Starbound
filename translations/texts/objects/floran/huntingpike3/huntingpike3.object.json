@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/huntingpike3/huntingpike3.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disgusted. This decoration is grotesque.",
+      "Por": "Com nojo. Esta decoração é grotesca."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/huntingpike3/huntingpike3.object": [
         "/floranDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "These bones on a spike appear to be from a penguin.",
       "Por": "Estes ossos em um espinho parecem ser de um pinguim."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/floran/huntingpike3/huntingpike3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This decoration is grotesque."
     }
   },
   {

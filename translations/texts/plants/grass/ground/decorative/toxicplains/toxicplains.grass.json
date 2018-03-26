@@ -27,7 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "plants/grass/ground/decorative/toxicplains/toxicplains.grass": [
-        "/glitchDescription/glitchEmotedText",
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. Toxic plants.",
+      "Por": "Relatório. Plantas tóxicas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/toxicplains/toxicplains.grass": [
         "/shortdescription"
       ]
     },

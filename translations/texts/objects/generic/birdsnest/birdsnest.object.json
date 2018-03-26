@@ -75,6 +75,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/birdsnest/birdsnest.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Informed. Nests like these are how birds populate offspring.",
+      "Por": "Informado. Em ninhos como estes são como os pássaros povoam a prole."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/birdsnest/birdsnest.object": [
         "/humanDescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "Must be some tiny birds to live'n a nest that small.",
       "Por": "Deve ser uns pássaros minúsculos para viver em um ninho tão pequeno."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/birdsnest/birdsnest.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Nests like these are how birds populate offspring."
     }
   }
 ]

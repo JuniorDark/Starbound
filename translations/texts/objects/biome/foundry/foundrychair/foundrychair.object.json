@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/foundry/foundrychair/foundrychair.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A delightful chair."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/foundry/foundrychair/foundrychair.object": [
         "/description"
       ]
     },
@@ -32,6 +21,18 @@
     "Texts": {
       "Eng": "An industrial looking chair.",
       "Por": "Uma cadeira de aparência industrial."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/foundry/foundrychair/foundrychair.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Happy. A delightful chair.",
+      "Por": "Feliz. Uma cadeira agradável."
     }
   },
   {

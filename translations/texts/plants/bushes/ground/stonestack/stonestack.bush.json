@@ -4,13 +4,24 @@
     "Files": {
       "plants/bushes/ground/stonestack/stonestack.bush": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ]
     },
     "Texts": {
       "Eng": "A pile of stones.",
       "Por": "Um monte de pedras."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/stonestack/stonestack.bush": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. A pile of stones.",
+      "Por": "Relatório. Um monte de pedras."
     }
   }
 ]

@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/wreck/wreckturbine2/wreckturbine2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Despondent. This turbine is completely broken down.",
+      "Por": "Desanimador. Esta turbina esta completamente quebrada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wreck/wreckturbine2/wreckturbine2.object": [
         "/avianDescription"
       ]
     },
@@ -81,18 +93,6 @@
     "Texts": {
       "Eng": "This thing has been wrecked for a long time.",
       "Por": "Esta coisa esta quebrada a muito tempo."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/wreck/wreckturbine2/wreckturbine2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This turbine is completely broken down.",
-      "Por": "Esta turbina está completamente quebrada."
     }
   },
   {

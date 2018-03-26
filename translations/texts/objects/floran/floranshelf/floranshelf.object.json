@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/floranshelf/floranshelf.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. The bones appear to be rib bones from some vast creature.",
+      "Por": "Impressionado. Os ossos parecem ser ossos de costela de alguma criatura vasta."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/floranshelf/floranshelf.object": [
         "/novakidDescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "Primitive Shelf",
       "Por": "Primitive Shelf"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/floran/floranshelf/floranshelf.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The bones appear to be rib bones from some vast creature."
     }
   },
   {

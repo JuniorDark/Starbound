@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/lunarbasedoor/lunarbasedoor.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intrigued. This doorway appears to be leaning.",
+      "Por": "Intrigado. Esta porta parece estar inclinada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/lunarbasedoor/lunarbasedoor.object": [
         "/humanDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "This door looks heavy. Floran doesn't want to get sssquished.",
       "Por": "Esta porta parece pesada. Floran não quer ser esmagado."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/mission/lunarbasedoor/lunarbasedoor.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This doorway appears to be leaning."
     }
   },
   {

@@ -15,24 +15,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "tiles/materials/lightblocker.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Glass.",
-      "Por": "Vidro."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "tiles/materials/lightblocker.material": [
         "/description"
       ]
     },
     "Texts": {
       "Eng": "I can see my reflection... it's hideous!",
       "Por": "Eu posso ver meu reflexo... é medonho!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/lightblocker.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. Glass.",
+      "Por": "Afirmação. Vidro."
     }
   }
 ]

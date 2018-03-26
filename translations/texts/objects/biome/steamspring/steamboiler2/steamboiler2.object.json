@@ -39,23 +39,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/steamspring/steamboiler2/steamboiler2.object": [
-        "/apexDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "It almost looks like a huge test tube.",
-      "Por": "Parece quase um enorme tubo de ensaio."
+      "Eng": "Impressed. It manages to stay upright despite looking top heavy.",
+      "Por": "Impressionado. Ela consegue ficar de pé apesar de parecer pesada."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/steamspring/steamboiler2/steamboiler2.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/apexDescription"
       ]
     },
     "Texts": {
-      "Eng": "It manages to stay upright despite looking top heavy."
+      "Eng": "It almost looks like a huge test tube.",
+      "Por": "Parece quase um enorme tubo de ensaio."
     }
   },
   {

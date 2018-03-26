@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma pilha repugnante de esgoto. Adorável."
+    ],
     "Files": {
       "items/materials/sewage.matitem": [
         "/description"
@@ -63,15 +65,15 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/sewage.matitem": [
-        "/glitchdescription/glitchEmotedText"
+        "/glitchdescription"
       ],
       "tiles/materials/sewage.material": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "The stench from this sewage is overwhelming.",
-      "Por": "O fedor deste esgoto é avassalador."
+      "Eng": "Repulsed. The stench from this sewage is overwhelming.",
+      "Por": "Repulsado. O fedor desse esgoto é esmagador."
     }
   }
 ]

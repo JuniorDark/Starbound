@@ -3,23 +3,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/holiday/scifisleigh/scifisleigh.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A rocket-powered sleigh."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/holiday/scifisleigh/scifisleigh.object": [
         "/avianDescription"
       ]
     },
     "Texts": {
       "Eng": "A rocket-powered sleigh. Amazing.",
       "Por": "Um trenó movido A foguetes. Incrível."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/holiday/scifisleigh/scifisleigh.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amused. A rocket-powered sleigh.",
+      "Por": "Divertido. Um trenó movido a foguetes."
     }
   },
   {

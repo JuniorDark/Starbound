@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/stonecave/cavebed/cavebed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Confident. This sturdy bed will last many generations.",
+      "Por": "Confiante. Esta cama resistente vai durar muitas gerações."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/stonecave/cavebed/cavebed.object": [
         "/avianDescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "This bed is not built for comfort.",
       "Por": "Esta cama não é construído para conforto."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/stonecave/cavebed/cavebed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This sturdy bed will last many generations."
     }
   }
 ]

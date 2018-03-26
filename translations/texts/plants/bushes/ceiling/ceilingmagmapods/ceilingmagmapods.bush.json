@@ -4,13 +4,24 @@
     "Files": {
       "plants/bushes/ceiling/ceilingmagmapods/ceilingmagmapods.bush": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ]
     },
     "Texts": {
       "Eng": "Hanging magma rock.",
       "Por": "Pedra de magma inclinada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ceiling/ceilingmagmapods/ceilingmagmapods.bush": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. Hanging magma rock.",
+      "Por": "Relatório. Pedra de magma inclinada."
     }
   }
 ]

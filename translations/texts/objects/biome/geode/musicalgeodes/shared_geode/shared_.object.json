@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma pedra brilhante. Ele faz barulho."
+    ],
     "Files": {
       "objects/biome/geode/musicalgeodes/geodebnatural/geodebnatural.object": [
         "/avianDescription"
@@ -144,7 +146,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Curioso. Ondas sonoras são emitidas por essa formação geológica.",
+      "Uma pedra que soa quando eu chego perto dela."
+    ],
     "Files": {
       "objects/biome/geode/musicalgeodes/geodebnatural/geodebnatural.object": [
         "/apexDescription"
@@ -188,11 +193,13 @@
     },
     "Texts": {
       "Eng": "A stone that chimes when I get close to it.",
-      "Por": "Uma pedra que soa quando eu chego perto dela."
+      "Por": "Uma pedra que faz barulho quando eu chego perto dela."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Grande pedra laranja que toca como um sino de igreja. É um quebra cabeça."
+    ],
     "Files": {
       "objects/biome/geode/musicalgeodes/geodebnatural/geodebnatural.object": [
         "/novakidDescription"
@@ -222,26 +229,27 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/geode/musicalgeodes/geodebnatural/geodebnatural.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/biome/geode/musicalgeodes/geodebnote/geodebnote.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/biome/geode/musicalgeodes/geodecnatural/geodecnatural.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/biome/geode/musicalgeodes/geodednatural/geodednatural.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/biome/geode/musicalgeodes/geodehighanatural/geodehighanatural.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/biome/geode/musicalgeodes/geodelowanatural/geodelowanatural.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Sound waves are emitted by this geological formation."
+      "Eng": "Curious. Sound waves are emitted by this geological formation.",
+      "Por": "Curioso. Ondas sonoras são emitidas por essa formação geológica."
     }
   },
   {

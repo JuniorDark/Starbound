@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/ancient/jumpbooster/jumpbooster.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excited. This vapour will allow me to jump very high indeed.",
+      "Por": "Animado. Esse vapor me permitirá saltar muito alto."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/jumpbooster/jumpbooster.object": [
         "/apexDescription"
       ]
     },
@@ -81,18 +93,6 @@
     "Texts": {
       "Eng": "This device boosts my jumps.",
       "Por": "Este dispositivo impulsiona meus saltos."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/ancient/jumpbooster/jumpbooster.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This vapour will allow me to jump very high indeed.",
-      "Por": "Esse vapor me permitirá pular muito alto mesmo."
     }
   },
   {

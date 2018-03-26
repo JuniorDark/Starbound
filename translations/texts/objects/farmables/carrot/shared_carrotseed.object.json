@@ -18,6 +18,23 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/carrot/carrotseed.object": [
+        "/glitchDescription"
+      ],
+      "objects/farmables/carrot/wildcarrotseed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Approving. Carrots are pleasantly crunchy.",
+      "Por": "Aprovação. Cenouras são agradavelmente crocantes."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Ferva uma cenoura e será um pouco parecida com uma banana... Mas não é tão bom."
+    ],
+    "Files": {
+      "objects/farmables/carrot/carrotseed.object": [
         "/apexDescription"
       ],
       "objects/farmables/carrot/wildcarrotseed.object": [
@@ -45,7 +62,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Cenouras são versáteis, suaves, vegetais."
+    ],
     "Files": {
       "objects/farmables/carrot/carrotseed.object": [
         "/hylotlDescription"
@@ -60,21 +79,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/farmables/carrot/carrotseed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/farmables/carrot/wildcarrotseed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Carrots are pleasantly crunchy."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Cenouras. Perfeita para comer, ou grudar em um boneco de neve."
+    ],
     "Files": {
       "objects/farmables/carrot/carrotseed.object": [
         "/humanDescription"
@@ -85,7 +92,7 @@
     },
     "Texts": {
       "Eng": "Carrots. Perfect for eating, or sticking on a snowman.",
-      "Por": "Cenouras. Perfeita para comer, ou colocar em um boneco de neve."
+      "Por": "Cenouras. Perfeita para comer, ou colar em um boneco de neve."
     }
   },
   {

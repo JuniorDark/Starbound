@@ -63,6 +63,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/triballamp/triballamp.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. This lamp is its own powersource.",
+      "Por": "Observador. Esta lâmpada é a sua própria fonte de energia."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/triballamp/triballamp.object": [
         "/hylotlDescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "This lamp glows brightly without power.",
       "Por": "Esta lâmpada brilha intensamente sem energia."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avian/triballamp/triballamp.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This lamp is its own powersource."
     }
   }
 ]

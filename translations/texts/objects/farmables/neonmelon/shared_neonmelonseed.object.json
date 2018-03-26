@@ -33,20 +33,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/neonmelon/neonmelonseed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/farmables/neonmelon/wildneonmelonseed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I've always thought neonmelon looked delicious."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/farmables/neonmelon/neonmelonseed.object": [
         "/apexDescription"
       ],
       "objects/farmables/neonmelon/wildneonmelonseed.object": [
@@ -101,6 +87,21 @@
     "Texts": {
       "Eng": "Neonmelon is tasty lookin' on the inside.",
       "Por": "Neonmelon é saboroso olhando do lado de dentro."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/neonmelon/neonmelonseed.object": [
+        "/glitchDescription"
+      ],
+      "objects/farmables/neonmelon/wildneonmelonseed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased. I've always thought neonmelon looked delicious.",
+      "Por": "Satisfeito. Sempre pensei que neonmelon parecia delicioso."
     }
   },
   {

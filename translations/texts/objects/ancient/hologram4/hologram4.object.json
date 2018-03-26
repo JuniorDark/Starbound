@@ -3,18 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/ancient/hologram4/hologram4.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A depiction of six sentient races of the universe.",
-      "Por": "Uma representação de seis raças conscientes do universo."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/ancient/hologram4/hologram4.object": [
         "/floranDescription"
       ]
     },
@@ -45,6 +33,18 @@
     "Texts": {
       "Eng": "I wonder what the importance of these six races must be?",
       "Por": "Me pergunto qual é a importância dessas seis raças?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ancient/hologram4/hologram4.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. A depiction of six sentient races of the universe.",
+      "Por": "Observador. Uma representação de seis raças conscientes do universo."
     }
   },
   {

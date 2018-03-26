@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/apexcoolbookcase/apexcoolbookcase.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. Perhaps there is something to learn from the Apex.",
+      "Por": "Curioso. Talvez haja algo a aprender com os Apex."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/apexcoolbookcase/apexcoolbookcase.object": [
         "/avianDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "It should be stocked full of science journals and lab reports.",
       "Por": "Ela deve estar cheia de revistas científicas e relatórios de laboratório."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/apex/apexcoolbookcase/apexcoolbookcase.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Perhaps there is something to learn from the Apex."
     }
   },
   {

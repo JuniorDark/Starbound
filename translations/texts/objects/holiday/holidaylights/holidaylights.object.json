@@ -3,6 +3,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/holiday/holidaylights/holidaylights.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Happy. These twinkling lights add much to the cheery atmosphere.",
+      "Por": "Feliz. Estas luzes cintilantes aumentam muito a atmosfera alegre."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/holiday/holidaylights/holidaylights.object": [
         "/shortdescription"
       ]
     },
@@ -33,17 +45,6 @@
     "Texts": {
       "Eng": "Much sssparkle.",
       "Por": "Muito cintilante."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/holiday/holidaylights/holidaylights.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "These twinkling lights add much to the cheery atmosphere."
     }
   },
   {

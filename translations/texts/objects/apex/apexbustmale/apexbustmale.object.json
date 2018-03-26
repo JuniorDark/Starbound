@@ -51,17 +51,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/apexbustmale/apexbustmale.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I am reminded of the statues of our kings."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/apex/apexbustmale/apexbustmale.object": [
         "/apexDescription"
       ]
     },
@@ -80,6 +69,18 @@
     "Texts": {
       "Eng": "Machine-produced from common stone.",
       "Por": "Feito de pedra comum."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/apexbustmale/apexbustmale.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nostalgic. I am reminded of the statues of our kings.",
+      "Por": "Nostálgico. Lembro-me das estátuas dos nossos reis."
     }
   },
   {

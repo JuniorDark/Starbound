@@ -75,24 +75,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/ancient/ancientgate/ancientgate.object": [
-        "/floranDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Floran wonder which ssstrange creature make door.",
-      "Por": "Floran se pergunta que criatura essstranha fez porta."
+      "Eng": "Confused. I cannot trace the origins of this gate.",
+      "Por": "Confuso. Não consigo identificar as origens deste portal."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/ancient/ancientgate/ancientgate.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/floranDescription"
       ]
     },
     "Texts": {
-      "Eng": "I cannot trace the origins of this gate.",
-      "Por": "Não consigo rastrear as origens desse portal."
+      "Eng": "Floran wonder which ssstrange creature make door.",
+      "Por": "Floran se pergunta que criatura essstranha fez porta."
     }
   }
 ]

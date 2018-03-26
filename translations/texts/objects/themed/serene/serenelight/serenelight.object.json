@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/themed/serene/serenelight/serenelight.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Calm. This lamp emits a soothing glow.",
+      "Por": "Calmo. Esta lâmpada emite um brilho calmante."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/serene/serenelight/serenelight.object": [
         "/avianDescription"
       ]
     },
@@ -93,18 +105,6 @@
     "Texts": {
       "Eng": "Strange design, but a useful light source nontheless.",
       "Por": "Design estranho, mas uma fonte de luz útil no entanto."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/themed/serene/serenelight/serenelight.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This lamp emits a soothing glow.",
-      "Por": "Esta lâmpada emite um brilho calmante."
     }
   }
 ]

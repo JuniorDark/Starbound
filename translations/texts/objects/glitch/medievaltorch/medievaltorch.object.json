@@ -63,6 +63,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/medievaltorch/medievaltorch.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Comforted. The kind of torch that illuminates castle corridors.",
+      "Por": "Confortado. O tipo de tocha que ilumina os corredores de castelo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/medievaltorch/medievaltorch.object": [
         "/shortdescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "The flame ssspits.",
       "Por": "A chama cossspe."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/glitch/medievaltorch/medievaltorch.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The kind of torch that illuminates castle corridors."
     }
   }
 ]

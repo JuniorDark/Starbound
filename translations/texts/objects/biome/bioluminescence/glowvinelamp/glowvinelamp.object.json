@@ -15,17 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/bioluminescence/glowvinelamp/glowvinelamp.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A pleasant glow is produced by the vine's bioluminescent bulbs."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/bioluminescence/glowvinelamp/glowvinelamp.object": [
         "/apexDescription"
       ]
     },
@@ -44,6 +33,18 @@
     "Texts": {
       "Eng": "A vine that seems to emit a pleasant glow.",
       "Por": "Uma vinha que parece emitir um brilho agradável."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/bioluminescence/glowvinelamp/glowvinelamp.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Content. A pleasant glow is produced by the vine's bioluminescent bulbs.",
+      "Por": "Contente. Um brilho agradável é produzido pelas lâmpadas bioluminescentes da vinha."
     }
   },
   {

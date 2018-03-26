@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/themed/serene/serenebed/serenebed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Delighted. This bed is just the right height.",
+      "Por": "Encantado. Esta cama tem a altura certa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/serene/serenebed/serenebed.object": [
         "/novakidDescription"
       ]
     },
@@ -33,18 +45,6 @@
     "Texts": {
       "Eng": "Serene Bed",
       "Por": "Serene Bed"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/themed/serene/serenebed/serenebed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This bed is just the right height.",
-      "Por": "Esta cama tem a altura certa."
     }
   },
   {

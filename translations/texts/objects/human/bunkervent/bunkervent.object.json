@@ -75,23 +75,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/bunkervent/bunkervent.object": [
-        "/description"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Sterile, recycled air whirs through the fanblades at a steady pace.",
-      "Por": "Ar reciclado zumbi através das lâminas do ventilador em um ritmo constante."
+      "Eng": "Observant. The air recycling process isn't fully functional.",
+      "Por": "Observador. O processo de reciclagem de ar não é totalmente funcional."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/bunkervent/bunkervent.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ]
     },
     "Texts": {
-      "Eng": "The air recycling process isn't fully functional."
+      "Eng": "Sterile, recycled air whirs through the fanblades at a steady pace.",
+      "Por": "Ar reciclado zumbi através das lâminas do ventilador em um ritmo constante."
     }
   }
 ]

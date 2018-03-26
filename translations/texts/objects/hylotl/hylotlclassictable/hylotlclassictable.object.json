@@ -75,17 +75,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/hylotlclassictable/hylotlclassictable.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "One cannot imagine such a table in a fortress."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/hylotl/hylotlclassictable/hylotlclassictable.object": [
         "/avianDescription"
       ]
     },
@@ -104,6 +93,18 @@
     "Texts": {
       "Eng": "Traditional Table",
       "Por": "Traditional Table"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/hylotlclassictable/hylotlclassictable.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Underwhelmed. One cannot imagine such a table in a fortress.",
+      "Por": "Entediado. Não se pode imaginar tal mesa em uma fortaleza."
     }
   }
 ]

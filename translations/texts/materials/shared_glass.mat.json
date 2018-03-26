@@ -3,6 +3,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/glass.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/glass.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Attentive. I can see clearly though this transparent glass.",
+      "Por": "Atencioso. Eu posso ver claramente através deste vidro transparente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/glass.matitem": [
         "/florandescription"
       ],
       "tiles/materials/glass.material": [
@@ -27,21 +42,6 @@
     "Texts": {
       "Eng": "I can see clear through t'the other side of this glass.",
       "Por": "Eu posso ver claramente o outro lado deste vidro."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/glass.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/glass.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I can see clearly though this transparent glass.",
-      "Por": "Eu posso ver claramente através deste vidro transparente."
     }
   },
   {

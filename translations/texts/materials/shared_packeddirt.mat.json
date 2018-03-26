@@ -3,6 +3,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/packeddirt.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/packeddirt.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amused. These bricks are simply packed, shaped dirt.",
+      "Por": "Divertido. Estes tijolos são simplesmente embalados, em forma de terra."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/packeddirt.matitem": [
         "/florandescription"
       ],
       "tiles/materials/packeddirt.material": [
@@ -45,7 +60,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Um pouco de terra embalada em pequenos tijolos."
+    ],
     "Files": {
       "items/materials/packeddirt.matitem": [
         "/description"
@@ -57,21 +74,6 @@
     "Texts": {
       "Eng": "Some dirt packed into small bricks.",
       "Por": "Um pouco de terra transformada em pequenos tijolos."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/packeddirt.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/packeddirt.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "These bricks are simply packed, shaped dirt.",
-      "Por": "Esses tijolos são simplesmente embalados, em forma de terra."
     }
   }
 ]

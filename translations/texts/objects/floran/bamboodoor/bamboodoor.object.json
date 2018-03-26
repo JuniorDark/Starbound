@@ -39,23 +39,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/bamboodoor/bamboodoor.object": [
-        "/humanDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "This door has small gaps in it where the sticks of bamboo meet. I can see right through!",
-      "Por": "Esta porta tem pequenas lacunas onde as varas de bambu se encontram. Eu posso ver através!"
+      "Eng": "Surprised. This door is built from organic material, but stands as strong as steel.",
+      "Por": "Surpreso. Esta porta é feita de material orgânico, mas é tão forte como o aço."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/bamboodoor/bamboodoor.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/humanDescription"
       ]
     },
     "Texts": {
-      "Eng": "This door is built from organic material, but stands as strong as steel."
+      "Eng": "This door has small gaps in it where the sticks of bamboo meet. I can see right through!",
+      "Por": "Esta porta tem pequenas lacunas onde as varas de bambu se encontram. Eu posso ver através!"
     }
   },
   {

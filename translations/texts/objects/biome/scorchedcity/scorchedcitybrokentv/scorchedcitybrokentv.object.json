@@ -16,8 +16,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/scorchedcity/scorchedcitybrokentv/scorchedcitybrokentv.object": [
-        "/avianDescription",
-        "/glitchDescription/glitchEmotedText"
+        "/avianDescription"
       ]
     },
     "Texts": {
@@ -35,6 +34,18 @@
     "Texts": {
       "Eng": "Broken Stylish TV",
       "Por": "Broken Stylish TV"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/scorchedcity/scorchedcitybrokentv/scorchedcitybrokentv.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sad. A broken television.",
+      "Por": "Triste. Uma televisão quebrada."
     }
   },
   {

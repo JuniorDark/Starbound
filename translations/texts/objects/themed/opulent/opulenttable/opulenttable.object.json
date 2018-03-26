@@ -15,18 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/themed/opulent/opulenttable/opulenttable.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A very well-made opulent table.",
-      "Por": "Uma mesa luxuosa muito bem feita."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/themed/opulent/opulenttable/opulenttable.object": [
         "/avianDescription"
       ]
     },
@@ -45,6 +33,18 @@
     "Texts": {
       "Eng": "An incredibly stylish opulent table.",
       "Por": "Uma mesa luxuosa incrivelmente elegante."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/opulent/opulenttable/opulenttable.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Approving. A very well-made opulent table.",
+      "Por": "Aprovação. Uma mesa luxuosa muito bem feita."
     }
   },
   {

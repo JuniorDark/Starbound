@@ -3,6 +3,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/ridgebrick.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/ridgebrick.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Interested. These ridged construction blocks are simple, yet effective.",
+      "Por": "Interessado. Estes blocos de construção rígidos são simples, mas eficazes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/ridgebrick.matitem": [
         "/shortdescription"
       ],
       "tiles/materials/ridgebrick.material": [
@@ -42,21 +57,6 @@
     "Texts": {
       "Eng": "Stone bricks with a ridge carved near the top.",
       "Por": "Tijolos de pedra com um cume esculpido perto do topo."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/ridgebrick.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/ridgebrick.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "These ridged construction blocks are simple, yet effective.",
-      "Por": "Esses blocos de construção são simples, mas eficazes."
     }
   },
   {

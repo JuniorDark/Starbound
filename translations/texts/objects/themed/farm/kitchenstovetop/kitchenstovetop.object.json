@@ -75,24 +75,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/themed/farm/kitchenstovetop/kitchenstovetop.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A well-ordered cooking area for a rustic kitchen.",
-      "Por": "Uma área de cozimento bem ordenada para uma cozinha rústica."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/themed/farm/kitchenstovetop/kitchenstovetop.object": [
         "/shortdescription"
       ]
     },
     "Texts": {
       "Eng": "Kitchen Stove Top",
       "Por": "Kitchen Stove Top"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/farm/kitchenstovetop/kitchenstovetop.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased. A well-ordered cooking area for a rustic kitchen.",
+      "Por": "Satisfeito. Uma área de cozimento bem ordenada para uma cozinha rústica."
     }
   },
   {

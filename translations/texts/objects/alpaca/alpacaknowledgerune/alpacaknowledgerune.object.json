@@ -39,18 +39,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alpaca/alpacaknowledgerune/alpacaknowledgerune.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A rune to mean knowledge.",
-      "Por": "Uma runa que significa conhecimento."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alpaca/alpacaknowledgerune/alpacaknowledgerune.object": [
         "/description"
       ]
     },
@@ -81,6 +69,18 @@
     "Texts": {
       "Eng": "If this rune means knowledge, what can I learn from it?",
       "Por": "Se essa runa significa conhecimento, o que posso aprender com ela?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alpaca/alpacaknowledgerune/alpacaknowledgerune.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intrigued. A rune to mean knowledge.",
+      "Por": "Curioso. Uma runa que significa conhecimento."
     }
   },
   {

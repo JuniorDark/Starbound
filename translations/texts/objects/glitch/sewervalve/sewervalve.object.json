@@ -63,6 +63,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/sewervalve/sewervalve.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amused. This valve spins.",
+      "Por": "Divertido. Esta válvula gira."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/sewervalve/sewervalve.object": [
         "/novakidDescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "Ssspinny wheel.",
       "Por": "Roda giratória."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/glitch/sewervalve/sewervalve.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This valve spins."
     }
   }
 ]

@@ -3,36 +3,36 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/dungeon/evilfortress/evilknightlord.npctype": [
-        "/scriptConfig/dialog/attack/glitch/default/2/glitchEmotedText"
+        "/scriptConfig/dialog/attack/glitch/default/2"
       ]
     },
     "Texts": {
-      "Eng": "Do you think you can just come here and take what you please!?",
-      "Por": "Você acha que pode vir aqui e pegar o que quiser?"
+      "Eng": "Incensed. Do you think you can just come here and take what you please!?",
+      "Por": "Furioso. Você acha que pode vir aqui e apenas pegar o que lhe agrada!?"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "npcs/dungeon/evilfortress/evilknightlord.npctype": [
-        "/scriptConfig/dialog/attack/glitch/default/0/glitchEmotedText"
+        "/scriptConfig/dialog/attack/glitch/default/0"
       ]
     },
     "Texts": {
-      "Eng": "This is my Fortress! You will pay for coming here!",
-      "Por": "Esta é minha Fortaleza! Você vai pagar por vir aqui!"
+      "Eng": "Menacing. This is my Fortress! You will pay for coming here!",
+      "Por": "Ameaçador. Esta é a minha fortaleza! Você vai pagar por ter vindo aqui!"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "npcs/dungeon/evilfortress/evilknightlord.npctype": [
-        "/scriptConfig/dialog/attack/glitch/default/1/glitchEmotedText"
+        "/scriptConfig/dialog/attack/glitch/default/1"
       ]
     },
     "Texts": {
-      "Eng": "You are no match for me, even my own knights fear me!",
-      "Por": "Você não é páreo para mim, até meus próprios cavaleiros me temem!"
+      "Eng": "Proud. You are no match for me, even my own knights fear me!",
+      "Por": "Orgulhoso. Você não é páreo para mim, ate mesmo meus próprios cavaleiros tem medo de mim!"
     }
   }
 ]

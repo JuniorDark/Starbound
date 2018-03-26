@@ -63,23 +63,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/woodentalllantern/woodentalllantern.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A tall torch, the flame flickers."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/woodentalllantern/woodentalllantern.object": [
         "/floranDescription"
       ]
     },
     "Texts": {
       "Eng": "High torch holdss fire.",
       "Por": "Tocha alta tem fogo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodentalllantern/woodentalllantern.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Serene. A tall torch, the flame flickers.",
+      "Por": "Sereno. Uma tocha alta, a chama pisca."
     }
   },
   {

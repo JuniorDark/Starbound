@@ -4,13 +4,24 @@
     "Files": {
       "plants/grass/ground/decorative/crisp/crisp.grass": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ]
     },
     "Texts": {
       "Eng": "A crispy root.",
       "Por": "Uma raiz ondulada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/crisp/crisp.grass": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. A crispy root.",
+      "Por": "Relatório. Uma raiz ondulada."
     }
   }
 ]

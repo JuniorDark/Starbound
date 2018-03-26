@@ -1,16 +1,29 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Alga."
+    ],
     "Files": {
       "plants/bushes/ground/algae/algae.bush": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ]
     },
     "Texts": {
       "Eng": "Algae.",
-      "Por": "Alga."
+      "Por": "Algae."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/algae/algae.bush": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. Algae.",
+      "Por": "Declaração. Algas."
     }
   }
 ]

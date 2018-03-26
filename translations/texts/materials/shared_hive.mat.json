@@ -18,6 +18,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/hive.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/hive.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Revolted. This hive material is made up of crushed creatures.",
+      "Por": "Revoltado. O material desta colmeia é composto de criaturas esmagadas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/hive.matitem": [
         "/novakiddescription"
       ],
       "tiles/materials/hive.material": [
@@ -42,21 +57,6 @@
     "Texts": {
       "Eng": "Sticky hive combs made from the remains of fallen creatures.",
       "Por": "Favos de colmeia grudentos feito de restos de criaturas mortas."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/hive.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/hive.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This hive material is made up of crushed creatures.",
-      "Por": "Este material de colméia é feito de criaturas esmagadas."
     }
   }
 ]

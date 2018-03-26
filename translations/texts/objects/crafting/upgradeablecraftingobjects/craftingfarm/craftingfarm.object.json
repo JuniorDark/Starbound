@@ -68,19 +68,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/crafting/upgradeablecraftingobjects/craftingfarm/craftingfarm.object": [
-        "/glitchDescription/glitchEmotedText",
-        "/upgradeStages/0/itemSpawnParameters/glitchDescription/glitchEmotedText",
-        "/upgradeStages/1/itemSpawnParameters/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Farming module activated."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/crafting/upgradeablecraftingobjects/craftingfarm/craftingfarm.object": [
         "/floranDescription",
         "/upgradeStages/0/itemSpawnParameters/floranDescription",
         "/upgradeStages/1/itemSpawnParameters/floranDescription"
@@ -89,6 +76,20 @@
     "Texts": {
       "Eng": "Floran ussse table. Floran like to hunt!",
       "Por": "Floran usssa mesa. Floran gosta de caçar!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/upgradeablecraftingobjects/craftingfarm/craftingfarm.object": [
+        "/glitchDescription",
+        "/upgradeStages/0/itemSpawnParameters/glitchDescription",
+        "/upgradeStages/1/itemSpawnParameters/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Inspired. Farming module activated.",
+      "Por": "Inspirado. Módulo de agricultura ativado."
     }
   },
   {

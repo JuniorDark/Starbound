@@ -78,6 +78,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/prisonmirror1/prisonmirror1.object": [
+        "/glitchDescription"
+      ],
+      "objects/human/prisonmirror2/prisonmirror2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. There are at least four hundred and six shards of glass here.",
+      "Por": "Observador. Há pelo menos quatrocentos e seis cacos de vidro aqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisonmirror1/prisonmirror1.object": [
         "/floranDescription"
       ],
       "objects/human/prisonmirror2/prisonmirror2.object": [
@@ -102,20 +117,6 @@
     "Texts": {
       "Eng": "Such a breakage can only have been done in anger.",
       "Por": "Isso só pode ter sido feito com raiva."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/human/prisonmirror1/prisonmirror1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/human/prisonmirror2/prisonmirror2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "There are at least four hundred and six shards of glass here."
     }
   }
 ]

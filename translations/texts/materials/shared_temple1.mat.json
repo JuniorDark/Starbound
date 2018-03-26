@@ -3,6 +3,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/temple1.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/temple1.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. These stone carvings depict an unknown language.",
+      "Por": "Curioso. Estas gravuras de pedra retratam uma língua desconhecida."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/temple1.matitem": [
         "/florandescription"
       ],
       "tiles/materials/temple1.material": [
@@ -30,7 +45,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Temple Block"
+    ],
     "Files": {
       "items/materials/temple1.matitem": [
         "/shortdescription"
@@ -42,21 +59,6 @@
     "Texts": {
       "Eng": "Temple Block",
       "Por": "Temple Rock"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/temple1.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/temple1.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "These stone carvings depict an unknown language.",
-      "Por": "Estas gravuras de pedra descrevem uma língua desconhecida."
     }
   }
 ]

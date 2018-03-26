@@ -392,7 +392,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Perigoso"
+    ],
     "Files": {
       "interface/cockpit/cockpit.config": [
         "/objectThreatText/available/3",
@@ -1938,7 +1940,7 @@
     },
     "Texts": {
       "Eng": "dangerous",
-      "Por": "perigoso"
+      "Por": "perigosa"
     }
   }
 ]

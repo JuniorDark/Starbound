@@ -15,17 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/protectorate/objects/protectoratewatertank/protectoratewatertank.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A damaged water tank. I believe the water must be in the room below."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/protectorate/objects/protectoratewatertank/protectoratewatertank.object": [
         "/hylotlDescription"
       ]
     },
@@ -44,6 +33,18 @@
     "Texts": {
       "Eng": "A water tank from the Protectorate Academy.",
       "Por": "Um tanque de água da Academia do Protetorado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/protectorate/objects/protectoratewatertank/protectoratewatertank.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. A damaged water tank. I believe the water must be in the room below.",
+      "Por": "Atento. Um tanque de água danificado. Eu acredito que a água deve estar na sala abaixo."
     }
   },
   {

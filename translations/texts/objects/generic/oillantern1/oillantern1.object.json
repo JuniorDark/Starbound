@@ -40,6 +40,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/oillantern1/oillantern1.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Content. The lantern contains oil.",
+      "Por": "Contente. A lanterna contém óleo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/oillantern1/oillantern1.object": [
         "/avianDescription"
       ]
     },
@@ -58,17 +70,6 @@
     "Texts": {
       "Eng": "Oil Lantern",
       "Por": "Oil Lantern"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/oillantern1/oillantern1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The lantern contains oil."
     }
   }
 ]

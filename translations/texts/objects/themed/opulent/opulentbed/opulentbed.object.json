@@ -51,24 +51,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/themed/opulent/opulentbed/opulentbed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "My own awesome bed.",
-      "Por": "Minha própria cama incrível."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/themed/opulent/opulentbed/opulentbed.object": [
         "/shortdescription"
       ]
     },
     "Texts": {
       "Eng": "Opulent Bed",
       "Por": "Opulent Bed"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/opulent/opulentbed/opulentbed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Proud. My own awesome bed.",
+      "Por": "Orgulhoso. Minha própria cama incrível."
     }
   },
   {

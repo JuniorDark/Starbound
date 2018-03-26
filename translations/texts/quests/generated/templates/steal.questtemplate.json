@@ -15,12 +15,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/steal.questtemplate": [
-        "/scriptConfig/generatedText/completionText/default/glitch/1/glitchEmotedText"
+        "/scriptConfig/generatedText/text/default/glitch/1"
       ]
     },
     "Texts": {
-      "Eng": "Don't just hand me that <objectItem>! You think <victim> wouldn't put two and two together? Hold on to it for now. ",
-      "Por": "Apenas não me entregue aquele <objectItem>! Você acha que <victim> não iria perceber? Segure-o por enquanto."
+      "Eng": "Apprehensive. I'm afraid this next part requires something that does not belong to us. You need to ^green;obtain the ^orange;<objectItem> ^green;located in ^orange;<victim>'s ^green;home. ^white;Just make sure you don't get caught.",
+      "Por": "Apreensivo. Receio que esta próxima parte requer algo que não nos pertence. Você precisa ^green;obter o ^orange;<objectItem> ^green;localizado na casa de ^orange;<victim>^green;. ^white;Apenas certifique-se que você não seja pego."
     }
   },
   {
@@ -75,36 +75,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/steal.questtemplate": [
+        "/scriptConfig/generatedText/text/first/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Furtive. I'm in need of a certain object; specifically, ^orange;<victim>'s <objectItem>. ^white;Would you ^green;visit <victim.pronoun.possessiveDet> home and... Acquire it for me?^white; I wouldn't ask if it wasn't important.",
+      "Por": "Furtivo. Eu estou precisando de um determinado objeto, especificamente,^orange; <objectItem> de <victim>. ^white;Você poderia ^green;visitar a casa <victim.pronoun.possessiveDet> e...Pega-lo para mim?^white; Eu não pediria se não fosse importante."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/steal.questtemplate": [
         "/scriptConfig/generatedText/text/default/default/0"
       ]
     },
     "Texts": {
       "Eng": "How do you feel about burglary? I'd like you to ^green;aquire the ^orange;<objectItem>^green; in ^orange;<victim>'s^green; home for me. ",
       "Por": "Como você se sente em relação à roubo? Eu gostaria que você ^green;pegasse o ^orange;<objectItem>^green; na casa de ^orange;<victim>^green; para mim."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/steal.questtemplate": [
-        "/scriptConfig/generatedText/text/first/glitch/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I need you to ^green;obtain ^orange;<victim>'s <objectItem>. ^white;We can make far better use of it, but <victim.pronoun.subject> won't just hand it over... ^green;You'll have to take it...",
-      "Por": "Eu preciso que você ^green;obtenha um <objectItem> de ^orange;<victim>. ^white;Nós podemos fazer um melhor uso dele, mas <victim.pronoun.subject> não iria simplesmente entrega-lo... ^green;Você vai ter que pega-lo..."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/steal.questtemplate": [
-        "/scriptConfig/generatedText/text/default/glitch/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I'm afraid this next part requires something that does not belong to us. You need to ^green;obtain the ^orange;<objectItem> ^green;located in ^orange;<victim>'s ^green;home. ^white;Just make sure you don't get caught.",
-      "Por": "Receio que esta próxima parte requer algo que não nos pertence. Você precisa ^green;obter o ^orange;<objectItem> ^green;localizado na casa de ^orange;<victim>^green;. ^white;Apenas certifique-se que você não seja pego."
     }
   },
   {
@@ -123,12 +111,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/steal.questtemplate": [
-        "/scriptConfig/generatedText/text/first/glitch/0/glitchEmotedText"
+        "/scriptConfig/generatedText/completionText/first/glitch/0"
       ]
     },
     "Texts": {
-      "Eng": "I'm in need of a certain object; specifically, ^orange;<victim>'s <objectItem>. ^white;Would you ^green;visit <victim.pronoun.possessiveDet> home and... Acquire it for me?^white; I wouldn't ask if it wasn't important.",
-      "Por": "Eu estou precisando de um determinado objeto, especificamente,^orange; <objectItem> de <victim>. ^white;Você poderia ^green;visitar a casa <victim.pronoun.possessiveDet> e...Pega-lo para mim?^white; Eu não pediria se não fosse importante."
+      "Eng": "Impressed. You actually got the <objectItem> from <victim>? I thought maybe you'd get cold feet. Keep hold of it for the time being, and make sure you don't lose it.",
+      "Por": "Impressionado. Você realmente pegou o <objectItem> de <victim>? Eu pensei que talvez você fosse ficar com medo. Guarde ele por ora, e certifique-se que você não perca."
     }
   },
   {
@@ -141,6 +129,18 @@
     "Texts": {
       "Eng": "Let's get the first ssstep out of the way. Floran needs a particular thing from neighbour ^orange;<victim>'s^white; house. Floran already asked but <victim> said no. Will you ^green;sssneak in and get the shiny ^orange;<objectItem>^white; for Floran? ",
       "Por": "Vamos dar o primeiro passo fora do caminho. Floran precisa de uma coisa particular da casa do vizinho ^orange;<victim>^white;. Floran já pediu, mas <victim> disse que não. Você poderia ^green;esgueirar-se e obter o ^orange;<objectItem>^white; brilhante para Floran?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/steal.questtemplate": [
+        "/scriptConfig/generatedText/text/first/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nervous. I need you to ^green;obtain ^orange;<victim>'s <objectItem>. ^white;We can make far better use of it, but <victim.pronoun.subject> won't just hand it over... ^green;You'll have to take it...",
+      "Por": "Nervoso. Eu preciso que você ^green;obtenha um <objectItem> de ^orange;<victim>. ^white;Nós podemos fazer um melhor uso dele, mas <victim.pronoun.subject> não iria simplesmente entrega-lo... ^green;Você vai ter que pega-lo..."
     }
   },
   {
@@ -171,12 +171,36 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/steal.questtemplate": [
-        "/scriptConfig/generatedText/text/default/glitch/0/glitchEmotedText"
+        "/scriptConfig/generatedText/completionText/default/glitch/1"
       ]
     },
     "Texts": {
-      "Eng": "Now I require a certain object... Specifically, the ^orange;<objectItem>^green; in ^orange;<victim>'s^green; home.^white; You're going to have to ^green;acquire it for me. ",
-      "Por": "Agora eu preciso de um determinado objeto... Especificamente, o ^orange;<objectItem>^green; na casa de ^orange;<victim>.^white; Você vai ter que ^green;pega-lo para mim."
+      "Eng": "Panicked. Don't just hand me that <objectItem>! You think <victim> wouldn't put two and two together? Hold on to it for now. ",
+      "Por": "Apavorado. Apenas não me entregue aquele <objectItem>! Você acha que <victim> não iria perceber? Segure-o por enquanto."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/steal.questtemplate": [
+        "/scriptConfig/generatedText/completionText/first/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Paranoid. This is the <objectItem> I required. I hope nobody saw you take it! Better not hand it to me immediately. Let's wait for a moment.",
+      "Por": "Paranoico. Isto é o <objectItem> que eu solicitei. Espero que ninguém viu você pega-lo! Melhor não entregá-lo a mim imediatamente. Vamos esperar um pouco."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/steal.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shifty. Now I require a certain object... Specifically, the ^orange;<objectItem>^green; in ^orange;<victim>'s^green; home.^white; You're going to have to ^green;acquire it for me. ",
+      "Por": "Desonesto. Agora eu preciso de um determinado objeto... Especificamente, o ^orange;<objectItem>^green; na casa de ^orange;<victim>.^white; Você vai ter que ^green;pega-lo para mim."
     }
   },
   {
@@ -207,30 +231,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/steal.questtemplate": [
-        "/scriptConfig/generatedText/completionText/first/glitch/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This is the <objectItem> I required. I hope nobody saw you take it! Better not hand it to me immediately. Let's wait for a moment.",
-      "Por": "Isto é o <objectItem> que eu solicitei. Espero que ninguém viu você pega-lo! Melhor não entregá-lo a mim imediatamente. Vamos esperar um pouco."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/steal.questtemplate": [
-        "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This looks like <victim>'s <objectItem> alright. It's not in the best condition, but it'll have to do for now.",
-      "Por": "Isto se parece bem com o <objectItem> de <victim>. Não esta na melhor condição, mas ele vai ter que servir por agora."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/steal.questtemplate": [
         "/scriptConfig/generatedText/text/default/default/1"
       ]
     },
@@ -255,6 +255,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/steal.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unimpressed. This looks like <victim>'s <objectItem> alright. It's not in the best condition, but it'll have to do for now.",
+      "Por": "Desinteressado. Isto se parece bem com o <objectItem> de <victim>. Não esta na melhor condição, mas ele vai ter que servir por agora."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/steal.questtemplate": [
         "/scriptConfig/generatedText/completionText/default/default/0"
       ]
     },
@@ -273,18 +285,6 @@
     "Texts": {
       "Eng": "Yes, that's the <objectItem> I was looking for! Nobody saw you take it, right?",
       "Por": "Sim, esse é o <objectItem> que eu estava procurando! Ninguém viu você pega-lo, certo?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/steal.questtemplate": [
-        "/scriptConfig/generatedText/completionText/first/glitch/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "You actually got the <objectItem> from <victim>? I thought maybe you'd get cold feet. Keep hold of it for the time being, and make sure you don't lose it.",
-      "Por": "Você realmente pegou o <objectItem> de <victim>? Eu pensei que talvez você fosse ficar com medo. Guarde ele por ora, e certifique-se que você não perca."
     }
   },
   {

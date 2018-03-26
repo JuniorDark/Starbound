@@ -3,8 +3,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/wired/logic/delay.object": [
-        "/description",
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ]
     },
     "Texts": {
@@ -34,6 +33,18 @@
     "Texts": {
       "Eng": "Delay Gate",
       "Por": "Delay Gate"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/logic/delay.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neutral. A circuit that relays signals after a set delay.",
+      "Por": "Neutro. Um circuito que transmite sinais após um atraso definido."
     }
   }
 ]

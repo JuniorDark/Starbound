@@ -63,6 +63,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/prisongrateh/prisongrateh.object": [
+        "/glitchDescription"
+      ],
+      "objects/human/prisongratev/prisongratev.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. Maybe an agile Glitch to fit through here.",
+      "Por": "Curioso. Talvez um Glitch ágil caiba aqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisongrateh/prisongrateh.object": [
         "/floranDescription"
       ],
       "objects/human/prisongratev/prisongratev.object": [
@@ -87,20 +102,6 @@
     "Texts": {
       "Eng": "I've always wanted to go crawling through vents.",
       "Por": "Eu sempre quis ir rastejando através de respiradouros."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/human/prisongrateh/prisongrateh.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/human/prisongratev/prisongratev.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Maybe an agile Glitch to fit through here."
     }
   },
   {

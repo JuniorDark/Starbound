@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/lunarbaselocker/lunarbaselocker.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A metallic set of six lockers."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/mission/lunarbaselocker/lunarbaselocker.object": [
         "/avianDescription"
       ]
     },
@@ -68,6 +57,18 @@
     "Texts": {
       "Eng": "Lunar Base Lockers",
       "Por": "Lunar Base Lockers"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/lunarbaselocker/lunarbaselocker.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. A metallic set of six lockers.",
+      "Por": "Observador. Um conjunto metálico de seis armários."
     }
   },
   {

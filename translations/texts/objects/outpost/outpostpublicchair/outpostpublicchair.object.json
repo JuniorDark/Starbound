@@ -16,8 +16,7 @@
     "Files": {
       "objects/outpost/outpostpublicchair/outpostpublicchair.object": [
         "/apexDescription",
-        "/avianDescription",
-        "/glitchDescription/glitchEmotedText"
+        "/avianDescription"
       ]
     },
     "Texts": {
@@ -59,6 +58,18 @@
     "Texts": {
       "Eng": "Just a chair.",
       "Por": "Apenas uma cadeira."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostpublicchair/outpostpublicchair.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neutral. A chair.",
+      "Por": "Neutro. Uma cadeira."
     }
   },
   {

@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/apexwoodenshelves/apexwoodenshelves.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bored. There is nothing of interest here.",
+      "Por": "Entediado. Não há nada de interesse aqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/apexwoodenshelves/apexwoodenshelves.object": [
         "/apexDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "The shelves are empty.",
       "Por": "As prateleiras estão vazias."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/apex/apexwoodenshelves/apexwoodenshelves.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "There is nothing of interest here."
     }
   },
   {

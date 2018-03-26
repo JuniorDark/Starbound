@@ -3,20 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/holiday/lollipop1/lollipop1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/holiday/lollipop2/lollipop2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A giant lollipop."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/holiday/lollipop1/lollipop1.object": [
         "/avianDescription"
       ],
       "objects/holiday/lollipop2/lollipop2.object": [
@@ -56,6 +42,21 @@
     "Texts": {
       "Eng": "An exceptionally tasty lollipop.",
       "Por": "Um pirulito excepcionalmente saboroso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/holiday/lollipop1/lollipop1.object": [
+        "/glitchDescription"
+      ],
+      "objects/holiday/lollipop2/lollipop2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Entranced. A giant lollipop.",
+      "Por": "Em Transe. Um pirulito gigante."
     }
   },
   {

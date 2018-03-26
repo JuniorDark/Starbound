@@ -63,18 +63,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/themed/outdoor/outdoorstool/outdoorstool.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "It's a metal stool.",
-      "Por": "É uma banqueta de metal."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/themed/outdoor/outdoorstool/outdoorstool.object": [
         "/avianDescription"
       ]
     },
@@ -93,6 +81,18 @@
     "Texts": {
       "Eng": "Just a sssingle stool.",
       "Por": "Apenas uma única banqueta."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/outdoor/outdoorstool/outdoorstool.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. It's a metal stool.",
+      "Por": "Atento. É uma banqueta de metal."
     }
   },
   {

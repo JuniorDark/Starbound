@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Placa escrito Floor."
+    ],
     "Files": {
       "objects/outpost/floor/floor.object": [
         "/avianDescription",
@@ -41,8 +43,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/floor/floor.object": [
-        "/apexDescription",
-        "/glitchDescription/glitchEmotedText"
+        "/apexDescription"
       ]
     },
     "Texts": {
@@ -72,6 +73,18 @@
     "Texts": {
       "Eng": "It's a floor sign! Whoopie!",
       "Por": "É um placa de floor! Whoopie!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/floor/floor.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Savvy. Floor sign.",
+      "Por": "Esclarecido. Placa escrito Floor."
     }
   }
 ]

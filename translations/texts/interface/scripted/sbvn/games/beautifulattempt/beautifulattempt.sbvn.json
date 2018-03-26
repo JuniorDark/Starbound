@@ -1037,7 +1037,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Perguntei a ela por que a cerimonia nao estava completa.",
+      "Pergunto a ela por que sua cerimonia nao foi completa."
+    ],
     "Files": {
       "interface/scripted/sbvn/games/beautifulattempt/beautifulattempt.sbvn": [
         "/scenes/ritual2a/text",
@@ -1046,7 +1049,7 @@
     },
     "Texts": {
       "Eng": "I ask her why her ceremony wasn't complete.",
-      "Por": "Pergunto a ela por que sua cerimonia nao foi completa."
+      "Por": "Pergunto a ela por que sua cerimonia nao estava completa."
     }
   },
   {
@@ -1985,6 +1988,19 @@
     "Texts": {
       "Eng": "Where am I?",
       "Por": "Onde estou?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/sbvn/games/beautifulattempt/beautifulattempt.sbvn": [
+        "/scenes/kasumi1a/options/1/0",
+        "/scenes/kasumi1b/options/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Who are you?",
+      "Por": "Quem e voce?"
     }
   },
   {

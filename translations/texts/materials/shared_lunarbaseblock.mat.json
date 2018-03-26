@@ -3,6 +3,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/lunarbaseblock.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/lunarbaseblock.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Interested. This durable alloy is not familiar.",
+      "Por": "Interessado. Esta liga durável não é familiar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/lunarbaseblock.matitem": [
         "/shortdescription"
       ],
       "tiles/materials/lunarbaseblock.material": [
@@ -57,21 +72,6 @@
     "Texts": {
       "Eng": "This alloy looks incredibly durable.",
       "Por": "Esta liga parece incrivelmente durável."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/lunarbaseblock.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/lunarbaseblock.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This durable alloy is not familiar.",
-      "Por": "Esta liga durável não é familiar."
     }
   }
 ]

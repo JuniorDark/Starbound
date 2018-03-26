@@ -51,23 +51,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hoard/treasurechest/treasurechest.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A treasure chest! What could be inside?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/hoard/treasurechest/treasurechest.object": [
         "/description"
       ]
     },
     "Texts": {
       "Eng": "A treasure chest.",
       "Por": "Um baú de tesouro."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hoard/treasurechest/treasurechest.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excitable. A treasure chest! What could be inside?",
+      "Por": "Excitável. Um baú de tesouro! O que poderia estar dentro?"
     }
   },
   {

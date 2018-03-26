@@ -87,18 +87,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/spread_rumors.questtemplate": [
-        "/scriptConfig/generatedText/completionText/first/glitch/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "<target> looked horrified when <target.pronoun.subject> read the message! Not that I was hiding and watching <target.pronoun.object> or anything. Anyway, there's work to do yet!",
-      "Por": "<target> parecia horrorizado quando <target.pronoun.subject> leu a mensagem! Não que eu estava escondendo e assistindo <target.pronoun.object> ou qualquer coisa. De qualquer forma, há trabalho a fazer ainda!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/spread_rumors.questtemplate": [
         "/scriptConfig/secretNote/0"
       ]
     },
@@ -111,12 +99,84 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/spread_rumors.questtemplate": [
-        "/scriptConfig/generatedText/text/last/glitch/1/glitchEmotedText"
+        "/scriptConfig/generatedText/completionText/next/glitch/1"
       ]
     },
     "Texts": {
-      "Eng": "Finally, ^green;hand this rumour about ^orange;<other> ^green;to ^orange;<target>. ^white;It's a little far fetched, but there's no smoke without fire.",
-      "Por": "Finalmente, ^green;entregue este boato sobre ^orange;<other> ^green;para ^orange;<target>. ^white;É um pouco forçada, mas não há fumaça sem fogo."
+      "Eng": "Amused. I think it's safe to say <other>'s social life is in tatters!",
+      "Por": "Divertido. Eu acho que é seguro dizer que a vida social de <other> está destruída!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/text/next/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Callous. Once you ^green;give ^orange;<target> ^green;this rumour I've written about ^orange;<other>, ^white;<target.pronoun.subject> won't be able to resist telling everyone!",
+      "Por": "Insensível. Assim que você ^green;der a ^orange;<target> ^green;este rumor que eu escrevi sobre ^orange;<other>, ^white;<target.pronoun.subject> não será capaz de resistir a contar para todo mundo!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/completionText/last/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Delighted. That rumour fanned the flames magnificently! <other> isn't going to have many friends left after this.",
+      "Por": "Satisfeito. Esse boato espalhou as chamas magnificamente! <other> não vai ter muitos amigos restando depois disso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Devious. I want to get closer to <target>, but <target.pronoun.subject> only has eyes for <other>. I bet that will change once you ^green;give ^orange;<target>^green; this ^orange;note^white; ^green;about ^orange;<other>^white;... Then <target> will have time for me!",
+      "Por": "Desonesto. Eu quero chegar mais perto de <target>, mas <target.pronoun.subject> só tem olhos para <other>. Aposto isso vai mudar, quando você ^green;der a^orange;<target>^green; esta ^orange;nota^white; ^green;sobre ^orange;<other>^white;... Então <target> vai ter tempo para mim!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/text/last/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Devious. Lastly, I will need you to ^green;give this ^orange;note^green; to ^orange;<target>. ^white;<target.pronoun.capitalSubject> definitely won't want to speak to ^orange;<other> ^white;anymore after reading this...",
+      "Por": "Desonesto. Por último, vou precisar que você ^green;de essa ^orange;nota^green; para ^orange;<target>. ^white;<target.pronoun.capitalSubject> definitivamente não vai mais quer falar com ^orange;<other> ^white;depois de ler isto..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Elated. I have no doubt that with <other> out of the way, <target> and I will become great friends!",
+      "Por": "Alegre. Não tenho dúvidas de que com <other> fora do caminho, <target> e eu vamos se tornar grandes amigos!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/text/first/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Envious. I want to be friends with <target>, but <target.pronoun.subject> spends all <target.pronoun.possessiveDet> time with <other>. But what if ^orange;<other> had a horrible secret? ^green;Give this ^orange;note^green; to ^orange;<target>^white;... <target.pronoun.capitalSubject>'ll surely reconsider their friendship after reading this...",
+      "Por": "Invejoso. Eu quero ser amigo de <target>, mas <target.pronoun.subject> gasta todo <target.pronoun.possessiveDet> tempo com <other>. Mas e se ^orange;<other> tivesse um segredo horrível? ^green;Dê esta ^orange;nota^green; para ^orange;<target>^white;... <target.pronoun.capitalSubject> vai certamente considerar sua amizade depois de ler isto..."
     }
   },
   {
@@ -141,18 +201,6 @@
     "Texts": {
       "Eng": "First Floran needs to befriend <target>. Floran knows how friendship works, there's only so much room in people's hearts! We need to make sure <target> stops being friends with that pesssky ^orange;<other>^white;! ^green;Deliver this ^orange;note^white; to ^orange;<target>^white;. It describes the ugly truth about <target.pronoun.possessiveDet> so called friend.",
       "Por": "Primeiro Floran precisa fazer amizade com <target>. Floran sabe como funciona a amizade, só há tanto espaço no coração das pessoas! Precisamos de ter a certeza que <target> deixe de ser amigo daquele irritante ^orange;<other>^white;! ^green;Entregue esta ^orange;nota^white; para ^orange;<target>^white;. Ela descreve a verdade feia sobre <target.pronoun.possessiveDet> assim chamado amigo."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/spread_rumors.questtemplate": [
-        "/scriptConfig/generatedText/text/first/glitch/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "First, let's find a blabbermouth. ^orange;<target> ^white;will do nicely. Once <target.pronoun.subject> ^green;receives this ^orange;note ^green;from you ^white;I can guarantee ^orange;<other> won't be so popular around here anymore.",
-      "Por": "Primeiro, vamos encontrar um tagarela. ^orange;<target> ^white;servira muito bem. Uma vez que <target.pronoun.subject> ^green;recebe esta ^orange;nota ^green;de você ^white;Posso garantir que ^orange;<other> não será mais tão popular por aqui."
     }
   },
   {
@@ -255,18 +303,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/spread_rumors.questtemplate": [
-        "/scriptConfig/generatedText/completionText/next/glitch/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I bet <target> will be spending much less time around <other> now, which definitely means <target.pronoun.subject>'ll have more time for me. There's something else I need you to do...",
-      "Por": "Eu aposto que <target> estará gastando muito menos tempo com <other> agora, que definitivamente significa que <target.pronoun.subject> vai ter mais tempo para mim. Há mais uma coisa que eu preciso que você faça..."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/spread_rumors.questtemplate": [
         "/scriptConfig/generatedText/failureText/0"
       ]
     },
@@ -303,18 +339,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/spread_rumors.questtemplate": [
-        "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I have no doubt that with <other> out of the way, <target> and I will become great friends!",
-      "Por": "Não tenho dúvidas de que com <other> fora do caminho, <target> e eu vamos se tornar grandes amigos!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/spread_rumors.questtemplate": [
         "/scriptConfig/generatedText/text/first/default/0"
       ]
     },
@@ -327,48 +351,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/spread_rumors.questtemplate": [
-        "/scriptConfig/generatedText/completionText/next/glitch/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I think it's safe to say <other>'s social life is in tatters!",
-      "Por": "Eu acho que é seguro dizer que a vida social de <other> está destruída!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/spread_rumors.questtemplate": [
         "/scriptConfig/generatedText/text/next/default/1"
       ]
     },
     "Texts": {
       "Eng": "I want <target> to stop being friendly with ^orange;<other>^white; and become my friend instead. Here's a ^orange;note^white; I wrote with the truth about <other> in it. ^green;Please, deliver it to ^orange;<target>^white; for me!",
       "Por": "Eu quero que <target> deixe de ser amigo de ^orange;<other>^white; e torne-se meu amigo. Aqui está uma ^orange;nota^white; que eu escrevi com a verdade sobre <other> nela. ^green;Por favor, entregue ela para ^orange;<target>^white; para mim!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/spread_rumors.questtemplate": [
-        "/scriptConfig/generatedText/text/first/glitch/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I want to be friends with <target>, but <target.pronoun.subject> spends all <target.pronoun.possessiveDet> time with <other>. But what if ^orange;<other> had a horrible secret? ^green;Give this ^orange;note^green; to ^orange;<target>^white;... <target.pronoun.capitalSubject>'ll surely reconsider their friendship after reading this...",
-      "Por": "Eu quero ser amigo de <target>, mas <target.pronoun.subject> gasta todo <target.pronoun.possessiveDet> tempo com <other>. Mas e se ^orange;<other> tivesse um segredo horrível? ^green;Dê esta ^orange;nota^green; para ^orange;<target>^white;... <target.pronoun.capitalSubject> vai certamente considerar sua amizade depois de ler isto..."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/spread_rumors.questtemplate": [
-        "/scriptConfig/generatedText/text/default/glitch/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I want to get closer to <target>, but <target.pronoun.subject> only has eyes for <other>. I bet that will change once you ^green;give ^orange;<target>^green; this ^orange;note^white; ^green;about ^orange;<other>^white;... Then <target> will have time for me!",
-      "Por": "Eu quero chegar mais perto de <target>, mas <target.pronoun.subject> só tem olhos para <other>. Aposto isso vai mudar, quando você ^green;der a^orange;<target>^green; esta ^orange;nota^white; ^green;sobre ^orange;<other>^white;... Então <target> vai ter tempo para mim!"
     }
   },
   {
@@ -399,18 +387,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/spread_rumors.questtemplate": [
-        "/scriptConfig/generatedText/text/default/glitch/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I'll teach ^orange;<other>^white; a lesson <other.pronoun.subject> won't soon forget. ^green;Give this rumour I've written to ^orange;<target>^white;, then we can sit back and watch the fireworks.",
-      "Por": "Vou ensinar a ^orange;<other>^white; uma lição que <other.pronoun.subject> não vai esquecer tão cedo. ^green;Dê este boato que eu escrevi para ^orange;<target>^white;, então podemos sentar e assistir os fogos de artifício."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/spread_rumors.questtemplate": [
         "/scriptConfig/responseNote/3"
       ]
     },
@@ -429,18 +405,6 @@
     "Texts": {
       "Eng": "I'm excited about my new friend! Everyone knows <other> is bad company anyway! Thanks for your hard work.",
       "Por": "Estou animado com meu novo amigo! Todo mundo sabe que <other> é uma má companhia de qualquer maneira! Obrigado por seu trabalho duro."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/spread_rumors.questtemplate": [
-        "/scriptConfig/generatedText/completionText/last/glitch/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I've no doubt that <target> and I will become good friends now that <other> is out of the picture.",
-      "Por": "Eu não tenho nenhuma dúvida de que <target> e eu vamos se tornar bons amigos agora que <other> está fora de cogitação."
     }
   },
   {
@@ -471,6 +435,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/completionText/first/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. <target> looked horrified when <target.pronoun.subject> read the message! Not that I was hiding and watching <target.pronoun.object> or anything. Anyway, there's work to do yet!",
+      "Por": "Impressionado. <target> parecia horrorizado quando <target.pronoun.subject> leu a mensagem! Não que eu estava escondendo e assistindo <target.pronoun.object> ou qualquer coisa. De qualquer forma, há trabalho a fazer ainda!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
         "/scriptConfig/generatedText/text/next/floran/1"
       ]
     },
@@ -483,24 +459,36 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/spread_rumors.questtemplate": [
-        "/scriptConfig/generatedText/text/last/glitch/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Lastly, I will need you to ^green;give this ^orange;note^green; to ^orange;<target>. ^white;<target.pronoun.capitalSubject> definitely won't want to speak to ^orange;<other> ^white;anymore after reading this...",
-      "Por": "Por último, vou precisar que você ^green;de essa ^orange;nota^green; para ^orange;<target>. ^white;<target.pronoun.capitalSubject> definitivamente não vai mais quer falar com ^orange;<other> ^white;depois de ler isto..."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/spread_rumors.questtemplate": [
         "/scriptConfig/generatedText/text/first/default/1"
       ]
     },
     "Texts": {
       "Eng": "Let's start by befriending <target>. First we have to make <target.pronoun.object> stop seeing <target.pronoun.possessiveDet> lame friend. ^green;I've prepared this ^orange;note^green; that I want you to deliver to ^orange;<target>^white; that outlines the worser points of <target.pronoun.possessiveDet> boring friend. Please deliver it for me!",
       "Por": "Vamos começar fazendo amizade com <target>. Primeiro temos que fazer <target.pronoun.object> parar de ver <target.pronoun.possessiveDet> amigo estupido. ^green;Eu preparei esta ^orange;nota^green; que eu quero que você entregue a ^orange;<target>^white; que descreve os piores pontos de <target.pronoun.possessiveDet> amigo chato. Por favor entregue-a para mim!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Malicious. I'll teach ^orange;<other>^white; a lesson <other.pronoun.subject> won't soon forget. ^green;Give this rumour I've written to ^orange;<target>^white;, then we can sit back and watch the fireworks.",
+      "Por": "Malicioso. Vou ensinar a ^orange;<other>^white; uma lição que <other.pronoun.subject> não vai esquecer tão cedo. ^green;Dê este boato que eu escrevi para ^orange;<target>^white;, então podemos sentar e assistir os fogos de artifício."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/text/next/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Manipulative. Now I need you to ^green;give this ^orange;note^green; to ^orange;<target>^white; to persuade <target.pronoun.object> to stop talking to ^orange;<other>^white;. What? No, everything it says is definitely completely true.",
+      "Por": "Manipulador. Agora eu preciso que você ^green;de essa ^orange;nota^green; para ^orange;<target>^white; para persuadir <target.pronoun.object> parar de falar com ^orange;<other>^white;. O que? Não, tudo o que ela diz é definitivamente completamente verdade."
     }
   },
   {
@@ -531,18 +519,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/spread_rumors.questtemplate": [
-        "/scriptConfig/generatedText/text/next/glitch/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Now I need you to ^green;give this ^orange;note^green; to ^orange;<target>^white; to persuade <target.pronoun.object> to stop talking to ^orange;<other>^white;. What? No, everything it says is definitely completely true.",
-      "Por": "Agora eu preciso que você ^green;de essa ^orange;nota^green; para ^orange;<target>^white; para persuadir <target.pronoun.object> parar de falar com ^orange;<other>^white;. O que? Não, tudo o que ela diz é definitivamente completamente verdade."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/spread_rumors.questtemplate": [
         "/scriptConfig/generatedText/text/last/floran/1"
       ]
     },
@@ -555,12 +531,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/spread_rumors.questtemplate": [
-        "/scriptConfig/generatedText/text/next/glitch/1/glitchEmotedText"
+        "/scriptConfig/generatedText/completionText/next/glitch/0"
       ]
     },
     "Texts": {
-      "Eng": "Once you ^green;give ^orange;<target> ^green;this rumour I've written about ^orange;<other>, ^white;<target.pronoun.subject> won't be able to resist telling everyone!",
-      "Por": "Assim que você ^green;der a ^orange;<target> ^green;este rumor que eu escrevi sobre ^orange;<other>, ^white;<target.pronoun.subject> não será capaz de resistir a contar para todo mundo!"
+      "Eng": "Pleased. I bet <target> will be spending much less time around <other> now, which definitely means <target.pronoun.subject>'ll have more time for me. There's something else I need you to do...",
+      "Por": "Satisfeito. Eu aposto que <target> estará gastando muito menos tempo com <other> agora, que definitivamente significa que <target.pronoun.subject> vai ter mais tempo para mim. Há mais uma coisa que eu preciso que você faça..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased. That worked better than I expected. <other> will think twice before spreading rumours again! <target> was horrified!",
+      "Por": "Satisfeito. Isso funcionou melhor do que eu esperava. <other> vai pensar duas vezes antes de espalhar boatos novamente! <target> ficou horrorizado!"
     }
   },
   {
@@ -573,6 +561,42 @@
     "Texts": {
       "Eng": "Rival Person",
       "Por": "Pessoa Rival"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/completionText/last/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Satisfied. I've no doubt that <target> and I will become good friends now that <other> is out of the picture.",
+      "Por": "Satisfeito. Eu não tenho nenhuma dúvida de que <target> e eu vamos se tornar bons amigos agora que <other> está fora de cogitação."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/completionText/first/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Satisfied. That was great! <target> bought it immediately. The rumour about <other> is spreading already.",
+      "Por": "Satisfeito. Isso foi ótimo! <target> aceitou imediatamente. O boato sobre <other> já está se espalhando."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/text/first/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Spiteful. First, let's find a blabbermouth. ^orange;<target> ^white;will do nicely. Once <target.pronoun.subject> ^green;receives this ^orange;note ^green;from you ^white;I can guarantee ^orange;<other> won't be so popular around here anymore.",
+      "Por": "Maldoso. Primeiro, vamos encontrar um tagarela. ^orange;<target> ^white;servira muito bem. Uma vez que <target.pronoun.subject> ^green;recebe esta ^orange;nota ^green;de você ^white;Posso garantir que ^orange;<other> não será mais tão popular por aqui."
     }
   },
   {
@@ -615,48 +639,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/spread_rumors.questtemplate": [
-        "/scriptConfig/generatedText/completionText/last/glitch/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "That rumour fanned the flames magnificently! <other> isn't going to have many friends left after this.",
-      "Por": "Esse boato espalhou as chamas magnificamente! <other> não vai ter muitos amigos restando depois disso."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/spread_rumors.questtemplate": [
-        "/scriptConfig/generatedText/completionText/first/glitch/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "That was great! <target> bought it immediately. The rumour about <other> is spreading already.",
-      "Por": "Isso foi ótimo! <target> aceitou imediatamente. O boato sobre <other> já está se espalhando."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/spread_rumors.questtemplate": [
         "/scriptConfig/generatedText/completionText/next/floran/0"
       ]
     },
     "Texts": {
       "Eng": "That went well! With Floran's new found friend the next ssstep will be much easier.",
       "Por": "Isso correu bem! Com o novo amigo encontrado de Floran o próximo passo será muito mais fácil."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/spread_rumors.questtemplate": [
-        "/scriptConfig/generatedText/completionText/default/glitch/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "That worked better than I expected. <other> will think twice before spreading rumours again! <target> was horrified!",
-      "Por": "Isso funcionou melhor do que eu esperava. <other> vai pensar duas vezes antes de espalhar boatos novamente! <target> ficou horrorizado!"
     }
   },
   {
@@ -717,6 +705,18 @@
     "Texts": {
       "Eng": "To start, Floran needss to befriend lovely <target>. Too bad <target.pronoun.subject> always spends time with ssstupid ^orange;<other>^white;. Please ^green;deliver this ^orange;note^green; to ^orange;<target>^white;. It contains the truth about <target.pronoun.possessiveDet> terrible friend.",
       "Por": "Para começar, Floran precisa fazer amizade linda com <target>. Pena que <target.pronoun.subject> sempre gasta tempo com ^orange;<other>^white;. Por favor ^green;entregue esta ^orange;nota^green; para ^orange;<target>^white;. Ela contém a verdade sobre <target.pronoun.possessiveDet> terrível amigo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/spread_rumors.questtemplate": [
+        "/scriptConfig/generatedText/text/last/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vindictive. Finally, ^green;hand this rumour about ^orange;<other> ^green;to ^orange;<target>. ^white;It's a little far fetched, but there's no smoke without fire.",
+      "Por": "Vingativo. Finalmente, ^green;entregue este boato sobre ^orange;<other> ^green;para ^orange;<target>. ^white;É um pouco forçada, mas não há fumaça sem fogo."
     }
   },
   {

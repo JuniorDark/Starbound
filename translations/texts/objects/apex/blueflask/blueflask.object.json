@@ -39,23 +39,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/blueflask/blueflask.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Blue!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/apex/blueflask/blueflask.object": [
         "/apexDescription"
       ]
     },
     "Texts": {
       "Eng": "God only knows what suffering this mixture has caused.",
       "Por": "Só deus sabe que sofrimento essa mistura causou."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/blueflask/blueflask.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Inspired. Blue!",
+      "Por": "Inspirado. Azul!"
     }
   },
   {

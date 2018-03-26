@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/apexstatue/apexstatue.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Questioning. The scientist 'gave his body to science'. Perhaps he had no choice?",
+      "Por": "Questionando. O cientista \"deu seu corpo à ciência\". Talvez ele não tivesse escolha?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/apexstatue/apexstatue.object": [
         "/hylotlDescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "Ssilly Apex give body to science, ssuch a wassste of good meat.",
       "Por": "Apex bobo deu corpo à ciência, que desssperdício de boa carne."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/apex/apexstatue/apexstatue.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The scientist 'gave his body to science'. Perhaps he had no choice?"
     }
   },
   {

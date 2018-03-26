@@ -87,24 +87,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/space/stationtable/stationtable.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This small metal table is unremarkable.",
-      "Por": "Esta pequena mesa de metal não é interessante."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/space/stationtable/stationtable.object": [
         "/floranDescription"
       ]
     },
     "Texts": {
       "Eng": "Thisss metal table is small and round.",
       "Por": "Esta mesa de metal é pequena e redonda."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/stationtable/stationtable.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unimpressed. This small metal table is unremarkable.",
+      "Por": "Não impressionado. Esta pequena mesa de metal não é normal."
     }
   }
 ]

@@ -40,13 +40,24 @@
     "Files": {
       "objects/human/bunkercorner/bunkercorner.object": [
         "/apexDescription",
-        "/glitchDescription/glitchEmotedText",
         "/novakidDescription"
       ]
     },
     "Texts": {
       "Eng": "A support beam.",
       "Por": "Uma viga de suporte."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkercorner/bunkercorner.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bored. A support beam.",
+      "Por": "Entediado. Uma viga de suporte."
     }
   },
   {

@@ -63,24 +63,60 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/recruit_guard.questtemplate": [
-        "/scriptConfig/generatedText/text/default/floran/0"
+        "/scriptConfig/generatedText/completionText/default/glitch/0"
       ]
     },
     "Texts": {
-      "Eng": "Final part is to ^green;place ^orange;<guardObject> ^white;into a newly made home, along with ^green;3 ^orange;<tag>^green; itemsss^white;, for a <tag> guard! Also ^green;place this ^orange;Colony Deed^green; inside^white;, and a ^green;^orange;light source^white;!",
-      "Por": "A parte final é ^green;colocar ^orange;<guardObject> ^white;em uma casa recém-feita, juntamente com ^green;3 itenss ^orange;<tag>^white;, para um <tag> guarda! Também ^green;coloque este ^orange;Colony Deed^green; dentro^white;, e uma ^green;^orange;fonte de luz^white;!"
+      "Eng": "Content. I have complete peace of mind, knowing our new guard is on duty. I will not forget your tireless efforts.",
+      "Por": "Contente. Eu tenho paz de espírito, sabendo que o nosso novo guarda está de plantão. Não vou esquecer os seus esforços incansáveis."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/recruit_guard.questtemplate": [
-        "/scriptConfig/generatedText/text/default/glitch/0/glitchEmotedText"
+        "/scriptConfig/generatedText/text/default/glitch/0"
       ]
     },
     "Texts": {
-      "Eng": "Finally, ^green;build a new house with your ^orange;<guardObject>^white; in it, ^green;add 3 pieces of furniture that a ^orange;<tag>^white; would like and ^green;put this ^orange;Colony Deed^green; in it^white;! Don't forget to ^green;add a^orange; light source!",
-      "Por": "Finalmente, ^green;construa uma nova casa com o seu ^orange;<guardObject>^white; nela, ^green;coloque 3 peças de mobiliário que um ^orange;<tag>^white; gostaria e ^green;colocar esta ^orange;Colony Deed^green; nela^white;! Não se esqueça de ^green;colocar uma^orange; fonte de luz!"
+      "Eng": "Eager. Finally, ^green;build a new house with your ^orange;<guardObject>^white; in it, ^green;add 3 pieces of furniture that a ^orange;<tag>^white; would like and ^green;put this ^orange;Colony Deed^green; in it^white;! Don't forget to ^green;add a^orange; light source!",
+      "Por": "Ansioso. Finalmente, ^green;construa uma nova casa com o seu ^orange;<guardObject>^white; nela, ^green;coloque 3 peças de mobiliário que um ^orange;<tag>^white; gostaria e ^green;colocar esta ^orange;Colony Deed^green; nela^white;! Não se esqueça de ^green;colocar uma^orange; fonte de luz!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/recruit_guard.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Empowered. I have the confidence to face the day, now that our new guard is by my side. ",
+      "Por": "Fortalecido. Eu tenho a confiança para enfrentar o dia, agora que o nosso novo guarda está ao meu lado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/recruit_guard.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excited. Now you just need to ^green;build a new house with your ^orange;<guardObject>^white; in it, ^green;add 3 pieces of furniture that a ^orange;<tag>^white; would like, and ^green;put this ^orange;Colony Deed^green; up too^white;. Don't forget to ^green;add a ^orange;light source^white;!",
+      "Por": "Animado. Agora você só precisa ^green;construir uma nova casa com seu ^orange;<guardObject>^white; nela, ^green;coloque 3 peças de mobiliário que um ^orange;<tag>^white; gostaria, e ^green;coloque esta ^orange;Colony Deed^green; também^white;. Não se esqueça de ^green;colocar uma ^orange;fonte de luz^white;!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/recruit_guard.questtemplate": [
+        "/scriptConfig/generatedText/text/default/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Final part is to ^green;place ^orange;<guardObject> ^white;into a newly made home, along with ^green;3 ^orange;<tag>^green; itemsss^white;, for a <tag> guard! Also ^green;place this ^orange;Colony Deed^green; inside^white;, and a ^green;^orange;light source^white;!",
+      "Por": "A parte final é ^green;colocar ^orange;<guardObject> ^white;em uma casa recém-feita, juntamente com ^green;3 itenss ^orange;<tag>^white;, para um <tag> guarda! Também ^green;coloque este ^orange;Colony Deed^green; dentro^white;, e uma ^green;^orange;fonte de luz^white;!"
     }
   },
   {
@@ -123,48 +159,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/recruit_guard.questtemplate": [
-        "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I have complete peace of mind, knowing our new guard is on duty. I will not forget your tireless efforts.",
-      "Por": "Eu tenho paz de espírito, sabendo que o nosso novo guarda está de plantão. Não vou esquecer os seus esforços incansáveis."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/recruit_guard.questtemplate": [
-        "/scriptConfig/generatedText/completionText/default/glitch/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I have the confidence to face the day, now that our new guard is by my side. ",
-      "Por": "Eu tenho a confiança para enfrentar o dia, agora que o nosso novo guarda está ao meu lado."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/recruit_guard.questtemplate": [
         "/scriptConfig/generatedText/failureText/0"
       ]
     },
     "Texts": {
       "Eng": "I was unable to help improve <questGiver>'s security. <questGiver.pronoun.capitalSubject>'ll probably be fine. Probably.",
       "Por": "Eu fui incapaz de ajudar a melhorar a segurança de <questGiver>. <questGiver.pronoun.capitalSubject> provavelmente vai ficar bem. Provavelmente."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/recruit_guard.questtemplate": [
-        "/scriptConfig/generatedText/text/default/glitch/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Now you just need to ^green;build a new house with your ^orange;<guardObject>^white; in it, ^green;add 3 pieces of furniture that a ^orange;<tag>^white; would like, and ^green;put this ^orange;Colony Deed^green; up too^white;. Don't forget to ^green;add a ^orange;light source^white;!",
-      "Por": "Agora você só precisa ^green;construir uma nova casa com seu ^orange;<guardObject>^white; nela, ^green;coloque 3 peças de mobiliário que um ^orange;<tag>^white; gostaria, e ^green;coloque esta ^orange;Colony Deed^green; também^white;. Não se esqueça de ^green;colocar uma ^orange;fonte de luz^white;!"
     }
   },
   {

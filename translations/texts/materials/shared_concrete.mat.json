@@ -3,6 +3,23 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/concrete.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/concrete.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aqainted. Concrete is a commonly used construction material.",
+      "Por": "Familiarizado. Concreto é um material de construção comum."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Frio, duro, concreto."
+    ],
+    "Files": {
+      "items/materials/concrete.matitem": [
         "/description"
       ],
       "tiles/materials/concrete.material": [
@@ -27,21 +44,6 @@
     "Texts": {
       "Eng": "Concrete Block",
       "Por": "Concrete Block"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/concrete.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/concrete.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Concrete is a commonly used construction material.",
-      "Por": "O concreto é um material de construção comumente usado."
     }
   },
   {

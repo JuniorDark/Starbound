@@ -75,24 +75,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/wreck/wreckconsole1/wreckconsole1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/wreck/wreckconsole2/wreckconsole2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/wreck/wreckconsole3/wreckconsole3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This console is broken and useless.",
-      "Por": "Este console esta quebrado e inútil."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/wreck/wreckconsole1/wreckconsole1.object": [
         "/hylotlDescription"
       ],
       "objects/wreck/wreckconsole2/wreckconsole2.object": [
@@ -123,6 +105,24 @@
     "Texts": {
       "Eng": "This consssole is broken.",
       "Por": "Este consssole está quebrado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wreck/wreckconsole1/wreckconsole1.object": [
+        "/glitchDescription"
+      ],
+      "objects/wreck/wreckconsole2/wreckconsole2.object": [
+        "/glitchDescription"
+      ],
+      "objects/wreck/wreckconsole3/wreckconsole3.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Upset. This console is broken and useless.",
+      "Por": "Chateado. Este console está quebrado e inútil."
     }
   }
 ]

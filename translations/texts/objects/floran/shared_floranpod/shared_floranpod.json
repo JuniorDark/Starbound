@@ -3,6 +3,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/floranpod1/floranpod1.object": [
+        "/glitchDescription"
+      ],
+      "objects/floran/floranpod2/floranpod2.object": [
+        "/glitchDescription"
+      ],
+      "objects/floran/floranpod3/floranpod3.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analyse. This pod is of Floran origin, but... something is amiss.",
+      "Por": "Analítico. Este vagem é de origem Floran, mas... algo está errado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/floranpod1/floranpod1.object": [
         "/humanDescription"
       ],
       "objects/floran/floranpod2/floranpod2.object": [
@@ -87,23 +105,6 @@
     "Texts": {
       "Eng": "Something seems to be gestating in this pod.",
       "Por": "Algo parece estar em gestação nesta vagem."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/floran/floranpod1/floranpod1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/floran/floranpod2/floranpod2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/floran/floranpod3/floranpod3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This pod is of Floran origin, but... something is amiss."
     }
   },
   {

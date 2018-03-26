@@ -27,8 +27,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/flowerspring/flowerspring.object": [
-        "/avianDescription",
-        "/glitchDescription/glitchEmotedText"
+        "/avianDescription"
       ]
     },
     "Texts": {
@@ -88,11 +87,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/flowerspring/flowerspring.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gleeful. A pretty spring flower.",
+      "Por": "Alegre. Uma flor de primavera bonita."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/flowerspring/flowerspring.object": [
         "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "Spring Flower"
+      "Eng": "Spring Flower",
+      "Por": "Spring Flower"
     }
   }
 ]

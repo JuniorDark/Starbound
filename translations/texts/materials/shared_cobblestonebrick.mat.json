@@ -33,6 +33,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/cobblestonebrick.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/cobblestonebrick.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. These bricks are made from cobblestone.",
+      "Por": "Observador. Estes tijolos são feitos de pedregulho."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/cobblestonebrick.matitem": [
         "/description"
       ],
       "tiles/materials/cobblestonebrick.material": [
@@ -57,21 +72,6 @@
     "Texts": {
       "Eng": "Ssmooth cobblessstone brickss.",
       "Por": "Tijoloss de pedregulho liso."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/cobblestonebrick.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/cobblestonebrick.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "These bricks are made from cobblestone.",
-      "Por": "Esses tijolos são feitos de pedregulho."
     }
   }
 ]

@@ -15,6 +15,30 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/capture_pet.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disappointed. I tried to capture myself a pet ^orange;<monster>^white; <earlier>, but missed and caught this <tradedMonster> instead. You <request> - ^green;can you take this ^orange;Capture Pod^green; and catch me a <monster>^white;? I'll give you my <tradedMonster> in return.\nIf you're not sure where to start, <guide1> ^orange;<spawnPoint>^white;<spawnPoint.direction> - <guide2>.",
+      "Por": "Desapontado. Eu mesmo tentei capturar um ^orange;<monster>^white; de estimação <earlier>, mas errei e peguei este <tradedMonster> invés. Você <request> - ^green;você pode pegar este ^orange;Capture Pod^green; e capturar pra mim um <monster>^white;? Eu vou dar o meu <tradedMonster> em troca.\nSe você não tem certeza por onde começar, <guide1> ^orange;<spawnPoint>^white; <spawnPoint.direction> - <guide2>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/capture_pet.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Discontent. Someone gave me a <tradedMonster>, but I <reason>. I'd be happier with a pet ^orange;<monster>^white;. ^green;Could you catch me one with this ^orange;Capture Pod^white;?\nIf you're not sure where to start, <guide1> ^orange;<spawnPoint>^white;<spawnPoint.direction> - <guide2>.",
+      "Por": "Descontente. Alguém me deu um <tradedMonster>, mas eu <reason>. Ficaria bem mais feliz com um ^orange;<monster>^white; de estimação. ^green;Você poderia me capturar um com este ^orange;Capture Pod^white;?\nSe você não tem certeza por onde começar, <guide1> ^orange;<spawnPoint>^white;\r\n <spawnPoint.direction> - <guide2>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/capture_pet.questtemplate": [
         "/scriptConfig/generatedText/text/default/floran/0"
       ]
     },
@@ -111,18 +135,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/capture_pet.questtemplate": [
-        "/scriptConfig/generatedText/text/default/glitch/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I tried to capture myself a pet ^orange;<monster>^white; <earlier>, but missed and caught this <tradedMonster> instead. You <request> - ^green;can you take this ^orange;Capture Pod^green; and catch me a <monster>^white;? I'll give you my <tradedMonster> in return.",
-      "Por": "Eu tentei me capturar pra mim um ^orange;<monster>^white; <earlier>, mas errei e em vez disso peguei este <tradedMonster>. Você <request> - ^green;você pode pegar esse ^orange;Capture Pod^green; e me pegar um <monster>^white;? Eu vou te dar o meu <tradedMonster> em troca."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/capture_pet.questtemplate": [
         "/scriptConfig/generatedText/text/default/default/1"
       ]
     },
@@ -165,18 +177,6 @@
     "Texts": {
       "Eng": "Pet <monster>",
       "Por": "<monster> de estimação"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/capture_pet.questtemplate": [
-        "/scriptConfig/generatedText/text/default/glitch/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Someone gave me a <tradedMonster>, but I <reason>. I'd be happier with a pet ^orange;<monster>^white;. ^green;Could you catch me one with this ^orange;Capture Pod^white;?",
-      "Por": "Alguém me deu um <tradedMonster>, mas eu <reason>. Eu ficaria mais feliz com um ^orange;<monster>^white;. ^green; Você poderia me pegar um com esse ^orange;Capture Pod^white;?"
     }
   },
   {

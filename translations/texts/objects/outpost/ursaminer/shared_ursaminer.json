@@ -33,20 +33,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/ursaminer/ursaminer.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/outpost/ursaminer/ursaminerclosed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Does this shop provide an alternative to mining for materials?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/outpost/ursaminer/ursaminer.object": [
         "/floranDescription"
       ],
       "objects/outpost/ursaminer/ursaminerclosed.object": [
@@ -71,6 +57,21 @@
     "Texts": {
       "Eng": "I have never seen a shop clerk who was quite so... Hairy, before.",
       "Por": "Nunca vi um funcionário de loja que era tão... Peludo, antes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/ursaminer/ursaminer.object": [
+        "/glitchDescription"
+      ],
+      "objects/outpost/ursaminer/ursaminerclosed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intrigued. Does this shop provide an alternative to mining for materials?",
+      "Por": "Intrigado. Esta loja fornece uma alternativa à mineração de materiais?"
     }
   },
   {

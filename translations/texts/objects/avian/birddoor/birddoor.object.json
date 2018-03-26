@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/birddoor/birddoor.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Inquisitive. The door contains a power source that is beyond my understanding.",
+      "Por": "Inquisitivo. A porta contém uma fonte de energia que está além do meu entendimento."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/birddoor/birddoor.object": [
         "/floranDescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "The crystals in this door hum as if generating power. This technology is unknown.",
       "Por": "Os cristais nesta porta murmuram como se gerassem poder. Esta tecnologia é desconhecida."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avian/birddoor/birddoor.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The door contains a power source that is beyond my understanding."
     }
   },
   {

@@ -3,6 +3,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/temple2.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/temple2.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fascinated. The age of these bricks cannot be accurately determined.",
+      "Por": "Fascinado. A idade destes tijolos não pode ser determinada com precisão."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/temple2.matitem": [
         "/florandescription"
       ],
       "tiles/materials/temple2.material": [
@@ -42,21 +57,6 @@
     "Texts": {
       "Eng": "Temple Bricks",
       "Por": "Temple Bricks"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/temple2.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/temple2.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The age of these bricks cannot be accurately determined.",
-      "Por": "A idade desses tijolos não pode ser determinada com precisão."
     }
   }
 ]

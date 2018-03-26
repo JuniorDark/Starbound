@@ -35,6 +35,39 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "objects/biome/hive/hivebush1/hivebush1.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/hive/hivebush3/hivebush3.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. These appear to be eggs from a species native to this biome.",
+      "Por": "Curioso. Estes parecem ser ovos de uma espécie nativa deste bioma."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/hive/hivebush2/hivebush2.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/hive/hivebush4/hivebush4.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/hive/hivebush5/hivebush5.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. This appears to be an egg sac from a species native to this biome.",
+      "Por": "Curioso. Este parece ser um saco de ovos de uma espécie nativa deste bioma."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "objects/biome/hive/hivebush2/hivebush2.object": [
         "/floranDescription"
       ],
@@ -171,20 +204,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/hive/hivebush1/hivebush1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/hive/hivebush3/hivebush3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "These appear to be eggs from a species native to this biome."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/hive/hivebush1/hivebush1.object": [
         "/avianDescription"
       ],
       "objects/biome/hive/hivebush3/hivebush3.object": [
@@ -209,23 +228,6 @@
     "Texts": {
       "Eng": "These must be eggs from a species native to this place.",
       "Por": "Estes devem ser ovos de uma espécie nativa deste lugar."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/hive/hivebush2/hivebush2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/hive/hivebush4/hivebush4.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/hive/hivebush5/hivebush5.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This appears to be an egg sac from a species native to this biome."
     }
   },
   {

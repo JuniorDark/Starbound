@@ -27,17 +27,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/scorchedcity/scorchedcityarrowsign/scorchedcityarrowsign.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "An arrow sign. Following it would be all too predictable."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/scorchedcity/scorchedcityarrowsign/scorchedcityarrowsign.object": [
         "/apexDescription"
       ]
     },
@@ -80,6 +69,18 @@
     "Texts": {
       "Eng": "Arrow sssign.",
       "Por": "Placa de ssseta."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/scorchedcity/scorchedcityarrowsign/scorchedcityarrowsign.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cunning. An arrow sign. Following it would be all too predictable.",
+      "Por": "Astuto. Uma placa de seta. Segui-la seria muito previsível."
     }
   },
   {

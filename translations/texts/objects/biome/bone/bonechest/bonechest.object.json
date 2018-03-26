@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/bone/bonechest/bonechest.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disapproving. This chest is carved from bone.",
+      "Por": "Desaprovação. Este baú é esculpido de osso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/bone/bonechest/bonechest.object": [
         "/floranDescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "I could use this to store all my pentagram jewellery and black candles!",
       "Por": "Eu poderia usar isso para armazenar todas as minhas joias de pentagrama e velas negras!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/bone/bonechest/bonechest.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This chest is carved from bone."
     }
   },
   {

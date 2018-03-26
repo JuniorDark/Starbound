@@ -51,23 +51,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/hylotlwallshelf/hylotlwallshelf.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A wall shelf."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/hylotl/hylotlwallshelf/hylotlwallshelf.object": [
         "/shortdescription"
       ]
     },
     "Texts": {
       "Eng": "Blue Wall Shelf",
       "Por": "Blue Wall Shelf"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/hylotlwallshelf/hylotlwallshelf.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bored. A wall shelf.",
+      "Por": "Entediado. Uma prateleira de parede."
     }
   },
   {

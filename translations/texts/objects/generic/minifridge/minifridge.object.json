@@ -87,11 +87,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/minifridge/minifridge.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "This mini fridge is operating at the optimal temperature."
+      "Eng": "Pleased. This mini fridge is operating at the optimal temperature.",
+      "Por": "Satisfeito. Este frigobar está operando na temperatura ideal."
     }
   }
 ]

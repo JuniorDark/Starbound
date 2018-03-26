@@ -63,6 +63,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/outpostcrane/outpostcrane.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. How many Glitch could this lift?",
+      "Por": "Curioso. Quantos Glitch isto poderia levantar?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostcrane/outpostcrane.object": [
         "/humanDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "Floran ssswing from metal arm!",
       "Por": "Floran balança no braço de metal!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/outpost/outpostcrane/outpostcrane.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "How many Glitch could this lift?"
     }
   },
   {

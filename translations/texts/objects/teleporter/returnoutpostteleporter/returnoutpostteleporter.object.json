@@ -44,7 +44,7 @@
     },
     "Texts": {
       "Eng": "A teleporter to take me back to the Outpost.",
-      "Por": "Um teletransportador para me levar de volta ao Posto Avançado."
+      "Por": "Um teleportador para me levar de volta ao Posto Avançado."
     }
   },
   {
@@ -63,6 +63,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/teleporter/returnoutpostteleporter/returnoutpostteleporter.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reassured. This will teleport me safely to the Outpost.",
+      "Por": "Tranquilizado. Isso me teleportará com segurança para o Posto Avançado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/returnoutpostteleporter/returnoutpostteleporter.object": [
         "/description"
       ]
     },
@@ -75,24 +87,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/teleporter/returnoutpostteleporter/returnoutpostteleporter.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This will teleport me safely to the Outpost.",
-      "Por": "Isso vai me teletransportar com segurança para o Posto Avançado."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/teleporter/returnoutpostteleporter/returnoutpostteleporter.object": [
         "/floranDescription"
       ]
     },
     "Texts": {
       "Eng": "Thiss teleporter will take Floran to Outpost.",
-      "Por": "Esse teletransportador levará Floran para Posto Avançado."
+      "Por": "Esse teleportador levará Floran para o Posto Avançado."
     }
   }
 ]

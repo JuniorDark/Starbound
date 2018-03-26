@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/sacrificialaltar/sacrificialaltar.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Altar appears splattered with blood."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avian/sacrificialaltar/sacrificialaltar.object": [
         "/description"
       ]
     },
@@ -32,6 +21,18 @@
     "Texts": {
       "Eng": "Blood and feathers. Dark.",
       "Por": "Sangue e penas. Sombrio."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/sacrificialaltar/sacrificialaltar.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. Altar appears splattered with blood.",
+      "Por": "Observador. O altar parece salpicado de sangue."
     }
   },
   {

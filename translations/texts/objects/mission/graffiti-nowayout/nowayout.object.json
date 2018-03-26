@@ -75,23 +75,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/graffiti-nowayout/nowayout.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "If this graffiti is true I am in trouble."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/mission/graffiti-nowayout/nowayout.object": [
         "/humanDescription"
       ]
     },
     "Texts": {
       "Eng": "Who ever believed something they read on a wall?",
       "Por": "Quem já acreditou em algo que leu na parede?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/graffiti-nowayout/nowayout.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Worried. If this graffiti is true I am in trouble.",
+      "Por": "Preocupado. Se este graffiti é verdadeiro eu estou em apuros."
     }
   },
   {

@@ -3,6 +3,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/protectorate/objects/protectoratebeamaxe/protectoratebeamaxe.object": [
+        "/pickedUpParameters/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Anxious. I need to leave.",
+      "Por": "Ansioso. Eu preciso sair."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/protectorate/objects/protectoratebeamaxe/protectoratebeamaxe.object": [
         "/floranDescription"
       ]
     },
@@ -63,17 +75,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/protectorate/objects/protectoratebeamaxe/protectoratebeamaxe.object": [
-        "/pickedUpParameters/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I need to leave."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/protectorate/objects/protectoratebeamaxe/protectoratebeamaxe.object": [
         "/apexDescription"
       ]
     },
@@ -92,17 +93,6 @@
     "Texts": {
       "Eng": "I should go.",
       "Por": "Eu devo ir."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/protectorate/objects/protectoratebeamaxe/protectoratebeamaxe.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I should take this Matter Manipulator and get out of here."
     }
   },
   {
@@ -163,6 +153,18 @@
     "Texts": {
       "Eng": "No time to think about this. I gotta pick the Matter Manipulator up and make a run for it.",
       "Por": "Não há tempo para pensar sobre isso. Tenho que pegar o Manipulador de Matéria e sair daqui."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/protectorate/objects/protectoratebeamaxe/protectoratebeamaxe.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stressed. I should take this Matter Manipulator and get out of here.",
+      "Por": "Estressado. Eu deveria pegar este Manipulador de Matéria e sair daqui."
     }
   },
   {

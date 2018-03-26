@@ -3,18 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alpaca/alpacahomerune/alpacahomerune.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A rune to mean home, but what does home mean?",
-      "Por": "Uma runa que significa casa, mas o que casa significa?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alpaca/alpacahomerune/alpacahomerune.object": [
         "/avianDescription"
       ]
     },
@@ -81,6 +69,18 @@
     "Texts": {
       "Eng": "One could ask whether the conecept of home really can be defined at all.",
       "Por": "Pode-se perguntar se o conceito de casa realmente pode ser definida em tudo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alpaca/alpacahomerune/alpacahomerune.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Quizzical. A rune to mean home, but what does home mean?",
+      "Por": "Interrogativo. Uma runa que significa casa, mas o que casa significa?"
     }
   },
   {

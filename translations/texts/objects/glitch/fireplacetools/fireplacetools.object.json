@@ -3,23 +3,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/fireplacetools/fireplacetools.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A set of iron tools for taking care of a fire."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/glitch/fireplacetools/fireplacetools.object": [
         "/floranDescription"
       ]
     },
     "Texts": {
       "Eng": "Are thesse weaponss?",
       "Por": "Isso são armass?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/fireplacetools/fireplacetools.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Content. A set of iron tools for taking care of a fire.",
+      "Por": "Contente. Um conjunto de ferramentas de ferro para cuidar de um fogo."
     }
   },
   {

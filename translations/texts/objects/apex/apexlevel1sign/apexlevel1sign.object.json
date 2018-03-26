@@ -63,17 +63,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/apexlevel1sign/apexlevel1sign.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I'm currently on level one."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/apex/apexlevel1sign/apexlevel1sign.object": [
         "/novakidDescription"
       ]
     },
@@ -92,6 +81,18 @@
     "Texts": {
       "Eng": "Level one, how many levels are there?",
       "Por": "Nível um, quantos níveis existem?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/apexlevel1sign/apexlevel1sign.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neutral. I'm currently on level one.",
+      "Por": "Neutro. Atualmente, estou no nível um."
     }
   },
   {

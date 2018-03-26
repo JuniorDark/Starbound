@@ -18,6 +18,23 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/wallpaper.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/wallpaper.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Confused. The Glitch have never understood the concept of glued wall papering.",
+      "Por": "Confuso. Os Glitch nunca entendem o conceito de colar a parede com papel."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Um papel de parede clássico, o toque final perfeito."
+    ],
+    "Files": {
+      "items/materials/wallpaper.matitem": [
         "/description"
       ],
       "tiles/materials/wallpaper.material": [
@@ -42,21 +59,6 @@
     "Texts": {
       "Eng": "Sstrange paper covers wallss.",
       "Por": "Papel estranho cobre paredess."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/wallpaper.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/wallpaper.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The Glitch have never understood the concept of glued wall papering.",
-      "Por": "Os Glitch nunca entendem o conceito de papel de parede colado."
     }
   },
   {

@@ -3,6 +3,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/crafting/railcraftingtable/railcraftingtable.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Delighted. The rails crafted here will make movement much more efficient.",
+      "Por": "Encantado. Os trilhos criados aqui vão tornar a deslocação muito mais eficiente"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/railcraftingtable/railcraftingtable.object": [
         "/humanDescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "The rails I can construct here may be primitive, but their efficiency can't be questioned.",
       "Por": "Os trilhos que posso construir aqui podem ser primitivos, mas a sua eficácia não pode ser questionada."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/crafting/railcraftingtable/railcraftingtable.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The rails crafted here will make movement much more efficient."
     }
   },
   {

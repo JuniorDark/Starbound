@@ -102,38 +102,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/ocean/seashell1/seashell1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/ocean/seashell2/seashell2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/ocean/seashell3/seashell3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/ocean/seashell4/seashell4.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/ocean/seashell5/seashell5.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/ocean/seashell6/seashell6.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/ocean/seashell7/seashell7.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/ocean/seashell8/seashell8.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "It seems a shame to smash a seashell."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/ocean/seashell1/seashell1.object": [
         "/shortdescription"
       ],
       "objects/biome/ocean/seashell2/seashell2.object": [
@@ -260,6 +228,39 @@
     "Texts": {
       "Eng": "Seashells sometimes collect treasures inside.",
       "Por": "Conchas às vezes tem tesouros dentro."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/ocean/seashell1/seashell1.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/ocean/seashell2/seashell2.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/ocean/seashell3/seashell3.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/ocean/seashell4/seashell4.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/ocean/seashell5/seashell5.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/ocean/seashell6/seashell6.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/ocean/seashell7/seashell7.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/ocean/seashell8/seashell8.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sentimental. It seems a shame to smash a seashell.",
+      "Por": "Sentimental. É uma lástima esmagar uma concha."
     }
   },
   {

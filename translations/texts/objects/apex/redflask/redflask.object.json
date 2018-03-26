@@ -15,17 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/redflask/redflask.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I can detect no active ingredients. Perhaps this is a placebo."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/apex/redflask/redflask.object": [
         "/shortdescription"
       ]
     },
@@ -44,6 +33,18 @@
     "Texts": {
       "Eng": "Red flavour.",
       "Por": "Sabor vermelho."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/redflask/redflask.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sceptical. I can detect no active ingredients. Perhaps this is a placebo.",
+      "Por": "Cético. Não consigo detectar nenhum ingrediente ativo. Talvez isto seja um placebo."
     }
   },
   {

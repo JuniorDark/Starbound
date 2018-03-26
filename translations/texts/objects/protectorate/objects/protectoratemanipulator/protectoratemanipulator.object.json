@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/protectorate/objects/protectoratemanipulator/protectoratemanipulator.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Appreciative. The Matter Manipulator is a powerful tool. This is just a replica.",
+      "Por": "Grato. O Manipulador de Matéria é uma ferramenta poderosa. Isto é apenas uma réplica."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/protectorate/objects/protectoratemanipulator/protectoratemanipulator.object": [
         "/novakidDescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "The Matter Manipulator is a Protectors trademark tool.",
       "Por": "O Manipulador de Matéria é a ferramenta marca registrada dos Protetores."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/protectorate/objects/protectoratemanipulator/protectoratemanipulator.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The Matter Manipulator is a powerful tool. This is just a replica."
     }
   },
   {

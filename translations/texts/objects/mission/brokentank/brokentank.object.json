@@ -15,8 +15,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/brokentank/brokentank.object": [
-        "/description",
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ]
     },
     "Texts": {
@@ -58,6 +57,18 @@
     "Texts": {
       "Eng": "A tank, it's broken.",
       "Por": "Um tanque, está quebrado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/brokentank/brokentank.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alarmed. A broken tank.",
+      "Por": "Alarmado. Um tanque quebrado."
     }
   },
   {

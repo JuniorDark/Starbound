@@ -39,17 +39,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/prisonbench/prisonbench.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A relatively comfortable bench."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/human/prisonbench/prisonbench.object": [
         "/novakidDescription"
       ]
     },
@@ -104,6 +93,18 @@
     "Texts": {
       "Eng": "Metal Bench",
       "Por": "Metal Bench"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisonbench/prisonbench.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. A relatively comfortable bench.",
+      "Por": "Observador. Um banco relativamente confortável."
     }
   }
 ]

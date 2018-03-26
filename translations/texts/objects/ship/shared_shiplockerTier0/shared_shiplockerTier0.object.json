@@ -93,6 +93,37 @@
     }
   },
   {
+    "DeniedAlternatives": [
+      "Afligido. O sistema de armazenamento desta nave está com defeito.",
+      "Afligido. O sistema de armazenamento deste nave está com defeito.",
+      "Angustiado. O sistema de armazenamento da nave está com defeito."
+    ],
+    "Files": {
+      "objects/ship/apexshiplockerTier0/apexshiplockerTier0.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/avianshiplockerTier0/avianshiplockerTier0.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/floranshiplockerTier0/floranshiplockerTier0.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/humanshiplockerTier0/humanshiplockerTier0.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/hylotlshiplockerTier0/hylotlshiplockerTier0.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/novakidshiplockerTier0/novakidshiplockerTier0.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Distressed. This ship's storage system is malfunctioning.",
+      "Por": "Afligido. O sistema de armazenamento da nave está com defeito."
+    }
+  },
+  {
     "DeniedAlternatives": [],
     "Files": {
       "objects/ship/humanshiplockerTier0/humanshiplockerTier0.object": [
@@ -144,33 +175,6 @@
     "Texts": {
       "Eng": "The ship's storage system. It's not currently functional.",
       "Por": "O sistema de armazenamento da nave. Atualmente não está funcionando."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/ship/apexshiplockerTier0/apexshiplockerTier0.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/avianshiplockerTier0/avianshiplockerTier0.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/floranshiplockerTier0/floranshiplockerTier0.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/humanshiplockerTier0/humanshiplockerTier0.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/hylotlshiplockerTier0/hylotlshiplockerTier0.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/novakidshiplockerTier0/novakidshiplockerTier0.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This ship's storage system is malfunctioning.",
-      "Por": "O sistema de armazenamento desta nave está com defeito."
     }
   }
 ]

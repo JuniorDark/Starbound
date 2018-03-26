@@ -27,11 +27,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/apexcoolcupboard/apexcoolcupboard.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Could contain items."
+      "Eng": "Curious. Could contain items.",
+      "Por": "Curioso. Pode haver itens."
     }
   },
   {
@@ -56,6 +57,18 @@
     "Texts": {
       "Eng": "I should check the contents.",
       "Por": "Eu devo verificar o conteúdo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/apexcoolcupboard/apexcoolcupboard.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Is there anything inside?",
+      "Por": "Tem algo dentro?"
     }
   },
   {

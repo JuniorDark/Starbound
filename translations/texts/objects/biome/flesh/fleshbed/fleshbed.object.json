@@ -63,23 +63,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/flesh/fleshbed/fleshbed.object": [
-        "/novakidDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "This bed's got it's own pulse.",
-      "Por": "Esta cama tem o seu próprio pulso."
+      "Eng": "Reflective. This is no worse to a glitch than a bed made from steel.",
+      "Por": "Reflexivo. Isso não é pior para um Glitch do que uma cama feita de aço."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/flesh/fleshbed/fleshbed.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/novakidDescription"
       ]
     },
     "Texts": {
-      "Eng": "This is no worse to a glitch than a bed made from steel."
+      "Eng": "This bed's got it's own pulse.",
+      "Por": "Esta cama tem o seu próprio pulso."
     }
   },
   {

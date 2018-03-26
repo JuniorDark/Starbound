@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/apexconsolekeyboard/apexconsolekeyboard.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. Only 26 symbols?",
+      "Por": "Curioso. Apenas 26 símbolos?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/apexconsolekeyboard/apexconsolekeyboard.object": [
         "/hylotlDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "It's not QWERTY.. but I recognise a lot of the letters here.",
       "Por": "Não é QWERTY... mas eu reconheço muitas das letras aqui."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/apex/apexconsolekeyboard/apexconsolekeyboard.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Only 26 symbols?"
     }
   },
   {

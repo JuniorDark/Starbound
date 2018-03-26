@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/themed/spooky/spookyclock/spookyclock.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. The device uses cogs to track the current time.",
+      "Por": "Impressionado. O dispositivo usa engrenagens para rastrear a hora atual."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/spooky/spookyclock/spookyclock.object": [
         "/hylotlDescription"
       ]
     },
@@ -57,18 +69,6 @@
     "Texts": {
       "Eng": "Spooky Clock",
       "Por": "Spooky Clock"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/themed/spooky/spookyclock/spookyclock.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The device uses cogs to track the current time.",
-      "Por": "O dispositivo usa engrenagens para marcar a hora atual."
     }
   },
   {

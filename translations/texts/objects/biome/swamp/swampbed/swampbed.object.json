@@ -27,17 +27,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/swamp/swampbed/swampbed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I could take a small sleep here."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/swamp/swampbed/swampbed.object": [
         "/humanDescription"
       ]
     },
@@ -56,6 +45,18 @@
     "Texts": {
       "Eng": "If this bed was made of seaweed, it might be more inviting.",
       "Por": "Se esta cama fosse feita de algas, poderia ser mais convidativa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/swamp/swampbed/swampbed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sleepy. I could take a small sleep here.",
+      "Por": "Sonolento. Eu poderia dormir um pouco aqui."
     }
   },
   {

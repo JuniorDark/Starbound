@@ -41,13 +41,24 @@
     "Files": {
       "objects/hylotl/opensign/opensign.object": [
         "/avianDescription",
-        "/glitchDescription/glitchEmotedText",
         "/novakidDescription"
       ]
     },
     "Texts": {
       "Eng": "An \"open\" sign.",
       "Por": "Uma placa que diz \"aberto\"."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/opensign/opensign.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disinterested. An \"open\" sign.",
+      "Por": "Desinteressado. Uma placa que diz \"aberto\"."
     }
   },
   {

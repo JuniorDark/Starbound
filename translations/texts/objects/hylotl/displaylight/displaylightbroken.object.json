@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/displaylight/displaylightbroken.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Horrified. What a tragic sight, this light needs a replacement bulb urgently.",
+      "Por": "Horrorizado. Que visão trágica, esta luz precisa de uma lâmpada de substituição com urgência."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/displaylight/displaylightbroken.object": [
         "/apexDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "What a shame, someone should really fix that light before it causes an accident.",
       "Por": "Que vergonha, alguém deve realmente consertar essa luz antes que cause um acidente."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/hylotl/displaylight/displaylightbroken.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "What a tragic sight, this light needs a replacement bulb urgently."
     }
   },
   {

@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/crafting/upgradeablecraftingobjects/craftinganvil/addons/separatoraddon/separatoraddon.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excited. Using this module will add additional melee equipment and armour to the replicator.",
+      "Por": "Animado. Usando este módulo irá adicionar equipamento corpo a corpo e armadura adicional para o replicador."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/upgradeablecraftingobjects/craftinganvil/addons/separatoraddon/separatoraddon.object": [
         "/floranDescription"
       ]
     },
@@ -57,17 +69,6 @@
     "Texts": {
       "Eng": "Using this adds extra melee equipment and armour to the replicator!",
       "Por": "Usando isso acrescenta equipamento corpo a corpo e armadura extra para o replicator!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/crafting/upgradeablecraftingobjects/craftinganvil/addons/separatoraddon/separatoraddon.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Using this module will add additional melee equipment and armour to the replicator."
     }
   },
   {

@@ -63,23 +63,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/prisoncabinet1/prisoncabinet1.object": [
-        "/novakidDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Stealing medicine is pretty low.",
-      "Por": "Roubar remédios é muito baixo."
+      "Eng": "Observant. The faintest trace of iodine can be detected.",
+      "Por": "Observador. O menor vestígio de iodo pode ser detectado."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/prisoncabinet1/prisoncabinet1.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/novakidDescription"
       ]
     },
     "Texts": {
-      "Eng": "The faintest trace of iodine can be detected."
+      "Eng": "Stealing medicine is pretty low.",
+      "Por": "Roubar remédios é muito baixo."
     }
   },
   {

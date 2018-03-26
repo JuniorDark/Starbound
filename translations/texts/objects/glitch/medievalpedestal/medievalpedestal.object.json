@@ -39,23 +39,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/medievalpedestal/medievalpedestal.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A pedestal used for displaying precious artifacts."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/glitch/medievalpedestal/medievalpedestal.object": [
         "/hylotlDescription"
       ]
     },
     "Texts": {
       "Eng": "A place to display things the of worth.",
       "Por": "Um lugar para exibir coisas de valor."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/medievalpedestal/medievalpedestal.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enticed. A pedestal used for displaying precious artifacts.",
+      "Por": "Seduzido. Um pedestal usado para exibir artefatos preciosos."
     }
   },
   {

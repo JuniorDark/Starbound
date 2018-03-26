@@ -87,23 +87,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/ice/icemachine/icemachine.object": [
-        "/avianDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "The ice keeps the other ice cold. Smart.",
-      "Por": "O gelo mantém o outro gelo frio. Inteligente."
+      "Eng": "Mathematical. There are exactly six thousand, four hundred and eighty four ice cubes in this ice dispenser.",
+      "Por": "Matemático. Há exatamente seis mil, quatrocentos e oitenta e quatro cubos de gelo neste dispensador de gelo."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/ice/icemachine/icemachine.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/avianDescription"
       ]
     },
     "Texts": {
-      "Eng": "There are exactly six thousand, four hundred and eighty four ice cubes in this ice dispenser."
+      "Eng": "The ice keeps the other ice cold. Smart.",
+      "Por": "O gelo mantém o outro gelo frio. Inteligente."
     }
   }
 ]

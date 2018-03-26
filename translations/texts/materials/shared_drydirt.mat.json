@@ -11,7 +11,7 @@
     },
     "Texts": {
       "Eng": "Dirt that iss dry.",
-      "Por": "Terra que esstá seca."
+      "Por": "Terra que está seca."
     }
   },
   {
@@ -63,15 +63,15 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/drydirt.matitem": [
-        "/glitchdescription/glitchEmotedText"
+        "/glitchdescription"
       ],
       "tiles/materials/drydirt.material": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "This dirt is very dry.",
-      "Por": "Esta terra é muito seca."
+      "Eng": "Perceptive. This dirt is very dry.",
+      "Por": "Perceptivo. Esta terra esta muito seca."
     }
   }
 ]

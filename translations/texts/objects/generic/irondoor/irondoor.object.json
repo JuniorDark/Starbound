@@ -15,23 +15,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/irondoor/irondoor.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A fine door a fortress, or similar establishment."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/irondoor/irondoor.object": [
         "/apexDescription"
       ]
     },
     "Texts": {
       "Eng": "A menacing iron door.",
       "Por": "Uma porta de ferro ameaçadora."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/irondoor/irondoor.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Envious. A fine door a fortress, or similar establishment.",
+      "Por": "Invejoso. Uma porta fina uma fortaleza, ou estabelecimento similar."
     }
   },
   {

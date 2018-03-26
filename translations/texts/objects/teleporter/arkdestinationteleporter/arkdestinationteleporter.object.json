@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/teleporter/arkdestinationteleporter/arkdestinationteleporter.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intrigued. This broken teleporter looks ancient... How old could it possibly be?",
+      "Por": "Intrigado. Este teletransportador quebrado parece antigo... Que idade poderia ter?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/arkdestinationteleporter/arkdestinationteleporter.object": [
         "/floranDescription"
       ]
     },
@@ -45,18 +57,6 @@
     "Texts": {
       "Eng": "This ancient teleporter no longer functions.",
       "Por": "Este teletransportador antigo não funciona mais."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/teleporter/arkdestinationteleporter/arkdestinationteleporter.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This broken teleporter looks ancient... How old could it possibly be?",
-      "Por": "Este teletransportador quebrado parece antigo... Que idade poderia ter?"
     }
   },
   {

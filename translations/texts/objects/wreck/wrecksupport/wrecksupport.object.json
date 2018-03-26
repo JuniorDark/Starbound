@@ -75,24 +75,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/wreck/wrecksupport/wrecksupport.object": [
-        "/humanDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "This doesn't look like it could hold up much weight.",
-      "Por": "Isso não parece que poderia suportar muito peso."
+      "Eng": "Nervous. This support doesn't seem structurally sound.",
+      "Por": "Nervoso. Esse suporte não parece estruturalmente sólido."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/wreck/wrecksupport/wrecksupport.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/humanDescription"
       ]
     },
     "Texts": {
-      "Eng": "This support doesn't seem structurally sound.",
-      "Por": "Este suporte não parece estruturalmente sadio."
+      "Eng": "This doesn't look like it could hold up much weight.",
+      "Por": "Isso não parece que poderia suportar muito peso."
     }
   },
   {

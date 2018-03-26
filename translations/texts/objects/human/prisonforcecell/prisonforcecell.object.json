@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/prisonforcecell/prisonforcecell.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cautious. The forcefield in this cell is designed to incapacitate.",
+      "Por": "Cauteloso. O campo de força nesta cela é projetado para incapacitar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisonforcecell/prisonforcecell.object": [
         "/shortdescription"
       ]
     },
@@ -57,17 +69,6 @@
     "Texts": {
       "Eng": "Some sort of solitary confinement device, maybe?",
       "Por": "Algum tipo de dispositivo de confinamento solitário, talvez?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/human/prisonforcecell/prisonforcecell.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The forcefield in this cell is designed to incapacitate."
     }
   },
   {

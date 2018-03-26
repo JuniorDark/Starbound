@@ -33,6 +33,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/outpostwall.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/outpostwall1.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Informed. This specially designed concrete is quick drying.",
+      "Por": "Informado. Este concreto especialmente projetado tem secagem rápida."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/outpostwall.matitem": [
         "/shortdescription"
       ],
       "tiles/materials/outpostwall1.material": [
@@ -57,21 +72,6 @@
     "Texts": {
       "Eng": "This concrete looks mighty tough.",
       "Por": "Este concreto parece muito resistente."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/outpostwall.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/outpostwall1.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This specially designed concrete is quick drying.",
-      "Por": "Este concreto especialmente projetado é de secagem rápida."
     }
   }
 ]

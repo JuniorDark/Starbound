@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/holiday/holly/holly.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A festive sprig of holly."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/holiday/holly/holly.object": [
         "/hylotlDescription"
       ]
     },
@@ -92,6 +81,18 @@
     "Texts": {
       "Eng": "Pretty green holly. Spiky though.",
       "Por": "Azevinho verde bonito. Espinhoso embora."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/holiday/holly/holly.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Surprise. A festive sprig of holly.",
+      "Por": "Surpreso. Um ramo festivo de azevinho."
     }
   },
   {

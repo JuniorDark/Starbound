@@ -39,18 +39,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/wreck/wreckcrate1/wreckcrate1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "An old storage container.",
-      "Por": "Um velho contêiner de armazenamento."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/wreck/wreckcrate1/wreckcrate1.object": [
         "/hylotlDescription"
       ]
     },
@@ -81,6 +69,18 @@
     "Texts": {
       "Eng": "Even I ain't sure this crate's worth lookin' in.",
       "Por": "Até eu não tenho certeza se vale a pena investigar esta caixa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wreck/wreckcrate1/wreckcrate1.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intrigued. An old storage container.",
+      "Por": "Intrigado. Um antigo recipiente de armazenamento."
     }
   },
   {

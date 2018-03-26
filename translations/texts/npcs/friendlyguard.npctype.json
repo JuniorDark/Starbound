@@ -3,6 +3,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/friendlyguard.npctype": [
+        "/scriptConfig/dialog/hail/glitch/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alert. I need to keep the area safe from hostile activity.",
+      "Por": "Alerta. Eu preciso para manter a área segura de atividade hostil."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/friendlyguard.npctype": [
         "/scriptConfig/dialog/hail/floran/default/3"
       ]
     },
@@ -33,18 +45,6 @@
     "Texts": {
       "Eng": "Do you enjoy your adventures?",
       "Por": "Você gosta de suas aventuras?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "npcs/friendlyguard.npctype": [
-        "/scriptConfig/dialog/hail/glitch/default/3/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Do you think I could take a break? It seems quite quiet now, doesn't it?",
-      "Por": "Você acha que eu poderia fazer uma pausa? Parece bastante quieto agora, não é?"
     }
   },
   {
@@ -123,18 +123,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/friendlyguard.npctype": [
-        "/scriptConfig/dialog/hail/glitch/default/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I have experience guarding things.",
-      "Por": "Tenho experiência em proteger coisas."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "npcs/friendlyguard.npctype": [
         "/scriptConfig/dialog/hail/avian/default/0"
       ]
     },
@@ -171,36 +159,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/friendlyguard.npctype": [
-        "/scriptConfig/dialog/hail/glitch/default/2/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I need to keep the area safe from hostile activity.",
-      "Por": "Preciso manter a área segura da atividade hostil."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "npcs/friendlyguard.npctype": [
         "/scriptConfig/dialog/hail/human/default/0"
       ]
     },
     "Texts": {
       "Eng": "I wasn't slacking off, I swear!",
       "Por": "Eu não estava acomodado, eu juro!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "npcs/friendlyguard.npctype": [
-        "/scriptConfig/dialog/hail/glitch/default/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I will defend you and guard this place.",
-      "Por": "Vou te defender e proteger este lugar."
     }
   },
   {
@@ -261,6 +225,42 @@
     "Texts": {
       "Eng": "Man, look at me, being all guard-y and not sleeping on the job.",
       "Por": "Cara, olhe para mim, estando de guarda e não dormindo no trabalho."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/friendlyguard.npctype": [
+        "/scriptConfig/dialog/hail/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Protective. I will defend you and guard this place.",
+      "Por": "Protetor. Eu vou te defender e proteger este lugar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/friendlyguard.npctype": [
+        "/scriptConfig/dialog/hail/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Proud. I have experience guarding things.",
+      "Por": "Orgulhoso. Tenho experiência guardando coisas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/friendlyguard.npctype": [
+        "/scriptConfig/dialog/hail/glitch/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sleepy. Do you think I could take a break? It seems quite quiet now, doesn't it?",
+      "Por": "Sonolento. Você acha que eu poderia fazer uma pausa? Parece bastante calmo agora, não é?"
     }
   },
   {

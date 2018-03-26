@@ -39,24 +39,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/spawner/spawners/spawner_apex.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Do these spawned beings have souls?",
-      "Por": "Esses seres gerados têm almas?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/spawner/spawners/spawner_apex.object": [
         "/floranDescription"
       ]
     },
     "Texts": {
       "Eng": "Magic monkeyman out of air!",
       "Por": "Homem macaco mágico fora do ar!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/spawner/spawners/spawner_apex.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Philosophical. Do these spawned beings have souls?",
+      "Por": "Filosófico. Esses seres gerados têm almas?"
     }
   },
   {

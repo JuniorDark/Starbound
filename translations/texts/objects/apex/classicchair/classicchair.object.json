@@ -39,17 +39,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/classicchair/classicchair.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Our castle back home had similar chairs."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/apex/classicchair/classicchair.object": [
         "/apexDescription"
       ]
     },
@@ -104,6 +93,18 @@
     "Texts": {
       "Eng": "This chair's a bit fancy for my likin'.",
       "Por": "Esta cadeira é um pouco extravagante para o meu gosto."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/classicchair/classicchair.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wistful. Our castle back home had similar chairs.",
+      "Por": "Melancólico. Nosso castelo de casa tinha cadeiras semelhantes."
     }
   }
 ]

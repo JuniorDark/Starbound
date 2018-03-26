@@ -3,6 +3,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "tiles/platforms/woodenplatform.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Delighted. These wooden platforms have been finely sanded and finished.",
+      "Por": "Encantado. Estas plataformas de madeira foram finamente lixadas e acabadas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/platforms/woodenplatform.material": [
         "/description"
       ]
     },
@@ -33,18 +45,6 @@
     "Texts": {
       "Eng": "Some simple lookin' wooden platforms.",
       "Por": "Algumas plataformas de madeira de aparência simples."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "tiles/platforms/woodenplatform.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "These wooden platforms have been finely sanded and finished.",
-      "Por": "Estas plataformas de madeira foram finamente lixadas e finalizadas."
     }
   }
 ]

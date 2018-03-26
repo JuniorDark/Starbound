@@ -87,6 +87,27 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/giantflower/giantflower1/giantflower1.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/giantflower/giantflower2/giantflower2.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/giantflower/giantflower3/giantflower3.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/giantflower/giantflower4/giantflower4.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. This flower's DNA has mutated over the years, hence the large size.",
+      "Por": "Curioso. O DNA desta flor teve mutação ao longo dos anos, daí o grande tamanho."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/giantflower/giantflower1/giantflower1.object": [
         "/floranDescription"
       ],
       "objects/biome/giantflower/giantflower2/giantflower2.object": [
@@ -144,26 +165,6 @@
     "Texts": {
       "Eng": "Imagine turning up at someone's door with a bouquet of these!",
       "Por": "Imagine aparecer na porta de alguém com um buquê desses!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/giantflower/giantflower1/giantflower1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/giantflower/giantflower2/giantflower2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/giantflower/giantflower3/giantflower3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/giantflower/giantflower4/giantflower4.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This flower's DNA has mutated over the years, hence the large size."
     }
   },
   {

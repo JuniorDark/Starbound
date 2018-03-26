@@ -27,17 +27,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/novakid/frontierironsymbol/frontierironsymbol.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Does this wall decoration hold any deeper meaning?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/novakid/frontierironsymbol/frontierironsymbol.object": [
         "/floranDescription"
       ]
     },
@@ -80,6 +69,18 @@
     "Texts": {
       "Eng": "I wonder what this symbolises?",
       "Por": "Eu me pergunto o que isso simboliza?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/novakid/frontierironsymbol/frontierironsymbol.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intrigued. Does this wall decoration hold any deeper meaning?",
+      "Por": "Intrigado. Esta decoração de parede tem algum significado mais profundo?"
     }
   },
   {

@@ -41,7 +41,6 @@
       "objects/outpost/number8/number8.object": [
         "/apexDescription",
         "/avianDescription",
-        "/glitchDescription/glitchEmotedText",
         "/humanDescription",
         "/hylotlDescription"
       ]
@@ -49,6 +48,18 @@
     "Texts": {
       "Eng": "Eight.",
       "Por": "Oito."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/number8/number8.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neutral. Eight.",
+      "Por": "Neutro. Oito."
     }
   },
   {

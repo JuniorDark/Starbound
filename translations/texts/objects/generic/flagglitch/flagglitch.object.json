@@ -15,17 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/flagglitch/flagglitch.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A small locator module attached to this Glitch flag allows it to be bookmarked for teleportation."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/flagglitch/flagglitch.object": [
         "/shortdescription"
       ]
     },
@@ -44,6 +33,18 @@
     "Texts": {
       "Eng": "Glitch flag makess good point to teleport back to ussing teleporter!",
       "Por": "Bandeira Glitch faz um bom ponto para teleportar de volta utilizando teletransportador!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/flagglitch/flagglitch.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. A small locator module attached to this Glitch flag allows it to be bookmarked for teleportation.",
+      "Por": "Atento. Um pequeno módulo localizador anexado a esta bandeira Glitch permite que ela seja marcada para teletransporte."
     }
   },
   {

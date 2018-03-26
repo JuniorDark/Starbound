@@ -33,6 +33,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/sugarcane/sugarcaneseed.object": [
+        "/glitchDescription"
+      ],
+      "objects/farmables/sugarcane/wildsugarcaneseed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ponderous. This plant is sharp, and potentially deadly in the right hands.",
+      "Por": "Ponderoso. Esta planta é afiada, e potencialmente mortal nas mãos certas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/sugarcane/sugarcaneseed.object": [
         "/floranDescription"
       ],
       "objects/farmables/sugarcane/wildsugarcaneseed.object": [
@@ -117,20 +132,6 @@
     "Texts": {
       "Eng": "Sweet as sugar. Wait a minute...",
       "Por": "Doce como açúcar. Espere um minuto..."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/farmables/sugarcane/sugarcaneseed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/farmables/sugarcane/wildsugarcaneseed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This plant is sharp, and potentially deadly in the right hands."
     }
   }
 ]

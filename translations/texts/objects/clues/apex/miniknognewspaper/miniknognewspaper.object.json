@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/clues/apex/miniknognewspaper/miniknognewspaper.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intimidated. With its large headline and imposing photograph, this newspaper seems to exist to keep people compliant through fear.",
+      "Por": "Intimidado. Com sua grande manchete e fotografia imponente, este jornal parece existir para manter as pessoas complacentes através do medo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/clues/apex/miniknognewspaper/miniknognewspaper.object": [
         "/shortdescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "This newspaper may seem at first like it exists to inform, but it is clear that it exists to instead intimidate.",
       "Por": "Este jornal pode parecer em primeiro lugar como ele existe para informar, mas é claro que ele existe para intimidar em vez disso."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/clues/apex/miniknognewspaper/miniknognewspaper.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "With its large headline and imposing photograph, this newspaper seems to exist to keep people compliant through fear."
     }
   }
 ]

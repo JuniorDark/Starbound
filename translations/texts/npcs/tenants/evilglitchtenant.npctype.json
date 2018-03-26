@@ -3,24 +3,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/tenants/evilglitchtenant.npctype": [
-        "/scriptConfig/dialog/converse/glitch/default/1/glitchEmotedText"
+        "/scriptConfig/dialog/converse/glitch/default/1"
       ]
     },
     "Texts": {
-      "Eng": "I have a lot of inner rage, that I am eager to express with my axe.",
-      "Por": "Eu tenho muita raiva interior, que estou ansioso para expressar com o meu machado."
+      "Eng": "Excited. I have a lot of inner rage, that I am eager to express with my axe.",
+      "Por": "Animado. Eu tenho muita raiva interior, que estou ansioso para expressar com o meu machado."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "npcs/tenants/evilglitchtenant.npctype": [
-        "/scriptConfig/dialog/converse/glitch/default/0/glitchEmotedText"
+        "/scriptConfig/dialog/converse/glitch/default/0"
       ]
     },
     "Texts": {
-      "Eng": "I haven't disconnected some heads for some time.",
-      "Por": "Faz tempo que não corto algumas cabeças."
+      "Eng": "Impatient. I haven't disconnected some heads for some time.",
+      "Por": "Impaciente. Faz tempo que eu não arranco algumas cabeças."
     }
   }
 ]

@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/icesphere/icespherechest/icespherechest.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis. The ice has special properties, meaning it won't melt any time soon.",
+      "Por": "Análise. O gelo tem propriedades especiais, ou seja, não derreter tão cedo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/icesphere/icespherechest/icespherechest.object": [
         "/floranDescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "Ice Sphere Chest",
       "Por": "Ice Sphere Chest"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/icesphere/icespherechest/icespherechest.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The ice has special properties, meaning it won't melt any time soon."
     }
   },
   {

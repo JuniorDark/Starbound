@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/consoletribal2/consoletribal2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analytical. There seems to be some crystal energy at work here which I don't understand.",
+      "Por": "Analítico. Parece haver alguma energia de cristal funcionando aqui que eu não entendo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/consoletribal2/consoletribal2.object": [
         "/hylotlDescription"
       ]
     },
@@ -57,17 +69,6 @@
     "Texts": {
       "Eng": "Carved Egg Console",
       "Por": "Carved Egg Console"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avian/consoletribal2/consoletribal2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "There seems to be some crystal energy at work here which I don't understand."
     }
   },
   {

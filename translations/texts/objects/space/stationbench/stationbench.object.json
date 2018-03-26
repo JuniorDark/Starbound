@@ -3,18 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/space/stationbench/stationbench.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A long bench for sitting with allies.",
-      "Por": "Um banco longo para sentar-se com aliados."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/space/stationbench/stationbench.object": [
         "/hylotlDescription"
       ]
     },
@@ -81,6 +69,18 @@
     "Texts": {
       "Eng": "Is it a bench, or is it simply a wide chair?",
       "Por": "É um banco, ou é simplesmente uma cadeira ampla?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/stationbench/stationbench.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. A long bench for sitting with allies.",
+      "Por": "Observador. Um banco longo para sentar-se com aliados."
     }
   },
   {

@@ -93,23 +93,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/sleepingbag/sleepingbag.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/generic/sleepingbaggreen/sleepingbaggreen.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/generic/sleepingbagred/sleepingbagred.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Oh how wonderful."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/sleepingbag/sleepingbag.object": [
         "/apexDescription"
       ],
       "objects/generic/sleepingbaggreen/sleepingbaggreen.object": [
@@ -122,6 +105,24 @@
     "Texts": {
       "Eng": "Rebel Apex spend many nights sleeping in these.",
       "Por": "Apex rebeldes passam muitas noites dormindo nestes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/sleepingbag/sleepingbag.object": [
+        "/glitchDescription"
+      ],
+      "objects/generic/sleepingbaggreen/sleepingbaggreen.object": [
+        "/glitchDescription"
+      ],
+      "objects/generic/sleepingbagred/sleepingbagred.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sarcasm. Oh how wonderful.",
+      "Por": "Sarcasmo. Oh, que maravilha."
     }
   },
   {

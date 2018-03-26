@@ -4,7 +4,6 @@
     "Files": {
       "plants/grass/ground/decorative/colourfulflower/colourfulflower.grass": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ]
     },
@@ -23,6 +22,18 @@
     "Texts": {
       "Eng": "Pretty flower.",
       "Por": "Flor bonita."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/colourfulflower/colourfulflower.grass": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. A colourful spiral flower.",
+      "Por": "Relatório. Uma flor em espiral colorida."
     }
   }
 ]

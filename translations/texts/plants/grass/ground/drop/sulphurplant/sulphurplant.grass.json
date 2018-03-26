@@ -3,24 +3,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "plants/grass/ground/drop/sulphurplant/sulphurplant.grass": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A foul smelling plant.",
-      "Por": "Uma planta mau cheirosa."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "plants/grass/ground/drop/sulphurplant/sulphurplant.grass": [
         "/shortdescription"
       ]
     },
     "Texts": {
       "Eng": "A sulphur plant.",
-      "Por": "A sulphur plant."
+      "Por": "Uma planta de enxofre."
     }
   },
   {
@@ -32,7 +20,7 @@
     },
     "Texts": {
       "Eng": "A sulphurous plant. It reeks.",
-      "Por": "Uma planta de enxofre. Cheira mal."
+      "Por": "Uma planta sulfurosa. Isso cheira."
     }
   },
   {
@@ -45,6 +33,18 @@
     "Texts": {
       "Eng": "Ssstinky!",
       "Por": "Fedida!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/drop/sulphurplant/sulphurplant.grass": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. A foul smelling plant.",
+      "Por": "Relatório. Uma planta com cheiro podre."
     }
   }
 ]

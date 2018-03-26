@@ -27,17 +27,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/classiclightart/classiclightart.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A light angled in such a way would sit nicely above Glitch works of art."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/apex/classiclightart/classiclightart.object": [
         "/apexDescription"
       ]
     },
@@ -68,6 +57,18 @@
     "Texts": {
       "Eng": "Gallery lights. Perfect for illuminating art.",
       "Por": "Luzes de galeria. Perfeita para iluminar arte."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/classiclightart/classiclightart.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Inspired. A light angled in such a way would sit nicely above Glitch works of art.",
+      "Por": "Inspirado. Uma luz inclinada de tal forma que ficaria muito bem acima das obras de arte Glitch."
     }
   },
   {

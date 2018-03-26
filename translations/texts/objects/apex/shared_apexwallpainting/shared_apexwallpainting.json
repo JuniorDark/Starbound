@@ -3,15 +3,15 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/apexwallpainting1/apexwallpainting1.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/apex/apexwallpainting2/apexwallpainting2.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Accurate geometric art.",
-      "Por": "Arte geométrica precisa."
+      "Eng": "Appreciative. Accurate geometric art.",
+      "Por": "Apreciativo. Arte geométrica precisa."
     }
   },
   {
@@ -45,7 +45,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Dizem que a arte alimenta a alma, mas alguns alimentos são melhores do que outros."
+    ],
     "Files": {
       "objects/apex/apexwallpainting1/apexwallpainting1.object": [
         "/avianDescription"
@@ -60,7 +62,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Que decoração interessante."
+    ],
     "Files": {
       "objects/apex/apexwallpainting1/apexwallpainting1.object": [
         "/novakidDescription"
@@ -75,7 +79,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Por do sol colorido em forma de um quadro."
+    ],
     "Files": {
       "objects/apex/apexwallpainting1/apexwallpainting1.object": [
         "/hylotlDescription"

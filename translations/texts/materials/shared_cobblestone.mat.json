@@ -33,6 +33,23 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/cobblestone.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/cobblestone.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Facinated. These cobblestones are naturally smooth.",
+      "Por": "Fascinado. Essas pedras são naturalmente lisas."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Pedregulhos duro, liso ao toque."
+    ],
+    "Files": {
+      "items/materials/cobblestone.matitem": [
         "/description"
       ],
       "tiles/materials/cobblestone.material": [
@@ -57,21 +74,6 @@
     "Texts": {
       "Eng": "Ssmooth cobblessstone rockss.",
       "Por": "Pedrass de pedregulho lisa."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/cobblestone.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/cobblestone.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "These cobblestones are naturally smooth.",
-      "Por": "Esses pedregulhos são naturalmente lisos."
     }
   }
 ]

@@ -16,8 +16,7 @@
     "Files": {
       "objects/generic/pillar1/pillar1.object": [
         "/apexDescription",
-        "/avianDescription",
-        "/glitchDescription/glitchEmotedText"
+        "/avianDescription"
       ]
     },
     "Texts": {
@@ -59,6 +58,18 @@
     "Texts": {
       "Eng": "Big tall ssstone.",
       "Por": "Grande pedra alta."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/pillar1/pillar1.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neutral. A pillar.",
+      "Por": "Neutro. Um pilar."
     }
   },
   {

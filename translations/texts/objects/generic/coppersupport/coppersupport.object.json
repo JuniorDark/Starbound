@@ -87,23 +87,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/coppersupport/coppersupport.object": [
-        "/floranDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Sssupport beam made from copper.",
-      "Por": "Viga de suporte feita de cobre."
+      "Eng": "Observant. This copper beam is not actually supporting any structural weight.",
+      "Por": "Observador. Esta viga de cobre não está realmente suportando qualquer peso estrutural."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/coppersupport/coppersupport.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/floranDescription"
       ]
     },
     "Texts": {
-      "Eng": "This copper beam is not actually supporting any structural weight."
+      "Eng": "Sssupport beam made from copper.",
+      "Por": "Viga de suporte feita de cobre."
     }
   }
 ]

@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/flesh/fleshchair/fleshchair.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hesitant. Sitting here would be disconcerting.",
+      "Por": "Hesitante. Sentar aqui seria desconcertante."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/flesh/fleshchair/fleshchair.object": [
         "/novakidDescription"
       ]
     },
@@ -51,11 +63,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/flesh/fleshchair/fleshchair.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/apexDescription"
       ]
     },
     "Texts": {
-      "Eng": "Sitting here would be disconcerting."
+      "Eng": "I have no words.",
+      "Por": "Não tenho palavras."
     }
   },
   {

@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/rainbowwood/rainbowwoodtable/rainbowwoodtable.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Elated. look at the colourful stripes!",
+      "Por": "Exaltado. Olhe para as listras coloridas!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/rainbowwood/rainbowwoodtable/rainbowwoodtable.object": [
         "/floranDescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "This wood looks great whatever form it's in.",
       "Por": "Esta madeira parece ótima, qualquer que seja a forma em que se encontra."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/rainbowwood/rainbowwoodtable/rainbowwoodtable.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "look at the colourful stripes!"
     }
   }
 ]

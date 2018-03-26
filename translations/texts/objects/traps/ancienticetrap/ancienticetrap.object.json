@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/traps/ancienticetrap/ancienticetrap.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cautious. It's a deadly ice trap.",
+      "Por": "Cauteloso! é uma armadilha de gelo mortal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/ancienticetrap/ancienticetrap.object": [
         "/hylotlDescription"
       ]
     },
@@ -39,8 +51,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/traps/ancienticetrap/ancienticetrap.object": [
-        "/apexDescription",
-        "/glitchDescription/glitchEmotedText"
+        "/apexDescription"
       ]
     },
     "Texts": {

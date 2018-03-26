@@ -39,24 +39,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/tiered/tier4table/tier4table.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A very well-made durasteel table.",
-      "Por": "Uma mesa de durasteel muito bem feita."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/tiered/tier4table/tier4table.object": [
         "/avianDescription"
       ]
     },
     "Texts": {
       "Eng": "An immensely sturdy durasteel table.",
       "Por": "Uma mesa de durasteel imensamente resistente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/tiered/tier4table/tier4table.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Approving. A very well-made durasteel table.",
+      "Por": "Aprovação. Uma mesa de durasteel muito bem feita."
     }
   },
   {

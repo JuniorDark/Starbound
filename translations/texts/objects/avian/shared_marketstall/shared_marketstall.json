@@ -33,6 +33,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/marketstall4/marketstall4.object": [
+        "/glitchDescription"
+      ],
+      "objects/avian/marketstall5/marketstall5.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disappointed. This stall is empty.",
+      "Por": "Decepcionado. Esta barraca está vazia."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/marketstall4/marketstall4.object": [
         "/floranDescription"
       ],
       "objects/avian/marketstall5/marketstall5.object": [
@@ -45,7 +60,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Barracas vazias são sempre meio tristes."
+    ],
     "Files": {
       "objects/avian/marketstall4/marketstall4.object": [
         "/humanDescription"
@@ -57,20 +74,6 @@
     "Texts": {
       "Eng": "Empty stalls are always kind of sad.",
       "Por": "As barracas vazias são sempre meio tristes."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avian/marketstall4/marketstall4.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/avian/marketstall5/marketstall5.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This stall is empty."
     }
   },
   {

@@ -48,6 +48,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/bunkerdisplay1/bunkerdisplay1.object": [
+        "/glitchDescription"
+      ],
+      "objects/human/bunkerdisplay3/bunkerdisplay3.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. This appears to depict the layout of the area we're in.",
+      "Por": "Observador. Isso parece descrever o layout da área em que estamos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkerdisplay1/bunkerdisplay1.object": [
         "/avianDescription"
       ],
       "objects/human/bunkerdisplay3/bunkerdisplay3.object": [
@@ -87,20 +102,6 @@
     "Texts": {
       "Eng": "Squiggly linesss make no sssense to Floran.",
       "Por": "Linhasss onduladas não fazem sssentido para Floran."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/human/bunkerdisplay1/bunkerdisplay1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/human/bunkerdisplay3/bunkerdisplay3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This appears to depict the layout of the area we're in."
     }
   }
 ]

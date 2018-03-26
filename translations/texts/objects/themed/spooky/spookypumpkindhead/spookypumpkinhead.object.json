@@ -3,6 +3,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/themed/spooky/spookypumpkindhead/spookypumpkinhead.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alarmed. I thought this was alive, for a moment.",
+      "Por": "Alarmado. Eu pensei que isso estava vivo, por um momento."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/spooky/spookypumpkindhead/spookypumpkinhead.object": [
         "/humanDescription"
       ]
     },
@@ -33,18 +45,6 @@
     "Texts": {
       "Eng": "I think this would be better with a third eye, personally.",
       "Por": "Eu acho que isso seria melhor com um terceiro olho, pessoalmente."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/themed/spooky/spookypumpkindhead/spookypumpkinhead.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I thought this was alive, for a moment.",
-      "Por": "Por um momento pensei que isso estava vivo. "
     }
   },
   {

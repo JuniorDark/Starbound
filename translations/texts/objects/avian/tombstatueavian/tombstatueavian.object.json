@@ -63,6 +63,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/tombstatueavian/tombstatueavian.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. This Avian has wings. They don't look real.",
+      "Por": "Observador. Este Avian tem asas. Elas não parecem reais."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/tombstatueavian/tombstatueavian.object": [
         "/hylotlDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "Ssso many dead birdmen. What a wassste.",
       "Por": "Muitosss homem-pássaros mortos. Que desssperdício."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avian/tombstatueavian/tombstatueavian.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This Avian has wings. They don't look real."
     }
   },
   {

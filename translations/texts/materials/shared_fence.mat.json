@@ -33,6 +33,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/fence.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/fence.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased. This wooden fence is quite sturdy.",
+      "Por": "Satisfeito. Este cerca de madeira é muito resistente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/fence.matitem": [
         "/florandescription"
       ],
       "tiles/materials/fence.material": [
@@ -42,21 +57,6 @@
     "Texts": {
       "Eng": "Sssturdy fence.",
       "Por": "Cerca resissstente."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/fence.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/fence.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This wooden fence is quite sturdy.",
-      "Por": "Esta cerca de madeira é bastante resistente."
     }
   },
   {

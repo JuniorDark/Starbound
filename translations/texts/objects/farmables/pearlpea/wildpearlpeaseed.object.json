@@ -22,5 +22,17 @@
       "Eng": "Pearlpea, I'll need to bite down hard.",
       "Por": "Pearlpea, você precisará morder com força."
     }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/pearlpea/wildpearlpeaseed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pride. Glitch teeth make short work of pearlpeas.",
+      "Por": "Orgulhoso. Os dentes Glitch acabam rapidamente com pearlpeas."
+    }
   }
 ]

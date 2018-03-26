@@ -27,17 +27,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/protectorate/objects/protectoratefallenrope/protectoratefallenrope.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Broken things scattered on the floor..."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/protectorate/objects/protectoratefallenrope/protectoratefallenrope.object": [
         "/hylotlDescription"
       ]
     },
@@ -68,6 +57,18 @@
     "Texts": {
       "Eng": "Red ribbon fence is broken...",
       "Por": "Cerca de fita vermelha está quebrada..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/protectorate/objects/protectoratefallenrope/protectoratefallenrope.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sad. Broken things scattered on the floor...",
+      "Por": "Triste. Coisas quebradas espalhadas no chão..."
     }
   },
   {

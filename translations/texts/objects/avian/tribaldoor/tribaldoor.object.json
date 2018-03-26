@@ -63,6 +63,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/tribaldoor/tribaldoor.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Educated. This door symbolises who may and may not enter.",
+      "Por": "Educado. Esta porta simboliza quem pode e não pode entrar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/tribaldoor/tribaldoor.object": [
         "/humanDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "The images on this door extend friendship to those from other worlds. My home is your home.",
       "Por": "As imagens nesta porta estendem amizade para aqueles de outros mundos. A minha casa é a tua casa."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avian/tribaldoor/tribaldoor.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This door symbolises who may and may not enter."
     }
   },
   {

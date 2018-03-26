@@ -39,23 +39,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/novakid/wagonwheel/wagonwheel.object": [
-        "/floranDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Floran doesssn't know purpose of wheel.",
-      "Por": "Floran não sssabe o propósito de roda."
+      "Eng": "Curious. I wonder if this was once attached to an actual wagon?",
+      "Por": "Curioso. Eu me pergunto se isso já foi anexado a uma carroça de verdade?"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/novakid/wagonwheel/wagonwheel.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/floranDescription"
       ]
     },
     "Texts": {
-      "Eng": "I wonder if this was once attached to an actual wagon?"
+      "Eng": "Floran doesssn't know purpose of wheel.",
+      "Por": "Floran não sssabe o propósito de roda."
     }
   },
   {

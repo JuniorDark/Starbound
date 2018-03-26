@@ -51,24 +51,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/space/stationceilingvent/stationceilingvent.object": [
-        "/avianDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "I suppose this is used to help clean the air.",
-      "Por": "Suponho que isso seja usado para ajudar a limpar o ar."
+      "Eng": "Curious. I wonder if Glitch lungs work similar to this vent.",
+      "Por": "Curioso. Me pergunto se os pulmões Glitch funcionam de maneira semelhante a este respiradouro."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/space/stationceilingvent/stationceilingvent.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/avianDescription"
       ]
     },
     "Texts": {
-      "Eng": "I wonder if Glitch lungs work similar to this vent.",
-      "Por": "Eu me pergunto se os pulmões Glitch funcionam de maneira semelhante a esse respiradouro."
+      "Eng": "I suppose this is used to help clean the air.",
+      "Por": "Suponho que isso seja usado para ajudar a limpar o ar."
     }
   },
   {

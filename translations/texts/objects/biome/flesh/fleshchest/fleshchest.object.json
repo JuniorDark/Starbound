@@ -87,23 +87,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/flesh/fleshchest/fleshchest.object": [
-        "/apexDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "The repulsive nature of this chest is a great thief-deterrent.",
-      "Por": "A natureza repulsiva deste baú é um grande anti-roubo."
+      "Eng": "Repulsed. What a vile chest.",
+      "Por": "Repulsado. Que baú vil."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/flesh/fleshchest/fleshchest.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/apexDescription"
       ]
     },
     "Texts": {
-      "Eng": "What a vile chest."
+      "Eng": "The repulsive nature of this chest is a great thief-deterrent.",
+      "Por": "A natureza repulsiva deste baú é um grande anti-roubo."
     }
   }
 ]

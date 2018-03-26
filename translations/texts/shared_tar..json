@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Piche"
+    ],
     "Files": {
       "biomes/surface_detached/tar.biome": [
         "/friendlyName"
@@ -14,7 +16,7 @@
     },
     "Texts": {
       "Eng": "Tar",
-      "Por": "Piche"
+      "Por": "Tar"
     }
   }
 ]

@@ -39,11 +39,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/shipwheel/shipwheel.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "An inaccurate method of ship control."
+      "Eng": "Critical. An inaccurate method of ship control.",
+      "Por": "Crítico. Um método impreciso de controle de navios."
     }
   },
   {

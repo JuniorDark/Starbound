@@ -75,23 +75,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/plantlog/plantlog.object": [
-        "/apexDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "This log seems an ideal height for sitting.",
-      "Por": "Este tronco parece da altura ideal para se sentar."
+      "Eng": "Surprised. This simple log makes an effective seat.",
+      "Por": "Surpreso. Este simples tronco faz um assento efetivo."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/plantlog/plantlog.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/apexDescription"
       ]
     },
     "Texts": {
-      "Eng": "This simple log makes an effective seat."
+      "Eng": "This log seems an ideal height for sitting.",
+      "Por": "Este tronco parece da altura ideal para se sentar."
     }
   },
   {

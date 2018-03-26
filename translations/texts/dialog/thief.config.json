@@ -3,12 +3,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/thief.config": [
-        "/accuse/glitch/default/4/glitchEmotedText"
+        "/accuse/glitch/default/0"
       ]
     },
     "Texts": {
-      "Eng": "A thief!",
-      "Por": "Um ladrão!"
+      "Eng": "Aghast. You are stealing!",
+      "Por": "Horrorizado. Você está roubando!"
     }
   },
   {
@@ -27,6 +27,30 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/thief.config": [
+        "/accuse/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Angry. You are taking things that aren't yours!",
+      "Por": "Zangado. Você está pegando coisas que não são suas!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
+        "/accuse/glitch/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Appalled. A thief!",
+      "Por": "Chocado. Um ladrão!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
         "/accuse/floran/default/4"
       ]
     },
@@ -39,12 +63,48 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/thief.config": [
+        "/accuse/glitch/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bewildered. Those aren't yours, why are you taking them?",
+      "Por": "Confuso. Isso não é seu, por que você está pegando?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
         "/alert/hylotl/default/1"
       ]
     },
     "Texts": {
       "Eng": "Burglar! Crook! Thief! Guards, I need you!",
       "Por": "Assaltante! Trapaceiro! Ladrão! Guardas, eu preciso de vocês!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
+        "/accuse/glitch/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disappointed. I assumed you were a nice person, not a thief.",
+      "Por": "Desapontado. Eu achei que você era uma boa pessoa, não um ladrão."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
+        "/alert/glitch/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enraged. Stop this thievery! Guards, help me!",
+      "Por": "Enfurecido. Pare este roubo! Guardas, me ajude!"
     }
   },
   {
@@ -161,30 +221,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/thief.config": [
-        "/alert/glitch/default/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Guards, guards! A thief!",
-      "Por": "Guardas, guardas! Um ladrão!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/thief.config": [
-        "/alert/glitch/default/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Guards, seize this criminal!",
-      "Por": "Guardas, prendam este criminoso!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/thief.config": [
         "/alert/floran/default/0"
       ]
     },
@@ -222,36 +258,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/thief.config": [
-        "/alert/glitch/default/2/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "How can you do this!? Guards, help!",
-      "Por": "Como você pode fazer isso!? Guardas, socorro!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/thief.config": [
         "/accuse/apex/default/1"
       ]
     },
     "Texts": {
       "Eng": "How can you justify this thievery?",
       "Por": "Como você pode justificar esse roubo?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/thief.config": [
-        "/accuse/glitch/default/2/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I assumed you were a nice person, not a thief.",
-      "Por": "Presumi que fosse uma boa pessoa, não um ladrão."
     }
   },
   {
@@ -276,6 +288,42 @@
     "Texts": {
       "Eng": "I will not suffer a crook! Guards!",
       "Por": "Eu não vou aturar um bandido! Guardas!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
+        "/alert/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Incensed. Guards, seize this criminal!",
+      "Por": "Furioso. Guardas, peguem esse criminoso!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
+        "/alert/glitch/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Indignant. How can you do this!? Guards, help!",
+      "Por": "Indignado. Como você pode fazer isso!? Guardas, socorro!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
+        "/alert/glitch/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Irate. You thieving scoundrel! Guards!",
+      "Por": "Irado. Você ladrão canalha! Guardas!"
     }
   },
   {
@@ -312,6 +360,18 @@
     "Texts": {
       "Eng": "Oh no, oh no! A Robber! Guards!",
       "Por": "Ah não, ah não! Um ladrão! Guardas!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/thief.config": [
+        "/alert/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Panicked. Guards, guards! A thief!",
+      "Por": "Em pânico. Guardas, guardas! Um ladrão!"
     }
   },
   {
@@ -408,18 +468,6 @@
     "Texts": {
       "Eng": "Stop that! Why are you stealing these things!?",
       "Por": "Pare com isso! Por que você está roubando essas coisas!?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/thief.config": [
-        "/alert/glitch/default/4/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Stop this thievery! Guards, help me!",
-      "Por": "Pare esse ladrão! Guardas, ajude-me!"
     }
   },
   {
@@ -558,18 +606,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/thief.config": [
-        "/accuse/glitch/default/3/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Those aren't yours, why are you taking them?",
-      "Por": "Isso não é seu, por que está pegando?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/thief.config": [
         "/accuse/human/default/2"
       ]
     },
@@ -642,30 +678,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/thief.config": [
-        "/accuse/glitch/default/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "You are stealing!",
-      "Por": "Você está roubando!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/thief.config": [
-        "/accuse/glitch/default/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "You are taking things that aren't yours!",
-      "Por": "Você está pegando coisas que não são suas!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/thief.config": [
         "/accuse/apex/default/0"
       ]
     },
@@ -684,18 +696,6 @@
     "Texts": {
       "Eng": "You must stop taking things! Guards!",
       "Por": "Você deve parar de pegar as coisas! Guardas!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/thief.config": [
-        "/alert/glitch/default/3/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "You thieving scoundrel! Guards!",
-      "Por": "Seu ladrão patife! Guardas!"
     }
   },
   {

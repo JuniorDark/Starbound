@@ -15,7 +15,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Um bloco com um glifo azul estranho gravado no centro."
+    ],
     "Files": {
       "items/materials/blueneonsymbol.matitem": [
         "/description"
@@ -63,15 +65,15 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/blueneonsymbol.matitem": [
-        "/glitchdescription/glitchEmotedText"
+        "/glitchdescription"
       ],
       "tiles/materials/blueneonsymbolblock.material": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "The meaning of this symbol is unknown.",
-      "Por": "O significado deste símbolo é desconhecido."
+      "Eng": "Interested. The meaning of this symbol is unknown.",
+      "Por": "Interessado. O significado deste símbolo é desconhecido."
     }
   }
 ]

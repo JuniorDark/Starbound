@@ -27,18 +27,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/themed/executive/executivetable/executivetable.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A flawless executive table.",
-      "Por": "Uma mesa executiva impecável."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/themed/executive/executivetable/executivetable.object": [
         "/hylotlDescription"
       ]
     },
@@ -57,6 +45,18 @@
     "Texts": {
       "Eng": "An immensely sturdy executive table.",
       "Por": "Uma mesa executiva imensamente robusta."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/executive/executivetable/executivetable.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Approving. A flawless executive table.",
+      "Por": "Aprovação. Uma mesa executiva impecável."
     }
   },
   {

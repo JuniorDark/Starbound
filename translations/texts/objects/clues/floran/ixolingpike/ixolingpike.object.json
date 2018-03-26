@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/clues/floran/ixolingpike/ixolingpike.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. This appears to be some sort of creature's remains on a pike.",
+      "Por": "Curioso. Esta parece ser algum tipo de restos de umja criatura em uma lança."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/clues/floran/ixolingpike/ixolingpike.object": [
         "/floranDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "This appears to be an insect skeleton on a pike. Do insects even have skeletons?",
       "Por": "Este parece ser um esqueleto de inseto em um espinho. Os insectos têm mesmo esqueletos?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/clues/floran/ixolingpike/ixolingpike.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This appears to be some sort of creature's remains on a pike."
     }
   },
   {

@@ -15,17 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/trashcan/trashcan.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A fellow Glitch... or a trash can."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/glitch/trashcan/trashcan.object": [
         "/hylotlDescription"
       ]
     },
@@ -56,6 +45,18 @@
     "Texts": {
       "Eng": "A trash can. What a load of rubbish.",
       "Por": "Uma lata de lixo. Com um monte de lixo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/trashcan/trashcan.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. A fellow Glitch... or a trash can.",
+      "Por": "Curioso. Um colega Glitch... ou uma lata de lixo."
     }
   },
   {

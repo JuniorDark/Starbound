@@ -11,7 +11,7 @@
     },
     "Texts": {
       "Eng": "An advanced synthetic Avian material with printed markings.",
-      "Por": "Um material Avian sintético avançado com marcações impressas."
+      "Por": "Um material sintético Avian avançado com marcações impressas."
     }
   },
   {
@@ -48,6 +48,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/aztectech.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/aztectech.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. These blocks are made from an unknown artificial material.",
+      "Por": "Curioso. Estes blocos são feitos de um material artificial desconhecido."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/aztectech.matitem": [
         "/novakiddescription"
       ],
       "tiles/materials/aztectech.material": [
@@ -57,21 +72,6 @@
     "Texts": {
       "Eng": "Sturdy lookin' bricks all marked up with symbols.",
       "Por": "Tijolos resistentes todos marcados com símbolos."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/aztectech.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/aztectech.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "These blocks are made from an unknown artificial material.",
-      "Por": "Esses blocos são feitos de um material artificial desconhecido."
     }
   }
 ]

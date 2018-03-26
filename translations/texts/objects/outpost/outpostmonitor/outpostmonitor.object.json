@@ -87,11 +87,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/outpostmonitor/outpostmonitor.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "This seems to be malfunctioning."
+      "Eng": "Upset. This seems to be malfunctioning.",
+      "Por": "Chateado. Isso parece estar com mau funcionamento."
     }
   },
   {

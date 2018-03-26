@@ -15,18 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/space/industrialcanister/industrialcanister.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A short analysis concludes that this canister is built to safely store valuable liquids.",
-      "Por": "Uma breve análise conclui que esse cilindro é construído para armazenar com segurança líquidos valiosos."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/space/industrialcanister/industrialcanister.object": [
         "/shortdescription"
       ]
     },
@@ -44,7 +32,19 @@
     },
     "Texts": {
       "Eng": "Is this a big ol' oil barrel? Mighty odd lookin' barrel if I say so myself.",
-      "Por": "Isso é um barril de óleo grande? Um barril muito estranho que eu diga."
+      "Por": "Isso é um barril de óleo grande? Um barril muito estranho se eu diga."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/industrialcanister/industrialcanister.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. A short analysis concludes that this canister is built to safely store valuable liquids.",
+      "Por": "Observador. Uma breve análise conclui que este cilindro é construído para armazenar com segurança líquidos valiosos."
     }
   },
   {

@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/themed/astronaut/saturnmodel/saturnmodel.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fascination. The massive planetary rings are composed of small space dust to rocks up to ten meters big.",
+      "Por": "Fascinação. Os enormes anéis planetários são compostos de pequenas poeiras espaciais até rochas de até dez metros de altura."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/astronaut/saturnmodel/saturnmodel.object": [
         "/shortdescription"
       ]
     },
@@ -93,18 +105,6 @@
     "Texts": {
       "Eng": "Saturn's hexagon is another example of nature's unexpected and logical beauty.",
       "Por": "O hexágono de Saturno é outro exemplo da beleza inesperada e lógica da natureza."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/themed/astronaut/saturnmodel/saturnmodel.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The massive planetary rings are composed of small space dust to rocks up to ten meters big.",
-      "Por": "Os enormes anéis planetários são compostos de pequenas poeiras espaciais até rochas de até dez metros de altura."
     }
   }
 ]

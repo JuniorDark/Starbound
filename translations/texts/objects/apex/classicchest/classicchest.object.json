@@ -87,23 +87,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/classicchest/classicchest.object": [
-        "/floranDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Sssweet chesst!",
-      "Por": "Baú encantador!"
+      "Eng": "Observant. There is no lock.",
+      "Por": "Observador. Não há fechadura."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/classicchest/classicchest.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/floranDescription"
       ]
     },
     "Texts": {
-      "Eng": "There is no lock."
+      "Eng": "Sssweet chesst!",
+      "Por": "Baú encantador!"
     }
   }
 ]

@@ -39,17 +39,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/mininghazardsign/mininghazardsign.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Hazard? Where?!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/mission/mininghazardsign/mininghazardsign.object": [
         "/novakidDescription"
       ]
     },
@@ -104,6 +93,18 @@
     "Texts": {
       "Eng": "Whatever this sssay, Floran ignore.",
       "Por": "O que quer que isso diga, Floran ignora."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/mininghazardsign/mininghazardsign.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Worried. Hazard? Where?!",
+      "Por": "Preocupado. Perigo? Onde?!"
     }
   }
 ]

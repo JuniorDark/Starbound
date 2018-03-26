@@ -18,6 +18,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/moonstone.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/moonstone.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Interested. This unique stone is sometimes found on moons.",
+      "Por": "Interessado. Esta pedra única é ocasionalmente encontrada em luas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/moonstone.matitem": [
         "/novakiddescription"
       ],
       "tiles/materials/moonstone.material": [
@@ -57,21 +72,6 @@
     "Texts": {
       "Eng": "Ssmooth moonsstone.",
       "Por": "Pedra lunar ssuave."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/moonstone.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/moonstone.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This unique stone is sometimes found on moons.",
-      "Por": "Esta pedra única é às vezes encontrada em luas."
     }
   }
 ]

@@ -33,6 +33,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/darkwood.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/darkwood.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Satisfied. These are well crafted wood planks.",
+      "Por": "Satisfeito. Estas são tábuas de madeira bem trabalhadas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/darkwood.matitem": [
         "/apexdescription"
       ],
       "tiles/materials/darkwood.material": [
@@ -72,21 +87,6 @@
     "Texts": {
       "Eng": "Sssplintery wood plankss.",
       "Por": "Tábuass de madeira lascada."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/darkwood.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/darkwood.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "These are well crafted wood planks.",
-      "Por": "Estas são pranchas de madeira bem trabalhadas."
     }
   },
   {

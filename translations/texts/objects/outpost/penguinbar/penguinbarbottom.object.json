@@ -63,17 +63,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/penguinbar/penguinbarbottom.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This bar is scratched and grubby."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/outpost/penguinbar/penguinbarbottom.object": [
         "/avianDescription"
       ]
     },
@@ -92,6 +81,18 @@
     "Texts": {
       "Eng": "Thisss bar is made from cheap wood.",
       "Por": "Este bar é feito de madeira barata."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/penguinbar/penguinbarbottom.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unimpressed. This bar is scratched and grubby.",
+      "Por": "Não impressionado. Este bar está riscado e sujo."
     }
   }
 ]

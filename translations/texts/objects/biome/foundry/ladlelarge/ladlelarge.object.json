@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/foundry/ladlelarge/ladlelarge.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alarmed. This molten liquid could cause damage if not properly contained.",
+      "Por": "Alarmado. Este líquido derretido pode causar danos se não for devidamente contido."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/foundry/ladlelarge/ladlelarge.object": [
         "/floranDescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "This mechanical container is somehow containing the heat from the liquid inside.",
       "Por": "Este recipiente mecânico está de alguma forma contendo o calor do líquido dentro."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/foundry/ladlelarge/ladlelarge.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This molten liquid could cause damage if not properly contained."
     }
   }
 ]

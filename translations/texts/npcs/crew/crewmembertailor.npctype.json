@@ -3,6 +3,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/crew/crewmembertailor.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amiable. Come to me whenever you wish to update your crew's uniform.",
+      "Por": "Amável. Venha até mim sempre que você quiser atualizar uniforme de sua tripulação."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembertailor.npctype": [
         "/scriptConfig/dialog/crewmember/roleDescription/floran/default/0"
       ]
     },
@@ -27,12 +39,36 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/crew/crewmembertailor.npctype": [
-        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0/glitchEmotedText"
+        "/scriptConfig/dialog/converse/glitch/default/2"
       ]
     },
     "Texts": {
-      "Eng": "Come to me whenever you wish to update your crew's uniform.",
-      "Por": "Venha a mim sempre que você quiser mudar o uniforme da sua tripulação."
+      "Eng": "Eager. I can't wait to see what people think of your new uniform, captain!",
+      "Por": "Ansioso. Eu mal posso esperar para ver o que as pessoas pensam do seu novo uniforme, capitão!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembertailor.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eager. If you need to update your crew's uniform, come speak to me!",
+      "Por": "Ansioso. Se você precisa atualizar o uniforme de sua tripulação, venha falar comigo!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembertailor.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excited. I'm sure people will love your uniform!",
+      "Por": "Animado. Tenho certeza que as pessoas vão adorar seu uniforme!"
     }
   },
   {
@@ -99,30 +135,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/crew/crewmembertailor.npctype": [
-        "/scriptConfig/dialog/converse/glitch/default/2/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I can't wait to see what people think of your new uniform, captain!",
-      "Por": "Mal posso esperar para ver o que as pessoas pensam do seu novo uniforme, Capitão!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "npcs/crew/crewmembertailor.npctype": [
-        "/scriptConfig/dialog/converse/glitch/default/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I'm sure people will love your uniform!",
-      "Por": "Tenho certeza que as pessoas vão adorar o seu uniforme!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "npcs/crew/crewmembertailor.npctype": [
         "/scriptConfig/dialog/crewmember/roleDescription/novakid/default/0"
       ]
     },
@@ -135,24 +147,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/crew/crewmembertailor.npctype": [
-        "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "If you need to update your crew's uniform, come speak to me!",
-      "Por": "Se você precisar mudar o uniforme da sua tripulação, venha falar comigo!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "npcs/crew/crewmembertailor.npctype": [
         "/scriptConfig/dialog/crewmember/roleDescription/novakid/default/1"
       ]
     },
     "Texts": {
       "Eng": "If you want to change up your crew's outfit, then I'm your huckleberry!",
       "Por": "Se você quiser mudar a roupa da sua tripulação, então eu sou seu alfaiate!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmembertailor.npctype": [
+        "/scriptConfig/dialog/converse/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. This is a promising uniform choice, captain!",
+      "Por": "Impressionado. Este é uma opção de uniforme promissora, capitão!"
     }
   },
   {
@@ -225,18 +237,6 @@
     "Texts": {
       "Eng": "This is a mighty fine choice of outfit, partner!",
       "Por": "Esta é uma ótima escolha de roupa, parceiro!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "npcs/crew/crewmembertailor.npctype": [
-        "/scriptConfig/dialog/converse/glitch/default/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This is a promising uniform choice, captain!",
-      "Por": "Esta é uma escolha de uniforme promissora, Capitão!"
     }
   },
   {

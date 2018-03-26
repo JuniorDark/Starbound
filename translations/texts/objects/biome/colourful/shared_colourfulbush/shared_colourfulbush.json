@@ -3,29 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/colourful/colourfulbush1/colourfulbush1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/colourful/colourfulbush2/colourfulbush2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/colourful/colourfulbush3/colourfulbush3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/colourful/colourfulbush4/colourfulbush4.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/colourful/colourfulbush5/colourfulbush5.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A truly beautiful bush."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/colourful/colourfulbush1/colourfulbush1.object": [
         "/novakidDescription"
       ],
       "objects/biome/colourful/colourfulbush2/colourfulbush2.object": [
@@ -44,6 +21,30 @@
     "Texts": {
       "Eng": "I think this bush has got a pretty high opinion of itself.",
       "Por": "Acho que esse arbusto tem uma opinião muito elevada de si mesmo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/colourful/colourfulbush1/colourfulbush1.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/colourful/colourfulbush2/colourfulbush2.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/colourful/colourfulbush3/colourfulbush3.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/colourful/colourfulbush4/colourfulbush4.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/colourful/colourfulbush5/colourfulbush5.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Inspired. A truly beautiful bush.",
+      "Por": "Inspirado. Um arbusto verdadeiramente bonito."
     }
   },
   {

@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hoard/goldvase1/goldvase1.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enamored. This appears to be a ceremonial jug of bulbous appearance.",
+      "Por": "Encantado. Este parece ser um jarro cerimonial de aparência bulbosa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hoard/goldvase1/goldvase1.object": [
         "/shortdescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "Pretty jug, maybe sssteals.",
       "Por": "Jarro bonito, talvez roube."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/hoard/goldvase1/goldvase1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This appears to be a ceremonial jug of bulbous appearance."
     }
   },
   {

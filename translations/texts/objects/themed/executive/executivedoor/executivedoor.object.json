@@ -3,18 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/themed/executive/executivedoor/executivedoor.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A flawless door.",
-      "Por": "Uma porta impecável."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/themed/executive/executivedoor/executivedoor.object": [
         "/hylotlDescription"
       ]
     },
@@ -46,6 +34,18 @@
     "Texts": {
       "Eng": "An impenetrable executive door.",
       "Por": "Uma porta executiva impenetrável."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/executive/executivedoor/executivedoor.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Approving. A flawless door.",
+      "Por": "Aprovação. Uma porta sem falhas."
     }
   },
   {

@@ -3,23 +3,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/redalert/redalert.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A red flashing light is a warning or alarm in a million different cultures."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/redalert/redalert.object": [
         "/description"
       ]
     },
     "Texts": {
       "Eng": "A red flashing light... That's usually not good.",
       "Por": "Uma luz vermelha piscando... Isso geralmente não é bom."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/redalert/redalert.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Concerned. A red flashing light is a warning or alarm in a million different cultures.",
+      "Por": "Preocupado. Uma luz vermelha piscando é um aviso ou alarme em um milhão de culturas diferentes."
     }
   },
   {

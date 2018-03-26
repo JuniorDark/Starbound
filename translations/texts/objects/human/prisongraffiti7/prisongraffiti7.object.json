@@ -39,17 +39,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/prisongraffiti7/prisongraffiti7.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The blood used here came from a Hylotl."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/human/prisongraffiti7/prisongraffiti7.object": [
         "/description"
       ]
     },
@@ -80,6 +69,18 @@
     "Texts": {
       "Eng": "This graffiti seems to be written in blood.",
       "Por": "Este graffiti parece ser escrito com sangue."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisongraffiti7/prisongraffiti7.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Uncomfortable. The blood used here came from a Hylotl.",
+      "Por": "Desconfortável. O sangue usado aqui veio de um Hylotl."
     }
   },
   {

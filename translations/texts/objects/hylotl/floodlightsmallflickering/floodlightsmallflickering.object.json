@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/floodlightsmallflickering/floodlightsmallflickering.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A flickering waterproof light."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/hylotl/floodlightsmallflickering/floodlightsmallflickering.object": [
         "/apexDescription"
       ]
     },
@@ -68,6 +57,18 @@
     "Texts": {
       "Eng": "It's just a waterproof flickering light bulb.",
       "Por": "É apenas uma lâmpada a prova d'água e cintilante."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/floodlightsmallflickering/floodlightsmallflickering.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neutral. A flickering waterproof light.",
+      "Por": "Neutro. Uma luz cintilante à prova d'água."
     }
   },
   {

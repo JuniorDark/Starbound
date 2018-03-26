@@ -51,24 +51,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/themed/retroscifi/retroscifitv/retroscifitv.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I like the look of this technology.",
-      "Por": "Eu gosto da aparência desta tecnologia."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/themed/retroscifi/retroscifitv/retroscifitv.object": [
         "/avianDescription"
       ]
     },
     "Texts": {
       "Eng": "I've never really been interested in owning a television, until now.",
       "Por": "Eu nunca estive interessado em possuir uma televisão, até agora."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/retroscifi/retroscifitv/retroscifitv.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Interested. I like the look of this technology.",
+      "Por": "Interessado. Eu gosto da aparência desta tecnologia."
     }
   },
   {

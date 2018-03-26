@@ -39,24 +39,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/tiered/tier3table/tier3table.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A very well-made titanium table.",
-      "Por": "Uma mesa de titânio muito bem feita."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/tiered/tier3table/tier3table.object": [
         "/avianDescription"
       ]
     },
     "Texts": {
       "Eng": "An immensely sturdy titanium table.",
       "Por": "Uma mesa de titânio imensamente resistente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/tiered/tier3table/tier3table.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Approving. A very well-made titanium table.",
+      "Por": "Aprovação. Uma mesa de titânio muito bem feita."
     }
   },
   {

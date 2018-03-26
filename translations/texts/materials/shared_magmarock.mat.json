@@ -33,6 +33,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/magmarock.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/magmarock.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cautious. The temperature of this magmarock remains dangerously high.",
+      "Por": "Cauteloso. A temperatura desta rocha de magma permanece perigosamente elevada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/magmarock.matitem": [
         "/shortdescription"
       ],
       "tiles/materials/magmarock.material": [
@@ -45,7 +60,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Pedra de magma. Isso é coisa quente"
+    ],
     "Files": {
       "items/materials/magmarock.matitem": [
         "/description"
@@ -57,21 +74,6 @@
     "Texts": {
       "Eng": "Magmarock. This is hot stuff.",
       "Por": "Rocha de magma. Isso é coisa quente."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/magmarock.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/magmarock.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The temperature of this magmarock remains dangerously high.",
-      "Por": "A temperatura desta rocha de magma continua perigosamente alta."
     }
   }
 ]

@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/teslaspike/teslaspike.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fearful. There appears to be enough current here to entirely fry my circuits.",
+      "Por": "Temeroso. Parece haver corrente suficiente aqui para fritar inteiramente meus circuitos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/teslaspike/teslaspike.object": [
         "/floranDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "Tesla Spike",
       "Por": "Tesla Spike"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/apex/teslaspike/teslaspike.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "There appears to be enough current here to entirely fry my circuits."
     }
   },
   {

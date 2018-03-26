@@ -15,7 +15,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Está tocha brilha suavemente."
+    ],
     "Files": {
       "objects/biome/desert/sandstonetorch/sandstonetorch.object": [
         "/description"

@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/bunkerbigpanel/bunkerbigpanel.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. The readings on this monitor indicate they involve the nearest star.",
+      "Por": "Curioso. As leituras sugerem que esta área é habitável para os humanos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkerbigpanel/bunkerbigpanel.object": [
         "/novakidDescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "The amount of data on this screen is overwhelming.",
       "Por": "A quantidade de dados nesta tela é enorme."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/human/bunkerbigpanel/bunkerbigpanel.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The readings on this monitor indicate they involve the nearest star."
     }
   },
   {

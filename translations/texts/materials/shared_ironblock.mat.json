@@ -48,15 +48,15 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/ironblock.matitem": [
-        "/glitchdescription/glitchEmotedText"
+        "/glitchdescription"
       ],
       "tiles/materials/ironblock.material": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "It's nice to see iron used in construction.",
-      "Por": "É bom ver ferro sendo usado na construção."
+      "Eng": "Pleased. It's nice to see iron used in construction.",
+      "Por": "Satisfeito. É bom ver ferro ser usado em construção."
     }
   },
   {

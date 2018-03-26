@@ -63,6 +63,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/woodenbed/woodenbed.object": [
+        "/glitchDescription"
+      ],
+      "objects/generic/woodenbed2/woodenbed2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Drowsy. My power levels are low. This bed looks inviting.",
+      "Por": "Sonolento. Meus níveis de energia estão baixos. Esta cama parece convidativa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodenbed/woodenbed.object": [
         "/floranDescription"
       ],
       "objects/generic/woodenbed2/woodenbed2.object": [
@@ -72,20 +87,6 @@
     "Texts": {
       "Eng": "Floran rarely ssleep in ssuch nice bed.",
       "Por": "Floran raramente dorme em cama tão agradável."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/woodenbed/woodenbed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/generic/woodenbed2/woodenbed2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "My power levels are low. This bed looks inviting."
     }
   },
   {

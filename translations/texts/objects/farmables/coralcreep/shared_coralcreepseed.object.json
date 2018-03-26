@@ -78,14 +78,15 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/coralcreep/coralcreepseed.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/farmables/coralcreep/wildcoralcreepseed.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Looks like a sea dwelling creature, how can it be that this is a fruit?"
+      "Eng": "Sceptical. Looks like a sea dwelling creature, how can it be that this is a fruit?",
+      "Por": "Cético. Parece uma criatura do mar, como é possível que se trata de uma fruta?"
     }
   },
   {

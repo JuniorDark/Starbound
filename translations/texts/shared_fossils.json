@@ -1,0 +1,657 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fossils.collection": [
+        "/collectables/mysteriousSkeleton/description"
+      ],
+      "items/fossils/humanoid/mysteriousfossil1.item": [
+        "/completeSetDescriptions/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A creature which has perplexed many scientists, its origin and age cannot be determined.",
+      "Por": "Uma criatura que deixou muitos cientistas perplexos, sua origem e idade não pode ser determinada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fossils.collection": [
+        "/collectables/trex/description"
+      ],
+      "items/fossils/large/trexfossil/trexfossil1.item": [
+        "/completeSetDescriptions/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A dinosaur once native to Earth, spread across the stars by overeager scientists.",
+      "Por": "Um dinossauro uma vez nativo da Terra, espalhado através das estrelas por cientistas ansiosos demais."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fossils.collection": [
+        "/collectables/glitchSkeleton/description"
+      ],
+      "items/fossils/humanoid/glitchfossil1.item": [
+        "/completeSetDescriptions/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fossilised Glitch. The internal wiring is rarely preserved.",
+      "Por": "Um Glitch fosilizado. A fiação interna raramente é preservada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fossils.collection": [
+        "/collectables/humanSkeleton/description"
+      ],
+      "items/fossils/humanoid/humanfossil1.item": [
+        "/completeSetDescriptions/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fossilised human, the dominant species of Earth.",
+      "Por": "Um humano fossilizado, a espécie dominante da Terra."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fossils.collection": [
+        "/collectables/mysteriousalien/description"
+      ],
+      "items/fossils/small/mysteriousalienfossil.item": [
+        "/completeSetDescriptions/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strange and curious life-form, now lost to time.",
+      "Por": "Uma forma de vida estranha e curiosa, agora perdido para o tempo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fossils.collection": [
+        "/collectables/alpacaSkeleton/title"
+      ],
+      "items/fossils/humanoid/alpacafossil1.item": [
+        "/completeSetDescriptions/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alpaca Fossil",
+      "Por": "Alpaca Fossil"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fossils.collection": [
+        "/collectables/amber/title"
+      ],
+      "items/fossils/small/amberfossil.item": [
+        "/completeSetDescriptions/shortdescription",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amber",
+      "Por": "Amber"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fossils.collection": [
+        "/collectables/amber/description"
+      ],
+      "items/fossils/small/amberfossil.item": [
+        "/completeSetDescriptions/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amber has more catalogued variations than any other ancient artifact.",
+      "Por": "Âmbar tem mais variações do que qualquer outro artefato antigo catalogado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fossils.collection": [
+        "/collectables/ammonite/title"
+      ],
+      "items/fossils/small/ammonitefossil.item": [
+        "/completeSetDescriptions/shortdescription",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ammonite",
+      "Por": "Ammonite"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fossils.collection": [
+        "/collectables/ammonite/description"
+      ],
+      "items/fossils/small/ammonitefossil.item": [
+        "/completeSetDescriptions/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ammonites are widely recognised fossils, with variations appearing on most life-sustaining planets.",
+      "Por": "Amonites são fósseis amplamente reconhecidos, com variações que aparecem na maioria dos planetas que sustentam a vida."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fossils.collection": [
+        "/collectables/froggSkeleton/description"
+      ],
+      "items/fossils/humanoid/froggfossil1.item": [
+        "/completeSetDescriptions/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An excellent example of a fossilised Frogg.",
+      "Por": "Um excelente exemplo de um Frogg fossilizado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fossils.collection": [
+        "/collectables/apexSkeleton/title"
+      ],
+      "items/fossils/humanoid/apexfossil1.item": [
+        "/completeSetDescriptions/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Apex Fossil",
+      "Por": "Apex Fossil"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fossils.collection": [
+        "/collectables/avianSkeleton/title"
+      ],
+      "items/fossils/humanoid/avianfossil1.item": [
+        "/completeSetDescriptions/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avian Fossil",
+      "Por": "Avian Fossil"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fossils.collection": [
+        "/collectables/avioscaleSkeleton/title"
+      ],
+      "items/fossils/humanoid/avioscalefossil1.item": [
+        "/completeSetDescriptions/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avioscale Fossil",
+      "Por": "Avioscale Fossil"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fossils.collection": [
+        "/collectables/egg/title"
+      ],
+      "items/fossils/small/eggfossil.item": [
+        "/completeSetDescriptions/shortdescription",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Egg Fossil",
+      "Por": "Egg Fossil"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fossils.collection": [
+        "/collectables/avianSkeleton/description"
+      ],
+      "items/fossils/humanoid/avianfossil1.item": [
+        "/completeSetDescriptions/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Features of interest in this fossilised Avian are the hollow bones and the short flexible beak.",
+      "Por": "As características de interesse neste Avian fossilizado são os ossos ocos e o bico curto flexível."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fossils.collection": [
+        "/collectables/fern/title"
+      ],
+      "items/fossils/small/fernfossil.item": [
+        "/completeSetDescriptions/shortdescription",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fern Fossil",
+      "Por": "Fern Fossil"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fossils.collection": [
+        "/collectables/fish/title"
+      ],
+      "items/fossils/small/fishfossil.item": [
+        "/completeSetDescriptions/shortdescription",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fish Fossil",
+      "Por": "Fish Fossil"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fossils.collection": [
+        "/collectables/floranSkeleton/title"
+      ],
+      "items/fossils/humanoid/floaranfossil1.item": [
+        "/completeSetDescriptions/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran Fossil",
+      "Por": "Floran Fossil"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fossils.collection": [
+        "/collectables/track/title"
+      ],
+      "items/fossils/small/trackfossil.item": [
+        "/completeSetDescriptions/shortdescription",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Footprint Fossil",
+      "Por": "Footprint Fossil"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fossils.collection": [
+        "/collectables/froggSkeleton/title"
+      ],
+      "items/fossils/humanoid/froggfossil1.item": [
+        "/completeSetDescriptions/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frogg Fossil",
+      "Por": "Frogg Fossil"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fossils.collection": [
+        "/collectables/glitchSkeleton/title"
+      ],
+      "items/fossils/humanoid/glitchfossil1.item": [
+        "/completeSetDescriptions/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Glitch Fossil",
+      "Por": "Glitch Fossil"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fossils.collection": [
+        "/collectables/humanSkeleton/title"
+      ],
+      "items/fossils/humanoid/humanfossil1.item": [
+        "/completeSetDescriptions/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Human Fossil",
+      "Por": "Human Fossil"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fossils.collection": [
+        "/collectables/hylotlSkeleton/title"
+      ],
+      "items/fossils/humanoid/hylotlfossil1.item": [
+        "/completeSetDescriptions/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hylotl Fossil",
+      "Por": "Hylotl Fossil"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fossils.collection": [
+        "/collectables/ixodoom/title"
+      ],
+      "items/fossils/large/ixodoomfossil/ixodoomfossil1.item": [
+        "/completeSetDescriptions/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ixodoom Fossil",
+      "Por": "Ixodoom Fossil"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fossils.collection": [
+        "/collectables/fish/description"
+      ],
+      "items/fossils/small/fishfossil.item": [
+        "/completeSetDescriptions/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Little has changed about fish anatomy over the millennia.",
+      "Por": "Pouco mudou sobre a anatomia dos peixes ao longo dos milênios."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fossils.collection": [
+        "/collectables/mysteriousalien/title"
+      ],
+      "items/fossils/small/mysteriousalienfossil.item": [
+        "/completeSetDescriptions/shortdescription",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mysterious Alien Skull",
+      "Por": "Mysterious Alien Skull"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fossils.collection": [
+        "/collectables/ophidaunt/title"
+      ],
+      "items/fossils/large/ophidauntfossil/ophidauntfossil1.item": [
+        "/completeSetDescriptions/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ophidaunt Fossil",
+      "Por": "Ophidaunt Fossil"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fossils.collection": [
+        "/collectables/penguin/title"
+      ],
+      "items/fossils/small/penguinfossil.item": [
+        "/completeSetDescriptions/shortdescription",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Penguin Fossil",
+      "Por": "Penguin Fossil"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fossils.collection": [
+        "/collectables/sabertooth/title"
+      ],
+      "items/fossils/small/sabertoothfossil.item": [
+        "/completeSetDescriptions/shortdescription",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sabertooth Skull",
+      "Por": "Sabertooth Skull"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fossils.collection": [
+        "/collectables/sabertooth/description"
+      ],
+      "items/fossils/small/sabertoothfossil.item": [
+        "/completeSetDescriptions/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sabertooth are widely recognised fossils, easily identifiable by their elongated canine teeth.",
+      "Por": "Fósseis de sabertooth são amplamente reconhecidos, facilmente identificáveis por seus dentes caninos alongados."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fossils.collection": [
+        "/collectables/trex/title"
+      ],
+      "items/fossils/large/trexfossil/trexfossil1.item": [
+        "/completeSetDescriptions/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "T-Rex Fossil",
+      "Por": "T-Rex Fossil"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fossils.collection": [
+        "/collectables/alpacaSkeleton/description"
+      ],
+      "items/fossils/humanoid/alpacafossil1.item": [
+        "/completeSetDescriptions/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The dense, hard bones of a long deceased Alpaca.",
+      "Por": "Os ossos duros e densos de uma Alpaca a muito tempo falecida."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fossils.collection": [
+        "/collectables/egg/description"
+      ],
+      "items/fossils/small/eggfossil.item": [
+        "/completeSetDescriptions/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The egg of an ancient creature, frozen in time before it ever truly lived.",
+      "Por": "O ovo de uma criatura antiga, congelado no tempo antes de viver verdadeiramente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fossils.collection": [
+        "/collectables/penguin/description"
+      ],
+      "items/fossils/small/penguinfossil.item": [
+        "/completeSetDescriptions/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The fossilised remains of a penguin.",
+      "Por": "Os restos fossilizados de um pinguim."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fossils.collection": [
+        "/collectables/apexSkeleton/description"
+      ],
+      "items/fossils/humanoid/apexfossil1.item": [
+        "/completeSetDescriptions/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The fossilised remains of an Apex. Note the powerful teeth and pronounced brow ridges.",
+      "Por": "Os restos fossilizados de um Apex. Observe os dentes poderosos e cumes da testa nítidos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fossils.collection": [
+        "/collectables/floranSkeleton/description"
+      ],
+      "items/fossils/humanoid/floaranfossil1.item": [
+        "/completeSetDescriptions/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The plant based Floran have bones infused with lignin, giving a wood-like appearance.",
+      "Por": "A planta com base Floran tem ossos infundidos com lignina, dando uma aparência de madeira."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fossils.collection": [
+        "/collectables/track/description"
+      ],
+      "items/fossils/small/trackfossil.item": [
+        "/completeSetDescriptions/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The size of this footprint indicates it was probably made by an adult male of the species.",
+      "Por": "O tamanho desta pegada indica que provavelmente foi feita por um macho adulto da espécie."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fossils.collection": [
+        "/collectables/avioscaleSkeleton/description"
+      ],
+      "items/fossils/humanoid/avioscalefossil1.item": [
+        "/completeSetDescriptions/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This Avioscale boasts oversized eye sockets and a prominent beak.",
+      "Por": "Este Avioscale possui cavidades oculares grandes e um bico proeminente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fossils.collection": [
+        "/collectables/ixodoom/description"
+      ],
+      "items/fossils/large/ixodoomfossil/ixodoomfossil1.item": [
+        "/completeSetDescriptions/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This arthropod's thick exoskeleton has helped it survive for millions of years.",
+      "Por": "Este exoesqueleto espesso de artrópode tem o ajudado a sobreviver por milhões de anos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fossils.collection": [
+        "/collectables/ophidaunt/description"
+      ],
+      "items/fossils/large/ophidauntfossil/ophidauntfossil1.item": [
+        "/completeSetDescriptions/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This distant ancestor of the Snaunt used to hunt in oceans instead of on land.",
+      "Por": "Este antepassado distante do Snaunt costumava caçar em oceanos em vez de em terra."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fossils.collection": [
+        "/collectables/hylotlSkeleton/description"
+      ],
+      "items/fossils/humanoid/hylotlfossil1.item": [
+        "/completeSetDescriptions/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This fossilised Hylotl skeleton shows early signs of adaptation to aquatic life.",
+      "Por": "Este esqueleto fossilizado de Hylotl apresenta sinais precoces de adaptação à vida aquática."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/fossils.collection": [
+        "/collectables/trilobite/title"
+      ],
+      "items/fossils/small/trilobitefossil.item": [
+        "/completeSetDescriptions/shortdescription",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trilobite",
+      "Por": "Trilobite"
+    }
+  }
+]

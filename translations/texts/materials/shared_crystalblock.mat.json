@@ -18,6 +18,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/crystalblock.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/crystalblock.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Calm. This crystal block has a soothing appearance.",
+      "Por": "Calmo. Este bloco de cristal tem uma aparência suave."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/crystalblock.matitem": [
         "/shortdescription"
       ],
       "tiles/materials/crystalblock.material": [
@@ -57,21 +72,6 @@
     "Texts": {
       "Eng": "The crystals in this block are real purdy.",
       "Por": "Os cristais neste bloco são realmente bonitos."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/crystalblock.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/crystalblock.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This crystal block has a soothing appearance.",
-      "Por": "Este bloco de cristal tem uma aparência calmante."
     }
   }
 ]

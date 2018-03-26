@@ -15,17 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/medievalswitchlever/medievalswitchlever.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A mechanical lever."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/glitch/medievalswitchlever/medievalswitchlever.object": [
         "/description"
       ]
     },
@@ -44,6 +33,18 @@
     "Texts": {
       "Eng": "A switch of some kind.",
       "Por": "Um interruptor de algum tipo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/medievalswitchlever/medievalswitchlever.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. A mechanical lever.",
+      "Por": "Curioso. Uma alavanca mecânica."
     }
   },
   {

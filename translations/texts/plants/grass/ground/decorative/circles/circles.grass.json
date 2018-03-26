@@ -4,7 +4,6 @@
     "Files": {
       "plants/grass/ground/decorative/circles/circles.grass": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ]
     },
@@ -23,6 +22,18 @@
     "Texts": {
       "Eng": "Purple berries.",
       "Por": "Bagas roxas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ground/decorative/circles/circles.grass": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. A plant with berries.",
+      "Por": "Relatório. Uma planta com bagas."
     }
   }
 ]

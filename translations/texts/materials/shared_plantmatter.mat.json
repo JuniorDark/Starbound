@@ -48,6 +48,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/plantmatter.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/plantmatter.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Interested. Plant matter has somehow been compressed into this block.",
+      "Por": "Interessado. Matéria vegetal que de alguma forma foi comprimido neste bloco."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/plantmatter.matitem": [
         "/shortdescription"
       ],
       "tiles/materials/plantmatter.material": [
@@ -57,21 +72,6 @@
     "Texts": {
       "Eng": "Plant Matter",
       "Por": "Plant Matter"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/plantmatter.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/plantmatter.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Plant matter has somehow been compressed into this block.",
-      "Por": "Matéria vegetal foi de alguma forma comprimida neste bloco."
     }
   }
 ]

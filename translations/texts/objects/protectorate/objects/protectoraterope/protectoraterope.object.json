@@ -27,7 +27,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/protectorate/objects/protectoraterope/protectoraterope.object": [
-        "/glitchDescription/glitchEmotedText",
         "/hylotlDescription"
       ]
     },
@@ -70,6 +69,18 @@
     "Texts": {
       "Eng": "It's a red ribbon.",
       "Por": "É uma fita vermelha."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/protectorate/objects/protectoraterope/protectoraterope.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neutral. A red ribbon.",
+      "Por": "Neutro. Uma fita vermelha."
     }
   },
   {

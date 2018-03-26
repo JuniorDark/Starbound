@@ -15,17 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/lunarbasebunk/lunarbasebunk.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A bunk bed, not dissimilar from those at the Protectorate academy."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/mission/lunarbasebunk/lunarbasebunk.object": [
         "/humanDescription"
       ]
     },
@@ -80,6 +69,18 @@
     "Texts": {
       "Eng": "Lunar Base Bunk",
       "Por": "Lunar Base Bunk"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/lunarbasebunk/lunarbasebunk.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sentimental. A bunk bed, not dissimilar from those at the Protectorate academy.",
+      "Por": "Sentimental. Um beliche, não diferente daqueles na academia do Protetorado."
     }
   },
   {

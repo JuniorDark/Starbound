@@ -3,6 +3,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/spawner/spawners/spawner_guard.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Content. There is strength in numbers.",
+      "Por": "Contente. A união faz a força."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/spawner/spawners/spawner_guard.object": [
         "/floranDescription"
       ]
     },
@@ -69,18 +81,6 @@
     "Texts": {
       "Eng": "Spawn your very own guard!",
       "Por": "Gere o seu próprio guarda!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/spawner/spawners/spawner_guard.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "There is strength in numbers.",
-      "Por": "A união faz a força."
     }
   },
   {

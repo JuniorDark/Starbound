@@ -27,17 +27,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/clues/glitch/glitchhorndisplay/glitchhorndisplay.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Horns like these are used in special ceremonies."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/clues/glitch/glitchhorndisplay/glitchhorndisplay.object": [
         "/hylotlDescription"
       ]
     },
@@ -56,6 +45,18 @@
     "Texts": {
       "Eng": "Mounted Horn Banner",
       "Por": "Mounted Horn Banner"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/clues/glitch/glitchhorndisplay/glitchhorndisplay.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Proud. Horns like these are used in special ceremonies.",
+      "Por": "Orgulhoso. Chifres como estes são usados em cerimônias especiais."
     }
   },
   {

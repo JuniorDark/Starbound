@@ -18,6 +18,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/mediummetal.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/mediummetal.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. These blocks have been constructed from tungsten.",
+      "Por": "Atento. Estes blocos foram feitos de tungsténio."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/mediummetal.matitem": [
         "/florandescription"
       ],
       "tiles/materials/mediummetal.material": [
@@ -42,21 +57,6 @@
     "Texts": {
       "Eng": "Some smooth lookin' blocks made outta tungsten.",
       "Por": "Alguns blocos lisos feitos de tungsténio."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/mediummetal.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/mediummetal.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "These blocks have been constructed from tungsten.",
-      "Por": "Esses blocos foram construídos a partir de tungstênio."
     }
   },
   {

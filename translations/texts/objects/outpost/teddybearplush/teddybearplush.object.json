@@ -39,23 +39,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/teddybearplush/teddybearplush.object": [
-        "/shortdescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Teddy Bear",
-      "Por": "Teddy Bear"
+      "Eng": "Overjoyed. This bear is so soft and fuzzy!",
+      "Por": "Feliz. Este urso é tão suave e macio!"
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/teddybearplush/teddybearplush.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "This bear is so soft and fuzzy!"
+      "Eng": "Teddy Bear",
+      "Por": "Teddy Bear"
     }
   }
 ]

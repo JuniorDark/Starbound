@@ -39,23 +39,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/hylotllamp/hylotllamp.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I wonder how such lamps are made?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/hylotl/hylotllamp/hylotllamp.object": [
         "/apexDescription"
       ]
     },
     "Texts": {
       "Eng": "I wonder what this lamp is made of?",
       "Por": "Me pergunto do que esta lâmpada é feita?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/hylotllamp/hylotllamp.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intrigued. I wonder how such lamps are made?",
+      "Por": "Intrigado. Eu me pergunto como essas lâmpadas são feitas?"
     }
   },
   {

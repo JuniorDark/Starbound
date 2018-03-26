@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Eu não gostaria de pisar nisso sem saber o que ele faz primeiro."
+    ],
     "Files": {
       "objects/glitch/medievalpressureplate/medievalpressureplate.object": [
         "/novakidDescription"
@@ -36,7 +38,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "O que acontece se eu ficar nisso?",
+      "O que acontece se eu ficar sobre isso?"
+    ],
     "Files": {
       "objects/floran/huntingpressureplate/huntingpressureplate.object": [
         "/avianDescription"
@@ -50,7 +55,7 @@
     },
     "Texts": {
       "Eng": "What happens if I stand on this?",
-      "Por": "O que acontece se eu pisar nisso?"
+      "Por": "O que acontece se eu pisar isso?"
     }
   }
 ]

@@ -63,24 +63,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/themed/gothic/gothiccouch/gothiccouch.object": [
-        "/humanDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "The couch smells off....",
-      "Por": "O sofá cheira a..."
+      "Eng": "Morbid. There are dark stains on the leather.",
+      "Por": "Mórbido. Existem manchas escuras no couro."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/themed/gothic/gothiccouch/gothiccouch.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/humanDescription"
       ]
     },
     "Texts": {
-      "Eng": "There are dark stains on the leather.",
-      "Por": "Existem manchas escuras no couro."
+      "Eng": "The couch smells off....",
+      "Por": "O sofá cheira a..."
     }
   },
   {

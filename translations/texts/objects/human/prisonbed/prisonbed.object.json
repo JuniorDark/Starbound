@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/prisonbed/prisonbed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Content. This bed would be perfectly comfortable for me.",
+      "Por": "Contente. Esta cama seria perfeitamente confortável para mim."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisonbed/prisonbed.object": [
         "/novakidDescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "Sometimes the best way to punish someone is by making them sleep on such a bed.",
       "Por": "Às vezes, a melhor maneira de punir alguém é fazê-los dormir em uma cama dessas."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/human/prisonbed/prisonbed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This bed would be perfectly comfortable for me."
     }
   },
   {

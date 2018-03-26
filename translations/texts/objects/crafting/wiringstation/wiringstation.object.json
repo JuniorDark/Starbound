@@ -39,17 +39,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/crafting/wiringstation/wiringstation.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A workstation for creating wiring related equipment. Very handy."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/crafting/wiringstation/wiringstation.object": [
         "/floranDescription"
       ]
     },
@@ -92,6 +81,18 @@
     "Texts": {
       "Eng": "It's a workstation for crafting equipment to use for wiring.",
       "Por": "É uma estação de trabalho para criar equipamento a ser usado para fiação."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/wiringstation/wiringstation.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased. A workstation for creating wiring related equipment. Very handy.",
+      "Por": "Satisfeito. Uma estação de trabalho para a fabricação de equipamentos relacionados com fiação. Muito útil."
     }
   },
   {

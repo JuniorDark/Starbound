@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Um material de construção barato, mas eficaz."
+    ],
     "Files": {
       "items/materials/asphalt.matitem": [
         "/description"
@@ -11,7 +13,7 @@
     },
     "Texts": {
       "Eng": "A cheap but effective construction material.",
-      "Por": "Um material de construção barato, mas eficaz."
+      "Por": "Uma material de construção barato, mas eficaz."
     }
   },
   {
@@ -33,6 +35,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/asphalt.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/asphalt.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disgusted. Readings suggest aesthetic value of asphalt is below 2%.",
+      "Por": "Com nojo. Leituras sugerem que o valor estético do asfalto é inferior a 2%."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/asphalt.matitem": [
         "/novakiddescription"
       ],
       "tiles/materials/asphalt.material": [
@@ -42,21 +59,6 @@
     "Texts": {
       "Eng": "It's a mash of sticky oil an' rocks.",
       "Por": "É uma mistura de óleo pegajoso e pedras."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/asphalt.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/asphalt.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Readings suggest aesthetic value of asphalt is below 2%.",
-      "Por": "As leituras sugerem que o valor estético do asfalto é inferior a 2%."
     }
   },
   {

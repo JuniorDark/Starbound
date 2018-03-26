@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/traps/wallb/wallb.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cautious. This may look small, but it is powerful",
+      "Por": "Cauteloso. Isso pode parecer pequeno, mas é poderoso"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/wallb/wallb.object": [
         "/novakidDescription"
       ]
     },
@@ -57,18 +69,6 @@
     "Texts": {
       "Eng": "This looks small but causes a big explosion.",
       "Por": "Isso parece pequeno, mas causa uma grande explosão."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/traps/wallb/wallb.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This may look small, but it is powerful",
-      "Por": "Isto pode parecer pequeno, mas é poderoso."
     }
   },
   {

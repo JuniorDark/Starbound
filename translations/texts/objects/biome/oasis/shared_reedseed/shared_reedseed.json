@@ -3,6 +3,30 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/oasis/reedseed1/reedseed1.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/oasis/reedseed2/reedseed2.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/oasis/reedseed3/reedseed3.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/oasis/reedseed4/reedseed4.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/oasis/reedseed5/reedseed5.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disinterested. Just reeds.",
+      "Por": "Desinteressado. Apenas juncos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/oasis/reedseed1/reedseed1.object": [
         "/novakidDescription"
       ],
       "objects/biome/oasis/reedseed2/reedseed2.object": [
@@ -27,24 +51,19 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/oasis/reedseed1/reedseed1.object": [
-        "/avianDescription",
-        "/glitchDescription/glitchEmotedText"
+        "/avianDescription"
       ],
       "objects/biome/oasis/reedseed2/reedseed2.object": [
-        "/avianDescription",
-        "/glitchDescription/glitchEmotedText"
+        "/avianDescription"
       ],
       "objects/biome/oasis/reedseed3/reedseed3.object": [
-        "/avianDescription",
-        "/glitchDescription/glitchEmotedText"
+        "/avianDescription"
       ],
       "objects/biome/oasis/reedseed4/reedseed4.object": [
-        "/avianDescription",
-        "/glitchDescription/glitchEmotedText"
+        "/avianDescription"
       ],
       "objects/biome/oasis/reedseed5/reedseed5.object": [
-        "/avianDescription",
-        "/glitchDescription/glitchEmotedText"
+        "/avianDescription"
       ]
     },
     "Texts": {

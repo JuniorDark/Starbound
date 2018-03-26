@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/protectorate/objects/protectoratebookcabinet/protectoratebookcabinet.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neutral. These books are communal.",
+      "Por": "Neutro. Estes livros são comunais."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/protectorate/objects/protectoratebookcabinet/protectoratebookcabinet.object": [
         "/shortdescription"
       ]
     },
@@ -46,17 +58,6 @@
     "Texts": {
       "Eng": "So many books, so little time!",
       "Por": "Tantos livros, tão pouco tempo!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/protectorate/objects/protectoratebookcabinet/protectoratebookcabinet.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "These books are communal."
     }
   },
   {

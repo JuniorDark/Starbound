@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/mushroom/shroomtable/shroomtable.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Biology. This giant mushroom is the product of years of inter-species fungal breeding.",
+      "Por": "Biologia. Este cogumelo gigante é o produto de anos de criação de fungos entre espécies."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/mushroom/shroomtable/shroomtable.object": [
         "/floranDescription"
       ]
     },
@@ -45,17 +57,6 @@
     "Texts": {
       "Eng": "Shroom Table",
       "Por": "Shroom Table"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/mushroom/shroomtable/shroomtable.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This giant mushroom is the product of years of inter-species fungal breeding."
     }
   }
 ]

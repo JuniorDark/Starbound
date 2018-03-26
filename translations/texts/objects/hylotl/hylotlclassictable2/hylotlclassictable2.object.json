@@ -27,23 +27,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/hylotlclassictable2/hylotlclassictable2.object": [
-        "/floranDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Old table too fragile for Floran to use for chopping meat.",
-      "Por": "Mesa antiga muito frágil para que Floran use para cortar carne."
+      "Eng": "Critical. One swift kick and this table would fall apart.",
+      "Por": "Crítico. Um chute rápido e esta mesa desmoronaria."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/hylotlclassictable2/hylotlclassictable2.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/floranDescription"
       ]
     },
     "Texts": {
-      "Eng": "One swift kick and this table would fall apart."
+      "Eng": "Old table too fragile for Floran to use for chopping meat.",
+      "Por": "Mesa antiga muito frágil para que Floran use para cortar carne."
     }
   },
   {

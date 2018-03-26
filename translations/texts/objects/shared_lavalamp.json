@@ -18,6 +18,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/lavalamp1/lavalamp1.object": [
+        "/glitchDescription"
+      ],
+      "objects/protectorate/objects/protectoratelavalamp/protectoratelavalamp.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Calm. This liquid moves in a mesmerising way.",
+      "Por": "Calmo. Este líquido se move de forma hipnotizante."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/lavalamp1/lavalamp1.object": [
         "/floranDescription"
       ],
       "objects/protectorate/objects/protectoratelavalamp/protectoratelavalamp.object": [
@@ -87,21 +102,6 @@
     "Texts": {
       "Eng": "This lamp looks the way I feel. Peculiar.",
       "Por": "Esta lâmpada parece como eu me sinto. Peculiar."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/human/lavalamp1/lavalamp1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/protectorate/objects/protectoratelavalamp/protectoratelavalamp.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This liquid moves in a mesmerising way.",
-      "Por": "Este líquido se move de uma maneira hipnotizante."
     }
   }
 ]

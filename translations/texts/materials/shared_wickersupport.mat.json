@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Um material entrelaçado firmemente tecido."
+    ],
     "Files": {
       "items/materials/wickersupport.matitem": [
         "/description"
@@ -33,6 +35,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/wickersupport.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/wickersupport.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. This wicker material is sturdy.",
+      "Por": "Impressionado. Este material de vime é resistente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/wickersupport.matitem": [
         "/novakiddescription"
       ],
       "tiles/materials/wickersupport.material": [
@@ -42,21 +59,6 @@
     "Texts": {
       "Eng": "Looks like these blocks are just some tough material all woven together.",
       "Por": "Parece que estes blocos são apenas alguns materiais resistente todos tecidos juntos."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/wickersupport.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/wickersupport.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This wicker material is sturdy.",
-      "Por": "Este material de vime é resistente."
     }
   },
   {

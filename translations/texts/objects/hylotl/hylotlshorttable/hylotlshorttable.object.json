@@ -15,17 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/hylotlshorttable/hylotlshorttable.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I am not used to such a low table."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/hylotl/hylotlshorttable/hylotlshorttable.object": [
         "/floranDescription"
       ]
     },
@@ -80,6 +69,18 @@
     "Texts": {
       "Eng": "Traditional Low Table",
       "Por": "Traditional Low Table"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/hylotlshorttable/hylotlshorttable.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wary. I am not used to such a low table.",
+      "Por": "Cauteloso. Não estou acostumado a uma mesa tão baixa."
     }
   }
 ]

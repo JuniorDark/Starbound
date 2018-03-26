@@ -4,7 +4,6 @@
     "Files": {
       "plants/grass/ceiling/decorative/ceilingflowers/ceilingflowers.grass": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ]
     },
@@ -23,6 +22,18 @@
     "Texts": {
       "Eng": "Flower.",
       "Por": "Flor."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/grass/ceiling/decorative/ceilingflowers/ceilingflowers.grass": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. A flower.",
+      "Por": "Relatório. Uma flor."
     }
   }
 ]

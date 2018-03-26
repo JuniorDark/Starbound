@@ -75,11 +75,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/scorchedcity/scorchedcitybrokenbed/scorchedcitybrokenbed.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "This bed is broken."
+      "Eng": "Sad. This bed is broken.",
+      "Por": "Triste. Esta cama está quebrada."
     }
   },
   {

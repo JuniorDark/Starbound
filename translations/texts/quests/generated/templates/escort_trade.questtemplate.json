@@ -3,8 +3,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/escort_trade.questtemplate": [
-        "/scriptConfig/generatedText/completionText/default/default/0",
-        "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText"
+        "/scriptConfig/generatedText/completionText/default/default/0"
       ]
     },
     "Texts": {
@@ -40,6 +39,30 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/escort_trade.questtemplate": [
+        "/scriptConfig/generatedText/text/first/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eager. First, we're going to need ^orange;<items>^white;. They were due to be delivered by travelling merchant ^orange;<target>^white;, but I think <target.pronoun.subject> managed to get lost around the ^orange;<spawnPoint>^white;<spawnPoint.direction>. Could you ^green;take me there^white; so we can find <target> and ^green;retrieve the goods^white;?",
+      "Por": "Ansioso. Primeiro, nós vamos precisar de ^orange;<items>^white;. Eles deveriam ter sido entregues pelo comerciante viajante ^orange;<target>^white;, mas eu acho que <target.pronoun.subject> conseguiu se perder perto de ^orange;<spawnPoint>^white; <spawnPoint.direction>. Você poderia ^green;me levar lá^white; para que possamos encontrar <target> e ^green;recuperar as mercadorias^white;?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/escort_trade.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eager. Next, we're going to need ^orange;<items>^white;. They were due to be delivered by travelling merchant ^orange;<target>^white;, but I think <target.pronoun.subject> managed to get lost around the ^orange;<spawnPoint>^white;<spawnPoint.direction>. Could you ^green;take me there^white; so we can find <target> and ^green;retrieve the goods^white;?",
+      "Por": "Ansioso. Em seguida, nós vamos precisar de ^orange;<items>^white;. Eles deveriam ter sido entregues pelo comerciante viajante ^orange;<target>^white;, mas eu acho que <target.pronoun.subject> conseguiu se perder perto de ^orange;<spawnPoint>^white; <spawnPoint.direction>. Você poderia ^green;me levar lá^white; para que possamos encontrar <target> e ^green;recuperar as mercadorias^white;?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/escort_trade.questtemplate": [
         "/scriptConfig/generatedText/text/first/floran/0"
       ]
     },
@@ -52,8 +75,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/escort_trade.questtemplate": [
-        "/scriptConfig/generatedText/text/first/default/0",
-        "/scriptConfig/generatedText/text/first/glitch/0/glitchEmotedText"
+        "/scriptConfig/generatedText/text/first/default/0"
       ]
     },
     "Texts": {
@@ -77,8 +99,19 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/escort_trade.questtemplate": [
-        "/scriptConfig/generatedText/text/default/default/0",
-        "/scriptConfig/generatedText/text/default/glitch/0/glitchEmotedText"
+        "/scriptConfig/generatedText/completionText/default/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Grateful. <appreciation> Could you hold onto these <items> for the next part of my plan?",
+      "Por": "Grato. <appreciation> Você poderia segurar este <items> para a próxima parte do meu plano?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/escort_trade.questtemplate": [
+        "/scriptConfig/generatedText/text/default/default/0"
       ]
     },
     "Texts": {

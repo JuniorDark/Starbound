@@ -3,15 +3,15 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/platform2.matitem": [
-        "/glitchdescription/glitchEmotedText"
+        "/glitchdescription"
       ],
       "tiles/platforms/platform2.material": [
-        "/glitchdescription/glitchEmotedText"
+        "/glitchdescription"
       ]
     },
     "Texts": {
-      "Eng": "A wooden platform.",
-      "Por": "Uma plataforma de madeira."
+      "Eng": "Neutral. A wooden platform.",
+      "Por": "Neutro. Uma plataforma de madeira."
     }
   },
   {
@@ -26,7 +26,7 @@
     },
     "Texts": {
       "Eng": "Platformsss.",
-      "Por": "Plataformasss."
+      "Por": "Platformasss."
     }
   }
 ]

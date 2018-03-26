@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/traps/flametrap/flametrap.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. It's just a little flame trap, nothing that can't be overcome.",
+      "Por": "Observador. É apenas uma pequena armadilha de chama, nada que não possa ser superado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/traps/flametrap/flametrap.object": [
         "/novakidDescription"
       ]
     },

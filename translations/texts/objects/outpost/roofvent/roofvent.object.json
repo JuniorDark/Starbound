@@ -75,23 +75,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/roofvent/roofvent.object": [
-        "/avianDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "The breeze from this vent ruffles my feathers.",
-      "Por": "A brisa desse respiradouro bagunça minhas penas."
+      "Eng": "Surprised. This vent appears to be in good condition.",
+      "Por": "Surpreso. Esse respiradouro parece estar em boas condições."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/roofvent/roofvent.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/avianDescription"
       ]
     },
     "Texts": {
-      "Eng": "This vent appears to be in good condition."
+      "Eng": "The breeze from this vent ruffles my feathers.",
+      "Por": "A brisa desse respiradouro bagunça minhas penas."
     }
   }
 ]

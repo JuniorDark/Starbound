@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/huntingpressureplate/huntingpressureplate.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. Is this plate rigged up to something?",
+      "Por": "Curioso. Este placa esta ligada em alguma coisa?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/huntingpressureplate/huntingpressureplate.object": [
         "/shortdescription"
       ]
     },
@@ -45,17 +57,6 @@
     "Texts": {
       "Eng": "I betcha something will happen if I step on this.",
       "Por": "Acho que alguma coisa acontecerá se eu pisar isso."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/floran/huntingpressureplate/huntingpressureplate.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Is this plate rigged up to something?"
     }
   }
 ]

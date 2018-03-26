@@ -18,6 +18,23 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/slush.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/slush.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Imformed. Slush like this is made from melted ice.",
+      "Por": "Informado. Lama como esta é feita de gelo derretido."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "O derretimento do gelo faz uma lama espessa."
+    ],
+    "Files": {
+      "items/materials/slush.matitem": [
         "/description"
       ],
       "tiles/materials/slush.material": [
@@ -42,21 +59,6 @@
     "Texts": {
       "Eng": "Slush",
       "Por": "Slush"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/slush.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/slush.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Slush like this is made from melted ice.",
-      "Por": "Lama como esta é feita de gelo derretido."
     }
   },
   {

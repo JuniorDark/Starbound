@@ -27,17 +27,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/royalcandles/royalcandles.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A solid gold candlestick. A servant would make sure these are all lit before royalty arrives."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/glitch/royalcandles/royalcandles.object": [
         "/novakidDescription"
       ]
     },
@@ -80,6 +69,18 @@
     "Texts": {
       "Eng": "Such metal seems wasted on a candlestick.",
       "Por": "Tal metal parece desperdiçado em um candelabro."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/royalcandles/royalcandles.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sympathetic. A solid gold candlestick. A servant would make sure these are all lit before royalty arrives.",
+      "Por": "Simpático. Um candelabro de ouro maciço. Um servo se certificaria que estes estão todos acesos antes que a realeza chegue."
     }
   },
   {

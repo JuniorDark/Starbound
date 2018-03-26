@@ -3,6 +3,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/proximitywallsensor/proximitywallsensor.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neutral. A proximity sensor.",
+      "Por": "Cauteloso. Um sensor de proximidade."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/proximitywallsensor/proximitywallsensor.object": [
         "/shortdescription"
       ]
     },

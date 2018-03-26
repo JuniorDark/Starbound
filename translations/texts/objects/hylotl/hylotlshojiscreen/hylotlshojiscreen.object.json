@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/hylotlshojiscreen/hylotlshojiscreen.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Critical. You can practically see through this screen. Pointless.",
+      "Por": "Crítico. Você pode praticamente ver através desta tela. Inútil."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/hylotlshojiscreen/hylotlshojiscreen.object": [
         "/floranDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "Traditional Shoji Screen",
       "Por": "Traditional Shoji Screen"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/hylotl/hylotlshojiscreen/hylotlshojiscreen.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "You can practically see through this screen. Pointless."
     }
   },
   {

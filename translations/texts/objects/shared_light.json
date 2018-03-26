@@ -50,25 +50,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/hylotl/eventlight/eventlight.object": [
-        "/glitchDescription/glitchEmotedText",
-        "/novakidDescription"
-      ],
-      "objects/protectorate/objects/protectoratehalllight/protectoratehalllight.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A spotlight.",
-      "Por": "Um holofote."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/tar/tarlight/tarlight.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
       "objects/themed/geometric/geometriclight/geometriclight.object": [
         "/hylotlDescription"
       ],
@@ -94,7 +75,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Nada chique, mas serve ao seu propósito."
+    ],
     "Files": {
       "objects/themed/executive/executivelight/executivelight.object": [
         "/apexDescription"
@@ -136,7 +119,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Luz cintilante."
+    ],
     "Files": {
       "objects/generic/fluorescentlight/flickeringfluorescentlight.object": [
         "/floranDescription"
@@ -162,6 +147,24 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "objects/generic/fluorescentlight/flickeringfluorescentlight.object": [
+        "/glitchDescription"
+      ],
+      "objects/protectorate/objects/protectoratebrokenlight/protectoratebrokenlight.object": [
+        "/glitchDescription"
+      ],
+      "objects/protectorate/objects/protectoratelight/protectoratelight.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Displeased. This fluorescent light is almost non-functional.",
+      "Por": "Descontente. Esta luz fluorescente é quase não funcional."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "objects/hylotl/eventlight/eventlight.object": [
         "/apexDescription",
         "/avianDescription"
@@ -180,6 +183,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/eventlight/eventlight.object": [
+        "/glitchDescription"
+      ],
+      "objects/protectorate/objects/protectoratehalllight/protectoratehalllight.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neutral. A spotlight.",
+      "Por": "Neutro. Um holofote."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/eventlight/eventlight.object": [
         "/floranDescription"
       ],
       "objects/protectorate/objects/protectoratehalllight/protectoratehalllight.object": [
@@ -192,7 +210,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "sta luz quebrada não está piscando mais do que uma vela."
+    ],
     "Files": {
       "objects/generic/fluorescentlight/flickeringfluorescentlight.object": [
         "/novakidDescription"
@@ -210,7 +230,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Esta luz fluorescente já viu dias melhores.",
+      "Esta luz fluorescente já viu melhores dias."
+    ],
     "Files": {
       "objects/generic/fluorescentlight/flickeringfluorescentlight.object": [
         "/description"
@@ -225,24 +248,6 @@
     "Texts": {
       "Eng": "This fluorescent light has seen better days.",
       "Por": "Esta luz fluorescente já teve dias melhores."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/fluorescentlight/flickeringfluorescentlight.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/protectorate/objects/protectoratebrokenlight/protectoratebrokenlight.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/protectorate/objects/protectoratelight/protectoratelight.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This fluorescent light is almost non-functional.",
-      "Por": "Esta luz fluorescente é quase não-funcional."
     }
   },
   {
@@ -264,7 +269,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Esta luz tem apenas o menor lampejo de poder. Talvez possa ser consertada.",
+      "Esta luz tem apenas o menor pisca de energia. Talvez possa ser reparada."
+    ],
     "Files": {
       "objects/generic/fluorescentlight/flickeringfluorescentlight.object": [
         "/apexDescription"

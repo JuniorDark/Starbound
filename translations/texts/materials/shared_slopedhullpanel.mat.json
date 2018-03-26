@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Painéis resilientes baratos amplamente utilizados para a construção de naves e estações."
+    ],
     "Files": {
       "items/materials/slopedhullpanel.matitem": [
         "/description"
@@ -30,7 +32,26 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Observador. Estes são painéis amplamente utilizados para construção de naves e estações."
+    ],
+    "Files": {
+      "items/materials/slopedhullpanel.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/slopedhullpanel.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. This is panelling widely used for ship and station construction.",
+      "Por": "Observador. Este é um painel amplamente usado para construção de naves e estações."
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Metal espacial liso brilhante."
+    ],
     "Files": {
       "items/materials/slopedhullpanel.matitem": [
         "/florandescription"
@@ -45,7 +66,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Alguns revestimentos de metal grossos, parecem bem sólidos."
+    ],
     "Files": {
       "items/materials/slopedhullpanel.matitem": [
         "/novakiddescription"
@@ -57,21 +80,6 @@
     "Texts": {
       "Eng": "Some thick metal plating, looks mighty solid.",
       "Por": "Alguns painéis de metal espesso, parece muito sólido."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/slopedhullpanel.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/slopedhullpanel.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This is panelling widely used for ship and station construction.",
-      "Por": "Este é um painel amplamente utilizado para construção de naves e estações."
     }
   }
 ]

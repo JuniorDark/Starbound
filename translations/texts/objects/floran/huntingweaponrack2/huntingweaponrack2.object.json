@@ -51,17 +51,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/huntingweaponrack2/huntingweaponrack2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Based on dimensions, this rack looks designed to hold spears."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/floran/huntingweaponrack2/huntingweaponrack2.object": [
         "/shortdescription"
       ]
     },
@@ -80,6 +69,18 @@
     "Texts": {
       "Eng": "Empty hunting weapon sstand.",
       "Por": "Ssuporte de armas de caça vazio."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/huntingweaponrack2/huntingweaponrack2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hypothetical. Based on dimensions, this rack looks designed to hold spears.",
+      "Por": "Hipotético. Com base nas dimensões, este suporte parece projetado para guardar lanças."
     }
   },
   {

@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Um bloco cravado formado de material sombrio."
+    ],
     "Files": {
       "items/materials/shadowspikeblock.matitem": [
         "/description"
@@ -33,6 +35,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/shadowspikeblock.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/shadowspikeblock.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Interested. This block is made from an unknown material.",
+      "Por": "Interessado. Este bloco é feito de um material desconhecido."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/shadowspikeblock.matitem": [
         "/shortdescription"
       ],
       "tiles/materials/shadowspikeblock.material": [
@@ -57,21 +74,6 @@
     "Texts": {
       "Eng": "These blocks're darker'n a moonless night.",
       "Por": "Estes blocos são mais escuros que uma noite sem lua."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/shadowspikeblock.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/shadowspikeblock.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This block is made from an unknown material.",
-      "Por": "Este bloco é feito de um material desconhecido."
     }
   }
 ]

@@ -3,6 +3,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/sand2.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/sand2.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. This sand is so fine it seems smooth to touch.",
+      "Por": "Curioso. Esta areia é tão fina que parece suave ao toque."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/sand2.matitem": [
         "/florandescription"
       ],
       "tiles/materials/sand2.material": [
@@ -42,21 +57,6 @@
     "Texts": {
       "Eng": "Some mighty soft lookin' sand.",
       "Por": "Areia de aparência muita macia."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/sand2.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/sand2.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This sand is so fine it seems smooth to touch.",
-      "Por": "Esta areia é tão fina que parece suave ao toque."
     }
   }
 ]

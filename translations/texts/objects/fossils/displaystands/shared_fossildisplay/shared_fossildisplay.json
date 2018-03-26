@@ -36,23 +36,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/fossils/displaystands/fossildisplay1/fossildisplay1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/fossils/displaystands/fossildisplay3/fossildisplay3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/fossils/displaystands/fossildisplay5/fossildisplay5.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A fossil will be displayed here."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/fossils/displaystands/fossildisplay1/fossildisplay1.object": [
         "/subtitle"
       ],
       "objects/fossils/displaystands/fossildisplay3/fossildisplay3.object": [
@@ -128,6 +111,24 @@
     "Texts": {
       "Eng": "Insert Fossil",
       "Por": "Insira Fóssil"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/fossils/displaystands/fossildisplay1/fossildisplay1.object": [
+        "/glitchDescription"
+      ],
+      "objects/fossils/displaystands/fossildisplay3/fossildisplay3.object": [
+        "/glitchDescription"
+      ],
+      "objects/fossils/displaystands/fossildisplay5/fossildisplay5.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Interested. A fossil will be displayed here.",
+      "Por": "Interessado. Um fóssil será exibido aqui."
     }
   },
   {

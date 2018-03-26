@@ -51,23 +51,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/woodtoilet/woodtoilet.object": [
-        "/floranDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Floran prefer to go in the foresst.",
-      "Por": "Floran prefere ir na floresta."
+      "Eng": "Disgusted. Full of germs.",
+      "Por": "Enojado. Cheia de germes."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/woodtoilet/woodtoilet.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/floranDescription"
       ]
     },
     "Texts": {
-      "Eng": "Full of germs."
+      "Eng": "Floran prefer to go in the foresst.",
+      "Por": "Floran prefere ir na floresta."
     }
   },
   {

@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/scorchedcity/explosivebarrel/explosivebarrel.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alerted. This barrel label warns of a highly explosive substance inside.",
+      "Por": "Alertado. O rótulo deste barril adverte de uma substância altamente explosiva dentro."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/scorchedcity/explosivebarrel/explosivebarrel.object": [
         "/apexDescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "The explosive label on the front implies that I probably shouldn't try to open it.",
       "Por": "O rótulo explosivo na frente implica que eu provavelmente não deveria tentar abri-lo."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/scorchedcity/explosivebarrel/explosivebarrel.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This barrel label warns of a highly explosive substance inside."
     }
   }
 ]

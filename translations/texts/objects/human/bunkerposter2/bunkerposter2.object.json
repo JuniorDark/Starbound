@@ -63,6 +63,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/bunkerposter2/bunkerposter2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Suspicious. Why do the humans have a poster of Big Ape, I wonder?",
+      "Por": "Desconfiado. Por que os humanos têm um cartaz de Big Ape, eu me pergunto?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkerposter2/bunkerposter2.object": [
         "/description"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "This cartoon character seems familiar. Wait... is that Big Ape?",
       "Por": "Este personagem de desenho animado parece familiar. Espera... esse é Big Ape?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/human/bunkerposter2/bunkerposter2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Why do the humans have a poster of Big Ape, I wonder?"
     }
   }
 ]

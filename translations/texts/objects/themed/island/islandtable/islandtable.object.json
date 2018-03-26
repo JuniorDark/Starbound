@@ -3,6 +3,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/themed/island/islandtable/islandtable.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alarmed. This tropical table has a very expressive face at the base.",
+      "Por": "Alarmado. Esta mesa tropical tem um rosto muito expressivo na base."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/island/islandtable/islandtable.object": [
         "/shortdescription"
       ]
     },
@@ -81,18 +93,6 @@
     "Texts": {
       "Eng": "This table is rather aggressive. Why not have a calm table instead?",
       "Por": "Esta mesa é bastante agressiva. Por que não ter uma mesa calma em vez disso?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/themed/island/islandtable/islandtable.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This tropical table has a very expressive face at the base.",
-      "Por": "Esta mesa tropical tem um rosto muito expressivo na base."
     }
   },
   {

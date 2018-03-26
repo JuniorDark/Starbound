@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/poisonsign/poisonsign.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Concerned. This sign is a warning to others. I should be careful.",
+      "Por": "Preocupado. Esta placa é um aviso para os outros. Eu deveria ter cuidado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/poisonsign/poisonsign.object": [
         "/floranDescription"
       ]
     },
@@ -33,17 +45,6 @@
     "Texts": {
       "Eng": "This crudely made sign is meant to warn others of dangerous things nearby.",
       "Por": "Esta placa é destinada a avisar outros de coisas perigosas nas proximidades."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/glitch/poisonsign/poisonsign.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This sign is a warning to others. I should be careful."
     }
   },
   {

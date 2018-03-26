@@ -48,20 +48,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/claypot1/claypot1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/generic/claypot3/claypot3.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Breaking this fragile pot will reveal the contents inside."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/claypot1/claypot1.object": [
         "/novakidDescription"
       ],
       "objects/generic/claypot2/claypot2.object": [
@@ -74,6 +60,21 @@
     "Texts": {
       "Eng": "I'd bet I could smash this 'ol pot with one shot.",
       "Por": "Aposto que eu poderia esmagar este velho pote com um tiro."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/claypot1/claypot1.object": [
+        "/glitchDescription"
+      ],
+      "objects/generic/claypot3/claypot3.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Interested. Breaking this fragile pot will reveal the contents inside.",
+      "Por": "Interessado. Quebrar este pote frágil revelará o conteúdo dentro."
     }
   },
   {

@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/signstore/signstoreclosed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excited. The lit display on this stall says it will open soon!",
+      "Por": "Animado. A placa acesa nesta tenda diz que vai abrir em breve!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/signstore/signstoreclosed.object": [
         "/floranDescription"
       ]
     },
@@ -45,17 +57,6 @@
     "Texts": {
       "Eng": "The display says the stall is opening soon.",
       "Por": "A placa diz que a tenda vai abrir em breve."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/outpost/signstore/signstoreclosed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The lit display on this stall says it will open soon!"
     }
   },
   {

@@ -18,15 +18,15 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/apexshipplatform.matitem": [
-        "/glitchdescription/glitchEmotedText"
+        "/glitchdescription"
       ],
       "tiles/platforms/apexshipplatform.material": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Platforms like this are used in space ship construction.",
-      "Por": "Plataformas como esta são usadas na construção de naves espaciais."
+      "Eng": "Informed. Platforms like this are used in space ship construction.",
+      "Por": "Informado. Plataformas como esta são usadas na construção de naves espaciais."
     }
   },
   {
@@ -56,7 +56,7 @@
     },
     "Texts": {
       "Eng": "Sstrong sship platform.",
-      "Por": "Plataforma de nave forte."
+      "Por": "Plataforma da nave forte."
     }
   },
   {

@@ -39,6 +39,30 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/new_stock1.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Elated. Wonderful! The <newItem> is now available for my customers to purchase.",
+      "Por": "Feliz. Maravilhoso! O <newItem> está agora disponível para os clientes comprarem."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/new_stock1.questtemplate": [
+        "/scriptConfig/generatedText/text/default/glitch/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excited. My old friend and fellow merchant ^orange;<target>^white; is at the ^orange;<spawnPoint>^white;<spawnPoint.direction>. <target.pronoun.capitalSubject> is always in need of stock; you will be able to ^green;trade the ^orange;<tradedItems>^green; with <target.pronoun.object> for the goods I need.",
+      "Por": "Animado. Meu velho amigo e companheiro comerciante ^orange;<target>^white; está no ^orange;<spawnPoint> ^white;<spawnPoint.direction>. <target.pronoun.capitalSubject> está sempre precisando de estoque; você poderá ^green;trocar o ^orange;<tradedItems>^green; com <target.pronoun.object> pelas mercadorias que eu preciso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/new_stock1.questtemplate": [
         "/scriptConfig/generatedText/completionText/default/floran/0"
       ]
     },
@@ -75,6 +99,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/new_stock1.questtemplate": [
+        "/scriptConfig/generatedText/completionText/default/glitch/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Grateful. Thanks to you, my customers can now purchase themselves a new <newItem> from me anytime.",
+      "Por": "Grato. Graças a você, meus clientes podem agora comprar para eles um novo <newItem> de mim a qualquer hora."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/generated/templates/new_stock1.questtemplate": [
         "/scriptConfig/generatedText/failureText/default/1"
       ]
     },
@@ -93,30 +129,6 @@
     "Texts": {
       "Eng": "I was unable to help <questGiver> acquire new stock for <questGiver.pronoun.possessiveDet> store. <questGiver.pronoun.capitalSubject> probably has enough as it is.",
       "Por": "Eu não pude ajudar <questGiver> adquirir um novo estoque para <questGiver.pronoun.possessiveDet> loja. <questGiver.pronoun.capitalSubject> provavelmente tem o suficiente como é."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/new_stock1.questtemplate": [
-        "/scriptConfig/generatedText/text/default/glitch/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I've heard my rival in business ^orange;<target>^white; has the supplies I need, but I do not wish to speak to <target.pronoun.object>. Please trade the ^orange;<tradedItems>^white; with <target.pronoun.object>^white; at the ^orange;<spawnPoint>^white;<spawnPoint.direction> for the goods I need.",
-      "Por": "Ouvi dizer que meu rival nos negócios ^orange;<target>^white; tem os suprimentos que eu preciso, mas eu não quero falar com <target.pronoun.object>. Por favor negocie o ^orange;<tradedItems>^white; com <target.pronoun.object>^white; no ^orange;<spawnPoint> ^white;<spawnPoint.direction> pelas mercadorias que eu preciso."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/new_stock1.questtemplate": [
-        "/scriptConfig/generatedText/text/default/glitch/0/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "My old friend and fellow merchant ^orange;<target>^white; is at the ^orange;<spawnPoint>^white;<spawnPoint.direction>. <target.pronoun.capitalSubject> is always in need of stock; you will be able to ^green;trade the ^orange;<tradedItems>^green; with <target.pronoun.object> for the goods I need.",
-      "Por": "Meu velho amigo e companheiro comerciante ^orange;<target>^white; está no ^orange;<spawnPoint> ^white;<spawnPoint.direction>. <target.pronoun.capitalSubject> está sempre precisando de estoque; você poderá ^green;trocar o ^orange;<tradedItems>^green; com <target.pronoun.object> pelas mercadorias que eu preciso."
     }
   },
   {
@@ -159,18 +171,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/new_stock1.questtemplate": [
-        "/scriptConfig/generatedText/completionText/default/glitch/1/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Thanks to you, my customers can now purchase themselves a new <newItem> from me anytime.",
-      "Por": "Graças a você, meus clientes podem agora comprar para eles um novo <newItem> de mim a qualquer hora."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/new_stock1.questtemplate": [
         "/scriptConfig/generatedText/text/default/default/0"
       ]
     },
@@ -183,12 +183,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/new_stock1.questtemplate": [
-        "/scriptConfig/generatedText/completionText/default/glitch/0/glitchEmotedText"
+        "/scriptConfig/generatedText/text/default/glitch/1"
       ]
     },
     "Texts": {
-      "Eng": "Wonderful! The <newItem> is now available for my customers to purchase.",
-      "Por": "Maravilhoso! O <newItem> está agora disponível para os clientes comprarem."
+      "Eng": "Unhappy. I've heard my rival in business ^orange;<target>^white; has the supplies I need, but I do not wish to speak to <target.pronoun.object>. Please trade the ^orange;<tradedItems>^white; with <target.pronoun.object>^white; at the ^orange;<spawnPoint>^white;<spawnPoint.direction> for the goods I need.",
+      "Por": "Infeliz. Ouvi dizer que meu rival nos negócios ^orange;<target>^white; tem os suprimentos que eu preciso, mas eu não quero falar com <target.pronoun.object>. Por favor negocie o ^orange;<tradedItems>^white; com <target.pronoun.object>^white; no ^orange;<spawnPoint> ^white;<spawnPoint.direction> pelas mercadorias que eu preciso."
     }
   },
   {

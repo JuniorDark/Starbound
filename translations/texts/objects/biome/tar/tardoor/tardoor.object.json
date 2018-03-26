@@ -15,17 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/tar/tardoor/tardoor.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A door made of tar could become stuck at any moment."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/tar/tardoor/tardoor.object": [
         "/avianDescription"
       ]
     },
@@ -44,6 +33,18 @@
     "Texts": {
       "Eng": "A tar door.",
       "Por": "Uma porta de piche."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/tar/tardoor/tardoor.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disapproving. A door made of tar could become stuck at any moment.",
+      "Por": "Desaprovação. Uma porta feita de piche poderia ficar emperrada a qualquer momento."
     }
   },
   {

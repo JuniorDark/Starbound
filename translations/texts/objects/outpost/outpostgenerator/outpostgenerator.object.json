@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/outpostgenerator/outpostgenerator.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cheery. This generates enough power for everybody.",
+      "Por": "Alegre. Isto gera energia suficiente para todos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostgenerator/outpostgenerator.object": [
         "/avianDescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "Power Generator",
       "Por": "Power Generator"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/outpost/outpostgenerator/outpostgenerator.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This generates enough power for everybody."
     }
   },
   {

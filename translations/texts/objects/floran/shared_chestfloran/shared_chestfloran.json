@@ -48,20 +48,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/chestfloran1/chestfloran1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/floran/chestfloran2/chestfloran2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "It may be quicker to pull this chest apart than to open it."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/floran/chestfloran1/chestfloran1.object": [
         "/apexDescription"
       ],
       "objects/floran/chestfloran2/chestfloran2.object": [
@@ -101,6 +87,21 @@
     "Texts": {
       "Eng": "This chest may rot over time, exposing its contents.",
       "Por": "Este baú pode apodrecer ao longo do tempo, expondo o seu conteúdo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/chestfloran1/chestfloran1.object": [
+        "/glitchDescription"
+      ],
+      "objects/floran/chestfloran2/chestfloran2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unimpressed. It may be quicker to pull this chest apart than to open it.",
+      "Por": "Não impressionado. Pode ser mais rápido partir esse baú do que abri-lo."
     }
   }
 ]

@@ -3,6 +3,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/techhull1.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/techhull1.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Envious. This plating covers the wires underneath extremely well.",
+      "Por": "Invejoso. Este revestimento cobre os fios embaixo extremamente bem."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/techhull1.matitem": [
         "/novakiddescription"
       ],
       "tiles/materials/techhull1.material": [
@@ -45,22 +60,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/techhull1.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/techhull1.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This plating covers the wires underneath extremely well.",
-      "Por": "Este chapeamento cobre os fios debaixo extremamente bem."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Fiação esconde sob este reforçado material banhado de alta-tecnologia."
+    ],
     "Files": {
       "items/materials/techhull1.matitem": [
         "/description"

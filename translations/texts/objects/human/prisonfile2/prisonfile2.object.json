@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/prisonfile2/prisonfile2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A large number of humans go to prison for punching each other in the face."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/human/prisonfile2/prisonfile2.object": [
         "/avianDescription"
       ]
     },
@@ -44,6 +33,18 @@
     "Texts": {
       "Eng": "Oh hey, this woman's a pretty famous smuggler. Says here she broke out.",
       "Por": "Oh, Ei, essa mulher é uma contrabandista bem famosa. Diz aqui que ela fugiu."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/prisonfile2/prisonfile2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Subdued. A large number of humans go to prison for punching each other in the face.",
+      "Por": "Subjugado. Um grande número de humanos vão para a prisão por socarem uns aos outros na cara."
     }
   },
   {

@@ -51,17 +51,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/apexwoodpanel/apexwoodpanel.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Pointless wooden panel."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/apex/apexwoodpanel/apexwoodpanel.object": [
         "/floranDescription"
       ]
     },
@@ -92,6 +81,18 @@
     "Texts": {
       "Eng": "This wood is as flimsy as a pair a' dime store boots.",
       "Por": "Esta madeira é tão frágil como um par de botas de uma loja de dez centavos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/apexwoodpanel/apexwoodpanel.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unimpressed. Pointless wooden panel.",
+      "Por": "Não impressionado. Painel de madeira sem sentido. "
     }
   },
   {

@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/space/telescope/telescope.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excited. This telescope is the perfect tool for inspecting the stars from afar.",
+      "Por": "Animado. Este telescópio é a ferramenta perfeita para inspecionar as estrelas de longe."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/telescope/telescope.object": [
         "/hylotlDescription"
       ]
     },
@@ -93,18 +105,6 @@
     "Texts": {
       "Eng": "This large telescope may allow me to see objects far away.",
       "Por": "Este grande telescópio pode me permitir ver objetos distantes."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/space/telescope/telescope.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This telescope is the perfect tool for inspecting the stars from afar.",
-      "Por": "Este telescópio é a ferramenta perfeita para olhar as estrelas de longe."
     }
   }
 ]

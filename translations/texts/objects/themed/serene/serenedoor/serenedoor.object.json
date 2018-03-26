@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/themed/serene/serenedoor/serenedoor.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Approving. This door's shape makes it very sturdy.",
+      "Por": "Aprovação. A forma desta porta a torna muito resistente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/serene/serenedoor/serenedoor.object": [
         "/shortdescription"
       ]
     },
@@ -57,18 +69,6 @@
     "Texts": {
       "Eng": "The shape makes this door very secure.",
       "Por": "O formato torna esta porta muito segura."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/themed/serene/serenedoor/serenedoor.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This door's shape makes it very sturdy.",
-      "Por": "A forma desta porta a torna muito resistente."
     }
   },
   {

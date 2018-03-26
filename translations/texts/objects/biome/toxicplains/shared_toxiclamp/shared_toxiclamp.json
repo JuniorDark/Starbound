@@ -78,6 +78,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/toxicplains/toxiclamp1/toxiclamp1.object": [
+        "/glitchDescription"
+      ],
+      "objects/biome/toxicplains/toxiclamp2/toxiclamp2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. This light appears to be entirely solar powered.",
+      "Por": "Observador. Esta luz parece ser totalmente alimentada por energia solar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/toxicplains/toxiclamp1/toxiclamp1.object": [
         "/apexDescription"
       ],
       "objects/biome/toxicplains/toxiclamp2/toxiclamp2.object": [
@@ -87,20 +102,6 @@
     "Texts": {
       "Eng": "This is a delightful idea for a lamp.",
       "Por": "Esta é uma idéia encantadora para uma lâmpada."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/toxicplains/toxiclamp1/toxiclamp1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/biome/toxicplains/toxiclamp2/toxiclamp2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This light appears to be entirely solar powered."
     }
   },
   {

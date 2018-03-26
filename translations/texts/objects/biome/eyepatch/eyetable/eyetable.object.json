@@ -63,6 +63,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/eyepatch/eyetable/eyetable.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. This eyeball seems to allow the table to rotate. Perhaps to share side dishes?",
+      "Por": "Observador. Este globo ocular parece permitir que a mesa gire. Talvez para compartilhar pratos?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/eyepatch/eyetable/eyetable.object": [
         "/avianDescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "This creepy table would be perfect at any Halloween party.",
       "Por": "Esta mesa assustadora seria perfeita em qualquer festa de Dia das Bruxas."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/eyepatch/eyetable/eyetable.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This eyeball seems to allow the table to rotate. Perhaps to share side dishes?"
     }
   }
 ]

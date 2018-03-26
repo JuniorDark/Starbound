@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/themed/doom/doombed/doombed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Concerned. The appearance of this bed is unsettling.",
+      "Por": "Preocupado. A aparência desta cama é inquietante."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/doom/doombed/doombed.object": [
         "/shortdescription"
       ]
     },
@@ -69,18 +81,6 @@
     "Texts": {
       "Eng": "Great build quality. I like this. Not so sure about its appearance, though.",
       "Por": "Grande qualidade de construção. Eu gosto disso. Não tenho tanta certeza sobre sua aparência."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/themed/doom/doombed/doombed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The appearance of this bed is unsettling.",
-      "Por": "A aparência desta cama é inquietante."
     }
   },
   {

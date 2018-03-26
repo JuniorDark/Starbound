@@ -48,6 +48,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/sarcoavian1/sarcoavian1.object": [
+        "/glitchDescription"
+      ],
+      "objects/avian/sarcoavian2/sarcoavian2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neutral. The Avian within is very old indeed.",
+      "Por": "Neutro. O Avian dentro é muito velho, de fato."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/sarcoavian1/sarcoavian1.object": [
         "/floranDescription"
       ],
       "objects/avian/sarcoavian2/sarcoavian2.object": [
@@ -57,20 +72,6 @@
     "Texts": {
       "Eng": "Sssnack insside iss not fresh.",
       "Por": "Lanche dentro não é fresssco."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avian/sarcoavian1/sarcoavian1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/avian/sarcoavian2/sarcoavian2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The Avian within is very old indeed."
     }
   },
   {

@@ -27,13 +27,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/ship/avianshiplocker/avianshiplocker.object": [
-        "/apexDescription",
-        "/glitchDescription/glitchEmotedText"
+        "/apexDescription"
       ]
     },
     "Texts": {
       "Eng": "Avian storage locker.",
       "Por": "Armário de armazenamento Avian."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/avianshiplocker/avianshiplocker.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Indifferent. Avian storage locker.",
+      "Por": "Indiferente. Armário de armazenamento Avian."
     }
   },
   {

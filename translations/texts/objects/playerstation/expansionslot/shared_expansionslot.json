@@ -48,6 +48,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/playerstation/expansionslot/expansionslot.object": [
+        "/glitchDescription"
+      ],
+      "objects/playerstation/expansionslot/expansionslothorizontal.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. This terminal type can be used attach a variety of interior modules to the station.",
+      "Por": "Atento. Este tipo de terminal pode ser usado para anexar uma variedade de módulos internos à estação."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/playerstation/expansionslot/expansionslot.object": [
         "/novakidDescription"
       ],
       "objects/playerstation/expansionslot/expansionslothorizontal.object": [
@@ -102,21 +117,6 @@
     "Texts": {
       "Eng": "This terminal is for managing the expansion modules for this station.",
       "Por": "Este terminal é para gerenciar os módulos de expansão para esta estação."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/playerstation/expansionslot/expansionslot.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/playerstation/expansionslot/expansionslothorizontal.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This terminal type can be used attach a variety of interior modules to the station.",
-      "Por": "Este tipo de terminal pode ser usado para anexar uma variedade de módulos internos à estação."
     }
   }
 ]

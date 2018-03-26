@@ -51,17 +51,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/sewerflooddoor/sewerflooddoor.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The structure of this door doesn't seem adequate."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/glitch/sewerflooddoor/sewerflooddoor.object": [
         "/humanDescription"
       ]
     },
@@ -92,6 +81,18 @@
     "Texts": {
       "Eng": "Thiss door doesn't sseem ssstable",
       "Por": "Esta porta não parece estável"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/glitch/sewerflooddoor/sewerflooddoor.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thoughtful. The structure of this door doesn't seem adequate.",
+      "Por": "Pensativo. A estrutura desta porta não parece adequada."
     }
   },
   {

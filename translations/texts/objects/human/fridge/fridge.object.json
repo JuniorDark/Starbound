@@ -51,11 +51,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/fridge/fridge.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "This fridge is operating at the optimal temperature."
+      "Eng": "Pleased. This fridge is operating at the optimal temperature.",
+      "Por": "Satisfeito. Esta geladeira está operando na temperatura ideal."
     }
   }
 ]

@@ -39,17 +39,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/novakid/saloontumbler/saloontumbler.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A small glass."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/novakid/saloontumbler/saloontumbler.object": [
         "/humanDescription"
       ]
     },
@@ -80,6 +69,18 @@
     "Texts": {
       "Eng": "Floran wantsss to see glasss smash.",
       "Por": "Floran quer ver vidro quebrar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/novakid/saloontumbler/saloontumbler.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. A small glass.",
+      "Por": "Observador. Um copo pequeno."
     }
   },
   {

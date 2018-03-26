@@ -75,23 +75,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/savannah/dustytable/dustytable.object": [
-        "/humanDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "The table cloth looks like it's made from dried grass.",
-      "Por": "A toalha da mesa parece que é feita de grama seca."
+      "Eng": "Observant. The wood looks to be sun damaged.",
+      "Por": "Observador. A madeira parece estar danificada pelo sol."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/savannah/dustytable/dustytable.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/humanDescription"
       ]
     },
     "Texts": {
-      "Eng": "The wood looks to be sun damaged."
+      "Eng": "The table cloth looks like it's made from dried grass.",
+      "Por": "A toalha da mesa parece que é feita de grama seca."
     }
   },
   {

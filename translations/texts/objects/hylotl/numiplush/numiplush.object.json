@@ -75,23 +75,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hylotl/numiplush/numiplush.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "It's very cute..."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/hylotl/numiplush/numiplush.object": [
         "/shortdescription"
       ]
     },
     "Texts": {
       "Eng": "Numi Plushie",
       "Por": "Numi Plushie"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hylotl/numiplush/numiplush.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tempted. It's very cute...",
+      "Por": "Tentado. É muito fofo..."
     }
   },
   {

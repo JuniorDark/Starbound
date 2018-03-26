@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/themed/astronaut/mercurymodel/mercurymodel.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fascinated. Mercury's day length is almost 59 Earth-days long and it's year length about 88 Earth-days.",
+      "Por": "Fascinado. O comprimento do dia de Mercúrio é de quase 59 dias Terrestres e o comprimento do ano é cerca de 88 dias Terrestres."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/astronaut/mercurymodel/mercurymodel.object": [
         "/humanDescription"
       ]
     },
@@ -57,18 +69,6 @@
     "Texts": {
       "Eng": "Mercury is the first planet in the Sol System and is gravitationally locked leading to extremely long days.",
       "Por": "Mercúrio é o primeiro planeta no Sistema Solar e é gravitacionalmente bloqueado levando a dias extremamente longos."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/themed/astronaut/mercurymodel/mercurymodel.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Mercury's day length is almost 59 Earth-days long and it's year length about 88 Earth-days.",
-      "Por": "O comprimento do dia de Mercúrio é de quase 59 dias Terrestres e o comprimento do ano é cerca de 88 dias Terrestres."
     }
   },
   {

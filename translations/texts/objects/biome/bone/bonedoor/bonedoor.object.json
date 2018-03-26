@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/bone/bonedoor/bonedoor.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Comical. I guess the death of this creature really... opened doors.",
+      "Por": "Cômico. Acho que a morte dessa criatura realmente... abriu portas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/bone/bonedoor/bonedoor.object": [
         "/novakidDescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "Floran feel kinssship with door. Kick open.",
       "Por": "Floran sente parentesco com porta."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/bone/bonedoor/bonedoor.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I guess the death of this creature really... opened doors."
     }
   },
   {

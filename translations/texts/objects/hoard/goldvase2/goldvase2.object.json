@@ -27,17 +27,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/hoard/goldvase2/goldvase2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A golden jug."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/hoard/goldvase2/goldvase2.object": [
         "/apexDescription"
       ]
     },
@@ -56,6 +45,18 @@
     "Texts": {
       "Eng": "An otherwise unremarkable golden jug, sometimes used in ceremonies.",
       "Por": "Um jarro de ouro de outra maneira normal, por vezes utilizado em cerimônias."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/hoard/goldvase2/goldvase2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Certainty. A golden jug.",
+      "Por": "Afirmação. Um jarro de ouro."
     }
   },
   {

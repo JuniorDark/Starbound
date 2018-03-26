@@ -51,17 +51,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/bunkerhandscanner/bunkerhandscanner.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Biometric security devices are a luxury only certain species can indulge in."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/human/bunkerhandscanner/bunkerhandscanner.object": [
         "/floranDescription"
       ]
     },
@@ -104,6 +93,18 @@
     "Texts": {
       "Eng": "It scans fingerprints and matches them to personnel data.",
       "Por": "Escaneia impressões digitais e as combina com dados pessoais."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkerhandscanner/bunkerhandscanner.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Resentful. Biometric security devices are a luxury only certain species can indulge in.",
+      "Por": "Ressentido. Dispositivos de segurança biométrica são um luxo em que só certas espécies podem desfrutar."
     }
   }
 ]

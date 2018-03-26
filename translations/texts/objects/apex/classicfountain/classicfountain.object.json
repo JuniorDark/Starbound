@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/classicfountain/classicfountain.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. Scans show this water is entirely pure.",
+      "Por": "Curioso. Leituras mostram que esta água é inteiramente pura."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/classicfountain/classicfountain.object": [
         "/floranDescription"
       ]
     },
@@ -45,17 +57,6 @@
     "Texts": {
       "Eng": "Nice place to stop for a spell and have a drink.",
       "Por": "Lugar agradável para parar para um feitiço e tomar uma bebida."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/apex/classicfountain/classicfountain.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Scans show this water is entirely pure."
     }
   },
   {

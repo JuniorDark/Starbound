@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Um material barato que pode suportar a maioria dos climas."
+    ],
     "Files": {
       "items/materials/slopedinsetpanel.matitem": [
         "/description"
@@ -45,18 +47,20 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Observador. Este material barato que pode suportar a maioria dos climas."
+    ],
     "Files": {
       "items/materials/slopedinsetpanel.matitem": [
-        "/glitchdescription/glitchEmotedText"
+        "/glitchdescription"
       ],
       "tiles/materials/slopedinsetpanel.material": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "This somewhat inexpensive material can withstand most weathering.",
-      "Por": "Este material um tanto barato pode suportar a maioria dos climas."
+      "Eng": "Observant. This somewhat inexpensive material can withstand most weathering.",
+      "Por": "Observador. Este material um tanto barato pode suportar a maioria dos climas."
     }
   },
   {

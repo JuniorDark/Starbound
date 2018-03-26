@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/colourful/rainbowchair/rainbowchair.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Emotional. This chair fills me with the joy of life.",
+      "Por": "Emocional. Esta cadeira me enche com a alegria da vida."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/colourful/rainbowchair/rainbowchair.object": [
         "/floranDescription"
       ]
     },
@@ -69,17 +81,6 @@
     "Texts": {
       "Eng": "Rainbow Chair",
       "Por": "Rainbow Chair"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/colourful/rainbowchair/rainbowchair.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This chair fills me with the joy of life."
     }
   },
   {

@@ -27,17 +27,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/human/bunkerserver/bunkerserver.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A server cabinet. What information could it contain?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/human/bunkerserver/bunkerserver.object": [
         "/hylotlDescription"
       ]
     },
@@ -80,6 +69,18 @@
     "Texts": {
       "Eng": "Beepy machines do not interessst this Floran.",
       "Por": "Máquinas barulhentas não interessam a este Floran."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/human/bunkerserver/bunkerserver.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. A server cabinet. What information could it contain?",
+      "Por": "Curioso. Um gabinete de servidor. Que informações poderia conter?"
     }
   },
   {

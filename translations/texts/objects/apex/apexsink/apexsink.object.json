@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/apexsink/apexsink.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Attentive. Water purity 13%. It appears the water contains a synthetic element.",
+      "Por": "Atento. Pureza da água 13%. Parece que a água contém um elemento sintético."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/apexsink/apexsink.object": [
         "/description"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "This water is not fit to swim in.",
       "Por": "Esta água não é adequada para nadar."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/apex/apexsink/apexsink.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Water purity 13%. It appears the water contains a synthetic element."
     }
   }
 ]

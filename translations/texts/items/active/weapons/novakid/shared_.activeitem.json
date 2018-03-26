@@ -1,6 +1,9 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma grande arma que um soco.",
+      "Uma revólver grande que da um coice e tanto."
+    ],
     "Files": {
       "items/active/weapons/novakid/durasteelrevolver.activeitem": [
         "/description"

@@ -18,20 +18,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/wheat/wheatseed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/farmables/wheat/wildwheatseed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I wonder if all the possible uses for wheat have been found."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/farmables/wheat/wheatseed.object": [
         "/hylotlDescription"
       ],
       "objects/farmables/wheat/wildwheatseed.object": [
@@ -41,6 +27,21 @@
     "Texts": {
       "Eng": "On land, wheat has many uses. Underwater, almost none.",
       "Por": "Em terra, o trigo tem muitos usos. Embaixo da água, quase nenhum."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/wheat/wheatseed.object": [
+        "/glitchDescription"
+      ],
+      "objects/farmables/wheat/wildwheatseed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thoughtful. I wonder if all the possible uses for wheat have been found.",
+      "Por": "Pensativo. Gostaria de saber se todos os usos possíveis para o trigo foram encontrados."
     }
   },
   {

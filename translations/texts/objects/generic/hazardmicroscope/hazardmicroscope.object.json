@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/hazardmicroscope/hazardmicroscope.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fascinated. Organic materials are curious when you look very close.",
+      "Por": "Fascinado. Os materiais orgânicos são curiosos quando você olha muito de perto."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/hazardmicroscope/hazardmicroscope.object": [
         "/floranDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "Looking at small things isn't as interesting as looking at the stars.",
       "Por": "Olhar para coisas pequenas não é tão interessante quanto olhar para as estrelas."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/hazardmicroscope/hazardmicroscope.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Organic materials are curious when you look very close."
     }
   },
   {

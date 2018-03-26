@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/plantcabinet2/plantcabinet2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Confused. The quality of this desk seems unusually good for a Floran design.",
+      "Por": "Confuso. A qualidade desta mesa parece excepcionalmente boa para um design Floran."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/plantcabinet2/plantcabinet2.object": [
         "/avianDescription"
       ]
     },
@@ -57,17 +69,6 @@
     "Texts": {
       "Eng": "Large Cabinet",
       "Por": "Large Cabinet"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/floran/plantcabinet2/plantcabinet2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "The quality of this desk seems unusually good for a Floran design."
     }
   },
   {

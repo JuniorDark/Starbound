@@ -15,17 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/outpostchair/outpostchair.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A chair. The Glitch occasionally like to sit."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/outpost/outpostchair/outpostchair.object": [
         "/description"
       ]
     },
@@ -80,6 +69,18 @@
     "Texts": {
       "Eng": "A standard chair.",
       "Por": "Uma cadeira padrão."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostchair/outpostchair.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Appreciative. A chair. The Glitch occasionally like to sit.",
+      "Por": "Apreciativo. Uma cadeira. Os Glitch ocasionalmente gostam de sentar."
     }
   },
   {

@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/themed/spooky/spookybed/spookybed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nervous. There's something malevolent about this furniture.",
+      "Por": "Nervoso. Há algo malévolo nesta mobília."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/spooky/spookybed/spookybed.object": [
         "/avianDescription"
       ]
     },
@@ -69,18 +81,6 @@
     "Texts": {
       "Eng": "There's something disturbing about this fancy old bed.",
       "Por": "Há algo perturbador nesta cama velha e chique."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/themed/spooky/spookybed/spookybed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "There's something malevolent about this furniture.",
-      "Por": "Há algo malévolo nesta mobília."
     }
   },
   {

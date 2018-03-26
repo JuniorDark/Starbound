@@ -75,23 +75,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/crafting/campfire/campfire.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Heating meat with fire is a basic form of cooking."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/crafting/campfire/campfire.object": [
         "/humanDescription"
       ]
     },
     "Texts": {
       "Eng": "I've always enjoyed watching the flames of a campfire dance.",
       "Por": "Eu sempre gostei de assistir as chamas de uma fogueira dançar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/campfire/campfire.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Informed. Heating meat with fire is a basic form of cooking.",
+      "Por": "Informado. Aquecer carne com fogo é uma forma básica de cozinhar."
     }
   },
   {

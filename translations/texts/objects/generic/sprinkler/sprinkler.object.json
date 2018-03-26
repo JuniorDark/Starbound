@@ -27,17 +27,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generic/sprinkler/sprinkler.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "It is an automated soil watering solution. I enjoy watering my plants by hand."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generic/sprinkler/sprinkler.object": [
         "/hylotlDescription"
       ]
     },
@@ -80,6 +69,18 @@
     "Texts": {
       "Eng": "Sprinkler",
       "Por": "Sprinkler"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/sprinkler/sprinkler.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unimpressed. It is an automated soil watering solution. I enjoy watering my plants by hand.",
+      "Por": "Não impressionado. É uma solução automatizada para regar o solo. Eu gosto de regar minhas plantas à mão."
     }
   },
   {

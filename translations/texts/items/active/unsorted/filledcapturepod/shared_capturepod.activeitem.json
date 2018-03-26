@@ -15,7 +15,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Jogue isso para soltar a criatura capturada dentro!"
+    ],
     "Files": {
       "items/active/unsorted/filledcapturepod/filledcapturepod.activeitem": [
         "/description"

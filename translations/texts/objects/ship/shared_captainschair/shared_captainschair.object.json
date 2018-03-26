@@ -60,6 +60,36 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/ship/apexcaptainschair/apexcaptainschair.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/aviancaptainschair/aviancaptainschair.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/florancaptainschair/florancaptainschair.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/glitchcaptainschair/glitchcaptainschair.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/humancaptainschair/humancaptainschair.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/hylotlcaptainschair/hylotlcaptainschair.object": [
+        "/glitchDescription"
+      ],
+      "objects/ship/novakidcaptainschair/novakidcaptainschair.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excited. Sitting on the Captain's chair allows me to fly this ship. Where to next?",
+      "Por": "Animado. Sentar na cadeira do Capitão me permite pilotar esta nave. Para onde?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/apexcaptainschair/apexcaptainschair.object": [
         "/hylotlDescription"
       ],
       "objects/ship/aviancaptainschair/aviancaptainschair.object": [
@@ -84,36 +114,6 @@
     "Texts": {
       "Eng": "Sitting on the Captain's chair allows me to fly this ship.",
       "Por": "Sentar na cadeira do Capitão me permite pilotar esta nave."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/ship/apexcaptainschair/apexcaptainschair.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/aviancaptainschair/aviancaptainschair.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/florancaptainschair/florancaptainschair.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/glitchcaptainschair/glitchcaptainschair.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/humancaptainschair/humancaptainschair.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/hylotlcaptainschair/hylotlcaptainschair.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
-      "objects/ship/novakidcaptainschair/novakidcaptainschair.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Sitting on the Captain's chair allows me to fly this ship. Where to next?",
-      "Por": "Sentar na cadeira do Capitão me permite pilotar esta nave. Para onde?"
     }
   },
   {

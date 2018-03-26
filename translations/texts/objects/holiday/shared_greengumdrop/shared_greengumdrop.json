@@ -18,12 +18,10 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/holiday/greengumdrop1/greengumdrop1.object": [
-        "/apexDescription",
-        "/glitchDescription/glitchEmotedText"
+        "/apexDescription"
       ],
       "objects/holiday/greengumdrop2/greengumdrop2.object": [
-        "/apexDescription",
-        "/glitchDescription/glitchEmotedText"
+        "/apexDescription"
       ]
     },
     "Texts": {
@@ -44,6 +42,21 @@
     "Texts": {
       "Eng": "Floran eat big green sweet!",
       "Por": "Floran come grande doce verde!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/holiday/greengumdrop1/greengumdrop1.object": [
+        "/glitchDescription"
+      ],
+      "objects/holiday/greengumdrop2/greengumdrop2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased. A tasty green gumdrop.",
+      "Por": "Satisfeito. Uma jujuba verde saborosa."
     }
   },
   {

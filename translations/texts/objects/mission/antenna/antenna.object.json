@@ -24,7 +24,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma Antena"
+    ],
     "Files": {
       "objects/mission/antenna/antenna.object": [
         "/apexDescription",
@@ -46,6 +48,18 @@
     "Texts": {
       "Eng": "An antenna. These are typically used to boost communication signals.",
       "Por": "Uma antena. Estes são normalmente utilizados para impulsionar os sinais de comunicação."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/antenna/antenna.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Annoyed. This antenna is playing havoc with my sensors.",
+      "Por": "Irritado. Esta antena está jogando havoc com meus sensores."
     }
   },
   {
@@ -82,17 +96,6 @@
     "Texts": {
       "Eng": "Is there anybody out there? Wait, I don't wanna know.",
       "Por": "Tem alguém lá fora? Espere, eu não quero saber."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/mission/antenna/antenna.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This antenna is playing havoc with my sensors."
     }
   }
 ]

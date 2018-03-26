@@ -87,23 +87,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/lunarbaseconsole/lunarbaseconsole.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Something might happen if I interact with this control panel."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/mission/lunarbaseconsole/lunarbaseconsole.object": [
         "/hylotlDescription"
       ]
     },
     "Texts": {
       "Eng": "This electronic device is used to remotely control things.",
       "Por": "Este dispositivo eletrônico é usado para controlar remotamente as coisas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/lunarbaseconsole/lunarbaseconsole.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wary. Something might happen if I interact with this control panel.",
+      "Por": "Cauteloso. Algo pode acontecer se eu interagir com este painel de controle."
     }
   }
 ]

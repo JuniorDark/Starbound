@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avian/sarcohuman/sarcohuman.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A human sits inside this sarcophagus."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avian/sarcohuman/sarcohuman.object": [
         "/novakidDescription"
       ]
     },
@@ -56,6 +45,18 @@
     "Texts": {
       "Eng": "Is that a human?",
       "Por": "Isso é um humano?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avian/sarcohuman/sarcohuman.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. A human sits inside this sarcophagus.",
+      "Por": "Observador. Um humano esta dentro desse sarcófago."
     }
   },
   {

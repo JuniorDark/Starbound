@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Um lugar altamente decente para sentar."
+    ],
     "Files": {
       "objects/themed/geometric/geometricchair/geometricchair.object": [
         "/avianDescription"
@@ -24,7 +26,11 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Floran sssenta na cadeira e pensa sobre caça.",
+      "Floran sssentar-se na cadeira e pensa sobre caçar.",
+      "Floran sssente-se na cadeira e pensa sobre caça."
+    ],
     "Files": {
       "objects/themed/geometric/geometricchair/geometricchair.object": [
         "/floranDescription"
@@ -60,27 +66,27 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/themed/doom/doomchair/doomchair.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/themed/geometric/geometricchair/geometricchair.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/themed/opulent/opulentchair/opulentchair.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/themed/serene/serenechair/serenechair.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/tiered/tier3chair/tier3chair.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ],
       "objects/tiered/tier4chair/tier4chair.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "This chair is exceptionally comfortable for the Glitch.",
-      "Por": "Esta cadeira é excepcionalmente confortável para os Glitch."
+      "Eng": "Relaxed. This chair is exceptionally comfortable for the Glitch.",
+      "Por": "Relaxado. Esta cadeira é excepcionalmente confortável para os Glitch."
     }
   }
 ]

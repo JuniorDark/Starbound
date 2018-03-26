@@ -31,7 +31,20 @@
       ]
     },
     "Texts": {
-      "Eng": "Mech Sign"
+      "Eng": "Mech Sign",
+      "Por": "Mech Sign"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/mechsign/mechsign.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. This sign indicates a work station for mech assembly.",
+      "Por": "Atento. Estea placa indica uma estação de trabalho para montagem de mecha."
     }
   },
   {
@@ -92,17 +105,6 @@
     "Texts": {
       "Eng": "This sign has a large mech vehicle printed on it.",
       "Por": "Esta placa possui um grande veículo mecha impresso sobre ela."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/outpost/mechsign/mechsign.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This sign indicates a work station for mech assembly."
     }
   }
 ]

@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Um tubo pesado, comumente usado em sistemas de resíduos"
+    ],
     "Files": {
       "items/materials/heavypipe.matitem": [
         "/description"
@@ -18,6 +20,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/heavypipe.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/heavypipe.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disgusted. I would hate to see the waste that has been passed through this pipe.",
+      "Por": "Com nojo. Eu odiaria ver o lixo que foi passado através deste tubo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/heavypipe.matitem": [
         "/shortdescription"
       ],
       "tiles/materials/heavypipe.material": [
@@ -27,21 +44,6 @@
     "Texts": {
       "Eng": "Heavy Pipe",
       "Por": "Heavy Pipe"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/heavypipe.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/heavypipe.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I would hate to see the waste that has been passed through this pipe.",
-      "Por": "Eu odiaria ver os resíduos que passaram por este cano."
     }
   },
   {

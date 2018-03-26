@@ -63,6 +63,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/laboratoryverticaldoor/laboratoryverticaldoor.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Critical. This hatch is made from a smooth white metal.",
+      "Por": "Crítico. Esta escotilha é feita de um metal branco liso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/laboratoryverticaldoor/laboratoryverticaldoor.object": [
         "/floranDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "Laboratory Hatch",
       "Por": "Laboratory Hatch"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/mission/laboratoryverticaldoor/laboratoryverticaldoor.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This hatch is made from a smooth white metal."
     }
   },
   {

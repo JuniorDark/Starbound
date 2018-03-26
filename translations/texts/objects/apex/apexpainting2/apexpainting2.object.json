@@ -51,6 +51,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/apexpainting2/apexpainting2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious. What is the source of this Apex's happiness?",
+      "Por": "Curioso. Qual é a fonte da felicidade desse Apex?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/apexpainting2/apexpainting2.object": [
         "/floranDescription"
       ]
     },
@@ -93,17 +105,6 @@
     "Texts": {
       "Eng": "This guy is smiling. I wonder why?",
       "Por": "Esse cara está sorrindo. Me pergunto por que?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/apex/apexpainting2/apexpainting2.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "What is the source of this Apex's happiness?"
     }
   }
 ]

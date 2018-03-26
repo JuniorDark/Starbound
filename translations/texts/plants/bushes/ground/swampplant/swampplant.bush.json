@@ -4,13 +4,24 @@
     "Files": {
       "plants/bushes/ground/swampplant/swampplant.bush": [
         "/description",
-        "/glitchDescription/glitchEmotedText",
         "/shortdescription"
       ]
     },
     "Texts": {
       "Eng": "A swampy plant.",
       "Por": "Uma planta pantanosa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "plants/bushes/ground/swampplant/swampplant.bush": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement. A swampy plant.",
+      "Por": "Relatório. Uma planta pantanosa."
     }
   }
 ]

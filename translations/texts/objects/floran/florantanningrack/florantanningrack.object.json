@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/floran/florantanningrack/florantanningrack.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Confused. Is the purpose of this rack to display an animal skin?",
+      "Por": "Confuso. O objetivo deste rack é exibir uma pele animal?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/floran/florantanningrack/florantanningrack.object": [
         "/floranDescription"
       ]
     },
@@ -45,17 +57,6 @@
     "Texts": {
       "Eng": "I think this process tans and toughens the leather.",
       "Por": "Acho que este processo curte e endurece o couro."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/floran/florantanningrack/florantanningrack.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Is the purpose of this rack to display an animal skin?"
     }
   },
   {

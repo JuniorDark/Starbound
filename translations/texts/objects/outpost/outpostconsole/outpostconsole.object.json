@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/outpost/outpostconsole/outpostconsole.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Concerned. I cannot determine what this console is used for.",
+      "Por": "Preocupado. Eu não posso determinar pra que este console é usado."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/outpost/outpostconsole/outpostconsole.object": [
         "/floranDescription"
       ]
     },
@@ -57,17 +69,6 @@
     "Texts": {
       "Eng": "Free Standing Console",
       "Por": "Free Standing Console"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/outpost/outpostconsole/outpostconsole.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "I cannot determine what this console is used for."
     }
   }
 ]

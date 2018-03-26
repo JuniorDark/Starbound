@@ -63,23 +63,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/juicekeg/juicekeg.object": [
-        "/shortdescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Juice Keg",
-      "Por": "Juice Keg"
+      "Eng": "Delighted. Juice kegs always mean merriment is ahead.",
+      "Por": "Encantado. Barris de suco sempre significam alegria à frente."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/glitch/juicekeg/juicekeg.object": [
-        "/glitchDescription/glitchEmotedText"
+        "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "Juice kegs always mean merriment is ahead."
+      "Eng": "Juice Keg",
+      "Por": "Juice Keg"
     }
   },
   {

@@ -33,6 +33,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/apexshipwall.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/apexshipwall.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. These removable panels are smooth and strong.",
+      "Por": "Impressionado. Estes painéis removíveis são suaves e fortes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/apexshipwall.matitem": [
         "/florandescription"
       ],
       "tiles/materials/apexshipwall.material": [
@@ -42,21 +57,6 @@
     "Texts": {
       "Eng": "Metal panel makess ssmooth wall.",
       "Por": "Painel de metal deixa parede lisa."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/apexshipwall.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/apexshipwall.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "These removable panels are smooth and strong.",
-      "Por": "Estes painéis removíveis são suaves e fortes."
     }
   },
   {

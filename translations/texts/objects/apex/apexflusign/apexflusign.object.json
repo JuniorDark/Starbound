@@ -27,17 +27,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/apexflusign/apexflusign.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Ape flu has no effect on the Glitch."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/apex/apexflusign/apexflusign.object": [
         "/apexDescription"
       ]
     },
@@ -56,6 +45,18 @@
     "Texts": {
       "Eng": "Can Avians catch ape flu?",
       "Por": "Os Avians podem pegar a gripe do macaco?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/apexflusign/apexflusign.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Confident. Ape flu has no effect on the Glitch.",
+      "Por": "Confiante. A gripe do macaco não tem efeito sobre o Glitch."
     }
   },
   {

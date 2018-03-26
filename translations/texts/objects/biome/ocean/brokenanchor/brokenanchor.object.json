@@ -63,6 +63,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/ocean/brokenanchor/brokenanchor.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fearful. This anchor is covered in rust, the enemy of the Glitch.",
+      "Por": "Temeroso. Esta âncora esta coberta de ferrugem, o inimigo dos Glitch."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/ocean/brokenanchor/brokenanchor.object": [
         "/floranDescription"
       ]
     },
@@ -81,17 +93,6 @@
     "Texts": {
       "Eng": "This anchor appears to be broken.",
       "Por": "Essa âncora parece estar quebrada."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/ocean/brokenanchor/brokenanchor.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This anchor is covered in rust, the enemy of the Glitch."
     }
   },
   {

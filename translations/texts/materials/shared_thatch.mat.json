@@ -18,6 +18,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/thatch.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/thatch.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Delighted. This thatch reminds me of a more simple time.",
+      "Por": "Encantado. Esta palha me lembra de um tempo mais simples."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/thatch.matitem": [
         "/florandescription"
       ],
       "tiles/materials/thatch.material": [
@@ -45,22 +60,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
-    "Files": {
-      "items/materials/thatch.matitem": [
-        "/glitchdescription/glitchEmotedText"
-      ],
-      "tiles/materials/thatch.material": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This thatch reminds me of a more simple time.",
-      "Por": "Essa palha me lembra de um tempo mais simples."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Telhado de palha tradicional "
+    ],
     "Files": {
       "items/materials/thatch.matitem": [
         "/description"

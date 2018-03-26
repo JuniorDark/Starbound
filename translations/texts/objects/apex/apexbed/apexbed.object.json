@@ -39,23 +39,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/apex/apexbed/apexbed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A useful station for recharging one's batteries."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/apex/apexbed/apexbed.object": [
         "/hylotlDescription"
       ]
     },
     "Texts": {
       "Eng": "How does one close one's eyes when surrounded by such ugliness?",
       "Por": "Como fechar os olhos quando estamos cercados por tamanha feiura?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/apex/apexbed/apexbed.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. A useful station for recharging one's batteries.",
+      "Por": "Atento. Uma estação útil para recarregar as baterias."
     }
   },
   {

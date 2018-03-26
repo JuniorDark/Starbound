@@ -39,6 +39,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/themed/pastel/pasteltable/pasteltable.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant. This table has been painted with a variety of pastel colours.",
+      "Por": "Observador. Esta mesa foi pintada com uma variedade de cores pastel."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/themed/pastel/pasteltable/pasteltable.object": [
         "/shortdescription"
       ]
     },
@@ -81,18 +93,6 @@
     "Texts": {
       "Eng": "This table has a very pleasant tablecloth.",
       "Por": "Esta mesa tem uma toalha de mesa muito agradável."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/themed/pastel/pasteltable/pasteltable.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This table has been painted with a variety of pastel colours.",
-      "Por": "Esta mesa foi pintada com uma variedade de cores pastel."
     }
   },
   {

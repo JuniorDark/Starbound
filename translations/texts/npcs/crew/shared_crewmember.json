@@ -3,6 +3,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/crew/crewmemberchemist.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0"
+      ],
+      "npcs/crew/crewmembermedic.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eager. I can help you out!",
+      "Por": "Ansioso. Eu posso ajudá-lo!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/crewmemberchemist.npctype": [
         "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/1"
       ],
       "npcs/crew/crewmembermedic.npctype": [
@@ -30,18 +45,20 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Útil. Pegue isso, ele vai ajudar!"
+    ],
     "Files": {
       "npcs/crew/crewmemberchemist.npctype": [
-        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0/glitchEmotedText"
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/3"
       ],
       "npcs/crew/crewmembermedic.npctype": [
-        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0/glitchEmotedText"
+        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/3"
       ]
     },
     "Texts": {
-      "Eng": "I can help you out!",
-      "Por": "Eu posso te ajudar!"
+      "Eng": "Helpful. Take this, it will help!",
+      "Por": "Prestativo. Pegue isso, ele vai ajudar!"
     }
   },
   {
@@ -61,7 +78,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Parece que você precisa do meu auxílio!"
+    ],
     "Files": {
       "npcs/crew/crewmemberchemist.npctype": [
         "/scriptConfig/dialog/crewmember/combatBenefit/default/default/2"
@@ -103,21 +122,6 @@
     "Texts": {
       "Eng": "Soldier",
       "Por": "Soldado"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "npcs/crew/crewmemberchemist.npctype": [
-        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/3/glitchEmotedText"
-      ],
-      "npcs/crew/crewmembermedic.npctype": [
-        "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/3/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "Take this, it will help!",
-      "Por": "Pegue isso, vai ajudar!"
     }
   }
 ]

@@ -15,6 +15,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/biome/scorchedcity/bombsheltershelf1/bombsheltershelf1.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Relieved. This shelf contains many useful items.",
+      "Por": "Aliviado. Esta prateleira contém muitos itens úteis."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/scorchedcity/bombsheltershelf1/bombsheltershelf1.object": [
         "/floranDescription"
       ]
     },
@@ -33,17 +45,6 @@
     "Texts": {
       "Eng": "Shelter Shelf",
       "Por": "Shelter Shelf"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/biome/scorchedcity/bombsheltershelf1/bombsheltershelf1.object": [
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This shelf contains many useful items."
     }
   },
   {

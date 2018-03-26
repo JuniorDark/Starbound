@@ -18,7 +18,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Alguns tijolos suaves."
+    ],
     "Files": {
       "items/materials/fadedblocks.matitem": [
         "/novakiddescription"

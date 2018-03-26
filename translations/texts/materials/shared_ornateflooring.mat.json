@@ -3,15 +3,15 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/ornateflooring.matitem": [
-        "/glitchdescription/glitchEmotedText"
+        "/glitchdescription"
       ],
       "tiles/materials/ornateflooring.material": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "A beautiful ornate wooden floor.",
-      "Por": "Um lindo piso de madeira ornamentado."
+      "Eng": "Charmed. A beautiful ornate wooden floor.",
+      "Por": "Encantado. Um belo piso de madeira ornamentado."
     }
   },
   {
@@ -41,7 +41,7 @@
     },
     "Texts": {
       "Eng": "Floran feelss fancy walking on ornate floor.",
-      "Por": "Floran se ssente chique caminhando em chão ornamentado."
+      "Por": "Floran se sente chique caminhando em chão ornamentado."
     }
   },
   {

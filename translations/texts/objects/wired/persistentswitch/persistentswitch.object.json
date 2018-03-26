@@ -3,6 +3,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/wired/persistentswitch/persistentswitch.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neutral. Once triggered this switch will remain in its switched state.",
+      "Por": "Neutro. Uma vez acionado, este interruptor permanecerá no seu estado de comutação."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/wired/persistentswitch/persistentswitch.object": [
         "/floranDescription"
       ]
     },
@@ -15,8 +27,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/wired/persistentswitch/persistentswitch.object": [
-        "/description",
-        "/glitchDescription/glitchEmotedText"
+        "/description"
       ]
     },
     "Texts": {

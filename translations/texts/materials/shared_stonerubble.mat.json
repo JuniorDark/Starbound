@@ -18,15 +18,15 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/materials/stonerubble.matitem": [
-        "/glitchdescription/glitchEmotedText"
+        "/glitchdescription"
       ],
       "tiles/materials/stonerubble.material": [
-        "/glitchDescription/glitchEmotedText"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "It appears the pieces in this rubble were part of a structure at one time.",
-      "Por": "Parece que as peças neste entulho faziam parte de uma estrutura."
+      "Eng": "Observant. It appears the pieces in this rubble were part of a structure at one time.",
+      "Por": "Observador. Parece que as peças neste entulho faziam parte de uma estrutura."
     }
   },
   {
@@ -60,7 +60,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Escombros de pedra que parece ser detritos de uma antiga estrutura."
+    ],
     "Files": {
       "items/materials/stonerubble.matitem": [
         "/description"
