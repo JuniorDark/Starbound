@@ -15,7 +15,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma elegante porta de metal. Eu aprecio seu design pontudo."
+    ],
     "Files": {
       "objects/space/stationdoor/stationdoor.object": [
         "/apexDescription"
@@ -26,7 +28,7 @@
     },
     "Texts": {
       "Eng": "A sleek metal door. I appreciate its pointed design.",
-      "Por": "Uma elegante porta de metal. Eu aprecio seu design pontudo."
+      "Por": "Uma porta de metal polido. Eu aprecio seu design pontudo."
     }
   },
   {
@@ -90,7 +92,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Esta é uma porta de metal bem fabricada!"
+    ],
     "Files": {
       "objects/space/stationdoor/stationdoor.object": [
         "/avianDescription"
@@ -101,7 +105,7 @@
     },
     "Texts": {
       "Eng": "This is a rather well-made metal door!",
-      "Por": "Esta é uma porta de metal bem fabricada!"
+      "Por": "Esta é uma porta de metal bastante bem feita!"
     }
   }
 ]

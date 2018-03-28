@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Estalactite de Rocha."
+    ],
     "Files": {
       "plants/bushes/ceiling/ceilingstalactite/ceilingstalactite.bush": [
         "/shortdescription"
@@ -8,11 +10,13 @@
     },
     "Texts": {
       "Eng": "Rock Stalactite.",
-      "Por": "Estalactite de Rocha."
+      "Por": "Rock Stalactite."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Estacas de rochas."
+    ],
     "Files": {
       "plants/bushes/ceiling/ceilingstalactite/ceilingstalactite.bush": [
         "/floranDescription"
@@ -20,7 +24,7 @@
     },
     "Texts": {
       "Eng": "Rock ssspikes.",
-      "Por": "Estacas de rochas."
+      "Por": "Espinhoss de rocha."
     }
   },
   {

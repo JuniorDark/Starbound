@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "test fishes with legs"
+    ],
     "Files": {
       "quests/generated/pools/capturablemonsters.config": [
         "/0/1/0/1/name"
@@ -8,7 +10,7 @@
     },
     "Texts": {
       "Eng": "test fishes with legs",
-      "Por": "test fishes with legs"
+      "Por": "teste peixes com pernas"
     }
   }
 ]

@@ -96,7 +96,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "O tamanho da tela do console facilita a leitura das informações."
+    ],
     "Files": {
       "objects/space/astroconsole/astroconsole.object": [
         "/hylotlDescription"
@@ -104,7 +106,7 @@
     },
     "Texts": {
       "Eng": "This size of this console display makes reading information very easy.",
-      "Por": "O tamanho da tela do console facilita a leitura das informações."
+      "Por": "O tamanho da tela desse console facilita a leitura das informações."
     }
   }
 ]

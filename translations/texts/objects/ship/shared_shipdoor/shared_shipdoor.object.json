@@ -32,7 +32,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma porta."
+    ],
     "Files": {
       "objects/ship/apexshipdoor/apexshipdoor.object": [
         "/novakidDescription"
@@ -58,7 +60,7 @@
     },
     "Texts": {
       "Eng": "A door, the type you'd find on a ship.",
-      "Por": "Uma porta."
+      "Por": "Uma porta, o tipo que você encontraria em um a nave."
     }
   },
   {
@@ -101,7 +103,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Estas portas são usadas em todas as nossas naves."
+    ],
     "Files": {
       "objects/ship/apexshipdoor/apexshipdoor.object": [
         "/apexDescription"
@@ -127,7 +131,7 @@
     },
     "Texts": {
       "Eng": "Doors like this are common on ships.",
-      "Por": "Estas portas são usadas em todas as nossas naves."
+      "Por": "Portas como esta são comuns em naves."
     }
   },
   {

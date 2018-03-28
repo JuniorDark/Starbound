@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "A protuberância estranha."
+    ],
     "Files": {
       "plants/bushes/ceiling/ceilingbuglike/ceilingbuglike.bush": [
         "/description",
@@ -9,11 +11,13 @@
     },
     "Texts": {
       "Eng": "A weird protrusion.",
-      "Por": "A protuberância estranha."
+      "Por": "Uma protrusão estranha."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Forma assustadorasss."
+    ],
     "Files": {
       "plants/bushes/ceiling/ceilingbuglike/ceilingbuglike.bush": [
         "/floranDescription"
@@ -21,7 +25,7 @@
     },
     "Texts": {
       "Eng": "Creepy ssshape.",
-      "Por": "Forma assustadorasss."
+      "Por": "Forma assustadora."
     }
   },
   {

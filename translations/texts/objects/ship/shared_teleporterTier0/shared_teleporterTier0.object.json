@@ -30,7 +30,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Teletransportador de nave. Este esta morto."
+    ],
     "Files": {
       "objects/ship/avianteleporterTier0/avianteleporterTier0.object": [
         "/floranDescription"
@@ -56,11 +58,13 @@
     },
     "Texts": {
       "Eng": "Ship teleporter. This one dead.",
-      "Por": "Teletransportador de nave. Este esta morto."
+      "Por": "Teletransportador da nave. Este esta morto."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Teletransportador de nave. Preciso energizá-lo!"
+    ],
     "Files": {
       "objects/ship/avianteleporterTier0/avianteleporterTier0.object": [
         "/novakidDescription"
@@ -86,11 +90,13 @@
     },
     "Texts": {
       "Eng": "Ship's teleporter. I need to power her up!",
-      "Por": "Teletransportador de nave. Preciso energizá-lo!"
+      "Por": "Teletransportador da nave. Preciso energizá-lo!"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "O teletransportador do nave. Preciso energizá-lo."
+    ],
     "Files": {
       "objects/ship/avianteleporterTier0/avianteleporterTier0.object": [
         "/apexDescription"
@@ -116,11 +122,13 @@
     },
     "Texts": {
       "Eng": "The ship's teleporter. I need to power it up.",
-      "Por": "O teletransportador do nave. Preciso energizá-lo."
+      "Por": "O teletransportador da nave. Preciso energizá-lo."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "O teletransportador! Se este estivesse ligado."
+    ],
     "Files": {
       "objects/ship/avianteleporterTier0/avianteleporterTier0.object": [
         "/avianDescription"
@@ -146,11 +154,13 @@
     },
     "Texts": {
       "Eng": "The teleporter! If only this one was powered up.",
-      "Por": "O teletransportador! Se este estivesse ligado."
+      "Por": "O teletransportador! Se este estivesse energizado."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "O teletransportador! Pena que não está ligado."
+    ],
     "Files": {
       "objects/ship/avianteleporterTier0/avianteleporterTier0.object": [
         "/humanDescription"
@@ -176,7 +186,7 @@
     },
     "Texts": {
       "Eng": "The teleporter! Too bad it isn't powered up.",
-      "Por": "O teletransportador! Pena que não está ligado."
+      "Por": "O teletransportador! Pena que não está energizado."
     }
   },
   {

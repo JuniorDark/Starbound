@@ -60,7 +60,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma escotilha."
+    ],
     "Files": {
       "objects/ship/apexshipdoor/apexshiphatch.object": [
         "/novakidDescription"
@@ -86,7 +88,7 @@
     },
     "Texts": {
       "Eng": "A hatch, the type you'd find on a ship.",
-      "Por": "Uma escotilha."
+      "Por": "Uma escotilha. o tipo que você encontraria em um nave."
     }
   },
   {
@@ -130,7 +132,8 @@
   },
   {
     "DeniedAlternatives": [
-      "Essas escotilhas são usadas em todas as nossas naves."
+      "Essas escotilhas são usadas em todas as nossas naves.",
+      "Estas escotilhas são usadas em todas as nossas naves."
     ],
     "Files": {
       "objects/ship/apexshipdoor/apexshiphatch.object": [
@@ -157,7 +160,7 @@
     },
     "Texts": {
       "Eng": "Hatch designs like this are common on ships.",
-      "Por": "Estas escotilhas são usadas em todas as nossas naves."
+      "Por": "Escotilhas como essa são comuns em naves."
     }
   },
   {

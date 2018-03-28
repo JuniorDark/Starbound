@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma caixa de carga pressurizada, projetada para suportar as condições da viagem espacial."
+    ],
     "Files": {
       "objects/space/industrialcrate/industrialcrate.object": [
         "/description"

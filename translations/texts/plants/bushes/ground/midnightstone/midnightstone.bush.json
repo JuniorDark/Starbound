@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Estas pedras são feitas por ventos uivantes.."
+    ],
     "Files": {
       "plants/bushes/ground/midnightstone/midnightstone.bush": [
         "/description"
@@ -20,11 +22,13 @@
     },
     "Texts": {
       "Eng": "These stones are shaped by the howling winds..",
-      "Por": "Estas pedras são feitas por ventos uivantes.."
+      "Por": "Estas pedras são feitas por ventos uivantes."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Pedras encharcadas."
+    ],
     "Files": {
       "plants/bushes/ground/midnightstone/midnightstone.bush": [
         "/shortdescription"
@@ -32,7 +36,7 @@
     },
     "Texts": {
       "Eng": "Weathered stones.",
-      "Por": "Pedras encharcadas."
+      "Por": "Weathered stones."
     }
   }
 ]

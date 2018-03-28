@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "^shadow;$dmg$ "
+    ],
     "Files": {
       "particles/damagenumbers/damagenumber.particle": [
         "/definition/text"
@@ -53,7 +55,7 @@
     },
     "Texts": {
       "Eng": "^shadow;$dmg$",
-      "Por": "^shadow;$dmg$ "
+      "Por": "^shadow;$dmg$"
     }
   }
 ]

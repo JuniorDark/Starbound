@@ -63,7 +63,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Um teletransportador pessoal, ostenta um design personalizado."
+    ],
     "Files": {
       "objects/teleporter/blackteleporter/blackteleporter.object": [
         "/hylotlDescription"
@@ -92,11 +94,13 @@
     },
     "Texts": {
       "Eng": "A personal teleporter, it sports a custom design.",
-      "Por": "Um teletransportador pessoal, ostenta um design personalizado."
+      "Por": "Um teletransportador pessoal, ele ostenta um design personalizado."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Um teletransportador pessoal. Uma peça de equipamento divertida."
+    ],
     "Files": {
       "objects/teleporter/blackteleporter/blackteleporter.object": [
         "/apexDescription"
@@ -125,7 +129,7 @@
     },
     "Texts": {
       "Eng": "A personal teleporter. A functional but fun piece of equipment.",
-      "Por": "Um teletransportador pessoal. Uma peça de equipamento divertida."
+      "Por": "Um teletransportador pessoal. Uma peça de equipamento funcional e divertida."
     }
   },
   {

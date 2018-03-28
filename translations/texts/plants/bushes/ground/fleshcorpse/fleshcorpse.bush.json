@@ -13,7 +13,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Deixe os corpos caírem no chão!"
+    ],
     "Files": {
       "plants/bushes/ground/fleshcorpse/fleshcorpse.bush": [
         "/floranDescription"
@@ -21,7 +23,7 @@
     },
     "Texts": {
       "Eng": "Let the bodiesss hit the floor!",
-      "Por": "Deixe os corpos caírem no chão!"
+      "Por": "Deixe os corposss caírem no chão!"
     }
   },
   {

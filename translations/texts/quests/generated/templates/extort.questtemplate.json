@@ -84,7 +84,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Mr. Extorquido"
+    ],
     "Files": {
       "quests/generated/templates/extort.questtemplate": [
         "/parameters/target/example/name"
@@ -92,7 +94,7 @@
     },
     "Texts": {
       "Eng": "Ms Extorted",
-      "Por": "Mr. Extorquido"
+      "Por": "Sr. Extorção"
     }
   },
   {

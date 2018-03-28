@@ -15,7 +15,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Um osso."
+    ],
     "Files": {
       "plants/grass/ground/decorative/fleshbone/fleshbone.grass": [
         "/shortdescription"
@@ -26,7 +28,7 @@
     },
     "Texts": {
       "Eng": "A bone.",
-      "Por": "Um osso."
+      "Por": "A bone."
     }
   },
   {

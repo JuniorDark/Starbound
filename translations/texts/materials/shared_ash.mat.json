@@ -45,7 +45,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Pilha grande de cinzas."
+    ],
     "Files": {
       "items/materials/ash.matitem": [
         "/novakiddescription"
@@ -56,7 +58,7 @@
     },
     "Texts": {
       "Eng": "Big ol' pile of ash.",
-      "Por": "Pilha grande de cinzas."
+      "Por": "Grande pilha de cinzas."
     }
   },
   {

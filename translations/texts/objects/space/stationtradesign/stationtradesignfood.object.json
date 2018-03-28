@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma placa que marca uma estação de comida."
+    ],
     "Files": {
       "objects/space/stationtradesign/stationtradesignfood.object": [
         "/humanDescription"
@@ -12,7 +14,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma placa com uma imagem de utensílios de comida, indicando uma estação de comida."
+    ],
     "Files": {
       "objects/space/stationtradesign/stationtradesignfood.object": [
         "/description"
@@ -60,7 +64,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Acho que esta placa significa que deve haver uma estação de comida por aqui."
+    ],
     "Files": {
       "objects/space/stationtradesign/stationtradesignfood.object": [
         "/novakidDescription"
@@ -72,7 +78,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Placas como esta geralmente significam que há uma estação de comida próxima."
+    ],
     "Files": {
       "objects/space/stationtradesign/stationtradesignfood.object": [
         "/hylotlDescription"
@@ -84,7 +92,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Esta placa indica uma estação de comida."
+    ],
     "Files": {
       "objects/space/stationtradesign/stationtradesignfood.object": [
         "/avianDescription"
@@ -96,7 +106,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Esta placa destina-se a indicar uma estação de comida."
+    ],
     "Files": {
       "objects/space/stationtradesign/stationtradesignfood.object": [
         "/apexDescription"

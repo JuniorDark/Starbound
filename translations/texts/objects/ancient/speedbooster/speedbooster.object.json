@@ -60,7 +60,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Gás verde de cheiro doce aumenta sua velocidade de corrida."
+    ],
     "Files": {
       "objects/ancient/speedbooster/speedbooster.object": [
         "/avianDescription"
@@ -68,7 +70,7 @@
     },
     "Texts": {
       "Eng": "Sweet smelling green gas puts a zip in my step.",
-      "Por": "Gás verde de cheiro doce aumenta sua velocidade de corrida."
+      "Por": "Gás verde de cheiro doce aumenta minha velocidade de corrida."
     }
   },
   {

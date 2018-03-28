@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Prepotente. Nós Glitch somos utilizados para consertar máquinas muito mais complexas do que as coisas que você vê aqui."
+    ],
     "Files": {
       "npcs/outpost/outpostglitchmechanic.npctype": [
         "/scriptConfig/dialog/converse/default/default/0",
@@ -9,7 +11,7 @@
     },
     "Texts": {
       "Eng": "Boastful. We Glitch are used to fixing machinery far more complex than the stuff you see here.",
-      "Por": "Prepotente. Nós Glitch somos utilizados para consertar máquinas muito mais complexas do que as coisas que você vê aqui."
+      "Por": "Orgulhoso. Nós Glitch estamos acostumados a consertar máquinas muito mais complexas do que as coisas que você vê aqui."
     }
   },
   {

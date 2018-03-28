@@ -361,7 +361,9 @@
   },
   {
     "DeniedAlternatives": [
-      "Sistema desligado, favor reinicie."
+      "Por favor reinicie o sistema.",
+      "Sistema desligado, favor reinicie.",
+      "Sistema desligado, por favor reinicie.\""
     ],
     "Files": {
       "objects/ship/aviantechstation/aviantechstation.object": [
@@ -388,7 +390,7 @@
     },
     "Texts": {
       "Eng": "System is down, please reboot.",
-      "Por": "Por favor reinicie o sistema."
+      "Por": "Sistema desligado, por favor reinicie."
     }
   },
   {

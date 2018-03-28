@@ -45,7 +45,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Metal aparafusado forte."
+    ],
     "Files": {
       "items/materials/apexshipdetails.matitem": [
         "/florandescription"
@@ -56,7 +58,7 @@
     },
     "Texts": {
       "Eng": "Ssstrong bolted metal.",
-      "Por": "Metal aparafusado forte."
+      "Por": "Metal parafusssado forte."
     }
   },
   {

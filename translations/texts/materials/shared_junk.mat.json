@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Um velho monte de lixo."
+    ],
     "Files": {
       "items/materials/junk.matitem": [
         "/novakiddescription"
@@ -11,7 +13,7 @@
     },
     "Texts": {
       "Eng": "An ol' heap of garbage.",
-      "Por": "Um velho monte de lixo."
+      "Por": "Um monte de lixo."
     }
   },
   {

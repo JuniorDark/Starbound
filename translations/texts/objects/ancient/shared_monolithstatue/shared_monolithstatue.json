@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma grande representação de um ser. Talvez um falso deus antigo?"
+    ],
     "Files": {
       "objects/ancient/monolithstatue1/monolithstatue1.object": [
         "/avianDescription"
@@ -11,11 +13,13 @@
     },
     "Texts": {
       "Eng": "A grand depiction of a being. Perhaps a false god of old?",
-      "Por": "Uma grande representação de um ser. Talvez um falso deus antigo?"
+      "Por": "Uma grande representação de um ser. Talvez um falso deus ancião?"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma misteriosa estátua antiga."
+    ],
     "Files": {
       "objects/ancient/monolithstatue1/monolithstatue1.object": [
         "/description"
@@ -26,11 +30,13 @@
     },
     "Texts": {
       "Eng": "A mysterious ancient statue.",
-      "Por": "Uma misteriosa estátua antiga."
+      "Por": "Uma estátua antiga misteriosa."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma estátua velha, como um fantasma do passado, mexendo em memórias já desaparecidas."
+    ],
     "Files": {
       "objects/ancient/monolithstatue1/monolithstatue1.object": [
         "/novakidDescription"
@@ -41,11 +47,13 @@
     },
     "Texts": {
       "Eng": "An old statue, like a ghost of the past, stirrin' memories long gone.",
-      "Por": "Uma estátua velha, como um fantasma do passado, mexendo em memórias já desaparecidas."
+      "Por": "Uma estátua antiga, como um fantasma do passado, despertando memórias há muito tempo esquecidas."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Projeto grosseiro, mas distinto. Uma estátua Hylotl teria envelhecido melhor."
+    ],
     "Files": {
       "objects/ancient/monolithstatue1/monolithstatue1.object": [
         "/hylotlDescription"
@@ -56,7 +64,7 @@
     },
     "Texts": {
       "Eng": "Crude but distinct in design. A Hylotl statue would have aged better.",
-      "Por": "Projeto grosseiro, mas distinto. Uma estátua Hylotl teria envelhecido melhor."
+      "Por": "Projeto imperfeito, mas distinto. Uma estátua Hylotl teria envelhecido melhor."
     }
   },
   {

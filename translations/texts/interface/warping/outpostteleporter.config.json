@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Outpost - 2 Stop Teleshop"
+    ],
     "Files": {
       "interface/warping/outpostteleporter.config": [
         "/bookmarkName"

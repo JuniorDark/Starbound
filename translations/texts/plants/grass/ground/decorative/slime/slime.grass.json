@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Um lodo grande e viscoso."
+    ],
     "Files": {
       "plants/grass/ground/decorative/slime/slime.grass": [
         "/description"
@@ -8,7 +10,7 @@
     },
     "Texts": {
       "Eng": "Gross, sticky slime.",
-      "Por": "Um lodo grande e viscoso."
+      "Por": "Lodo nojento e grudento."
     }
   },
   {
@@ -24,7 +26,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Um lodo viscoso."
+    ],
     "Files": {
       "plants/grass/ground/decorative/slime/slime.grass": [
         "/shortdescription"
@@ -32,7 +36,7 @@
     },
     "Texts": {
       "Eng": "Sticky slime.",
-      "Por": "Um lodo viscoso."
+      "Por": "Sticky slime."
     }
   }
 ]

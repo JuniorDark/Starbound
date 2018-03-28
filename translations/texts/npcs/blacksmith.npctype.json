@@ -60,7 +60,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Mal-humorado. Parece que eu vou ter que sujar a minha bela arma nova."
+    ],
     "Files": {
       "npcs/blacksmith.npctype": [
         "/scriptConfig/dialog/attack/default/default/0",
@@ -69,7 +71,7 @@
     },
     "Texts": {
       "Eng": "Sullen. Looks like I'll be messin' up me nice new weapon.",
-      "Por": "Mal-humorado. Parece que eu vou ter que sujar a minha bela arma nova."
+      "Por": "Carrancudo. Parece que vou estragar minha nova arma legal."
     }
   },
   {

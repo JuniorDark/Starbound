@@ -30,7 +30,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma longa luz fluorescente de aparência industrial."
+    ],
     "Files": {
       "objects/space/stationlight/stationlighth.object": [
         "/description"
@@ -41,7 +43,7 @@
     },
     "Texts": {
       "Eng": "A long industrial looking fluorescent light.",
-      "Por": "Uma longa luz fluorescente de aparência industrial."
+      "Por": "Uma luz fluorescente de aparência industrial."
     }
   },
   {

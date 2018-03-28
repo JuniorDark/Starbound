@@ -60,7 +60,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Azulejos feitos de pedra polida com suavidade."
+    ],
     "Files": {
       "items/materials/stonetiles.matitem": [
         "/description"
@@ -71,7 +73,7 @@
     },
     "Texts": {
       "Eng": "Tiles made from smoothly polished stone.",
-      "Por": "Azulejos feitos de pedra polida com suavidade."
+      "Por": "Azulejos feitos de pedra polida suavimente."
     }
   }
 ]

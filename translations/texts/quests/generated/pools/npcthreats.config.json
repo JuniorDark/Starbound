@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "invasores Avian"
+    ],
     "Files": {
       "quests/generated/pools/npcthreats.config": [
         "/0/1/14/1/name"
@@ -20,7 +22,7 @@
     },
     "Texts": {
       "Eng": "Avian raiders",
-      "Por": "invasores Avian"
+      "Por": "Invasores Avian"
     }
   },
   {
@@ -74,7 +76,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Fanaticos Kluex"
+    ],
     "Files": {
       "quests/generated/pools/npcthreats.config": [
         "/0/1/15/1/name",

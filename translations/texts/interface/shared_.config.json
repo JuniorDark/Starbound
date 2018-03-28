@@ -420,7 +420,9 @@
   },
   {
     "Comment": "Expressão regular (não para tradução, mas para apoiar nomes em alfabeto cirílico)",
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Outpost - 2 Stop Teleshop"
+    ],
     "Files": {
       "interface/objectcrafting/fossilstation.config": [
         "/paneLayout/tbSpinCount/regex"
@@ -485,7 +487,7 @@
     },
     "Texts": {
       "Eng": "x?\\d{0,4}",
-      "Por": "Outpost - 2 Stop Teleshop"
+      "Por": "x?\\d{0,4}"
     }
   }
 ]

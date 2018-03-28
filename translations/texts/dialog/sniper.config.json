@@ -24,7 +24,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Morra mais rápido, estou ficando entediado."
+    ],
     "Files": {
       "dialog/sniper.config": [
         "/attack/novakid/default/8"
@@ -32,7 +34,7 @@
     },
     "Texts": {
       "Eng": "Die faster, I'm getting bored.",
-      "Por": "Morra mais rápido, estou ficando entediado."
+      "Por": "Morra rápido, estou ficando entediado."
     }
   },
   {
@@ -84,7 +86,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Floran atira em forasteiro!"
+    ],
     "Files": {
       "dialog/sniper.config": [
         "/attack/floran/default/0"
@@ -92,11 +96,13 @@
     },
     "Texts": {
       "Eng": "Floran shoot outsssider!",
-      "Por": "Floran atira em forasteiro!"
+      "Por": "Floran atira em forasssteiro!"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Volte aqui! Eu quero atirar em ocê!"
+    ],
     "Files": {
       "dialog/sniper.config": [
         "/attack/novakid/default/6"
@@ -104,7 +110,7 @@
     },
     "Texts": {
       "Eng": "Get back here! I wanna shoot you!",
-      "Por": "Volte aqui! Eu quero atirar em ocê!"
+      "Por": "Volte aqui! Quero atirar no cê!"
     }
   },
   {

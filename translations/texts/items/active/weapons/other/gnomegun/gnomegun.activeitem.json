@@ -24,7 +24,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Diga olá para meu pequeno amigo!"
+    ],
     "Files": {
       "items/active/weapons/other/gnomegun/gnomegun.activeitem": [
         "/description"

@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Um aumento natural estranho."
+    ],
     "Files": {
       "plants/grass/ground/decorative/tiberia/tiberia.grass": [
         "/description"
@@ -8,11 +10,13 @@
     },
     "Texts": {
       "Eng": "A strange natural growth.",
-      "Por": "Um aumento natural estranho."
+      "Por": "Uma formação natural estranha."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Os Floran não sabem o que isso é."
+    ],
     "Files": {
       "plants/grass/ground/decorative/tiberia/tiberia.grass": [
         "/floranDescription"
@@ -20,7 +24,7 @@
     },
     "Texts": {
       "Eng": "Floran not sure what this is.",
-      "Por": "Os Floran não sabem o que isso é."
+      "Por": "Floran não sabe o que é isso."
     }
   },
   {
@@ -36,7 +40,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Um aumento estranho."
+    ],
     "Files": {
       "plants/grass/ground/decorative/tiberia/tiberia.grass": [
         "/shortdescription"
@@ -44,7 +50,7 @@
     },
     "Texts": {
       "Eng": "Strange growth.",
-      "Por": "Um aumento estranho."
+      "Por": "Strange growth."
     }
   }
 ]

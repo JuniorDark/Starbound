@@ -35,7 +35,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Floreado."
+    ],
     "Files": {
       "plants/bushes/ground/flowery/flowery.bush": [
         "/description",
@@ -48,7 +50,7 @@
     },
     "Texts": {
       "Eng": "Flowery.",
-      "Por": "Floreado."
+      "Por": "Florido."
     }
   },
   {

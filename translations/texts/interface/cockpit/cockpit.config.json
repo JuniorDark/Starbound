@@ -761,7 +761,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "perigosa"
+    ],
     "Files": {
       "interface/cockpit/cockpit.config": [
         "/gui/planetinfo/children/inner/children/threatValue/value"
@@ -769,7 +771,7 @@
     },
     "Texts": {
       "Eng": "dangerous",
-      "Por": "perigosa"
+      "Por": "perigoso"
     }
   }
 ]

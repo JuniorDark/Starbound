@@ -1,7 +1,9 @@
 [
   {
     "DeniedAlternatives": [
-      "Agora, está á procura de algo?"
+      "Agora, então, o que você estava procurando?",
+      "Agora, está á procura de algo?",
+      "Então,"
     ],
     "Files": {
       "npcs/dungeon/avianairship/airshipquartermaster.npctype": [
@@ -13,7 +15,7 @@
     },
     "Texts": {
       "Eng": "Now then, what were ya lookin' for?",
-      "Por": "Agora, então, o que você estava procurando?"
+      "Por": "Então, o que ocê tava procurando?"
     }
   }
 ]

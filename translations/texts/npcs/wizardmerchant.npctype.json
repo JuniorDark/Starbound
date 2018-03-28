@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Bruxo"
+    ],
     "Files": {
       "npcs/wizardmerchant.npctype": [
         "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title"
@@ -20,7 +22,7 @@
     },
     "Texts": {
       "Eng": "  Wizard",
-      "Por": "Bruxo"
+      "Por": "Feiticeiro"
     }
   },
   {
@@ -156,7 +158,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Que tal algo maravilhoso, não é?"
+    ],
     "Files": {
       "npcs/wizardmerchant.npctype": [
         "/scriptConfig/dialog/merchant/start/apex/default/3"
@@ -164,7 +168,7 @@
     },
     "Texts": {
       "Eng": "How about something wondrous, eh?",
-      "Por": "Que tal algo maravilhoso, não é?"
+      "Por": "Que tal algo maravilhoso, eh?"
     }
   },
   {

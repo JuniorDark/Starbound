@@ -60,7 +60,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Algum bambu cortado"
+    ],
     "Files": {
       "items/materials/bamboo.matitem": [
         "/novakiddescription"
@@ -71,7 +73,7 @@
     },
     "Texts": {
       "Eng": "Some chopped bamboo.",
-      "Por": "Algum bambu cortado"
+      "Por": "Alguns bambus cortados."
     }
   }
 ]

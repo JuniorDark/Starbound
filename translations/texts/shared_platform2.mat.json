@@ -15,7 +15,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Platformasss."
+    ],
     "Files": {
       "items/materials/platform2.matitem": [
         "/florandescription"
@@ -26,7 +28,7 @@
     },
     "Texts": {
       "Eng": "Platformsss.",
-      "Por": "Platformasss."
+      "Por": "Plataformasss."
     }
   }
 ]

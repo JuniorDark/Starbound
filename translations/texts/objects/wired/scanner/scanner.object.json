@@ -36,7 +36,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "É um dispositivo de proximidade. Isso vai sentir quando eu chegar perto disso."
+    ],
     "Files": {
       "objects/wired/scanner/scanner.object": [
         "/apexDescription"
@@ -44,11 +46,13 @@
     },
     "Texts": {
       "Eng": "It's a proximity device. It'll sense when I get close to it.",
-      "Por": "É um dispositivo de proximidade. Isso vai sentir quando eu chegar perto disso."
+      "Por": "É um dispositivo de proximidade. Vai sentir quando eu chegar perto."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Perfeito para todas as suas necessidades automatizadas de porta!"
+    ],
     "Files": {
       "objects/wired/scanner/scanner.object": [
         "/description"
@@ -56,7 +60,7 @@
     },
     "Texts": {
       "Eng": "Perfect for all your automated door needs!",
-      "Por": "Perfeito para todas as suas necessidades automatizadas de porta!"
+      "Por": "Perfeito para todas as suas necessidades de portas automatizadas!"
     }
   },
   {

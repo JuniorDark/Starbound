@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Esta viga de metal parece muito forte."
+    ],
     "Files": {
       "items/materials/pressurisedbeam.matitem": [
         "/novakiddescription"
@@ -8,7 +10,7 @@
     },
     "Texts": {
       "Eng": "This metal beam looks mighty strong.",
-      "Por": "Esta viga de metal parece muito forte."
+      "Por": "Esta viga de metal parece fortíssima."
     }
   }
 ]

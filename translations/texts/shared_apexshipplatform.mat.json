@@ -45,7 +45,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Plataforma da nave forte."
+    ],
     "Files": {
       "items/materials/apexshipplatform.matitem": [
         "/florandescription"
@@ -56,7 +58,7 @@
     },
     "Texts": {
       "Eng": "Sstrong sship platform.",
-      "Por": "Plataforma da nave forte."
+      "Por": "Plataforma de nave forte."
     }
   },
   {

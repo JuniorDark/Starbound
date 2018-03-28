@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma flor de selva."
+    ],
     "Files": {
       "plants/grass/ground/decorative/jungleflower1/jungleflower1.grass": [
         "/shortdescription"
@@ -17,11 +19,13 @@
     },
     "Texts": {
       "Eng": "A jungle flower.",
-      "Por": "Uma flor de selva."
+      "Por": "A jungle flower."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma flor exótica de selva."
+    ],
     "Files": {
       "plants/grass/ground/decorative/jungleflower1/jungleflower1.grass": [
         "/description"
@@ -38,7 +42,7 @@
     },
     "Texts": {
       "Eng": "An exotic jungle flower.",
-      "Por": "Uma flor exótica de selva."
+      "Por": "Uma flor exótica da selva."
     }
   },
   {

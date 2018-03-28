@@ -696,7 +696,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uso /unbanip endereço. Remove as entradas com o endereço especificado de listas de banimento temporárias e permanentes."
+    ],
     "Files": {
       "help.config": [
         "/adminCommands/unbanip"
@@ -708,7 +710,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uso /unbanuuid uuid. Remove as entradas com o uuid especificado de listas de banimento temporárias e permanentes."
+    ],
     "Files": {
       "help.config": [
         "/adminCommands/unbanuuiud"

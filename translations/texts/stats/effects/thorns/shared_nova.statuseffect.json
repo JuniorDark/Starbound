@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "thorns"
+    ],
     "Files": {
       "stats/effects/thorns/enemynova.statuseffect": [
         "/label"

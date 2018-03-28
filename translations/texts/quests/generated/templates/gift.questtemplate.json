@@ -132,7 +132,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Amigos Amigáveis"
+    ],
     "Files": {
       "quests/generated/templates/gift.questtemplate": [
         "/parameters/target/example/name"
@@ -140,7 +142,7 @@
     },
     "Texts": {
       "Eng": "Friendly Friendson",
-      "Por": "Amigos Amigáveis"
+      "Por": "Amigo Amigável"
     }
   },
   {
@@ -300,7 +302,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ok, em seguida vamoss ^green;dar a ^orange;<target> ^green;um troféu de caça!^white; Floran comeu o último troféu de caça de Floran, então esse ^orange;<gift> ^white;\r\nterá que servir. Floran ainda acha que <target.pronoun.subject> vai ficar impressionado!"
+    ],
     "Files": {
       "quests/generated/templates/gift.questtemplate": [
         "/scriptConfig/generatedText/text/next/floran/1"
@@ -308,7 +312,7 @@
     },
     "Texts": {
       "Eng": "Okay, next let'ss ^green;give ^orange;<target> ^green;a hunting trophy!^white; Floran ate Floran's last hunting trophy, so this ^orange;<gift> ^white;will have to do. Floran still thinks <target.pronoun.subject> will be impressed!",
-      "Por": "Ok, em seguida vamoss ^green;dar a ^orange;<target> ^green;um troféu de caça!^white; Floran comeu o último troféu de caça de Floran, então esse ^orange;<gift> ^white;\r\nterá que servir. Floran ainda acha que <target.pronoun.subject> vai ficar impressionado!"
+      "Por": "Ok, em seguida vamoss ^green;dar a ^orange;<target> ^green;um troféu de caça!^white; Floran comeu o último troféu de caça de Floran, então esse ^orange;<gift> ^white;\nterá que servir. Floran ainda acha que <target.pronoun.subject> vai ficar impressionado!"
     }
   },
   {

@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Se pendurado em um edifício fechado com uma porta e uma luz, alguém vai se mudar e torná-lo sua casa."
+    ],
     "Files": {
       "objects/spawner/colonydeed/colonydeed.object": [
         "/hylotlDescription"
@@ -8,11 +10,13 @@
     },
     "Texts": {
       "Eng": "If hung in an enclosed building with a door and a light, someone will move in and make it their home.",
-      "Por": "Se pendurado em um edifício fechado com uma porta e uma luz, alguém vai se mudar e torná-lo sua casa."
+      "Por": "Se pendurado em uma construção fechada com uma porta e uma luz, alguém vai se mudar e torná-la sua casa."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Se colocado em um edifício com uma porta e uma luz que vai incentivar alguém para se deslocar."
+    ],
     "Files": {
       "objects/spawner/colonydeed/colonydeed.object": [
         "/apexDescription"
@@ -20,7 +24,7 @@
     },
     "Texts": {
       "Eng": "If placed in a building with a door and a light it will encourage someone to move in.",
-      "Por": "Se colocado em um edifício com uma porta e uma luz que vai incentivar alguém para se deslocar."
+      "Por": "Se colocado em uma construção com uma porta e uma luz, isso encorajará alguém a se mudar."
     }
   },
   {
@@ -48,7 +52,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Tela para pendurar na parede do edifício. Faz alguém se mudar para casa!"
+    ],
     "Files": {
       "objects/spawner/colonydeed/colonydeed.object": [
         "/floranDescription"
@@ -56,11 +62,13 @@
     },
     "Texts": {
       "Eng": "Ssscreen to hang on building wall. Makes sssomeone move into home!",
-      "Por": "Tela para pendurar na parede do edifício. Faz alguém se mudar para casa!"
+      "Por": "Tela para pendurar na parede da casa. Faz alguém se mudar para casa!"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Estes são ótimos para expandir uma colônia. Colocá-lo em um edifício com uma porta e uma luz e alguém vai se mover."
+    ],
     "Files": {
       "objects/spawner/colonydeed/colonydeed.object": [
         "/humanDescription"
@@ -68,11 +76,13 @@
     },
     "Texts": {
       "Eng": "These are great for expanding a colony. Place it in a building with a door and a light and someone will move in.",
-      "Por": "Estes são ótimos para expandir uma colônia. Colocá-lo em um edifício com uma porta e uma luz e alguém vai se mover."
+      "Por": "Estes são ótimos para expandir uma colônia. Coloque-a em uma construção com uma porta e uma luz e alguém vai se mudar."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Este dispositivo irá convidar alguém para entrar no edifício. Apenas certifique-se que há uma porta e uma luz."
+    ],
     "Files": {
       "objects/spawner/colonydeed/colonydeed.object": [
         "/avianDescription"
@@ -80,11 +90,13 @@
     },
     "Texts": {
       "Eng": "This device will invite someone to move into the building. Just make sure there's a door and a light.",
-      "Por": "Este dispositivo irá convidar alguém para entrar no edifício. Apenas certifique-se que há uma porta e uma luz."
+      "Por": "Este dispositivo irá convidar alguém para morar na construção. Apenas certifique-se que haja uma porta e uma luz."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Com uma escritura de colônia, alguém entrará no prédio. Apenas certifique-se que o edifício tem uma porta e uma fonte de luz."
+    ],
     "Files": {
       "objects/spawner/colonydeed/colonydeed.object": [
         "/novakidDescription"
@@ -92,7 +104,7 @@
     },
     "Texts": {
       "Eng": "With a colony deed someone'll move into the building. Just make sure the building has a door an' a light source.",
-      "Por": "Com uma escritura de colônia, alguém entrará no prédio. Apenas certifique-se que o edifício tem uma porta e uma fonte de luz."
+      "Por": "Com uma colony deed, alguém se mudara para a construção. Apenas certifique-se que a construção tenha uma porta e uma fonte de luz."
     }
   },
   {

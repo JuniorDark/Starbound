@@ -36,7 +36,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Rainbow Wood não esssfaqueada."
+    ],
     "Files": {
       "tiles/materials/rainbowwood.material": [
         "/floranDescription"
@@ -44,7 +46,7 @@
     },
     "Texts": {
       "Eng": "Unssstabbed rainbow wood.",
-      "Por": "Rainbow Wood não esssfaqueada."
+      "Por": "Madeira arco-íris não esssfaqueada."
     }
   }
 ]

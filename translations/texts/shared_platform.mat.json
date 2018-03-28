@@ -15,7 +15,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Só uma plataforma feita de madeira."
+    ],
     "Files": {
       "items/materials/platform.matitem": [
         "/novakiddescription"
@@ -26,11 +28,13 @@
     },
     "Texts": {
       "Eng": "Just a platform made outta wood.",
-      "Por": "Só uma plataforma feita de madeira."
+      "Por": "Apenas uma plataforma feita de madeira."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Plataformass de madeira simpless."
+    ],
     "Files": {
       "items/materials/platform.matitem": [
         "/florandescription"
@@ -41,7 +45,7 @@
     },
     "Texts": {
       "Eng": "Ssimple wood platformsss.",
-      "Por": "Plataformass de madeira simpless."
+      "Por": "Plataformasss de madeira ssimples."
     }
   }
 ]

@@ -13,7 +13,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Cristal flutiante.",
+      "Um brilhante voador."
+    ],
     "Files": {
       "plants/grass/ground/drop/floatingcrystal/floatingcrystal.grass": [
         "/floranDescription"
@@ -21,7 +24,7 @@
     },
     "Texts": {
       "Eng": "Floaty ssshiny.",
-      "Por": "Um brilhante voador."
+      "Por": "Brilho flutuante."
     }
   },
   {

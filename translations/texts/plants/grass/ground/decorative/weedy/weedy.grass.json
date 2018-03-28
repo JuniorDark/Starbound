@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma erva daninha."
+    ],
     "Files": {
       "plants/grass/ground/decorative/weedy/weedy.grass": [
         "/shortdescription"
@@ -8,11 +10,13 @@
     },
     "Texts": {
       "Eng": "A weed.",
-      "Por": "Uma erva daninha."
+      "Por": "A weed."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma irritante erva daninha."
+    ],
     "Files": {
       "plants/grass/ground/decorative/weedy/weedy.grass": [
         "/description"
@@ -20,11 +24,13 @@
     },
     "Texts": {
       "Eng": "An annoying weed.",
-      "Por": "Uma irritante erva daninha."
+      "Por": "Uma erva irritante."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Os Floran adoram erva daninha como também todas as plantas."
+    ],
     "Files": {
       "plants/grass/ground/decorative/weedy/weedy.grass": [
         "/floranDescription"
@@ -32,7 +38,7 @@
     },
     "Texts": {
       "Eng": "Floran love weed like all plantsss.",
-      "Por": "Os Floran adoram erva daninha como também todas as plantas."
+      "Por": "Floran ama erva como todas as plantasss."
     }
   },
   {

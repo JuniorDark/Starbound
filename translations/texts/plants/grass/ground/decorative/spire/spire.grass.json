@@ -13,7 +13,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "espinhenta e espinhosa."
+    ],
     "Files": {
       "plants/grass/ground/decorative/spire/spire.grass": [
         "/floranDescription"
@@ -21,7 +23,7 @@
     },
     "Texts": {
       "Eng": "Ssspinny and ssspiky.",
-      "Por": "espinhenta e espinhosa."
+      "Por": "Espinhenta e espinhosa."
     }
   },
   {

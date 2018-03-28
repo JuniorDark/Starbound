@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Abrigo da criatura!"
+    ],
     "Files": {
       "plants/grass/ceiling/decorative/ceilingnest/ceilingnest.grass": [
         "/floranDescription"
@@ -8,7 +10,7 @@
     },
     "Texts": {
       "Eng": "Creature house!",
-      "Por": "Abrigo da criatura!"
+      "Por": "Casa de criatura!"
     }
   },
   {

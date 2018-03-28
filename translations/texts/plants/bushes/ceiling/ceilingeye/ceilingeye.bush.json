@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Um olho pendurado grotesco."
+    ],
     "Files": {
       "plants/bushes/ceiling/ceilingeye/ceilingeye.bush": [
         "/description",
@@ -9,7 +11,7 @@
     },
     "Texts": {
       "Eng": "A grotesque hanging eye.",
-      "Por": "Um olho pendurado grotesco."
+      "Por": "Um olho grotesco pendurado. "
     }
   },
   {
@@ -25,7 +27,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Olho balançando!"
+    ],
     "Files": {
       "plants/bushes/ceiling/ceilingeye/ceilingeye.bush": [
         "/floranDescription"
@@ -33,7 +37,7 @@
     },
     "Texts": {
       "Eng": "Ssswinging eye!",
-      "Por": "Olho balançando!"
+      "Por": "Olho balançante!"
     }
   }
 ]

@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma sanfona. Faça esses braços trabalhar!"
+    ],
     "Files": {
       "items/instruments/accordion.instrument": [
         "/description"
@@ -20,7 +22,7 @@
     },
     "Texts": {
       "Eng": "An accordion. Get those arms working!",
-      "Por": "Uma sanfona. Faça esses braços trabalhar!"
+      "Por": "Um acordeão. Faça esses braços trabalhar!"
     }
   }
 ]

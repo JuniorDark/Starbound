@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma exibição holográfica cintilante de um planeta não identificado."
+    ],
     "Files": {
       "objects/space/stationhologram/stationhologram.object": [
         "/description"
@@ -8,7 +10,7 @@
     },
     "Texts": {
       "Eng": "A flickering holographic display of an unidentified planet.",
-      "Por": "Uma exibição holográfica cintilante de um planeta não identificado."
+      "Por": "Uma tela holográfica cintilante de um planeta não identificado."
     }
   },
   {

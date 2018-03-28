@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Piche grosso e grudento"
+    ],
     "Files": {
       "plants/grass/ground/decorative/tar/tar.grass": [
         "/description"
@@ -8,7 +10,7 @@
     },
     "Texts": {
       "Eng": "Gross, sticky tar.",
-      "Por": "Piche grosso e grudento"
+      "Por": "Piche nojento e grudento"
     }
   },
   {

@@ -36,7 +36,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Meu, isto está bem posicionado para inclinar-se para trás."
+    ],
     "Files": {
       "objects/space/astroceilingmonitor/astroceilingmonitor.object": [
         "/humanDescription"
@@ -44,7 +46,7 @@
     },
     "Texts": {
       "Eng": "Man, this is positioned great for leaning back.",
-      "Por": "Meu, isto está bem posicionado para inclinar-se para trás."
+      "Por": "Cara, isto está bem posicionado para inclinar-se para trás."
     }
   },
   {
@@ -60,7 +62,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Há alguma coisa familiar sobre esta configuração de exibição."
+    ],
     "Files": {
       "objects/space/astroceilingmonitor/astroceilingmonitor.object": [
         "/apexDescription"
@@ -68,7 +72,7 @@
     },
     "Texts": {
       "Eng": "There's something familiar about this display configuration.",
-      "Por": "Há alguma coisa familiar sobre esta configuração de exibição."
+      "Por": "Há alguma coisa familiar sobre esta configuração de tela."
     }
   },
   {
@@ -84,7 +88,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Esta tela é capaz de utilizar pouco espaço usado."
+    ],
     "Files": {
       "objects/space/astroceilingmonitor/astroceilingmonitor.object": [
         "/hylotlDescription"
@@ -92,7 +98,7 @@
     },
     "Texts": {
       "Eng": "This display is able to utilize little used space.",
-      "Por": "Esta tela é capaz de utilizar pouco espaço usado."
+      "Por": "Esta tela é capaz de utilizar pouquíssimo espaço."
     }
   },
   {

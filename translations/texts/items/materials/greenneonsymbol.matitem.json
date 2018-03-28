@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Floran gosta de simbolo verde."
+    ],
     "Files": {
       "items/materials/greenneonsymbol.matitem": [
         "/florandescription"
@@ -20,7 +22,7 @@
     },
     "Texts": {
       "Eng": "Floran like green picture.",
-      "Por": "Floran gosta de simbolo verde."
+      "Por": "Floran gosta de foto verde."
     }
   },
   {

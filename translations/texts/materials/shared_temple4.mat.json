@@ -47,7 +47,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Alguém se foi e gravou um monte de fotos nesses tijolos."
+    ],
     "Files": {
       "items/materials/temple4.matitem": [
         "/novakiddescription"
@@ -58,7 +60,7 @@
     },
     "Texts": {
       "Eng": "Someone's gone and carved a buncha pictures into these bricks.",
-      "Por": "Alguém se foi e gravou um monte de fotos nesses tijolos."
+      "Por": "Alguém gravou um monte de gravuras nesses tijolos."
     }
   },
   {

@@ -234,7 +234,8 @@
   },
   {
     "DeniedAlternatives": [
-      "Sentindo ansioso. Contribuindo com apoio. Ganha luta!"
+      "Sentindo ansioso. Contribuindo com apoio. Ganha luta!",
+      "Sentindo-se ansioso. dando apoio. Vencer a luta!"
     ],
     "Files": {
       "dialog/fenerox.config": [
@@ -244,7 +245,7 @@
     },
     "Texts": {
       "Eng": "Feeling eager. Contributing support. Win fight!",
-      "Por": "Sentindo-se ansioso. dando apoio. Vencer a luta!"
+      "Por": "Sentindo-se ansioso. Dando apoio. Vencer a luta!"
     }
   },
   {
@@ -444,6 +445,7 @@
   {
     "DeniedAlternatives": [
       "Conhecendo estranho. Ser amigável. Nova experiência!",
+      "Conhecendo um estranho. Ser amigável. Nova experiência!",
       "Encontro estranho. Ser amigável. Nova experiência!"
     ],
     "Files": {
@@ -459,7 +461,7 @@
     },
     "Texts": {
       "Eng": "Meeting stranger. Being friendly. New experience!",
-      "Por": "Conhecendo um estranho. Ser amigável. Nova experiência!"
+      "Por": "Conhecendo estranho. Sendo amigável. Nova experiência!"
     }
   },
   {
@@ -524,6 +526,7 @@
   },
   {
     "DeniedAlternatives": [
+      "Nova pessoa. Odores estranhos. Muito emocionante!",
       "Uma nova pessoa. Odores estranhos. Muito emocionante!"
     ],
     "Files": {
@@ -534,7 +537,7 @@
     },
     "Texts": {
       "Eng": "New person. Smells strange. Quite exciting!",
-      "Por": "Nova pessoa. Odores estranhos. Muito emocionante!"
+      "Por": "\"Nova pessoa. Cheira estranho. Bem emocionante!"
     }
   },
   {
@@ -615,7 +618,8 @@
     "DeniedAlternatives": [
       "Pessoa desconhecida. Parece ser agradável. Sentindo-se cauteloso!",
       "Pessoa estranha. Espero ser agradável. Sentindo-se cauteloso!",
-      "Pessoa estranha. Parece ser agradável. Sentindo-se cauteloso!"
+      "Pessoa estranha. Parece ser agradável. Sentindo-se cauteloso!",
+      "Pessoa estranha. Sentindo agradável. Sentindo-se cauteloso!"
     ],
     "Files": {
       "dialog/fenerox.config": [
@@ -630,7 +634,7 @@
     },
     "Texts": {
       "Eng": "Odd person. Hopefully nice. Feeling cautious!",
-      "Por": "Pessoa estranha. Sentindo agradável. Sentindo-se cauteloso!"
+      "Por": "Pessoa estranha. Parece ser legal. Sentindo-se cauteloso!"
     }
   },
   {
@@ -936,6 +940,7 @@
     "DeniedAlternatives": [
       "Pessoa estranha. Não Fenerox. Sendo educado!",
       "Pessoa estranha. Não é Fenerox. Sendo educado!",
+      "Pessoa estranha. Não é Fenerox. Ser educado!",
       "Pessoa estranha. Não é o Fenerox. Ser educado!"
     ],
     "Files": {
@@ -951,7 +956,7 @@
     },
     "Texts": {
       "Eng": "Weird person. Not Fenerox. Being polite!",
-      "Por": "Pessoa estranha. Não é Fenerox. Ser educado!"
+      "Por": "Pessoa estranha. Não é um Fenerox. Sendo educado!"
     }
   },
   {

@@ -24,7 +24,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Isso é um barril de óleo grande? Um barril muito estranho se eu diga."
+    ],
     "Files": {
       "objects/space/industrialcanister/industrialcanister.object": [
         "/novakidDescription"
@@ -32,7 +34,7 @@
     },
     "Texts": {
       "Eng": "Is this a big ol' oil barrel? Mighty odd lookin' barrel if I say so myself.",
-      "Por": "Isso é um barril de óleo grande? Um barril muito estranho se eu diga."
+      "Por": "Isso é um barril de óleo grande? Um barril muito estranho que eu diga."
     }
   },
   {

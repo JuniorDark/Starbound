@@ -60,7 +60,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Esta antiga máquina ainda está operacional!"
+    ],
     "Files": {
       "objects/ancientvault/terraforge/terraforge.object": [
         "/avianDescription"
@@ -68,11 +70,13 @@
     },
     "Texts": {
       "Eng": "This ancient machine is still operational!",
-      "Por": "Esta antiga máquina ainda está operacional!"
+      "Por": "Esta máquina antiga ainda está operacional!"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Esta máquina antiga parece energizada por alguma energia misteriosa."
+    ],
     "Files": {
       "objects/ancientvault/terraforge/terraforge.object": [
         "/humanDescription"
@@ -80,11 +84,13 @@
     },
     "Texts": {
       "Eng": "This ancient machine seems powered by some mysterious energy.",
-      "Por": "Esta máquina antiga parece energizada por alguma energia misteriosa."
+      "Por": "Esta máquina antiga parece energizada por uma energia misteriosa."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Esta máquina parece antiga, e ainda parece ta funcionando."
+    ],
     "Files": {
       "objects/ancientvault/terraforge/terraforge.object": [
         "/novakidDescription"

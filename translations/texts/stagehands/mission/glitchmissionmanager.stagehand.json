@@ -24,7 +24,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Desesperado. Nem mais uma balista! Salve meu forte!"
+    ],
     "Files": {
       "stagehands/mission/glitchmissionmanager.stagehand": [
         "/radioMessages/additionalBallista/0"
@@ -36,7 +38,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Olá? Sou eu. Sinto muito, mas - há mais cultistas vindo. Por favor, não se preocupe, vamos ajudar! Eu tinha acabado de chegar, mas os outros estão descendo!"
+    ],
     "Files": {
       "stagehands/mission/glitchmissionmanager.stagehand": [
         "/radioMessages/reinforcements/0"

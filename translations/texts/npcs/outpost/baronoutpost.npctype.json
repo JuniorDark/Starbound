@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Animado. Esther estava me mostrando como ^orange;consertar armas Protetoradas quebradas^white;. Se eu pudesse consertar meu próprio corpo enferrujado. Ha ha ha!"
+    ],
     "Files": {
       "npcs/outpost/baronoutpost.npctype": [
         "/scriptConfig/dialog/converse/default/default/0"
@@ -8,7 +10,7 @@
     },
     "Texts": {
       "Eng": "Excited. Esther has been showing me how to ^orange;mend broken Protectorate weapons^white;. If only I could fix up my own rusted body. Ha ha ha!",
-      "Por": "Animado. Esther estava me mostrando como ^orange;consertar armas Protetoradas quebradas^white;. Se eu pudesse consertar meu próprio corpo enferrujado. Ha ha ha!"
+      "Por": "Animado. Esther tem me mostrando como ^orange;consertar armas Protetoradas quebradas^white;. Se eu pudesse consertar meu próprio corpo enferrujado. Ha ha ha!"
     }
   },
   {

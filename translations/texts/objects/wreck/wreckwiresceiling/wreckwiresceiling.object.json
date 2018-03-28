@@ -60,7 +60,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Fios soltos rasgados de seu revestimento."
+    ],
     "Files": {
       "objects/wreck/wreckwiresceiling/wreckwiresceiling.object": [
         "/hylotlDescription"
@@ -68,7 +70,7 @@
     },
     "Texts": {
       "Eng": "Loose wires ripped from their casing.",
-      "Por": "Fios soltos rasgados de seu revestimento."
+      "Por": "Fios soltos sem seu revestimento."
     }
   },
   {

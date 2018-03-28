@@ -24,7 +24,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Sticky Plasma Mines"
+    ],
     "Files": {
       "items/active/weapons/ranged/unrand/spaceplasmarifle/spaceplasmarifle.activeitem": [
         "/altAbility/name"
@@ -32,7 +34,7 @@
     },
     "Texts": {
       "Eng": "Sticky Plasma Mines",
-      "Por": "Sticky Plasma Mines"
+      "Por": "Minas de Plasma Grundentas"
     }
   }
 ]

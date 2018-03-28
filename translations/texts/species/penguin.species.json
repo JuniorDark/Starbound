@@ -60,7 +60,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Como você está lendo isso?"
+    ],
     "Files": {
       "species/penguin.species": [
         "/charCreationTooltip/subTitle"
@@ -68,7 +70,7 @@
     },
     "Texts": {
       "Eng": "How are you even reading this ?",
-      "Por": "Como você está lendo isso?"
+      "Por": "Como é que você está lendo isto?"
     }
   },
   {
@@ -84,7 +86,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "ESTAMPA"
+    ],
     "Files": {
       "species/penguin.species": [
         "/charGenTextLabels/0"

@@ -36,7 +36,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Creep Tóxico"
+    ],
     "Files": {
       "plants/bushes/ground/toxic/toxiccreep.bush": [
         "/description"
@@ -44,7 +46,7 @@
     },
     "Texts": {
       "Eng": "Toxic Creep.",
-      "Por": "Creep Tóxico"
+      "Por": "Toxic Creep."
     }
   }
 ]

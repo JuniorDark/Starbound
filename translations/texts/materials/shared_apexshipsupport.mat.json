@@ -32,7 +32,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Feito para segurar naves espaciais."
+    ],
     "Files": {
       "items/materials/apexshipsupport.matitem": [
         "/novakiddescription"
@@ -43,7 +45,7 @@
     },
     "Texts": {
       "Eng": "Made for holdin' spaceships together.",
-      "Por": "Feito para segurar naves espaciais."
+      "Por": "Feito para segurar espaçonaves."
     }
   },
   {

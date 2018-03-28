@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Quase uma pena estragar um pote tão velho..."
+    ],
     "Files": {
       "objects/ancient/ancientpot1/ancientpot1.object": [
         "/novakidDescription"
@@ -23,7 +25,7 @@
     },
     "Texts": {
       "Eng": "Almost a shame to bust up a pot so old...",
-      "Por": "Quase uma pena estragar um pote tão velho..."
+      "Por": "Quase uma pena estragar um vaso tão antigo..."
     }
   },
   {
@@ -54,7 +56,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Potes antigos precisam ser esmagados."
+    ],
     "Files": {
       "objects/ancient/ancientpot1/ancientpot1.object": [
         "/floranDescription"
@@ -77,11 +81,13 @@
     },
     "Texts": {
       "Eng": "Ancient potss need ssmashing.",
-      "Por": "Potes antigos precisam ser esmagados."
+      "Por": "Vasoss antigos precisam ser esmagados."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Não acho que este pote esta perfeito na natureza. Gostaria de saber o que poderia estar lá dentro."
+    ],
     "Files": {
       "objects/ancient/ancientpot1/ancientpot1.object": [
         "/avianDescription"
@@ -104,11 +110,13 @@
     },
     "Texts": {
       "Eng": "I don't think this pot is ceremonial in nature. I wonder what could be inside.",
-      "Por": "Não acho que este pote esta perfeito na natureza. Gostaria de saber o que poderia estar lá dentro."
+      "Por": "Eu não acho que este vaso é cerimonial de natureza. Eu me pergunto o que poderia estar dentro."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Gostaria de saber porque tesouros tão antigos estão dentro deste velho pote."
+    ],
     "Files": {
       "objects/ancient/ancientpot1/ancientpot1.object": [
         "/hylotlDescription"
@@ -131,11 +139,13 @@
     },
     "Texts": {
       "Eng": "I wonder what ancient treasures could be inside this old pot.",
-      "Por": "Gostaria de saber porque tesouros tão antigos estão dentro deste velho pote."
+      "Por": "Eu me pergunto que tesouros antigos poderiam estar dentro desse vaso antigo."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Este pote antigo mantém-se em forma notável, considerando a idade."
+    ],
     "Files": {
       "objects/ancient/ancientpot1/ancientpot1.object": [
         "/description"
@@ -158,11 +168,13 @@
     },
     "Texts": {
       "Eng": "This ancient pot is in remarkable shape considering how old it is.",
-      "Por": "Este pote antigo mantém-se em forma notável, considerando a idade."
+      "Por": "Este vaso antigo esta em ótimo estado, considerando o quão antigo é."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Este pote parece antigo! Talvez haja algo ainda lá dentro."
+    ],
     "Files": {
       "objects/ancient/ancientpot1/ancientpot1.object": [
         "/humanDescription"
@@ -185,11 +197,13 @@
     },
     "Texts": {
       "Eng": "This pot looks ancient! Maybe there's something still inside it.",
-      "Por": "Este pote parece antigo! Talvez haja algo ainda lá dentro."
+      "Por": "Este vaso parece antigo! Talvez ainda haja algo lá dentro."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "O que está dentro desta panela antiga tem sido há muito esquecido."
+    ],
     "Files": {
       "objects/ancient/ancientpot1/ancientpot1.object": [
         "/apexDescription"
@@ -212,7 +226,7 @@
     },
     "Texts": {
       "Eng": "Whatever is inside this ancient pot has been long forgotten.",
-      "Por": "O que está dentro desta panela antiga tem sido há muito esquecido."
+      "Por": "O que está dentro deste vaso antigo foi esquecido há muito tempo."
     }
   }
 ]

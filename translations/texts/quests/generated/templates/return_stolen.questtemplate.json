@@ -156,7 +156,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "McLadrão Malvado"
+    ],
     "Files": {
       "quests/generated/templates/return_stolen.questtemplate": [
         "/parameters/thief/example/name"
@@ -164,7 +166,7 @@
     },
     "Texts": {
       "Eng": "Evil McThief",
-      "Por": "McLadrão Malvado"
+      "Por": "Mc Ladrão Malvado"
     }
   },
   {

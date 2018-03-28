@@ -702,7 +702,8 @@
   },
   {
     "DeniedAlternatives": [
-      "Eu vim pra cá por uma vida melhor... que desapontamento."
+      "Eu vim pra cá por uma vida melhor... que desapontamento.",
+      "Me mudei para cá por uma vida melhor... Que desapontamento."
     ],
     "Files": {
       "dialog/grumble.config": [
@@ -889,7 +890,8 @@
   },
   {
     "DeniedAlternatives": [
-      "Se você colocar maisss pessoas aqui, Floran vai comê-lass."
+      "Se você colocar maisss pessoas aqui, Floran vai comê-lass.",
+      "Se você trazer mais alguém, Floran vai comê-lo."
     ],
     "Files": {
       "dialog/grumble.config": [
@@ -901,7 +903,7 @@
     },
     "Texts": {
       "Eng": "If you move in sssomeone else, Floran will eat them.",
-      "Por": "Se você trazer mais alguém, Floran vai comê-lo."
+      "Por": "\"Se você trazer mais alguém, Floran vai comê-lass."
     }
   },
   {
@@ -1197,6 +1199,8 @@
   },
   {
     "DeniedAlternatives": [
+      "\"Me parece que você pode querer consertar essa cabana antes que eu saia.",
+      "Me parece que você pode querer consertar essa cabana antes de sair.",
       "Parece-me que você deve consertar esse cabana antes que eu saia."
     ],
     "Files": {
@@ -1209,7 +1213,7 @@
     },
     "Texts": {
       "Eng": "Seems to me you might wanna fix this shack up 'fore I leave.",
-      "Por": "Me parece que você pode querer consertar essa cabana antes de sair."
+      "Por": "Me parece que você pode querer consertar essa cabana antes que eu saia."
     }
   },
   {
@@ -1685,7 +1689,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Yo!"
+    ],
     "Files": {
       "dialog/converse.config": [
         "/greeting/human/default/5"
@@ -1696,7 +1702,7 @@
     },
     "Texts": {
       "Eng": "Yo!",
-      "Por": "Yo!"
+      "Por": "Ei!"
     }
   },
   {

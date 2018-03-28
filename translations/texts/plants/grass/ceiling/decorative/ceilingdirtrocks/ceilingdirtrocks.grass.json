@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Rochas de areia."
+    ],
     "Files": {
       "plants/grass/ceiling/decorative/ceilingdirtrocks/ceilingdirtrocks.grass": [
         "/description",
@@ -9,11 +11,13 @@
     },
     "Texts": {
       "Eng": "Dirt rocks.",
-      "Por": "Rochas de areia."
+      "Por": "Pedras de terra."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Rochas de areia!"
+    ],
     "Files": {
       "plants/grass/ceiling/decorative/ceilingdirtrocks/ceilingdirtrocks.grass": [
         "/floranDescription"
@@ -21,7 +25,7 @@
     },
     "Texts": {
       "Eng": "Dirt rocksss!",
-      "Por": "Rochas de areia!"
+      "Por": "Pedrasss de terra!"
     }
   },
   {

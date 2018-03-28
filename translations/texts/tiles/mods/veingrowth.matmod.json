@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Crescimento de Veias"
+    ],
     "Files": {
       "tiles/mods/veingrowth.matmod": [
         "/Description"
@@ -8,7 +10,7 @@
     },
     "Texts": {
       "Eng": "Vein Growth",
-      "Por": "Crescimento de Veias"
+      "Por": "Crescimento de Veia"
     }
   }
 ]

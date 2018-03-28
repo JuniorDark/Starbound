@@ -36,7 +36,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Luz esspacial lança pouca luz."
+    ],
     "Files": {
       "objects/space/astrolight/astrolight.object": [
         "/floranDescription"
@@ -44,7 +46,7 @@
     },
     "Texts": {
       "Eng": "Sspace pod casssts just a little bit of light.",
-      "Por": "Luz esspacial lança pouca luz."
+      "Por": "Capsula esspacial emite pouca luz."
     }
   },
   {

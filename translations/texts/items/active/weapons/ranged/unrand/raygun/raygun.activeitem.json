@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma arma estranha que dispara esferas de energia oscilantes."
+    ],
     "Files": {
       "items/active/weapons/ranged/unrand/raygun/raygun.activeitem": [
         "/description"

@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma flor azul? Isso deve ser útil pra alguma coisa."
+    ],
     "Files": {
       "objects/farmables/flowerblue/flowerblue.object": [
         "/novakidDescription"
@@ -20,7 +22,7 @@
     },
     "Texts": {
       "Eng": "A blue flower? This must be useful for somethin'.",
-      "Por": "Uma flor azul? Isso deve ser útil pra alguma coisa."
+      "Por": "Uma flor azul? Isso deve ser útil para alguma coisa."
     }
   },
   {

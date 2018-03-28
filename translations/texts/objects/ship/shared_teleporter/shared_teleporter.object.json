@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Um teletransportador. Teletransportar parece mergulhar no oceano do topo de uma montanha."
+    ],
     "Files": {
       "objects/ship/avianteleporter/avianteleporter.object": [
         "/hylotlDescription"
@@ -26,12 +28,13 @@
     },
     "Texts": {
       "Eng": "A teleporter. Teleporting feels like diving into the ocean from a mountain top.",
-      "Por": "Um teletransportador. Teletransportar parece mergulhar no oceano do topo de uma montanha."
+      "Por": "Um teletransportador. Teletransportar parece como mergulhar no oceano do topo de uma montanha."
     }
   },
   {
     "DeniedAlternatives": [
-      "Teletransportador de nave. Floran se sente confuso durante o teleporte."
+      "Teletransportador de nave. Floran se sente confuso durante o teleporte.",
+      "Teletransportador de nave. Floran se sente confusso durante teleporte."
     ],
     "Files": {
       "objects/ship/avianteleporter/avianteleporter.object": [
@@ -58,11 +61,13 @@
     },
     "Texts": {
       "Eng": "Ship teleporter. Floran feel confusssed during teleport.",
-      "Por": "Teletransportador de nave. Floran se sente confusso durante teleporte."
+      "Por": "Teletransportador da nave. Floran se sente confusso durante teletransporte."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Teletransportador de nave. Vamos levá-lo para dar uma volta!"
+    ],
     "Files": {
       "objects/ship/avianteleporter/avianteleporter.object": [
         "/novakidDescription"
@@ -88,7 +93,7 @@
     },
     "Texts": {
       "Eng": "Ship's teleporter. Let's take her for a spin!",
-      "Por": "Teletransportador de nave. Vamos levá-lo para dar uma volta!"
+      "Por": "Teletransportador da nave. Vamos levá-lo para dar uma volta!"
     }
   },
   {

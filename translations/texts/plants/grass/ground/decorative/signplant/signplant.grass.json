@@ -12,7 +12,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma planta estranha."
+    ],
     "Files": {
       "plants/grass/ground/decorative/signplant/signplant.grass": [
         "/shortdescription"
@@ -20,7 +22,7 @@
     },
     "Texts": {
       "Eng": "A strange plant.",
-      "Por": "Uma planta estranha."
+      "Por": "A strange plant."
     }
   },
   {

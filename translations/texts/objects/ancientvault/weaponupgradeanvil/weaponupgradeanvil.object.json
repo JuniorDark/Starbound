@@ -36,7 +36,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Esta tecnologia antiga avançada pode aumentar a eficácia de algumas armas."
+    ],
     "Files": {
       "objects/ancientvault/weaponupgradeanvil/weaponupgradeanvil.object": [
         "/description"
@@ -44,7 +46,7 @@
     },
     "Texts": {
       "Eng": "This advanced ancient technology can raise the effectiveness of some weapons.",
-      "Por": "Esta tecnologia antiga avançada pode aumentar a eficácia de algumas armas."
+      "Por": "Esta antiga tecnologia avançada pode aumentar a eficácia de algumas armas."
     }
   },
   {

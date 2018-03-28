@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Cristais pequenos."
+    ],
     "Files": {
       "plants/grass/ground/decorative/pebbles/pebbles.grass": [
         "/description"
@@ -8,11 +10,13 @@
     },
     "Texts": {
       "Eng": "Little pebbles.",
-      "Por": "Cristais pequenos."
+      "Por": "Pedrinhas pequenas."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Cristais."
+    ],
     "Files": {
       "plants/grass/ground/decorative/pebbles/pebbles.grass": [
         "/shortdescription"
@@ -20,11 +24,13 @@
     },
     "Texts": {
       "Eng": "Pebbles.",
-      "Por": "Cristais."
+      "Por": "Pebbles."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Pedras pequenas."
+    ],
     "Files": {
       "plants/grass/ground/decorative/pebbles/pebbles.grass": [
         "/floranDescription"
@@ -32,7 +38,7 @@
     },
     "Texts": {
       "Eng": "Sssmall ssstones.",
-      "Por": "Pedras pequenas."
+      "Por": "Pedrass pequenass."
     }
   },
   {

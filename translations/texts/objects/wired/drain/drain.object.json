@@ -36,7 +36,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Gurgle gurgle!"
+    ],
     "Files": {
       "objects/wired/drain/drain.object": [
         "/description"
@@ -44,7 +46,7 @@
     },
     "Texts": {
       "Eng": "Gurgle gurgle!",
-      "Por": "Gurgle gurgle!"
+      "Por": "Glub glub!"
     }
   },
   {

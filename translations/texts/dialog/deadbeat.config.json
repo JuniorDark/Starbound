@@ -134,7 +134,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Mediocre!"
+    ],
     "Files": {
       "dialog/deadbeat.config": [
         "/killedTarget/default/default/3"
@@ -142,7 +144,7 @@
     },
     "Texts": {
       "Eng": "Mediocre!",
-      "Por": "Mediocre!"
+      "Por": "Medíocre!"
     }
   },
   {

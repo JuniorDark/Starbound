@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Não use seu dedo! Este sesnsor confiável indica a presença de líquidoss."
+    ],
     "Files": {
       "objects/wired/liquidsensor/liquidsensor.object": [
         "/floranDescription"
@@ -8,7 +10,7 @@
     },
     "Texts": {
       "Eng": "Don't use your finger! This ssensor indicatesss the presence of liquidss.",
-      "Por": "Não use seu dedo! Este sesnsor confiável indica a presença de líquidoss."
+      "Por": "Não use seu dedo! Este ssesnsor confiável indica a presença de líquidoss."
     }
   },
   {

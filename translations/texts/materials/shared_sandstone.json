@@ -15,7 +15,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Algumas rochas de areia."
+    ],
     "Files": {
       "items/materials/sandstone.matitem": [
         "/novakiddescription"
@@ -26,7 +28,7 @@
     },
     "Texts": {
       "Eng": "Some sandy lookin' rocks.",
-      "Por": "Algumas rochas de areia."
+      "Por": "Algumas rochas arenosas."
     }
   },
   {

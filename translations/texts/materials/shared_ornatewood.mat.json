@@ -30,7 +30,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Floran gosta de madeira tratada especial."
+    ],
     "Files": {
       "items/materials/ornatewood.matitem": [
         "/florandescription"
@@ -41,7 +43,7 @@
     },
     "Texts": {
       "Eng": "Floran likess sspecial treated wood.",
-      "Por": "Floran gosta de madeira tratada especial."
+      "Por": "Floran gossta de madeira tratada esspecial."
     }
   },
   {

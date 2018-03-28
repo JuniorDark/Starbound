@@ -48,7 +48,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Spawne seu próprio mago!\n",
+      "Spawne seu próprio mago!\r\n"
+    ],
     "Files": {
       "objects/spawner/spawners/spawner_wizard.object": [
         "/description"
@@ -56,7 +59,7 @@
     },
     "Texts": {
       "Eng": "Spawn your very own wizard!",
-      "Por": "Spawne seu próprio mago!\r\n"
+      "Por": "Invoque seu próprio feiticeiro!"
     }
   },
   {
@@ -72,7 +75,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Será que isso gerará um feiticeiro, ou outro charlatão?\n",
+      "Será que isso gerará um feiticeiro, ou outro charlatão?\r\n"
+    ],
     "Files": {
       "objects/spawner/spawners/spawner_wizard.object": [
         "/hylotlDescription"
@@ -80,11 +86,13 @@
     },
     "Texts": {
       "Eng": "Will this spawn a wizard, or yet another charlatan?",
-      "Por": "Será que isso gerará um feiticeiro, ou outro charlatão?\r\n"
+      "Por": "Será que isso gerará um feiticeiro, ou outro charlatão?"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Wizard Spawner\r\n"
+    ],
     "Files": {
       "objects/spawner/spawners/spawner_wizard.object": [
         "/shortdescription"
@@ -92,7 +100,7 @@
     },
     "Texts": {
       "Eng": "Wizard Spawner",
-      "Por": "Wizard Spawner\r\n"
+      "Por": "Wizard Spawner\n"
     }
   }
 ]

@@ -72,7 +72,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Português \nEsta porta já foi muito segura.",
+      "Português \r\nEsta porta já foi muito segura."
+    ],
     "Files": {
       "objects/wreck/wreckdoor/wreckdoor.object": [
         "/hylotlDescription"
@@ -80,7 +83,7 @@
     },
     "Texts": {
       "Eng": "This door was once very secure.",
-      "Por": "Português \r\nEsta porta já foi muito segura."
+      "Por": "Esta porta já foi muito segura."
     }
   },
   {

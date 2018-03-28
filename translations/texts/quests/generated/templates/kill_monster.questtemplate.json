@@ -144,7 +144,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "O próximo passo não é complicado. Um ^orange;<monster> ^white;perto de ^orange;<spawnPoint>^white; <spawnPoint.direction> comeu os ^orange;<items> ^white;de Floran. ^green;Cace ^orange;<monster> ^white;\r\npara Floran e ^green;obtenha as coisas de volta."
+    ],
     "Files": {
       "quests/generated/templates/kill_monster.questtemplate": [
         "/scriptConfig/generatedText/text/default/floran/0"
@@ -152,7 +154,7 @@
     },
     "Texts": {
       "Eng": "Next sstep not tricky. A ^orange;<monster> ^white;near the ^orange;<spawnPoint>^white;<spawnPoint.direction> ate Floran's ^orange;<items>. ^green;Hunt ^orange;<monster> ^white;for Floran and ^green;get stuff back.",
-      "Por": "O próximo passo não é complicado. Um ^orange;<monster> ^white;perto de ^orange;<spawnPoint>^white; <spawnPoint.direction> comeu os ^orange;<items> ^white;de Floran. ^green;Cace ^orange;<monster> ^white;\r\npara Floran e ^green;obtenha as coisas de volta."
+      "Por": "O próximo passo não é complicado. Um ^orange;<monster> ^white;perto de ^orange;<spawnPoint>^white; <spawnPoint.direction> comeu os ^orange;<items> ^white;de Floran. ^green;Cace ^orange;<monster> ^white;\npara Floran e ^green;obtenha as coisas de volta."
     }
   },
   {

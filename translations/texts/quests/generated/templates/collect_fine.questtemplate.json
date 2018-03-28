@@ -48,7 +48,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Criminoso McCriminalson"
+    ],
     "Files": {
       "quests/generated/templates/collect_fine.questtemplate": [
         "/parameters/target/example/name"
@@ -56,7 +58,7 @@
     },
     "Texts": {
       "Eng": "Criminal McCriminalson",
-      "Por": "Criminoso McCriminalson"
+      "Por": "Criminoso Mc Criminalson"
     }
   },
   {
@@ -372,7 +374,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Próximo na nossa lista envolve ^orange;<target>, ^white;<target.pronoun.subject> está provado <target.pronoun.reflexive> em ser um belo violador da lei. ^green;Entregue este ^orange;aviso^green; por danos a <target.pronoun.object>,^white; <target.pronoun.subject> já concordou em dar o ^orange;<item> \r\n ^white;<target.pronoun.possessiveDet> como indenização."
+    ],
     "Files": {
       "quests/generated/templates/collect_fine.questtemplate": [
         "/scriptConfig/generatedText/text/next/default/1"
@@ -380,7 +384,7 @@
     },
     "Texts": {
       "Eng": "Next on our list involves ^orange;<target>, ^white;<target.pronoun.subject>'s proven <target.pronoun.reflexive> to be quite the lawbreaker. ^green;Deliver this ^orange;notice^green; for damages to <target.pronoun.object>,^white; <target.pronoun.subject>'s already agreed to give <target.pronoun.possessiveDet> ^orange;<item> as compensation.",
-      "Por": "Próximo na nossa lista envolve ^orange;<target>, ^white;<target.pronoun.subject> está provado <target.pronoun.reflexive> em ser um belo violador da lei. ^green;Entregue este ^orange;aviso^green; por danos a <target.pronoun.object>,^white; <target.pronoun.subject> já concordou em dar o ^orange;<item> \r\n ^white;<target.pronoun.possessiveDet> como indenização."
+      "Por": "Próximo na nossa lista envolve ^orange;<target>, ^white;<target.pronoun.subject> está provado <target.pronoun.reflexive> em ser um belo violador da lei. ^green;Entregue este ^orange;aviso^green; por danos a <target.pronoun.object>,^white; <target.pronoun.subject> já concordou em dar o ^orange;<item> \n ^white;<target.pronoun.possessiveDet> como indenização."
     }
   },
   {
@@ -708,7 +712,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "^green;Entregue este ^orange;aviso de crime^green; para ^orange;<target>^white;. <target.pronoun.capitalSubject> concordou em dar o ^orange;<item>^white; \r\n <target.pronoun.possessiveDet> como indenização pelo comportamento <target.pronoun.possessiveDet>."
+    ],
     "Files": {
       "quests/generated/templates/collect_fine.questtemplate": [
         "/scriptConfig/generatedText/text/default/default/1"
@@ -716,7 +722,7 @@
     },
     "Texts": {
       "Eng": "^green;Deliver this ^orange;crime notice^green; to ^orange;<target>^white;. <target.pronoun.capitalSubject>'s agreed to give <target.pronoun.possessiveDet> ^orange;<item>^white; as compensation for <target.pronoun.possessiveDet> behaviour.",
-      "Por": "^green;Entregue este ^orange;aviso de crime^green; para ^orange;<target>^white;. <target.pronoun.capitalSubject> concordou em dar o ^orange;<item>^white; \r\n <target.pronoun.possessiveDet> como indenização pelo comportamento <target.pronoun.possessiveDet>."
+      "Por": "^green;Entregue este ^orange;aviso de crime^green; para ^orange;<target>^white;. <target.pronoun.capitalSubject> concordou em dar o ^orange;<item>^white; \n <target.pronoun.possessiveDet> como indenização pelo comportamento <target.pronoun.possessiveDet>."
     }
   },
   {

@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Árvore gipsófila."
+    ],
     "Files": {
       "plants/grass/ground/decorative/smallvillage/smallvillage.grass": [
         "/floranDescription"
@@ -8,11 +10,13 @@
     },
     "Texts": {
       "Eng": "Babie tree.",
-      "Por": "Árvore gipsófila."
+      "Por": "Árvore pequena."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Árvores Pequenas."
+    ],
     "Files": {
       "plants/grass/ground/decorative/smallvillage/smallvillage.grass": [
         "/shortdescription"
@@ -20,7 +24,7 @@
     },
     "Texts": {
       "Eng": "Little Trees.",
-      "Por": "Árvores Pequenas."
+      "Por": "Little Trees."
     }
   },
   {

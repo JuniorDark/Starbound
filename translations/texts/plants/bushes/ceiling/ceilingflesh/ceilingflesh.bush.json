@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Um tremendo pedaço de carne."
+    ],
     "Files": {
       "plants/bushes/ceiling/ceilingflesh/ceilingflesh.bush": [
         "/description",
@@ -9,7 +11,7 @@
     },
     "Texts": {
       "Eng": "A quivering lump of flesh.",
-      "Por": "Um tremendo pedaço de carne."
+      "Por": "Um pedaço de carne tremendo."
     }
   },
   {

@@ -25,7 +25,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Minhoca ondulada."
+    ],
     "Files": {
       "plants/bushes/ceiling/ceilinggrub/ceilinggrub.bush": [
         "/floranDescription"
@@ -33,7 +35,7 @@
     },
     "Texts": {
       "Eng": "Wiggly worm.",
-      "Por": "Minhoca ondulada."
+      "Por": "Verme ondulado."
     }
   }
 ]

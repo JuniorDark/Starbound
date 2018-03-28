@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Líquidos quentes."
+    ],
     "Files": {
       "plants/bushes/ground/magmapitcher/magmapitcher.bush": [
         "/floranDescription"
@@ -8,11 +10,13 @@
     },
     "Texts": {
       "Eng": "Burny liquidsss.",
-      "Por": "Líquidos quentes."
+      "Por": "Líquidosss quentes."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Coníferos enchidos com magma."
+    ],
     "Files": {
       "plants/bushes/ground/magmapitcher/magmapitcher.bush": [
         "/description",
@@ -21,7 +25,7 @@
     },
     "Texts": {
       "Eng": "Cones filled with magma.",
-      "Por": "Coníferos enchidos com magma."
+      "Por": "Cones cheios de magma."
     }
   },
   {

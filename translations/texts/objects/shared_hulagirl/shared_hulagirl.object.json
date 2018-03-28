@@ -45,7 +45,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Isso me lembra as areias brancas e os mares azuis."
+    ],
     "Files": {
       "objects/protectorate/objects/protectoratehulagirl/protectoratehulagirl.object": [
         "/hylotlDescription"
@@ -56,11 +58,13 @@
     },
     "Texts": {
       "Eng": "It reminds me of white sands and blue seas.",
-      "Por": "Isso me lembra as areias brancas e os mares azuis."
+      "Por": "Isso me lembra de areias brancas e mares azuis."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Olhe para ela, tocando seu ukulele pequenino."
+    ],
     "Files": {
       "objects/protectorate/objects/protectoratehulagirl/protectoratehulagirl.object": [
         "/novakidDescription"
@@ -71,7 +75,7 @@
     },
     "Texts": {
       "Eng": "Look at her, strummin' away on her teeny ukulele.",
-      "Por": "Olhe para ela, tocando seu ukulele pequenino."
+      "Por": "Oia pra ela, tocando seu ukulele pequenino."
     }
   },
   {

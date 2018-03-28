@@ -1,7 +1,8 @@
 [
   {
     "DeniedAlternatives": [
-      "Um impulsionador, as asas de uma nave."
+      "Um impulsionador, as asas de uma nave.",
+      "Um propulsor, as asas de um nave."
     ],
     "Files": {
       "objects/ship/boosters/bigboosterflame/bigboosterflame.object": [
@@ -67,12 +68,13 @@
     },
     "Texts": {
       "Eng": "A booster, the wings of a ship.",
-      "Por": "Um propulsor, as asas de um nave."
+      "Por": "Um propulsor, as asas de uma nave."
     }
   },
   {
     "DeniedAlternatives": [
-      "Um impulsionador. Estes são conhecidos por mal funcionamento e explodir."
+      "Um impulsionador. Estes são conhecidos por mal funcionamento e explodir.",
+      "Um propulsor. Estes têm sido conhecido por funcionar mal e explodir."
     ],
     "Files": {
       "objects/ship/boosters/bigboosterflame/bigboosterflame.object": [
@@ -138,7 +140,7 @@
     },
     "Texts": {
       "Eng": "A booster. These have been known to malfunction and explode.",
-      "Por": "Um propulsor. Estes têm sido conhecido por funcionar mal e explodir."
+      "Por": "Um propulsor. Estes têm sido conhecido por mau funcionamento e explodir."
     }
   },
   {
@@ -494,6 +496,7 @@
   },
   {
     "DeniedAlternatives": [
+      "Esta coisa se alimenta de combustível",
       "Esta coisa é alimenta por combustível."
     ],
     "Files": {
@@ -560,7 +563,7 @@
     },
     "Texts": {
       "Eng": "This thing eats through fuel.",
-      "Por": "Esta coisa se alimenta de combustível"
+      "Por": "Esta coisa é alimentada por combustível"
     }
   }
 ]

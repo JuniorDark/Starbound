@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma planta de enxofre."
+    ],
     "Files": {
       "plants/grass/ground/drop/sulphurplant/sulphurplant.grass": [
         "/shortdescription"
@@ -8,11 +10,13 @@
     },
     "Texts": {
       "Eng": "A sulphur plant.",
-      "Por": "Uma planta de enxofre."
+      "Por": "A sulphur plant."
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Uma planta sulfurosa. Isso cheira."
+    ],
     "Files": {
       "plants/grass/ground/drop/sulphurplant/sulphurplant.grass": [
         "/description"
@@ -20,7 +24,7 @@
     },
     "Texts": {
       "Eng": "A sulphurous plant. It reeks.",
-      "Por": "Uma planta sulfurosa. Isso cheira."
+      "Por": "Uma planta de enxofre. Cheira mal."
     }
   },
   {

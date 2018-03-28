@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Um material sintético Avian avançado com marcações impressas."
+    ],
     "Files": {
       "items/materials/aztectech.matitem": [
         "/description"
@@ -11,7 +13,7 @@
     },
     "Texts": {
       "Eng": "An advanced synthetic Avian material with printed markings.",
-      "Por": "Um material sintético Avian avançado com marcações impressas."
+      "Por": "Um material Avian sintético avançado com marcações impressas."
     }
   },
   {
