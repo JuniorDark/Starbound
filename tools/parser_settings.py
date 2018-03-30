@@ -30,12 +30,7 @@ foi = {
   "weapon.config":["^[0-9]+/1/[0-9]+/(0|(1/)?name)$"],
   "monsters.config":["^[0-9]+/1/[0-9]+/(0|(1/)?name)$"],
   "hatadjectives.config":["^[0-9]+/1/[0-9]+/(0|(1/)?name)$"],
-  "cockpit.config": ["^topLeftButtonTooltips/.*",
-    ".+Caption/[^/]+", "^jumpDialog/[^/]+$", "^[a-zA-Z]+Names/[^/]+$",
-    "^clusterMoons/[^/]+$", "^worldTypeDescription/.+$",
-    "^visitableTypeDescription/.+$", "^terraformedPlanetDescription/.+$",
-    "^threatLevelText/[a-zA-Z]+/[0-9]+$", "^threatTextPrefix$",
-    "^objectThreatText/.*$", "^systemTooltip/exploredLabel/.+$"],
+  "cockpit.config": ["^systemTooltipConfig/type/.+$", "^systemTooltipConfig/explored/.+$", "^visitableTypeDescription/.+$"],
   "statuses.config":["^statuses/.+$"],
   "help.config": ["^[a-z]+Commands/.+$"],
   "hunger.config": ["^.*$"],
@@ -93,11 +88,11 @@ foi = {
   ".weaponability": ["^ability/name$"],
   ".collection": ["^title$"],
   "player.config": ["^collectableUnlock$"],
-  "cockpit.config": ["^systemTooltipConfig/type/value$", "^systemTooltipConfig/explored/value$"],
   "placestation.config": ["^nameLabel$", "^descriptionLabel$"],
   "techupgradegui.config": ["^slotLabelText/Head$", "^slotLabelText/Body$", "^slotLabelText/Legs$"],
   "teleportdialog.config": ["^beamPartyMemberLabel$", "^deployPartyMemberLabel$"],
   "chieftain.behavior": ["root/children/4/parameters/content/[a-zA-Z]"],
+  "interface.config": ["^fontSize/[0-9]+$"],
   "_metadata":[]
 
   }
