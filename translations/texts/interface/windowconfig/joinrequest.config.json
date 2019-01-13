@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Discord join request received"
+      "Eng": "Discord join request received",
+      "Por": "Solicitação de junção via Discord recebida"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Discord user ^green;<username>^reset; wishes to join your game.\n\nDo you want to accept?"
+      "Eng": "Discord user ^green;<username>^reset; wishes to join your game.\n\nDo you want to accept?",
+      "Por": "Usuário do Discord ^green;<username>^reset; deseja participar do seu jogo.\n\nVocê quer aceitar?"
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Ignore"
+      "Eng": "Ignore",
+      "Por": "Ignorar"
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Join Request"
+      "Eng": "Join Request",
+      "Por": "Pedido de Junção"
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "No"
+      "Eng": "No",
+      "Por": "Não"
     }
   },
   {
@@ -62,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Yes"
+      "Eng": "Yes",
+      "Por": "Sim"
     }
   }
 ]
