@@ -270,6 +270,9 @@
       "interface/windowconfig/portraitconfirmation.config": [
         "/paneLayout/cancel/caption"
       ],
+      "interface/windowconfig/simpleconfirmation.config": [
+        "/paneLayout/cancel/caption"
+      ],
       "interface/windowconfig/teaminvite.config": [
         "/paneLayout/close/caption"
       ],
@@ -325,6 +328,22 @@
     "Texts": {
       "Eng": "Energy Per Shot:",
       "Por": "Energia Gasta Por Tiro:"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/bountyboard/bountyboardgui.config": [
+        "/gui/summaryOverlay/children/lblNameHeader/value",
+        "/gui/summaryOverlay/children/lblNameList/value"
+      ],
+      "interface/windowconfig/charcreation.config": [
+        "/paneLayout/name/hint"
+      ]
+    },
+    "Texts": {
+      "Eng": "Name",
+      "Por": "Nome"
     }
   },
   {

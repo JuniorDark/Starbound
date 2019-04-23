@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/mechplatform/mechplatform.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A teleportation platform that summmons a player's mech."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/mechplatform/mechplatform.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mech Platform"
+    }
+  }
+]

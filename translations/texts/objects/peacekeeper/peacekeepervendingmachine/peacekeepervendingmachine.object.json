@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/peacekeeper/peacekeepervendingmachine/peacekeepervendingmachine.object": [
+        "/interactData/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": " Donut Vendor"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/peacekeeper/peacekeepervendingmachine/peacekeepervendingmachine.object": [
+        "/interactData/paneLayoutOverride/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": " Stock up on your pastry!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/peacekeeper/peacekeepervendingmachine/peacekeepervendingmachine.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A vending machine that appears to cook and dispense only donuts."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/peacekeeper/peacekeepervendingmachine/peacekeepervendingmachine.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Peacekeeper Vending Machine"
+    }
+  }
+]

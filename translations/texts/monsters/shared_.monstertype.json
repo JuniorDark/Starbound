@@ -1,5 +1,20 @@
 [
   {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/events/ruinportal/ruinportal.monstertype": [
+        "/description"
+      ],
+      "monsters/flyers/tentaclebomb/tentaclebomb.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "During storms it attaches itself to trees to not blow away.",
+      "Por": "Durante tempestades ele se prende às árvores para não ser soprado pra longe."
+    }
+  },
+  {
     "DeniedAlternatives": [
       "Seu movimento é determinado pelos níveis de temperatura na atmosfera."
     ],
@@ -25,6 +40,9 @@
       "monsters/boss/guardianminion/poisonrangedminion.monstertype": [
         "/description"
       ],
+      "monsters/events/envprobe/envprobe.monstertype": [
+        "/description"
+      ],
       "monsters/ghosts/squeem/squeem.monstertype": [
         "/description"
       ]
@@ -32,6 +50,39 @@
     "Texts": {
       "Eng": "Its movement is determined by temperature levels in the atmosphere.",
       "Por": "O seu movimento é determinado pelos níveis de temperatura na atmosfera."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/boss/guardianminion/collidingminion.monstertype": [
+        "/shortdescription"
+      ],
+      "monsters/boss/guardianminion/electricrangedminion.monstertype": [
+        "/shortdescription"
+      ],
+      "monsters/boss/guardianminion/firerangedminion.monstertype": [
+        "/shortdescription"
+      ],
+      "monsters/boss/guardianminion/guardianminion.monstertype": [
+        "/shortdescription"
+      ],
+      "monsters/boss/guardianminion/icerangedminion.monstertype": [
+        "/shortdescription"
+      ],
+      "monsters/boss/guardianminion/largeminion.monstertype": [
+        "/shortdescription"
+      ],
+      "monsters/boss/guardianminion/poisonrangedminion.monstertype": [
+        "/shortdescription"
+      ],
+      "monsters/events/envprobe/envprobe.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Minion",
+      "Por": "Minion"
     }
   }
 ]

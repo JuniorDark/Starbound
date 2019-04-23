@@ -1,0 +1,125 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/generator.config": [
+        "/edges/12/prev/text/skipMessage"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are you... Psychic?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/generator.config": [
+        "/edges/9/prev/text/skipMessage"
+      ]
+    },
+    "Texts": {
+      "Eng": "Did you deduce that passcode with your advanced detective skills? Nice work, partner!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/generator.config": [
+        "/edges/8/prev/text/skipMessage"
+      ]
+    },
+    "Texts": {
+      "Eng": "Did you just... Guess that passcode? You're a loose cannon, partner."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/generator.config": [
+        "/edges/16/mid/text/skipMessage"
+      ]
+    },
+    "Texts": {
+      "Eng": "I like your style - no need to find the vault code, just guess it! Nice work, partner!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/generator.config": [
+        "/edges/14/mid/text/skipMessage"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nice hacking, partner! What were the chances that you would successfully guess that?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/generator.config": [
+        "/steps/capture_bounty/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nice work takin' down that criminal, partner!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/generator.config": [
+        "/edges/13/prev/text/skipMessage"
+      ]
+    },
+    "Texts": {
+      "Eng": "No password-protected vault can slow you down, huh?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/generator.config": [
+        "/edges/15/mid/text/skipMessage"
+      ]
+    },
+    "Texts": {
+      "Eng": "We didn't even find that code yet. Impressive hacking, partner!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/generator.config": [
+        "/edges/27/prev/text/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "We have picked up the target's signature from this planet. Proceed down to <next.coordinate.name> and apprehend the criminal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/generator.config": [
+        "/edges/28/prev/text/message",
+        "/edges/29/prev/text/message",
+        "/edges/30/prev/text/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "We have picked up the target's signature from this planet. Proceed down to <next.coordinate.name> to investigate further."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/generator.config": [
+        "/edges/31/prev/text/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "We've' picked up the target's signature from this planet. Proceed down to <next.coordinate.name> to investigate further."
+    }
+  }
+]

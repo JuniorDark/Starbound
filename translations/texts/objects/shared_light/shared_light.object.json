@@ -85,6 +85,21 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "objects/generic/bluelight/bluelight.object": [
+        "/glitchDescription"
+      ],
+      "objects/neon/neonlight/neonlight.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intrigued. Why does this light make me feel so cold?",
+      "Por": "Intrigado. Por que essa luz me faz sentir tão frio?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "objects/apex/classiclight/classiclight.object": [
         "/floranDescription"
       ],
@@ -228,6 +243,21 @@
     "Texts": {
       "Eng": "This light is nearly as bright as me!",
       "Por": "Esta luz é quase tão brilhante quanto eu!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/bluelight/bluelight.object": [
+        "/novakidDescription"
+      ],
+      "objects/neon/neonlight/neonlight.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This light's like a cold burnin' star, though a little smaller.",
+      "Por": "Esta luz está como uma estrela ardente fria, embora um pouco menor."
     }
   }
 ]

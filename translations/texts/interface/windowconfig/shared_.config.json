@@ -62,6 +62,9 @@
       "interface/windowconfig/portraitconfirmation.config": [
         "/paneLayout/windowtitle/title"
       ],
+      "interface/windowconfig/simpleconfirmation.config": [
+        "/paneLayout/windowtitle/title"
+      ],
       "interface/windowconfig/warpout.config": [
         "/paneLayout/windowtitle/title"
       ]
@@ -112,6 +115,12 @@
       ],
       "interface/windowconfig/questcomplete.config": [
         "/paneLayout/btnAccept/caption"
+      ],
+      "interface/windowconfig/questcomplete_bounty.config": [
+        "/paneLayout/btnAccept/caption"
+      ],
+      "interface/windowconfig/simpleconfirmation.config": [
+        "/paneLayout/ok/caption"
       ],
       "interface/windowconfig/warpout.config": [
         "/paneLayout/ok/caption"
@@ -165,6 +174,9 @@
         "/paneLayout/lblQuestTitle/value"
       ],
       "interface/windowconfig/questcomplete.config": [
+        "/paneLayout/lblQuestTitle/value"
+      ],
+      "interface/windowconfig/questcomplete_bounty.config": [
         "/paneLayout/lblQuestTitle/value"
       ],
       "interface/windowconfig/questfailed.config": [
@@ -316,6 +328,9 @@
         "/paneLayout/lblQuestBody/value"
       ],
       "interface/windowconfig/questcomplete.config": [
+        "/paneLayout/lblQuestBody/value"
+      ],
+      "interface/windowconfig/questcomplete_bounty.config": [
         "/paneLayout/lblQuestBody/value"
       ],
       "interface/windowconfig/questfailed.config": [

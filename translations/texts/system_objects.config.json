@@ -15,6 +15,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "system_objects.config": [
+        "/bountyanomaly/parameters/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Criminal Hideout"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "system_objects.config": [
         "/spacestation_electronics/parameters/displayName"
       ]
     },
@@ -78,6 +89,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "system_objects.config": [
+        "/spacestation_peacekeeper1/parameters/description",
+        "/spacestation_peacekeeper2/parameters/description",
+        "/spacestation_peacekeeper3/parameters/description",
+        "/spacestation_peacekeeper4/parameters/description",
+        "/spacestation_peacekeeper5/parameters/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Home of Peacekeepers, a.k.a. Laser Space Cops"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "system_objects.config": [
         "/cultistship/parameters/displayName",
         "/pirateship/parameters/displayName"
       ]
@@ -103,6 +129,21 @@
     "DeniedAlternatives": [],
     "Files": {
       "system_objects.config": [
+        "/spacestation_peacekeeper1/parameters/displayName",
+        "/spacestation_peacekeeper2/parameters/displayName",
+        "/spacestation_peacekeeper3/parameters/displayName",
+        "/spacestation_peacekeeper4/parameters/displayName",
+        "/spacestation_peacekeeper5/parameters/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Peacekeeper Station"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "system_objects.config": [
         "/playerstation/parameters/displayName"
       ]
     },
@@ -121,6 +162,28 @@
     "Texts": {
       "Eng": "Researchers in this station study the effects of microgravity on physiology in order to develop novel medicines.",
       "Por": "Os pesquisadores nesta estação estudam os efeitos da microgravidade na fisiologia para desenvolver novos medicamentos."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "system_objects.config": [
+        "/bountyship/parameters/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Suspicious Ship"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "system_objects.config": [
+        "/bountyanomaly/parameters/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is where criminals hide out."
     }
   },
   {
@@ -178,6 +241,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "system_objects.config": [
+        "/bountyship/parameters/description",
         "/cultistship/parameters/description",
         "/pirateship/parameters/description"
       ]

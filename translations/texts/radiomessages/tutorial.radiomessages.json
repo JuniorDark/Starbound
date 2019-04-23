@@ -27,6 +27,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "radiomessages/tutorial.radiomessages": [
+        "/peacekeeper03/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hope you like the new station, partner! We've even got a ^orange;Peacekeeper supply store^white; now!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/tutorial.radiomessages": [
         "/pickupflag/text"
       ]
     },
@@ -99,6 +110,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "radiomessages/tutorial.radiomessages": [
+        "/peacekeeper02/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "It turns out that our first gang bust gave us enough public support to get an office! It ain't much, but it's a start!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/tutorial.radiomessages": [
         "/hungry/text"
       ]
     },
@@ -117,6 +139,28 @@
     "Texts": {
       "Eng": "This door will transport you to a challenging room that you may attempt to traverse. I applaud your intrepid disposition.",
       "Por": "Esta porta vai transportá-lo para uma sala de desafio que você pode tentar atravessar. Aplaudo a sua disposição corajosa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/tutorial.radiomessages": [
+        "/peacekeeper05/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "We've finally hit the big time, partner! The Peacekeepers are well an' truly back, and lookin' finer than ever!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/tutorial.radiomessages": [
+        "/peacekeeper04/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welcome to our mighty fine new place, partner! Why not check out our ^orange;Peacekeeper Furnishing store^white;?"
     }
   },
   {

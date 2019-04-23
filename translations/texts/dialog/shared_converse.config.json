@@ -1,0 +1,50 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/peacekeeperconverse.config": [
+        "/converse/floran/default/0"
+      ],
+      "dialog/spaceconverse.config": [
+        "/converse/floran/default/6",
+        "/converse/floran/floran/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran's name is <selfname>. Floran saying hello!",
+      "Por": "O nome de Floran é <selfname>. Floran dizendo oi!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/peacekeeperconverse.config": [
+        "/converse/novakid/default/6"
+      ],
+      "dialog/spaceconverse.config": [
+        "/converse/novakid/default/8",
+        "/converse/novakid/novakid/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "It ain't easy to blend in around these parts when you light up like a summer afternoon.",
+      "Por": "Não é fácil misturar-se por essas bandas quando você brilha como uma tarde de verão."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/peacekeeperconverse.config": [
+        "/converse/avian/default/0"
+      ],
+      "dialog/spaceconverse.config": [
+        "/converse/avian/avian/7",
+        "/converse/avian/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Well ruffle my feathers - a friendly new face!",
+      "Por": "Pelas minhas penas - um novo rosto amigável!"
+    }
+  }
+]

@@ -51,18 +51,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/combat.config": [
-        "/reattack/glitch/default/1"
-      ]
-    },
-    "Texts": {
-      "Eng": "Aggressive. This time you will not escape.",
-      "Por": "Agressivo. Desta vez você não escapará."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/combat.config": [
         "/reattack/default/default/2"
       ]
     },
@@ -753,18 +741,6 @@
     "Texts": {
       "Eng": "Floran will go hunt ssomething else.",
       "Por": "Floran vai caçar outra coisa."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/combat.config": [
-        "/reattack/floran/default/3"
-      ]
-    },
-    "Texts": {
-      "Eng": "Floran will ssstop you this time!",
-      "Por": "Floran vai parar você desta vez!"
     }
   },
   {
@@ -1494,18 +1470,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/combat.config": [
-        "/outOfSight/glitch/default/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "Patient. I'll just wait here 'til you come back.",
-      "Por": "Paciente. Vou esperar aqui até você voltar."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/combat.config": [
         "/killedTarget/glitch/default/4"
       ]
     },
@@ -1830,18 +1794,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/combat.config": [
-        "/outOfSight/default/default/1"
-      ]
-    },
-    "Texts": {
-      "Eng": "They're getting away!",
-      "Por": "Eles estão fugindo!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/combat.config": [
         "/cantReach/floran/default/0"
       ]
     },
@@ -2136,18 +2088,6 @@
     "Texts": {
       "Eng": "Yes!",
       "Por": "Sim!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/combat.config": [
-        "/reattack/default/default/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "You again!",
-      "Por": "Você novamente!"
     }
   },
   {

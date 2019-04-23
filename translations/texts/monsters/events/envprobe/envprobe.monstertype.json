@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/events/envprobe/envprobe.monstertype": [
+        "/baseParameters/dialog/aggro/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "*ENVIRONMENTAL HARM DETECTED - BEGIN ZAP PROTOCOL*"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/events/envprobe/envprobe.monstertype": [
+        "/baseParameters/dialog/approach/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "*NATURE PRESERVATION DIRECTIVE INITIATED*"
+    }
+  }
+]

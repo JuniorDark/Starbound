@@ -101,6 +101,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/confirmation/teleportconfirmation.config": [
+        "/bounty/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "\n\nThis console will teleport you to the target's hideout."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/teleportconfirmation.config": [
         "/mechupgrade2/subtitle"
       ]
     },
@@ -143,6 +154,17 @@
     "Texts": {
       "Eng": "Arena Champion: Templar Inferno",
       "Por": "Campeão da Arena: Templar Inferno"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/teleportconfirmation.config": [
+        "/bounty/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bounty Lair"
     }
   },
   {
@@ -238,6 +260,7 @@
         "/arena1/okCaption",
         "/arena2/okCaption",
         "/arena3/okCaption",
+        "/bounty/okCaption",
         "/mechunlock/okCaption",
         "/mechupgrade2/okCaption",
         "/penguinmission2/okCaption",
@@ -258,6 +281,7 @@
         "/arena1/title",
         "/arena2/title",
         "/arena3/title",
+        "/bounty/title",
         "/mechunlock/title",
         "/mechupgrade2/title",
         "/penguinmission1/title",

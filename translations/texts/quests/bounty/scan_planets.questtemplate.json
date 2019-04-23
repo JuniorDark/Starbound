@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/scan_planets.questtemplate": [
+        "/scriptConfig/generatedText/text/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "<bounty.name> was last seen somewhere in <coordinate.systemName>."
+    }
+  }
+]

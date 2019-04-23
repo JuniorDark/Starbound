@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/find_space_clue_item.questtemplate": [
+        "/completionText"
+      ],
+      "quests/bounty/find_space_clue_npc.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "You have found a clue. HMMMM, where does it lead?"
+    }
+  }
+]

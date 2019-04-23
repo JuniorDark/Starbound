@@ -1,0 +1,86 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/glass.matitem": [
+        "/glitchdescription"
+      ],
+      "items/materials/slopedglasspanel.matitem": [
+        "/glitchdescription"
+      ],
+      "tiles/materials/glass.material": [
+        "/glitchDescription"
+      ],
+      "tiles/materials/slopedglasspanel.material": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Attentive. I can see clearly though this transparent glass.",
+      "Por": "Atencioso. Eu posso ver claramente através deste vidro transparente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/glass.matitem": [
+        "/florandescription"
+      ],
+      "items/materials/slopedglasspanel.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/glass.material": [
+        "/floranDescription"
+      ],
+      "tiles/materials/slopedglasspanel.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran lookss pretty in glasssss.",
+      "Por": "Floran parece bonito nos vidrosss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/glass.matitem": [
+        "/novakiddescription"
+      ],
+      "items/materials/slopedglasspanel.matitem": [
+        "/novakiddescription"
+      ],
+      "tiles/materials/glass.material": [
+        "/novakidDescription"
+      ],
+      "tiles/materials/slopedglasspanel.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can see clear through t'the other side of this glass.",
+      "Por": "Eu posso ver claramente o outro lado deste vidro."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/glass.matitem": [
+        "/description"
+      ],
+      "items/materials/slopedglasspanel.matitem": [
+        "/description"
+      ],
+      "tiles/materials/glass.material": [
+        "/description"
+      ],
+      "tiles/materials/slopedglasspanel.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can see my reflection.",
+      "Por": "Eu posso ver meu reflexo."
+    }
+  }
+]
