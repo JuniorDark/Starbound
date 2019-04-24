@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^green;<prev.coordinate.name>^reset;:\nA clue I found here has led me to <coordinate.name>.\n\n"
+      "Eng": "^green;<prev.coordinate.name>^reset;:\nA clue I found here has led me to <coordinate.name>.\n\n",
+      "Por": "^green;<prev.coordinate.name>^reset;:\nUma pista que encontrei aqui me levou a <coordinate.name>.\n\n"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^green;<prev.coordinate.name>^reset;:\nI discovered a lead here that takes me to <coordinate.name>.\n\n"
+      "Eng": "^green;<prev.coordinate.name>^reset;:\nI discovered a lead here that takes me to <coordinate.name>.\n\n",
+      "Por": "^green;<prev.coordinate.name>^reset;:\nEu descobri uma pista aqui que me leva a <coordinate.name>.\n\n"
     }
   }
 ]
