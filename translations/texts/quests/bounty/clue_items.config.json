@@ -661,7 +661,8 @@
       ]
     },
     "Texts": {
-      "Eng": "They're right - we're certainly on their tail! Seems like we can catch 'em at <next.coordinate.name>!"
+      "Eng": "They're right - we're certainly on their tail! Seems like we can catch 'em at <next.coordinate.name>!",
+      "Por": "Eles estão certos - nós estamos certamente na sua cola! Parece que podemos pegá-los em <next.coordinate.name>!"
     }
   },
   {
@@ -676,7 +677,8 @@
       ]
     },
     "Texts": {
-      "Eng": "They're slick, but they ain't slick enough to throw us off! Onward-bound to <next.coordinate.name>!"
+      "Eng": "They're slick, but they ain't slick enough to throw us off! Onward-bound to <next.coordinate.name>!",
+      "Por": "Eles são escorregadios, mas não são bons o suficiente para escapar de nós! Avante com destino à <next.coordinate.name>!"
     }
   },
   {
@@ -692,7 +694,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Well that is a mighty fine lead! I think you need to hurry your hide over to <next.coordinate.name>!"
+      "Eng": "Well that is a mighty fine lead! I think you need to hurry your hide over to <next.coordinate.name>!",
+      "Por": "Bem, isso é uma boa pista! Eu acho que você precisa apressar e ir ao seu esconderijo em <next.coordinate.name>!"
     }
   },
   {
@@ -703,7 +706,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Why are people usin' paper to write notes still? We have ships that can travel faster than light, I feel like we shouldn't be usin' paper anymore. It looks like <next.coordinate.name> is your next target."
+      "Eng": "Why are people usin' paper to write notes still? We have ships that can travel faster than light, I feel like we shouldn't be usin' paper anymore. It looks like <next.coordinate.name> is your next target.",
+      "Por": "Por que as pessoas estão usando papel para escrever notas ainda? Nós temos naves que podem viajar mais rápido que a luz, eu sinto que não deveríamos mais usar papel. Parece que <next.coordinate.name> é o seu próximo alvo."
     }
   },
   {
@@ -714,7 +718,8 @@
       ]
     },
     "Texts": {
-      "Eng": "ª Gang Announcement ª\n\nThere have been several incidents of lackeys who have forgotten the code to open the vault.\nIf this happens to you, make your way to <next.coordinate.name> so you can be informed of the code.\nWhatever you do, don't write it down! It's a terrible security flaw!\n\n~ <bounty.name>"
+      "Eng": "ª Gang Announcement ª\n\nThere have been several incidents of lackeys who have forgotten the code to open the vault.\nIf this happens to you, make your way to <next.coordinate.name> so you can be informed of the code.\nWhatever you do, don't write it down! It's a terrible security flaw!\n\n~ <bounty.name>",
+      "Por": "ª Anúncio da Gangue ª\n\nHouve vários incidentes de lacaios que esqueceram o código para abrir o cofre.\nSe isso acontecer com você, vá até <next.coordinate.name> para que você possa ser informado do código.\nFaça o que fizer, não anote! É uma falha de segurança terrível!\n\n~ <bounty.name>"
     }
   }
 ]
