@@ -10,7 +10,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Find target"
+      "Eng": "Find target",
+      "Por": "Encontre o alvo"
     }
   },
   {
@@ -24,7 +25,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^green;<prev.coordinate.name>^reset;:\nA henchman I interrogated gave me the location \"<coordinate.name>\".\n\n"
+      "Eng": "^green;<prev.coordinate.name>^reset;:\nA henchman I interrogated gave me the location \"<coordinate.name>\".\n\n",
+      "Por": "^green;<prev.coordinate.name>^reset;:\nUm capanga que eu interroguei me deu a localização \"<coordinate.name>\".\n\n"
     }
   },
   {
@@ -38,7 +40,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^green;<prev.coordinate.name>^reset;:\nAfter some encouragement, a henchman gave me the location \"<coordinate.name>\".\n\n"
+      "Eng": "^green;<prev.coordinate.name>^reset;:\nAfter some encouragement, a henchman gave me the location \"<coordinate.name>\".\n\n",
+      "Por": "^green;<prev.coordinate.name>^reset;:\nDepois de algum incentivo, um capanga me deu a localização \"<coordinate.name>\".\n\n"
     }
   },
   {
@@ -52,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^green;<prev.coordinate.name>^reset;:\nOne of <bounty.name>'s lackeys led me to \"<coordinate.name>\".\n\n"
+      "Eng": "^green;<prev.coordinate.name>^reset;:\nOne of <bounty.name>'s lackeys led me to \"<coordinate.name>\".\n\n",
+      "Por": "^green;<prev.coordinate.name>^reset;:\nUm dos lacaios de <bounty.name> me levou a \"<coordinate.name>\".\n"
     }
   }
 ]
