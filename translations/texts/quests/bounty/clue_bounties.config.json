@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "<bounty.name>? I've encountered that fiend on my travels. I last saw them around ^orange;<next.coordinate.name>^reset;."
+      "Eng": "<bounty.name>? I've encountered that fiend on my travels. I last saw them around ^orange;<next.coordinate.name>^reset;.",
+      "Por": "<bounty.name>? Encontrei esse demônio nas minhas viagens. Eu os vi pela última vez perto de ^orange;<next.coordinate.name>^reset;."
     }
   },
   {
@@ -20,7 +21,8 @@
       ]
     },
     "Texts": {
-      "Eng": "<randomName>, beam me out! Take me to ^orange;<next.coordinate.name>^reset;!"
+      "Eng": "<randomName>, beam me out! Take me to ^orange;<next.coordinate.name>^reset;!",
+      "Por": "<randomName>, me tire daqui! Leve-me a ^orange;<next.coordinate.name>^reset;!"
     }
   },
   {
@@ -39,7 +41,8 @@
       ]
     },
     "Texts": {
-      "Eng": "<randomName>, beam me out! There's a Peacekeeper on my tail! Take me to ^orange;<next.coordinate.name>^reset;!"
+      "Eng": "<randomName>, beam me out! There's a Peacekeeper on my tail! Take me to ^orange;<next.coordinate.name>^reset;!",
+      "Por": "<randomName>,me tire daqui! Há um Pacificador na minha cola! Leve-me para ^orange;<next.coordinate.name>^reset;!"
     }
   },
   {
@@ -52,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "<randomName>, beam me out! There's a Peacekeeper on my trail! Take me to ^orange;<next.coordinate.name>^reset;!"
+      "Eng": "<randomName>, beam me out! There's a Peacekeeper on my trail! Take me to ^orange;<next.coordinate.name>^reset;!",
+      "Por": "<randomName>, me tire daqui! Há um Pacificador me seguindo! Leve-me para ^orange;<next.coordinate.name>^reset;!"
     }
   },
   {
@@ -65,7 +69,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Alert! I've been spotted! Proceeding to ^orange;<next.coordinate.name>^reset;!"
+      "Eng": "Alert! I've been spotted! Proceeding to ^orange;<next.coordinate.name>^reset;!",
+      "Por": "Alerta! Fui visto! Prosseguindo para ^orange;<next.coordinate.name>^reset;!"
     }
   },
   {
@@ -76,7 +81,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Are you lookin' for that famous wrongdoer, <bounty.name>? Word around the saloon is that they were last seen on ^orange;<next.coordinate.name>^reset;!"
+      "Eng": "Are you lookin' for that famous wrongdoer, <bounty.name>? Word around the saloon is that they were last seen on ^orange;<next.coordinate.name>^reset;!",
+      "Por": "Você está procurando por aquele famoso criminoso, <bounty.name>? Boatos pelo Saloon dizem que eles foram vistos pela última vez em ^orange;<next.coordinate.name>^reset;!"
     }
   },
   {
@@ -89,7 +95,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Are you lookin' for that notorious criminal, <bounty.name>? Word on the street is that they were last seen on ^orange;<next.coordinate.name>^reset;!"
+      "Eng": "Are you lookin' for that notorious criminal, <bounty.name>? Word on the street is that they were last seen on ^orange;<next.coordinate.name>^reset;!",
+      "Por": "Você está procurando aquele criminoso notório, <bounty.name>? Boatos na rua é que eles foram vistos pela última vez em ^orange;<next.coordinate.name>^reset;!"
     }
   },
   {
@@ -100,7 +107,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Are you searching for <bounty.name>, famous bad guy? Word on the street is that they were last seen on ^orange;<next.coordinate.name>^reset;!"
+      "Eng": "Are you searching for <bounty.name>, famous bad guy? Word on the street is that they were last seen on ^orange;<next.coordinate.name>^reset;!",
+      "Por": "Você está procurando por <bounty.name>, o famoso bandido? Boatos na rua é que eles foram vistos pela última vez em ^orange;<next.coordinate.name>^reset;!"
     }
   },
   {
@@ -111,7 +119,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Are you the Peacekeeper lookin' for <bounty.name>? Lucky for you, I can help you out - they're on ^orange;<next.coordinate.name>^reset;!"
+      "Eng": "Are you the Peacekeeper lookin' for <bounty.name>? Lucky for you, I can help you out - they're on ^orange;<next.coordinate.name>^reset;!",
+      "Por": "Você é o Pacificador procurando por <bounty.name>? Sorte sua, posso te ajudar - eles estão em ^orange;<next.coordinate.name>^reset;!"
     }
   },
   {
@@ -125,7 +134,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Are you the Peacekeeper looking for <bounty.name>? Well luckily I can help you out - they're on ^orange;<next.coordinate.name>^reset;!"
+      "Eng": "Are you the Peacekeeper looking for <bounty.name>? Well luckily I can help you out - they're on ^orange;<next.coordinate.name>^reset;!",
+      "Por": "Você é o Pacificador procurando por <bounty.name>? Bem, felizmente eu posso te ajudar - eles estão em ^orange;<next.coordinate.name>^reset;!"
     }
   },
   {
@@ -136,7 +146,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Criminals sure do love to talk loudly about their plans! You'd better make your way on over to ^green;<next.coordinate.name>^reset;."
+      "Eng": "Criminals sure do love to talk loudly about their plans! You'd better make your way on over to ^green;<next.coordinate.name>^reset;.",
+      "Por": "Criminosos com certeza adoram falar em voz alta sobre seus planos! É melhor você ir para ^green;<next.coordinate.name>^reset;."
     }
   },
   {
@@ -149,7 +160,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Dagnabbit, I've been spotted! better make my way to ^orange;<next.coordinate.name>^reset;!"
+      "Eng": "Dagnabbit, I've been spotted! better make my way to ^orange;<next.coordinate.name>^reset;!",
+      "Por": "Droga, fui visto! melhor eu ir para ^orange;<next.coordinate.name>^reset;!"
     }
   },
   {
@@ -160,7 +172,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran hasss seen <bounty.name>! Floran sssaw them on ^orange;<next.coordinate.name>^reset;."
+      "Eng": "Floran hasss seen <bounty.name>! Floran sssaw them on ^orange;<next.coordinate.name>^reset;.",
+      "Por": "Floran viu <bounty.name>! Floran os viu em ^orange;<next.coordinate.name>^reset;."
     }
   },
   {
@@ -171,7 +184,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran hasss seen criminal! Floran sssaw them on ^orange;<next.coordinate.name>^reset;."
+      "Eng": "Floran hasss seen criminal! Floran sssaw them on ^orange;<next.coordinate.name>^reset;.",
+      "Por": "Floran viu criminoso! Floran os viu em ^orange;<next.coordinate.name>^reset;."
     }
   },
   {
@@ -184,7 +198,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran isss going to ^orange;<next.coordinate.name>^reset;!"
+      "Eng": "Floran isss going to ^orange;<next.coordinate.name>^reset;!",
+      "Por": "Floran vai para ^orange;<next.coordinate.name>^reset;!"
     }
   },
   {
@@ -195,7 +210,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran knowssss where crime perssson isss! Crime perssson is on ^orange;<next.coordinate.name>^reset;!"
+      "Eng": "Floran knowssss where crime perssson isss! Crime perssson is on ^orange;<next.coordinate.name>^reset;!",
+      "Por": "Floran sssabe onde pessoa do crime essstá! Pessoa do crime essstá em ^orange;<next.coordinate.name>^reset;!"
     }
   },
   {
@@ -208,7 +224,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran needsss to fly to ^orange;<next.coordinate.name>^reset;!"
+      "Eng": "Floran needsss to fly to ^orange;<next.coordinate.name>^reset;!",
+      "Por": "Floran precisa de voar para ^orange;<next.coordinate.name>^reset;!"
     }
   },
   {
@@ -219,7 +236,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Helpful. Are you looking for that infamous vagabond, <bounty.name>? Word on the street is that they were last seen on ^orange;<next.coordinate.name>^reset;!"
+      "Eng": "Helpful. Are you looking for that infamous vagabond, <bounty.name>? Word on the street is that they were last seen on ^orange;<next.coordinate.name>^reset;!",
+      "Por": "Útil. Você está procurando por aquele infame vagabundo, <bounty.name>? Boatos na rua é que eles foram vistos pela última vez em ^orange;<next.coordinate.name>^reset;!"
     }
   },
   {
@@ -230,7 +248,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Helpful. Are you the Peacekeeper looking for <bounty.name>? Well luckily I can help you out - they're on ^orange;<next.coordinate.name>^reset;!"
+      "Eng": "Helpful. Are you the Peacekeeper looking for <bounty.name>? Well luckily I can help you out - they're on ^orange;<next.coordinate.name>^reset;!",
+      "Por": "Útil. Você é o Pacificador procurando por <bounty.name>? Bem, felizmente eu posso ajudá-lo - eles estão em ^orange;<next.coordinate.name>^reset;!"
     }
   },
   {
@@ -241,7 +260,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Helpful. I have seen that scoundrel you're looking for. I would never forget a face like that! I hear they've been hanging around ^orange;<next.coordinate.name>^reset;."
+      "Eng": "Helpful. I have seen that scoundrel you're looking for. I would never forget a face like that! I hear they've been hanging around ^orange;<next.coordinate.name>^reset;.",
+      "Por": "Útil. Eu vi aquele canalha que você está procurando. Eu nunca esqueceria um rosto assim! Eu ouvi dizer que eles estão andando perto de ^orange;<next.coordinate.name>^reset;."
     }
   },
   {
@@ -252,7 +272,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Helpful. You're looking for <bounty.name>? I've heard of them! From what I am told, you might see them around ^orange;<next.coordinate.name>^reset;."
+      "Eng": "Helpful. You're looking for <bounty.name>? I've heard of them! From what I am told, you might see them around ^orange;<next.coordinate.name>^reset;.",
+      "Por": "Útil. Você está procurando por <bounty.name>? Já ouvi falar deles! Pelo que me disseram, você pode encontra-los perto de ^orange;<next.coordinate.name>^reset;."
     }
   },
   {
@@ -265,7 +286,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I ain't gettin' caught this easily - beam me out, <randomName>! Where? To ^orange;<next.coordinate.name>^reset;, of course!"
+      "Eng": "I ain't gettin' caught this easily - beam me out, <randomName>! Where? To ^orange;<next.coordinate.name>^reset;, of course!",
+      "Por": "Eu não vou ser pego tão facilmente - me tire daqui, <randomName>! Onde? Para ^orange;<next.coordinate.name>^reset;, é claro!"
     }
   },
   {
@@ -276,7 +298,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I hear a lot of gossip - you're looking for <bounty.name>? I hear they've been hanging around ^orange;<next.coordinate.name>^reset;."
+      "Eng": "I hear a lot of gossip - you're looking for <bounty.name>? I hear they've been hanging around ^orange;<next.coordinate.name>^reset;.",
+      "Por": "Eu ouço muitas fofocas - você está procurando por <bounty.name>? Eu ouvi dizer que eles estão andando perto de ^orange;<next.coordinate.name>^reset;."
     }
   },
   {
@@ -289,7 +312,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I've been found - beam me out, <randomName>! Where? To ^orange;<next.coordinate.name>^reset;, of course!"
+      "Eng": "I've been found - beam me out, <randomName>! Where? To ^orange;<next.coordinate.name>^reset;, of course!",
+      "Por": "Eu fui encontrado - me tire daqui, <randomName>! Onde? Para ^orange;<next.coordinate.name>^reset;, é claro!"
     }
   },
   {
@@ -302,7 +326,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I've been found - beam me up, <randomName>! Where? To ^orange;<next.coordinate.name>^reset;, of course!"
+      "Eng": "I've been found - beam me up, <randomName>! Where? To ^orange;<next.coordinate.name>^reset;, of course!",
+      "Por": "Eu fui encontrado - me tire daqui, <randomName>! Onde? Para ^orange;<next.coordinate.name>^reset;, é claro!"
     }
   },
   {
@@ -315,7 +340,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I've been spotted - time to fly! I better make my way to ^orange;<next.coordinate.name>^reset;!"
+      "Eng": "I've been spotted - time to fly! I better make my way to ^orange;<next.coordinate.name>^reset;!",
+      "Por": ""
     }
   },
   {
@@ -326,7 +352,8 @@
       ]
     },
     "Texts": {
-      "Eng": "I've seen that vagabond you're looking for - I got an eye for wrongdoers. I hear they've been hanging around ^orange;<next.coordinate.name>^reset;."
+      "Eng": "I've seen that vagabond you're looking for - I got an eye for wrongdoers. I hear they've been hanging around ^orange;<next.coordinate.name>^reset;.",
+      "Por": ""
     }
   },
   {
@@ -337,7 +364,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Mighty convenient that the target told us where they're goin'! You'd better make your way on over to ^green;<next.coordinate.name>^reset;."
+      "Eng": "Mighty convenient that the target told us where they're goin'! You'd better make your way on over to ^green;<next.coordinate.name>^reset;.",
+      "Por": ""
     }
   },
   {
@@ -350,7 +378,8 @@
       ]
     },
     "Texts": {
-      "Eng": "My position is compromised - beam me out, <randomName>! Where? To ^orange;<next.coordinate.name>^reset;, of course!"
+      "Eng": "My position is compromised - beam me out, <randomName>! Where? To ^orange;<next.coordinate.name>^reset;, of course!",
+      "Por": ""
     }
   },
   {
@@ -363,7 +392,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Panicked. I have been spotted! better make my way to ^orange;<next.coordinate.name>^reset;!"
+      "Eng": "Panicked. I have been spotted! better make my way to ^orange;<next.coordinate.name>^reset;!",
+      "Por": ""
     }
   },
   {
@@ -376,7 +406,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The Peacekeepers are here! I better make my way to ^orange;<next.coordinate.name>^reset;!"
+      "Eng": "The Peacekeepers are here! I better make my way to ^orange;<next.coordinate.name>^reset;!",
+      "Por": ""
     }
   },
   {
@@ -389,7 +420,8 @@
       ]
     },
     "Texts": {
-      "Eng": "They have found me - beam me out, <randomName>! Where? To ^orange;<next.coordinate.name>^reset;, of course!"
+      "Eng": "They have found me - beam me out, <randomName>! Where? To ^orange;<next.coordinate.name>^reset;, of course!",
+      "Por": ""
     }
   },
   {
@@ -402,7 +434,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Time for Floran to essscape to ^orange;<next.coordinate.name>^reset;!"
+      "Eng": "Time for Floran to essscape to ^orange;<next.coordinate.name>^reset;!",
+      "Por": ""
     }
   },
   {
@@ -415,7 +448,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Uh-oh, I've been spotted! better make my way to ^orange;<next.coordinate.name>^reset;!"
+      "Eng": "Uh-oh, I've been spotted! better make my way to ^orange;<next.coordinate.name>^reset;!",
+      "Por": ""
     }
   },
   {
@@ -426,7 +460,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Well, I guess they just told us exactly where they're goin'. You'd better make your way on over to ^green;<next.coordinate.name>^reset;."
+      "Eng": "Well, I guess they just told us exactly where they're goin'. You'd better make your way on over to ^green;<next.coordinate.name>^reset;.",
+      "Por": ""
     }
   },
   {
@@ -437,7 +472,8 @@
       ]
     },
     "Texts": {
-      "Eng": "What a helpful member of the galactic public! Looks like you have your next destination - ^orange;<next.coordinate.name>^reset;!"
+      "Eng": "What a helpful member of the galactic public! Looks like you have your next destination - ^orange;<next.coordinate.name>^reset;!",
+      "Por": ""
     }
   },
   {
@@ -450,7 +486,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Worried. <randomName>, beam me out! There's a Peacekeeper on my tail! Take me to ^orange;<next.coordinate.name>^reset;!"
+      "Eng": "Worried. <randomName>, beam me out! There's a Peacekeeper on my tail! Take me to ^orange;<next.coordinate.name>^reset;!",
+      "Por": ""
     }
   },
   {
@@ -463,7 +500,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Worried. I've been found - beam me out, <randomName>! Where? To ^orange;<next.coordinate.name>^reset;, of course!"
+      "Eng": "Worried. I've been found - beam me out, <randomName>! Where? To ^orange;<next.coordinate.name>^reset;, of course!",
+      "Por": ""
     }
   },
   {
@@ -474,7 +512,8 @@
       ]
     },
     "Texts": {
-      "Eng": "You're lookin' for <bounty.name>? I've heard o' them! From what I hear, you might see them around ^orange;<next.coordinate.name>^reset;."
+      "Eng": "You're lookin' for <bounty.name>? I've heard o' them! From what I hear, you might see them around ^orange;<next.coordinate.name>^reset;.",
+      "Por": ""
     }
   },
   {
@@ -485,7 +524,8 @@
       ]
     },
     "Texts": {
-      "Eng": "You're looking for <bounty.name>? I hear they've been hanging around ^orange;<next.coordinate.name>^reset;."
+      "Eng": "You're looking for <bounty.name>? I hear they've been hanging around ^orange;<next.coordinate.name>^reset;.",
+      "Por": ""
     }
   },
   {
@@ -496,7 +536,8 @@
       ]
     },
     "Texts": {
-      "Eng": "You're looking for <bounty.name>? I may know of their whereabouts! From what I am told, you might see them around ^orange;<next.coordinate.name>^reset;."
+      "Eng": "You're looking for <bounty.name>? I may know of their whereabouts! From what I am told, you might see them around ^orange;<next.coordinate.name>^reset;.",
+      "Por": ""
     }
   },
   {
@@ -509,7 +550,8 @@
       ]
     },
     "Texts": {
-      "Eng": "You're looking for <bounty.name>? I've heard of them! From what I am told, you might see them around ^orange;<next.coordinate.name>^reset;."
+      "Eng": "You're looking for <bounty.name>? I've heard of them! From what I am told, you might see them around ^orange;<next.coordinate.name>^reset;.",
+      "Por": ""
     }
   },
   {
@@ -520,7 +562,8 @@
       ]
     },
     "Texts": {
-      "Eng": "You're looking for the infamous and attractive <bounty.name>? I hear they've been hanging around ^orange;<next.coordinate.name>^reset;."
+      "Eng": "You're looking for the infamous and attractive <bounty.name>? I hear they've been hanging around ^orange;<next.coordinate.name>^reset;.",
+      "Por": ""
     }
   }
 ]
