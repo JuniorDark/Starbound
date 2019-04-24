@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "All right, enough. You want ^orange;Asra Nox^reset;? She's on the Starship ^orange;Dantalion^reset; - I'll give you the coordinates."
+      "Eng": "All right, enough. You want ^orange;Asra Nox^reset;? She's on the Starship ^orange;Dantalion^reset; - I'll give you the coordinates.",
+      "Por": "Está bem, chega. Você quer ^orange;Asra Nox^reset;? Ela está na nave ^orange;Dantalion^reset; - Eu vou te dar as coordenadas."
     }
   },
   {
@@ -22,7 +23,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Alright, I ain't got no choice but to squeal! They're <next.coordinate.preposition> <next.coordinate.name>!"
+      "Eng": "Alright, I ain't got no choice but to squeal! They're <next.coordinate.preposition> <next.coordinate.name>!",
+      "Por": "Tudo bem, eu não tenho escolha a não ser gritar! Eles estão em <next.coordinate.preposition> <next.coordinate.name>!"
     }
   },
   {
@@ -37,7 +39,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Brave. You're not getting anything from me!"
+      "Eng": "Brave. You're not getting anything from me!",
+      "Por": "Corajoso. Você não vai tirar nada de mim!"
     }
   },
   {
@@ -48,7 +51,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Concerned. You want the ^orange;code^reset; to the vault? I'm afraid you cannot have it!"
+      "Eng": "Concerned. You want the ^orange;code^reset; to the vault? I'm afraid you cannot have it!",
+      "Por": "Preocupado. Você quer o ^orange;código^reset; para o cofre? Temo que você não possa ter isso!"
     }
   },
   {
@@ -63,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Dangit! How'd I go and let myself get caught like this? They're <next.coordinate.preposition> <next.coordinate.name>!"
+      "Eng": "Dangit! How'd I go and let myself get caught like this? They're <next.coordinate.preposition> <next.coordinate.name>!",
+      "Por": "Maldição! Como eu me deixei ser pego assim? Eles estão em <next.coordinate.preposition> <next.coordinate.name>!"
     }
   },
   {
@@ -78,7 +83,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Defeated. I have changed my mind, I'll talk! They're <next.coordinate.preposition> <next.coordinate.name>!"
+      "Eng": "Defeated. I have changed my mind, I'll talk! They're <next.coordinate.preposition> <next.coordinate.name>!",
+      "Por": "Derrotado. Eu mudei de idéia, eu falo! Eles estão em <next.coordinate.preposition> <next.coordinate.name>!"
     }
   },
   {
@@ -93,7 +99,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Defiant. I'll never tell you where <bounty.name> is!"
+      "Eng": "Defiant. I'll never tell you where <bounty.name> is!",
+      "Por": "Desafiador. Eu nunca vou te dizer onde <bounty.name> está!"
     }
   },
   {
@@ -108,7 +115,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Defiant. You won't make me talk! I'll never betray <bounty.name>!"
+      "Eng": "Defiant. You won't make me talk! I'll never betray <bounty.name>!",
+      "Por": "Desafiador. Você não vai me fazer falar! Eu nunca vou trair <bounty.name>!"
     }
   },
   {
@@ -119,7 +127,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Don't hurt me! The vault code is ^orange;<password>^reset; - don't let anyone know I told yer!"
+      "Eng": "Don't hurt me! The vault code is ^orange;<password>^reset; - don't let anyone know I told yer!",
+      "Por": "Não me machuque! O código do cofre é ^orange;<password>^reset; - não deixe ninguém saber que eu te disse!"
     }
   },
   {
@@ -133,7 +142,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Don't hurt me! The vault code is ^orange;<password>^reset; - don't let anyone know I told you!"
+      "Eng": "Don't hurt me! The vault code is ^orange;<password>^reset; - don't let anyone know I told you!",
+      "Por": "Não me machuque! O código do cofre é ^orange;<password>^reset; - não deixe ninguém saber que eu te disse!"
     }
   },
   {
@@ -148,7 +158,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Don't ruffle my feathers - I'm willing to talk! They're <next.coordinate.preposition> <next.coordinate.name>!"
+      "Eng": "Don't ruffle my feathers - I'm willing to talk! They're <next.coordinate.preposition> <next.coordinate.name>!",
+      "Por": "Não bagunce minhas penas - estou disposta a conversar! Eles estão em <next.coordinate.preposition> <next.coordinate.name>!"
     }
   },
   {
@@ -163,7 +174,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Don't waste your time - I'll never tell you where <bounty.name> is!"
+      "Eng": "Don't waste your time - I'll never tell you where <bounty.name> is!",
+      "Por": "Não perca seu tempo - eu nunca te direi onde <bounty.name> está!"
     }
   },
   {
@@ -174,7 +186,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Eager. It is my task to keep the ^orange;code^reset; to the vault - I don't intend to fail!"
+      "Eng": "Eager. It is my task to keep the ^orange;code^reset; to the vault - I don't intend to fail!",
+      "Por": "Ansioso. É minha tarefa manter o ^orange;código^reset; para o cofre - não pretendo falhar!"
     }
   },
   {
@@ -189,7 +202,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Exhausted. Okay, okay, I'm willing to talk! They're <next.coordinate.preposition> <next.coordinate.name>!"
+      "Eng": "Exhausted. Okay, okay, I'm willing to talk! They're <next.coordinate.preposition> <next.coordinate.name>!",
+      "Por": "Exausto. Ok, ok, estou disposto a conversar! Eles estão em <next.coordinate.preposition> <next.coordinate.name>!"
     }
   },
   {
@@ -209,7 +223,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Fine, I'll talk! They're <next.coordinate.preposition> <next.coordinate.name>!"
+      "Eng": "Fine, I'll talk! They're <next.coordinate.preposition> <next.coordinate.name>!",
+      "Por": "Tudo bem, eu vou falar! Eles estão em <next.coordinate.preposition> <next.coordinate.name>!"
     }
   },
   {
@@ -223,7 +238,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Fine, I'll tell you, just stop attacking me already! The vault code is ^orange;<password>^reset;, okay?!"
+      "Eng": "Fine, I'll tell you, just stop attacking me already! The vault code is ^orange;<password>^reset;, okay?!",
+      "Por": "Tudo bem, eu vou te dizer, pare de me atacar já! O código do cofre é ^orange;<password>^reset;, ok?!"
     }
   },
   {
@@ -238,7 +254,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Fine, you've got me! They're <next.coordinate.preposition> <next.coordinate.name>!"
+      "Eng": "Fine, you've got me! They're <next.coordinate.preposition> <next.coordinate.name>!",
+      "Por": "Tudo bem, você me pegou! Eles estão em <next.coordinate.preposition> <next.coordinate.name>!"
     }
   },
   {
@@ -253,7 +270,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran changing mind! They're <next.coordinate.preposition> <next.coordinate.name>!"
+      "Eng": "Floran changing mind! They're <next.coordinate.preposition> <next.coordinate.name>!",
+      "Por": "Floran mudando de idéia! Eles estão em <next.coordinate.preposition> <next.coordinate.name>!"
     }
   },
   {
@@ -268,7 +286,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran isss loyal to <bounty.name>!"
+      "Eng": "Floran isss loyal to <bounty.name>!",
+      "Por": "Floran é leal a <bounty.name>!"
     }
   },
   {
@@ -279,7 +298,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran sssuddenly willing to talk! The vault code isss ^orange;<password>^reset;!"
+      "Eng": "Floran sssuddenly willing to talk! The vault code isss ^orange;<password>^reset;!",
+      "Por": "Floran de repente disposto a conversar! O código do cofre é ^orange;<password>^reset;! ^orange;<password>^reset;!"
     }
   },
   {
@@ -290,7 +310,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran sssurrenders! Vault code isss ^orange;<password>^reset;... Now don't hurt Floran more!"
+      "Eng": "Floran sssurrenders! Vault code isss ^orange;<password>^reset;... Now don't hurt Floran more!",
+      "Por": "Floran ssse rende! O código do cofre é ^orange;<password>^reset;... Agora não machuque mais Floran!"
     }
   },
   {
@@ -305,7 +326,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran will sssqueal! They're <next.coordinate.preposition> <next.coordinate.name>!"
+      "Eng": "Floran will sssqueal! They're <next.coordinate.preposition> <next.coordinate.name>!",
+      "Por": "Floran vai gritar! Eles estão em <next.coordinate.preposition> <next.coordinate.name>!"
     }
   },
   {
@@ -320,7 +342,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran will tell! They're <next.coordinate.preposition> <next.coordinate.name>!"
+      "Eng": "Floran will tell! They're <next.coordinate.preposition> <next.coordinate.name>!",
+      "Por": "Floran dirá! Eles estão em <next.coordinate.preposition> <next.coordinate.name>!"
     }
   },
   {
@@ -335,7 +358,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran won't betray <bounty.name>!"
+      "Eng": "Floran won't betray <bounty.name>!",
+      "Por": "Floran não vai trair <bounty.name>!"
     }
   },
   {
@@ -346,7 +370,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran won't give you the ^orange;code^reset; to the sssecret place! Ssso give up!"
+      "Eng": "Floran won't give you the ^orange;code^reset; to the sssecret place! Ssso give up!",
+      "Por": "Floran não te dará o ^orange;código^reset; para o lugar sssecreto! Então desisssta!"
     }
   },
   {
