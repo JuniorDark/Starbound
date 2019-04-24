@@ -75,27 +75,6 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Rejeitar",
-      "Rejeitar "
-    ],
-    "Files": {
-      "interface/windowconfig/newquest.config": [
-        "/paneLayout/btnDecline/caption"
-      ],
-      "interface/windowconfig/newquestshort.config": [
-        "/paneLayout/btnDecline/caption"
-      ],
-      "interface/windowconfig/teaminvitation.config": [
-        "/paneLayout/close/caption"
-      ]
-    },
-    "Texts": {
-      "Eng": "Decline",
-      "Por": "Recusar"
-    }
-  },
-  {
     "DeniedAlternatives": [],
     "Files": {
       "interface/windowconfig/beamupconfirmation.config": [

@@ -552,7 +552,7 @@
           "weaponupgradegui.config.json": 5
         }
       },
-      "shared_.config.json": 17,
+      "shared_.config.json": 16,
       "shared_bow..json": 1,
       "shared_gun..json": 1,
       "shared_mecharm..json": 2,
@@ -613,7 +613,7 @@
         "questcomplete.config.json": 1,
         "questfailed.config.json": 1,
         "questlog.config.json": 10,
-        "shared_.config.json": 14,
+        "shared_.config.json": 13,
         "shared_crafting.json": 5,
         "songbook.config.json": 6,
         "teambar.config.json": 1,
@@ -4686,16 +4686,19 @@
         "undergroundvillager.npctype.json": 25
       },
       "blacksmith.npctype.json": 8,
+      "bounty": {
+        "bountytarget.npctype.json": 0
+      },
       "crew": {
-        "crewmember.npctype.json": 184,
-        "crewmemberchemist.npctype.json": 15,
-        "crewmemberengineer.npctype.json": 3,
-        "crewmemberjanitor.npctype.json": 10,
-        "crewmembermechanic.npctype.json": 3,
-        "crewmembermedic.npctype.json": 20,
-        "crewmemberoutlaw.npctype.json": 51,
-        "crewmembertailor.npctype.json": 23,
-        "shared_crewmember.json": 8
+        "crewmember.npctype.json": 138,
+        "crewmemberchemist.npctype.json": 13,
+        "crewmemberengineer.npctype.json": 1,
+        "crewmemberjanitor.npctype.json": 8,
+        "crewmembermechanic.npctype.json": 1,
+        "crewmembermedic.npctype.json": 18,
+        "crewmemberoutlaw.npctype.json": 49,
+        "crewmembertailor.npctype.json": 21,
+        "shared_crewmember.json": 6
       },
       "dungeon": {
         "apexcamp": {
@@ -4844,7 +4847,7 @@
           "wizardvisitor.npctype.json": 3
         }
       },
-      "shared_.npctype.json": 4,
+      "shared_.npctype.json": 3,
       "shared_r.npctype.json": 5,
       "shared_tutorial.json": 2,
       "space": {
@@ -13999,6 +14002,6 @@
       }
     },
     "universe_server.config.json": 2,
-    "wide_spread_fields.json": 68
+    "wide_spread_fields.json": 70
   }
 }

@@ -761,7 +761,7 @@
     "/gui/editBookmarkFrame/children/close/caption": "texts/interface.json",
     "/gui/editBookmarkFrame/children/name/hint": "texts/interface/shared_.config.json",
     "/gui/editBookmarkFrame/children/name/regex": "texts/interface/shared_.config.json",
-    "/gui/editBookmarkFrame/children/ok/caption": "texts/interface/shared_.config.json",
+    "/gui/editBookmarkFrame/children/ok/caption": "texts/wide_spread_fields.json",
     "/gui/editBookmarkFrame/children/remove/caption": "texts/interface/shared_.config.json",
     "/gui/editBookmarkFrame/children/title/value": "texts/interface/shared_.config.json",
     "/gui/jumpDialog/children/cancel/caption": "texts/interface.json",
@@ -944,7 +944,7 @@
     "/paneLayout/tbSpinCount/regex": "texts/interface/shared_.config.json"
   },
   "interface/optionsmenu/optionsmenu.config": {
-    "/paneLayout/acceptButton/caption": "texts/interface/shared_.config.json",
+    "/paneLayout/acceptButton/caption": "texts/wide_spread_fields.json",
     "/paneLayout/backButton/caption": "texts/interface/shared_smenu.config.json",
     "/paneLayout/musicValueLabel/value": "texts/interface.json",
     "/paneLayout/sfxValueLabel/value": "texts/interface.json"
@@ -1306,7 +1306,7 @@
     "/paneLayout/lblTitle/value": "texts/interface/shared_.config.json",
     "/paneLayout/name/hint": "texts/interface/shared_.config.json",
     "/paneLayout/name/regex": "texts/interface/shared_.config.json",
-    "/paneLayout/ok/caption": "texts/interface/shared_.config.json",
+    "/paneLayout/ok/caption": "texts/wide_spread_fields.json",
     "/paneLayout/remove/caption": "texts/interface/shared_.config.json"
   },
   "interface/windowconfig/error.config": {
@@ -1335,7 +1335,7 @@
     "/keyActions/toolbar/10/label": "texts/wide_spread_fields.json",
     "/keyActions/toolbar/8/label": "texts/wide_spread_fields.json",
     "/keyActions/toolbar/9/label": "texts/wide_spread_fields.json",
-    "/paneLayout/accept/caption": "texts/interface/shared_.config.json",
+    "/paneLayout/accept/caption": "texts/wide_spread_fields.json",
     "/paneLayout/cancel/caption": "texts/interface/shared_smenu.config.json",
     "/paneLayout/categories/tabs/0/tabTitle": "texts/interface/shared_.config.json"
   },
@@ -1353,15 +1353,15 @@
     "/paneLayout/buySellTabs/tabs/1/tabTitle": "texts/interface/windowconfig/shared_.config.json"
   },
   "interface/windowconfig/newquest.config": {
-    "/paneLayout/btnAccept/caption": "texts/interface/shared_.config.json",
-    "/paneLayout/btnDecline/caption": "texts/interface/windowconfig/shared_.config.json",
+    "/paneLayout/btnAccept/caption": "texts/wide_spread_fields.json",
+    "/paneLayout/btnDecline/caption": "texts/wide_spread_fields.json",
     "/paneLayout/lblQuestBody/value": "texts/interface/windowconfig/shared_.config.json",
     "/paneLayout/lblQuestTitle/value": "texts/interface/windowconfig/shared_.config.json",
     "/paneLayout/lblRewards/value": "texts/interface/windowconfig/shared_.config.json"
   },
   "interface/windowconfig/newquestshort.config": {
-    "/paneLayout/btnAccept/caption": "texts/interface/shared_.config.json",
-    "/paneLayout/btnDecline/caption": "texts/interface/windowconfig/shared_.config.json",
+    "/paneLayout/btnAccept/caption": "texts/wide_spread_fields.json",
+    "/paneLayout/btnDecline/caption": "texts/wide_spread_fields.json",
     "/paneLayout/lblMoneyAmount/value": "texts/interface/windowconfig/shared_.config.json",
     "/paneLayout/lblQuestBody/value": "texts/interface/windowconfig/shared_.config.json",
     "/paneLayout/lblQuestTitle/value": "texts/interface/windowconfig/shared_.config.json",
@@ -1422,8 +1422,8 @@
     "/paneLayout/songs/children/list/schema/listTemplate/songName/value": "texts/interface.json"
   },
   "interface/windowconfig/teaminvitation.config": {
-    "/paneLayout/close/caption": "texts/interface/windowconfig/shared_.config.json",
-    "/paneLayout/ok/caption": "texts/interface/shared_.config.json"
+    "/paneLayout/close/caption": "texts/wide_spread_fields.json",
+    "/paneLayout/ok/caption": "texts/wide_spread_fields.json"
   },
   "interface/windowconfig/teaminvite.config": {
     "/paneLayout/close/caption": "texts/interface.json"
@@ -3926,6 +3926,10 @@
     "/scriptConfig/dialog/converse/glitch/default/0": "texts/npcs/biome/shared_guard.npctype.json",
     "/scriptConfig/dialog/converse/glitch/default/1": "texts/npcs/biome/shared_guard.npctype.json",
     "/scriptConfig/dialog/converse/glitch/default/2": "texts/npcs/biome/shared_guard.npctype.json"
+  },
+  "npcs/bounty/bountytarget.npctype": {
+    "/scriptConfig/behaviorConfig/bribeCancel": "texts/wide_spread_fields.json",
+    "/scriptConfig/behaviorConfig/bribeOk": "texts/wide_spread_fields.json"
   },
   "npcs/crew/crewmember.npctype": {
     "/scriptConfig/crew/role/field": "texts/npcs/crew/shared_crewmember.json",

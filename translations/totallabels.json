@@ -552,7 +552,7 @@
           "weaponupgradegui.config.json": 5
         }
       },
-      "shared_.config.json": 17,
+      "shared_.config.json": 16,
       "shared_bow..json": 1,
       "shared_gun..json": 1,
       "shared_mecharm..json": 2,
@@ -613,7 +613,7 @@
         "questcomplete.config.json": 1,
         "questfailed.config.json": 1,
         "questlog.config.json": 10,
-        "shared_.config.json": 14,
+        "shared_.config.json": 13,
         "shared_crafting.json": 5,
         "songbook.config.json": 6,
         "teambar.config.json": 1,
@@ -4686,6 +4686,9 @@
         "undergroundvillager.npctype.json": 25
       },
       "blacksmith.npctype.json": 8,
+      "bounty": {
+        "bountytarget.npctype.json": 4
+      },
       "crew": {
         "crewmember.npctype.json": 184,
         "crewmemberchemist.npctype.json": 15,
@@ -13999,6 +14002,6 @@
       }
     },
     "universe_server.config.json": 2,
-    "wide_spread_fields.json": 68
+    "wide_spread_fields.json": 70
   }
 }
