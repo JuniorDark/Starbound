@@ -10,7 +10,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^green;<prev.coordinate.name>^reset;:\nComputer records here told me that that <bounty.name> is <coordinate.preposition> <coordinate.name>.\n\n"
+      "Eng": "^green;<prev.coordinate.name>^reset;:\nComputer records here told me that that <bounty.name> is <coordinate.preposition> <coordinate.name>.\n\n",
+      "Por": "^green;<prev.coordinate.name>^reset;:\nRegistros de computador aqui me disseram que <bounty.name> está em <coordinate.preposition> <coordinate.name>.\n\n"
     }
   },
   {
@@ -24,7 +25,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^green;<prev.coordinate.name>^reset;:\nCracking the criminal's secure database gave me the location \"<coordinate.name>\".\n\n"
+      "Eng": "^green;<prev.coordinate.name>^reset;:\nCracking the criminal's secure database gave me the location \"<coordinate.name>\".\n\n",
+      "Por": "^green;<prev.coordinate.name>^reset;:\nInvadindo o banco de dados seguro do criminoso me deu a localização \"<coordinate.name>\".\n\n"
     }
   },
   {
@@ -38,7 +40,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^green;<prev.coordinate.name>^reset;:\nMy advanced hacking skills have led me to <coordinate.name>.\n\n"
+      "Eng": "^green;<prev.coordinate.name>^reset;:\nMy advanced hacking skills have led me to <coordinate.name>.\n\n",
+      "Por": "^green;<prev.coordinate.name>^reset;:\nMinhas habilidades avançadas de hackeamento me levaram a <coordinate.name>.\n\n"
     }
   },
   {
@@ -52,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^green;<prev.coordinate.name>^reset;:\nMy master hacking skills have led me to <coordinate.name>.\n\n"
+      "Eng": "^green;<prev.coordinate.name>^reset;:\nMy master hacking skills have led me to <coordinate.name>.\n\n",
+      "Por": "^green;<prev.coordinate.name>^reset;:\nMinhas habilidades de mestre de hackeamento me levaram a <coordinate.name>.\n\n"
     }
   }
 ]
