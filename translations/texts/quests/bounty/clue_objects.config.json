@@ -3,6 +3,178 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/bounty/clue_objects.config": [
+        "/apexconsole1/spaceBounty/dialog",
+        "/bunkerconsole2/spaceBounty/dialog",
+        "/industrialcomputer/spaceBounty/dialog",
+        "/industrialdisplay/spaceBounty/dialog",
+        "/lunarbaseconsole/spaceBounty/dialog",
+        "/officecomputer/spaceBounty/dialog",
+        "/outpostconsole/spaceBounty/dialog",
+        "/outpostsecurityconsole/spaceBounty/dialog",
+        "/stationconsole/spaceBounty/dialog",
+        "/tier3switch/spaceBounty/dialog",
+        "/tier4switch/spaceBounty/dialog",
+        "/tier5switch/spaceBounty/dialog",
+        "/tier6switch/spaceBounty/dialog"
+      ]
+    },
+    "Texts": {
+      "Eng": "<bounty.name> is [CONFIRMED] in [SYSTEM] ^green;<next.coordinate.systemName>^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_objects.config": [
+        "/apexconsole1/spaceClue/dialog",
+        "/bunkerconsole2/spaceClue/dialog",
+        "/industrialcomputer/spaceClue/dialog",
+        "/industrialdisplay/spaceClue/dialog",
+        "/lunarbaseconsole/spaceClue/dialog",
+        "/officecomputer/spaceClue/dialog",
+        "/outpostconsole/spaceClue/dialog",
+        "/outpostsecurityconsole/spaceClue/dialog",
+        "/stationconsole/spaceClue/dialog",
+        "/tier3switch/spaceClue/dialog",
+        "/tier4switch/spaceClue/dialog",
+        "/tier5switch/spaceClue/dialog",
+        "/tier6switch/spaceClue/dialog"
+      ]
+    },
+    "Texts": {
+      "Eng": ">CLASSIFIED SYSTEM NAME: ^green;<next.coordinate.systemName>^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_objects.config": [
+        "/outpostsecurityconsole/vaultClue/dialog"
+      ]
+    },
+    "Texts": {
+      "Eng": ">COMPUTER WORDS: ^green;<next.coordinate.systemName>^reset; Vault Code = ^green;<password>^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_objects.config": [
+        "/apexconsole1/planetBounty/dialog",
+        "/bunkerconsole2/planetBounty/dialog",
+        "/industrialcomputer/planetBounty/dialog",
+        "/industrialdisplay/planetBounty/dialog",
+        "/lunarbaseconsole/planetBounty/dialog",
+        "/officecomputer/planetBounty/dialog",
+        "/outpostconsole/planetBounty/dialog",
+        "/outpostsecurityconsole/planetBounty/dialog",
+        "/stationconsole/planetBounty/dialog",
+        "/tier3switch/planetBounty/dialog",
+        "/tier4switch/planetBounty/dialog",
+        "/tier5switch/planetBounty/dialog",
+        "/tier6switch/planetBounty/dialog"
+      ]
+    },
+    "Texts": {
+      "Eng": ">INFORMATION REQUEST: <bounty.name> is currently residing on ^green;<next.coordinate.name>^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_objects.config": [
+        "/lunarbaseconsole/vaultClue/dialog",
+        "/tier4switch/vaultClue/dialog",
+        "/tier6switch/vaultClue/dialog"
+      ]
+    },
+    "Texts": {
+      "Eng": ">INFORMATION: The ^green;<next.coordinate.systemName>^reset; Vault Code = ^green;<password>^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_objects.config": [
+        "/tier5switch/vaultClue/dialog"
+      ]
+    },
+    "Texts": {
+      "Eng": ">IT'S ME, THE COMPUTER: ^green;<next.coordinate.systemName>^reset; Vault Code = ^green;<password>^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_objects.config": [
+        "/apexconsole1/planetClue/dialog",
+        "/bunkerconsole2/planetClue/dialog",
+        "/industrialcomputer/planetClue/dialog",
+        "/industrialdisplay/planetClue/dialog",
+        "/officecomputer/planetClue/dialog",
+        "/outpostconsole/planetClue/dialog",
+        "/outpostsecurityconsole/planetClue/dialog",
+        "/tier3switch/planetClue/dialog",
+        "/tier4switch/planetClue/dialog",
+        "/tier5switch/planetClue/dialog",
+        "/tier6switch/planetClue/dialog"
+      ]
+    },
+    "Texts": {
+      "Eng": ">PREVIOUS DELIVERY LOCATION: ^green;<next.coordinate.name>^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_objects.config": [
+        "/lunarbaseconsole/planetClue/dialog"
+      ]
+    },
+    "Texts": {
+      "Eng": ">QUERY RETURNED: The most recent delivery was from ^green;<next.coordinate.name>^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_objects.config": [
+        "/bunkerconsole2/vaultClue/dialog",
+        "/industrialcomputer/vaultClue/dialog",
+        "/industrialdisplay/vaultClue/dialog",
+        "/tier3switch/vaultClue/dialog"
+      ]
+    },
+    "Texts": {
+      "Eng": ">QUERY: [LOCATION] ^green;<next.coordinate.systemName>^reset; [VAULT.CODE] ^green;<password>^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_objects.config": [
+        "/stationconsole/planetClue/dialog"
+      ]
+    },
+    "Texts": {
+      "Eng": ">REQUEST: The [HIDEOUT] is [CONFIRMED] to be at ^green;<next.coordinate.name>^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_objects.config": [
+        "/stationconsole/vaultClue/dialog"
+      ]
+    },
+    "Texts": {
+      "Eng": ">VAULT LOCATION: ^green;<next.coordinate.systemName>^reset; Vault Code ^green;<password>^reset; is set to expire in [999] Days"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_objects.config": [
         "/stationconsole/planetClue/message"
       ]
     },
@@ -183,6 +355,29 @@
     "Texts": {
       "Eng": "You heard the computer! You need to roll on down to ^green;<next.coordinate.name>^reset;!",
       "Por": "Você ouviu o computador! Você precisa ir para ^green;<next.coordinate.name>^reset;!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_objects.config": [
+        "/apexconsole1/vaultClue/dialog",
+        "/outpostconsole/vaultClue/dialog"
+      ]
+    },
+    "Texts": {
+      "Eng": "[BEEP BOOP] The ^green;<next.coordinate.systemName>^reset; Vault Code = ^green;<password>^reset; [BEEP BOOP]"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_objects.config": [
+        "/officecomputer/vaultClue/dialog"
+      ]
+    },
+    "Texts": {
+      "Eng": "[LOGIN_COMPLETE] The ^green;<next.coordinate.systemName>^reset; Vault Code = ^green;<password>^reset; [BEEP BOOP]"
     }
   },
   {
