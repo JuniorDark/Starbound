@@ -19,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "<bounty.name> is [CONFIRMED] in [SYSTEM] ^green;<next.coordinate.systemName>^reset;"
+      "Eng": "<bounty.name> is [CONFIRMED] in [SYSTEM] ^green;<next.coordinate.systemName>^reset;",
+      "Por": "<bounty.name> está [CONFIRMADO] no [SISTEMA] ^green;<next.coordinate.systemName>^reset;"
     }
   },
   {
@@ -42,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": ">CLASSIFIED SYSTEM NAME: ^green;<next.coordinate.systemName>^reset;"
+      "Eng": ">CLASSIFIED SYSTEM NAME: ^green;<next.coordinate.systemName>^reset;",
+      "Por": ">NOME DO SISTEMA CONFIDENCIAL\n: ^green;<next.coordinate.systemName>^reset;"
     }
   },
   {
@@ -53,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": ">COMPUTER WORDS: ^green;<next.coordinate.systemName>^reset; Vault Code = ^green;<password>^reset;"
+      "Eng": ">COMPUTER WORDS: ^green;<next.coordinate.systemName>^reset; Vault Code = ^green;<password>^reset;",
+      "Por": ">PALAVRAS DE COMPUTADOR: Código do Cofre em ^green;<next.coordinate.systemName>^reset; = ^green;<password>^reset;"
     }
   },
   {
@@ -76,7 +79,8 @@
       ]
     },
     "Texts": {
-      "Eng": ">INFORMATION REQUEST: <bounty.name> is currently residing on ^green;<next.coordinate.name>^reset;"
+      "Eng": ">INFORMATION REQUEST: <bounty.name> is currently residing on ^green;<next.coordinate.name>^reset;",
+      "Por": ">PEDIDO DE INFORMAÇÃO: <bounty.name> está residindo atualmente em ^green;<next.coordinate.name>^reset;"
     }
   },
   {
@@ -89,7 +93,8 @@
       ]
     },
     "Texts": {
-      "Eng": ">INFORMATION: The ^green;<next.coordinate.systemName>^reset; Vault Code = ^green;<password>^reset;"
+      "Eng": ">INFORMATION: The ^green;<next.coordinate.systemName>^reset; Vault Code = ^green;<password>^reset;",
+      "Por": ">INFORMAÇÃO: O Código do Cofre em ^green;<next.coordinate.systemName>^reset; = ^green;<password>^reset;"
     }
   },
   {
@@ -100,7 +105,8 @@
       ]
     },
     "Texts": {
-      "Eng": ">IT'S ME, THE COMPUTER: ^green;<next.coordinate.systemName>^reset; Vault Code = ^green;<password>^reset;"
+      "Eng": ">IT'S ME, THE COMPUTER: ^green;<next.coordinate.systemName>^reset; Vault Code = ^green;<password>^reset;",
+      "Por": ">SOU EU, O COMPUTADOR: O Código do Cofre em ^green;<next.coordinate.systemName>^reset; = ^green;<password>^reset;"
     }
   },
   {
@@ -121,7 +127,8 @@
       ]
     },
     "Texts": {
-      "Eng": ">PREVIOUS DELIVERY LOCATION: ^green;<next.coordinate.name>^reset;"
+      "Eng": ">PREVIOUS DELIVERY LOCATION: ^green;<next.coordinate.name>^reset;",
+      "Por": ">LOCAL DE ENTREGA ANTERIOR: ^green;<next.coordinate.name>^reset;"
     }
   },
   {
@@ -132,7 +139,8 @@
       ]
     },
     "Texts": {
-      "Eng": ">QUERY RETURNED: The most recent delivery was from ^green;<next.coordinate.name>^reset;"
+      "Eng": ">QUERY RETURNED: The most recent delivery was from ^green;<next.coordinate.name>^reset;",
+      "Por": ">CONSULTA RETORNADA: A entrega mais recente foi de ^green;<next.coordinate.name>^reset;"
     }
   },
   {
@@ -146,7 +154,8 @@
       ]
     },
     "Texts": {
-      "Eng": ">QUERY: [LOCATION] ^green;<next.coordinate.systemName>^reset; [VAULT.CODE] ^green;<password>^reset;"
+      "Eng": ">QUERY: [LOCATION] ^green;<next.coordinate.systemName>^reset; [VAULT.CODE] ^green;<password>^reset;",
+      "Por": ">CONSULTA: [LOCALIZAÇÃO] ^green;<next.coordinate.systemName>^reset; [CÓDIGO.COFRE] ^green;<password>^reset;"
     }
   },
   {
@@ -157,7 +166,8 @@
       ]
     },
     "Texts": {
-      "Eng": ">REQUEST: The [HIDEOUT] is [CONFIRMED] to be at ^green;<next.coordinate.name>^reset;"
+      "Eng": ">REQUEST: The [HIDEOUT] is [CONFIRMED] to be at ^green;<next.coordinate.name>^reset;",
+      "Por": ">PEDIDO: O [ESCONDERIJO] está [CONFIRMADO] estar em ^green;<next.coordinate.name>^reset;"
     }
   },
   {
@@ -168,7 +178,8 @@
       ]
     },
     "Texts": {
-      "Eng": ">VAULT LOCATION: ^green;<next.coordinate.systemName>^reset; Vault Code ^green;<password>^reset; is set to expire in [999] Days"
+      "Eng": ">VAULT LOCATION: ^green;<next.coordinate.systemName>^reset; Vault Code ^green;<password>^reset; is set to expire in [999] Days",
+      "Por": ">LOCALIZAÇÃO DO COFRE: Código do Cofre em ^green<next.coordinate.systemName> <password>^reset; está definido para expirar em [999] Dias"
     }
   },
   {
@@ -366,7 +377,8 @@
       ]
     },
     "Texts": {
-      "Eng": "[BEEP BOOP] The ^green;<next.coordinate.systemName>^reset; Vault Code = ^green;<password>^reset; [BEEP BOOP]"
+      "Eng": "[BEEP BOOP] The ^green;<next.coordinate.systemName>^reset; Vault Code = ^green;<password>^reset; [BEEP BOOP]",
+      "Por": "[BEEP BOOP] O Código do Cofre em ^green;<next.coordinate.systemName>^reset; <password>^reset; [BEEP BOOP]"
     }
   },
   {
@@ -377,7 +389,8 @@
       ]
     },
     "Texts": {
-      "Eng": "[LOGIN_COMPLETE] The ^green;<next.coordinate.systemName>^reset; Vault Code = ^green;<password>^reset; [BEEP BOOP]"
+      "Eng": "[LOGIN_COMPLETE] The ^green;<next.coordinate.systemName>^reset; Vault Code = ^green;<password>^reset; [BEEP BOOP]",
+      "Por": "[LOGIN_COMPLETO] O Código do Cofre em ^green;<next.coordinate.systemName>^reset; <password>^reset; [BEEP BOOP]"
     }
   },
   {
