@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "/quests/bounty/clue_npcs.config:cultist1.clues.<clueType>.dialog"
+      "Eng": "/quests/bounty/clue_npcs.config:cultist1.clues.<clueType>.dialog",
+      "Por": "/quests/bounty/clue_npcs.config:cultist1.clues.<clueType>.dialog"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "/quests/bounty/clue_npcs.config:cultist2.clues.<clueType>.dialog"
+      "Eng": "/quests/bounty/clue_npcs.config:cultist2.clues.<clueType>.dialog",
+      "Por": "/quests/bounty/clue_npcs.config:cultist2.clues.<clueType>.dialog"
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "/quests/bounty/clue_npcs.config:interrogate.clues.<clueType>.dialog"
+      "Eng": "/quests/bounty/clue_npcs.config:interrogate.clues.<clueType>.dialog",
+      "Por": "/quests/bounty/clue_npcs.config:interrogate.clues.<clueType>.dialog"
     }
   },
   {
