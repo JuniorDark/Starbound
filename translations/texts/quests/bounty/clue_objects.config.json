@@ -31,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "<bounty.name> is [LOCATED] in [SYSTEM] ^green;<next.coordinate.systemName>^reset;"
+      "Eng": "<bounty.name> is [LOCATED] in [SYSTEM] ^green;<next.coordinate.systemName>^reset;",
+      "Por": "<bounty.name> esta [LOCALIZADO] no [SISTEMA] ^green;<next.coordinate.systemName>^reset;"
     }
   },
   {
@@ -78,7 +79,8 @@
       ]
     },
     "Texts": {
-      "Eng": ">HIDEOUT_SYSTEM_LOCATION: ^green;<next.coordinate.systemName>^reset;"
+      "Eng": ">HIDEOUT_SYSTEM_LOCATION: ^green;<next.coordinate.systemName>^reset;",
+      "Por": ">SISTEMA_DE_LOCALIZAÇÃO_DE_ESCONDERIJO: ^green;<next.coordinate.systemName>^reset;"
     }
   },
   {
@@ -200,7 +202,8 @@
       ]
     },
     "Texts": {
-      "Eng": ">USER: ^green;<bounty.name>^reset; >LOCATION: ^green;<next.coordinate.name>^reset;"
+      "Eng": ">USER: ^green;<bounty.name>^reset; >LOCATION: ^green;<next.coordinate.name>^reset;",
+      "Por": ">USUÁRIO: ^green;<bounty.name>^reset; >LOCALIZAÇÃO: ^green;<next.coordinate.name>^reset;"
     }
   },
   {
@@ -438,7 +441,8 @@
       ]
     },
     "Texts": {
-      "Eng": "[QUERY_LOCATION] COMPLETE: ^green;<next.coordinate.name>^reset;"
+      "Eng": "[QUERY_LOCATION] COMPLETE: ^green;<next.coordinate.name>^reset;",
+      "Por": "[CONSULTA_DE_LOCALIZAÇÃO] COMPLETA: ^green;<next.coordinate.name>^reset;"
     }
   },
   {
@@ -449,7 +453,8 @@
       ]
     },
     "Texts": {
-      "Eng": "[WELCOME_NEW_USER] The ^green;<next.coordinate.systemName>^reset; Vault Code = ^green;<password>^reset; [BEEP BOOP]"
+      "Eng": "[WELCOME_NEW_USER] The ^green;<next.coordinate.systemName>^reset; Vault Code = ^green;<password>^reset; [BEEP BOOP]",
+      "Por": "[BEM_VINDO_NOVO_USUÁRIO] O Código do Cofre de ^green;<next.coordinate.systemName>^reset; = ^green;<password>^reset; [BEEP BOOP]"
     }
   },
   {
