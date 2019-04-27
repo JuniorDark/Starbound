@@ -17,7 +17,7 @@
     },
     "Texts": {
       "Eng": "<bounty.name> was last seen <coordinate.preposition> <coordinate.name>.",
-      "Por": "<bounty.name> foi visto pela última vez em <coordinate.preposition> <coordinate.name>."
+      "Por": "<bounty.name> foi visto pela última vez em <coordinate.name>."
     }
   },
   {
@@ -140,7 +140,7 @@
     },
     "Texts": {
       "Eng": "My findings <prev.coordinate.preposition> <prev.coordinate.name> have led me to believe <bounty.name> is <coordinate.preposition> <coordinate.name>.",
-      "Por": "Minhas descobertas em <prev.coordinate.preposition> <prev.coordinate.name> levaram-me a crer que <bounty.name> está em <coordinate.preposition> <coordinate.name>."
+      "Por": "Minhas descobertas em <prev.coordinate.name> levaram-me a crer que <bounty.name> está em <coordinate.name>."
     }
   },
   {
@@ -384,7 +384,7 @@
     },
     "Texts": {
       "Eng": "^orange;<bounty.name>^reset; was last seen <coordinate.preposition> <coordinate.name>.\n\n",
-      "Por": "^orange;<bounty.name>^reset; foi visto pela última vez em <coordinate.preposition> <coordinate.name>.\n\n"
+      "Por": "^orange;<bounty.name>^reset; foi visto pela última vez em <coordinate.name>.\n\n"
     }
   },
   {
@@ -414,7 +414,7 @@
     },
     "Texts": {
       "Eng": "^orange;<bounty.name>^reset; was last spotted <coordinate.preposition> <coordinate.name>.\n\n",
-      "Por": "^orange;<bounty.name>^reset; foi visto pela última vez em <coordinate.preposition> <coordinate.name>."
+      "Por": "^orange;<bounty.name>^reset; foi visto pela última vez em <coordinate.name>."
     }
   },
   {

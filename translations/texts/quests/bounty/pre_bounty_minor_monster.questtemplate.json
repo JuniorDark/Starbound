@@ -20,7 +20,7 @@
     },
     "Texts": {
       "Eng": "We've had reports of a creature running loose <coordinate.preposition> <coordinate.name>. Some darn fool named it '^orange;<bounty.name>^reset;' and now nobody has the heart to put it down. You'd better get over there and put a stop to this monstrosity before anyone else gets hurt.\n\n- REWARDS -\nKill: ^yellow;<killRewards.money>^reset; pixels, +<killRewards.rank> rank",
-      "Por": "Tivemos relatos de uma criatura correndo solta em <coordinate.preposition> <coordinate.name>. Um idiota o nomeou '^orange;<bounty.name>^reset;' e agora ninguém tem coragem de derrubá-la. É melhor você ir até lá e acabar com essa monstruosidade antes que alguém se machuque.\n\n- RECOMPENSAS -\nMatar: ^yellow;<killRewards.money>^reset; pixels, +<killRewards.rank> rank"
+      "Por": "Tivemos relatos de uma criatura correndo solta em <coordinate.name>. Um idiota o nomeou '^orange;<bounty.name>^reset;' e agora ninguém tem coragem de derrubá-la. É melhor você ir até lá e acabar com essa monstruosidade antes que alguém se machuque.\n\n- RECOMPENSAS -\nMatar: ^yellow;<killRewards.money>^reset; pixels, +<killRewards.rank> rank"
     }
   },
   {
@@ -32,7 +32,7 @@
     },
     "Texts": {
       "Eng": "We've had reports of a creature wreaking havoc <coordinate.preposition> <coordinate.name>! The locals have taken to calling it '^orange;<bounty.name>^reset;' and they're too afraid to leave their homes. Can you travel there and take care of it?\n\n- REWARDS -\nKill: ^yellow;<killRewards.money>^reset; pixels, +<killRewards.rank> rank",
-      "Por": "Tivemos relatos de uma criatura causando estragos em <coordinate.preposition> <coordinate.name>! Os moradores locais começaram a chamá-lo de '^orange;<bounty.name>^reset;' e eles estão com muito medo de sair de suas casas. Você pode viajar até lá e cuidar disso?\n\n- RECOMPENSAS -\nMatar: ^yellow;<killRewards.money>^reset; pixels, +<killRewards.rank> rank"
+      "Por": "Tivemos relatos de uma criatura causando estragos em <coordinate.name>! Os moradores locais começaram a chamá-lo de '^orange;<bounty.name>^reset;' e eles estão com muito medo de sair de suas casas. Você pode viajar até lá e cuidar disso?\n\n- RECOMPENSAS -\nMatar: ^yellow;<killRewards.money>^reset; pixels, +<killRewards.rank> rank"
     }
   }
 ]

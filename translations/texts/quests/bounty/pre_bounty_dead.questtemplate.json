@@ -8,7 +8,7 @@
     },
     "Texts": {
       "Eng": "We need you to track down and apprehend ^orange;<bounty.name>^reset;. Our intel suggests that there may be information <coordinate.preposition> <coordinate.name>, so you should start your investigation there.\n\n- REWARDS -\nKill: ^yellow;<killRewards.money>^reset; pixels, +<killRewards.rank> rank",
-      "Por": "Precisamos que você localize e prenda ^orange;<bounty.name>^reset;. Nossa inteligência sugere que pode haver informações em <coordinate.preposition> <coordinate.name>, então você deve começar sua investigação lá.\n\n- RECOMPENSAS -\nMatar: ^yellow;<killRewards.money>^reset; pixels, +<killRewards.rank> rank"
+      "Por": "Precisamos que você localize e prenda ^orange;<bounty.name>^reset;. Nossa inteligência sugere que pode haver informações em <coordinate.name>, então você deve começar sua investigação lá.\n\n- RECOMPENSAS -\nMatar: ^yellow;<killRewards.money>^reset; pixels, +<killRewards.rank> rank"
     }
   }
 ]
