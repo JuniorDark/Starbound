@@ -240,7 +240,7 @@
     },
     "Texts": {
       "Eng": "Dear <bounty.name>,\n\nI'm sorry I forgot to bring the goods to you earlier.\nI'm on my way to meet you <next.coordinate.preposition> <next.coordinate.name>.\nPlease don't be mad.\n\n§",
-      "Por": "Caro <bounty.name>,\n\nMe desculpe, eu esqueci de trazer as mercadorias para você mais cedo.\nEstou a caminho para encontra-lo <next.coordinate.preposition> <next.coordinate.name>.\nPor favor, não fique bravo.\n\n§"
+      "Por": "Caro <bounty.name>,\n\nMe desculpe, eu esqueci de trazer as mercadorias para você mais cedo.\nEstou a caminho para encontra-lo em <next.coordinate.name>.\nPor favor, não fique bravo.\n\n§"
     }
   },
   {
@@ -254,7 +254,7 @@
     },
     "Texts": {
       "Eng": "Dear <bounty.name>,\n\nI'm sorry I forgot to bring the goods to you earlier.\nI'm on my way to meet you <next.coordinate.preposition> <next.coordinate.name>.\nPlease don't be mad.\n\n±",
-      "Por": "Caro <bounty.name>,\n\nMe desculpe, eu esqueci de trazer as mercadorias para você mais cedo.\nIEstou a caminho para encontra-lo <next.coordinate.preposition> <next.coordinate.name>.\nPor favor, não fique bravo.\n\n±"
+      "Por": "Caro <bounty.name>,\n\nMe desculpe, eu esqueci de trazer as mercadorias para você mais cedo.\nIEstou a caminho para encontra-lo em <next.coordinate.name>.\nPor favor, não fique bravo.\n\n±"
     }
   },
   {
@@ -266,7 +266,7 @@
     },
     "Texts": {
       "Eng": "Dear <bounty.name>,\n\nI'm sorry I forgot to bring the goods to you earlier.\nI'm on my way to meet you <next.coordinate.preposition> <next.coordinate.name>.\nPlease don't be mad.\n\nº",
-      "Por": "Caro <bounty.name>,\n\nMe desculpe, eu esqueci de trazer as mercadorias para você mais cedo.\nIEstou a caminho para encontra-lo <next.coordinate.preposition> <next.coordinate.name>.\nPor favor, não fique bravo.\n\nº"
+      "Por": "Caro <bounty.name>,\n\nMe desculpe, eu esqueci de trazer as mercadorias para você mais cedo.\nIEstou a caminho para encontra-lo em <next.coordinate.name>.\nPor favor, não fique bravo.\n\nº"
     }
   },
   {
@@ -278,7 +278,7 @@
     },
     "Texts": {
       "Eng": "Dear <bounty.name>,\n\nI'm sorry I forgot to bring the goods to you earlier.\nI'm on my way to meet you <next.coordinate.preposition> <next.coordinate.name>.\nPlease don't be mad.\n\n»",
-      "Por": "Caro <bounty.name>,\n\nMe desculpe, eu esqueci de trazer as mercadorias para você mais cedo.\nIEstou a caminho para encontra-lo <next.coordinate.preposition> <next.coordinate.name>.\nPor favor, não fique bravo.\n\n»"
+      "Por": "Caro <bounty.name>,\n\nMe desculpe, eu esqueci de trazer as mercadorias para você mais cedo.\nIEstou a caminho para encontra-lo em <next.coordinate.name>.\nPor favor, não fique bravo.\n\n»"
     }
   },
   {
@@ -290,7 +290,7 @@
     },
     "Texts": {
       "Eng": "Dear <bounty.name>,\n\nI'm sorry I forgot to bring the goods to you earlier.\nI'm on my way to meet you <next.coordinate.preposition> <next.coordinate.name>.\nPlease don't be mad.\n\nð",
-      "Por": "Caro <bounty.name>,\n\nMe desculpe, eu esqueci de trazer as mercadorias para você mais cedo.\nIEstou a caminho para encontra-lo <next.coordinate.preposition> <next.coordinate.name>.\nPor favor, não fique bravo.\n\nð"
+      "Por": "Caro <bounty.name>,\n\nMe desculpe, eu esqueci de trazer as mercadorias para você mais cedo.\nIEstou a caminho para encontra-lo em <next.coordinate.name>.\nPor favor, não fique bravo.\n\nð"
     }
   },
   {
@@ -354,7 +354,7 @@
     },
     "Texts": {
       "Eng": "Due to a change in gang policy, we are now converting all records to a digital format for easier storage. Please go to our computer office <next.coordinate.preposition> <next.coordinate.name> in order to:\n\n> Review your financial records!\n\n> Recieve your bi-quarterly review!\n\n> Memorise the combinations to our security vaults!\n\n> Place an order for your required gang headwear!",
-      "Por": "Devido a uma mudança na política de gangues, agora estamos convertendo todos os registros em um formato digital para facilitar o armazenamento. Por favor, vá ao nosso escritório de informática <next.coordinate.preposition> <next.coordinate.name> a fim de:\n\n> Revisar seus registros financeiros!\n\n> Receber sua revisão trimestral!\n\n> Memorizar as combinações dos nossos cofres de segurança!\n\n> Fazer um pedido para seu chapéu de gangue obrigatório!"
+      "Por": "Devido a uma mudança na política de gangues, agora estamos convertendo todos os registros em um formato digital para facilitar o armazenamento. Por favor, vá ao nosso escritório de informática em <next.coordinate.name> a fim de:\n\n> Revisar seus registros financeiros!\n\n> Receber sua revisão trimestral!\n\n> Memorizar as combinações dos nossos cofres de segurança!\n\n> Fazer um pedido para seu chapéu de gangue obrigatório!"
     }
   },
   {
@@ -366,7 +366,7 @@
     },
     "Texts": {
       "Eng": "Hi <bounty.name>,\n\nI forgot the code to the vault, so I am going to the hideout <next.coordinate.preposition> <next.coordinate.name> to ask the others for it.\nSorry for the inconvenience!",
-      "Por": "Oi <bounty.name>,\n\nEu esqueci o código para o cofre, então eu estou indo para o esconderijo <next.coordinate.preposition> <next.coordinate.name> para perguntar aos outros por ele.\nDesculpe pela inconveniência!"
+      "Por": "Oi <bounty.name>,\n\nEu esqueci o código para o cofre, então eu estou indo para o esconderijo em <next.coordinate.name> para perguntar aos outros por ele.\nDesculpe pela inconveniência!"
     }
   },
   {
@@ -469,7 +469,7 @@
     },
     "Texts": {
       "Eng": "Important Notice!\n\nLackeys are requested to stop writing down the vault code on pieces of paper!\nThis is a huge security flaw, and waste of valuable, valuable paper!\n\nInstead, the code will be recorded in a digital format at our computer servers <next.coordinate.preposition> ^green;<next.coordinate.name>^reset;.\n\nHappy smuggling! - <bounty.name>",
-      "Por": "Notícia Importante!\n\nOs lacaios devem parar de escrever o código do cofre em pedaços de papel!\nEsta é uma enorme falha de segurança e desperdício de papel valioso!\n\nEm vez disso, o código será gravado em um formato digital em nossos servidores em <next.coordinate.preposition> ^green;<next.coordinate.name>^reset;.\n\nFeliz contrabando! - <bounty.name>"
+      "Por": "Notícia Importante!\n\nOs lacaios devem parar de escrever o código do cofre em pedaços de papel!\nEsta é uma enorme falha de segurança e desperdício de papel valioso!\n\nEm vez disso, o código será gravado em um formato digital em nossos servidores em ^green;<next.coordinate.name>^reset;.\n\nFeliz contrabando! - <bounty.name>"
     }
   },
   {
@@ -527,7 +527,7 @@
     },
     "Texts": {
       "Eng": "Lackey,\n\nFor the last time, stop writing notes with the vault combination on around the vault!\nI can't even begin to explain to you why that's a bad idea!\n If you forget the code AGAIN, leave a reminder at our hideout <next.coordinate.preposition> <next.coordinate.name>, instead.\n\nRegards,\n<bounty.name>",
-      "Por": "Lacaio,\n\nPela última vez, pare de escrever notas com a combinação do cofre perto do cofre!\nEu não posso nem começar a explicar para você porque essa é uma má ideia!\n Se você esquecer o código NOVAMENTE, deixar um lembrete no nosso esconderijo <next.coordinate.preposition> <next.coordinate.name>, em vez disso.\n\nSaudações,\n<bounty.name>"
+      "Por": "Lacaio,\n\nPela última vez, pare de escrever notas com a combinação do cofre perto do cofre!\nEu não posso nem começar a explicar para você porque essa é uma má ideia!\n Se você esquecer o código NOVAMENTE, deixar um lembrete no nosso esconderijo em <next.coordinate.name>, em vez disso.\n\nSaudações,\n<bounty.name>"
     }
   },
   {
@@ -545,7 +545,7 @@
     },
     "Texts": {
       "Eng": "Lackey,\n\nThe goods are now <next.coordinate.preposition> <next.coordinate.name>.\nMake sure you aren't being followed.\n\nRegards,\n<bounty.name>",
-      "Por": "Lacaio,\n\nAs mercadorias estão agora <next.coordinate.preposition> <next.coordinate.name>.\nCertifique-se de que você não está sendo seguido.\n\nSaudações,\n<bounty.name>"
+      "Por": "Lacaio,\n\nAs mercadorias estão agora em <next.coordinate.name>.\nCertifique-se de que você não está sendo seguido.\n\nSaudações,\n<bounty.name>"
     }
   },
   {
@@ -572,7 +572,7 @@
     },
     "Texts": {
       "Eng": "Note to self:\n\n<bounty.name> is getting really mad that I keep leaving notes around with the vault code written on them.\nAll remaining notes should be quietly stored <next.coordinate.preposition> <next.coordinate.name> instead.",
-      "Por": "Nota para si mesmo:\n\n<bounty.name> está ficando muito bravo por eu continuar deixando anotações com o código do cofre escrito nelas.\nTodas as notas restantes devem ser armazenadas discretamente <next.coordinate.preposition> <next.coordinate.name> em vez disso."
+      "Por": "Nota para si mesmo:\n\n<bounty.name> está ficando muito bravo por eu continuar deixando anotações com o código do cofre escrito nelas.\nTodas as notas restantes devem ser armazenadas discretamente em <next.coordinate.name> em vez disso."
     }
   },
   {
@@ -584,7 +584,7 @@
     },
     "Texts": {
       "Eng": "Note to self:\n\nThe code for the vault <next.coordinate.preposition> <next.coordinate.name> is <password>.\n\nDon't leave this note somewhere again!",
-      "Por": "Nota para si mesmo:\n\nO código para o cofre <next.coordinate.preposition> <next.coordinate.name> é <password>.\n\nNão deixe essa nota em algum lugar novamente!"
+      "Por": "Nota para si mesmo:\n\nO código para o cofre em <next.coordinate.name> é <password>.\n\nNão deixe essa nota em algum lugar novamente!"
     }
   },
   {
