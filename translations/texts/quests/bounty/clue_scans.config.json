@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "i can extract a DNA sample from this handprint"
+      "Eng": "i can extract a DNA sample from this handprint",
+      "Por": "Eu posso extrair uma amostra de DNA deste impressão de mão"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "this DNA signature matches <bounty.name>! we've detected a matching signature at a small station in <next.coordinate.systemName>"
+      "Eng": "this DNA signature matches <bounty.name>! we've detected a matching signature at a small station in <next.coordinate.systemName>",
+      "Por": "esta assinatura de DNA corresponde a de <bounty.name>! detectamos uma assinatura correspondente em uma pequena estação em <next.coordinate.systemName>"
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "this DNA signature matches <bounty.name>! we've picked up their signature from a planet in <next.coordinate.systemName>. Head to <next.coordinate.name>"
+      "Eng": "this DNA signature matches <bounty.name>! we've picked up their signature from a planet in <next.coordinate.systemName>. Head to <next.coordinate.name>",
+      "Por": "esta assinatura de DNA corresponde a de <bounty.name>! Nós pegamos seu sinal de um planeta em <next.coordinate.systemName>. Dirija-se a <next.coordinate.name>"
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "this DNA signature matches a henchman of <bounty.name>, they were last seen on <next.coordinate.name>"
+      "Eng": "this DNA signature matches a henchman of <bounty.name>, they were last seen on <next.coordinate.name>",
+      "Por": "esta assinatura de DNA corresponde a de um capanga de <bounty.name>, eles foram vistos pela última vez em <next.coordinate.name>"
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "this DNA signature matches a henchman of <bounty.name>, they've been known to hang out on a station in <next.coordinate.systemName>"
+      "Eng": "this DNA signature matches a henchman of <bounty.name>, they've been known to hang out on a station in <next.coordinate.systemName>",
+      "Por": "esta assinatura de DNA corresponde a de um capanga de <bounty.name>, eles foram conhecidos por sair em uma estação em <next.coordinate.systemName>"
     }
   },
   {
@@ -64,7 +69,8 @@
       ]
     },
     "Texts": {
-      "Eng": "this handprint seems to match the target"
+      "Eng": "this handprint seems to match the target",
+      "Por": "este impressão de mão parece corresponder ao alvo"
     }
   }
 ]
