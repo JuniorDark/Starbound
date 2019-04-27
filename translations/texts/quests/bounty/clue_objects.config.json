@@ -27,6 +27,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/bounty/clue_objects.config": [
+        "/darkcomputer/spaceBounty/dialog"
+      ]
+    },
+    "Texts": {
+      "Eng": "<bounty.name> is [LOCATED] in [SYSTEM] ^green;<next.coordinate.systemName>^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_objects.config": [
         "/apexconsole1/spaceClue/dialog",
         "/bunkerconsole2/spaceClue/dialog",
         "/industrialcomputer/spaceClue/dialog",
@@ -57,6 +68,17 @@
     "Texts": {
       "Eng": ">COMPUTER WORDS: ^green;<next.coordinate.systemName>^reset; Vault Code = ^green;<password>^reset;",
       "Por": ">PALAVRAS DE COMPUTADOR: Código do Cofre em ^green;<next.coordinate.systemName>^reset; = ^green;<password>^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_objects.config": [
+        "/darkcomputer/spaceClue/dialog"
+      ]
+    },
+    "Texts": {
+      "Eng": ">HIDEOUT_SYSTEM_LOCATION: ^green;<next.coordinate.systemName>^reset;"
     }
   },
   {
@@ -174,6 +196,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/bounty/clue_objects.config": [
+        "/darkcomputer/planetBounty/dialog"
+      ]
+    },
+    "Texts": {
+      "Eng": ">USER: ^green;<bounty.name>^reset; >LOCATION: ^green;<next.coordinate.name>^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_objects.config": [
         "/stationconsole/vaultClue/dialog"
       ]
     },
@@ -214,6 +247,7 @@
     "Files": {
       "quests/bounty/clue_objects.config": [
         "/apexconsole1/vaultClue/message",
+        "/darkcomputer/vaultClue/message",
         "/lunarbaseconsole/vaultClue/message",
         "/officecomputer/vaultClue/message",
         "/outpostconsole/vaultClue/message",
@@ -257,6 +291,7 @@
       "quests/bounty/clue_objects.config": [
         "/apexconsole1/spaceBounty/message",
         "/bunkerconsole2/spaceBounty/message",
+        "/darkcomputer/spaceBounty/message",
         "/industrialcomputer/spaceBounty/message",
         "/industrialdisplay/spaceBounty/message",
         "/lunarbaseconsole/spaceBounty/message",
@@ -292,6 +327,7 @@
     "Files": {
       "quests/bounty/clue_objects.config": [
         "/apexconsole1/spaceClue/message",
+        "/darkcomputer/spaceClue/message",
         "/industrialcomputer/spaceClue/message",
         "/industrialdisplay/spaceClue/message",
         "/officecomputer/spaceClue/message",
@@ -326,6 +362,7 @@
     "Files": {
       "quests/bounty/clue_objects.config": [
         "/apexconsole1/planetBounty/message",
+        "/darkcomputer/planetBounty/message",
         "/industrialcomputer/planetBounty/message",
         "/industrialdisplay/planetBounty/message",
         "/lunarbaseconsole/planetBounty/message",
@@ -397,6 +434,28 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/bounty/clue_objects.config": [
+        "/darkcomputer/planetClue/dialog"
+      ]
+    },
+    "Texts": {
+      "Eng": "[QUERY_LOCATION] COMPLETE: ^green;<next.coordinate.name>^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_objects.config": [
+        "/darkcomputer/vaultClue/dialog"
+      ]
+    },
+    "Texts": {
+      "Eng": "[WELCOME_NEW_USER] The ^green;<next.coordinate.systemName>^reset; Vault Code = ^green;<password>^reset; [BEEP BOOP]"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_objects.config": [
         "/industrialdisplay/planetClue/message"
       ]
     },
@@ -411,6 +470,7 @@
       "quests/bounty/clue_objects.config": [
         "/apexconsole1/planetClue/message",
         "/bunkerconsole2/planetClue/message",
+        "/darkcomputer/planetClue/message",
         "/officecomputer/planetClue/message",
         "/outpostconsole/planetClue/message",
         "/tier3switch/planetClue/message",

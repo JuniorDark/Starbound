@@ -15,7 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/bounty/clue_items.config": [
-        "/audiodisc/decoy/3/message",
         "/audiodisc/diversion/3/message",
         "/audiodisc/scan/3/message",
         "/audiodisc/spaceBounty/3/message"
@@ -169,6 +168,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/bounty/clue_items.config": [
+        "/audiodisc/decoy/6/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aw, son of a snuffish! I think you need to hurry your hide back to the previous location!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
         "/papernote/planetBounty/3/message"
       ]
     },
@@ -211,12 +221,24 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/bounty/clue_items.config": [
+        "/audiodisc/decoy/0/message",
+        "/audiodisc/decoy/2/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dangnabbit, we've been taken on a ride! I think you need to hurry your hide back to the previous location!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
         "/papernote/planetBounty/2/parameters/noteText"
       ]
     },
     "Texts": {
       "Eng": "Dear <bounty.name>,\n\nI'm sorry I forgot to bring the goods to you earlier.\nI'm on my way to meet you <next.coordinate.preposition> <next.coordinate.name>.\nPlease don't be mad.\n\n§",
-      "Por": "Caro <bounty.name>,\n\nMe desculpe, eu esqueci de trazer as mercadorias para você mais cedo.\nEstou a caminho para encontra-lo em <next.coordinate.preposition> <next.coordinate.name>.\nPor favor, não fique bravo.\n\n§"
+      "Por": "Caro <bounty.name>,\n\nMe desculpe, eu esqueci de trazer as mercadorias para você mais cedo.\nEstou a caminho para encontra-lo <next.coordinate.preposition> <next.coordinate.name>.\nPor favor, não fique bravo.\n\n§"
     }
   },
   {
@@ -230,7 +252,7 @@
     },
     "Texts": {
       "Eng": "Dear <bounty.name>,\n\nI'm sorry I forgot to bring the goods to you earlier.\nI'm on my way to meet you <next.coordinate.preposition> <next.coordinate.name>.\nPlease don't be mad.\n\n±",
-      "Por": "Caro <bounty.name>,\n\nMe desculpe, eu esqueci de trazer as mercadorias para você mais cedo.\nIEstou a caminho para encontra-lo em <next.coordinate.preposition> <next.coordinate.name>.\nPor favor, não fique bravo.\n\n±"
+      "Por": "Caro <bounty.name>,\n\nMe desculpe, eu esqueci de trazer as mercadorias para você mais cedo.\nIEstou a caminho para encontra-lo <next.coordinate.preposition> <next.coordinate.name>.\nPor favor, não fique bravo.\n\n±"
     }
   },
   {
@@ -242,7 +264,7 @@
     },
     "Texts": {
       "Eng": "Dear <bounty.name>,\n\nI'm sorry I forgot to bring the goods to you earlier.\nI'm on my way to meet you <next.coordinate.preposition> <next.coordinate.name>.\nPlease don't be mad.\n\nº",
-      "Por": "Caro <bounty.name>,\n\nMe desculpe, eu esqueci de trazer as mercadorias para você mais cedo.\nIEstou a caminho para encontra-lo em <next.coordinate.preposition> <next.coordinate.name>.\nPor favor, não fique bravo.\n\nº"
+      "Por": "Caro <bounty.name>,\n\nMe desculpe, eu esqueci de trazer as mercadorias para você mais cedo.\nIEstou a caminho para encontra-lo <next.coordinate.preposition> <next.coordinate.name>.\nPor favor, não fique bravo.\n\nº"
     }
   },
   {
@@ -254,7 +276,7 @@
     },
     "Texts": {
       "Eng": "Dear <bounty.name>,\n\nI'm sorry I forgot to bring the goods to you earlier.\nI'm on my way to meet you <next.coordinate.preposition> <next.coordinate.name>.\nPlease don't be mad.\n\n»",
-      "Por": "Caro <bounty.name>,\n\nMe desculpe, eu esqueci de trazer as mercadorias para você mais cedo.\nIEstou a caminho para encontra-lo em <next.coordinate.preposition> <next.coordinate.name>.\nPor favor, não fique bravo.\n\n»"
+      "Por": "Caro <bounty.name>,\n\nMe desculpe, eu esqueci de trazer as mercadorias para você mais cedo.\nIEstou a caminho para encontra-lo <next.coordinate.preposition> <next.coordinate.name>.\nPor favor, não fique bravo.\n\n»"
     }
   },
   {
@@ -266,7 +288,7 @@
     },
     "Texts": {
       "Eng": "Dear <bounty.name>,\n\nI'm sorry I forgot to bring the goods to you earlier.\nI'm on my way to meet you <next.coordinate.preposition> <next.coordinate.name>.\nPlease don't be mad.\n\nð",
-      "Por": "Caro <bounty.name>,\n\nMe desculpe, eu esqueci de trazer as mercadorias para você mais cedo.\nIEstou a caminho para encontra-lo em <next.coordinate.preposition> <next.coordinate.name>.\nPor favor, não fique bravo.\n\nð"
+      "Por": "Caro <bounty.name>,\n\nMe desculpe, eu esqueci de trazer as mercadorias para você mais cedo.\nIEstou a caminho para encontra-lo <next.coordinate.preposition> <next.coordinate.name>.\nPor favor, não fique bravo.\n\nð"
     }
   },
   {
@@ -330,7 +352,7 @@
     },
     "Texts": {
       "Eng": "Due to a change in gang policy, we are now converting all records to a digital format for easier storage. Please go to our computer office <next.coordinate.preposition> <next.coordinate.name> in order to:\n\n> Review your financial records!\n\n> Recieve your bi-quarterly review!\n\n> Memorise the combinations to our security vaults!\n\n> Place an order for your required gang headwear!",
-      "Por": "Devido a uma mudança na política de gangues, agora estamos convertendo todos os registros em um formato digital para facilitar o armazenamento. Por favor, vá ao nosso escritório de informática em <next.coordinate.preposition> <next.coordinate.name> a fim de:\n\n> Revisar seus registros financeiros!\n\n> Receber sua revisão trimestral!\n\n> Memorizar as combinações dos nossos cofres de segurança!\n\n> Fazer um pedido para seu chapéu de gangue obrigatório!"
+      "Por": "Devido a uma mudança na política de gangues, agora estamos convertendo todos os registros em um formato digital para facilitar o armazenamento. Por favor, vá ao nosso escritório de informática <next.coordinate.preposition> <next.coordinate.name> a fim de:\n\n> Revisar seus registros financeiros!\n\n> Receber sua revisão trimestral!\n\n> Memorizar as combinações dos nossos cofres de segurança!\n\n> Fazer um pedido para seu chapéu de gangue obrigatório!"
     }
   },
   {
@@ -361,7 +383,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/bounty/clue_items.config": [
-        "/audiodisc/decoy/6/message",
         "/audiodisc/planetClue/6/message",
         "/audiodisc/scan/6/message",
         "/audiodisc/spaceBounty/6/message"
@@ -483,7 +504,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/bounty/clue_items.config": [
-        "/audiodisc/decoy/2/message",
         "/audiodisc/diversion/2/message",
         "/audiodisc/planetBounty/2/message",
         "/audiodisc/planetClue/2/message",
@@ -530,7 +550,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/bounty/clue_items.config": [
-        "/audiodisc/decoy/1/message",
         "/audiodisc/diversion/1/message",
         "/audiodisc/planetBounty/1/message",
         "/audiodisc/scan/1/message",
@@ -551,7 +570,7 @@
     },
     "Texts": {
       "Eng": "Note to self:\n\n<bounty.name> is getting really mad that I keep leaving notes around with the vault code written on them.\nAll remaining notes should be quietly stored <next.coordinate.preposition> <next.coordinate.name> instead.",
-      "Por": "Nota para si mesmo:\n\n<bounty.name> está ficando muito bravo por eu continuar deixando anotações com o código do cofre escrito nelas.\nTodas as notas restantes devem ser armazenadas discretamente em <next.coordinate.preposition> <next.coordinate.name> em vez disso."
+      "Por": "Nota para si mesmo:\n\n<bounty.name> está ficando muito bravo por eu continuar deixando anotações com o código do cofre escrito nelas.\nTodas as notas restantes devem ser armazenadas discretamente <next.coordinate.preposition> <next.coordinate.name> em vez disso."
     }
   },
   {
@@ -563,7 +582,7 @@
     },
     "Texts": {
       "Eng": "Note to self:\n\nThe code for the vault <next.coordinate.preposition> <next.coordinate.name> is <password>.\n\nDon't leave this note somewhere again!",
-      "Por": "Nota para si mesmo:\n\nO código para o cofre em <next.coordinate.preposition> <next.coordinate.name> é <password>.\n\nNão deixe essa nota em algum lugar novamente!"
+      "Por": "Nota para si mesmo:\n\nO código para o cofre <next.coordinate.preposition> <next.coordinate.name> é <password>.\n\nNão deixe essa nota em algum lugar novamente!"
     }
   },
   {
@@ -582,6 +601,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/bounty/clue_items.config": [
+        "/audiodisc/decoy/4/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tarnation - we've been taken on a ride! I think you need to hurry your hide back to the previous location!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
         "/audiodisc/planetClue/4/message"
       ]
     },
@@ -594,7 +624,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/bounty/clue_items.config": [
-        "/audiodisc/decoy/4/message",
         "/audiodisc/diversion/4/message",
         "/audiodisc/planetBounty/4/message",
         "/audiodisc/spaceBounty/4/message"
@@ -627,6 +656,17 @@
     "Texts": {
       "Eng": "There's holes in even the most organised criminal operation, ain't there? Head on over to <next.coordinate.name> as soon as you can, partner!",
       "Por": "Há buracos até mesmo na operação criminosa mais organizada, não é? Vá para <next.coordinate.name> assim que puder, parceiro(a)!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/audiodisc/decoy/1/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "These criminals are masters of disguise... I think you should go back to your previous location and find this crook, partner!"
     }
   },
   {
@@ -669,7 +709,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/bounty/clue_items.config": [
-        "/audiodisc/decoy/5/message",
         "/audiodisc/diversion/5/message",
         "/audiodisc/planetBounty/5/message",
         "/audiodisc/planetClue/5/message",
@@ -685,7 +724,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/bounty/clue_items.config": [
-        "/audiodisc/decoy/0/message",
         "/audiodisc/diversion/0/message",
         "/audiodisc/planetBounty/0/message",
         "/audiodisc/planetClue/0/message",
@@ -702,12 +740,34 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/bounty/clue_items.config": [
+        "/audiodisc/decoy/3/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "What a mighty waste of Peacekeeper time! You better head back to your previous location an' teach this crook a lesson!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
         "/vaultnote/vaultClue/1/message"
       ]
     },
     "Texts": {
       "Eng": "Why are people usin' paper to write notes still? We have ships that can travel faster than light, I feel like we shouldn't be usin' paper anymore. It looks like <next.coordinate.name> is your next target.",
       "Por": "Por que as pessoas estão usando papel para escrever notas ainda? Nós temos naves que podem viajar mais rápido que a luz, eu sinto que não deveríamos mais usar papel. Parece que <next.coordinate.name> é o seu próximo alvo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/audiodisc/decoy/5/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "Why would they tell us where they are? Just to brag? You should go back to your earlier location and find this crook, partner!"
     }
   },
   {

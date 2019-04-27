@@ -1,0 +1,70 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_scans.config": [
+        "/scanclue1/planetClue/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "i can extract a DNA sample from this handprint"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_scans.config": [
+        "/scanclue1/spaceBounty/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "this DNA signature matches <bounty.name>! we've detected a matching signature at a small station in <next.coordinate.systemName>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_scans.config": [
+        "/scanclue1/planetBounty/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "this DNA signature matches <bounty.name>! we've picked up their signature from a planet in <next.coordinate.systemName>. Head to <next.coordinate.name>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_scans.config": [
+        "/scanclue1/planetClue/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "this DNA signature matches a henchman of <bounty.name>, they were last seen on <next.coordinate.name>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_scans.config": [
+        "/scanclue1/spaceClue/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "this DNA signature matches a henchman of <bounty.name>, they've been known to hang out on a station in <next.coordinate.systemName>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_scans.config": [
+        "/scanclue1/planetBounty/description",
+        "/scanclue1/spaceBounty/description",
+        "/scanclue1/spaceClue/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "this handprint seems to match the target"
+    }
+  }
+]

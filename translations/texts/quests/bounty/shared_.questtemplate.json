@@ -47,6 +47,9 @@
       "quests/bounty/find_clue_object.questtemplate": [
         "/text"
       ],
+      "quests/bounty/find_clue_scan.questtemplate": [
+        "/text"
+      ],
       "quests/bounty/find_space_clue_item.questtemplate": [
         "/text"
       ],
@@ -54,6 +57,9 @@
         "/text"
       ],
       "quests/bounty/find_space_clue_object.questtemplate": [
+        "/text"
+      ],
+      "quests/bounty/find_space_clue_scan.questtemplate": [
         "/text"
       ]
     },
@@ -71,10 +77,16 @@
       "quests/bounty/find_clue_npc.questtemplate": [
         "/scriptConfig/generatedText/failureText/default/1"
       ],
+      "quests/bounty/find_clue_scan.questtemplate": [
+        "/scriptConfig/generatedText/failureText/default/1"
+      ],
       "quests/bounty/find_space_clue_item.questtemplate": [
         "/scriptConfig/generatedText/failureText/default/1"
       ],
       "quests/bounty/find_space_clue_npc.questtemplate": [
+        "/scriptConfig/generatedText/failureText/default/1"
+      ],
+      "quests/bounty/find_space_clue_scan.questtemplate": [
         "/scriptConfig/generatedText/failureText/default/1"
       ]
     },
@@ -140,10 +152,16 @@
       "quests/bounty/find_clue_npc.questtemplate": [
         "/scriptConfig/generatedText/failureText/default/0"
       ],
+      "quests/bounty/find_clue_scan.questtemplate": [
+        "/scriptConfig/generatedText/failureText/default/0"
+      ],
       "quests/bounty/find_space_clue_item.questtemplate": [
         "/scriptConfig/generatedText/failureText/default/0"
       ],
       "quests/bounty/find_space_clue_npc.questtemplate": [
+        "/scriptConfig/generatedText/failureText/default/0"
+      ],
+      "quests/bounty/find_space_clue_scan.questtemplate": [
         "/scriptConfig/generatedText/failureText/default/0"
       ]
     },
@@ -288,6 +306,9 @@
       "quests/bounty/find_clue_object.questtemplate": [
         "/completionText"
       ],
+      "quests/bounty/find_clue_scan.questtemplate": [
+        "/completionText"
+      ],
       "quests/bounty/find_space_clue_object.questtemplate": [
         "/completionText"
       ]
@@ -345,6 +366,9 @@
       "quests/bounty/find_clue_object.questtemplate": [
         "/scriptConfig/generatedText/text/default/0"
       ],
+      "quests/bounty/find_clue_scan.questtemplate": [
+        "/scriptConfig/generatedText/text/default/0"
+      ],
       "quests/bounty/find_space_clue_item.questtemplate": [
         "/scriptConfig/generatedText/text/default/0"
       ],
@@ -352,6 +376,9 @@
         "/scriptConfig/generatedText/text/default/0"
       ],
       "quests/bounty/find_space_clue_object.questtemplate": [
+        "/scriptConfig/generatedText/text/default/0"
+      ],
+      "quests/bounty/find_space_clue_scan.questtemplate": [
         "/scriptConfig/generatedText/text/default/0"
       ]
     },
@@ -380,6 +407,9 @@
       ],
       "quests/bounty/find_space_clue_object.questtemplate": [
         "/scriptConfig/generatedText/text/default/1"
+      ],
+      "quests/bounty/find_space_clue_scan.questtemplate": [
+        "/scriptConfig/generatedText/text/default/1"
       ]
     },
     "Texts": {
@@ -406,6 +436,9 @@
         "/scriptConfig/generatedText/text/default/2"
       ],
       "quests/bounty/find_space_clue_object.questtemplate": [
+        "/scriptConfig/generatedText/text/default/2"
+      ],
+      "quests/bounty/find_space_clue_scan.questtemplate": [
         "/scriptConfig/generatedText/text/default/2"
       ]
     },
@@ -444,10 +477,16 @@
       "quests/bounty/find_clue_object.questtemplate": [
         "/title"
       ],
+      "quests/bounty/find_clue_scan.questtemplate": [
+        "/title"
+      ],
       "quests/bounty/find_space_clue_item.questtemplate": [
         "/title"
       ],
       "quests/bounty/find_space_clue_object.questtemplate": [
+        "/title"
+      ],
+      "quests/bounty/find_space_clue_scan.questtemplate": [
         "/title"
       ],
       "quests/bounty/scan_planets.questtemplate": [

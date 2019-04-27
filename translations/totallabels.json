@@ -7547,6 +7547,11 @@
           "tallchair.object.json": 9
         }
       },
+      "bounty": {
+        "scanclue1": {
+          "scanclue1.object.json": 9
+        }
+      },
       "bugs": {
         "ashsprite": {
           "ashsprite.object.json": 2
@@ -8547,6 +8552,9 @@
         },
         "cropshipper": {
           "cropshipper.object.json": 9
+        },
+        "darkcomputer": {
+          "darkcomputer.object.json": 9
         },
         "datastation": {
           "datastation.object.json": 9
@@ -13486,11 +13494,12 @@
         "capture_ship_bounty.questtemplate.json": 2,
         "capture_space_bounty.questtemplate.json": 1,
         "clue_bounties.config.json": 45,
-        "clue_items.config.json": 55,
+        "clue_items.config.json": 61,
         "clue_npcs.config.json": 96,
-        "clue_objects.config.json": 29,
+        "clue_objects.config.json": 34,
+        "clue_scans.config.json": 6,
         "find_clue_item.questtemplate.json": 2,
-        "find_space_clue_item.questtemplate.json": 2,
+        "find_clue_scan.questtemplate.json": 1,
         "generator.config.json": 11,
         "kill_bounty_monster.questtemplate.json": 1,
         "pre_bounty_alive.questtemplate.json": 1,
@@ -13503,7 +13512,7 @@
         "shared_.questtemplate.json": 20,
         "shared__clue_npc.questtemplate.json": 4,
         "shared__clue_object.questtemplate.json": 4,
-        "shared_find_space_clue_.json": 1
+        "shared_find_space_clue_.json": 3
       },
       "food": {
         "firstcrops.questtemplate.json": 3,

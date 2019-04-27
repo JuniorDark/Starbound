@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/find_clue_scan.questtemplate": [
+        "/scriptConfig/generatedText/text/prev/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;<prev.coordinate.name>^reset;:\n--TODO-- got dna here, my favorite! heading to <coordinate.name>.\n\n"
+    }
+  }
+]

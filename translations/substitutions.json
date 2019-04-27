@@ -16639,6 +16639,14 @@
     "/text": "texts/quests/bounty/shared_.questtemplate.json",
     "/title": "texts/quests/bounty/shared_.questtemplate.json"
   },
+  "quests/bounty/find_clue_scan.questtemplate": {
+    "/completionText": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/generatedText/failureText/default/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/generatedText/failureText/default/1": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/generatedText/text/default/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/text": "texts/quests/bounty/shared_.questtemplate.json",
+    "/title": "texts/quests/bounty/shared_.questtemplate.json"
+  },
   "quests/bounty/find_space_clue_item.questtemplate": {
     "/completionText": "texts/quests/bounty/shared_find_space_clue_.json",
     "/scriptConfig/generatedText/failureText/default/0": "texts/quests/bounty/shared_.questtemplate.json",
@@ -16646,6 +16654,8 @@
     "/scriptConfig/generatedText/text/default/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/default/1": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/default/2": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/generatedText/text/prev/0": "texts/quests/bounty/shared_find_space_clue_.json",
+    "/scriptConfig/generatedText/text/prev/1": "texts/quests/bounty/shared_find_space_clue_.json",
     "/text": "texts/quests/bounty/shared_.questtemplate.json",
     "/title": "texts/quests/bounty/shared_.questtemplate.json"
   },
@@ -16671,6 +16681,18 @@
     "/scriptConfig/generatedText/text/prev/1": "texts/quests/bounty/shared__clue_object.questtemplate.json",
     "/scriptConfig/generatedText/text/prev/2": "texts/quests/bounty/shared__clue_object.questtemplate.json",
     "/scriptConfig/generatedText/text/prev/3": "texts/quests/bounty/shared__clue_object.questtemplate.json",
+    "/text": "texts/quests/bounty/shared_.questtemplate.json",
+    "/title": "texts/quests/bounty/shared_.questtemplate.json"
+  },
+  "quests/bounty/find_space_clue_scan.questtemplate": {
+    "/completionText": "texts/quests/bounty/shared_find_space_clue_.json",
+    "/scriptConfig/generatedText/failureText/default/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/generatedText/failureText/default/1": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/generatedText/text/default/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/generatedText/text/default/1": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/generatedText/text/default/2": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/generatedText/text/prev/0": "texts/quests/bounty/shared_find_space_clue_.json",
+    "/scriptConfig/generatedText/text/prev/1": "texts/quests/bounty/shared_find_space_clue_.json",
     "/text": "texts/quests/bounty/shared_.questtemplate.json",
     "/title": "texts/quests/bounty/shared_.questtemplate.json"
   },
