@@ -1,0 +1,372 @@
+[
+  {
+    "op": "replace",
+    "path": "/prefix/0",
+    "value": "Malvado "
+  },
+  {
+    "op": "replace",
+    "path": "/prefix/1",
+    "value": "Arruaceiro "
+  },
+  {
+    "op": "replace",
+    "path": "/prefix/2",
+    "value": "Trapaceiro "
+  },
+  {
+    "op": "replace",
+    "path": "/prefix/3",
+    "value": "Veloz "
+  },
+  {
+    "op": "replace",
+    "path": "/prefix/4",
+    "value": "Desonesto "
+  },
+  {
+    "op": "replace",
+    "path": "/prefix/5",
+    "value": "Desagradável "
+  },
+  {
+    "op": "replace",
+    "path": "/prefix/6",
+    "value": "Inconsequente "
+  },
+  {
+    "op": "replace",
+    "path": "/prefix/7",
+    "value": "Escorregadio "
+  },
+  {
+    "op": "replace",
+    "path": "/prefix/8",
+    "value": "Assassino "
+  },
+  {
+    "op": "replace",
+    "path": "/prefix/9",
+    "value": "Gritante "
+  },
+  {
+    "op": "replace",
+    "path": "/prefix/10",
+    "value": "Atirador "
+  },
+  {
+    "op": "replace",
+    "path": "/prefix/11",
+    "value": "Calamidade "
+  },
+  {
+    "op": "replace",
+    "path": "/prefix/12",
+    "value": "Sujo "
+  },
+  {
+    "op": "replace",
+    "path": "/prefix/13",
+    "value": "Quieto "
+  },
+  {
+    "op": "replace",
+    "path": "/prefix/14",
+    "value": "Astuto "
+  },
+  {
+    "op": "replace",
+    "path": "/prefix/15",
+    "value": "Tempestuoso "
+  },
+  {
+    "op": "replace",
+    "path": "/prefix/16",
+    "value": "Duas-pistolas "
+  },
+  {
+    "op": "replace",
+    "path": "/prefix/17",
+    "value": "Sorrateiro "
+  },
+  {
+    "op": "replace",
+    "path": "/prefix/18",
+    "value": "Calmo "
+  },
+  {
+    "op": "replace",
+    "path": "/prefix/19",
+    "value": "Chefe "
+  },
+  {
+    "op": "replace",
+    "path": "/prefix/20",
+    "value": "Fio-quente "
+  },
+  {
+    "op": "replace",
+    "path": "/prefix/21",
+    "value": "Atirando "
+  },
+  {
+    "op": "replace",
+    "path": "/prefix/22",
+    "value": "Caos "
+  },
+  {
+    "op": "replace",
+    "path": "/prefix/23",
+    "value": "Rabugento "
+  },
+  {
+    "op": "replace",
+    "path": "/prefix/24",
+    "value": "Rápido "
+  },
+  {
+    "op": "replace",
+    "path": "/prefix/25",
+    "value": "Moderado "
+  },
+  {
+    "op": "replace",
+    "path": "/prefix/26",
+    "value": "Grande "
+  },
+  {
+    "op": "replace",
+    "path": "/prefix/27",
+    "value": "Pequeno "
+  },
+  {
+    "op": "replace",
+    "path": "/prefix/29",
+    "value": "Médico "
+  },
+  {
+    "op": "replace",
+    "path": "/prefix/31",
+    "value": "Capitão "
+  },
+  {
+    "op": "replace",
+    "path": "/prefix/32",
+    "value": "Alegre "
+  },
+  {
+    "op": "replace",
+    "path": "/prefix/33",
+    "value": "Mestre "
+  },
+  {
+    "op": "replace",
+    "path": "/prefix/34",
+    "value": "O Grande "
+  },
+  {
+    "op": "replace",
+    "path": "/prefix/37",
+    "value": "Fatiador "
+  },
+  {
+    "op": "replace",
+    "path": "/prefix/38",
+    "value": "Solitário "
+  },
+  {
+    "op": "replace",
+    "path": "/prefix/40",
+    "value": "Melhorado "
+  },
+  {
+    "op": "replace",
+    "path": "/prefix/41",
+    "value": "Fresco "
+  },
+  {
+    "op": "replace",
+    "path": "/prefix/42",
+    "value": "Perigoso "
+  },
+  {
+    "op": "replace",
+    "path": "/prefix/43",
+    "value": "Engraçado "
+  },
+  {
+    "op": "replace",
+    "path": "/prefix/44",
+    "value": "Duas mãos "
+  },
+  {
+    "op": "replace",
+    "path": "/prefix/45",
+    "value": "Saque Rápido "
+  },
+  {
+    "op": "replace",
+    "path": "/prefix/47",
+    "value": "Frígido "
+  },
+  {
+    "op": "replace",
+    "path": "/prefix/48",
+    "value": "Selvagem "
+  },
+  {
+    "op": "replace",
+    "path": "/prefix/49",
+    "value": "Louco "
+  },
+  {
+    "op": "replace",
+    "path": "/prefix/52",
+    "value": "Caótico "
+  },
+  {
+    "op": "replace",
+    "path": "/suffix/0",
+    "value": " o Mutilador"
+  },
+  {
+    "op": "replace",
+    "path": "/suffix/1",
+    "value": " o Bom"
+  },
+  {
+    "op": "replace",
+    "path": "/suffix/2",
+    "value": " o Mau"
+  },
+  {
+    "op": "replace",
+    "path": "/suffix/3",
+    "value": " o Feio"
+  },
+  {
+    "op": "replace",
+    "path": "/suffix/4",
+    "value": " o Esquisito"
+  },
+  {
+    "op": "replace",
+    "path": "/suffix/5",
+    "value": " o Fixador"
+  },
+  {
+    "op": "replace",
+    "path": "/suffix/6",
+    "value": " o Pardal"
+  },
+  {
+    "op": "replace",
+    "path": "/suffix/7",
+    "value": " o Delator"
+  },
+  {
+    "op": "replace",
+    "path": "/suffix/8",
+    "value": " a Criança"
+  },
+  {
+    "op": "replace",
+    "path": "/suffix/9",
+    "value": " a Sombra"
+  },
+  {
+    "op": "replace",
+    "path": "/suffix/10",
+    "value": " o Bom"
+  },
+  {
+    "op": "replace",
+    "path": "/suffix/11",
+    "value": " o Traidor"
+  },
+  {
+    "op": "replace",
+    "path": "/suffix/12",
+    "value": " o Dedo duro"
+  },
+  {
+    "op": "replace",
+    "path": "/suffix/13",
+    "value": " o Bruto"
+  },
+  {
+    "op": "replace",
+    "path": "/suffix/14",
+    "value": " o Idiota"
+  },
+  {
+    "op": "replace",
+    "path": "/suffix/15",
+    "value": " a Máquina"
+  },
+  {
+    "op": "replace",
+    "path": "/suffix/16",
+    "value": " o Enigma"
+  },
+  {
+    "op": "replace",
+    "path": "/suffix/17",
+    "value": " o Certeiro"
+  },
+  {
+    "op": "replace",
+    "path": "/suffix/18",
+    "value": " o Líder"
+  },
+  {
+    "op": "replace",
+    "path": "/suffix/19",
+    "value": " o Paralisante"
+  },
+  {
+    "op": "replace",
+    "path": "/suffix/20",
+    "value": " o Ladino"
+  },
+  {
+    "op": "replace",
+    "path": "/suffix/21",
+    "value": " o Hacker"
+  },
+  {
+    "op": "replace",
+    "path": "/suffix/22",
+    "value": " o Operador"
+  },
+  {
+    "op": "replace",
+    "path": "/suffix/23",
+    "value": " o Musculoso"
+  },
+  {
+    "op": "replace",
+    "path": "/suffix/24",
+    "value": " o Craque"
+  },
+  {
+    "op": "replace",
+    "path": "/suffix/25",
+    "value": " o Espertalhão"
+  },
+  {
+    "op": "replace",
+    "path": "/suffix/26",
+    "value": " Gosmento"
+  },
+  {
+    "op": "replace",
+    "path": "/suffix/28",
+    "value": " Lábios-apertados"
+  },
+  {
+    "op": "replace",
+    "path": "/suffix/29",
+    "value": " Martelo"
+  }
+]

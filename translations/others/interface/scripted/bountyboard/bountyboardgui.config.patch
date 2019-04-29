@@ -1,0 +1,87 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/title",
+    "value": "Quadro de Recompensas"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/subtitle",
+    "value": "Os Mais Procurados da Galáxia"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/summaryOverlay/children/lblNameHeader/value",
+    "value": "Nome"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/summaryOverlay/children/lblNameList/value",
+    "value": "Nome"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblOtherAssignment/value",
+    "value": "Você está designado para outro Departamento Pacificador."
+  },
+  {
+    "op": "replace",
+    "path": "/assignmentFormat",
+    "value": "Investigue a ^yellow;<gangName>^reset; perto de ^cyan;<systemName>"
+  },
+  {
+    "op": "replace",
+    "path": "/newAssignmentText",
+    "value": " Nova Tarefa!"
+  },
+  {
+    "op": "replace",
+    "path": "/newRankText",
+    "value": " Promovido!"
+  },
+  {
+    "op": "replace",
+    "path": "/bountyRanks/0/description",
+    "value": "Rank I: Caçador Esperançoso"
+  },
+  {
+    "op": "replace",
+    "path": "/bountyRanks/1/description",
+    "value": "Rank II: Apreendedor Aspirante"
+  },
+  {
+    "op": "replace",
+    "path": "/bountyRanks/2/description",
+    "value": "Rank III: Delegado Confiável"
+  },
+  {
+    "op": "replace",
+    "path": "/bountyRanks/3/description",
+    "value": "Rank IV: Detetive Experiente"
+  },
+  {
+    "op": "replace",
+    "path": "/bountyRanks/4/description",
+    "value": "Rank V: Pacificador Comprovado"
+  },
+  {
+    "op": "replace",
+    "path": "/finalAssignment/description",
+    "value": "Rank V: Pacificador Comprovado"
+  },
+  {
+    "op": "replace",
+    "path": "/finalAssignment/gang/name",
+    "value": "Culto Apocalíptico Occasus"
+  },
+  {
+    "op": "replace",
+    "path": "/posterTags/majorText/0",
+    "value": "ALTO VALOR"
+  },
+  {
+    "op": "replace",
+    "path": "/posterTags/capstoneText/0",
+    "value": "LÍDER"
+  }
+]

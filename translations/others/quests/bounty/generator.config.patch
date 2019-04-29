@@ -1,0 +1,82 @@
+[
+  {
+    "op": "replace",
+    "path": "/steps/capture_bounty/message",
+    "value": "Bom trabalho derrubando aquele criminoso, parceiro(a)!"
+  },
+  {
+    "op": "replace",
+    "path": "/edges/9/prev/text/skipMessage",
+    "value": "Você acabou de... Adivinhar essa senha? Você é um canhão solto, parceiro(a)."
+  },
+  {
+    "op": "replace",
+    "path": "/edges/10/prev/text/skipMessage",
+    "value": "Você deduziu essa senha com suas habilidades avançadas de detetive? Bom trabalho, parceiro(a)!"
+  },
+  {
+    "op": "replace",
+    "path": "/edges/13/prev/text/skipMessage",
+    "value": "Você é... Psíquico?"
+  },
+  {
+    "op": "replace",
+    "path": "/edges/14/prev/text/skipMessage",
+    "value": "Nenhum cofre protegido por senha pode atrasá-lo, né?"
+  },
+  {
+    "op": "replace",
+    "path": "/edges/15/mid/text/skipMessage",
+    "value": "Bom hackeamento, parceiro(a)! Quais eram as chances de você adivinhar isso com sucesso?"
+  },
+  {
+    "op": "replace",
+    "path": "/edges/15/next/text/questLog",
+    "value": "O código para o cofre em ^green;<coordinate.name>^reset; é ^green;<password>^reset;."
+  },
+  {
+    "op": "replace",
+    "path": "/edges/16/mid/text/skipMessage",
+    "value": "Nós nem encontramos aquele código ainda. Hackeamento impressionante, parceiro(a)!"
+  },
+  {
+    "op": "replace",
+    "path": "/edges/16/next/text/questLog",
+    "value": "O código para o cofre em ^green;<coordinate.name>^reset; é ^green;<password>^reset;."
+  },
+  {
+    "op": "replace",
+    "path": "/edges/17/mid/text/skipMessage",
+    "value": "Eu gosto do seu estilo - não há necessidade de encontrar o código do cofre, basta adivinhar! Bom trabalho, parceiro(a)!"
+  },
+  {
+    "op": "replace",
+    "path": "/edges/17/next/text/questLog",
+    "value": "O código para o cofre em ^green;<coordinate.name>^reset; é ^green;<password>^reset;."
+  },
+  {
+    "op": "replace",
+    "path": "/edges/28/prev/text/message",
+    "value": "Nós pegamos sinais do alvo deste planeta. Prossiga para <next.coordinate.name> e prenda o criminoso."
+  },
+  {
+    "op": "replace",
+    "path": "/edges/29/prev/text/message",
+    "value": "Nós pegamos sinais do alvo deste planeta. Prossiga para <next.coordinate.name> para investigar mais."
+  },
+  {
+    "op": "replace",
+    "path": "/edges/30/prev/text/message",
+    "value": "Nós pegamos sinais do alvo deste planeta. Prossiga para <next.coordinate.name> para investigar mais."
+  },
+  {
+    "op": "replace",
+    "path": "/edges/31/prev/text/message",
+    "value": "Nós pegamos sinais do alvo deste planeta. Prossiga para <next.coordinate.name> para investigar mais."
+  },
+  {
+    "op": "replace",
+    "path": "/edges/32/prev/text/message",
+    "value": "Nós pegamos sinais do alvo deste planeta. Prossiga para <next.coordinate.name> para investigar mais."
+  }
+]

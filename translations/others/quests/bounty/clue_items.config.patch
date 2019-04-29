@@ -1,0 +1,1012 @@
+[
+  {
+    "op": "replace",
+    "path": "/audiodisc/diversion/0/parameters/radioMessages/0",
+    "value": "...Você está gravando isso? Bom. <bounty.name> diz que houve uma mudança de plano..."
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/diversion/0/parameters/radioMessages/1",
+    "value": "Vamos para <next.coordinate.name> em vez disso! Você entendeu?"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/diversion/0/message",
+    "value": "Bem, isso é uma boa pista! Eu acho que você precisa apressar e ir ao seu esconderijo em <next.coordinate.name>!"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/diversion/1/parameters/radioMessages/0",
+    "value": "...Você acabou ONDE? Não, você não conseguiu o aviso? Nós não estamos destinados a estar lá mais!"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/diversion/1/parameters/radioMessages/1",
+    "value": "Me encontre em <next.coordinate.name> em vez disso. Temos Pacificadores na nossa cola!"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/diversion/1/message",
+    "value": "Parece que eles estão meio passo à frente de nós - mas parece que podemos pegá-los em <next.coordinate.name>!"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/diversion/2/parameters/radioMessages/0",
+    "value": "...E por causa disso, <bounty.name> está indo para <next.coordinate.name> em vez disso, ok?"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/diversion/2/parameters/radioMessages/1",
+    "value": "...E não deixe uma gravação desta conversa para trás por acidente novamente!"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/diversion/2/message",
+    "value": "Sorte a nossa que os malfeitores não sejam tão espertos, não é? É melhor você ir para <next.coordinate.name>."
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/diversion/3/parameters/radioMessages/0",
+    "value": "...E eu me sinto solitário às vezes, sabe? Eu acho que me gravando falando me faz sentir melhor."
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/diversion/3/parameters/radioMessages/1",
+    "value": "Mas chega disso, preciso me encontrar com <bounty.name> em <next.coordinate.name>."
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/diversion/3/message",
+    "value": "..Bem, acho que isso é uma pista boa o suficiente. Parece que <next.coordinate.name> é o seu próximo destino, parceiro(a)!"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/diversion/4/parameters/radioMessages/0",
+    "value": "...E <bounty.name> realmente não acreditava em mim quando eu expliquei o que aconteceu com os Pinguins..."
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/diversion/4/parameters/radioMessages/1",
+    "value": "...Então é por isso que estou atrasado! Eu vou me encontrar com você em <next.coordinate.name>..."
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/diversion/4/message",
+    "value": "Isso é uma dica se eu já ouvi uma! Suponho que é melhor ir para <next.coordinate.name> em seguida!"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/diversion/5/parameters/radioMessages/0",
+    "value": "...Você não ouviu? Estamos sendo seguidos. Nós temos que tirar os Pacificadores da liderança..."
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/diversion/5/parameters/radioMessages/1",
+    "value": "...Leve as mercadorias para <next.coordinate.name> em vez disso..."
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/diversion/5/message",
+    "value": "Eles são escorregadios, mas não são bons o suficiente para escapar de nós! Avante com destino à <next.coordinate.name>!"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/diversion/6/parameters/radioMessages/0",
+    "value": "...E foi quando eu encontrei este CD em branco, então eu pensei em gravar minha voz e ver como soava..."
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/diversion/6/parameters/radioMessages/1",
+    "value": "...Minha voz soa super esquisita! De qualquer forma, eu vou levar as mercadorias para <next.coordinate.name> agora..."
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/diversion/6/message",
+    "value": "Estes patifes não são muito espertos, não é? É melhor você ir para <next.coordinate.name>, parceiro(a)!"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/planetClue/0/parameters/radioMessages/0",
+    "value": "...Você está gravando isso? Bom. <bounty.name> diz que houve uma mudança de plano..."
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/planetClue/0/parameters/radioMessages/1",
+    "value": "Vamos para <next.coordinate.name> em vez disso! Você entendeu?"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/planetClue/0/message",
+    "value": "Bem, isso é uma boa pista! Eu acho que você precisa apressar e ir ao seu esconderijo em <next.coordinate.name>!"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/planetClue/1/parameters/radioMessages/0",
+    "value": "...Você acabou ONDE? Não, você não conseguiu o aviso? Nós não estamos destinados a ESTAR lá mais!"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/planetClue/1/parameters/radioMessages/1",
+    "value": "Me encontre em <next.coordinate.name> em vez disso. Temos Pacificadores na nossa cola!"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/planetClue/1/message",
+    "value": "Eles estão certos - nós estamos certamente na sua cola! Parece que podemos pegá-los em <next.coordinate.name>!"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/planetClue/2/parameters/radioMessages/0",
+    "value": "...E por causa disso, <bounty.name> está indo para <next.coordinate.name> em vez disso, ok?"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/planetClue/2/parameters/radioMessages/1",
+    "value": "...E não deixe uma gravação desta conversa para trás por acidente novamente!"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/planetClue/2/message",
+    "value": "Sorte a nossa que os malfeitores não sejam tão espertos, não é? É melhor você ir para <next.coordinate.name>."
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/planetClue/3/parameters/radioMessages/0",
+    "value": "...E eu me sinto solitário às vezes, sabe? Eu acho que me gravando falando me faz sentir melhor."
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/planetClue/3/parameters/radioMessages/1",
+    "value": "Mas chega disso, preciso me encontrar com <bounty.name> em <next.coordinate.name>."
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/planetClue/3/message",
+    "value": "...Eu não sabia que as pessoas ainda usavam CDs! Parece que <next.coordinate.name> é o seu próximo destino, parceiro(a)!"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/planetClue/4/parameters/radioMessages/0",
+    "value": "...E <bounty.name> realmente não acreditou em mim quando expliquei o mal-entendido com o Miniknog"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/planetClue/4/parameters/radioMessages/1",
+    "value": "...Então é por isso que estou atrasado! Eu vou me encontrar com você em <next.coordinate.name>..."
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/planetClue/4/message",
+    "value": "Isso é uma dica se eu já ouvi uma! Suponho que é melhor ir para <next.coordinate.name> em seguida!"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/planetClue/5/parameters/radioMessages/0",
+    "value": "...Você não ouviu? Estamos sendo seguidos. Nós temos que tirar os Pacificadores da liderança..."
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/planetClue/5/parameters/radioMessages/1",
+    "value": "...Leve as mercadorias para <next.coordinate.name> em vez disso..."
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/planetClue/5/message",
+    "value": "Eles são escorregadios, mas não são bons o suficiente para escapar de nós! Avante com destino à <next.coordinate.name>!"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/planetClue/6/parameters/radioMessages/0",
+    "value": "...E foi quando eu encontrei este CD em branco, então eu pensei em gravar minha voz e ver como soava..."
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/planetClue/6/parameters/radioMessages/1",
+    "value": "...Minha voz soa super esquisita! De qualquer forma, eu vou levar as mercadorias para <next.coordinate.name> agora..."
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/planetClue/6/message",
+    "value": "Acho que não estamos lidando com pessoas espertas neste caso. É melhor você ir para <next.coordinate.name>!"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/planetBounty/0/parameters/radioMessages/0",
+    "value": "...Você está gravando isso? Bom. <bounty.name> diz que houve uma mudança de plano..."
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/planetBounty/0/parameters/radioMessages/1",
+    "value": "Vamos para <next.coordinate.name> em vez disso! Você entendeu?"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/planetBounty/0/message",
+    "value": "Bem, isso é uma boa pista! Eu acho que você precisa apressar e ir ao seu esconderijo em <next.coordinate.name>!"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/planetBounty/1/parameters/radioMessages/0",
+    "value": "...Você acabou ONDE? Não, você não conseguiu o aviso? Nós não estamos destinados a ESTAR lá mais!"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/planetBounty/1/parameters/radioMessages/1",
+    "value": "Me encontre em <next.coordinate.name> em vez disso. Temos Pacificadores na nossa cola!"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/planetBounty/1/message",
+    "value": "Parece que eles estão meio passo à frente de nós - mas parece que podemos pegá-los em <next.coordinate.name>!"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/planetBounty/2/parameters/radioMessages/0",
+    "value": "...E por causa disso, <bounty.name> está indo para <next.coordinate.name> em vez disso, ok?"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/planetBounty/2/parameters/radioMessages/1",
+    "value": "...E não deixe uma gravação desta conversa para trás por acidente novamente!"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/planetBounty/2/message",
+    "value": "Sorte a nossa que os malfeitores não sejam tão espertos, não é? É melhor você ir para <next.coordinate.name>."
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/planetBounty/3/parameters/radioMessages/0",
+    "value": "...E estou com medo dos meus sentimentos - porque e se <bounty.name> Não sente a mesma coisa por mim? EU SOU apenas um lacaio, afinal..."
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/planetBounty/3/parameters/radioMessages/1",
+    "value": "Talvez eu deva confessar meus sentimentos a eles em <next.coordinate.name>."
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/planetBounty/3/message",
+    "value": "..Bem, eu, uh, acho que temos uma pista. Parece que <next.coordinate.name> é o seu próximo destino, parceiro(a)!"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/planetBounty/4/parameters/radioMessages/0",
+    "value": "...E <bounty.name> realmente não comprou que o Poptop comeu toda a minha papelada..."
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/planetBounty/4/parameters/radioMessages/1",
+    "value": "...Então é por isso que estou atrasado! Eu vou me encontrar com você em <next.coordinate.name>..."
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/planetBounty/4/message",
+    "value": "Isso é uma dica se eu já ouvi uma! Suponho que é melhor ir para <next.coordinate.name> em seguida!"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/planetBounty/5/parameters/radioMessages/0",
+    "value": "...Você não ouviu? Estamos sendo seguidos. Nós temos que tirar os Pacificadores da liderança..."
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/planetBounty/5/parameters/radioMessages/1",
+    "value": "...Leve as mercadorias para <next.coordinate.name> em vez disso..."
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/planetBounty/5/message",
+    "value": "Eles são escorregadios, mas não são bons o suficiente para escapar de nós! Avante com destino à <next.coordinate.name>!"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/planetBounty/6/parameters/radioMessages/0",
+    "value": "...E foi quando eu encontrei este CD em branco, então eu pensei em gravar minha voz e ver como soava..."
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/planetBounty/6/parameters/radioMessages/1",
+    "value": "...Minha voz soa super esquisita! De qualquer forma, eu vou levar as mercadorias para <next.coordinate.name> agora..."
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/planetBounty/6/message",
+    "value": "Acho que não estamos lidando com pessoas espertas neste caso. É melhor você ir para <next.coordinate.name>!"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/spaceBounty/0/parameters/radioMessages/0",
+    "value": "...Você está gravando isso? Bom. <bounty.name> diz que houve uma mudança de plano..."
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/spaceBounty/0/parameters/radioMessages/1",
+    "value": "Vamos para <next.coordinate.name> em vez disso! Você entendeu?"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/spaceBounty/0/message",
+    "value": "Bem, isso é uma boa pista! Eu acho que você precisa apressar e ir ao seu esconderijo em <next.coordinate.name>!"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/spaceBounty/1/parameters/radioMessages/0",
+    "value": "...Você acabou ONDE? Não, você não conseguiu o aviso? Nós não estamos destinados a ESTAR lá mais!"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/spaceBounty/1/parameters/radioMessages/1",
+    "value": "Me encontre em <next.coordinate.name> em vez disso. Temos Pacificadores na nossa cola!"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/spaceBounty/1/message",
+    "value": "Parece que eles estão meio passo à frente de nós - mas parece que podemos pegá-los em <next.coordinate.name>!"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/spaceBounty/2/parameters/radioMessages/0",
+    "value": "...E porque o cheiro não ia embora, <bounty.name> está indo para <next.coordinate.name> em vez disso!"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/spaceBounty/2/parameters/radioMessages/1",
+    "value": "...E não deixe uma gravação desta conversa para trás por acidente novamente!"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/spaceBounty/2/message",
+    "value": "Sorte a nossa que os malfeitores não sejam tão espertos, não é? É melhor você ir para <next.coordinate.name>."
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/spaceBounty/3/parameters/radioMessages/0",
+    "value": "...E eu me sinto solitário às vezes, sabe? Eu acho que me gravando falando me faz sentir melhor."
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/spaceBounty/3/parameters/radioMessages/1",
+    "value": "Mas chega disso, preciso me encontrar com <bounty.name> em <next.coordinate.name>."
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/spaceBounty/3/message",
+    "value": "..Bem, acho que isso é uma pista boa o suficiente. Parece que <next.coordinate.name> é o seu próximo destino, parceiro(a)!"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/spaceBounty/4/parameters/radioMessages/0",
+    "value": "...E <bounty.name> não estava feliz com a escassez de café, então eu tive que ir e comprar um pouco..."
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/spaceBounty/4/parameters/radioMessages/1",
+    "value": "...Então agora estou atrasado! Eu vou me encontrar com você em <next.coordinate.name>..."
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/spaceBounty/4/message",
+    "value": "Isso é uma dica se eu já ouvi uma! Suponho que é melhor ir para <next.coordinate.name> em seguida!"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/spaceBounty/5/parameters/radioMessages/0",
+    "value": "...Você não ouviu? Estamos sendo seguidos. Nós temos que tirar os Pacificadores da liderança..."
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/spaceBounty/5/parameters/radioMessages/1",
+    "value": "...Leve as mercadorias para <next.coordinate.name> em vez disso..."
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/spaceBounty/5/message",
+    "value": "Eles são escorregadios, mas não são bons o suficiente para escapar de nós! Avante com destino à <next.coordinate.name>!"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/spaceBounty/6/parameters/radioMessages/0",
+    "value": "...E foi quando eu encontrei este CD em branco, então eu pensei em gravar minha voz e ver como soava..."
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/spaceBounty/6/parameters/radioMessages/1",
+    "value": "...É assim que minha voz soa? É... Muito chata! Enfim, eu vou levar a mercadoria para <next.coordinate.name> agora..."
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/spaceBounty/6/message",
+    "value": "Acho que não estamos lidando com pessoas espertas neste caso. É melhor você ir para <next.coordinate.name>!"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/scan/0/parameters/radioMessages/0",
+    "value": "...Você está gravando isso? Bom. <bounty.name> diz que houve uma mudança de plano..."
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/scan/0/parameters/radioMessages/1",
+    "value": "Vamos para <next.coordinate.name> em vez disso! Você entendeu?"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/scan/0/message",
+    "value": "Bem, isso é uma boa pista! Eu acho que você precisa apressar e ir ao seu esconderijo em <next.coordinate.name>!"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/scan/1/parameters/radioMessages/0",
+    "value": "...Você acabou ONDE? Não, você não conseguiu o aviso? Nós não estamos destinados a ESTAR lá mais!"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/scan/1/parameters/radioMessages/1",
+    "value": "Me encontre em <next.coordinate.name> em vez disso. Temos Pacificadores na nossa cola!"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/scan/1/message",
+    "value": "Parece que eles estão meio passo à frente de nós - mas parece que podemos pegá-los em <next.coordinate.name>!"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/scan/2/parameters/radioMessages/0",
+    "value": "...E por causa disso, <bounty.name> está indo para <next.coordinate.name> em vez disso, ok?"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/scan/2/parameters/radioMessages/1",
+    "value": "...E não deixe uma gravação desta conversa para trás por acidente novamente!"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/scan/2/message",
+    "value": "Sorte a nossa que os malfeitores não sejam tão espertos, não é? É melhor você ir para <next.coordinate.name>."
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/scan/3/parameters/radioMessages/0",
+    "value": "...E eu me sinto solitário às vezes, sabe? Eu acho que me gravando falando me faz sentir melhor."
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/scan/3/parameters/radioMessages/1",
+    "value": "Mas chega disso, preciso me encontrar com <bounty.name> em <next.coordinate.name>."
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/scan/3/message",
+    "value": "..Bem, acho que isso é uma pista boa o suficiente. Parece que <next.coordinate.name> é o seu próximo destino, parceiro(a)!"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/scan/4/parameters/radioMessages/0",
+    "value": "...Eu tinha algumas tarefas para fazer para <bounty.name>..."
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/scan/4/parameters/radioMessages/1",
+    "value": "...Então eu tive que fazer uma mudança de planos! Eu vou me encontrar com você em <next.coordinate.name>..."
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/scan/4/message",
+    "value": "Pelo menos esses criminosos ainda estão dispostos a fazer suas tarefas! É melhor ir para <next.coordinate.name>, em seguida!"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/scan/5/parameters/radioMessages/0",
+    "value": "...Você não ouviu? Estamos sendo seguidos. Nós temos que tirar os Pacificadores da liderança..."
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/scan/5/parameters/radioMessages/1",
+    "value": "...Leve as mercadorias para <next.coordinate.name> em vez disso..."
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/scan/5/message",
+    "value": "O plano deles poderia ter funcionado se eles não tivessem deixado um rastro! Avante com destino à <next.coordinate.name>!"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/scan/6/parameters/radioMessages/0",
+    "value": "...E foi quando eu encontrei este CD em branco, então eu pensei em gravar minha voz e ver como soava..."
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/scan/6/parameters/radioMessages/1",
+    "value": "...E acontece que eu pareço mais legal na minha cabeça... Enfim, eu vou levar as mercadorias para <next.coordinate.name> now."
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/scan/6/message",
+    "value": "Acho que não estamos lidando com pessoas espertas neste caso. É melhor você ir para <next.coordinate.name>!"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/decoy/0/parameters/radioMessages/0",
+    "value": "Espero que ache isso, Pacificador! Aqui é <bounty.name>. Adivinha?"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/decoy/0/parameters/radioMessages/1",
+    "value": "Foi COMIGO com quem você falou anteriormente! Foi um truque! Eu te enganei!"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/decoy/0/message",
+    "value": "Droga, fomos enganados! Eu acho que você precisa apressar seu esconderijo para o local anterior!"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/decoy/1/parameters/radioMessages/0",
+    "value": "Sou eu, <bounty.name>! Tenho uma mensagem para você, Pacificador...."
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/decoy/1/parameters/radioMessages/1",
+    "value": "Eu te enganei! O cidadão prestativo que você conheceu anteriormente era eu o tempo todo! Seu tempo foi realmente desperdiçado!"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/decoy/1/message",
+    "value": "Esses criminosos são mestres do disfarce... Acho que você deveria voltar ao seu local anterior e encontrar esse bandido, parceiro(a)!"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/decoy/2/parameters/radioMessages/0",
+    "value": "Ei, Pacificador! Aqui <bounty.name> - o cidadão prestativo que você conheceu anteriormente era na verdade eu! Ha!"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/decoy/2/parameters/radioMessages/1",
+    "value": "Eu te enganei! Seu tempo foi realmente desperdiçado!"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/decoy/2/message",
+    "value": "Droga, fomos enganados! Eu acho que você precisa apressar seu esconderijo para o local anterior!"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/decoy/3/parameters/radioMessages/0",
+    "value": "Você reconhece minha voz, Pacificador?  - o cidadão prestativo que você conheceu anteriormente era eu, <bounty.name>!"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/decoy/3/parameters/radioMessages/1",
+    "value": "Nunca se esqueça do dia em que você foi feito de bobo!"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/decoy/3/message",
+    "value": "Que grande perda de tempo Pacificador! É melhor voltar para a sua localização anterior e dar uma lição a este trapaceiro!"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/decoy/4/parameters/radioMessages/0",
+    "value": "Espero que você encontre isso, Pacificador! Aqui é <bounty.name>. Adivinha?"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/decoy/4/parameters/radioMessages/1",
+    "value": "Foi COMIGO com quem você falou anteriormente! Foi um truque! Eu te enganei!"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/decoy/4/message",
+    "value": "Droga, fomos enganados! Eu acho que você precisa voltar para a sua localização anterior!"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/decoy/5/parameters/radioMessages/0",
+    "value": "Saudações! eu sou, <bounty.name>! Eu tenho uma mensagem para você, Pacificador..."
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/decoy/5/parameters/radioMessages/1",
+    "value": "Eu te enganei! O cidadão prestativo que você conheceu anteriormente era eu o tempo todo! Eu aposto que você se sente envergonhado agora, hein?!"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/decoy/5/message",
+    "value": "Por que eles nos diriam onde eles estão? Apenas para se gabar? Você deve voltar ao seu local anterior e encontrar esse bandido, parceiro(a)!"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/decoy/6/parameters/radioMessages/0",
+    "value": "Ei, Pacificador! Aqui é <bounty.name> - Você se lembra do cidadão prestativo que conheceu antes?"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/decoy/6/parameters/radioMessages/1",
+    "value": "ERA EU! ERA EU O TEMPO TODO, PACIFICADOR!"
+  },
+  {
+    "op": "replace",
+    "path": "/audiodisc/decoy/6/message",
+    "value": "Ah, filho de um snuffish! Acho que você precisa voltar para a sua localização anterior!"
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/diversion/0/parameters/noteText",
+    "value": "Lacaio,\n\nAs mercadorias estão agora em <next.coordinate.name>.\nCertifique-se de que você não está sendo seguido.\n\nSaudações,\n<bounty.name>"
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/diversion/0/message",
+    "value": "Siga sempre a pista do papel, parceiro(a)! Parece que <next.coordinate.name> é a sua próxima parada neste caso."
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/diversion/1/parameters/noteText",
+    "value": "Lista de afazeres de <bounty.name>\n\nª Comprar leite\n\nª Coletar impostos\n\nª Se mudar para <next.coordinate.name>\n\nª Limpar as botas"
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/diversion/1/message",
+    "value": "Parece que estes criminosos estão muito organizados para o seu próprio bem! Você deve ir para <next.coordinate.name>!"
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/diversion/2/parameters/noteText",
+    "value": "Caro <bounty.name>,\n\nMe desculpe, eu esqueci de trazer as mercadorias para você mais cedo.\nEstou a caminho para encontra-lo em em <next.coordinate.name>.\nPor favor, não fique bravo.\n\n±"
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/diversion/2/message",
+    "value": "O conflito dentro de uma equipe será sempre a sua queda - deixe isso ser uma lição, parceiro(a)! Você deve ir para <next.coordinate.name>."
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/diversion/3/parameters/noteText",
+    "value": "Querido Diário,\n\nHoje ajudei <bounty.name> levando o saque para <next.coordinate.name>.\nEu sugeri que eu gostaria de um aumento para os meus esforços recentes de trabalho árduo, mas <bounty.name> não pareceu notar.\nEu provavelmente deveria esconder esta página por enquanto, no caso de alguém encontrá-la."
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/diversion/3/message",
+    "value": "Se você vai se livrar de provas escritas, você tem que fazer um trabalho melhor do que escondê-la! Você deve ir para <next.coordinate.name>."
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/planetClue/0/parameters/noteText",
+    "value": "Lacaio,\n\nAs mercadorias estão agora em <next.coordinate.name>.\nCertifique-se de que você não está sendo seguido.\n\nSaudações,\n<bounty.name>"
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/planetClue/0/message",
+    "value": "Siga sempre a pista do papel, parceiro(a)! Parece que <next.coordinate.name> é a sua próxima parada neste caso."
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/planetClue/1/parameters/noteText",
+    "value": "Lista de afazeres de <bounty.name>\n\nª Reabastecer a nave\n\nª Lavar dinheiro\n\nª Se mudar para <next.coordinate.name>\n\nª Lavar roupas íntimas"
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/planetClue/1/message",
+    "value": "Parece que estes criminosos estão muito organizados para o seu próprio bem! Você deve ir para <next.coordinate.name>!"
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/planetClue/2/parameters/noteText",
+    "value": "Caro <bounty.name>,\n\nMe desculpe, eu esqueci de trazer as mercadorias para você mais cedo.\nEstou a caminho para encontra-lo em em <next.coordinate.name>.\nPor favor, não fique bravo.\n\n»"
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/planetClue/2/message",
+    "value": "O conflito dentro de uma equipe será sempre a sua queda - deixe isso ser uma lição, parceiro(a)! Você deve ir para <next.coordinate.name>."
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/planetClue/3/parameters/noteText",
+    "value": "Querido Diário,\n\nHoje ajudei <bounty.name> levando o saque para <next.coordinate.name>.\nEspero receber um aumento em breve!\nEu provavelmente deveria esconder esta página por enquanto, no caso de alguém encontrá-la."
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/planetClue/3/message",
+    "value": "Se você vai se livrar de provas escritas, você tem que fazer um trabalho melhor do que escondê-la! Você deve ir para <next.coordinate.name>."
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/planetBounty/0/parameters/noteText",
+    "value": "Lacaio,\n\nAs mercadorias estão agora em <next.coordinate.name>.\nCertifique-se de que você não está sendo seguido.\n\nSaudações,\n<bounty.name>"
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/planetBounty/0/message",
+    "value": "Siga sempre a pista do papel, parceiro(a)! Parece que <next.coordinate.name> é a sua próxima parada neste caso."
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/planetBounty/1/parameters/noteText",
+    "value": "Lista de afazeres de <bounty.name>\n\nª Passar o uniforme\n\nª Fazer salada para o almoço de amanhã\n\nª Ir para <next.coordinate.name>\n\nª Comprar leite e ovos"
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/planetBounty/1/message",
+    "value": "Parece que estes criminosos estão muito organizados para o seu próprio bem! Você deve ir para <next.coordinate.name>!"
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/planetBounty/2/parameters/noteText",
+    "value": "Caro <bounty.name>,\n\nMe desculpe, eu esqueci de trazer as mercadorias para você mais cedo.\nEstou a caminho para encontra-lo em em <next.coordinate.name>.\nPor favor, não fique bravo.\n\n§"
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/planetBounty/2/message",
+    "value": "O conflito dentro de uma equipe será sempre a sua queda - deixe isso ser uma lição, parceiro(a)! Você deve ir para <next.coordinate.name>."
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/planetBounty/3/parameters/noteText",
+    "value": "Querido Diário,\n\nHoje eu passei um tempo com <bounty.name> em nosso caminho para <next.coordinate.name>.\nFiz uma piada e <bounty.name> riu!\nEspero que algum dia <bounty.name> possa me ver como algo mais do que apenas um capanga contratado «\n\nEu provavelmente deveria esconder esta página por enquanto, no caso de alguém encontrá-la."
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/planetBounty/3/message",
+    "value": "O amor pode florescer, mesmo com o crime organizado galáctico...? Você deveria umm, ir para <next.coordinate.name>."
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/spaceBounty/0/parameters/noteText",
+    "value": "Lacaio,\n\nAs mercadorias estão agora em <next.coordinate.name>.\nCertifique-se de que você não está sendo seguido.\n\nSaudações,\n<bounty.name>"
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/spaceBounty/0/message",
+    "value": "Siga sempre a pista do papel, parceiro(a)! Parece que <next.coordinate.name> é a sua próxima parada neste caso."
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/spaceBounty/1/parameters/noteText",
+    "value": "Lista de afazeres de <bounty.name>\n\nª Fazer a corrida matinal\n\nª Fazer sanduiche\n\nª Comer o sanduíche\n\nª Ir para <next.coordinate.name>"
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/spaceBounty/1/message",
+    "value": "Parece que estes criminosos estão muito organizados para o seu próprio bem! Você deve ir para <next.coordinate.name>!"
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/spaceBounty/2/parameters/noteText",
+    "value": "Caro <bounty.name>,\n\nMe desculpe, eu esqueci de trazer as mercadorias para você mais cedo.\nEstou a caminho para encontra-lo em em <next.coordinate.name>.\nPor favor, não fique bravo.\n\nº"
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/spaceBounty/2/message",
+    "value": "O conflito dentro de uma equipe será sempre a sua queda - deixe isso ser uma lição, parceiro(a)! Você deve ir para <next.coordinate.name>."
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/spaceBounty/3/parameters/noteText",
+    "value": "Querido Diário,\n\nHoje ajudei <bounty.name> levando o saque para <next.coordinate.name>.\nEspero receber um aumento em breve!\nEu provavelmente deveria esconder esta página por enquanto, no caso de alguém encontrá-la."
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/spaceBounty/3/message",
+    "value": "Se você vai se livrar de provas escritas, você tem que fazer um trabalho melhor do que escondê-la! Você deve ir para <next.coordinate.name>."
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/spaceClue/0/parameters/noteText",
+    "value": "Lacaio,\n\nAs mercadorias estão agora em <next.coordinate.name>.\nCertifique-se de que você não está sendo seguido.\n\nSaudações,\n<bounty.name>"
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/spaceClue/0/message",
+    "value": "Siga sempre a pista do papel, parceiro(a)! Parece que <next.coordinate.name> é a sua próxima parada neste caso."
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/spaceClue/1/parameters/noteText",
+    "value": "Lista de afazeres de <bounty.name>\n\nª Demitir lacaios incompetentes\n\nª Contratar lacaios melhores\n\nª Ir para <next.coordinate.name>\n\nª Comprar uma camisa nova"
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/spaceClue/1/message",
+    "value": "Parece que estes criminosos estão muito organizados para o seu próprio bem! Você deve ir para <next.coordinate.name>!"
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/spaceClue/2/parameters/noteText",
+    "value": "Caro <bounty.name>,\n\nMe desculpe, eu esqueci de trazer as mercadorias para você mais cedo.\nEstou a caminho para encontra-lo em em <next.coordinate.name>.\nPor favor, não fique bravo.\n\nð"
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/spaceClue/2/message",
+    "value": "O conflito dentro de uma equipe será sempre a sua queda - deixe isso ser uma lição, parceiro(a)! Você deve ir para <next.coordinate.name>."
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/spaceClue/3/parameters/noteText",
+    "value": "Querido Diário,\n\nHoje ajudei <bounty.name> levando o saque para <next.coordinate.name>.\nEspero receber um aumento em breve!\nEu provavelmente deveria esconder esta página por enquanto, no caso de alguém encontrá-la."
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/spaceClue/3/message",
+    "value": "Se você vai se livrar de provas escritas, você tem que fazer um trabalho melhor do que escondê-la! Você deve ir para <next.coordinate.name>."
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/scan/0/parameters/noteText",
+    "value": "Lacaio,\n\nAs mercadorias estão agora em <next.coordinate.name>.\nCertifique-se de que você não está sendo seguido.\n\nSaudações,\n<bounty.name>"
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/scan/0/message",
+    "value": "Siga sempre a pista do papel, parceiro(a)! Parece que <next.coordinate.name> é a sua próxima parada neste caso."
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/scan/1/parameters/noteText",
+    "value": "Lista de afazeres de <bounty.name>\n\nª Comprar sapatos novos\n\nª Compre meias novas que combinem com os sapatos novos\n\nª Se mudar para <next.coordinate.name>\n\nª Solicitar feedback sobre os novos sapatos e meias"
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/scan/1/message",
+    "value": "Parece que estes criminosos estão muito organizados para o seu próprio bem! Você deve ir para <next.coordinate.name>!"
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/scan/2/parameters/noteText",
+    "value": "Caro <bounty.name>,\n\nMe desculpe, eu esqueci de trazer as mercadorias para você mais cedo.\nEstou a caminho para encontra-lo em em <next.coordinate.name>.\nPor favor, não fique bravo.\n\n±"
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/scan/2/message",
+    "value": "O conflito dentro de uma equipe será sempre a sua queda - deixe isso ser uma lição, parceiro(a)! Você deve ir para <next.coordinate.name>."
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/scan/3/parameters/noteText",
+    "value": "Querido Diário,\n\nHoje ajudei <bounty.name> levando o saque para <next.coordinate.name>.\nEspero receber um aumento em breve!\nEu provavelmente deveria esconder esta página por enquanto, no caso de alguém encontrá-la."
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/scan/3/message",
+    "value": "Se você vai se livrar de provas escritas, você tem que fazer um trabalho melhor do que escondê-la! Você deve ir para <next.coordinate.name>."
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/decoy/0/parameters/noteText",
+    "value": "Lacaio,\n\nAs mercadorias estão agora em <next.coordinate.name>.\nCertifique-se de que você não está sendo seguido.\n\nSaudações,\n<bounty.name>"
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/decoy/0/message",
+    "value": "Siga sempre a pista do papel, parceiro(a)! Parece que <next.coordinate.name> é a sua próxima parada neste caso."
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/decoy/1/parameters/noteText",
+    "value": "Lista de afazeres de <bounty.name>\n\nª Comprar maçarico\n\nª Roubar alguns bancos\n\nª Esconder-se em <next.coordinate.name>\n\nª Esperar o calor diminuir"
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/decoy/1/message",
+    "value": "Parece que estes criminosos estão muito organizados para o seu próprio bem! Você deve ir para <next.coordinate.name>!"
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/decoy/2/parameters/noteText",
+    "value": "Caro <bounty.name>,\n\nMe desculpe, eu esqueci de trazer as mercadorias para você mais cedo.\nEstou a caminho para encontra-lo em em <next.coordinate.name>.\nPor favor, não fique bravo.\n\n±"
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/decoy/2/message",
+    "value": "O conflito dentro de uma equipe será sempre a sua queda - deixe isso ser uma lição, parceiro(a)! Você deve ir para <next.coordinate.name>."
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/decoy/3/parameters/noteText",
+    "value": "Querido Diário,\n\nHoje ajudei <bounty.name> levando o saque para <next.coordinate.name>.\nEspero receber um aumento em breve!\nEu provavelmente deveria esconder esta página por enquanto, no caso de alguém encontrá-la."
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/decoy/3/message",
+    "value": "Se você vai se livrar de provas escritas, você tem que fazer um trabalho melhor do que escondê-la! Você deve ir para <next.coordinate.name>."
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/returnVaultItem/0/parameters/noteText",
+    "value": "Lacaio,\n\nPela última vez, pare de escrever notas com a combinação do cofre perto do cofre!\nEu não posso nem começar a explicar para você porque essa é uma má ideia!\n Se você esquecer o código NOVAMENTE, deixar um lembrete no nosso esconderijo em <next.coordinate.name>, em vez disso.\n\nSaudações,\n<bounty.name>"
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/returnVaultItem/0/message",
+    "value": "Então parece que precisamos ir e encontrar esse código, hein? E por \"nós\", quero dizer \"você\". Vá para <next.coordinate.name>, parceiro(a)!"
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/returnVaultItem/1/parameters/noteText",
+    "value": "Nota para si mesmo:\n\n<bounty.name> está ficando muito bravo por eu continuar deixando anotações com o código do cofre escrito nelas.\nTodas as notas restantes devem ser armazenadas discretamente em em <next.coordinate.name> em vez disso."
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/returnVaultItem/1/message",
+    "value": "Essas pessoas não estão executando a operação mais segura, estão? Vá para <next.coordinate.name> assim que puder, parceiro(a)!"
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/returnVaultItem/2/parameters/noteText",
+    "value": "Guia de Segurança do Cofre de <bounty.name>:\n\n1> Não esqueça o código do cofre!\n\n2> Tente não anotar o código do cofre\n\n>3> Se você esquecer o código do cofre, venha até <next.coordinate.name> para que você possa memorizá-lo novamente!"
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/returnVaultItem/2/message",
+    "value": "Há buracos até mesmo na operação criminosa mais organizada, não é? Vá para <next.coordinate.name> assim que puder, parceiro(a)!"
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/returnVaultObject/0/parameters/noteText",
+    "value": "Notícia Importante!\n\nOs lacaios devem parar de escrever o código do cofre em pedaços de papel!\nEsta é uma enorme falha de segurança e desperdício de papel valioso!\n\nEm vez disso, o código será gravado em um formato digital em nossos servidores em em ^green;<next.coordinate.name>^reset;.\n\nFeliz contrabando! - <bounty.name>"
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/returnVaultObject/0/message",
+    "value": "Eu acho que, umm, agradeço o seu desejo de não desperdiçar papel! Você tem que cuidar do planeta... Cada planeta. Você deveria ir e dar uma olhada em <next.coordinate.name>."
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/returnVaultObject/1/parameters/noteText",
+    "value": "Devido a uma mudança na política de gangues, agora estamos convertendo todos os registros em um formato digital para facilitar o armazenamento. Por favor, vá ao nosso escritório de informática em em <next.coordinate.name> a fim de:\n\n> Revisar seus registros financeiros!\n\n> Receber sua revisão trimestral!\n\n> Memorizar as combinações dos nossos cofres de segurança!\n\n> Fazer um pedido para seu chapéu de gangue obrigatório!"
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/returnVaultObject/1/message",
+    "value": "Espero que você seja bom com computadores, porque você tem que encontrar o código do cofre! Você deve ir para <next.coordinate.name>."
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/returnVaultNpc/0/parameters/noteText",
+    "value": "Oi <bounty.name>,\n\nEu esqueci o código para o cofre, então eu estou indo para o esconderijo em <next.coordinate.name> para perguntar aos outros por ele.\nDesculpe pela inconveniência!"
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/returnVaultNpc/0/message",
+    "value": "Parece que <next.coordinate.name> é onde você deve começar a seguir em direção, parceiro(a)!"
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/returnVaultNpc/1/parameters/noteText",
+    "value": "ª Anúncio da Gangue ª\n\nHouve vários incidentes de lacaios que esqueceram o código para abrir o cofre.\nSe isso acontecer com você, vá até <next.coordinate.name> para que você possa ser informado do código.\nFaça o que fizer, não anote! É uma falha de segurança terrível!\n\n~ <bounty.name>"
+  },
+  {
+    "op": "replace",
+    "path": "/papernote/returnVaultNpc/1/message",
+    "value": "Espero que você esteja pronto para tirar algumas informações de alguns criminosos! É melhor pilotar a sua nave para <next.coordinate.name>!"
+  },
+  {
+    "op": "replace",
+    "path": "/vaultnote/vaultClue/0/parameters/noteText",
+    "value": "Nota para si mesmo:\n\nO código para o cofre em <next.coordinate.name> é <password>.\n\nNão deixe essa nota em algum lugar novamente!"
+  },
+  {
+    "op": "replace",
+    "path": "/vaultnote/vaultClue/0/message",
+    "value": "Siga sempre a pista do papel, parceiro(a)! Parece que <next.coordinate.name> é a sua próxima parada neste caso."
+  },
+  {
+    "op": "replace",
+    "path": "/vaultnote/vaultClue/1/parameters/noteText",
+    "value": "Confidencial!\n\nO código para o cofre de <next.coordinate.name> é o seguinte:\n<password>\n\n\nPor segurança, esta nota se auto-queimara em 5 segundos.\nSe a tinta auto-inflamável não for ativada após 5 segundos, por favor, coloque a nota no fogo mais próximo até que a nota esteja ilegível."
+  },
+  {
+    "op": "replace",
+    "path": "/vaultnote/vaultClue/1/message",
+    "value": "Por que as pessoas estão usando papel para escrever notas ainda? Nós temos naves que podem viajar mais rápido que a luz, eu sinto que não deveríamos mais usar papel. Parece que <next.coordinate.name> é o seu próximo alvo."
+  },
+  {
+    "op": "replace",
+    "path": "/vaultnote/vaultClue/2/parameters/noteText",
+    "value": "Querido Diário,\n\nHoje <bounty.name> me disse que a senha para o cofre é <password>!\nMe senti tão honrado. Eu farei o meu melhor para não divulgar este segredo para os nossos inimigos."
+  },
+  {
+    "op": "replace",
+    "path": "/vaultnote/vaultClue/2/message",
+    "value": "Me pergunto o que fez essas pessoas se voltarem para uma vida de crime? Parece que <next.coordinate.name> é a sua próxima parada neste caso, parceiro(a)!"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "value": "^orange;Mate o foragido"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "value": "Mate o foragido no lugar"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "value": "Você matou o procurado"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/objectives/findSystemStage/0",
+    "value": "^orange;Viaje^reset; para %s"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/objectives/scanPlanetsStage/searching",
+    "value": "Procurando por planetas..."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/objectives/scanPlanetsStage/scan",
+    "value": "^orange;Entre na órbita^reset; ao redor ^orange;%s^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/scanMessage",
+    "value": "Nenhum sinal detectado em ^orange;%s^reset;."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/generatedText/text/prev/0",
+    "value": "Minhas descobertas em <prev.coordinate.name> levaram-me a crer que <bounty.name> está em <coordinate.name>."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/generatedText/text/default/0",
+    "value": "<bounty.name> foi visto pela última vez em algum lugar em <coordinate.systemName>."
+  }
+]

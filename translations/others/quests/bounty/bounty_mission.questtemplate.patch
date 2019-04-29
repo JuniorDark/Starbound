@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "value": "Este texto não será exibido"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "value": "Este texto não será exibido"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "value": "Este texto não será exibido"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/objectives/findWorldStage/0",
+    "value": "Viaje para %s"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/objectives/missionTeleportStage/0",
+    "value": "^orange;Procure^reset; no planeta por ^green;sinais do alvo^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/objectives/missionTeleportStage/1",
+    "value": "^orange;Investigue computadores^reset; por pistas"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/objectives/missionBountyStage/0",
+    "value": "^orange;Prenda^reset; ^green;<bounty.name>^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/generatedText/text/prev/0",
+    "value": "Minhas descobertas em <prev.coordinate.name> levaram-me a crer que <bounty.name> está em <coordinate.name>."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/generatedText/text/default/0",
+    "value": "<bounty.name> foi visto pela última vez em <coordinate.name>."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/generatedText/complete/capture/0",
+    "value": "Bom trabalho capturando <bounty.name>, parceiro(a)! A justiça foi realmente servida hoje.\n\nVenha até a Estação Pacificadora para receber suas recompensas!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/generatedText/complete/default/0",
+    "value": "Você prendeu <bounty.name>? Excelente trabalho, parceiro(a)! O universo está um pouquinho mais seguro agora.\n\nVenha até a Estação Pacificadora para receber suas recompensas!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/generatedText/failure/killed/0",
+    "value": "Infelizmente, a violência não resolve tudo. A tarefa era capturar <bounty.name> VIVO para que pudessem ser devidamente julgados e sentenciados de acordo com o devido processo. Você falhou em servir a justiça neste assunto."
+  }
+]

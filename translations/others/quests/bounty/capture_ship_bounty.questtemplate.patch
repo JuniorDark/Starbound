@@ -1,0 +1,67 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "value": "^orange;Mate o foragido"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "value": "Mate o foragido no lugar"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "value": "Você prendeu o fugitivo!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/objectives/findSpaceBountyStage/0",
+    "value": "^orange;Viaje^reset; para ^green;%s^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/objectives/findSpaceBountyStage/1",
+    "value": "^orange;Aproxime-se^reset; da ^green;Nave Suspeita^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/objectives/findSpaceBountyStage/2",
+    "value": "^orange;Lance^reset; até a ^green;Nave Suspeita^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/objectives/killBountyStage/0",
+    "value": "^orange;Encontre^reset; a ^green;nave^reset; do alvo"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/objectives/killBountyStage/1",
+    "value": "^orange;Prenda^reset; ^green;<bounty.name>^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/generatedText/text/prev/0",
+    "value": "Minhas descobertas em <prev.coordinate.name> levaram-me a crer que <bounty.name> está em <coordinate.name>."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/generatedText/text/default/0",
+    "value": "<bounty.name> foi visto pela última vez em <coordinate.name>."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/generatedText/complete/capture/0",
+    "value": "Bom trabalho capturando <bounty.name> e sua tripulação! Você é uma alma corajosa, parceiro(a)!\n\nVenha até a Estação Pacificadora para receber suas recompensas!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/generatedText/complete/default/0",
+    "value": "Bom trabalho capturando <bounty.name> e sua tripulação! Você é uma alma corajosa, parceiro(a)!\n\nVenha até a Estação Pacificadora para receber suas recompensas!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/generatedText/failure/killed/0",
+    "value": "Infelizmente, a violência não resolve tudo. A tarefa era capturar <bounty.name> VIVO para que pudessem ser devidamente julgados e sentenciados de acordo com o devido processo. Você falhou em servir a justiça neste assunto."
+  }
+]
