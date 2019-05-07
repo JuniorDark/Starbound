@@ -164,6 +164,9 @@
       "peacekeeper": {
         "peacekeeper.cinematic.json": 11
       },
+      "prison": {
+        "prison.cinematic.json": 0
+      },
       "repair": {
         "repair.cinematic.json": 1
       },
@@ -381,7 +384,7 @@
       "clues.config.json": 51,
       "colourful.config.json": 33,
       "combat.config.json": 183,
-      "converse.config.json": 1693,
+      "converse.config.json": 1692,
       "crewmember.config.json": 39,
       "cultist.config.json": 31,
       "deadbeat.config.json": 23,
@@ -405,7 +408,7 @@
       "quest.config.json": 301,
       "rebel.config.json": 3,
       "scientist.config.json": 12,
-      "shared_.config.json": 104,
+      "shared_.config.json": 103,
       "shared_at.config.json": 1,
       "shared_converse.config.json": 3,
       "shared_merchant.config.json": 20,
@@ -997,6 +1000,7 @@
             "npcfeneroxspear.activeitem.json": 1,
             "npcfirebow.activeitem.json": 1,
             "npcfloranassaultrifle.activeitem.json": 2,
+            "npcgangbroadsword.activeitem.json": 0,
             "npchammer.activeitem.json": 1,
             "npcmachinepistol.activeitem.json": 1,
             "npcpistol.activeitem.json": 1,
@@ -1203,7 +1207,16 @@
                 "bubblegun.activeitem.json": 2
               },
               "doomcannon": {
-                "doomcannon.activeitem.json": 2
+                "doomcannon.activeitem.json": 1
+              },
+              "neolaserlauncher": {
+                "neolaserlauncher.activeitem.json": 0
+              },
+              "neopistol": {
+                "shared_neopistol.activeitem.json": 0
+              },
+              "neouzi": {
+                "shared_neouzi.activeitem.json": 0
               },
               "paintgun": {
                 "paintgunblue.activeitem.json": 2,
@@ -1215,6 +1228,10 @@
               },
               "raygun": {
                 "raygun.activeitem.json": 3
+              },
+              "shared_n.activeitem.json": 1,
+              "shared_neo": {
+                "shared_.activeitem.json": 0
               },
               "snowgun": {
                 "snowgun.activeitem.json": 2
@@ -2172,6 +2189,9 @@
               "scientist.head.json": 2,
               "scientist.legs.json": 2
             },
+            "shirt": {
+              "shirt.chest.json": 0
+            },
             "smart": {
               "smart.chest.json": 2,
               "smart.legs.json": 2
@@ -2915,8 +2935,9 @@
           },
           "peacekeeper": {
             "peacekeeper.chest.json": 1,
+            "peacekeeper.head.json": 0,
             "peacekeeper.legs.json": 1,
-            "shared_peacekeeper..json": 1
+            "shared_peacekeeper..json": 0
           },
           "perfect": {
             "perfect.chest.json": 2,
@@ -4115,6 +4136,7 @@
           "spiderboss.monstertype.json": 1
         },
         "swansong": {
+          "noxcapture.monstertype.json": 0,
           "swansong.monstertype.json": 1
         }
       },
@@ -4906,6 +4928,8 @@
         "humanprison.npctype.json": 7,
         "lunarbase.npctype.json": 4,
         "neon.npctype.json": 8,
+        "office.npctype.json": 0,
+        "peacekeepertenant.npctype.json": 0,
         "philanthropist.npctype.json": 3,
         "scientist.npctype.json": 9,
         "socialite.npctype.json": 16
@@ -11238,7 +11262,7 @@
           "outpostpc.object.json": 9
         },
         "outpostpeacekeeperposter": {
-          "outpostpeacekeeperposter.object.json": 9
+          "outpostpeacekeeperposter.object.json": 8
         },
         "outpostpublicchair": {
           "outpostpublicchair.object.json": 8
@@ -13496,7 +13520,7 @@
         "clue_bounties.config.json": 45,
         "clue_items.config.json": 61,
         "clue_npcs.config.json": 96,
-        "clue_objects.config.json": 34,
+        "clue_objects.config.json": 33,
         "clue_scans.config.json": 6,
         "find_clue_item.questtemplate.json": 2,
         "find_clue_scan.questtemplate.json": 1,
@@ -14011,6 +14035,6 @@
       }
     },
     "universe_server.config.json": 2,
-    "wide_spread_fields.json": 70
+    "wide_spread_fields.json": 72
   }
 }

@@ -164,6 +164,9 @@
       "peacekeeper": {
         "peacekeeper.cinematic.json": 11
       },
+      "prison": {
+        "prison.cinematic.json": 3
+      },
       "repair": {
         "repair.cinematic.json": 1
       },
@@ -381,7 +384,7 @@
       "clues.config.json": 51,
       "colourful.config.json": 33,
       "combat.config.json": 183,
-      "converse.config.json": 1693,
+      "converse.config.json": 1692,
       "crewmember.config.json": 39,
       "cultist.config.json": 31,
       "deadbeat.config.json": 23,
@@ -405,7 +408,7 @@
       "quest.config.json": 301,
       "rebel.config.json": 3,
       "scientist.config.json": 12,
-      "shared_.config.json": 104,
+      "shared_.config.json": 103,
       "shared_at.config.json": 1,
       "shared_converse.config.json": 3,
       "shared_merchant.config.json": 20,
@@ -997,6 +1000,7 @@
             "npcfeneroxspear.activeitem.json": 1,
             "npcfirebow.activeitem.json": 1,
             "npcfloranassaultrifle.activeitem.json": 2,
+            "npcgangbroadsword.activeitem.json": 2,
             "npchammer.activeitem.json": 1,
             "npcmachinepistol.activeitem.json": 1,
             "npcpistol.activeitem.json": 1,
@@ -1203,7 +1207,16 @@
                 "bubblegun.activeitem.json": 2
               },
               "doomcannon": {
-                "doomcannon.activeitem.json": 2
+                "doomcannon.activeitem.json": 1
+              },
+              "neolaserlauncher": {
+                "neolaserlauncher.activeitem.json": 2
+              },
+              "neopistol": {
+                "shared_neopistol.activeitem.json": 1
+              },
+              "neouzi": {
+                "shared_neouzi.activeitem.json": 1
               },
               "paintgun": {
                 "paintgunblue.activeitem.json": 2,
@@ -1215,6 +1228,10 @@
               },
               "raygun": {
                 "raygun.activeitem.json": 3
+              },
+              "shared_n.activeitem.json": 1,
+              "shared_neo": {
+                "shared_.activeitem.json": 2
               },
               "snowgun": {
                 "snowgun.activeitem.json": 2
@@ -2172,6 +2189,9 @@
               "scientist.head.json": 2,
               "scientist.legs.json": 2
             },
+            "shirt": {
+              "shirt.chest.json": 2
+            },
             "smart": {
               "smart.chest.json": 2,
               "smart.legs.json": 2
@@ -2915,6 +2935,7 @@
           },
           "peacekeeper": {
             "peacekeeper.chest.json": 1,
+            "peacekeeper.head.json": 2,
             "peacekeeper.legs.json": 1,
             "shared_peacekeeper..json": 1
           },
@@ -4115,6 +4136,7 @@
           "spiderboss.monstertype.json": 1
         },
         "swansong": {
+          "noxcapture.monstertype.json": 3,
           "swansong.monstertype.json": 1
         }
       },
@@ -4906,6 +4928,8 @@
         "humanprison.npctype.json": 7,
         "lunarbase.npctype.json": 4,
         "neon.npctype.json": 8,
+        "office.npctype.json": 3,
+        "peacekeepertenant.npctype.json": 22,
         "philanthropist.npctype.json": 3,
         "scientist.npctype.json": 9,
         "socialite.npctype.json": 16
@@ -11048,28 +11072,28 @@
           "officecabinet.object.json": 1
         },
         "officecomputer": {
-          "officecomputer.object.json": 1
+          "officecomputer.object.json": 9
         },
         "officedesk": {
-          "officedesk.object.json": 1
+          "officedesk.object.json": 9
         },
         "officelamp": {
-          "officelamp.object.json": 1
+          "officelamp.object.json": 9
         },
         "officenoticeboard": {
-          "officenoticeboard.object.json": 1
+          "officenoticeboard.object.json": 9
         },
         "officescanner": {
-          "officescanner.object.json": 2
+          "officescanner.object.json": 9
         },
         "officeserver": {
-          "officeserver.object.json": 1
+          "officeserver.object.json": 9
         },
         "officestapler": {
-          "officestapler.object.json": 1
+          "officestapler.object.json": 9
         },
         "officetable": {
-          "officetable.object.json": 1
+          "officetable.object.json": 9
         }
       },
       "outpost": {
@@ -12369,22 +12393,22 @@
         },
         "egyptian": {
           "egyptianbed": {
-            "egyptianbed.object.json": 1
+            "egyptianbed.object.json": 9
           },
           "egyptianchair": {
-            "egyptianchair.object.json": 1
+            "egyptianchair.object.json": 9
           },
           "egyptiancrest": {
-            "egyptiancrest.object.json": 1
+            "egyptiancrest.object.json": 9
           },
           "egyptianpillar": {
-            "egyptianpillar.object.json": 1
+            "egyptianpillar.object.json": 9
           },
           "egyptianstatuette": {
-            "egyptianstatuette.object.json": 1
+            "egyptianstatuette.object.json": 9
           },
           "egyptiantable": {
-            "egyptiantable.object.json": 1
+            "egyptiantable.object.json": 9
           }
         },
         "executive": {
@@ -14011,6 +14035,6 @@
       }
     },
     "universe_server.config.json": 2,
-    "wide_spread_fields.json": 70
+    "wide_spread_fields.json": 72
   }
 }
