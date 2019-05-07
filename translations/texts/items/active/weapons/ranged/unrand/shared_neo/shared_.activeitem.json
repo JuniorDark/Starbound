@@ -1,0 +1,48 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unrand/neomagnum/neomagnum.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/unrand/neopistol/neopistol.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/unrand/neopistol/npcneopistol.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/unrand/neouzi/neouzi.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/unrand/neouzi/npcneouzi.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "--TODO--"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unrand/neomagnum/neomagnum.activeitem": [
+        "/shortdescription"
+      ],
+      "items/active/weapons/ranged/unrand/neoshotgun/neoshotgun.activeitem": [
+        "/shortdescription"
+      ],
+      "items/active/weapons/ranged/unrand/neoshotgun/npcneoshotgun.activeitem": [
+        "/shortdescription"
+      ],
+      "items/active/weapons/ranged/unrand/neotommygun/neotommygun.activeitem": [
+        "/shortdescription"
+      ],
+      "items/active/weapons/ranged/unrand/neotommygun/npcneotommygun.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neo Magnum"
+    }
+  }
+]

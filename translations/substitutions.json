@@ -315,11 +315,12 @@
     "/greeting/hylotl/default/0": "texts/dialog/shared_.config.json",
     "/greeting/hylotl/default/16": "texts/dialog/shared_.config.json",
     "/greeting/hylotl/default/17": "texts/dialog/shared_.config.json",
-    "/greeting/novakid/default/6": "texts/dialog/shared_.config.json"
+    "/greeting/novakid/default/3": "texts/wide_spread_fields.json",
+    "/greeting/novakid/default/6": "texts/wide_spread_fields.json"
   },
   "dialog/crewmember.config": {
     "/converse/default/default/0": "texts/dialog/shared_.config.json",
-    "/converse/novakid/default/0": "texts/dialog/shared_.config.json",
+    "/converse/novakid/default/0": "texts/wide_spread_fields.json",
     "/converse/novakid/default/1": "texts/dialog/shared_.config.json"
   },
   "dialog/cultist.config": {
@@ -484,7 +485,7 @@
   },
   "dialog/guard.config": {
     "/hail/human/default/4": "texts/dialog/shared_.config.json",
-    "/hail/novakid/default/6": "texts/dialog/shared_.config.json"
+    "/hail/novakid/default/6": "texts/wide_spread_fields.json"
   },
   "dialog/merchant.config": {
     "/beacon/apex/default/0": "texts/dialog/shared_.config.json",
@@ -1751,6 +1752,45 @@
   },
   "items/active/weapons/ranged/sniperrifle/uncommonsniperrifle.activeitem": {
     "/description": "texts/items/active/weapons.json"
+  },
+  "items/active/weapons/ranged/unrand/doomcannon/doomcannon.activeitem": {
+    "/description": "texts/items/active/weapons/ranged/unrand/shared_n.activeitem.json"
+  },
+  "items/active/weapons/ranged/unrand/neomagnum/neomagnum.activeitem": {
+    "/description": "texts/items/active/weapons/ranged/unrand/shared_neo/shared_.activeitem.json",
+    "/shortdescription": "texts/items/active/weapons/ranged/unrand/shared_neo/shared_.activeitem.json"
+  },
+  "items/active/weapons/ranged/unrand/neopistol/neopistol.activeitem": {
+    "/description": "texts/items/active/weapons/ranged/unrand/shared_neo/shared_.activeitem.json",
+    "/shortdescription": "texts/items/active/weapons/ranged/unrand/neopistol/shared_neopistol.activeitem.json"
+  },
+  "items/active/weapons/ranged/unrand/neopistol/npcneopistol.activeitem": {
+    "/description": "texts/items/active/weapons/ranged/unrand/shared_neo/shared_.activeitem.json",
+    "/shortdescription": "texts/items/active/weapons/ranged/unrand/neopistol/shared_neopistol.activeitem.json"
+  },
+  "items/active/weapons/ranged/unrand/neoshotgun/neoshotgun.activeitem": {
+    "/description": "texts/items/active/weapons/ranged/unrand/shared_n.activeitem.json",
+    "/shortdescription": "texts/items/active/weapons/ranged/unrand/shared_neo/shared_.activeitem.json"
+  },
+  "items/active/weapons/ranged/unrand/neoshotgun/npcneoshotgun.activeitem": {
+    "/description": "texts/items/active/weapons/ranged/unrand/shared_n.activeitem.json",
+    "/shortdescription": "texts/items/active/weapons/ranged/unrand/shared_neo/shared_.activeitem.json"
+  },
+  "items/active/weapons/ranged/unrand/neotommygun/neotommygun.activeitem": {
+    "/description": "texts/items/active/weapons/ranged/unrand/shared_n.activeitem.json",
+    "/shortdescription": "texts/items/active/weapons/ranged/unrand/shared_neo/shared_.activeitem.json"
+  },
+  "items/active/weapons/ranged/unrand/neotommygun/npcneotommygun.activeitem": {
+    "/description": "texts/items/active/weapons/ranged/unrand/shared_n.activeitem.json",
+    "/shortdescription": "texts/items/active/weapons/ranged/unrand/shared_neo/shared_.activeitem.json"
+  },
+  "items/active/weapons/ranged/unrand/neouzi/neouzi.activeitem": {
+    "/description": "texts/items/active/weapons/ranged/unrand/shared_neo/shared_.activeitem.json",
+    "/shortdescription": "texts/items/active/weapons/ranged/unrand/neouzi/shared_neouzi.activeitem.json"
+  },
+  "items/active/weapons/ranged/unrand/neouzi/npcneouzi.activeitem": {
+    "/description": "texts/items/active/weapons/ranged/unrand/shared_neo/shared_.activeitem.json",
+    "/shortdescription": "texts/items/active/weapons/ranged/unrand/neouzi/shared_neouzi.activeitem.json"
   },
   "items/active/weapons/staff/generated/rarestaff.activeitem": {
     "/description": "texts/items/active/weapons/generated/shared_.activeitem.json"
@@ -3723,6 +3763,9 @@
   "monsters/boss/penguinUfo/penguinUfo.monstertype": {
     "/shortdescription": "texts/wide_spread_fields.json"
   },
+  "monsters/boss/swansong/noxcapture.monstertype": {
+    "/shortdescription": "texts/wide_spread_fields.json"
+  },
   "monsters/crawlers/crustoise/crustoise.monstertype": {
     "/description": "texts/monsters/crawlers/shared_.monstertype.json"
   },
@@ -4084,6 +4127,10 @@
   "npcs/follower.npctype": {
     "/scriptConfig/dialog/follower/join/default/default/0": "texts/npcs.json",
     "/scriptConfig/dialog/follower/wait/default/default/0": "texts/npcs.json"
+  },
+  "npcs/friendlyguard.npctype": {
+    "/scriptConfig/dialog/hail/novakid/default/0": "texts/wide_spread_fields.json",
+    "/scriptConfig/dialog/hail/novakid/default/1": "texts/wide_spread_fields.json"
   },
   "npcs/furniture/retroscifi.npctype": {
     "/scriptConfig/dialog/converse/default/default/1": "texts/npcs.json",
@@ -12753,85 +12800,6 @@
     "/hylotlDescription": "texts/objects/shared_cabinet/shared_cabinet.object.json",
     "/novakidDescription": "texts/objects/shared_cabinet/shared_cabinet.object.json"
   },
-  "objects/office/officecomputer/officecomputer.object": {
-    "/apexDescription": "texts/wide_spread_fields.json",
-    "/avianDescription": "texts/wide_spread_fields.json",
-    "/description": "texts/wide_spread_fields.json",
-    "/floranDescription": "texts/wide_spread_fields.json",
-    "/glitchDescription": "texts/wide_spread_fields.json",
-    "/humanDescription": "texts/wide_spread_fields.json",
-    "/hylotlDescription": "texts/wide_spread_fields.json",
-    "/novakidDescription": "texts/wide_spread_fields.json"
-  },
-  "objects/office/officedesk/officedesk.object": {
-    "/apexDescription": "texts/wide_spread_fields.json",
-    "/avianDescription": "texts/wide_spread_fields.json",
-    "/description": "texts/wide_spread_fields.json",
-    "/floranDescription": "texts/wide_spread_fields.json",
-    "/glitchDescription": "texts/wide_spread_fields.json",
-    "/humanDescription": "texts/wide_spread_fields.json",
-    "/hylotlDescription": "texts/wide_spread_fields.json",
-    "/novakidDescription": "texts/wide_spread_fields.json"
-  },
-  "objects/office/officelamp/officelamp.object": {
-    "/apexDescription": "texts/wide_spread_fields.json",
-    "/avianDescription": "texts/wide_spread_fields.json",
-    "/description": "texts/wide_spread_fields.json",
-    "/floranDescription": "texts/wide_spread_fields.json",
-    "/glitchDescription": "texts/wide_spread_fields.json",
-    "/humanDescription": "texts/wide_spread_fields.json",
-    "/hylotlDescription": "texts/wide_spread_fields.json",
-    "/novakidDescription": "texts/wide_spread_fields.json"
-  },
-  "objects/office/officenoticeboard/officenoticeboard.object": {
-    "/apexDescription": "texts/wide_spread_fields.json",
-    "/avianDescription": "texts/wide_spread_fields.json",
-    "/description": "texts/wide_spread_fields.json",
-    "/floranDescription": "texts/wide_spread_fields.json",
-    "/glitchDescription": "texts/wide_spread_fields.json",
-    "/humanDescription": "texts/wide_spread_fields.json",
-    "/hylotlDescription": "texts/wide_spread_fields.json",
-    "/novakidDescription": "texts/wide_spread_fields.json"
-  },
-  "objects/office/officescanner/officescanner.object": {
-    "/apexDescription": "texts/wide_spread_fields.json",
-    "/avianDescription": "texts/wide_spread_fields.json",
-    "/floranDescription": "texts/wide_spread_fields.json",
-    "/glitchDescription": "texts/wide_spread_fields.json",
-    "/humanDescription": "texts/wide_spread_fields.json",
-    "/hylotlDescription": "texts/wide_spread_fields.json",
-    "/novakidDescription": "texts/wide_spread_fields.json"
-  },
-  "objects/office/officeserver/officeserver.object": {
-    "/apexDescription": "texts/wide_spread_fields.json",
-    "/avianDescription": "texts/wide_spread_fields.json",
-    "/description": "texts/wide_spread_fields.json",
-    "/floranDescription": "texts/wide_spread_fields.json",
-    "/glitchDescription": "texts/wide_spread_fields.json",
-    "/humanDescription": "texts/wide_spread_fields.json",
-    "/hylotlDescription": "texts/wide_spread_fields.json",
-    "/novakidDescription": "texts/wide_spread_fields.json"
-  },
-  "objects/office/officestapler/officestapler.object": {
-    "/apexDescription": "texts/wide_spread_fields.json",
-    "/avianDescription": "texts/wide_spread_fields.json",
-    "/description": "texts/wide_spread_fields.json",
-    "/floranDescription": "texts/wide_spread_fields.json",
-    "/glitchDescription": "texts/wide_spread_fields.json",
-    "/humanDescription": "texts/wide_spread_fields.json",
-    "/hylotlDescription": "texts/wide_spread_fields.json",
-    "/novakidDescription": "texts/wide_spread_fields.json"
-  },
-  "objects/office/officetable/officetable.object": {
-    "/apexDescription": "texts/wide_spread_fields.json",
-    "/avianDescription": "texts/wide_spread_fields.json",
-    "/description": "texts/wide_spread_fields.json",
-    "/floranDescription": "texts/wide_spread_fields.json",
-    "/glitchDescription": "texts/wide_spread_fields.json",
-    "/humanDescription": "texts/wide_spread_fields.json",
-    "/hylotlDescription": "texts/wide_spread_fields.json",
-    "/novakidDescription": "texts/wide_spread_fields.json"
-  },
   "objects/outpost/2stopteleshop/2stopshopclosed.object": {
     "/description": "texts/objects/shared_closed.object.json"
   },
@@ -15270,66 +15238,6 @@
     "/glitchDescription": "texts/objects/shared_switch.json",
     "/humanDescription": "texts/objects/shared_switch.json",
     "/hylotlDescription": "texts/objects.json"
-  },
-  "objects/themed/egyptian/egyptianbed/egyptianbed.object": {
-    "/apexDescription": "texts/wide_spread_fields.json",
-    "/avianDescription": "texts/wide_spread_fields.json",
-    "/description": "texts/wide_spread_fields.json",
-    "/floranDescription": "texts/wide_spread_fields.json",
-    "/glitchDescription": "texts/wide_spread_fields.json",
-    "/humanDescription": "texts/wide_spread_fields.json",
-    "/hylotlDescription": "texts/wide_spread_fields.json",
-    "/novakidDescription": "texts/wide_spread_fields.json"
-  },
-  "objects/themed/egyptian/egyptianchair/egyptianchair.object": {
-    "/apexDescription": "texts/wide_spread_fields.json",
-    "/avianDescription": "texts/wide_spread_fields.json",
-    "/description": "texts/wide_spread_fields.json",
-    "/floranDescription": "texts/wide_spread_fields.json",
-    "/glitchDescription": "texts/wide_spread_fields.json",
-    "/humanDescription": "texts/wide_spread_fields.json",
-    "/hylotlDescription": "texts/wide_spread_fields.json",
-    "/novakidDescription": "texts/wide_spread_fields.json"
-  },
-  "objects/themed/egyptian/egyptiancrest/egyptiancrest.object": {
-    "/apexDescription": "texts/wide_spread_fields.json",
-    "/avianDescription": "texts/wide_spread_fields.json",
-    "/description": "texts/wide_spread_fields.json",
-    "/floranDescription": "texts/wide_spread_fields.json",
-    "/glitchDescription": "texts/wide_spread_fields.json",
-    "/humanDescription": "texts/wide_spread_fields.json",
-    "/hylotlDescription": "texts/wide_spread_fields.json",
-    "/novakidDescription": "texts/wide_spread_fields.json"
-  },
-  "objects/themed/egyptian/egyptianpillar/egyptianpillar.object": {
-    "/apexDescription": "texts/wide_spread_fields.json",
-    "/avianDescription": "texts/wide_spread_fields.json",
-    "/description": "texts/wide_spread_fields.json",
-    "/floranDescription": "texts/wide_spread_fields.json",
-    "/glitchDescription": "texts/wide_spread_fields.json",
-    "/humanDescription": "texts/wide_spread_fields.json",
-    "/hylotlDescription": "texts/wide_spread_fields.json",
-    "/novakidDescription": "texts/wide_spread_fields.json"
-  },
-  "objects/themed/egyptian/egyptianstatuette/egyptianstatuette.object": {
-    "/apexDescription": "texts/wide_spread_fields.json",
-    "/avianDescription": "texts/wide_spread_fields.json",
-    "/description": "texts/wide_spread_fields.json",
-    "/floranDescription": "texts/wide_spread_fields.json",
-    "/glitchDescription": "texts/wide_spread_fields.json",
-    "/humanDescription": "texts/wide_spread_fields.json",
-    "/hylotlDescription": "texts/wide_spread_fields.json",
-    "/novakidDescription": "texts/wide_spread_fields.json"
-  },
-  "objects/themed/egyptian/egyptiantable/egyptiantable.object": {
-    "/apexDescription": "texts/wide_spread_fields.json",
-    "/avianDescription": "texts/wide_spread_fields.json",
-    "/description": "texts/wide_spread_fields.json",
-    "/floranDescription": "texts/wide_spread_fields.json",
-    "/glitchDescription": "texts/wide_spread_fields.json",
-    "/humanDescription": "texts/wide_spread_fields.json",
-    "/hylotlDescription": "texts/wide_spread_fields.json",
-    "/novakidDescription": "texts/wide_spread_fields.json"
   },
   "objects/themed/executive/executivedoor/executivedoor.object": {
     "/floranDescription": "texts/objects/shared_door.json"

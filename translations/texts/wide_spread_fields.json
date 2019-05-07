@@ -136,85 +136,6 @@
         "/hylotlDescription",
         "/novakidDescription"
       ],
-      "objects/office/officecomputer/officecomputer.object": [
-        "/apexDescription",
-        "/avianDescription",
-        "/description",
-        "/floranDescription",
-        "/glitchDescription",
-        "/humanDescription",
-        "/hylotlDescription",
-        "/novakidDescription"
-      ],
-      "objects/office/officedesk/officedesk.object": [
-        "/apexDescription",
-        "/avianDescription",
-        "/description",
-        "/floranDescription",
-        "/glitchDescription",
-        "/humanDescription",
-        "/hylotlDescription",
-        "/novakidDescription"
-      ],
-      "objects/office/officelamp/officelamp.object": [
-        "/apexDescription",
-        "/avianDescription",
-        "/description",
-        "/floranDescription",
-        "/glitchDescription",
-        "/humanDescription",
-        "/hylotlDescription",
-        "/novakidDescription"
-      ],
-      "objects/office/officenoticeboard/officenoticeboard.object": [
-        "/apexDescription",
-        "/avianDescription",
-        "/description",
-        "/floranDescription",
-        "/glitchDescription",
-        "/humanDescription",
-        "/hylotlDescription",
-        "/novakidDescription"
-      ],
-      "objects/office/officescanner/officescanner.object": [
-        "/apexDescription",
-        "/avianDescription",
-        "/floranDescription",
-        "/glitchDescription",
-        "/humanDescription",
-        "/hylotlDescription",
-        "/novakidDescription"
-      ],
-      "objects/office/officeserver/officeserver.object": [
-        "/apexDescription",
-        "/avianDescription",
-        "/description",
-        "/floranDescription",
-        "/glitchDescription",
-        "/humanDescription",
-        "/hylotlDescription",
-        "/novakidDescription"
-      ],
-      "objects/office/officestapler/officestapler.object": [
-        "/apexDescription",
-        "/avianDescription",
-        "/description",
-        "/floranDescription",
-        "/glitchDescription",
-        "/humanDescription",
-        "/hylotlDescription",
-        "/novakidDescription"
-      ],
-      "objects/office/officetable/officetable.object": [
-        "/apexDescription",
-        "/avianDescription",
-        "/description",
-        "/floranDescription",
-        "/glitchDescription",
-        "/humanDescription",
-        "/hylotlDescription",
-        "/novakidDescription"
-      ],
       "objects/peacekeeper/peacekeeperchair/peacekeeperchair.object": [
         "/apexDescription",
         "/avianDescription",
@@ -351,66 +272,6 @@
       "objects/teleporter/peacekeeperteleporter/peacekeeperteleporter.object": [
         "/apexDescription",
         "/avianDescription",
-        "/floranDescription",
-        "/glitchDescription",
-        "/humanDescription",
-        "/hylotlDescription",
-        "/novakidDescription"
-      ],
-      "objects/themed/egyptian/egyptianbed/egyptianbed.object": [
-        "/apexDescription",
-        "/avianDescription",
-        "/description",
-        "/floranDescription",
-        "/glitchDescription",
-        "/humanDescription",
-        "/hylotlDescription",
-        "/novakidDescription"
-      ],
-      "objects/themed/egyptian/egyptianchair/egyptianchair.object": [
-        "/apexDescription",
-        "/avianDescription",
-        "/description",
-        "/floranDescription",
-        "/glitchDescription",
-        "/humanDescription",
-        "/hylotlDescription",
-        "/novakidDescription"
-      ],
-      "objects/themed/egyptian/egyptiancrest/egyptiancrest.object": [
-        "/apexDescription",
-        "/avianDescription",
-        "/description",
-        "/floranDescription",
-        "/glitchDescription",
-        "/humanDescription",
-        "/hylotlDescription",
-        "/novakidDescription"
-      ],
-      "objects/themed/egyptian/egyptianpillar/egyptianpillar.object": [
-        "/apexDescription",
-        "/avianDescription",
-        "/description",
-        "/floranDescription",
-        "/glitchDescription",
-        "/humanDescription",
-        "/hylotlDescription",
-        "/novakidDescription"
-      ],
-      "objects/themed/egyptian/egyptianstatuette/egyptianstatuette.object": [
-        "/apexDescription",
-        "/avianDescription",
-        "/description",
-        "/floranDescription",
-        "/glitchDescription",
-        "/humanDescription",
-        "/hylotlDescription",
-        "/novakidDescription"
-      ],
-      "objects/themed/egyptian/egyptiantable/egyptiantable.object": [
-        "/apexDescription",
-        "/avianDescription",
-        "/description",
         "/floranDescription",
         "/glitchDescription",
         "/humanDescription",
@@ -710,6 +571,9 @@
         "/bountyTypes/occasusCommander/questConfig/target/monster/parameters/shortdescription"
       ],
       "monsters/boss/cultistboss/cultistboss.monstertype": [
+        "/shortdescription"
+      ],
+      "monsters/boss/swansong/noxcapture.monstertype": [
         "/shortdescription"
       ],
       "radiomessages/missions.radiomessages": [
@@ -1205,6 +1069,44 @@
     "Texts": {
       "Eng": "Here's a gift for all your help!",
       "Por": "Aqui um presente por toda sua ajuda!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/converse.config": [
+        "/greeting/novakid/default/3"
+      ],
+      "npcs/friendlyguard.npctype": [
+        "/scriptConfig/dialog/hail/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Howdy there!",
+      "Por": "Como vai?!"
+    }
+  },
+  {
+    "DeniedAlternatives": [
+      "Como vai!"
+    ],
+    "Files": {
+      "dialog/converse.config": [
+        "/greeting/novakid/default/6"
+      ],
+      "dialog/crewmember.config": [
+        "/converse/novakid/default/0"
+      ],
+      "dialog/guard.config": [
+        "/hail/novakid/default/6"
+      ],
+      "npcs/friendlyguard.npctype": [
+        "/scriptConfig/dialog/hail/novakid/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Howdy!",
+      "Por": "Oi!"
     }
   },
   {

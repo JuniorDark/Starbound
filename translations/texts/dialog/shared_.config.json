@@ -605,26 +605,6 @@
   },
   {
     "DeniedAlternatives": [
-      "Como vai!"
-    ],
-    "Files": {
-      "dialog/converse.config": [
-        "/greeting/novakid/default/6"
-      ],
-      "dialog/crewmember.config": [
-        "/converse/novakid/default/0"
-      ],
-      "dialog/guard.config": [
-        "/hail/novakid/default/6"
-      ]
-    },
-    "Texts": {
-      "Eng": "Howdy!",
-      "Por": "Oi!"
-    }
-  },
-  {
-    "DeniedAlternatives": [
       "Eu comprei um presente para você para dizer obrigado, espero que goste."
     ],
     "Files": {

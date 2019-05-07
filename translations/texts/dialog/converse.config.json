@@ -7648,18 +7648,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/converse.config": [
-        "/greeting/novakid/default/3"
-      ]
-    },
-    "Texts": {
-      "Eng": "Howdy there!",
-      "Por": "Como vai?!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/converse.config": [
         "/converse/novakid/novakid/0"
       ]
     },
