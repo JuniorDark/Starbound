@@ -36,6 +36,21 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "objects/generic/woodentalllantern/woodentalllantern.object": [
+        "/humanDescription"
+      ],
+      "objects/themed/egyptian/egyptianlamp/egyptianlamp.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A crackling torch.",
+      "Por": "Uma tocha crepitante."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "objects/clues/glitch/glitchscribe/glitchscribe.object": [
         "/avianDescription"
       ],
@@ -61,6 +76,51 @@
     "Texts": {
       "Eng": "A desk for paperwork. It's covered in ink stains.",
       "Por": "Uma mesa para papelada. Está coberta com manchas de tinta."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodentalllantern/woodentalllantern.object": [
+        "/hylotlDescription"
+      ],
+      "objects/themed/egyptian/egyptianlamp/egyptianlamp.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A raised torch provides light for a large area.",
+      "Por": "Uma tocha elevada fornece luz para uma área grande."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodentalllantern/woodentalllantern.object": [
+        "/apexDescription"
+      ],
+      "objects/themed/egyptian/egyptianlamp/egyptianlamp.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A raised wooden torch.",
+      "Por": "Uma tocha de madeira elevada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodentalllantern/woodentalllantern.object": [
+        "/avianDescription"
+      ],
+      "objects/themed/egyptian/egyptianlamp/egyptianlamp.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A tall flickering torch.",
+      "Por": "Uma tocha alta e cintilante."
     }
   },
   {
@@ -165,6 +225,21 @@
     "Texts": {
       "Eng": "Floran push buttons. Make thingsss happen!",
       "Por": "Floran aperta botões. Faz coisasss acontecerem!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodentalllantern/woodentalllantern.object": [
+        "/floranDescription"
+      ],
+      "objects/themed/egyptian/egyptianlamp/egyptianlamp.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "High torch holdss fire.",
+      "Por": "Tocha alta tem fogo."
     }
   },
   {
@@ -737,6 +812,21 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "objects/generic/woodentalllantern/woodentalllantern.object": [
+        "/glitchDescription"
+      ],
+      "objects/themed/egyptian/egyptianlamp/egyptianlamp.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Serene. A tall torch, the flame flickers.",
+      "Por": "Sereno. Uma tocha alta, a chama pisca."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "objects/biome/tentacle/tentaclespike/tentaclespike.object": [
         "/floranDescription"
       ],
@@ -1010,6 +1100,21 @@
     "Texts": {
       "Eng": "The Hylotl practice calligraphy on desks like these.",
       "Por": "Os Hylotl praticam caligrafia em mesas como essa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/woodentalllantern/woodentalllantern.object": [
+        "/novakidDescription"
+      ],
+      "objects/themed/egyptian/egyptianlamp/egyptianlamp.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The flame is cracklin' away.",
+      "Por": "A chama está crepitando."
     }
   },
   {

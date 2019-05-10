@@ -27,6 +27,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/scripted/bountyboard/bountyboardgui.config": [
+        "/gui/summaryOverlay/children/lblCreditsHeader/value",
+        "/gui/summaryOverlay/children/lblCreditsList/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Credits"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/bountyboard/bountyboardgui.config": [
         "/assignmentFormat"
       ]
     },

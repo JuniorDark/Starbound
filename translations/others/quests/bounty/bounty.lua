@@ -73,12 +73,6 @@ function init()
     }
   }
 
-  self.defaultAbandonMessages = {
-    "Ocê só vai desistir? Você deve saber agora que a justiça não é fácil. Desculpe, mas eu tenho que tirar de você <failureRankPenalty> pontos de rank por isso.",
-    "Ocê está abandonando um caso? Você sabe quanta papelada que eu tenho que preeencher por isso?! Temo que tenha que tirar <failureRankPenalty> pontos de rank por isso, parceiro(a).",
-    "Acabei de ouvir que você abandonou um caso? Não há espaço no dia de um Pacificador para desistir! Estou deduzindo <failureRankPenalty> pontos de rank de você, parceiro(a)."
-  }
-
   self.defaultSkipMessages = {
     "Você conseguiu descobrir isso sem uma pista? Bom trabalho!"
   }
@@ -148,6 +142,9 @@ function update(dt)
       end
     elseif questInvolvesWorld() then
       self.findManager = coroutine.create(loadBountyManager)
+    elseif quest.worldId() == nil then
+      -- the quest takes place on an unknown world, try to find a bounty manager for this world, potentially spawned by another player
+      self.findManager = coroutine.create(maybeLoadBountyManager)
     end
   end
 
@@ -200,20 +197,14 @@ function questComplete()
   local quests = quest.questArcDescriptor().quests
   -- rewards on last step of the chain
   if quest.questId() == quests[#quests].questId then
-    local capture = quest.parameters().capture
+    local rewards = quest.parameters().rewards
     local text = config.getParameter("generatedText.complete")
-    local completionRewards = capture.rewards.kill
-    if storage.event["captured"] then
-      text = text.capture or text.default
-      completionRewards = capture.rewards.capture
-    else
-      text = text.default
-    end
+    text = text.capture or text.default
 
-    modifyQuestEvents(storage.event["captured"] and "Capturado" or "Morto", completionRewards.money, completionRewards.rank)
+    modifyQuestEvents("Capturado", rewards.money, rewards.rank, rewards.credits)
 
     local tags = util.generateTextTags(quest.parameters().text.tags)
-    tags.bountyPoints = completionRewards.rank
+    tags.bountyPoints = rewards.rank
     text = sb.replaceTags(util.randomFromList(text), tags)
     quest.setCompletionText(text)
   end
@@ -223,7 +214,7 @@ function questComplete()
   end
 
   if questInvolvesWorld() then
-    world.sendEntityMessage(quest.questArcDescriptor().stagehandUniqueId, "playerComplete", quest.questId())
+    world.sendEntityMessage(quest.questArcDescriptor().stagehandUniqueId, "playerComplete", player.uniqueId(), quest.questId())
   end
 
   if self.bountyType == "major" then
@@ -237,22 +228,10 @@ function questComplete()
 end
 
 function questFail(abandoned)
-  local penalty = quest.parameters().failurePenalty
-
-  if abandoned then
-    local tags = util.generateTextTags(quest.parameters().text.tags)
-    tags.failureRankPenalty = penalty.rank
-    text = sb.replaceTags(util.randomFromList(self.defaultAbandonMessages), tags)
-
-    player.radioMessage(radioMessage(text, "angry"))
-
-    modifyQuestEvents("Abandonada", -(penalty.money or 0), -(penalty.rank or 0))
-  else
-    modifyQuestEvents("Fracassada", -(penalty.money or 0), -(penalty.rank or 0))
-  end
+  modifyQuestEvents("Fracassada", 0, 0, 0)
 
   if questInvolvesWorld() then
-    world.sendEntityMessage(quest.questArcDescriptor().stagehandUniqueId, "playerFailed", quest.questId())
+    world.sendEntityMessage(quest.questArcDescriptor().stagehandUniqueId, "playerFailed", player.uniqueId(), quest.questId())
   end
 
   if self.bountyType == "major" then
@@ -301,18 +280,32 @@ function loadBountyManager()
       coroutine.yield()
     end
     if findManager:succeeded() then
-      world.sendEntityMessage(quest.questArcDescriptor().stagehandUniqueId, "playerStarted", quest.questId())
+      world.sendEntityMessage(quest.questArcDescriptor().stagehandUniqueId, "playerStarted", player.uniqueId(), quest.questId())
       return findManager:result()
     else
       world.spawnStagehand(entity.position(), "bountymanager", {
           uniqueId = quest.questArcDescriptor().stagehandUniqueId,
-          source = entity.uniqueId(),
           questArc = quest.questArcDescriptor(),
+          worldId = player.worldId(),
           questId = quest.questId(),
-          worldId = player.worldId()
         })
     end
     coroutine.yield()
+  end
+end
+
+function maybeLoadBountyManager()
+  local stagehandId = quest.questArcDescriptor().stagehandUniqueId
+  while true do
+    local findManager = util.await(world.findUniqueEntity(stagehandId))
+    if findManager:succeeded() then
+      if util.await(world.sendEntityMessage(stagehandId, "involvesQuest", quest.questId())):result() then
+        world.sendEntityMessage(stagehandId, "playerStarted", player.uniqueId(), quest.questId())
+        return findManager:result()
+      end
+    end
+
+    util.wait(3.0)
   end
 end
 
@@ -332,6 +325,7 @@ end
 
 function setStage(i)
   storage.stage = i
+  
   self.onInteract = nil
   self.stage = coroutine.create(self.stages[storage.stage])
   local status, result = coroutine.resume(self.stage)
@@ -345,7 +339,7 @@ function setText()
   self.bountyName = tags["bounty.name"]
   local title
   if self.bountyType == "major" then
-    title = sb.replaceTags("^orange;Recompensa: ^green;<bounty.name>", tags)
+    title = sb.replaceTags("^orange;Procurado: ^green;<bounty.name>", tags)
   else
     title = sb.replaceTags("^orange;Menor: ^green;<bounty.name>", tags)
   end
@@ -395,12 +389,14 @@ function radioMessage(text, portraitType)
   return message
 end
 
-function modifyQuestEvents(status, money, rank)
+function modifyQuestEvents(status, money, rank, credits)
   local newBountyEvents = player.getProperty("newBountyEvents", {})
   local thisQuestEvents = newBountyEvents[quest.questId()] or {}
   thisQuestEvents.status = status
   thisQuestEvents.money = (thisQuestEvents.money or 0) + money
   thisQuestEvents.rank = (thisQuestEvents.rank or 0) + rank
+  thisQuestEvents.credits = (thisQuestEvents.credits or 0) + credits
+  thisQuestEvents.cinematic = config.getParameter("bountyCinematic")
   newBountyEvents[quest.questId()] = thisQuestEvents
   player.setProperty("newBountyEvents", newBountyEvents)
 end

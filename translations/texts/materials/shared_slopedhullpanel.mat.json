@@ -17,6 +17,21 @@
     }
   },
   {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/slopedhullpanel.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/slopedhullpanel.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hull Panel",
+      "Por": "Hull Panel"
+    }
+  },
+  {
     "DeniedAlternatives": [
       "Observador. Estes são painéis amplamente utilizados para construção de naves e estações."
     ],

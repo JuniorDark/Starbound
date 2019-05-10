@@ -1,4 +1,5 @@
-
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 from re import compile as regex
 
 def matches(patts, filename):

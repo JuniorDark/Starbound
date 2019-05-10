@@ -2989,6 +2989,12 @@
     "/novakiddescription": "texts/materials/shared_platinumblock.mat.json",
     "/shortdescription": "texts/materials/shared_platinumblock.mat.json"
   },
+  "items/materials/polygonplatform.matitem": {
+    "/description": "texts/items/materials/shared_platform.matitem.json",
+    "/florandescription": "texts/shared_platform.mat.json",
+    "/glitchdescription": "texts/shared_platform.mat.json",
+    "/novakiddescription": "texts/shared_platform.mat.json"
+  },
   "items/materials/pressurisedbeam.matitem": {
     "/description": "texts/materials/shared_pressurisedbeam.mat.json",
     "/florandescription": "texts/materials/shared_pressurisedbeam.mat.json",
@@ -3010,10 +3016,11 @@
     "/shortdescription": "texts/materials/shared_pressurisedgirder.mat.json"
   },
   "items/materials/pressurisedplatform.matitem": {
-    "/florandescription": "texts/shared_pressurisedplatform.mat.json",
-    "/glitchdescription": "texts/shared_pressurisedplatform.mat.json",
-    "/novakiddescription": "texts/shared_pressurisedplatform.mat.json",
-    "/shortdescription": "texts/shared_pressurisedplatform.mat.json"
+    "/description": "texts/items/materials/shared_platform.matitem.json",
+    "/florandescription": "texts/shared_platform.mat.json",
+    "/glitchdescription": "texts/shared_platform.mat.json",
+    "/novakiddescription": "texts/shared_platform.mat.json",
+    "/shortdescription": "texts/shared_platform.mat.json"
   },
   "items/materials/protectorateplatform.matitem": {
     "/description": "texts/shared_protectorateplatform.mat.json",
@@ -3284,7 +3291,7 @@
     "/florandescription": "texts/materials/shared_slopedhullpanel.mat.json",
     "/glitchdescription": "texts/materials/shared_slopedhullpanel.mat.json",
     "/novakiddescription": "texts/materials/shared_slopedhullpanel.mat.json",
-    "/shortdescription": "texts/materials/shared_sloped.json"
+    "/shortdescription": "texts/materials/shared_slopedhullpanel.mat.json"
   },
   "items/materials/slopedinsetpanel.matitem": {
     "/description": "texts/materials/shared_slopedinsetpanel.mat.json",
@@ -3604,6 +3611,12 @@
   "items/throwables/fireworkgreen.thrownitem": {
     "/description": "texts/items/throwables/shared_.thrownitem.json"
   },
+  "items/throwables/stungrenade.thrownitem": {
+    "/description": "texts/items/throwables/shared_ngrenade.thrownitem.json"
+  },
+  "items/throwables/thorngrenade.thrownitem": {
+    "/description": "texts/items/throwables/shared_ngrenade.thrownitem.json"
+  },
   "items/throwables/throwingblock.thrownitem": {
     "/shortdescription": "texts/shared_throwingblock..json"
   },
@@ -3728,31 +3741,31 @@
   },
   "monsters/boss/guardianminion/collidingminion.monstertype": {
     "/description": "texts/monsters/shared_.monstertype.json",
-    "/shortdescription": "texts/monsters/shared_.monstertype.json"
+    "/shortdescription": "texts/monsters/boss/guardianminion/shared_minion.monstertype.json"
   },
   "monsters/boss/guardianminion/electricrangedminion.monstertype": {
     "/description": "texts/monsters/shared_.monstertype.json",
-    "/shortdescription": "texts/monsters/shared_.monstertype.json"
+    "/shortdescription": "texts/monsters/boss/guardianminion/shared_minion.monstertype.json"
   },
   "monsters/boss/guardianminion/firerangedminion.monstertype": {
     "/description": "texts/monsters/shared_.monstertype.json",
-    "/shortdescription": "texts/monsters/shared_.monstertype.json"
+    "/shortdescription": "texts/monsters/boss/guardianminion/shared_minion.monstertype.json"
   },
   "monsters/boss/guardianminion/guardianminion.monstertype": {
     "/description": "texts/monsters/shared_.monstertype.json",
-    "/shortdescription": "texts/monsters/shared_.monstertype.json"
+    "/shortdescription": "texts/monsters/boss/guardianminion/shared_minion.monstertype.json"
   },
   "monsters/boss/guardianminion/icerangedminion.monstertype": {
     "/description": "texts/monsters/shared_.monstertype.json",
-    "/shortdescription": "texts/monsters/shared_.monstertype.json"
+    "/shortdescription": "texts/monsters/boss/guardianminion/shared_minion.monstertype.json"
   },
   "monsters/boss/guardianminion/largeminion.monstertype": {
     "/description": "texts/monsters/shared_.monstertype.json",
-    "/shortdescription": "texts/monsters/shared_.monstertype.json"
+    "/shortdescription": "texts/monsters/boss/guardianminion/shared_minion.monstertype.json"
   },
   "monsters/boss/guardianminion/poisonrangedminion.monstertype": {
     "/description": "texts/monsters/shared_.monstertype.json",
-    "/shortdescription": "texts/monsters/shared_.monstertype.json"
+    "/shortdescription": "texts/monsters/boss/guardianminion/shared_minion.monstertype.json"
   },
   "monsters/boss/kluexboss/kluexboss.monstertype": {
     "/shortdescription": "texts/monsters/boss/shared_kluexboss/shared_.monstertype.json"
@@ -3774,13 +3787,6 @@
   },
   "monsters/crawlers/tintic/tintic.monstertype": {
     "/shortdescription": "texts/shared_monstert.json"
-  },
-  "monsters/events/envprobe/envprobe.monstertype": {
-    "/description": "texts/monsters/shared_.monstertype.json",
-    "/shortdescription": "texts/monsters/shared_.monstertype.json"
-  },
-  "monsters/events/ruinportal/ruinportal.monstertype": {
-    "/description": "texts/monsters/shared_.monstertype.json"
   },
   "monsters/farming/fluffalobaby/electricfluffalobaby.monstertype": {
     "/description": "texts/monsters/farming/shared_baby/shared_baby.monstertype.json",
@@ -3811,9 +3817,6 @@
   },
   "monsters/flyers/pteropod/pteropod.monstertype": {
     "/shortdescription": "texts/shared_monster.json"
-  },
-  "monsters/flyers/tentaclebomb/tentaclebomb.monstertype": {
-    "/description": "texts/monsters/shared_.monstertype.json"
   },
   "monsters/flyers/tentaclegnat/tentaclegnat.monstertype": {
     "/description": "texts/wide_spread_fields.json"
@@ -8515,6 +8518,26 @@
     "/novakidDescription": "texts/objects/biome/zen/shared_zenrock/shared_zenrock.json",
     "/shortdescription": "texts/objects/biome/zen/shared_zenrock/shared_zenrock.json"
   },
+  "objects/bounty/scanclue1/scanclue1.object": {
+    "/apexDescription": "texts/objects/bounty/shared_scanclue/shared_scanclue.json",
+    "/avianDescription": "texts/objects/bounty/shared_scanclue/shared_scanclue.json",
+    "/description": "texts/objects/bounty/shared_scanclue/shared_scanclue.json",
+    "/floranDescription": "texts/objects/bounty/shared_scanclue/shared_scanclue.json",
+    "/glitchDescription": "texts/objects/bounty/shared_scanclue/shared_scanclue.json",
+    "/humanDescription": "texts/objects/bounty/shared_scanclue/shared_scanclue.json",
+    "/hylotlDescription": "texts/objects/bounty/shared_scanclue/shared_scanclue.json",
+    "/novakidDescription": "texts/objects/bounty/shared_scanclue/shared_scanclue.json"
+  },
+  "objects/bounty/scanclue2/scanclue2.object": {
+    "/apexDescription": "texts/objects/bounty/shared_scanclue/shared_scanclue.json",
+    "/avianDescription": "texts/objects/bounty/shared_scanclue/shared_scanclue.json",
+    "/description": "texts/objects/bounty/shared_scanclue/shared_scanclue.json",
+    "/floranDescription": "texts/objects/bounty/shared_scanclue/shared_scanclue.json",
+    "/glitchDescription": "texts/objects/bounty/shared_scanclue/shared_scanclue.json",
+    "/humanDescription": "texts/objects/bounty/shared_scanclue/shared_scanclue.json",
+    "/hylotlDescription": "texts/objects/bounty/shared_scanclue/shared_scanclue.json",
+    "/novakidDescription": "texts/objects/bounty/shared_scanclue/shared_scanclue.json"
+  },
   "objects/clues/glitch/glitchscribe/glitchscribe.object": {
     "/apexDescription": "texts/objects.json",
     "/avianDescription": "texts/objects.json",
@@ -10298,6 +10321,15 @@
     "/glitchDescription": "texts/objects/generic/shared_woodenstand/shared_woodenstand.json",
     "/hylotlDescription": "texts/objects/generic/shared_woodenstand/shared_woodenstand.json",
     "/novakidDescription": "texts/objects/generic/shared_woodenstand/shared_woodenstand.json"
+  },
+  "objects/generic/woodentalllantern/woodentalllantern.object": {
+    "/apexDescription": "texts/objects.json",
+    "/avianDescription": "texts/objects.json",
+    "/floranDescription": "texts/objects.json",
+    "/glitchDescription": "texts/objects.json",
+    "/humanDescription": "texts/objects.json",
+    "/hylotlDescription": "texts/objects.json",
+    "/novakidDescription": "texts/objects.json"
   },
   "objects/generic/woodtable/woodtable.object": {
     "/novakidDescription": "texts/objects/shared_table/shared_table.object.json"
@@ -15239,6 +15271,15 @@
     "/humanDescription": "texts/objects/shared_switch.json",
     "/hylotlDescription": "texts/objects.json"
   },
+  "objects/themed/egyptian/egyptianlamp/egyptianlamp.object": {
+    "/apexDescription": "texts/objects.json",
+    "/avianDescription": "texts/objects.json",
+    "/floranDescription": "texts/objects.json",
+    "/glitchDescription": "texts/objects.json",
+    "/humanDescription": "texts/objects.json",
+    "/hylotlDescription": "texts/objects.json",
+    "/novakidDescription": "texts/objects.json"
+  },
   "objects/themed/executive/executivedoor/executivedoor.object": {
     "/floranDescription": "texts/objects/shared_door.json"
   },
@@ -16476,7 +16517,7 @@
   },
   "quests/bounty/bounty_mission.questtemplate": {
     "/completionText": "texts/quests/bounty/shared_.questtemplate.json",
-    "/scriptConfig/generatedText/failure/killed/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/generatedText/failure/escape/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/default/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/prev/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/text": "texts/quests/bounty/shared_.questtemplate.json",
@@ -16484,13 +16525,13 @@
   },
   "quests/bounty/capture_bounty.questtemplate": {
     "/completionText": "texts/quests/bounty/shared_.questtemplate.json",
-    "/scriptConfig/generatedText/failure/killed/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/generatedText/failure/default/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/default/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/prev/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/title": "texts/quests/bounty/shared_.questtemplate.json"
   },
   "quests/bounty/capture_ship_bounty.questtemplate": {
-    "/scriptConfig/generatedText/failure/killed/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/generatedText/failure/default/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/default/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/prev/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/text": "texts/quests/bounty/shared_.questtemplate.json",
@@ -16498,7 +16539,7 @@
   },
   "quests/bounty/capture_space_bounty.questtemplate": {
     "/completionText": "texts/quests/bounty/shared_.questtemplate.json",
-    "/scriptConfig/generatedText/failure/killed/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/generatedText/failure/default/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/default/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/prev/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/text": "texts/quests/bounty/shared_.questtemplate.json",
@@ -16607,27 +16648,17 @@
   "quests/bounty/kill_bounty_monster.questtemplate": {
     "/completionText": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/complete/default/0": "texts/quests/bounty/shared_.questtemplate.json",
-    "/scriptConfig/generatedText/failure/killed/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/generatedText/failure/default/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/default/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/prev/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/title": "texts/quests/bounty/shared_.questtemplate.json"
   },
-  "quests/bounty/pre_bounty_alive.questtemplate": {
+  "quests/bounty/pre_bounty.questtemplate": {
     "/completionText": "texts/quests/bounty/shared_.questtemplate.json",
     "/text": "texts/quests/bounty/shared_.questtemplate.json",
     "/title": "texts/quests/bounty/shared_.questtemplate.json"
   },
   "quests/bounty/pre_bounty_capstone.questtemplate": {
-    "/completionText": "texts/quests/bounty/shared_.questtemplate.json",
-    "/text": "texts/quests/bounty/shared_.questtemplate.json",
-    "/title": "texts/quests/bounty/shared_.questtemplate.json"
-  },
-  "quests/bounty/pre_bounty_dead.questtemplate": {
-    "/completionText": "texts/quests/bounty/shared_.questtemplate.json",
-    "/text": "texts/quests/bounty/shared_.questtemplate.json",
-    "/title": "texts/quests/bounty/shared_.questtemplate.json"
-  },
-  "quests/bounty/pre_bounty_doa.questtemplate": {
     "/completionText": "texts/quests/bounty/shared_.questtemplate.json",
     "/text": "texts/quests/bounty/shared_.questtemplate.json",
     "/title": "texts/quests/bounty/shared_.questtemplate.json"
@@ -16643,7 +16674,6 @@
     "/title": "texts/quests/bounty/shared_.questtemplate.json"
   },
   "quests/bounty/scan_planets.questtemplate": {
-    "/completionText": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/prev/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/text": "texts/quests/bounty/shared_.questtemplate.json",
     "/title": "texts/quests/bounty/shared_.questtemplate.json"
@@ -17512,6 +17542,9 @@
   },
   "stats/effects/glow/shipglow.statuseffect": {
     "/label": "texts/stats/effects/glow/shared_glow.statuseffect.json"
+  },
+  "stats/effects/glueslow/glueslow.statuseffect": {
+    "/label": "texts/stats/effects/shared_.statuseffect.json"
   },
   "stats/effects/heal/bandageheal.statuseffect": {
     "/label": "texts/stats/effects/heal/shared_heal.statuseffect.json"
@@ -18744,7 +18777,7 @@
     "/floranDescription": "texts/materials/shared_slopedhullpanel.mat.json",
     "/glitchDescription": "texts/materials/shared_slopedhullpanel.mat.json",
     "/novakidDescription": "texts/materials/shared_slopedhullpanel.mat.json",
-    "/shortdescription": "texts/materials/shared_sloped.json"
+    "/shortdescription": "texts/materials/shared_slopedhullpanel.mat.json"
   },
   "tiles/materials/slopedinsetpanel.material": {
     "/description": "texts/materials/shared_slopedinsetpanel.mat.json",
@@ -18752,9 +18785,6 @@
     "/glitchDescription": "texts/materials/shared_slopedinsetpanel.mat.json",
     "/novakidDescription": "texts/materials/shared_slopedinsetpanel.mat.json",
     "/shortdescription": "texts/materials/shared_slopedinsetpanel.mat.json"
-  },
-  "tiles/materials/slopedpolygon.material": {
-    "/shortdescription": "texts/materials/shared_sloped.json"
   },
   "tiles/materials/slopedrustypanel.material": {
     "/description": "texts/materials/shared_slopedrustypanel.mat.json",
@@ -19086,11 +19116,19 @@
     "/glitchdescription": "texts/shared_platform2.mat.json",
     "/shortdescription": "texts/shared_platform.json"
   },
+  "tiles/platforms/polygonplatform.material": {
+    "/description": "texts/tiles/platforms/shared_platform.material.json",
+    "/floranDescription": "texts/shared_platform.mat.json",
+    "/glitchDescription": "texts/shared_platform.mat.json",
+    "/novakidDescription": "texts/shared_platform.mat.json",
+    "/shortdescription": "texts/shared_platform.mat.json"
+  },
   "tiles/platforms/pressurisedplatform.material": {
-    "/floranDescription": "texts/shared_pressurisedplatform.mat.json",
-    "/glitchDescription": "texts/shared_pressurisedplatform.mat.json",
-    "/novakidDescription": "texts/shared_pressurisedplatform.mat.json",
-    "/shortdescription": "texts/shared_pressurisedplatform.mat.json"
+    "/description": "texts/tiles/platforms/shared_platform.material.json",
+    "/floranDescription": "texts/shared_platform.mat.json",
+    "/glitchDescription": "texts/shared_platform.mat.json",
+    "/novakidDescription": "texts/shared_platform.mat.json",
+    "/shortdescription": "texts/shared_platform.mat.json"
   },
   "tiles/platforms/protectorateplatform.material": {
     "/description": "texts/shared_protectorateplatform.mat.json",

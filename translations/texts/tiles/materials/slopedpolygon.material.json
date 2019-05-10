@@ -3,24 +3,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "tiles/materials/slopedpolygon.material": [
-        "/floranDescription"
+        "/description"
       ]
     },
     "Texts": {
-      "Eng": "<todo> It feellsss electric.",
-      "Por": "<todo> Parece elétrico."
+      "Eng": "A curious material made of \"Hard Light\"."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "tiles/materials/slopedpolygon.material": [
-        "/description"
+        "/floranDescription"
       ]
     },
     "Texts": {
-      "Eng": "<todo> It's virtual!",
-      "Por": "<todo> É virtual!"
+      "Eng": "It feelsss electric."
     }
   },
   {
@@ -31,8 +29,18 @@
       ]
     },
     "Texts": {
-      "Eng": "<todo> Observant. It's virtual!",
-      "Por": "<todo> Observador. É virtual!"
+      "Eng": "Observant. This matter is made of \"Hard Light\"."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/slopedpolygon.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Polygon Panel"
     }
   }
 ]

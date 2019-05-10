@@ -1,0 +1,122 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/bounty/scanclue1/scanclue1.object": [
+        "/description"
+      ],
+      "objects/bounty/scanclue2/scanclue2.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A clue for a bounty.",
+      "Por": "Uma pista para uma recompensa."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/bounty/scanclue1/scanclue1.object": [
+        "/apexDescription"
+      ],
+      "objects/bounty/scanclue2/scanclue2.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A handprint!",
+      "Por": "Uma impressão de mão!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/bounty/scanclue1/scanclue1.object": [
+        "/floranDescription"
+      ],
+      "objects/bounty/scanclue2/scanclue2.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran can sssee hand!",
+      "Por": "Floran pode ver mão!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/bounty/scanclue1/scanclue1.object": [
+        "/glitchDescription"
+      ],
+      "objects/bounty/scanclue2/scanclue2.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intriguing. The scan can pick up the faint trace of someone who was here recently.",
+      "Por": "Intrigado. O scan pode detectar o leve rastro de alguém que esteve aqui recentemente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/bounty/scanclue1/scanclue1.object": [
+        "/avianDescription"
+      ],
+      "objects/bounty/scanclue2/scanclue2.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Someone left this handprint behind, but my scanner can pick up its trace!",
+      "Por": "Alguém deixou esta impressão de mão para trás, mas meu scanner pode pegar seu rastro!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/bounty/scanclue1/scanclue1.object": [
+        "/novakidDescription"
+      ],
+      "objects/bounty/scanclue2/scanclue2.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This handprint couldn't have been made too long ago, I'm reckonin'!",
+      "Por": "Esta impressão da mão não poderia ter sido feita há muito tempo, estou calculando!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/bounty/scanclue1/scanclue1.object": [
+        "/hylotlDescription"
+      ],
+      "objects/bounty/scanclue2/scanclue2.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This handprint here is practically invisible to the naked eye. Fortunately, I am rather observant.",
+      "Por": "Esta impressão de mão aqui é praticamente invisível a olho nu. Felizmente, sou bastante atento."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/bounty/scanclue1/scanclue1.object": [
+        "/humanDescription"
+      ],
+      "objects/bounty/scanclue2/scanclue2.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This weirdly large handprint must have been left here somewhat recently.",
+      "Por": "Esta impressão de mão estranhamente grande deve ter sido deixada aqui recentemente."
+    }
+  }
+]

@@ -5,7 +5,7 @@ from re import compile as regex
 foi = {
   "*": [".*escription$","^(.+/)?[Tt]ext$","^(.+/)?[Dd]ialog/[^/]+/[^/]+/.*[0-9]+$",
     "^(.+/)?(sub)?[tT]itle(/value)?$", "^(.+/)+caption$", "^(.+/)?label$",
-    "^(.+/)?message$", "^.+Name/value$", "^.*friendlyName$", ".*senderName$",
+    "^(.+/)?message$", "^(.+/)?dialog$", "^.+Name/value$", "^.*friendlyName$", ".*senderName$",
     ".*destinations/.+[Nn]ame$", ".+[lL]abel[a-zA-Z]*/(value|name)$",
     "bookmarkName"],
   ".object": ["^chatOptions/.+$",],
@@ -71,9 +71,9 @@ foi = {
   ".stagehand": ["^radioMessages/[^/]+/(0|2)$"],
   ".material": [],
   ".matmod": [],
-  ".npctype": ["^scriptConfig/crew/role/(name|field)$",
-    "^scriptConfig/crew/ranks/[0-9]+$", "^npcname$"],
+  ".npctype": ["^scriptConfig/crew/role/(name|field)$", "^scriptConfig/crew/ranks/[0-9]+$", "^npcname$", "^scriptConfig/behaviorConfig/(bribeTitle|bribeSubtitle|bribeHatMessage|bribeMessage|bribeOk|bribeCancel)$" ],
   ".mat": [],
+  "bounty.config": [],
   ".radiomessages": [],
   ".bush": [],
   ".grass": [],
@@ -82,7 +82,7 @@ foi = {
   ".aimission": [".*Text$"],
   ".questtemplate": ["^.+Text(/[^0-9]+([0-9]+/1)?/[0-9]+)?$",
     "^scriptConfig/(descriptions|.+Note|parcel(Name|Description))/.+$",
-      "^.+/example/name$", "^scriptConfig/objectiveLists/[^/]+/[0-9]+/0$"],
+      "^.+/example/name$", "^scriptConfig/objectiveLists/[^/]+/[0-9]+/0$", "^scriptConfig/rankTitles/[a-zA-Z]", "^scriptConfig/rankText/[a-zA-Z]"],
   ".tooltip": [],
   ".itemdescription": [],
   ".weaponability": ["^ability/name$"],
@@ -92,7 +92,10 @@ foi = {
   "techupgradegui.config": ["^slotLabelText/Head$", "^slotLabelText/Body$", "^slotLabelText/Legs$"],
   "teleportdialog.config": ["^beamPartyMemberLabel$", "^deployPartyMemberLabel$"],
   "chieftain.behavior": ["root/children/4/parameters/content/[a-zA-Z]"],
-  "interface.config": ["^fontSize/[0-9]+$"],
+  "gang.config": [],
+  "clue_items.config": ["^audiodisc/diversion$"],
+  "bounty.config": [],
+  "bountyassignment.questtemplate": [],
   "_metadata":[]
 
   }

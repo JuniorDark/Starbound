@@ -2,6 +2,29 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "quests/bounty/bounty_mission.questtemplate": [
+        "/scriptConfig/generatedText/failure/escape/0"
+      ],
+      "quests/bounty/capture_bounty.questtemplate": [
+        "/scriptConfig/generatedText/failure/default/0"
+      ],
+      "quests/bounty/capture_ship_bounty.questtemplate": [
+        "/scriptConfig/generatedText/failure/default/0"
+      ],
+      "quests/bounty/capture_space_bounty.questtemplate": [
+        "/scriptConfig/generatedText/failure/default/0"
+      ],
+      "quests/bounty/kill_bounty_monster.questtemplate": [
+        "/scriptConfig/generatedText/failure/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "--TODO-- You let them go!? How is that supposed to make the universe a safer place?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "quests/bounty/capture_bounty.questtemplate": [
         "/scriptConfig/generatedText/text/default/0"
       ],
@@ -173,16 +196,10 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "quests/bounty/pre_bounty_alive.questtemplate": [
+      "quests/bounty/pre_bounty.questtemplate": [
         "/completionText"
       ],
       "quests/bounty/pre_bounty_capstone.questtemplate": [
-        "/completionText"
-      ],
-      "quests/bounty/pre_bounty_dead.questtemplate": [
-        "/completionText"
-      ],
-      "quests/bounty/pre_bounty_doa.questtemplate": [
         "/completionText"
       ],
       "quests/bounty/pre_bounty_minor_monster.questtemplate": [
@@ -219,16 +236,10 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "quests/bounty/pre_bounty_alive.questtemplate": [
+      "quests/bounty/pre_bounty.questtemplate": [
         "/text"
       ],
       "quests/bounty/pre_bounty_capstone.questtemplate": [
-        "/text"
-      ],
-      "quests/bounty/pre_bounty_dead.questtemplate": [
-        "/text"
-      ],
-      "quests/bounty/pre_bounty_doa.questtemplate": [
         "/text"
       ],
       "quests/bounty/pre_bounty_minor_monster.questtemplate": [
@@ -246,16 +257,10 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "quests/bounty/pre_bounty_alive.questtemplate": [
+      "quests/bounty/pre_bounty.questtemplate": [
         "/title"
       ],
       "quests/bounty/pre_bounty_capstone.questtemplate": [
-        "/title"
-      ],
-      "quests/bounty/pre_bounty_dead.questtemplate": [
-        "/title"
-      ],
-      "quests/bounty/pre_bounty_doa.questtemplate": [
         "/title"
       ],
       "quests/bounty/pre_bounty_minor_monster.questtemplate": [
@@ -268,30 +273,6 @@
     "Texts": {
       "Eng": "This title won't be displayed.",
       "Por": "Este título não será exibido."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/bounty/bounty_mission.questtemplate": [
-        "/scriptConfig/generatedText/failure/killed/0"
-      ],
-      "quests/bounty/capture_bounty.questtemplate": [
-        "/scriptConfig/generatedText/failure/killed/0"
-      ],
-      "quests/bounty/capture_ship_bounty.questtemplate": [
-        "/scriptConfig/generatedText/failure/killed/0"
-      ],
-      "quests/bounty/capture_space_bounty.questtemplate": [
-        "/scriptConfig/generatedText/failure/killed/0"
-      ],
-      "quests/bounty/kill_bounty_monster.questtemplate": [
-        "/scriptConfig/generatedText/failure/killed/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "Unfortunately, violence doesn't solve everything. The assignment was to capture <bounty.name> ALIVE so that they could be properly tried and sentenced according to due process. You've failed to serve justice in this matter.",
-      "Por": "Infelizmente, a violência não resolve tudo. A tarefa era capturar <bounty.name> VIVO para que pudessem ser devidamente julgados e sentenciados de acordo com o devido processo. Você falhou em servir a justiça neste assunto."
     }
   },
   {
@@ -328,9 +309,6 @@
         "/completionText"
       ],
       "quests/bounty/kill_bounty_monster.questtemplate": [
-        "/completionText"
-      ],
-      "quests/bounty/scan_planets.questtemplate": [
         "/completionText"
       ]
     },

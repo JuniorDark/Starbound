@@ -41,18 +41,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/bounty/clue_items.config": [
-        "/papernote/decoy/1/parameters/noteText"
-      ]
-    },
-    "Texts": {
-      "Eng": "<bounty.name>'s To-do List\n\nª Buy blowtorch\n\nª Rob a few banks\n\nª Hide out on <next.coordinate.name>\n\nª Wait for the heat to die down",
-      "Por": "Lista de afazeres de <bounty.name>\n\nª Comprar maçarico\n\nª Roubar alguns bancos\n\nª Esconder-se em <next.coordinate.name>\n\nª Esperar o calor diminuir"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/bounty/clue_items.config": [
         "/papernote/diversion/1/parameters/noteText"
       ]
     },
@@ -137,7 +125,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/bounty/clue_items.config": [
-        "/papernote/decoy/0/message",
         "/papernote/diversion/0/message",
         "/papernote/planetBounty/0/message",
         "/papernote/planetClue/0/message",
@@ -204,7 +191,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/bounty/clue_items.config": [
-        "/papernote/decoy/2/message",
         "/papernote/diversion/2/message",
         "/papernote/planetBounty/2/message",
         "/papernote/planetClue/2/message",
@@ -216,6 +202,17 @@
     "Texts": {
       "Eng": "Conflict within a team will always be its downfall - let this be a lesson, partner! You should head on over to <next.coordinate.name>.",
       "Por": "O conflito dentro de uma equipe será sempre a sua queda - deixe isso ser uma lição, parceiro(a)! Você deve ir para <next.coordinate.name>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/papernote/decoy/0/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dangit, they fooled us AND wrote a newsletter about it! Better head back to your previous location, partner!"
     }
   },
   {
@@ -247,7 +244,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/bounty/clue_items.config": [
-        "/papernote/decoy/2/parameters/noteText",
         "/papernote/diversion/2/parameters/noteText",
         "/papernote/scan/2/parameters/noteText"
       ]
@@ -297,6 +293,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/bounty/clue_items.config": [
+        "/papernote/decoy/2/parameters/noteText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dear Diary,\n\nEarlier I pretended I was someone else and a local Peacekeeper was totally fooled.\nThey were totally looking for me, too.\nI am officially a master of disguise and can blend into the shadows at will."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
         "/vaultnote/vaultClue/2/parameters/noteText"
       ]
     },
@@ -321,7 +328,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/bounty/clue_items.config": [
-        "/papernote/decoy/3/parameters/noteText",
         "/papernote/planetClue/3/parameters/noteText",
         "/papernote/scan/3/parameters/noteText",
         "/papernote/spaceBounty/3/parameters/noteText",
@@ -355,6 +361,17 @@
     "Texts": {
       "Eng": "Due to a change in gang policy, we are now converting all records to a digital format for easier storage. Please go to our computer office <next.coordinate.preposition> <next.coordinate.name> in order to:\n\n> Review your financial records!\n\n> Recieve your bi-quarterly review!\n\n> Memorise the combinations to our security vaults!\n\n> Place an order for your required gang headwear!",
       "Por": "Devido a uma mudança na política de gangues, agora estamos convertendo todos os registros em um formato digital para facilitar o armazenamento. Por favor, vá ao nosso escritório de informática em <next.coordinate.name> a fim de:\n\n> Revisar seus registros financeiros!\n\n> Receber sua revisão trimestral!\n\n> Memorizar as combinações dos nossos cofres de segurança!\n\n> Fazer um pedido para seu chapéu de gangue obrigatório!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/papernote/decoy/0/parameters/noteText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hey Crew,\n\nYou're never gonna believe this!\nI TOTALLY fooled a Peacekeeper earlier by pretending to be someone else!\nThey were well and truly pranked.\n\nUntil next time,\n<bounty.name>"
     }
   },
   {
@@ -447,7 +464,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/bounty/clue_items.config": [
-        "/papernote/decoy/3/message",
         "/papernote/diversion/3/message",
         "/papernote/planetClue/3/message",
         "/papernote/scan/3/message",
@@ -476,7 +492,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/bounty/clue_items.config": [
-        "/papernote/decoy/1/message",
         "/papernote/diversion/1/message",
         "/papernote/planetBounty/1/message",
         "/papernote/planetClue/1/message",
@@ -534,7 +549,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/bounty/clue_items.config": [
-        "/papernote/decoy/0/parameters/noteText",
         "/papernote/diversion/0/parameters/noteText",
         "/papernote/planetBounty/0/parameters/noteText",
         "/papernote/planetClue/0/parameters/noteText",
@@ -585,6 +599,28 @@
     "Texts": {
       "Eng": "Note to self:\n\nThe code for the vault <next.coordinate.preposition> <next.coordinate.name> is <password>.\n\nDon't leave this note somewhere again!",
       "Por": "Nota para si mesmo:\n\nO código para o cofre em <next.coordinate.name> é <password>.\n\nNão deixe essa nota em algum lugar novamente!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/papernote/decoy/3/parameters/noteText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Peacekeeper,\nI expect that you should discover this note in time.\n\nI want you to know it was me.\nThe civilian who assisted you earlier? \nIt was I, <bounty.name>!\n\nWhilst you still have a good chance of catching me, I don't want you ever to forget the name...\nª <bounty.name> ª"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/papernote/decoy/1/parameters/noteText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Peacekeeper,\nIf you're reading this, I want you to know that the helpful stranger earlier...\n\nIt was ME, <bounty.name>!\n\nNever forget the moment that you were utterly bamboozled by my cunning.\n«"
     }
   },
   {
@@ -722,6 +758,39 @@
     "Texts": {
       "Eng": "They're slick, but they ain't slick enough to throw us off! Onward-bound to <next.coordinate.name>!",
       "Por": "Eles são escorregadios, mas não são bons o suficiente para escapar de nós! Avante com destino à <next.coordinate.name>!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/papernote/decoy/3/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "This rogue thinks they've humiliated us, don't they? Head back to your previous location and catch this varmint once and for all!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/papernote/decoy/2/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "This vagabond tricked us! Too bad that they wrote down their dirty work on a convenient piece of paper. Better head over to your previous location, partner!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
+        "/papernote/decoy/1/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "This varmint is gonna pay for their mockery! Head back to your previous location and catch this crook for good!"
     }
   },
   {
