@@ -582,7 +582,7 @@
   {
     "op": "replace",
     "path": "/audiodisc/decoy/3/message",
-    "value": "Que grande perda de tempo Pacificador! É melhor voltar para a sua localização anterior e dar uma lição a este trapaceiro!"
+    "value": "Que grande perda de tempo Pacificador! É melhor voltar para a sua localização anterior e ensinar uma lição a este trapaceiro!"
   },
   {
     "op": "replace",
@@ -597,7 +597,7 @@
   {
     "op": "replace",
     "path": "/audiodisc/decoy/4/message",
-    "value": "Droga, fomos enganados! Eu acho que você precisa voltar para a sua localização anterior!"
+    "value": "Diabos - fomos enganados! Eu acho que você precisa apressar seu esconderijo para o local anterior!"
   },
   {
     "op": "replace",
@@ -627,7 +627,7 @@
   {
     "op": "replace",
     "path": "/audiodisc/decoy/6/message",
-    "value": "Ah, filho de um snuffish! Acho que você precisa voltar para a sua localização anterior!"
+    "value": "Ah, filho de um snuffish! Eu acho que você precisa apressar seu esconderijo para o local anterior!"
   },
   {
     "op": "replace",
@@ -652,7 +652,7 @@
   {
     "op": "replace",
     "path": "/papernote/diversion/2/parameters/noteText",
-    "value": "Caro <bounty.name>,\n\nMe desculpe, eu esqueci de trazer as mercadorias para você mais cedo.\nEstou a caminho para encontra-lo em em <next.coordinate.name>.\nPor favor, não fique bravo.\n\n±"
+    "value": "Caro <bounty.name>,\n\nMe desculpe, eu esqueci de trazer as mercadorias para você mais cedo.\nEstou a caminho para encontra-lo em <next.coordinate.name>.\nPor favor, não fique bravo.\n\n±"
   },
   {
     "op": "replace",
@@ -692,7 +692,7 @@
   {
     "op": "replace",
     "path": "/papernote/planetClue/2/parameters/noteText",
-    "value": "Caro <bounty.name>,\n\nMe desculpe, eu esqueci de trazer as mercadorias para você mais cedo.\nEstou a caminho para encontra-lo em em <next.coordinate.name>.\nPor favor, não fique bravo.\n\n»"
+    "value": "Caro <bounty.name>,\n\nMe desculpe, eu esqueci de trazer as mercadorias para você mais cedo.\nEstou a caminho para encontra-lo em <next.coordinate.name>.\nPor favor, não fique bravo.\n\n»"
   },
   {
     "op": "replace",
@@ -732,7 +732,7 @@
   {
     "op": "replace",
     "path": "/papernote/planetBounty/2/parameters/noteText",
-    "value": "Caro <bounty.name>,\n\nMe desculpe, eu esqueci de trazer as mercadorias para você mais cedo.\nEstou a caminho para encontra-lo em em <next.coordinate.name>.\nPor favor, não fique bravo.\n\n§"
+    "value": "Caro <bounty.name>,\n\nMe desculpe, eu esqueci de trazer as mercadorias para você mais cedo.\nEstou a caminho para encontra-lo em <next.coordinate.name>.\nPor favor, não fique bravo.\n\n§"
   },
   {
     "op": "replace",
@@ -772,7 +772,7 @@
   {
     "op": "replace",
     "path": "/papernote/spaceBounty/2/parameters/noteText",
-    "value": "Caro <bounty.name>,\n\nMe desculpe, eu esqueci de trazer as mercadorias para você mais cedo.\nEstou a caminho para encontra-lo em em <next.coordinate.name>.\nPor favor, não fique bravo.\n\nº"
+    "value": "Caro <bounty.name>,\n\nMe desculpe, eu esqueci de trazer as mercadorias para você mais cedo.\nEstou a caminho para encontra-lo em <next.coordinate.name>.\nPor favor, não fique bravo.\n\nº"
   },
   {
     "op": "replace",
@@ -812,7 +812,7 @@
   {
     "op": "replace",
     "path": "/papernote/spaceClue/2/parameters/noteText",
-    "value": "Caro <bounty.name>,\n\nMe desculpe, eu esqueci de trazer as mercadorias para você mais cedo.\nEstou a caminho para encontra-lo em em <next.coordinate.name>.\nPor favor, não fique bravo.\n\nð"
+    "value": "Caro <bounty.name>,\n\nMe desculpe, eu esqueci de trazer as mercadorias para você mais cedo.\nEstou a caminho para encontra-lo em <next.coordinate.name>.\nPor favor, não fique bravo.\n\nð"
   },
   {
     "op": "replace",
@@ -852,7 +852,7 @@
   {
     "op": "replace",
     "path": "/papernote/scan/2/parameters/noteText",
-    "value": "Caro <bounty.name>,\n\nMe desculpe, eu esqueci de trazer as mercadorias para você mais cedo.\nEstou a caminho para encontra-lo em em <next.coordinate.name>.\nPor favor, não fique bravo.\n\n±"
+    "value": "Caro <bounty.name>,\n\nMe desculpe, eu esqueci de trazer as mercadorias para você mais cedo.\nEstou a caminho para encontra-lo em <next.coordinate.name>.\nPor favor, não fique bravo.\n\n±"
   },
   {
     "op": "replace",
@@ -872,42 +872,42 @@
   {
     "op": "replace",
     "path": "/papernote/decoy/0/parameters/noteText",
-    "value": "Lacaio,\n\nAs mercadorias estão agora em <next.coordinate.name>.\nCertifique-se de que você não está sendo seguido.\n\nSaudações,\n<bounty.name>"
+    "value": "Ei Tripulação,\n\nVocê nunca vai acreditar nisso!\nEu enganei TOTALMENTE um Pacificador mais cedo fingindo ser outra pessoa!\nEles foram bem e verdadeiramente enganados.\n\nAté a próxima,\n<bounty.name>"
   },
   {
     "op": "replace",
     "path": "/papernote/decoy/0/message",
-    "value": "Siga sempre a pista do papel, parceiro(a)! Parece que <next.coordinate.name> é a sua próxima parada neste caso."
+    "value": "Droga, eles nos enganaram E escreveram um boletim informativo sobre isso! Melhor voltar para a sua localização anterior, parceiro(a)!"
   },
   {
     "op": "replace",
     "path": "/papernote/decoy/1/parameters/noteText",
-    "value": "Lista de afazeres de <bounty.name>\n\nª Comprar maçarico\n\nª Roubar alguns bancos\n\nª Esconder-se em <next.coordinate.name>\n\nª Esperar o calor diminuir"
+    "value": "Pacificador,\nSe você está lendo isso, eu quero que você saiba que o estranho prestativo mais cedo...\n\nEra EU, <bounty.name>!\n\nNunca se esqueça do momento em que você foi totalmente enganado pela minha astúcia.\n«"
   },
   {
     "op": "replace",
     "path": "/papernote/decoy/1/message",
-    "value": "Parece que estes criminosos estão muito organizados para o seu próprio bem! Você deve ir para <next.coordinate.name>!"
+    "value": "Esta verme vai pagar por sua zombaria! Volte para a sua localização anterior e pegue esse bandido!"
   },
   {
     "op": "replace",
     "path": "/papernote/decoy/2/parameters/noteText",
-    "value": "Caro <bounty.name>,\n\nMe desculpe, eu esqueci de trazer as mercadorias para você mais cedo.\nEstou a caminho para encontra-lo em em <next.coordinate.name>.\nPor favor, não fique bravo.\n\n±"
+    "value": "Querido Diário,\n\nMais cedo eu fingi que era outra pessoa e um Pacificador local foi totalmente enganado.\nEles também estavam me procurando.\nEu sou oficialmente um mestre do disfarce e posso misturar-se nas sombras à vontade."
   },
   {
     "op": "replace",
     "path": "/papernote/decoy/2/message",
-    "value": "O conflito dentro de uma equipe será sempre a sua queda - deixe isso ser uma lição, parceiro(a)! Você deve ir para <next.coordinate.name>."
+    "value": "Este vagabundo nos enganou! Pena que eles escreveram seu trabalho sujo em um pedaço de papel conveniente. Melhor ir ao seu local anterior, parceiro(a)!"
   },
   {
     "op": "replace",
     "path": "/papernote/decoy/3/parameters/noteText",
-    "value": "Querido Diário,\n\nHoje ajudei <bounty.name> levando o saque para <next.coordinate.name>.\nEspero receber um aumento em breve!\nEu provavelmente deveria esconder esta página por enquanto, no caso de alguém encontrá-la."
+    "value": "Pacificador,\nEspero que você descubra essa nota a tempo.\n\nEu quero que você saiba que fui eu.\nO civil que te ajudou mais cedo?\nFui eu, <bounty.name>!\n\nEnquanto você ainda tem uma boa chance de me pegar, eu não quero que você nunca esqueça o nome...\nª <bounty.name> ª"
   },
   {
     "op": "replace",
     "path": "/papernote/decoy/3/message",
-    "value": "Se você vai se livrar de provas escritas, você tem que fazer um trabalho melhor do que escondê-la! Você deve ir para <next.coordinate.name>."
+    "value": "Este ladino acha que nos humilhou, não é? Volte para a sua localização anterior e pegue este verme de uma vez por todas!"
   },
   {
     "op": "replace",
@@ -922,7 +922,7 @@
   {
     "op": "replace",
     "path": "/papernote/returnVaultItem/1/parameters/noteText",
-    "value": "Nota para si mesmo:\n\n<bounty.name> está ficando muito bravo por eu continuar deixando anotações com o código do cofre escrito nelas.\nTodas as notas restantes devem ser armazenadas discretamente em em <next.coordinate.name> em vez disso."
+    "value": "Nota para si mesmo:\n\n<bounty.name> está ficando muito bravo por eu continuar deixando anotações com o código do cofre escrito nelas.\nTodas as notas restantes devem ser armazenadas discretamente em <next.coordinate.name> em vez disso."
   },
   {
     "op": "replace",
@@ -942,7 +942,7 @@
   {
     "op": "replace",
     "path": "/papernote/returnVaultObject/0/parameters/noteText",
-    "value": "Notícia Importante!\n\nOs lacaios devem parar de escrever o código do cofre em pedaços de papel!\nEsta é uma enorme falha de segurança e desperdício de papel valioso!\n\nEm vez disso, o código será gravado em um formato digital em nossos servidores em em ^green;<next.coordinate.name>^reset;.\n\nFeliz contrabando! - <bounty.name>"
+    "value": "Notícia Importante!\n\nOs lacaios devem parar de escrever o código do cofre em pedaços de papel!\nEsta é uma enorme falha de segurança e desperdício de papel valioso!\n\nEm vez disso, o código será gravado em um formato digital em nossos servidores em ^green;<next.coordinate.name>^reset;.\n\nFeliz contrabando! - <bounty.name>"
   },
   {
     "op": "replace",
@@ -952,7 +952,7 @@
   {
     "op": "replace",
     "path": "/papernote/returnVaultObject/1/parameters/noteText",
-    "value": "Devido a uma mudança na política de gangues, agora estamos convertendo todos os registros em um formato digital para facilitar o armazenamento. Por favor, vá ao nosso escritório de informática em em <next.coordinate.name> a fim de:\n\n> Revisar seus registros financeiros!\n\n> Receber sua revisão trimestral!\n\n> Memorizar as combinações dos nossos cofres de segurança!\n\n> Fazer um pedido para seu chapéu de gangue obrigatório!"
+    "value": "Devido a uma mudança na política de gangues, agora estamos convertendo todos os registros em um formato digital para facilitar o armazenamento. Por favor, vá ao nosso escritório de informática em <next.coordinate.name> a fim de:\n\n> Revisar seus registros financeiros!\n\n> Receber sua revisão trimestral!\n\n> Memorizar as combinações dos nossos cofres de segurança!\n\n> Fazer um pedido para seu chapéu de gangue obrigatório!"
   },
   {
     "op": "replace",

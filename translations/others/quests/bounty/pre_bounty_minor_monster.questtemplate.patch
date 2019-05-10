@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "value": "Recebemos notícias de uma lenda local em <coordinate.name>. Uma criatura estranhamente colorida chamada ^orange;<bounty.name>^reset; tem sido conhecida por perturbar os moradores há algum tempo, e eles estão cansados disso. Você pode ir e resolver essa bagunça?\n\n- RECOMPENSAS -\nMatar: ^yellow;<rewards.money>^reset; pixels, +<rewards.rank> rank",
+    "path": "/scriptConfig/generatedText/text/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Nós tivemos relatos de uma criatura correndo solta em <coordinate.name>. Algum idiota a nomeou '^orange;<bounty.name>^reset;' e agora ninguém tem coragem de derrubá-la. É melhor você ir até lá e acabar com essa monstruosidade antes que alguém se machuque.\n\n- RECOMPENSAS -\nMatar: ^yellow;<rewards.money>^reset; pixels, +<rewards.rank> rank",
+    "path": "/scriptConfig/generatedText/text/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Nós tivemos relatos de uma criatura causando estragos em <coordinate.name>! Os moradores locais começaram a chamá-la de '^orange;<bounty.name>^reset;' e eles estão com muito medo de deixar suas casas. Você pode viajar até lá e cuidar disso?\n\n- RECOMPENSAS -\nMatar: ^yellow;<rewards.money>^reset; pixels, +<rewards.rank> rank",
+    "path": "/scriptConfig/generatedText/text/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Este texto de conclusão não será exibido.",
+    "path": "/completionText"
+  },
+  {
+    "op": "replace",
+    "value": "Este texto não será exibido.",
+    "path": "/text"
+  },
+  {
+    "op": "replace",
+    "value": "Este título não será exibido.",
+    "path": "/title"
+  }
+]

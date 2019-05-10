@@ -1,0 +1,38 @@
+{
+  "scanclue1": {
+    "planetClue": {
+      "description": "^#60b8ea;[RASTREIO DE SINAL COMPLETO: ^yellow;ENVIANDO COORDENADAS^#60b8ea;]",
+      "message": "Seu ^orange;Manipulador de Matéria^white; pegou um rastro de um dos capangas de <bounty.name>! Eles estão atualmente em <next.coordinate.name>!"
+    },
+    "planetBounty": {
+      "description": "^#60b8ea;[AMOSTRA DE DNA CONFIRMADA: ^yellow;ENVIANDO COORDENADAS^#60b8ea;]",
+      "message": "Seu ^orange;Manipulador de Matéria^white; pegou um sinal de <bounty.name>! Seu rastro leva a um planeta em <next.coordinate.systemName>. Siga em frente para <next.coordinate.name>!"
+    },
+    "spaceClue": {
+      "description": "^#60b8ea;[AMOSTRA DE DNA CONFIRMADA: ^yellow;ENVIANDO COORDENADAS^#60b8ea;]",
+      "message": "Seu ^orange;Manipulador de Matéria^white; pegou um rastro de um dos capangas de <bounty.name>! Eles atualmente parecem estar em uma estação em <next.coordinate.systemName>!"
+    },
+    "spaceBounty": {
+      "description": "^#60b8ea;[RASTREIO DE SINAL COMPLETO: ^yellow;ENVIANDO COORDENADAS^#60b8ea;]",
+      "message": "Seu ^orange;Manipulador de Matéria^white; rastreou o sinal de <bounty.name>! Parece levar a uma estação remota em <next.coordinate.systemName>!"
+    }
+  },
+  "scanclue2": {
+    "planetClue": {
+      "description": "^#60b8ea;[RASTREIO DE SINAL COMPLETO: ^yellow;ENVIANDO COORDENADAS^#60b8ea;]",
+      "message": "Seu ^orange;Manipulador de Matéria^white; pegou um rastro de um dos capangas de <bounty.name>! Eles estão atualmente em <next.coordinate.name>!"
+    },
+    "planetBounty": {
+      "description": "^#60b8ea;[AMOSTRA DE DNA CONFIRMADA: ^yellow;ENVIANDO COORDENADAS^#60b8ea;]",
+      "message": "Seu ^orange;Manipulador de Matéria^white; pegou um sinal de <bounty.name>! Seu rastro leva a um planeta em <next.coordinate.systemName>. Siga em frente para <next.coordinate.name>!"
+    },
+    "spaceClue": {
+      "description": "^#60b8ea;[AMOSTRA DE DNA CONFIRMADA: ^yellow;ENVIANDO COORDENADAS^#60b8ea;]",
+      "message": "Seu ^orange;Manipulador de Matéria^white; pegou um rastro de um dos capangas de <bounty.name>! Eles atualmente parecem estar em uma estação em <next.coordinate.systemName>!"
+    },
+    "spaceBounty": {
+      "description": "^#60b8ea;[RASTREIO DE SINAL COMPLETO: ^yellow;ENVIANDO COORDENADAS^#60b8ea;]",
+      "message": "Seu ^orange;Manipulador de Matéria^white; rastreou o sinal de <bounty.name>! Parece levar a uma estação remota em <next.coordinate.systemName>!"
+    }
+  }
+}

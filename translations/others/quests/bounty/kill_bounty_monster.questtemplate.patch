@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/title",
-    "value": "^orange;Recompensa^reset;"
+    "value": "^orange;Procurado^reset;"
   },
   {
     "op": "replace",
@@ -17,7 +17,7 @@
   {
     "op": "replace",
     "path": "/scriptConfig/objectives/killBountyStage/0",
-    "value": "^orange;procure^reset; on planeta por sinais do alvo"
+    "value": "^orange;Procure^reset; no planeta por sinais do alvo"
   },
   {
     "op": "replace",
@@ -36,17 +36,12 @@
   },
   {
     "op": "replace",
-    "path": "/scriptConfig/generatedText/complete/capture/0",
-    "value": "Muito bom trabalho capturando <bounty.name>! A verdadeira justiça foi servida neste dia.\n\nVenha até o escritório dos Pacificadores para receber suas recompensas!"
-  },
-  {
-    "op": "replace",
     "path": "/scriptConfig/generatedText/complete/default/0",
-    "value": "Você pegou <bounty.name>? Excelente trabalho, parceiro(a)! O universo esta apenas um pouco mais seguro agora.\n\nVenha até o escritório dos Pacificadores para receber suas recompensas!"
+    "value": "Você pegou <bounty.name>? Excelente trabalho, parceiro(a)! O universo esta apenas um pouco mais seguro agora.\n\nVenha até o escritório dos Pacificadores na próxima vez que você estiver no Posto avançado para receber suas recompensas!"
   },
   {
     "op": "replace",
-    "path": "/scriptConfig/generatedText/failure/killed/0",
-    "value": "Infelizmente, a violência não resolve tudo. A tarefa era capturar <bounty.name> VIVO para que pudessem ser devidamente julgados e sentenciados de acordo com o devido processo. Você falhou em servir a justiça neste assunto."
+    "path": "/scriptConfig/generatedText/failure/default/0",
+    "value": "Você deixou ele ir!? Como isso pode tornar o universo um lugar mais seguro?"
   }
 ]

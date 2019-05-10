@@ -2,22 +2,22 @@
   {
     "op": "replace",
     "path": "/title",
-    "value": "^orange;Mate o foragido"
+    "value": "^orange;Mate o procurado"
   },
   {
     "op": "replace",
     "path": "/text",
-    "value": "Mate o foragido no lugar"
+    "value": "Mate o procurado no lugar"
   },
   {
     "op": "replace",
     "path": "/completionText",
-    "value": "Você prendeu o fugitivo!"
+    "value": "Você prendeu o procurado!"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/objectives/findSpaceBountyStage/0",
-    "value": "^orange;Viaje^reset; para ^green;%s^reset;"
+    "value": "^orange;Viaje^reset; para %s"
   },
   {
     "op": "replace",
@@ -32,7 +32,7 @@
   {
     "op": "replace",
     "path": "/scriptConfig/objectives/killBountyStage/0",
-    "value": "^orange;Encontre^reset; a ^green;nave^reset; do alvo"
+    "value": "^orange;Encontre^reset; a ^green;nave^reset; do alvo;"
   },
   {
     "op": "replace",
@@ -61,7 +61,7 @@
   },
   {
     "op": "replace",
-    "path": "/scriptConfig/generatedText/failure/killed/0",
-    "value": "Infelizmente, a violência não resolve tudo. A tarefa era capturar <bounty.name> VIVO para que pudessem ser devidamente julgados e sentenciados de acordo com o devido processo. Você falhou em servir a justiça neste assunto."
+    "path": "/scriptConfig/generatedText/failure/default/0",
+    "value": "Você deixou ele ir!? Como isso pode tornar o universo um lugar mais seguro?"
   }
 ]

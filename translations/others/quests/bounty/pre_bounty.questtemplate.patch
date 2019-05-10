@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "value": "Precisamos que você localize e prenda ^orange;<bounty.name>^reset;. Recebemos uma dica de que pode haver informações em <coordinate.name>, então você deve começar sua investigação lá.\n\n- RECOMPENSAS -\nCapturar: ^yellow;<rewards.money>^reset; pixels, +<rewards.rank> rank",
+    "path": "/scriptConfig/generatedText/text/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Este texto de conclusão não será exibido.",
+    "path": "/completionText"
+  },
+  {
+    "op": "replace",
+    "value": "Este texto não será exibido.",
+    "path": "/text"
+  },
+  {
+    "op": "replace",
+    "value": "Este título não será exibido.",
+    "path": "/title"
+  }
+]

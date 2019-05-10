@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/title",
-    "value": "^orange;Mate o foragido"
+    "value": "^orange;Mate o procurado"
   },
   {
     "op": "replace",
     "path": "/text",
-    "value": "Mate o foragido no lugar"
+    "value": "Mate o procurado no lugar"
   },
   {
     "op": "replace",
@@ -17,7 +17,7 @@
   {
     "op": "replace",
     "path": "/scriptConfig/objectives/findSpaceBountyStage/0",
-    "value": "^orange;Viaje^reset; para ^green;%s^reset;"
+    "value": "orange;Viaje^reset; para ^green;%s^reset;"
   },
   {
     "op": "replace",
@@ -51,17 +51,12 @@
   },
   {
     "op": "replace",
-    "path": "/scriptConfig/generatedText/complete/capture/0",
-    "value": "Bom trabalho indo ao espaço e capturando <bounty.name>! Você é um verdadeiro herói galáctico.\n\nVenha até a Estação Pacificadora para receber sua recompensa!"
-  },
-  {
-    "op": "replace",
     "path": "/scriptConfig/generatedText/complete/default/0",
     "value": "Bom trabalho indo ao espaço e capturando <bounty.name>! Você é um verdadeiro herói galáctico.\n\nVenha até a Estação Pacificadora para receber sua recompensa!"
   },
   {
     "op": "replace",
-    "path": "/scriptConfig/generatedText/failure/killed/0",
-    "value": "Infelizmente, a violência não resolve tudo. A tarefa era capturar <bounty.name> VIVO para que pudessem ser devidamente julgados e sentenciados de acordo com o devido processo. Você falhou em servir a justiça neste assunto."
+    "path": "/scriptConfig/generatedText/failure/default/0",
+    "value": "Você deixou ele ir!? Como isso pode tornar o universo um lugar mais seguro?"
   }
 ]

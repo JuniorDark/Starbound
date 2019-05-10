@@ -1,72 +1,37 @@
 [
   {
     "op": "replace",
-    "path": "/title",
-    "value": "Encontre o alvo"
+    "value": "Encontre uma pista para a localização do procurado",
+    "path": "/text"
   },
   {
     "op": "replace",
-    "path": "/text",
-    "value": "Encontre uma pista para a localização do procurado"
+    "value": "Tendo esgotado todas as pistas disponíveis, somos forçados a abandonar a caça ao <bounty.name>. É um dia sombrio para a justiça.",
+    "path": "/scriptConfig/generatedText/failureText/default/1"
   },
   {
     "op": "replace",
-    "path": "/completionText",
-    "value": "Você encontrou uma pista. Para onde isso leva?"
+    "value": "O rastro ficou esfriou! Sem qualquer outra pista, <bounty.name> escorregou pelos nossos dedos mais uma vez. Quem sabe que crimes hediondos eles cometerão antes de termos outra chance de derrubá-los?",
+    "path": "/scriptConfig/generatedText/failureText/default/0"
   },
   {
     "op": "replace",
-    "path": "/scriptConfig/objectives/findWorldStage/0",
-    "value": "^orange;Viaje^reset; para ^green;%s^reset;"
+    "value": "Você encontrou uma pista. Para onde isso leva?",
+    "path": "/completionText"
   },
   {
     "op": "replace",
-    "path": "/scriptConfig/objectives/findClueNpcStage/0",
-    "value": "^orange;Procure^reset; no planeta por sinais do alvo"
+    "value": "^orange;<bounty.name>^reset; foi visto pela última vez em <coordinate.name>.\n\n",
+    "path": "/scriptConfig/generatedText/text/default/0"
   },
   {
     "op": "replace",
-    "path": "/scriptConfig/objectives/findClueNpcStage/1",
-    "value": "^orange;Procure^reset; por pistas"
+    "value": "^orange;<bounty.name>^reset; foi visto pela última vez em <coordinate.name>.",
+    "path": "/scriptConfig/generatedText/text/default/1"
   },
   {
     "op": "replace",
-    "path": "/scriptConfig/generatedText/text/prev/0",
-    "value": "^green;<prev.coordinate.name>^reset;:\nUm capanga que eu interroguei me deu a localização \"<coordinate.name>\".\n\n"
-  },
-  {
-    "op": "replace",
-    "path": "/scriptConfig/generatedText/text/prev/1",
-    "value": "^green;<prev.coordinate.name>^reset;:\nDepois de algum incentivo, um capanga me deu a localização \"<coordinate.name>\".\n\n"
-  },
-  {
-    "op": "replace",
-    "path": "/scriptConfig/generatedText/text/prev/2",
-    "value": "^green;<prev.coordinate.name>^reset;:\nUm dos lacaios de <bounty.name> me levou a \"<coordinate.name>\".\n"
-  },
-  {
-    "op": "replace",
-    "path": "/scriptConfig/generatedText/text/default/0",
-    "value": "^orange;<bounty.name>^reset; foi visto pela última vez em <coordinate.name>.\n\n"
-  },
-  {
-    "op": "replace",
-    "path": "/scriptConfig/generatedText/text/default/1",
-    "value": "^orange;<bounty.name>^reset; foi visto pela última vez em <coordinate.name>."
-  },
-  {
-    "op": "replace",
-    "path": "/scriptConfig/generatedText/text/default/2",
-    "value": "O rastro de ^orange;<bounty.name>^reset; esfriou em <coordinate.name>."
-  },
-  {
-    "op": "replace",
-    "path": "/scriptConfig/generatedText/failureText/default/0",
-    "value": "O rastro ficou esfriou! Sem qualquer outra pista, <bounty.name> escorregou pelos nossos dedos mais uma vez. Quem sabe que crimes hediondos eles cometerão antes de termos outra chance de derrubá-los?"
-  },
-  {
-    "op": "replace",
-    "path": "/scriptConfig/generatedText/failureText/default/1",
-    "value": "Tendo esgotado todas as pistas disponíveis, somos forçados a abandonar a caça ao <bounty.name>. É um dia sombrio para a justiça."
+    "value": "O rastro de ^orange;<bounty.name>^reset; esfriou em <coordinate.name>.",
+    "path": "/scriptConfig/generatedText/text/default/2"
   }
 ]

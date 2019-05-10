@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/title",
-    "value": "^orange;Recompensa^reset;"
+    "value": "^orange;Procuarado^reset;"
   },
   {
     "op": "replace",
@@ -36,17 +36,17 @@
   },
   {
     "op": "replace",
-    "path": "/scriptConfig/generatedText/complete/capture/0",
-    "value": "Bom trabalho capturando <bounty.name>! O universo é vasto, mas o braço da lei é longo!\n\nVenha até a Estação Pacificadora para receber suas recompensas!"
-  },
-  {
-    "op": "replace",
     "path": "/scriptConfig/generatedText/complete/default/0",
     "value": "Você capturou <bounty.name>? e saiu por cima! O universo é vasto, mas o braço da lei é longo!\n\nVenha até a Estação Pacificadora para receber suas recompensas!"
   },
   {
     "op": "replace",
-    "path": "/scriptConfig/generatedText/failure/killed/0",
-    "value": "Infelizmente, a violência não resolve tudo. A tarefa era capturar <bounty.name> VIVO para que pudessem ser devidamente julgados e sentenciados de acordo com o devido processo. Você falhou em servir a justiça neste assunto."
+    "path": "/scriptConfig/generatedText/complete/default/1",
+    "value": "Bom trabalho capturando <bounty.name>! O universo é vasto, mas o braço da lei é longo!\n\nVenha até a Estação Pacificadora para receber suas recompensas!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/generatedText/failure/default/0",
+    "value": "Você deixou ele ir!? Como isso pode tornar o universo um lugar mais seguro?"
   }
 ]

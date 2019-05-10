@@ -2,17 +2,12 @@
   {
     "op": "replace",
     "path": "/title",
-    "value": "^orange;Mate o foragido"
+    "value": "^orange;Mate o procurado"
   },
   {
     "op": "replace",
     "path": "/text",
-    "value": "Mate o foragido no lugar"
-  },
-  {
-    "op": "replace",
-    "path": "/completionText",
-    "value": "Você matou o procurado"
+    "value": "Mate o procurado no lugar"
   },
   {
     "op": "replace",
@@ -27,7 +22,7 @@
   {
     "op": "replace",
     "path": "/scriptConfig/objectives/scanPlanetsStage/scan",
-    "value": "^orange;Entre na órbita^reset; ao redor ^orange;%s^reset;"
+    "value": "^orange;Entre na órbita^reset; em torno de ^orange;%s^reset;"
   },
   {
     "op": "replace",

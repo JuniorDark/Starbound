@@ -1,42 +1,32 @@
 [
   {
     "op": "replace",
-    "path": "/title",
-    "value": "Este texto não será exibido"
+    "value": "<bounty.name> foi visto pela última vez em <coordinate.name>.",
+    "path": "/scriptConfig/generatedText/text/default/0"
   },
   {
     "op": "replace",
-    "path": "/text",
-    "value": "Este texto não será exibido"
+    "value": "Minhas descobertas em <prev.coordinate.name> levaram-me a crer que <bounty.name> está em <coordinate.name>.",
+    "path": "/scriptConfig/generatedText/text/prev/0"
   },
   {
     "op": "replace",
-    "path": "/completionText",
-    "value": "Este texto não será exibido"
+    "value": "Este texto não será exibido",
+    "path": "/completionText"
   },
   {
     "op": "replace",
-    "path": "/scriptConfig/objectives/finalMissionStage/0",
-    "value": "Use ^orange;S.A.I.L^reset; para lançar até a ^green;Dantalion^reset;"
+    "value": "Este texto não será exibido",
+    "path": "/text"
   },
   {
     "op": "replace",
-    "path": "/scriptConfig/objectives/finalMissionStage/1",
-    "value": "^orange;Prenda^reset; ^green;Asra Nox^reset;"
+    "value": "Este texto não será exibido",
+    "path": "/title"
   },
   {
     "op": "replace",
-    "path": "/scriptConfig/generatedText/text/prev/0",
-    "value": "Minhas descobertas em <prev.coordinate.name> levaram-me a crer que <bounty.name> está em <coordinate.name>."
-  },
-  {
-    "op": "replace",
-    "path": "/scriptConfig/generatedText/text/default/0",
-    "value": "<bounty.name> foi vista pela última vez em <coordinate.name>."
-  },
-  {
-    "op": "replace",
-    "path": "/scriptConfig/generatedText/complete/default/0",
-    "value": "Você pegou <bounty.name>? Excelente trabalho, parceiro(a)! O universo esta apenas um pouco mais seguro agora.\n\nVenha até o escritório dos Pacificadores para receber suas recompensas!"
+    "value": "Você pegou <bounty.name>? Excelente trabalho, parceiro(a)! O universo esta apenas um pouco mais seguro agora.\n\nVenha até o escritório dos Pacificadores na próxima vez que você estiver no Posto avançado para receber suas recompensas!",
+    "path": "/scriptConfig/generatedText/complete/default/0"
   }
 ]

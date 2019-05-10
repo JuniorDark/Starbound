@@ -16,11 +16,6 @@
   },
   {
     "op": "replace",
-    "path": "/scriptConfig/objectives/findWorldStage/0",
-    "value": "Viaje para %s"
-  },
-  {
-    "op": "replace",
     "path": "/scriptConfig/objectives/missionTeleportStage/0",
     "value": "^orange;Procure^reset; no planeta por ^green;sinais do alvo^reset;"
   },
@@ -46,17 +41,17 @@
   },
   {
     "op": "replace",
-    "path": "/scriptConfig/generatedText/complete/capture/0",
+    "path": "/scriptConfig/generatedText/complete/default/0",
     "value": "Bom trabalho capturando <bounty.name>, parceiro(a)! A justiça foi realmente servida hoje.\n\nVenha até a Estação Pacificadora para receber suas recompensas!"
   },
   {
     "op": "replace",
-    "path": "/scriptConfig/generatedText/complete/default/0",
+    "path": "/scriptConfig/generatedText/complete/default/1",
     "value": "Você prendeu <bounty.name>? Excelente trabalho, parceiro(a)! O universo está um pouquinho mais seguro agora.\n\nVenha até a Estação Pacificadora para receber suas recompensas!"
   },
   {
     "op": "replace",
-    "path": "/scriptConfig/generatedText/failure/killed/0",
-    "value": "Infelizmente, a violência não resolve tudo. A tarefa era capturar <bounty.name> VIVO para que pudessem ser devidamente julgados e sentenciados de acordo com o devido processo. Você falhou em servir a justiça neste assunto."
+    "path": "/scriptConfig/generatedText/failure/escape/0",
+    "value": "Você deixou ele ir!? Como isso pode tornar o universo um lugar mais seguro?"
   }
 ]
