@@ -1,32 +1,77 @@
 [
   {
     "op": "replace",
-    "value": "Encontre uma pista para a localização do procurado",
-    "path": "/text"
+    "path": "/title",
+    "value": "^orange;Mate o procurado"
   },
   {
     "op": "replace",
-    "value": "Você encontrou uma pista. Para onde isso leva?",
-    "path": "/completionText"
+    "path": "/text",
+    "value": "Encontre uma pista para a localização do procurado"
   },
   {
     "op": "replace",
-    "value": "^orange;<bounty.name>^reset; foi visto pela última vez em <coordinate.name>.\n\n",
-    "path": "/scriptConfig/generatedText/text/default/0"
+    "path": "/completionText",
+    "value": "Você encontrou uma pista. Para onde isso leva?"
   },
   {
     "op": "replace",
-    "value": "^orange;<bounty.name>^reset; foi visto pela última vez em <coordinate.name>.",
-    "path": "/scriptConfig/generatedText/text/default/1"
+    "path": "/scriptConfig/objectives/findSpaceBountyStage/0",
+    "value": "^orange;Viaje^reset; para ^green;%s^reset;"
   },
   {
     "op": "replace",
-    "value": "O rastro de ^orange;<bounty.name>^reset; esfriou em <coordinate.name>.",
-    "path": "/scriptConfig/generatedText/text/default/2"
+    "path": "/scriptConfig/objectives/findSpaceBountyStage/1",
+    "value": "^orange;Aproxime-se^reset; do ^green;Esconderijo Criminoso^reset;"
   },
   {
     "op": "replace",
-    "value": "^orange;Mate o foragido",
-    "path": "/title"
+    "path": "/scriptConfig/objectives/findSpaceBountyStage/2",
+    "value": "^orange;Lance^reset; para o ^green;Esconderijo Criminoso^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/objectives/findClueObjectStage/0",
+    "value": "^orange;Procure^reset; no espaço pelo ^green;esconderijo^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/objectives/findClueObjectStage/1",
+    "value": "^orange;Investigue computadores^reset; por pistas"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/generatedText/text/prev/0",
+    "value": "^green;<prev.coordinate.name>^reset;:\nRegistros de computador aqui me disseram que <bounty.name> está em <coordinate.name>.\n\n"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/generatedText/text/prev/1",
+    "value": "^green;<prev.coordinate.name>^reset;:\nMinhas habilidades de mestre de hackeamento me levaram a <coordinate.name>.\n\n"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/generatedText/text/prev/2",
+    "value": "^green;<prev.coordinate.name>^reset;:\nMinhas habilidades avançadas de hackeamento me levaram a <coordinate.name>.\n\n"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/generatedText/text/prev/3",
+    "value": "^green;<prev.coordinate.name>^reset;:\ninvadindo o banco de dados seguro do criminoso me deu a localização \"<coordinate.name>\".\n\n"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/generatedText/text/default/0",
+    "value": "^orange;<bounty.name>^reset; foi visto pela última vez em <coordinate.name>.\n\n"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/generatedText/text/default/1",
+    "value": "^orange;<bounty.name>^reset; foi visto pela última vez em <coordinate.name>."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/generatedText/text/default/2",
+    "value": "O rastro de ^orange;<bounty.name>^reset; esfriou em <coordinate.name>."
   }
 ]
