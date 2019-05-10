@@ -501,7 +501,7 @@
           "ancientconsolegui.config.json": 3
         },
         "bountyboard": {
-          "bountyboardgui.config.json": 15
+          "bountyboardgui.config.json": 16
         },
         "collections": {
           "collectionsgui.config.json": 4
@@ -607,6 +607,7 @@
         "deletedialog.config.json": 1,
         "error.config.json": 1,
         "graphicsmenu.config.json": 10,
+        "joinrequest.config.json": 6,
         "keybindingsmenu.config.json": 51,
         "merchant.config.json": 2,
         "multiplayer.config.json": 5,
@@ -1208,6 +1209,9 @@
               },
               "doomcannon": {
                 "doomcannon.activeitem.json": 1
+              },
+              "gluesprayer": {
+                "gluesprayer.activeitem.json": 2
               },
               "neolaserlauncher": {
                 "neolaserlauncher.activeitem.json": 2
@@ -3778,10 +3782,11 @@
         "mirror.matitem.json": 1,
         "modernplatform.matitem.json": 1,
         "petalblock.matitem.json": 1,
+        "polygonplatform.matitem.json": 1,
         "pressurisedbeam.matitem.json": 1,
-        "pressurisedplatform.matitem.json": 1,
         "rock14.matitem.json": 1,
         "sand2.matitem.json": 1,
+        "shared_platform.matitem.json": 1,
         "slopedscrappanel.matitem.json": 1,
         "temple1.matitem.json": 1,
         "temple2.matitem.json": 1,
@@ -3825,13 +3830,15 @@
         "paperplane.thrownitem.json": 2,
         "petball.thrownitem.json": 2,
         "shared_.thrownitem.json": 1,
+        "shared_ngrenade.thrownitem.json": 1,
         "snowball.thrownitem.json": 2,
         "snowballgigantic.thrownitem.json": 2,
         "snowballlarge.thrownitem.json": 2,
         "snowballmedium.thrownitem.json": 2,
         "snowflakeshuriken.thrownitem.json": 2,
+        "stungrenade.thrownitem.json": 1,
         "tarball.thrownitem.json": 2,
-        "thorngrenade.thrownitem.json": 2,
+        "thorngrenade.thrownitem.json": 1,
         "throwingaxe.thrownitem.json": 2,
         "throwingblock.thrownitem.json": 1,
         "throwingbones.thrownitem.json": 2,
@@ -4041,8 +4048,7 @@
       "shared_silverblock.mat.json": 5,
       "shared_silverscrew.mat.json": 5,
       "shared_slime.mat.json": 5,
-      "shared_sloped.json": 1,
-      "shared_slopedhullpanel.mat.json": 4,
+      "shared_slopedhullpanel.mat.json": 5,
       "shared_slopedinsetpanel.mat.json": 5,
       "shared_slopedrustypanel.mat.json": 5,
       "shared_slopedscrappanel.mat.json": 4,
@@ -4105,6 +4111,9 @@
         },
         "guardianboss": {
           "shared_guardianboss.monstertype.json": 1
+        },
+        "guardianminion": {
+          "shared_minion.monstertype.json": 1
         },
         "ophanim": {
           "ophanim.monstertype.json": 1
@@ -4176,14 +4185,6 @@
         },
         "swarpion": {
           "swarpion.monstertype.json": 2
-        }
-      },
-      "events": {
-        "envprobe": {
-          "envprobe.monstertype.json": 2
-        },
-        "ruinportal": {
-          "ruinportal.monstertype.json": 1
         }
       },
       "farming": {
@@ -4381,7 +4382,7 @@
           "scandroid.monstertype.json": 2
         },
         "tentaclebomb": {
-          "tentaclebomb.monstertype.json": 1
+          "tentaclebomb.monstertype.json": 2
         },
         "tentaclegnat": {
           "tentaclegnat.monstertype.json": 1
@@ -4513,7 +4514,7 @@
           "moontant.monstertype.json": 2
         }
       },
-      "shared_.monstertype.json": 3,
+      "shared_.monstertype.json": 1,
       "space": {
         "astrofae": {
           "astrofae.monstertype.json": 2
@@ -4757,15 +4758,12 @@
           "shared_guard.npctype.json": 7
         }
       },
-      "events": {
-        "rivalbountyhunter.npctype.json": 6,
-        "spacecheesemerchant.npctype.json": 10
-      },
       "follower.npctype.json": 6,
       "friendlyguard.npctype.json": 25,
       "furniture": {
         "astronaut.npctype.json": 10,
         "cabin.npctype.json": 10,
+        "egyptian.npctype.json": 4,
         "farm.npctype.json": 10,
         "gothic.npctype.json": 10,
         "island.npctype.json": 10,
@@ -7573,7 +7571,13 @@
       },
       "bounty": {
         "scanclue1": {
-          "scanclue1.object.json": 9
+          "scanclue1.object.json": 1
+        },
+        "scanclue2": {
+          "scanclue2.object.json": 1
+        },
+        "shared_scanclue": {
+          "shared_scanclue.json": 8
         }
       },
       "bugs": {
@@ -7892,11 +7896,6 @@
         },
         "shared_cultistairlock": {
           "shared_cultistairlock.json": 1
-        }
-      },
-      "events": {
-        "extractordrill": {
-          "extractordrill.object.json": 2
         }
       },
       "farmables": {
@@ -9046,7 +9045,7 @@
           "woodenstand2.object.json": 4
         },
         "woodentalllantern": {
-          "woodentalllantern.object.json": 9
+          "woodentalllantern.object.json": 2
         },
         "woodstool": {
           "woodstool.object.json": 8
@@ -12401,6 +12400,9 @@
           "egyptiancrest": {
             "egyptiancrest.object.json": 9
           },
+          "egyptianlamp": {
+            "egyptianlamp.object.json": 2
+          },
           "egyptianpillar": {
             "egyptianpillar.object.json": 9
           },
@@ -13054,7 +13056,7 @@
         }
       }
     },
-    "objects.json": 22,
+    "objects.json": 29,
     "particles": {
       "0.particle.json": 1,
       "1.particle.json": 1,
@@ -13518,18 +13520,15 @@
         "capture_ship_bounty.questtemplate.json": 2,
         "capture_space_bounty.questtemplate.json": 1,
         "clue_bounties.config.json": 45,
-        "clue_items.config.json": 61,
+        "clue_items.config.json": 68,
         "clue_npcs.config.json": 96,
         "clue_objects.config.json": 34,
         "clue_scans.config.json": 6,
         "find_clue_item.questtemplate.json": 2,
         "find_clue_scan.questtemplate.json": 1,
         "generator.config.json": 11,
-        "kill_bounty_monster.questtemplate.json": 1,
-        "pre_bounty_alive.questtemplate.json": 1,
+        "pre_bounty.questtemplate.json": 1,
         "pre_bounty_capstone.questtemplate.json": 1,
-        "pre_bounty_dead.questtemplate.json": 1,
-        "pre_bounty_doa.questtemplate.json": 1,
         "pre_bounty_minor_monster.questtemplate.json": 3,
         "pre_bounty_minor_npc.questtemplate.json": 1,
         "scan_planets.questtemplate.json": 1,
@@ -13720,9 +13719,8 @@
     "shared_outpostplatform.mat.json": 5,
     "shared_plantplatform.mat.json": 5,
     "shared_platform.json": 2,
-    "shared_platform.mat.json": 3,
+    "shared_platform.mat.json": 7,
     "shared_platform2.mat.json": 2,
-    "shared_pressurisedplatform.mat.json": 4,
     "shared_protectorateflower.json": 1,
     "shared_protectorateplatform.mat.json": 5,
     "shared_ruinsplatform.mat.json": 5,
@@ -13902,12 +13900,6 @@
         "ufobeamstun": {
           "ufobeamstun.statuseffect.json": 1
         },
-        "wanted": {
-          "wanted1.statuseffect.json": 1,
-          "wanted2.statuseffect.json": 1,
-          "wanted3.statuseffect.json": 1,
-          "wanted4.statuseffect.json": 1
-        },
         "weakpoison": {
           "weakpoison.statuseffect.json": 1
         },
@@ -13956,7 +13948,7 @@
         "rainbowwood.material.json": 4,
         "rock14.material.json": 1,
         "sand2.material.json": 1,
-        "slopedpolygon.material.json": 3,
+        "slopedpolygon.material.json": 4,
         "slopedscrappanel.material.json": 1,
         "temple1.material.json": 1,
         "temple2.material.json": 1,
@@ -14028,7 +14020,7 @@
         "copperladder.material.json": 1,
         "modernplatform.material.json": 1,
         "platform2.material.json": 1,
-        "pressurisedplatform.material.json": 1,
+        "shared_platform.material.json": 1,
         "tribalplatform.material.json": 1,
         "woodenplatform.material.json": 4,
         "wreckplatform.material.json": 1
