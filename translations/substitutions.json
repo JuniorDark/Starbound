@@ -257,6 +257,10 @@
     "/flee/hylotl/default/4": "texts/wide_spread_fields.json"
   },
   "dialog/bountytarget.config": {
+    "/attack/apex/default/6": "texts/shared_bounty.json",
+    "/attack/avian/default/6": "texts/shared_bounty.json",
+    "/attack/default/default/7": "texts/shared_bounty.json",
+    "/attack/hylotl/default/7": "texts/shared_bounty.json",
     "/completeArrest/apex/default/2": "texts/wide_spread_fields.json",
     "/completeArrest/hylotl/default/6": "texts/wide_spread_fields.json"
   },
@@ -3976,6 +3980,16 @@
   "npcs/bounty/bountytarget.npctype": {
     "/scriptConfig/behaviorConfig/bribeCancel": "texts/wide_spread_fields.json",
     "/scriptConfig/behaviorConfig/bribeOk": "texts/wide_spread_fields.json"
+  },
+  "npcs/bounty/ignobletarget.npctype": {
+    "/scriptConfig/dialog/attack/default/default/0": "texts/shared_bounty.json",
+    "/scriptConfig/dialog/killedTarget/default/default/0": "texts/npcs/bounty/shared_.npctype.json",
+    "/scriptConfig/dialog/lostTarget/default/default/0": "texts/npcs/bounty/shared_.npctype.json"
+  },
+  "npcs/bounty/nobleclue.npctype": {
+    "/npcname": "texts/wide_spread_fields.json",
+    "/scriptConfig/dialog/killedTarget/default/default/0": "texts/npcs/bounty/shared_.npctype.json",
+    "/scriptConfig/dialog/lostTarget/default/default/0": "texts/npcs/bounty/shared_.npctype.json"
   },
   "npcs/crew/crewmember.npctype": {
     "/scriptConfig/crew/role/field": "texts/npcs/crew/shared_crewmember.json",
@@ -16560,6 +16574,8 @@
     "/scriptConfig/generatedText/text/default/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/default/1": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/default/2": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/generatedText/text/prev/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/generatedText/text/prev/1": "texts/quests/bounty/shared_.questtemplate.json",
     "/text": "texts/quests/bounty/shared_.questtemplate.json",
     "/title": "texts/quests/bounty/shared_.questtemplate.json"
   },
@@ -16642,6 +16658,18 @@
     "/scriptConfig/generatedText/text/default/2": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/prev/0": "texts/quests/bounty/shared_find_space_clue_.json",
     "/scriptConfig/generatedText/text/prev/1": "texts/quests/bounty/shared_find_space_clue_.json",
+    "/text": "texts/quests/bounty/shared_.questtemplate.json",
+    "/title": "texts/quests/bounty/shared_.questtemplate.json"
+  },
+  "quests/bounty/find_tutorial_clues.questtemplate": {
+    "/completionText": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/generatedText/failureText/default/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/generatedText/failureText/default/1": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/generatedText/text/default/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/generatedText/text/default/1": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/generatedText/text/default/2": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/generatedText/text/prev/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/generatedText/text/prev/1": "texts/quests/bounty/shared_.questtemplate.json",
     "/text": "texts/quests/bounty/shared_.questtemplate.json",
     "/title": "texts/quests/bounty/shared_.questtemplate.json"
   },
@@ -17351,7 +17379,9 @@
   "radiomessages/bounty.radiomessages": {
     "/approachingbounty/senderName": "texts/wide_spread_fields.json",
     "/approachingclue/senderName": "texts/wide_spread_fields.json",
-    "/exploreclueplanet/senderName": "texts/wide_spread_fields.json"
+    "/exploreclueplanet/senderName": "texts/wide_spread_fields.json",
+    "/tutorialapproachclue/senderName": "texts/wide_spread_fields.json",
+    "/tutorialexplore/senderName": "texts/wide_spread_fields.json"
   },
   "radiomessages/missions.radiomessages": {
     "/avianmission04/senderName": "texts/wide_spread_fields.json",

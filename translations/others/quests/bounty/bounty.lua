@@ -47,7 +47,7 @@ function init()
       storage.scanObjects = copyArray(util.filter(storage.scanObjects, function(n) return n ~= objectName end))
     end
     if self.scanClue and objectName == self.scanClue then
-      return nextStage()
+      storage.event["scannedClue"] = true
     end
   end)
   message.setHandler("interestingObjects", function(...)
@@ -76,6 +76,8 @@ function init()
   self.defaultSkipMessages = {
     "Você conseguiu descobrir isso sem uma pista? Bom trabalho!"
   }
+  
+  self.playingMusic = true
 
   self.managerPosition = nil
 
@@ -182,6 +184,13 @@ function onQuestWorld()
   return player.worldId() == quest.worldId() and player.serverUuid() == quest.serverUuid()
 end
 
+function stopMusic()
+  if self.playingMusic then
+    world.sendEntityMessage(player.id(), "stopAltMusic")
+    self.playingMusic = false
+  end
+end
+
 function questStart()
   local associatedMission = config.getParameter("associatedMission")
   if associatedMission then
@@ -191,6 +200,8 @@ function questStart()
 end
 
 function questComplete()
+  stopMusic()
+  
   quest.setWorldId(nil)
   quest.setLocation(nil)
 
@@ -228,6 +239,8 @@ function questComplete()
 end
 
 function questFail(abandoned)
+  stopMusic()
+
   modifyQuestEvents("Fracassada", 0, 0, 0)
 
   if questInvolvesWorld() then
@@ -324,6 +337,10 @@ function previousStage()
 end
 
 function setStage(i)
+  if storage.stage ~= i then
+    stopMusic()
+  end
+  
   storage.stage = i
   
   self.onInteract = nil
@@ -339,7 +356,7 @@ function setText()
   self.bountyName = tags["bounty.name"]
   local title
   if self.bountyType == "major" then
-    title = sb.replaceTags("^orange;Procurado: ^green;<bounty.name>", tags)
+    title = sb.replaceTags("^orange;Procurado(a): ^green;<bounty.name>", tags)
   else
     title = sb.replaceTags("^orange;Menor: ^green;<bounty.name>", tags)
   end

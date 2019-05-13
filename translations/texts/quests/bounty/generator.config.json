@@ -3,6 +3,28 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/bounty/generator.config": [
+        "/edges/27/next/text/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "--TODO-- I can't believe it, partner! You took Captain Ignoble down. Such a strong fella he was, too! ^orange;Return to the peacekeeper station^reset; for a new assignment."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/generator.config": [
+        "/edges/27/prev/text/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "--TODO-- Nice work findin' all those clues, partner! You have enough info to track down the rowdy ^green;Captain Ignoble^reset; now!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/generator.config": [
         "/edges/13/prev/text/skipMessage"
       ]
     },
@@ -63,18 +85,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/bounty/generator.config": [
-        "/steps/capture_bounty/message"
-      ]
-    },
-    "Texts": {
-      "Eng": "Nice work takin' down that criminal, partner!",
-      "Por": "Bom trabalho derrubando aquele criminoso, parceiro(a)!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/bounty/generator.config": [
         "/edges/14/prev/text/skipMessage"
       ]
     },
@@ -99,7 +109,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/bounty/generator.config": [
-        "/edges/28/prev/text/message"
+        "/edges/29/prev/text/message"
       ]
     },
     "Texts": {
@@ -111,9 +121,9 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/bounty/generator.config": [
-        "/edges/29/prev/text/message",
         "/edges/30/prev/text/message",
-        "/edges/31/prev/text/message"
+        "/edges/31/prev/text/message",
+        "/edges/32/prev/text/message"
       ]
     },
     "Texts": {
@@ -125,7 +135,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/bounty/generator.config": [
-        "/edges/32/prev/text/message"
+        "/edges/33/prev/text/message"
       ]
     },
     "Texts": {

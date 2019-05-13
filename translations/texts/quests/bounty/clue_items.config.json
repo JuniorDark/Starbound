@@ -3,6 +3,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/bounty/clue_items.config": [
+        "/papernote/tutorial/0/parameters/noteText"
+      ]
+    },
+    "Texts": {
+      "Eng": "--TODO--\n\nHowdy Peacekeeper,\n\nI regret to inform you that I, ^green;Captain Ignoble^reset;, am no longer residing in this particular residence.\n\n I've set up camp somwhere else <next.coordinate.preposition> <next.coordinate.name>.\n\nFind me if you can!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_items.config": [
         "/audiodisc/planetClue/3/message"
       ]
     },

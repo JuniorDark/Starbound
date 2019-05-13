@@ -72,8 +72,10 @@
       "quests/bounty/clue_scans.config": [
         "/scanclue1/planetClue/description",
         "/scanclue1/spaceBounty/description",
+        "/scanclue1/tutorial/description",
         "/scanclue2/planetClue/description",
-        "/scanclue2/spaceBounty/description"
+        "/scanclue2/spaceBounty/description",
+        "/scanclue2/tutorial/description"
       ]
     },
     "Texts": {

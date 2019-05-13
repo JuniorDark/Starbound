@@ -85,6 +85,9 @@
       ],
       "quests/bounty/find_space_clue_scan.questtemplate": [
         "/text"
+      ],
+      "quests/bounty/find_tutorial_clues.questtemplate": [
+        "/text"
       ]
     },
     "Texts": {
@@ -111,6 +114,9 @@
         "/scriptConfig/generatedText/failureText/default/1"
       ],
       "quests/bounty/find_space_clue_scan.questtemplate": [
+        "/scriptConfig/generatedText/failureText/default/1"
+      ],
+      "quests/bounty/find_tutorial_clues.questtemplate": [
         "/scriptConfig/generatedText/failureText/default/1"
       ]
     },
@@ -186,6 +192,9 @@
         "/scriptConfig/generatedText/failureText/default/0"
       ],
       "quests/bounty/find_space_clue_scan.questtemplate": [
+        "/scriptConfig/generatedText/failureText/default/0"
+      ],
+      "quests/bounty/find_tutorial_clues.questtemplate": [
         "/scriptConfig/generatedText/failureText/default/0"
       ]
     },
@@ -293,6 +302,9 @@
       ],
       "quests/bounty/find_space_clue_object.questtemplate": [
         "/completionText"
+      ],
+      "quests/bounty/find_tutorial_clues.questtemplate": [
+        "/completionText"
       ]
     },
     "Texts": {
@@ -337,6 +349,36 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/bounty/find_clue_item.questtemplate": [
+        "/scriptConfig/generatedText/text/prev/0"
+      ],
+      "quests/bounty/find_tutorial_clues.questtemplate": [
+        "/scriptConfig/generatedText/text/prev/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;<prev.coordinate.name>^reset;:\nA clue I found here has led me to <coordinate.name>.\n\n",
+      "Por": "^green;<prev.coordinate.name>^reset;:\nUma pista que encontrei aqui me levou a <coordinate.name>.\n\n"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/find_clue_item.questtemplate": [
+        "/scriptConfig/generatedText/text/prev/1"
+      ],
+      "quests/bounty/find_tutorial_clues.questtemplate": [
+        "/scriptConfig/generatedText/text/prev/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;<prev.coordinate.name>^reset;:\nI discovered a lead here that takes me to <coordinate.name>.\n\n",
+      "Por": "^green;<prev.coordinate.name>^reset;:\nEu descobri uma pista aqui que me leva a <coordinate.name>.\n\n"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/find_clue_item.questtemplate": [
         "/scriptConfig/generatedText/text/default/0"
       ],
       "quests/bounty/find_clue_npc.questtemplate": [
@@ -358,6 +400,9 @@
         "/scriptConfig/generatedText/text/default/0"
       ],
       "quests/bounty/find_space_clue_scan.questtemplate": [
+        "/scriptConfig/generatedText/text/default/0"
+      ],
+      "quests/bounty/find_tutorial_clues.questtemplate": [
         "/scriptConfig/generatedText/text/default/0"
       ]
     },
@@ -389,6 +434,9 @@
       ],
       "quests/bounty/find_space_clue_scan.questtemplate": [
         "/scriptConfig/generatedText/text/default/1"
+      ],
+      "quests/bounty/find_tutorial_clues.questtemplate": [
+        "/scriptConfig/generatedText/text/default/1"
       ]
     },
     "Texts": {
@@ -418,6 +466,9 @@
         "/scriptConfig/generatedText/text/default/2"
       ],
       "quests/bounty/find_space_clue_scan.questtemplate": [
+        "/scriptConfig/generatedText/text/default/2"
+      ],
+      "quests/bounty/find_tutorial_clues.questtemplate": [
         "/scriptConfig/generatedText/text/default/2"
       ]
     },
@@ -466,6 +517,9 @@
         "/title"
       ],
       "quests/bounty/find_space_clue_scan.questtemplate": [
+        "/title"
+      ],
+      "quests/bounty/find_tutorial_clues.questtemplate": [
         "/title"
       ],
       "quests/bounty/scan_planets.questtemplate": [

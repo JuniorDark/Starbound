@@ -27,12 +27,34 @@
     "DeniedAlternatives": [],
     "Files": {
       "radiomessages/bounty.radiomessages": [
+        "/tutorialexplore/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The target could be anywhere on this planet, even underground! ^green;Explore^reset; the planet until we pick up the ^orange;target signature^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/bounty.radiomessages": [
         "/exploreclueplanet/text"
       ]
     },
     "Texts": {
       "Eng": "We know the target has been here recently. ^orange;Search^reset; for clues. Don't know where to start? Trust your instincts, partner!",
       "Por": "Sabemos que o alvo esteve aqui recentemente. ^orange;Procure^reset; por pistas. Não sabe por onde começar? Confie em seus instintos, parceiro(a)!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/bounty.radiomessages": [
+        "/tutorialapproachclue/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "We've picked up the ^orange;target signature^reset;. Track your bounty and the ^green;compass^reset; will show you the direction!"
     }
   }
 ]

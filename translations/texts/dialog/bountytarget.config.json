@@ -179,21 +179,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/bountytarget.config": [
-        "/attack/apex/default/6",
-        "/attack/avian/default/6",
-        "/attack/default/default/7",
-        "/attack/hylotl/default/7"
-      ]
-    },
-    "Texts": {
-      "Eng": "Can you stand against the might of the ^orange;<gangName>^reset;?",
-      "Por": "Você pode enfrentar o poder da ^orange;<gangName>^reset;?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "dialog/bountytarget.config": [
         "/completeArrest/glitch/default/7"
       ]
     },

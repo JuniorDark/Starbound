@@ -747,13 +747,18 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "npcs/bounty/nobleclue.npctype": [
+        "/npcname"
+      ],
       "npcs/outpost/captainnoble.npctype": [
         "/npcname"
       ],
       "radiomessages/bounty.radiomessages": [
         "/approachingbounty/senderName",
         "/approachingclue/senderName",
-        "/exploreclueplanet/senderName"
+        "/exploreclueplanet/senderName",
+        "/tutorialapproachclue/senderName",
+        "/tutorialexplore/senderName"
       ],
       "radiomessages/missions.radiomessages": [
         "/cultistmission01b/senderName",

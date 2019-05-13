@@ -39,6 +39,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/bounty/clue_objects.config": [
+        "/darkcomputer/tutorial/dialog"
+      ]
+    },
+    "Texts": {
+      "Eng": "<bounty.name> is [LOCATED] on [PLANET] ^green;<next.coordinate.name>^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/clue_objects.config": [
         "/apexconsole1/spaceClue/dialog",
         "/bunkerconsole2/spaceClue/dialog",
         "/industrialcomputer/spaceClue/dialog",
