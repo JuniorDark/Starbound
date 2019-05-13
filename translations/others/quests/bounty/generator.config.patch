@@ -1,8 +1,8 @@
 [
   {
     "op": "replace",
-    "path": "/steps/capture_bounty/message",
-    "value": "Bom trabalho derrubando aquele criminoso, parceiro(a)!"
+    "path": "/steps/tutorial_bounty/spawns/bounty/npc/parameters/scriptConfig/gang/name",
+    "value": "Desordeiros Perturbadores da Paz"
   },
   {
     "op": "replace",
@@ -56,27 +56,37 @@
   },
   {
     "op": "replace",
-    "path": "/edges/28/prev/text/message",
-    "value": "Nós pegamos sinais do alvo deste planeta. Prossiga para <next.coordinate.name> e prenda o criminoso."
+    "path": "/edges/27/prev/text/message",
+    "value": "--TODO-- Bom trabalho encontrando todas essas pistas, parceiro(a)! Você tem informações suficientes para rastrear o desordeiro ^green;Capitão Ignoble^reset; agora!"
+  },
+  {
+    "op": "replace",
+    "path": "/edges/27/next/text/message",
+    "value": "--TODO-- Não posso acreditar, parceiro(a)! Você derrubou o Capitão Ignoble. Que sujeito forte que ele era! ^orange;Retorne à estação pacificadora^reset; para uma nova tarefa."
   },
   {
     "op": "replace",
     "path": "/edges/29/prev/text/message",
-    "value": "Nós pegamos sinais do alvo deste planeta. Prossiga para <next.coordinate.name> para investigar mais."
+    "value": "Nós pegamos a assinatura do alvo deste planeta. Prossiga para <next.coordinate.name> e prenda o criminoso."
   },
   {
     "op": "replace",
     "path": "/edges/30/prev/text/message",
-    "value": "Nós pegamos sinais do alvo deste planeta. Prossiga para <next.coordinate.name> para investigar mais."
+    "value": "Nós pegamos a assinatura do alvo deste planeta. Prossiga para <next.coordinate.name> para investigar mais."
   },
   {
     "op": "replace",
     "path": "/edges/31/prev/text/message",
-    "value": "Nós pegamos sinais do alvo deste planeta. Prossiga para <next.coordinate.name> para investigar mais."
+    "value": "Nós pegamos a assinatura do alvo deste planeta. Prossiga para <next.coordinate.name> para investigar mais."
   },
   {
     "op": "replace",
     "path": "/edges/32/prev/text/message",
-    "value": "Nós pegamos sinais do alvo deste planeta. Prossiga para <next.coordinate.name> para investigar mais."
+    "value": "Nós pegamos a assinatura do alvo deste planeta. Prossiga para <next.coordinate.name> para investigar mais."
+  },
+  {
+    "op": "replace",
+    "path": "/edges/33/prev/text/message",
+    "value": "Nós pegamos a assinatura do alvo deste planeta. Prossiga para <next.coordinate.name> para investigar mais."
   }
 ]

@@ -1,6 +1,11 @@
 [
   {
     "op": "replace",
+    "path": "/scanclue1/tutorial/description",
+    "value": "^#60b8ea;[RASTREIO DE SINAL COMPLETO: ^yellow;ENVIANDO COORDENADAS^#60b8ea;]"
+  },
+  {
+    "op": "replace",
     "path": "/scanclue1/planetClue/description",
     "value": "^#60b8ea;[RASTREIO DE SINAL COMPLETO: ^yellow;ENVIANDO COORDENADAS^#60b8ea;]"
   },
@@ -38,6 +43,11 @@
     "op": "replace",
     "path": "/scanclue1/spaceBounty/message",
     "value": "Seu ^orange;Manipulador de Matéria^white; rastreou o sinal de <bounty.name>! Parece levar a uma estação remota em <next.coordinate.systemName>!"
+  },
+  {
+    "op": "replace",
+    "path": "/scanclue2/tutorial/description",
+    "value": "^#60b8ea;[RASTREIO DE SINAL COMPLETO: ^yellow;ENVIANDO COORDENADAS^#60b8ea;]"
   },
   {
     "op": "replace",

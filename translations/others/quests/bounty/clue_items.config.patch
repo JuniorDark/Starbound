@@ -631,6 +631,11 @@
   },
   {
     "op": "replace",
+    "path": "/papernote/tutorial/0/parameters/noteText",
+    "value": "--TODO--\n\nOlá Pacificador,\n\nLamento informar que eu, ^green;Capitão Ignoble^reset;, já não resido nesta residência particular.\n\n Eu montei um acampamento em outro lugar em <next.coordinate.name>.\n\nEncontre-me se puder!"
+  },
+  {
+    "op": "replace",
     "path": "/papernote/diversion/0/parameters/noteText",
     "value": "Lacaio,\n\nAs mercadorias estão agora em <next.coordinate.name>.\nCertifique-se de que você não está sendo seguido.\n\nSaudações,\n<bounty.name>"
   },
@@ -877,7 +882,7 @@
   {
     "op": "replace",
     "path": "/papernote/decoy/0/message",
-    "value": "Droga, eles nos enganaram E escreveram um boletim informativo sobre isso! Melhor voltar para a sua localização anterior, parceiro(a)!"
+    "value": "Droga, eles nos enganaram e escreveram um boletim informativo sobre isso! Melhor voltar para a sua localização anterior, parceiro(a)!"
   },
   {
     "op": "replace",
