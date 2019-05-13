@@ -32,7 +32,7 @@
     },
     "Texts": {
       "Eng": "<bounty.name> is [LOCATED] in [SYSTEM] ^green;<next.coordinate.systemName>^reset;",
-      "Por": "<bounty.name> esta [LOCALIZADO] no [SISTEMA] ^green;<next.coordinate.systemName>^reset;"
+      "Por": "<bounty.name> está [LOCALIZADO] no [SISTEMA] ^green;<next.coordinate.systemName>^reset;"
     }
   },
   {
@@ -43,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "<bounty.name> is [LOCATED] on [PLANET] ^green;<next.coordinate.name>^reset;"
+      "Eng": "<bounty.name> is [LOCATED] on [PLANET] ^green;<next.coordinate.name>^reset;",
+      "Por": "<bounty.name> está [LOCALIZADO] no [PLANETA] ^green;<next.coordinate.name>^reset;"
     }
   },
   {
