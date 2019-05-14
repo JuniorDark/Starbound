@@ -175,7 +175,9 @@ function questInvolvesWorld()
         }
         return sb.replaceTags(location.worldId or quest.worldId() or "", tags)
       end)
-    return contains(locationWorlds, player.worldId())
+    if contains(locationWorlds, player.worldId()) then
+      return true
+    end
   end
   return onQuestWorld()
 end
@@ -201,9 +203,6 @@ end
 
 function questComplete()
   stopMusic()
-  
-  quest.setWorldId(nil)
-  quest.setLocation(nil)
 
   local quests = quest.questArcDescriptor().quests
   -- rewards on last step of the chain
@@ -225,7 +224,8 @@ function questComplete()
   end
 
   if questInvolvesWorld() then
-    world.sendEntityMessage(quest.questArcDescriptor().stagehandUniqueId, "playerComplete", player.uniqueId(), quest.questId())
+    sb.logInfo("Send playerCompleted message")
+    world.sendEntityMessage(quest.questArcDescriptor().stagehandUniqueId, "playerCompleted", player.uniqueId(), quest.questId())
   end
 
   if self.bountyType == "major" then

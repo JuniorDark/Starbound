@@ -16,18 +16,33 @@
   },
   {
     "op": "replace",
+    "path": "/gui/summaryOverlay/children/lblCreditsHeader/value",
+    "value": "Créditos"
+  },
+  {
+    "op": "replace",
     "path": "/gui/summaryOverlay/children/lblNameList/value",
     "value": "Nome"
   },
   {
     "op": "replace",
+    "path": "/gui/summaryOverlay/children/lblCreditsList/value",
+    "value": "Créditos"
+  },
+  {
+    "op": "replace",
     "path": "/gui/lblOtherAssignment/value",
-    "value": "Você está designado para outro Departamento Pacificador."
+    "value": "Você está designado para outro Departamento de Pacificador."
   },
   {
     "op": "replace",
     "path": "/assignmentFormat",
-    "value": "Investigue a ^yellow;<gangName>^reset; perto de ^cyan;<systemName>"
+    "value": "Investigue o(a) ^yellow;<gangName>^reset; perto de ^cyan;<systemName>"
+  },
+  {
+    "op": "replace",
+    "path": "/missingAssignment",
+    "value": "Nenhuma tarefa de Pacificador encontrada"
   },
   {
     "op": "replace",
@@ -73,6 +88,21 @@
     "op": "replace",
     "path": "/finalAssignment/gang/name",
     "value": "Culto Apocalíptico Occasus"
+  },
+  {
+    "op": "replace",
+    "path": "/tutorialAssignment/description",
+    "value": "Rank I: Caçador Esperançoso"
+  },
+  {
+    "op": "replace",
+    "path": "/tutorialAssignment/gang/name",
+    "value": "Desordeiros Perturbadores da Paz"
+  },
+  {
+    "op": "replace",
+    "path": "/bountyTypes/tutorialCapstone/questConfig/target/name",
+    "value": "Capitão Ignoble"
   },
   {
     "op": "replace",
