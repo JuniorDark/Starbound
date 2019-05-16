@@ -27,6 +27,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/bounty/clue_objects.config": [
+        "/astroconsole/spaceBounty/dialog",
         "/darkcomputer/spaceBounty/dialog"
       ]
     },
@@ -39,6 +40,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/bounty/clue_objects.config": [
+        "/astroconsole/tutorial/dialog",
         "/darkcomputer/tutorial/dialog"
       ]
     },
@@ -87,6 +89,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/bounty/clue_objects.config": [
+        "/astroconsole/spaceClue/dialog",
         "/darkcomputer/spaceClue/dialog"
       ]
     },
@@ -210,6 +213,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/bounty/clue_objects.config": [
+        "/astroconsole/planetBounty/dialog",
         "/darkcomputer/planetBounty/dialog"
       ]
     },
@@ -262,6 +266,7 @@
     "Files": {
       "quests/bounty/clue_objects.config": [
         "/apexconsole1/vaultClue/message",
+        "/astroconsole/vaultClue/message",
         "/darkcomputer/vaultClue/message",
         "/lunarbaseconsole/vaultClue/message",
         "/officecomputer/vaultClue/message",
@@ -305,6 +310,7 @@
     "Files": {
       "quests/bounty/clue_objects.config": [
         "/apexconsole1/spaceBounty/message",
+        "/astroconsole/spaceBounty/message",
         "/bunkerconsole2/spaceBounty/message",
         "/darkcomputer/spaceBounty/message",
         "/industrialcomputer/spaceBounty/message",
@@ -342,6 +348,7 @@
     "Files": {
       "quests/bounty/clue_objects.config": [
         "/apexconsole1/spaceClue/message",
+        "/astroconsole/spaceClue/message",
         "/darkcomputer/spaceClue/message",
         "/industrialcomputer/spaceClue/message",
         "/industrialdisplay/spaceClue/message",
@@ -377,6 +384,7 @@
     "Files": {
       "quests/bounty/clue_objects.config": [
         "/apexconsole1/planetBounty/message",
+        "/astroconsole/planetBounty/message",
         "/darkcomputer/planetBounty/message",
         "/industrialcomputer/planetBounty/message",
         "/industrialdisplay/planetBounty/message",
@@ -449,6 +457,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/bounty/clue_objects.config": [
+        "/astroconsole/planetClue/dialog",
         "/darkcomputer/planetClue/dialog"
       ]
     },
@@ -461,6 +470,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/bounty/clue_objects.config": [
+        "/astroconsole/vaultClue/dialog",
         "/darkcomputer/vaultClue/dialog"
       ]
     },
@@ -486,6 +496,7 @@
     "Files": {
       "quests/bounty/clue_objects.config": [
         "/apexconsole1/planetClue/message",
+        "/astroconsole/planetClue/message",
         "/bunkerconsole2/planetClue/message",
         "/darkcomputer/planetClue/message",
         "/officecomputer/planetClue/message",

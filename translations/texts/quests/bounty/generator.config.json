@@ -3,7 +3,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/bounty/generator.config": [
-        "/edges/27/next/text/message"
+        "/edges/28/next/text/message"
       ]
     },
     "Texts": {
@@ -15,7 +15,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/bounty/generator.config": [
-        "/edges/27/prev/text/message"
+        "/edges/28/prev/text/message"
       ]
     },
     "Texts": {
@@ -27,7 +27,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/bounty/generator.config": [
-        "/edges/13/prev/text/skipMessage"
+        "/edges/14/prev/text/skipMessage"
       ]
     },
     "Texts": {
@@ -39,7 +39,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/bounty/generator.config": [
-        "/edges/10/prev/text/skipMessage"
+        "/edges/11/prev/text/skipMessage"
       ]
     },
     "Texts": {
@@ -51,7 +51,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/bounty/generator.config": [
-        "/edges/9/prev/text/skipMessage"
+        "/edges/10/prev/text/skipMessage"
       ]
     },
     "Texts": {
@@ -63,7 +63,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/bounty/generator.config": [
-        "/edges/17/mid/text/skipMessage"
+        "/edges/18/mid/text/skipMessage"
       ]
     },
     "Texts": {
@@ -75,7 +75,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/bounty/generator.config": [
-        "/edges/15/mid/text/skipMessage"
+        "/edges/16/mid/text/skipMessage"
       ]
     },
     "Texts": {
@@ -87,7 +87,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/bounty/generator.config": [
-        "/edges/14/prev/text/skipMessage"
+        "/edges/15/prev/text/skipMessage"
       ]
     },
     "Texts": {
@@ -99,7 +99,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/bounty/generator.config": [
-        "/edges/16/mid/text/skipMessage"
+        "/edges/17/mid/text/skipMessage"
       ]
     },
     "Texts": {
@@ -111,7 +111,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/bounty/generator.config": [
-        "/edges/29/prev/text/message"
+        "/edges/30/prev/text/message"
       ]
     },
     "Texts": {
@@ -123,9 +123,9 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/bounty/generator.config": [
-        "/edges/30/prev/text/message",
         "/edges/31/prev/text/message",
-        "/edges/32/prev/text/message"
+        "/edges/32/prev/text/message",
+        "/edges/33/prev/text/message"
       ]
     },
     "Texts": {
@@ -137,7 +137,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/bounty/generator.config": [
-        "/edges/33/prev/text/message"
+        "/edges/34/prev/text/message"
       ]
     },
     "Texts": {

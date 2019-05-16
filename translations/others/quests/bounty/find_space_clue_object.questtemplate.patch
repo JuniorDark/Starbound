@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/title",
-    "value": "^orange;Mate o procurado"
+    "value": "^orange;Mate o foragido"
   },
   {
     "op": "replace",
     "path": "/text",
-    "value": "Encontre uma pista para a localização do procurado"
+    "value": "Encontre uma pista para a localização do foragido"
   },
   {
     "op": "replace",
@@ -22,12 +22,12 @@
   {
     "op": "replace",
     "path": "/scriptConfig/objectives/findSpaceBountyStage/1",
-    "value": "^orange;Aproxime-se^reset; do ^green;Esconderijo Criminoso^reset;"
+    "value": "^orange;Aproxime-se^reset; do ^green;Esconderijo do Criminoso^reset;"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/objectives/findSpaceBountyStage/2",
-    "value": "^orange;Lance^reset; para o ^green;Esconderijo Criminoso^reset;"
+    "value": "^orange;Lance^reset; para o ^green;Esconderijo do Criminoso^reset;"
   },
   {
     "op": "replace",
@@ -37,7 +37,7 @@
   {
     "op": "replace",
     "path": "/scriptConfig/objectives/findClueObjectStage/1",
-    "value": "^orange;Investigue computadores^reset; por pistas"
+    "value": "^orange;Procure^reset; pistas"
   },
   {
     "op": "replace",
@@ -47,17 +47,17 @@
   {
     "op": "replace",
     "path": "/scriptConfig/generatedText/text/prev/1",
-    "value": "^green;<prev.coordinate.name>^reset;:\nMinhas habilidades de mestre de hackeamento me levaram a <coordinate.name>.\n\n"
+    "value": "^green;<prev.coordinate.name>^reset;:\nMinhas habilidades de hackeamento me levaram a <coordinate.name>.\n\n"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/generatedText/text/prev/2",
-    "value": "^green;<prev.coordinate.name>^reset;:\nMinhas habilidades avançadas de hackeamento me levaram a <coordinate.name>.\n\n"
+    "value": "^green;<prev.coordinate.name>^reset;:\nMinhas habilidades de hackeamento avançadas me levaram a <coordinate.name>.\n\n"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/generatedText/text/prev/3",
-    "value": "^green;<prev.coordinate.name>^reset;:\ninvadindo o banco de dados seguro do criminoso me deu a localização \"<coordinate.name>\".\n\n"
+    "value": "^green;<prev.coordinate.name>^reset;:\nInvadindo o banco de dados seguro do criminoso me deu a localização \"<coordinate.name>\".\n\n"
   },
   {
     "op": "replace",

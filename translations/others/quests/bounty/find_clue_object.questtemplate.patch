@@ -1,13 +1,23 @@
 [
   {
     "op": "replace",
+    "path": "/id",
+    "value": "find_clue_object"
+  },
+  {
+    "op": "replace",
     "path": "/title",
-    "value": "^orange;Mate o procurado"
+    "value": "^orange;Mate o foragido"
   },
   {
     "op": "replace",
     "path": "/text",
-    "value": "Encontre uma pista para a localização do procurado"
+    "value": "Encontre uma pista para a localização do foragido"
+  },
+  {
+    "op": "replace",
+    "path": "/parameters/clue/type",
+    "value": "item"
   },
   {
     "op": "replace",
@@ -16,18 +26,40 @@
   },
   {
     "op": "replace",
-    "path": "/scriptConfig/objectives/findWorldStage/0",
-    "value": "^orange;Viaje^reset; para ^green;%s^reset;"
+    "path": "/scriptConfig/stages/0",
+    "value": "findWorldStage"
   },
   {
     "op": "replace",
-    "path": "/scriptConfig/objectives/findClueObjectStage/0",
-    "value": "^orange;Procure^reset; no planeta por sinais do alvo"
+    "path": "/scriptConfig/stages/1",
+    "value": "findClueObjectStage"
   },
   {
-    "op": "replace",
-    "path": "/scriptConfig/objectives/findClueObjectStage/1",
-    "value": "^orange;Procure^reset; por pistas"
+    "op": "remove",
+    "path": "/scriptConfig/objectives/findSpaceBountyStage"
+  },
+  {
+    "op": "remove",
+    "path": "/scriptConfig/objectives/findClueScanStage"
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/objectives/findWorldStage",
+    "value": [
+      "^orange;Viaje^reset; para ^green;%s^reset;"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/objectives/findClueObjectStage",
+    "value": [
+      "^orange;Procure^reset; no planeta por sinais do alvo",
+      "^orange;Procure^reset; por pistas"
+    ]
+  },
+  {
+    "op": "remove",
+    "path": "/scriptConfig/generatedText/failureText"
   },
   {
     "op": "replace",
@@ -37,17 +69,17 @@
   {
     "op": "replace",
     "path": "/scriptConfig/generatedText/text/prev/1",
-    "value": "^green;<prev.coordinate.name>^reset;:\nMinhas habilidades de mestre de hackeamento me levaram a <coordinate.name>.\n\n"
+    "value": "^green;<prev.coordinate.name>^reset;:\nMinhas habilidades de hackeamento me levaram a <coordinate.name>.\n\n"
   },
   {
-    "op": "replace",
-    "path": "/scriptConfig/generatedText/text/prev/2",
-    "value": "^green;<prev.coordinate.name>^reset;:\nMinhas habilidades avançadas de hackeamento me levaram a <coordinate.name>.\n\n"
+    "op": "add",
+    "path": "/scriptConfig/generatedText/text/prev/-",
+    "value": "^green;<prev.coordinate.name>^reset;:\nMinhas habilidades de hackeamento avançadas me levaram a <coordinate.name>.\n\n"
   },
   {
-    "op": "replace",
-    "path": "/scriptConfig/generatedText/text/prev/3",
-    "value": "^green;<prev.coordinate.name>^reset;:\ninvadindo o banco de dados seguro do criminoso me deu a localização \"<coordinate.name>\".\n\n"
+    "op": "add",
+    "path": "/scriptConfig/generatedText/text/prev/-",
+    "value": "^green;<prev.coordinate.name>^reset;:\nInvadindo o banco de dados seguro do criminoso me deu a localização \"<coordinate.name>\".\n\n"
   },
   {
     "op": "replace",

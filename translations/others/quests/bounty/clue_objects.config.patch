@@ -677,7 +677,7 @@
   {
     "op": "replace",
     "path": "/darkcomputer/spaceClue/dialog",
-    "value": ">SISTEMA_DE_LOCALIZAÇÃO_DE_ESCONDERIJO: ^green;<next.coordinate.systemName>^reset;"
+    "value": ">LOCALIZAÇÃO_DO_ESCONDERIJO: ^green;<next.coordinate.systemName>^reset;"
   },
   {
     "op": "replace",
@@ -702,6 +702,61 @@
   {
     "op": "replace",
     "path": "/darkcomputer/vaultClue/message",
+    "value": "O código é <password>! É melhor você voltar para aquele cofre, parceiro(a)!"
+  },
+  {
+    "op": "replace",
+    "path": "/astroconsole/tutorial/dialog",
+    "value": "<bounty.name> está [LOCALIZADO] no [PLANETA] ^green;<next.coordinate.name>^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/astroconsole/planetClue/dialog",
+    "value": "[CONSULTA_DE_LOCALIZAÇÃO] COMPLETA: ^green;<next.coordinate.name>^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/astroconsole/planetClue/message",
+    "value": "^green;<next.coordinate.name>^reset;? Isso soa como uma dica muito boa se eu já ouvi uma!"
+  },
+  {
+    "op": "replace",
+    "path": "/astroconsole/planetBounty/dialog",
+    "value": ">USUÁRIO: ^green;<bounty.name>^reset; >LOCALIZAÇÃO: ^green;<next.coordinate.name>^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/astroconsole/planetBounty/message",
+    "value": "Você encontrou a localização do alvo? É melhor você ir até ^green;<next.coordinate.name>^reset;!"
+  },
+  {
+    "op": "replace",
+    "path": "/astroconsole/spaceClue/dialog",
+    "value": ">LOCALIZAÇÃO_DO_ESCONDERIJO: ^green;<next.coordinate.systemName>^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/astroconsole/spaceClue/message",
+    "value": "O alvo deve ter informações escondidas no sistema ^green;<next.coordinate.name>^reset;... A trilha ainda está quente!"
+  },
+  {
+    "op": "replace",
+    "path": "/astroconsole/spaceBounty/dialog",
+    "value": "<bounty.name> está [LOCALIZADO] no [SISTEMA] ^green;<next.coordinate.systemName>^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/astroconsole/spaceBounty/message",
+    "value": "O alvo está escondido em algum lugar no espaço em ^green;<next.coordinate.name>^reset;. Você sabe o que fazer, parceiro(a)!"
+  },
+  {
+    "op": "replace",
+    "path": "/astroconsole/vaultClue/dialog",
+    "value": "[BEM_VINDO_NOVO_USUÁRIO] O Código do Cofre em ^green;<next.coordinate.systemName>^reset; = ^green;<password>^reset; [BEEP BOOP]"
+  },
+  {
+    "op": "replace",
+    "path": "/astroconsole/vaultClue/message",
     "value": "O código é <password>! É melhor você voltar para aquele cofre, parceiro(a)!"
   }
 ]
