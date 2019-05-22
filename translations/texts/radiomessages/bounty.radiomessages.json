@@ -27,24 +27,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "radiomessages/bounty.radiomessages": [
-        "/tutorialexplore/text"
-      ]
-    },
-    "Texts": {
-      "Eng": "The target could be anywhere on this planet, even underground! ^green;Explore^reset; the planet until we pick up the ^orange;target signature^reset;",
-      "Por": "O alvo pode estar em qualquer lugar deste planeta, até no subsolo! ^green;Explore^reset; o planeta até pegarmos o ^orange;sinal do alvo^reset;"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "radiomessages/bounty.radiomessages": [
         "/exploreclueplanet/text"
       ]
     },
     "Texts": {
-      "Eng": "We know the target has been here recently. ^orange;Search^reset; for clues. Don't know where to start? Trust your instincts, partner!",
-      "Por": "Sabemos que o alvo esteve aqui recentemente. ^orange;Procure^reset; por pistas. Não sabe por onde começar? Confie em seus instintos, parceiro(a)!"
+      "Eng": "We know the target has been here recently. ^orange;Search^reset; for clues. Don't know where to start? Look around, partner!"
     }
   },
   {
@@ -55,8 +42,18 @@
       ]
     },
     "Texts": {
-      "Eng": "We've picked up the ^orange;target signature^reset;. Track your bounty and the ^green;compass^reset; will show you the direction!",
-      "Por": "Nós pegamos o ^orange;sinal do alvo^reset;. Rastreie sua missão e a ^green;bússola^reset; vai te mostrar a direção!"
+      "Eng": "We've picked up the ^orange;target signature^reset;! Your ^green;compass^reset; will show you the direction - follow it, partner!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/bounty.radiomessages": [
+        "/tutorialexplore/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Your target could be anywhere on this planet, even underground! ^green;Explore^reset; the planet until we pick up the ^orange;target's signature^reset;, partner!"
     }
   }
 ]

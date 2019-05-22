@@ -257,10 +257,6 @@
     "/flee/hylotl/default/4": "texts/wide_spread_fields.json"
   },
   "dialog/bountytarget.config": {
-    "/attack/apex/default/6": "texts/shared_bounty.json",
-    "/attack/avian/default/6": "texts/shared_bounty.json",
-    "/attack/default/default/7": "texts/shared_bounty.json",
-    "/attack/hylotl/default/7": "texts/shared_bounty.json",
     "/completeArrest/apex/default/2": "texts/wide_spread_fields.json",
     "/completeArrest/hylotl/default/6": "texts/wide_spread_fields.json"
   },
@@ -3786,10 +3782,41 @@
   "monsters/crawlers/crustoise/crustoise.monstertype": {
     "/description": "texts/monsters/crawlers/shared_.monstertype.json"
   },
+  "monsters/crawlers/crustoise/icecrustoise.monstertype": {
+    "/description": "texts/monsters/crawlers/shared_.monstertype.json"
+  },
+  "monsters/crawlers/iguarmor/iceiguarmor.monstertype": {
+    "/description": "texts/monsters/crawlers/iguarmor/shared_iguarmor.monstertype.json"
+  },
+  "monsters/crawlers/iguarmor/iguarmor.monstertype": {
+    "/description": "texts/monsters/crawlers/iguarmor/shared_iguarmor.monstertype.json"
+  },
+  "monsters/crawlers/oculob/fireoculob.monstertype": {
+    "/description": "texts/monsters/crawlers/oculob/shared_oculob.monstertype.json"
+  },
+  "monsters/crawlers/oculob/oculob.monstertype": {
+    "/description": "texts/monsters/crawlers/oculob/shared_oculob.monstertype.json"
+  },
+  "monsters/crawlers/pulpin/poisonpulpin.monstertype": {
+    "/description": "texts/monsters/crawlers/pulpin/shared_pulpin.monstertype.json"
+  },
+  "monsters/crawlers/pulpin/pulpin.monstertype": {
+    "/description": "texts/monsters/crawlers/pulpin/shared_pulpin.monstertype.json"
+  },
+  "monsters/crawlers/snaggler/icesnaggler.monstertype": {
+    "/description": "texts/monsters/crawlers/snaggler/shared_snaggler.monstertype.json"
+  },
+  "monsters/crawlers/snaggler/snaggler.monstertype": {
+    "/description": "texts/monsters/crawlers/snaggler/shared_snaggler.monstertype.json"
+  },
   "monsters/crawlers/tentaclecrawler/tentaclecrawler.monstertype": {
     "/description": "texts/monsters/crawlers/shared_.monstertype.json"
   },
+  "monsters/crawlers/tintic/electrictintic.monstertype": {
+    "/description": "texts/monsters/crawlers/tintic/shared_tintic.monstertype.json"
+  },
   "monsters/crawlers/tintic/tintic.monstertype": {
+    "/description": "texts/monsters/crawlers/tintic/shared_tintic.monstertype.json",
     "/shortdescription": "texts/shared_monstert.json"
   },
   "monsters/farming/fluffalobaby/electricfluffalobaby.monstertype": {
@@ -3816,11 +3843,47 @@
     "/description": "texts/monsters/farming/shared_baby/shared_baby.monstertype.json",
     "/shortdescription": "texts/monsters/farming/shared_baby/shared_baby.monstertype.json"
   },
+  "monsters/flyers/agrobat/agrobat.monstertype": {
+    "/description": "texts/monsters/flyers/agrobat/shared_agrobat.monstertype.json"
+  },
+  "monsters/flyers/agrobat/iceagrobat.monstertype": {
+    "/description": "texts/monsters/flyers/agrobat/shared_agrobat.monstertype.json"
+  },
+  "monsters/flyers/batong/batong.monstertype": {
+    "/description": "texts/monsters/flyers/batong/shared_batong.monstertype.json"
+  },
+  "monsters/flyers/batong/poisonbatong.monstertype": {
+    "/description": "texts/monsters/flyers/batong/shared_batong.monstertype.json"
+  },
+  "monsters/flyers/bobfae/bobfae.monstertype": {
+    "/description": "texts/monsters/flyers/bobfae/shared_bobfae.monstertype.json"
+  },
+  "monsters/flyers/bobfae/poisonbobfae.monstertype": {
+    "/description": "texts/monsters/flyers/bobfae/shared_bobfae.monstertype.json"
+  },
+  "monsters/flyers/monopus/firemonopus.monstertype": {
+    "/description": "texts/monsters/flyers/monopus/shared_monopus.monstertype.json"
+  },
   "monsters/flyers/monopus/monopus.monstertype": {
+    "/description": "texts/monsters/flyers/monopus/shared_monopus.monstertype.json",
     "/shortdescription": "texts/shared_monster.json"
+  },
+  "monsters/flyers/paratail/paratail.monstertype": {
+    "/description": "texts/monsters/flyers/paratail/shared_paratail.monstertype.json",
+    "/shortdescription": "texts/monsters/flyers/paratail/shared_paratail.monstertype.json"
+  },
+  "monsters/flyers/paratail/poisonparatail.monstertype": {
+    "/description": "texts/monsters/flyers/paratail/shared_paratail.monstertype.json",
+    "/shortdescription": "texts/monsters/flyers/paratail/shared_paratail.monstertype.json"
   },
   "monsters/flyers/pteropod/pteropod.monstertype": {
     "/shortdescription": "texts/shared_monster.json"
+  },
+  "monsters/flyers/scandroid/cultistscandroid.monstertype": {
+    "/description": "texts/monsters/flyers/scandroid/shared_scandroid.monstertype.json"
+  },
+  "monsters/flyers/scandroid/scandroid.monstertype": {
+    "/description": "texts/monsters/flyers/scandroid/shared_scandroid.monstertype.json"
   },
   "monsters/flyers/tentaclegnat/tentaclegnat.monstertype": {
     "/description": "texts/wide_spread_fields.json"
@@ -3831,14 +3894,36 @@
   "monsters/ghosts/erchiusghost/erchiusghost.monstertype": {
     "/description": "texts/monsters/ghosts/shared_t.monstertype.json"
   },
+  "monsters/ghosts/lumoth/firelumoth.monstertype": {
+    "/description": "texts/monsters/ghosts/lumoth/shared_lumoth.monstertype.json"
+  },
   "monsters/ghosts/lumoth/lumoth.monstertype": {
+    "/description": "texts/monsters/ghosts/lumoth/shared_lumoth.monstertype.json",
     "/shortdescription": "texts/shared_monster.json"
+  },
+  "monsters/ghosts/skimbus/electricskimbus.monstertype": {
+    "/description": "texts/monsters/ghosts/skimbus/shared_skimbus.monstertype.json"
+  },
+  "monsters/ghosts/skimbus/skimbus.monstertype": {
+    "/description": "texts/monsters/ghosts/skimbus/shared_skimbus.monstertype.json"
+  },
+  "monsters/ghosts/spookit/firespookit.monstertype": {
+    "/description": "texts/monsters/ghosts/shared_t.monstertype.json"
   },
   "monsters/ghosts/spookit/spookit.monstertype": {
     "/description": "texts/monsters/ghosts/shared_t.monstertype.json"
   },
+  "monsters/ghosts/squeem/firesqueem.monstertype": {
+    "/description": "texts/monsters/shared_.monstertype.json"
+  },
   "monsters/ghosts/squeem/squeem.monstertype": {
     "/description": "texts/monsters/shared_.monstertype.json"
+  },
+  "monsters/ghosts/wisper/firewisper.monstertype": {
+    "/description": "texts/monsters/ghosts/wisper/shared_wisper.monstertype.json"
+  },
+  "monsters/ghosts/wisper/wisper.monstertype": {
+    "/description": "texts/monsters/ghosts/wisper/shared_wisper.monstertype.json"
   },
   "monsters/space/masteroid/masteroid.monstertype": {
     "/description": "texts/monsters/space/shared_masteroid/shared_.monstertype.json"
@@ -3852,17 +3937,44 @@
   "monsters/walkers/adultpoptop/adultpoptop.monstertype": {
     "/description": "texts/monsters/walkers/adultpoptop/shared_poptop.monstertype.json"
   },
+  "monsters/walkers/adultpoptop/albinoadultpoptop.monstertype": {
+    "/description": "texts/monsters/walkers/adultpoptop/shared_poptop.monstertype.json"
+  },
   "monsters/walkers/adultpoptop/motherpoptop.monstertype": {
     "/description": "texts/monsters/walkers/adultpoptop/shared_poptop.monstertype.json"
   },
+  "monsters/walkers/anglure/anglure.monstertype": {
+    "/description": "texts/monsters/walkers/anglure/shared_anglure.monstertype.json"
+  },
+  "monsters/walkers/anglure/electricanglure.monstertype": {
+    "/description": "texts/monsters/walkers/anglure/shared_anglure.monstertype.json"
+  },
   "monsters/walkers/bobot/bobot.monstertype": {
+    "/description": "texts/monsters/walkers/bobot/shared_bobot.monstertype.json",
     "/shortdescription": "texts/shared_monstert.json"
+  },
+  "monsters/walkers/bobot/firebobot.monstertype": {
+    "/description": "texts/monsters/walkers/bobot/shared_bobot.monstertype.json"
   },
   "monsters/walkers/bulbop/bulbop.monstertype": {
+    "/description": "texts/monsters/walkers/bulbop/shared_bulbop.monstertype.json",
     "/shortdescription": "texts/shared_monster.json"
   },
+  "monsters/walkers/bulbop/poisonbulbop.monstertype": {
+    "/description": "texts/monsters/walkers/bulbop/shared_bulbop.monstertype.json"
+  },
   "monsters/walkers/capricoat/capricoat.monstertype": {
+    "/description": "texts/monsters/walkers/capricoat/shared_capricoat.monstertype.json",
     "/shortdescription": "texts/shared_monstert.json"
+  },
+  "monsters/walkers/capricoat/electriccapricoat.monstertype": {
+    "/description": "texts/monsters/walkers/capricoat/shared_capricoat.monstertype.json"
+  },
+  "monsters/walkers/crabcano/crabcano.monstertype": {
+    "/description": "texts/monsters/walkers/crabcano/shared_crabcano.monstertype.json"
+  },
+  "monsters/walkers/crabcano/icecrabcano.monstertype": {
+    "/description": "texts/monsters/walkers/crabcano/shared_crabcano.monstertype.json"
   },
   "monsters/walkers/crutter/crutter.monstertype": {
     "/shortdescription": "texts/shared_monstert.json"
@@ -3871,52 +3983,178 @@
     "/shortdescription": "texts/shared_monster.json"
   },
   "monsters/walkers/gleap/firegleap.monstertype": {
-    "/description": "texts/monsters/walkers/gleap/shared_gleap.monstertype.json",
-    "/shortdescription": "texts/shared_monster.json"
+    "/description": "texts/monsters/walkers/gleap/shared_gleap.monstertype.json"
   },
   "monsters/walkers/gleap/gleap.monstertype": {
     "/description": "texts/monsters/walkers/gleap/shared_gleap.monstertype.json",
     "/shortdescription": "texts/shared_monster.json"
   },
+  "monsters/walkers/hemogoblinbutt/electrichemogoblinbutt.monstertype": {
+    "/description": "texts/monsters/walkers/hemogoblinbutt/shared_hemogoblinbutt.monstertype.json"
+  },
+  "monsters/walkers/hemogoblinbutt/hemogoblinbutt.monstertype": {
+    "/description": "texts/monsters/walkers/hemogoblinbutt/shared_hemogoblinbutt.monstertype.json"
+  },
+  "monsters/walkers/hemogoblinhead/electrichemogoblinhead.monstertype": {
+    "/description": "texts/monsters/walkers/hemogoblinhead/shared_hemogoblinhead.monstertype.json"
+  },
+  "monsters/walkers/hemogoblinhead/hemogoblinhead.monstertype": {
+    "/description": "texts/monsters/walkers/hemogoblinhead/shared_hemogoblinhead.monstertype.json"
+  },
+  "monsters/walkers/hypnare/hypnare.monstertype": {
+    "/description": "texts/monsters/walkers/hypnare/shared_hypnare.monstertype.json"
+  },
+  "monsters/walkers/hypnare/icehypnare.monstertype": {
+    "/description": "texts/monsters/walkers/hypnare/shared_hypnare.monstertype.json"
+  },
+  "monsters/walkers/kingnutmidgeling/poisonkingnutmidgeling.monstertype": {
+    "/description": "texts/monsters/walkers/shared_nutmidgeling/shared_nutmidgeling.monstertype.json"
+  },
+  "monsters/walkers/lilodon/firelilodon.monstertype": {
+    "/description": "texts/monsters/walkers/lilodon/shared_lilodon.monstertype.json"
+  },
   "monsters/walkers/lilodon/lilodon.monstertype": {
+    "/description": "texts/monsters/walkers/lilodon/shared_lilodon.monstertype.json",
     "/shortdescription": "texts/shared_monster.json"
+  },
+  "monsters/walkers/mandraflora/mandraflora.monstertype": {
+    "/description": "texts/monsters/walkers/mandraflora/shared_mandraflora.monstertype.json"
+  },
+  "monsters/walkers/mandraflora/poisonmandraflora.monstertype": {
+    "/description": "texts/monsters/walkers/mandraflora/shared_mandraflora.monstertype.json"
   },
   "monsters/walkers/miasmop/miasmop.monstertype": {
     "/shortdescription": "texts/shared_monster.json"
   },
+  "monsters/walkers/narfin/icenarfin.monstertype": {
+    "/description": "texts/monsters/walkers/narfin/shared_narfin.monstertype.json"
+  },
+  "monsters/walkers/narfin/narfin.monstertype": {
+    "/description": "texts/monsters/walkers/narfin/shared_narfin.monstertype.json"
+  },
   "monsters/walkers/nutmidge/nutmidge.monstertype": {
+    "/description": "texts/monsters/walkers/nutmidge/shared_nutmidge.monstertype.json",
     "/shortdescription": "texts/wide_spread_fields.json"
   },
+  "monsters/walkers/nutmidge/poisonnutmidge.monstertype": {
+    "/description": "texts/monsters/walkers/nutmidge/shared_nutmidge.monstertype.json"
+  },
+  "monsters/walkers/nutmidgeling/nutmidgeling.monstertype": {
+    "/description": "texts/monsters/walkers/shared_nutmidgeling/shared_nutmidgeling.monstertype.json"
+  },
+  "monsters/walkers/nutmidgeling/poisonnutmidgeling.monstertype": {
+    "/description": "texts/monsters/walkers/shared_nutmidgeling/shared_nutmidgeling.monstertype.json"
+  },
+  "monsters/walkers/oogler/fireoogler.monstertype": {
+    "/description": "texts/monsters/walkers/oogler/shared_oogler.monstertype.json"
+  },
+  "monsters/walkers/oogler/oogler.monstertype": {
+    "/description": "texts/monsters/walkers/oogler/shared_oogler.monstertype.json"
+  },
+  "monsters/walkers/orbide/iceorbide.monstertype": {
+    "/description": "texts/monsters/walkers/orbide/shared_orbide.monstertype.json"
+  },
+  "monsters/walkers/orbide/orbide.monstertype": {
+    "/description": "texts/monsters/walkers/orbide/shared_orbide.monstertype.json"
+  },
   "monsters/walkers/peblit/icepeblit.monstertype": {
-    "/description": "texts/monsters/walkers/peblit/shared_peblit.monstertype.json",
-    "/shortdescription": "texts/shared_monster.json"
+    "/description": "texts/monsters/walkers/peblit/shared_peblit.monstertype.json"
   },
   "monsters/walkers/peblit/peblit.monstertype": {
     "/description": "texts/monsters/walkers/peblit/shared_peblit.monstertype.json",
     "/shortdescription": "texts/shared_monster.json"
   },
+  "monsters/walkers/petricub/electricpetricub.monstertype": {
+    "/description": "texts/monsters/walkers/petricub/shared_petricub.monstertype.json"
+  },
   "monsters/walkers/petricub/petricub.monstertype": {
+    "/description": "texts/monsters/walkers/petricub/shared_petricub.monstertype.json",
     "/shortdescription": "texts/shared_monster.json"
+  },
+  "monsters/walkers/pipkin/pipkin.monstertype": {
+    "/description": "texts/monsters/walkers/pipkin/shared_pipkin.monstertype.json"
+  },
+  "monsters/walkers/pipkin/poisonpipkin.monstertype": {
+    "/description": "texts/monsters/walkers/pipkin/shared_pipkin.monstertype.json"
+  },
+  "monsters/walkers/poptop/albinopoptop.monstertype": {
+    "/description": "texts/monsters/walkers/poptop/shared_poptop.monstertype.json"
   },
   "monsters/walkers/poptop/poptop.monstertype": {
+    "/description": "texts/monsters/walkers/poptop/shared_poptop.monstertype.json",
     "/shortdescription": "texts/shared_monster.json"
   },
+  "monsters/walkers/quagmutt/electricquagmutt.monstertype": {
+    "/description": "texts/monsters/walkers/quagmutt/shared_quagmutt.monstertype.json"
+  },
+  "monsters/walkers/quagmutt/quagmutt.monstertype": {
+    "/description": "texts/monsters/walkers/quagmutt/shared_quagmutt.monstertype.json"
+  },
+  "monsters/walkers/ringram/iceringram.monstertype": {
+    "/description": "texts/monsters/walkers/ringram/shared_ringram.monstertype.json"
+  },
+  "monsters/walkers/ringram/ringram.monstertype": {
+    "/description": "texts/monsters/walkers/ringram/shared_ringram.monstertype.json"
+  },
+  "monsters/walkers/scaveran/poisonscaveran.monstertype": {
+    "/description": "texts/monsters/walkers/scaveran/shared_scaveran.monstertype.json"
+  },
   "monsters/walkers/scaveran/scaveran.monstertype": {
+    "/description": "texts/monsters/walkers/scaveran/shared_scaveran.monstertype.json",
     "/shortdescription": "texts/wide_spread_fields.json"
   },
   "monsters/walkers/smoglin/smoglin.monstertype": {
     "/shortdescription": "texts/shared_monstert.json"
   },
+  "monsters/walkers/snaunt/electricsnaunt.monstertype": {
+    "/description": "texts/monsters/walkers/snaunt/shared_snaunt.monstertype.json"
+  },
   "monsters/walkers/snaunt/snaunt.monstertype": {
+    "/description": "texts/monsters/walkers/snaunt/shared_snaunt.monstertype.json",
     "/shortdescription": "texts/shared_monster.json"
   },
+  "monsters/walkers/snuffish/poisonsnuffish.monstertype": {
+    "/description": "texts/monsters/walkers/snuffish/shared_snuffish.monstertype.json"
+  },
+  "monsters/walkers/snuffish/snuffish.monstertype": {
+    "/description": "texts/monsters/walkers/snuffish/shared_snuffish.monstertype.json"
+  },
+  "monsters/walkers/sporgus/poisonsporgus.monstertype": {
+    "/description": "texts/monsters/walkers/sporgus/shared_sporgus.monstertype.json"
+  },
+  "monsters/walkers/sporgus/sporgus.monstertype": {
+    "/description": "texts/monsters/walkers/sporgus/shared_sporgus.monstertype.json"
+  },
+  "monsters/walkers/taroni/firetaroni.monstertype": {
+    "/description": "texts/monsters/walkers/taroni/shared_taroni.monstertype.json"
+  },
+  "monsters/walkers/taroni/taroni.monstertype": {
+    "/description": "texts/monsters/walkers/taroni/shared_taroni.monstertype.json"
+  },
+  "monsters/walkers/toumingo/firetoumingo.monstertype": {
+    "/description": "texts/monsters/walkers/toumingo/shared_toumingo.monstertype.json"
+  },
+  "monsters/walkers/toumingo/toumingo.monstertype": {
+    "/description": "texts/monsters/walkers/toumingo/shared_toumingo.monstertype.json"
+  },
+  "monsters/walkers/trictus/poisontrictus.monstertype": {
+    "/description": "texts/monsters/walkers/trictus/shared_trictus.monstertype.json"
+  },
+  "monsters/walkers/trictus/trictus.monstertype": {
+    "/description": "texts/monsters/walkers/trictus/shared_trictus.monstertype.json"
+  },
   "monsters/walkers/voltip/electricvoltip.monstertype": {
-    "/description": "texts/monsters/walkers/voltip/shared_voltip.monstertype.json",
-    "/shortdescription": "texts/shared_monster.json"
+    "/description": "texts/monsters/walkers/voltip/shared_voltip.monstertype.json"
   },
   "monsters/walkers/voltip/voltip.monstertype": {
     "/description": "texts/monsters/walkers/voltip/shared_voltip.monstertype.json",
     "/shortdescription": "texts/shared_monster.json"
+  },
+  "monsters/walkers/yokat/electricyokat.monstertype": {
+    "/description": "texts/monsters/walkers/yokat/shared_yokat.monstertype.json"
+  },
+  "monsters/walkers/yokat/yokat.monstertype": {
+    "/description": "texts/monsters/walkers/yokat/shared_yokat.monstertype.json"
   },
   "npcs/arena/arenabruiser.npctype": {
     "/scriptConfig/dialog/attack/default/default/0": "texts/npcs/arena/shared_er.npctype.json",
@@ -3982,7 +4220,6 @@
     "/scriptConfig/behaviorConfig/bribeOk": "texts/wide_spread_fields.json"
   },
   "npcs/bounty/ignobletarget.npctype": {
-    "/scriptConfig/dialog/attack/default/default/0": "texts/shared_bounty.json",
     "/scriptConfig/dialog/killedTarget/default/default/0": "texts/npcs/bounty/shared_.npctype.json",
     "/scriptConfig/dialog/lostTarget/default/default/0": "texts/npcs/bounty/shared_.npctype.json"
   },

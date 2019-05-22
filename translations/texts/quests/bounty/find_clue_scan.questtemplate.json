@@ -7,8 +7,29 @@
       ]
     },
     "Texts": {
-      "Eng": "^green;<prev.coordinate.name>^reset;:\n--TODO-- got dna here, my favorite! heading to <coordinate.name>.\n\n",
-      "Por": "^green;<prev.coordinate.name>^reset;:\n--TODO-- tenho dna aqui, meu favorito! indo para <coordinate.name>."
+      "Eng": "^green;<prev.coordinate.name>^reset;:\nI found a DNA sample that I have traced to <coordinate.name>.\n\n"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/find_clue_scan.questtemplate": [
+        "/scriptConfig/generatedText/text/prev/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;<prev.coordinate.name>^reset;:\nSome unexpected DNA I found is currently being traced to <coordinate.name>.\n\n"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/find_clue_scan.questtemplate": [
+        "/scriptConfig/generatedText/text/prev/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;<prev.coordinate.name>^reset;:\nWith my detective skills, I traced a DNA sample I found to <coordinate.name>.\n\n"
     }
   }
 ]

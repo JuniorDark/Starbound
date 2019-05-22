@@ -3,30 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/bounty/generator.config": [
-        "/edges/28/next/text/message"
-      ]
-    },
-    "Texts": {
-      "Eng": "--TODO-- I can't believe it, partner! You took Captain Ignoble down. Such a strong fella he was, too! ^orange;Return to the peacekeeper station^reset; for a new assignment.",
-      "Por": "--TODO-- Não posso acreditar, parceiro(a)! Você derrubou o Capitão Ignoble. Que sujeito forte que ele era! ^orange;Retorne à estação pacificadora^reset; para uma nova tarefa."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/bounty/generator.config": [
-        "/edges/28/prev/text/message"
-      ]
-    },
-    "Texts": {
-      "Eng": "--TODO-- Nice work findin' all those clues, partner! You have enough info to track down the rowdy ^green;Captain Ignoble^reset; now!",
-      "Por": "--TODO-- Bom trabalho encontrando todas essas pistas, parceiro(a)! Você tem informações suficientes para rastrear o desordeiro ^green;Capitão Ignoble^reset; agora!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/bounty/generator.config": [
         "/edges/14/prev/text/skipMessage"
       ]
     },
@@ -63,6 +39,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/bounty/generator.config": [
+        "/edges/28/next/text/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can't believe it, partner! You took down the mysterious and handsome ^orange;Captain Ignoble^reset;! ^orange;Return to the Peacekeeper Station^reset; for a new assignment."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/generator.config": [
         "/edges/18/mid/text/skipMessage"
       ]
     },
@@ -81,6 +68,17 @@
     "Texts": {
       "Eng": "Nice hacking, partner! What were the chances that you would successfully guess that?",
       "Por": "Bom hackeamento, parceiro(a)! Quais eram as chances de você adivinhar isso com sucesso?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/generator.config": [
+        "/edges/28/prev/text/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nice work findin' all those clues, partner! You have enough info to track down the rowdy ^green;Captain Ignoble^reset; now!"
     }
   },
   {

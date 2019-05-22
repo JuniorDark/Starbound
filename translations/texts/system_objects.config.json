@@ -3,6 +3,61 @@
     "DeniedAlternatives": [],
     "Files": {
       "system_objects.config": [
+        "/spacestation_peacekeeper1/parameters/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A derelict asteroid, hastily refitted into a hub for Peacekeepers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "system_objects.config": [
+        "/spacestation_peacekeeper3/parameters/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hub for Peacekeepers that is small but homely."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "system_objects.config": [
+        "/spacestation_peacekeeper4/parameters/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large space station will many facilities, used as a hub for Peacekeepers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "system_objects.config": [
+        "/spacestation_peacekeeper5/parameters/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A slick neon space station, used as a hub for Peacekeepers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "system_objects.config": [
+        "/spacestation_peacekeeper2/parameters/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A slightly run-down office, currently being used as a hub for Peacekeepers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "system_objects.config": [
         "/anomaly/parameters/description"
       ]
     },
@@ -84,22 +139,6 @@
     "Texts": {
       "Eng": "From classified government programs to mad penguin scientists, space is full of people making exciting new weaponry.",
       "Por": "De programas confidenciais do governo a cientistas pinguins loucos, o espaço está cheio de pessoas fazendo novas armas excitantes."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "system_objects.config": [
-        "/spacestation_peacekeeper1/parameters/description",
-        "/spacestation_peacekeeper2/parameters/description",
-        "/spacestation_peacekeeper3/parameters/description",
-        "/spacestation_peacekeeper4/parameters/description",
-        "/spacestation_peacekeeper5/parameters/description"
-      ]
-    },
-    "Texts": {
-      "Eng": "Home of Peacekeepers, a.k.a. Laser Space Cops",
-      "Por": "Lar dos Pacificadores, também conhecidos como Policiais Espaciais"
     }
   },
   {
