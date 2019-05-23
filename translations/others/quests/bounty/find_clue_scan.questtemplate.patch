@@ -32,7 +32,17 @@
   {
     "op": "replace",
     "path": "/scriptConfig/generatedText/text/prev/0",
-    "value": "^green;<prev.coordinate.name>^reset;:\n Tem dna aqui, meu favorito! indo para <coordinate.name>.\n\n"
+    "value": "^green;<prev.coordinate.name>^reset;:\nEncontrei uma amostra de DNA que me leva para <coordinate.name>.\n\n"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/generatedText/text/prev/1",
+    "value": "^green;<prev.coordinate.name>^reset;:\nAlgum DNA inesperado que encontrei atualmente está me levando para <coordinate.name>.\n\n"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/generatedText/text/prev/2",
+    "value": "^green;<prev.coordinate.name>^reset;:\nCom minhas habilidades de detetive, rastreei uma amostra de DNA que encontrei que me leva para <coordinate.name>.\n\n"
   },
   {
     "op": "replace",

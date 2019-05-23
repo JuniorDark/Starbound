@@ -632,7 +632,7 @@
   {
     "op": "replace",
     "path": "/papernote/tutorial/0/parameters/noteText",
-    "value": "--TODO--\n\nOlá Pacificador,\n\nLamento informar que eu, ^green;Capitão Ignoble^reset;, já não resido nesta residência particular.\n\n Eu montei um acampamento em outro lugar em <next.coordinate.name>.\n\nEncontre-me se puder!"
+    "value": "\n\nOlá Pacificador,\n\nLamento informar que eu, ^green;Capitão Ignoble^reset;, já não resido nesta residência particular.\n\n Eu montei um acampamento em outro lugar em <next.coordinate.name>.\n\nEncontre-me se puder!"
   },
   {
     "op": "replace",

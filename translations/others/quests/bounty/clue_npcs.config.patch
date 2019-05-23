@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/tutorial/clues/tutorial/dialog/interrogateStart/default/default/0",
-    "value": "--TODO-- Você precisa passar por mim para chegar ao ^green;Doutor Ignoble^reset;, parce... adversário!"
+    "value": "Você precisa passar por mim para chegar ao ^green;Capitão Ignoble^reset;, parce... adversário!"
   },
   {
     "op": "replace",
     "path": "/tutorial/clues/tutorial/dialog/interrogateEnd/default/default/0",
-    "value": "--TODO-- Eu sabia que um bandido como eu nunca poderia ficar contra os pacificadores! ^green;Ignoble^reset; está neste mesmo planeta."
+    "value": "Hngh... Eu sabia que um bandido como eu nunca poderia ficar contra os poderosos Pacificadores! ^green;Capitão Ignoble^reset; está neste mesmo planeta."
   },
   {
     "op": "replace",
