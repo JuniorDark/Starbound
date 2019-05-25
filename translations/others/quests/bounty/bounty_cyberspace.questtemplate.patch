@@ -32,7 +32,7 @@
   {
     "op": "replace",
     "path": "/scriptConfig/generatedText/text/prev/0",
-    "value": "Minhas descobertas em <prev.coordinate.name> levaram-me a crer que <bounty.name> está em <coordinate.name>."
+    "value": "Minhas descobertas em <prev.coordinate.name> me levaram a acreditar que <bounty.name> está em <coordinate.name>."
   },
   {
     "op": "replace",
@@ -52,6 +52,6 @@
   {
     "op": "replace",
     "path": "/scriptConfig/generatedText/failure/escape/0",
-    "value": "Você deixou ele ir! Eu tenho que dizer que você falhou em seus deveres como Pacificador dessa vez, parceiro(a)!"
+    "value": "Você deixou ele ir!? Como isso pode tornar o universo um lugar mais seguro?"
   }
 ]

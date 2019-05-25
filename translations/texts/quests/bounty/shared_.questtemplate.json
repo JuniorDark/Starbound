@@ -57,7 +57,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Encontre uma pista para a localização do procurado"
+    ],
     "Files": {
       "quests/bounty/find_clue_item.questtemplate": [
         "/text"
@@ -89,7 +91,7 @@
     },
     "Texts": {
       "Eng": "Find a clue to the location of the bounty",
-      "Por": "Encontre uma pista para a localização do procurado"
+      "Por": "Encontre uma pista para a localização do foragido"
     }
   },
   {
@@ -123,7 +125,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Mate o foragido no lugar"
+    ],
     "Files": {
       "quests/bounty/capture_ship_bounty.questtemplate": [
         "/text"
@@ -137,7 +141,7 @@
     },
     "Texts": {
       "Eng": "Kill the bounty at the place",
-      "Por": "Mate o foragido no lugar"
+      "Por": "Mate o procurado no lugar"
     }
   },
   {
@@ -156,7 +160,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Minhas descobertas em <prev.coordinate.name> levaram-me a crer que <bounty.name> está em <coordinate.name>."
+    ],
     "Files": {
       "quests/bounty/bounty_cyberspace.questtemplate": [
         "/scriptConfig/generatedText/text/prev/0"
@@ -185,7 +191,7 @@
     },
     "Texts": {
       "Eng": "My findings <prev.coordinate.preposition> <prev.coordinate.name> have led me to believe <bounty.name> is <coordinate.preposition> <coordinate.name>.",
-      "Por": "Minhas descobertas em <prev.coordinate.name> levaram-me a crer que <bounty.name> está em <coordinate.name>."
+      "Por": "Minhas descobertas em <prev.coordinate.name> me levaram a acreditar que <bounty.name> está em <coordinate.name>."
     }
   },
   {
@@ -531,7 +537,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "^orange;Procuarado^reset;",
+      "^orange;Recompensa^reset;"
+    ],
     "Files": {
       "quests/bounty/capture_bounty.questtemplate": [
         "/title"
@@ -542,11 +551,13 @@
     },
     "Texts": {
       "Eng": "^orange;Bounty^reset;",
-      "Por": "^orange;Recompensa^reset;"
+      "Por": "^orange;Procurado^reset;"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "^orange;Mate o foragido"
+    ],
     "Files": {
       "quests/bounty/capture_ship_bounty.questtemplate": [
         "/title"
@@ -581,7 +592,7 @@
     },
     "Texts": {
       "Eng": "^orange;Kill bounty",
-      "Por": "^orange;Mate o foragido"
+      "Por": "^orange;Mate o procurado"
     }
   }
 ]

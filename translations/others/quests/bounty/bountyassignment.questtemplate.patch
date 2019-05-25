@@ -11,6 +11,11 @@
   },
   {
     "op": "replace",
+    "path": "/scriptConfig/descriptions/searching",
+    "value": "Procurando por ^orange;Estação Pacificadora^reset;..."
+  },
+  {
+    "op": "replace",
     "path": "/scriptConfig/descriptions/findSystem",
     "value": "^green;Localize a ^orange;Estação Pacificadora^white; em ^orange;%s^white;"
   },

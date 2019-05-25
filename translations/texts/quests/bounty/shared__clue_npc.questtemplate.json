@@ -45,7 +45,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "^green;<prev.coordinate.name>^reset;:\nUm dos lacaios de <bounty.name> me levou a \"<coordinate.name>\".\n"
+    ],
     "Files": {
       "quests/bounty/find_clue_npc.questtemplate": [
         "/scriptConfig/generatedText/text/prev/2"
@@ -56,7 +58,7 @@
     },
     "Texts": {
       "Eng": "^green;<prev.coordinate.name>^reset;:\nOne of <bounty.name>'s lackeys led me to \"<coordinate.name>\".\n\n",
-      "Por": "^green;<prev.coordinate.name>^reset;:\nUm dos lacaios de <bounty.name> me levou a \"<coordinate.name>\".\n"
+      "Por": "^green;<prev.coordinate.name>^reset;:\nUm dos lacaios de <bounty.name> me levou a \"<coordinate.name>\".\n\n"
     }
   }
 ]

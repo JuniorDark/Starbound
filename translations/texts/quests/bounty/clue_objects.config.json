@@ -86,7 +86,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      ">SISTEMA_DE_LOCALIZAÇÃO_DE_ESCONDERIJO: ^green;<next.coordinate.systemName>^reset;"
+    ],
     "Files": {
       "quests/bounty/clue_objects.config": [
         "/astroconsole/spaceClue/dialog",
@@ -95,7 +97,7 @@
     },
     "Texts": {
       "Eng": ">HIDEOUT_SYSTEM LOCATION: ^green;<next.coordinate.systemName>^reset;",
-      "Por": ">SISTEMA_DE_LOCALIZAÇÃO_DE_ESCONDERIJO: ^green;<next.coordinate.systemName>^reset;"
+      "Por": ">LOCALIZAÇÃO_DO_ESCONDERIJO: ^green;<next.coordinate.systemName>^reset;"
     }
   },
   {
@@ -467,7 +469,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "[BEM_VINDO_NOVO_USUÁRIO] O Código do Cofre de ^green;<next.coordinate.systemName>^reset; = ^green;<password>^reset; [BEEP BOOP]"
+    ],
     "Files": {
       "quests/bounty/clue_objects.config": [
         "/astroconsole/vaultClue/dialog",
@@ -476,7 +480,7 @@
     },
     "Texts": {
       "Eng": "[WELCOME_NEW_USER] The ^green;<next.coordinate.systemName>^reset; Vault Code = ^green;<password>^reset; [BEEP BOOP]",
-      "Por": "[BEM_VINDO_NOVO_USUÁRIO] O Código do Cofre de ^green;<next.coordinate.systemName>^reset; = ^green;<password>^reset; [BEEP BOOP]"
+      "Por": "[BEM_VINDO_NOVO_USUÁRIO] O Código do Cofre em ^green;<next.coordinate.systemName>^reset; = ^green;<password>^reset; [BEEP BOOP]"
     }
   },
   {
@@ -492,7 +496,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "^green;<next.coordinate.name>^reset;? Isso soa como uma pista se eu já ouvi uma!"
+    ],
     "Files": {
       "quests/bounty/clue_objects.config": [
         "/apexconsole1/planetClue/message",
@@ -509,7 +515,7 @@
     },
     "Texts": {
       "Eng": "^green;<next.coordinate.name>^reset;? That sounds like a mighty fine tip-off if I ever heard one!",
-      "Por": "^green;<next.coordinate.name>^reset;? Isso soa como uma pista se eu já ouvi uma!"
+      "Por": "^green;<next.coordinate.name>^reset;? Isso soa como uma dica muito boa se eu já ouvi uma!"
     }
   },
   {

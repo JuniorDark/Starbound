@@ -13,7 +13,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Você prendeu o fugitivo!"
+    ],
     "Files": {
       "quests/bounty/capture_ship_bounty.questtemplate": [
         "/completionText"
@@ -21,7 +23,7 @@
     },
     "Texts": {
       "Eng": "You apprehended the bounty!",
-      "Por": "Você prendeu o fugitivo!"
+      "Por": "Você prendeu o procurado!"
     }
   }
 ]

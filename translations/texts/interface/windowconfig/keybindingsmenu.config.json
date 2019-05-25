@@ -264,7 +264,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Modo Inspecionar / Escanear"
+    ],
     "Files": {
       "interface/windowconfig/keybindingsmenu.config": [
         "/keyActions/toolbar/11/label"
@@ -272,7 +274,7 @@
     },
     "Texts": {
       "Eng": "Inspect / Scan Mode",
-      "Por": "Modo Inspecionar / Escanear"
+      "Por": "Modo Inspecionar/Escanear"
     }
   },
   {
@@ -552,7 +554,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "BARRA DE FERRAM."
+    ],
     "Files": {
       "interface/windowconfig/keybindingsmenu.config": [
         "/paneLayout/categories/tabs/1/tabTitle"
@@ -560,7 +564,7 @@
     },
     "Texts": {
       "Eng": "TOOL BAR",
-      "Por": "BARRA DE FERRAM."
+      "Por": "BARRA FERRAM."
     }
   },
   {
@@ -576,7 +580,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Andar / Precisão do MM"
+    ],
     "Files": {
       "interface/windowconfig/keybindingsmenu.config": [
         "/keyActions/player/5/label"
@@ -584,7 +590,7 @@
     },
     "Texts": {
       "Eng": "Walk / MM Precision",
-      "Por": "Andar / Precisão do MM"
+      "Por": "Andar/Precisão do MM"
     }
   },
   {

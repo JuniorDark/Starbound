@@ -37,7 +37,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Investigue a ^yellow;<gangName>^reset; perto de ^cyan;<systemName>"
+    ],
     "Files": {
       "interface/scripted/bountyboard/bountyboardgui.config": [
         "/assignmentFormat"
@@ -45,7 +47,7 @@
     },
     "Texts": {
       "Eng": "Investigate the ^yellow;<gangName>^reset; near ^cyan;<systemName>",
-      "Por": "Investigue a ^yellow;<gangName>^reset; perto de ^cyan;<systemName>"
+      "Por": "Investigue o(a) ^yellow;<gangName>^reset; perto de ^cyan;<systemName>"
     }
   },
   {
