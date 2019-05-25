@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^green;<prev.coordinate.name>^reset;:\nI found a DNA sample that I have traced to <coordinate.name>.\n\n"
+      "Eng": "^green;<prev.coordinate.name>^reset;:\nI found a DNA sample that I have traced to <coordinate.name>.\n\n",
+      "Por": "^green;<prev.coordinate.name>^reset;:\\nEncontrei uma amostra de DNA que me leva para <coordinate.name>.\\n\\n"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^green;<prev.coordinate.name>^reset;:\nSome unexpected DNA I found is currently being traced to <coordinate.name>.\n\n"
+      "Eng": "^green;<prev.coordinate.name>^reset;:\nSome unexpected DNA I found is currently being traced to <coordinate.name>.\n\n",
+      "Por": "^green;<prev.coordinate.name>^reset;:\\nAlgum DNA inesperado que encontrei atualmente está me levando para <coordinate.name>.\\n\\n"
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^green;<prev.coordinate.name>^reset;:\nWith my detective skills, I traced a DNA sample I found to <coordinate.name>.\n\n"
+      "Eng": "^green;<prev.coordinate.name>^reset;:\nWith my detective skills, I traced a DNA sample I found to <coordinate.name>.\n\n",
+      "Por": "^green;<prev.coordinate.name>^reset;:\\nCom minhas habilidades de detetive, rastreei uma amostra de DNA que encontrei que me leva para <coordinate.name>.\\n\\n"
     }
   }
 ]
