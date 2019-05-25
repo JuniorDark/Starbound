@@ -800,6 +800,7 @@
     "/arena3/cancelCaption": "texts/interface/confirmation/shared_confirmation.config.json",
     "/arena3/labels/name": "texts/wide_spread_fields.json",
     "/bounty/cancelCaption": "texts/interface/confirmation/shared_confirmation.config.json",
+    "/cyberspace/cancelCaption": "texts/interface/confirmation/shared_confirmation.config.json",
     "/mechunlock/cancelCaption": "texts/interface/confirmation/shared_confirmation.config.json",
     "/mechunlock/labels/name": "texts/wide_spread_fields.json",
     "/mechupgrade2/cancelCaption": "texts/interface/confirmation/shared_confirmation.config.json",
@@ -3879,12 +3880,6 @@
   "monsters/flyers/pteropod/pteropod.monstertype": {
     "/shortdescription": "texts/shared_monster.json"
   },
-  "monsters/flyers/scandroid/cultistscandroid.monstertype": {
-    "/description": "texts/monsters/flyers/scandroid/shared_scandroid.monstertype.json"
-  },
-  "monsters/flyers/scandroid/scandroid.monstertype": {
-    "/description": "texts/monsters/flyers/scandroid/shared_scandroid.monstertype.json"
-  },
   "monsters/flyers/tentaclegnat/tentaclegnat.monstertype": {
     "/description": "texts/wide_spread_fields.json"
   },
@@ -3893,6 +3888,12 @@
   },
   "monsters/ghosts/erchiusghost/erchiusghost.monstertype": {
     "/description": "texts/monsters/ghosts/shared_t.monstertype.json"
+  },
+  "monsters/ghosts/gosmet/firegosmet.monstertype": {
+    "/description": "texts/monsters/ghosts/gosmet/shared_gosmet.monstertype.json"
+  },
+  "monsters/ghosts/gosmet/gosmet.monstertype": {
+    "/description": "texts/monsters/ghosts/gosmet/shared_gosmet.monstertype.json"
   },
   "monsters/ghosts/lumoth/firelumoth.monstertype": {
     "/description": "texts/monsters/ghosts/lumoth/shared_lumoth.monstertype.json"
@@ -16766,8 +16767,20 @@
     "/glitchDescription": "texts/plants/grass/ground/shared_.grass.json",
     "/shortdescription": "texts/plants/grass/ground/shared_.grass.json"
   },
+  "quests/bounty/bounty_cyberspace.questtemplate": {
+    "/completionText": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/generatedText/complete/default/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/generatedText/complete/default/1": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/generatedText/failure/escape/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/generatedText/text/default/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/generatedText/text/prev/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/text": "texts/quests/bounty/shared_.questtemplate.json",
+    "/title": "texts/quests/bounty/shared_.questtemplate.json"
+  },
   "quests/bounty/bounty_mission.questtemplate": {
     "/completionText": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/generatedText/complete/default/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/generatedText/complete/default/1": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/failure/escape/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/default/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/prev/0": "texts/quests/bounty/shared_.questtemplate.json",

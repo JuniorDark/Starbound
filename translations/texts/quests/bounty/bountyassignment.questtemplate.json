@@ -27,6 +27,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/bounty/bountyassignment.questtemplate": [
+        "/scriptConfig/descriptions/searching"
+      ]
+    },
+    "Texts": {
+      "Eng": "Searching for ^orange;Peacekeeper Station^reset;..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/bountyassignment.questtemplate": [
         "/completionText"
       ]
     },

@@ -10,5 +10,16 @@
       "Eng": "Cultist Scandroid",
       "Por": "Cultist Scandroid"
     }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/flyers/scandroid/cultistscandroid.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This Scandroid has been repurposed by the Occasus Cult."
+    }
   }
 ]

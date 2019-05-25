@@ -105,8 +105,18 @@
       ]
     },
     "Texts": {
-      "Eng": "\n\nThis console will teleport you to the target's hideout.",
-      "Por": "\n\nEste console irá te teleportar para o esconderijo do alvo."
+      "Eng": "\nThis console will teleport you to the target's hideout."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/teleportconfirmation.config": [
+        "/cyberspace/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "\nThis terminal is connected to a criminal network.\n\nAre you ready to hack into cyberspace?"
     }
   },
   {
@@ -173,6 +183,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/confirmation/teleportconfirmation.config": [
+        "/cyberspace/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cyberspace Terminal"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/teleportconfirmation.config": [
         "/techscientist_dash/subtitle"
       ]
     },
@@ -217,6 +238,17 @@
     "Texts": {
       "Eng": "Elliot",
       "Por": "Elliot"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/teleportconfirmation.config": [
+        "/cyberspace/okCaption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hack"
     }
   },
   {
@@ -284,6 +316,7 @@
         "/arena2/title",
         "/arena3/title",
         "/bounty/title",
+        "/cyberspace/title",
         "/mechunlock/title",
         "/mechupgrade2/title",
         "/penguinmission1/title",

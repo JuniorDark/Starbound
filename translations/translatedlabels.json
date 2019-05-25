@@ -405,7 +405,7 @@
       "oremerchant.config.json": 119,
       "outpost.config.json": 48,
       "peacekeeper.config.json": 13,
-      "peacekeeperconverse.config.json": 63,
+      "peacekeeperconverse.config.json": 60,
       "quest.config.json": 301,
       "rebel.config.json": 3,
       "scientist.config.json": 12,
@@ -463,7 +463,7 @@
         "setuniformconfirmation.config.json": 2,
         "shared_confirmation.config.json": 4,
         "shared_setuniformconfirmation.config.json": 1,
-        "teleportconfirmation.config.json": 23
+        "teleportconfirmation.config.json": 22
       },
       "easel": {
         "signdispenser.config.json": 2,
@@ -4385,6 +4385,9 @@
           "poisonbobfae.monstertype.json": 1,
           "shared_bobfae.monstertype.json": 1
         },
+        "cosmicintruder": {
+          "cosmicintruder.monstertype.json": 0
+        },
         "monopus": {
           "firemonopus.monstertype.json": 1,
           "shared_monopus.monstertype.json": 1
@@ -4401,8 +4404,7 @@
         },
         "scandroid": {
           "cultistscandroid.monstertype.json": 1,
-          "scandroid.monstertype.json": 1,
-          "shared_scandroid.monstertype.json": 1
+          "scandroid.monstertype.json": 2
         },
         "tentaclebomb": {
           "tentaclebomb.monstertype.json": 2
@@ -4486,7 +4488,9 @@
           "erchiusghost.monstertype.json": 1
         },
         "gosmet": {
-          "gosmet.monstertype.json": 2
+          "firegosmet.monstertype.json": 0,
+          "gosmet.monstertype.json": 1,
+          "shared_gosmet.monstertype.json": 1
         },
         "ignome": {
           "electricignome.monstertype.json": 2,
@@ -5076,6 +5080,9 @@
         "capricoat": {
           "capricoatAF.object.json": 2
         },
+        "cosmicintruder": {
+          "cosmicintruderaf.object.json": 0
+        },
         "crabcano": {
           "crabcanoAF.object.json": 2
         },
@@ -5219,6 +5226,9 @@
         },
         "squeem": {
           "squeemAF.object.json": 2
+        },
+        "swansong": {
+          "swansongaf.object.json": 0
         },
         "taroni": {
           "taroniAF.object.json": 2
@@ -7979,7 +7989,7 @@
           "cultistaltar.object.json": 9
         },
         "cultistbannerlarge": {
-          "cultistbannerlarge.object.json": 9
+          "cultistbannerlarge.object.json": 8
         },
         "cultistchest": {
           "cultistchest.object.json": 9
@@ -13607,7 +13617,6 @@
     "quests": {
       "bounty": {
         "bounty_gen.questtemplate.json": 3,
-        "bounty_mission.questtemplate.json": 2,
         "bountyassignment.questtemplate.json": 7,
         "capture_bounty.questtemplate.json": 2,
         "capture_ship_bounty.questtemplate.json": 2,
@@ -13616,7 +13625,7 @@
         "clue_items.config.json": 68,
         "clue_npcs.config.json": 97,
         "clue_objects.config.json": 35,
-        "clue_scans.config.json": 5,
+        "clue_scans.config.json": 4,
         "find_clue_scan.questtemplate.json": 0,
         "generator.config.json": 10,
         "pre_bounty.questtemplate.json": 1,
@@ -13624,7 +13633,7 @@
         "pre_bounty_minor_monster.questtemplate.json": 3,
         "pre_bounty_minor_npc.questtemplate.json": 1,
         "scan_planets.questtemplate.json": 1,
-        "shared_.questtemplate.json": 22,
+        "shared_.questtemplate.json": 24,
         "shared__clue_npc.questtemplate.json": 4,
         "shared__clue_object.questtemplate.json": 4,
         "shared_find_space_clue_.json": 3

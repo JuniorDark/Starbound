@@ -43,8 +43,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Captain Noble has me working on finding some new cases for you, Officer <selfname>!",
-      "Por": "Capitão Noble me fez trabalhar em encontrar alguns novos casos para você, Oficial <selfname>!"
+      "Eng": "Captain Noble has me working on finding some new cases for you, Officer <entityname>!"
     }
   },
   {
@@ -187,8 +186,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Floran isss working hard to find new cassses for Officer <selfname>!",
-      "Por": "Floran está trabalhando duro para encontrar novos casssos para o Oficial <selfname>!"
+      "Eng": "Floran isss working hard to find new cassses for Officer <entityname>!"
     }
   },
   {
@@ -727,8 +725,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Without a Matter Manipulator, there's only so much field work I can do. Not like you, Officer <selfname>!",
-      "Por": "Sem um Manipulador de Matéria, há muito trabalho de campo que posso fazer. Não como você, Oficial <selfname>!"
+      "Eng": "Without a Matter Manipulator, there's only so much field work I can do. Not like you, Officer <entityname>!"
     }
   },
   {
