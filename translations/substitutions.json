@@ -1125,6 +1125,9 @@
   "interface/warping/remoteteleporter.config": {
     "/destinations/0/name": "texts/interface/warping/shared_teleporter.config.json"
   },
+  "interface/warping/returnteleporter.config": {
+    "/destinations/0/name": "texts/shared_teleporter.json"
+  },
   "interface/warping/shipteleporter.config": {
     "/destinations/0/name": "texts/shared_interface.json",
     "/destinations/1/name": "texts/shared_interface.json"
@@ -15436,6 +15439,9 @@
     "/humanDescription": "texts/objects/teleporter/shared_teleporter/shared_teleporter.object.json",
     "/hylotlDescription": "texts/objects/teleporter/shared_teleporter/shared_teleporter.object.json",
     "/novakidDescription": "texts/objects/teleporter/shared_teleporter/shared_teleporter.object.json"
+  },
+  "objects/teleporter/exitteleporter/returnteleporter.object": {
+    "/shortdescription": "texts/shared_teleporter.json"
   },
   "objects/teleporter/futureteleporter/futureteleporter.object": {
     "/apexDescription": "texts/objects/teleporter/shared_teleporter/shared_teleporter.object.json",

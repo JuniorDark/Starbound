@@ -583,6 +583,7 @@
         "returnark.config.json": 2,
         "returncultistmission.config.json": 2,
         "returnoutpost.config.json": 2,
+        "returnteleporter.config.json": 1,
         "returnwarp.config.json": 1,
         "shared_teleporter.config.json": 1,
         "shipteleporter.config.json": 1
@@ -12366,7 +12367,8 @@
           "brassteleporter.object.json": 1
         },
         "exitteleporter": {
-          "exitteleporter.object.json": 9
+          "exitteleporter.object.json": 9,
+          "returnteleporter.object.json": 8
         },
         "futureteleporter": {
           "futureteleporter.object.json": 1
@@ -13834,6 +13836,7 @@
     "shared_tarcrystal": {
       "shared_tarcrystal.json": 1
     },
+    "shared_teleporter.json": 1,
     "shared_thorns.json": 1,
     "shared_throwingblock..json": 1,
     "shared_tribalplatform.mat.json": 4,
