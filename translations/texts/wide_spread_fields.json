@@ -29,6 +29,48 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "items/active/unsorted/miningdrone/miningdrone.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/unrand/neomagnum/neomagnum1.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/unrand/neomagnum/neomagnum2.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/unrand/neomagnum/neomagnum3.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/unrand/neomagnum/neomagnum4.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/unrand/neopistol/neopistol.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/unrand/neopistol/npcneopistol.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/unrand/neouzi/neouzi.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/unrand/neouzi/npcneouzi.activeitem": [
+        "/description"
+      ],
+      "monsters/ghosts/peacekeeperdrone/peacekeeperdrone.monstertype": [
+        "/description"
+      ],
+      "monsters/unsorted/miningdrone/miningdrone.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "--TODO--",
+      "Por": "--TODO--"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "interface/stats/stats.config": [
         "/energyRegen/description",
         "/healthRegen/description",
@@ -214,36 +256,6 @@
       "objects/peacekeeper/peacekeeperposter2/peacekeeperposter2.object": [
         "/apexDescription",
         "/avianDescription",
-        "/floranDescription",
-        "/glitchDescription",
-        "/humanDescription",
-        "/hylotlDescription",
-        "/novakidDescription"
-      ],
-      "objects/peacekeeper/peacekeeperstore/peacekeeperstore.object": [
-        "/apexDescription",
-        "/avianDescription",
-        "/description",
-        "/floranDescription",
-        "/glitchDescription",
-        "/humanDescription",
-        "/hylotlDescription",
-        "/novakidDescription"
-      ],
-      "objects/peacekeeper/peacekeeperstore/peacekeeperstore2.object": [
-        "/apexDescription",
-        "/avianDescription",
-        "/description",
-        "/floranDescription",
-        "/glitchDescription",
-        "/humanDescription",
-        "/hylotlDescription",
-        "/novakidDescription"
-      ],
-      "objects/peacekeeper/peacekeeperstore/peacekeeperstore3.object": [
-        "/apexDescription",
-        "/avianDescription",
-        "/description",
         "/floranDescription",
         "/glitchDescription",
         "/humanDescription",
@@ -1741,6 +1753,9 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "interface/itemdescriptions/filledcapturepod.itemdescription": [
+        "/toolLabel/value"
+      ],
       "interface/itemdescriptions/mm.itemdescription": [
         "/toolLabel/value"
       ],

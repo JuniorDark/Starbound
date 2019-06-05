@@ -696,6 +696,12 @@
           "handcuffs": {
             "handcuffs.activeitem.json": 2
           },
+          "laserminer": {
+            "laserminer.activeitem.json": 0
+          },
+          "miningdrone": {
+            "miningdrone.activeitem.json": 0
+          },
           "oredetector": {
             "cavedetector.activeitem.json": 2,
             "oredetector.activeitem.json": 2
@@ -744,7 +750,8 @@
           "boatcontrollergreen.activeitem.json": 2,
           "hoverbikecontrollergreen.activeitem.json": 2,
           "hoverbikecontrollerkhaki.activeitem.json": 2,
-          "hoverbikecontrollerred.activeitem.json": 2
+          "hoverbikecontrollerred.activeitem.json": 2,
+          "sportscarcontrollerred.activeitem.json": 0
         },
         "weapons": {
           "arena": {
@@ -943,10 +950,10 @@
             },
             "broadsword": {
               "astrosabredeluxe.activeitem.json": 2,
-              "commonbroadsword.activeitem.json": 1,
               "hokucide.activeitem.json": 3,
               "legendblade.activeitem.json": 2,
               "rarebroadsword.activeitem.json": 1,
+              "shared_broadsword.activeitem.json": 1,
               "stoneblade.activeitem.json": 2,
               "timepierce.activeitem.json": 4,
               "uncommonbroadsword.activeitem.json": 1
@@ -1217,10 +1224,21 @@
                 "gluesprayer.activeitem.json": 2
               },
               "neolaserlauncher": {
-                "neolaserlauncher.activeitem.json": 2
+                "neolaserlauncher.activeitem.json": 0
+              },
+              "neomagnum": {
+                "neomagnum2.activeitem.json": 0,
+                "neomagnum3.activeitem.json": 0,
+                "neomagnum4.activeitem.json": 0
               },
               "neopistol": {
                 "shared_neopistol.activeitem.json": 1
+              },
+              "neoshotgun": {
+                "neoshotgun.activeitem.json": 0
+              },
+              "neotommygun": {
+                "neotommygun.activeitem.json": 0
               },
               "neouzi": {
                 "shared_neouzi.activeitem.json": 1
@@ -1238,7 +1256,7 @@
               },
               "shared_n.activeitem.json": 1,
               "shared_neo": {
-                "shared_.activeitem.json": 2
+                "shared_.activeitem.json": 1
               },
               "snowgun": {
                 "snowgun.activeitem.json": 2
@@ -3062,7 +3080,11 @@
           "lightaugment2.augment.json": 2,
           "lightaugment3.augment.json": 2,
           "mobilityaugment.augment.json": 2,
+          "peacekeeper1.augment.json": 0,
+          "peacekeeper2.augment.json": 0,
+          "peacekeeper3.augment.json": 0,
           "poisonblockaugment.augment.json": 2,
+          "shared_peacekeeper.json": 0,
           "speedaugment.augment.json": 2,
           "swimaugment.augment.json": 2,
           "thornsaugment.augment.json": 2
@@ -3528,6 +3550,7 @@
             "mecharmhomingmissile.item.json": 2,
             "mecharmmissilerack.item.json": 2,
             "mecharmmultidrone.item.json": 2,
+            "mecharmneolaser.item.json": 0,
             "mecharmplasmadrone.item.json": 2,
             "mecharmshielddrone.item.json": 2,
             "mecharmsoluskatana.item.json": 2,
@@ -3786,11 +3809,10 @@
         "mirror.matitem.json": 1,
         "modernplatform.matitem.json": 1,
         "petalblock.matitem.json": 1,
-        "polygonplatform.matitem.json": 1,
         "pressurisedbeam.matitem.json": 1,
+        "pressurisedplatform.matitem.json": 1,
         "rock14.matitem.json": 1,
         "sand2.matitem.json": 1,
-        "shared_platform.matitem.json": 1,
         "slopedscrappanel.matitem.json": 1,
         "temple1.matitem.json": 1,
         "temple2.matitem.json": 1,
@@ -3834,7 +3856,6 @@
         "paperplane.thrownitem.json": 2,
         "petball.thrownitem.json": 2,
         "shared_.thrownitem.json": 1,
-        "shared_ngrenade.thrownitem.json": 1,
         "snowball.thrownitem.json": 2,
         "snowballgigantic.thrownitem.json": 2,
         "snowballlarge.thrownitem.json": 2,
@@ -3842,7 +3863,7 @@
         "snowflakeshuriken.thrownitem.json": 2,
         "stungrenade.thrownitem.json": 1,
         "tarball.thrownitem.json": 2,
-        "thorngrenade.thrownitem.json": 1,
+        "thorngrenade.thrownitem.json": 2,
         "throwingaxe.thrownitem.json": 2,
         "throwingblock.thrownitem.json": 1,
         "throwingbones.thrownitem.json": 2,
@@ -3876,7 +3897,6 @@
           "fossiltool.miningtool.json": 2,
           "golddrill.miningtool.json": 1,
           "goldpickaxe.miningtool.json": 1,
-          "laserminer.miningtool.json": 2,
           "pickaxe.miningtool.json": 2,
           "platinumdrill.miningtool.json": 1,
           "platinumpickaxe.miningtool.json": 1,
@@ -4052,6 +4072,7 @@
       "shared_silverblock.mat.json": 5,
       "shared_silverscrew.mat.json": 5,
       "shared_slime.mat.json": 5,
+      "shared_slopedglasspanel.mat.json": 0,
       "shared_slopedhullpanel.mat.json": 5,
       "shared_slopedinsetpanel.mat.json": 5,
       "shared_slopedrustypanel.mat.json": 5,
@@ -4499,7 +4520,10 @@
         },
         "lumoth": {
           "firelumoth.monstertype.json": 1,
-          "shared_lumoth.monstertype.json": 1
+          "lumoth.monstertype.json": 1
+        },
+        "peacekeeperdrone": {
+          "peacekeeperdrone.monstertype.json": 0
         },
         "pyromantle": {
           "poisonpyromantle.monstertype.json": 2,
@@ -4591,6 +4615,11 @@
         },
         "twigun": {
           "twigun.monstertype.json": 2
+        }
+      },
+      "unsorted": {
+        "miningdrone": {
+          "miningdrone.monstertype.json": 0
         }
       },
       "walkers": {
@@ -9961,7 +9990,7 @@
           "fridge.object.json": 5
         },
         "glasspanel": {
-          "glasspanel.object.json": 8
+          "glasspanel.object.json": 9
         },
         "hazardtapeh": {
           "hazardtapeh.object.json": 3
@@ -10910,7 +10939,7 @@
           "lunarbaselantern.object.json": 2
         },
         "lunarbaselaser": {
-          "lunarbaselaser.object.json": 9
+          "lunarbaselaser.object.json": 8
         },
         "lunarbaselocker": {
           "lunarbaselocker.object.json": 9
@@ -13806,7 +13835,6 @@
     "shared_eri.json": 2,
     "shared_est.json": 1,
     "shared_fossils.json": 43,
-    "shared_glasspanel.json": 1,
     "shared_goldenplatform.mat.json": 5,
     "shared_ice..json": 1,
     "shared_ies.json": 1,
@@ -13814,6 +13842,7 @@
     "shared_interface.json": 2,
     "shared_invisible.json": 1,
     "shared_key.json": 1,
+    "shared_laser.json": 1,
     "shared_lunarbaseplatform.mat.json": 5,
     "shared_merchant..json": 1,
     "shared_modernplatform.mat.json": 4,
@@ -13822,8 +13851,10 @@
     "shared_outpostplatform.mat.json": 5,
     "shared_plantplatform.mat.json": 5,
     "shared_platform.json": 2,
-    "shared_platform.mat.json": 7,
+    "shared_platform.mat.json": 3,
     "shared_platform2.mat.json": 2,
+    "shared_polygonplatform.mat.json": 1,
+    "shared_pressurisedplatform.mat.json": 4,
     "shared_protectorateflower.json": 1,
     "shared_protectorateplatform.mat.json": 5,
     "shared_ruinsplatform.mat.json": 5,
@@ -14124,13 +14155,13 @@
         "copperladder.material.json": 1,
         "modernplatform.material.json": 1,
         "platform2.material.json": 1,
-        "shared_platform.material.json": 1,
+        "pressurisedplatform.material.json": 1,
         "tribalplatform.material.json": 1,
         "woodenplatform.material.json": 4,
         "wreckplatform.material.json": 1
       }
     },
     "universe_server.config.json": 2,
-    "wide_spread_fields.json": 72
+    "wide_spread_fields.json": 73
   }
 }
