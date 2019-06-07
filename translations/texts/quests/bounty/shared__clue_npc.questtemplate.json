@@ -25,7 +25,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^green;<coordinate.name>^reset;:\nA henchman I interrogated gave me the location \"<next.coordinate.name>\".\n\n"
+      "Eng": "^green;<coordinate.name>^reset;:\nA henchman I interrogated gave me the location \"<next.coordinate.name>\".\n\n",
+      "Por": "^green;<coordinate.name>^reset;:\nUm capanga que eu interroguei me deu a localização \"<next.coordinate.name>\".\n\n"
     }
   },
   {
@@ -39,7 +40,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^green;<coordinate.name>^reset;:\nAfter some encouragement, a henchman gave me the location \"<next.coordinate.name>\".\n\n"
+      "Eng": "^green;<coordinate.name>^reset;:\nAfter some encouragement, a henchman gave me the location \"<next.coordinate.name>\".\n\n",
+      "Por": "^green;<coordinate.name>^reset;:\nDepois de algum incentivo, um capanga me deu a localização \"<next.coordinate.name>\".\n\n"
     }
   },
   {
@@ -53,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^green;<coordinate.name>^reset;:\nOne of <bounty.name>'s lackeys led me to \"<next.coordinate.name>\".\n\n"
+      "Eng": "^green;<coordinate.name>^reset;:\nOne of <bounty.name>'s lackeys led me to \"<next.coordinate.name>\".\n\n",
+      "Por": "^green;<coordinate.name>^reset;:\nUm dos lacaios de <bounty.name> me levou a \"<next.coordinate.name>\".\n\n"
     }
   }
 ]

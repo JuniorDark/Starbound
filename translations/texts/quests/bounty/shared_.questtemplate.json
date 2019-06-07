@@ -95,7 +95,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Tendo esgotado todas as pistas disponíveis, somos forçados a abandonar a caça ao <bounty.name>. É um dia sombrio para a justiça.",
+      "Tendo esgotado todas as pistas disponíveis, somos forçados a abandonar a caça à <bounty.name>. É um dia sombrio para a justiça."
+    ],
     "Files": {
       "quests/bounty/find_clue_item.questtemplate": [
         "/scriptConfig/generatedText/failureText/default/1"
@@ -121,7 +124,7 @@
     },
     "Texts": {
       "Eng": "Having exhausted all available leads, we're forced to abandon the hunt for <bounty.name>. It is a dark day for justice.",
-      "Por": "Tendo esgotado todas as pistas disponíveis, somos forçados a abandonar a caça ao <bounty.name>. É um dia sombrio para a justiça."
+      "Por": "Tendo esgotado todas as pistas disponíveis, somos forçados a abandonar a caça á <bounty.name>. É um dia sombrio para a justiça."
     }
   },
   {
@@ -183,7 +186,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "O rastro ficou esfriou! Sem qualquer outra pista, <bounty.name> escorregou pelos nossos dedos mais uma vez. Quem sabe que crimes hediondos eles cometerão antes de termos outra chance de derrubá-los?"
+    ],
     "Files": {
       "quests/bounty/find_clue_item.questtemplate": [
         "/scriptConfig/generatedText/failureText/default/0"
@@ -209,7 +214,7 @@
     },
     "Texts": {
       "Eng": "The trail's gone cold! Without any further leads, <bounty.name> has slipped through our fingers once again. Who knows what heinous crimes they'll commit before we get another chance to take them down?",
-      "Por": "O rastro ficou esfriou! Sem qualquer outra pista, <bounty.name> escorregou pelos nossos dedos mais uma vez. Quem sabe que crimes hediondos eles cometerão antes de termos outra chance de derrubá-los?"
+      "Por": "O rastro esfriou! Sem qualquer outra pista, <bounty.name> escorregou pelos nossos dedos mais uma vez. Quem sabe que crimes hediondos eles cometerão antes de termos outra chance de derrubá-los?"
     }
   },
   {
@@ -429,7 +434,10 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "^orange;<bounty.name>^reset; foi visto pela última vez em <coordinate.name>.",
+      "^orange;<bounty.name>^reset; foi visto pela última vez em <coordinate.name>.\n\n"
+    ],
     "Files": {
       "quests/bounty/find_clue_item.questtemplate": [
         "/scriptConfig/generatedText/text/default/1"
@@ -458,11 +466,14 @@
     },
     "Texts": {
       "Eng": "^orange;<bounty.name>^reset; was last spotted <coordinate.preposition> <coordinate.name>.\n\n",
-      "Por": "^orange;<bounty.name>^reset; foi visto pela última vez em <coordinate.name>."
+      "Por": "^orange;<bounty.name>^reset; foi visto em <coordinate.name>.\n\n"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "O rastro de ^orange;<bounty.name>^reset; esfriou em <coordinate.name>.",
+      "O rastro de ^orange;<bounty.name>^reset; esfriou em <coordinate.name>.\n\n"
+    ],
     "Files": {
       "quests/bounty/find_clue_item.questtemplate": [
         "/scriptConfig/generatedText/text/default/2"
@@ -491,7 +502,7 @@
     },
     "Texts": {
       "Eng": "^orange;<bounty.name>^reset;'s trail went cold <coordinate.preposition> <coordinate.name>.\n\n",
-      "Por": "O rastro de ^orange;<bounty.name>^reset; esfriou em <coordinate.name>."
+      "Por": "^orange;O rastro de ^orange;<bounty.name>^reset; esfriou em <coordinate.name>.\n\n"
     }
   },
   {

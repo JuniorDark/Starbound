@@ -60,7 +60,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Eu gosto do seu estilo - não há necessidade de encontrar o código do cofre, basta adivinhar! Bom trabalho, parceiro(a)!"
+    ],
     "Files": {
       "quests/bounty/generator.config": [
         "/edges/17/mid/text/skipMessage"
@@ -72,7 +74,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Nós pegamos a assinatura do alvo deste planeta. Prossiga para <next.coordinate.name> e prenda o criminoso."
+    ],
     "Files": {
       "quests/bounty/generator.config": [
         "/edges/29/prev/text/message"
@@ -108,7 +112,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Nós pegamos a assinatura do alvo deste planeta. Prossiga para <next.coordinate.name> para investigar mais."
+    ],
     "Files": {
       "quests/bounty/generator.config": [
         "/edges/31/prev/text/message"

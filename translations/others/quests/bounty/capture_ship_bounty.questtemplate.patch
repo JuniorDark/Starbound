@@ -41,11 +41,6 @@
   },
   {
     "op": "replace",
-    "path": "/scriptConfig/generatedText/text/prev/0",
-    "value": "Minhas descobertas em <prev.coordinate.name> levaram-me a crer que <bounty.name> está em <coordinate.name>."
-  },
-  {
-    "op": "replace",
     "path": "/scriptConfig/generatedText/text/default/0",
     "value": "<bounty.name> foi visto pela última vez em <coordinate.name>."
   },

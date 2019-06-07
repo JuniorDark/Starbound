@@ -42,12 +42,12 @@
   {
     "op": "replace",
     "path": "/scriptConfig/generatedText/text/prev/0",
-    "value": "^green;<prev.coordinate.name>^reset;:\nUma pista que descobri no espaço me levou a <coordinate.name>.\n\n"
+    "value": "^green;<coordinate.name>^reset;:\nUma pista que descobri no espaço me levou a <next.coordinate.name>.\n\n"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/generatedText/text/prev/1",
-    "value": "^green;<prev.coordinate.name>^reset;:\nDescobri uma pista em uma instalação espacial que me leva a <coordinate.name>.\n\n"
+    "value": "^green;<coordinate.name>^reset;:\nDescobri uma pista em uma instalação espacial que me leva a <next.coordinate.name>.\n\n"
   },
   {
     "op": "replace",
@@ -57,12 +57,12 @@
   {
     "op": "replace",
     "path": "/scriptConfig/generatedText/text/default/1",
-    "value": "^orange;<bounty.name>^reset; foi visto pela última vez em <coordinate.name>."
+    "value": "^orange;<bounty.name>^reset; foi visto pela última vez em <coordinate.name>.\n\n"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/generatedText/text/default/2",
-    "value": "O rastro de ^orange;<bounty.name>^reset; esfriou em <coordinate.name>."
+    "value": "O rastro de ^orange;<bounty.name>^reset; esfriou em <coordinate.name>.\n\n"
   },
   {
     "op": "replace",
@@ -72,6 +72,6 @@
   {
     "op": "replace",
     "path": "/scriptConfig/generatedText/failureText/default/1",
-    "value": "Tendo esgotado todas as pistas disponíveis, somos forçados a abandonar a caça ao <bounty.name>. É um dia sombrio para a justiça."
+    "value": "Tendo esgotado todas as pistas disponíveis, somos forçados a abandonar a caça à <bounty.name>. É um dia sombrio para a justiça."
   }
 ]

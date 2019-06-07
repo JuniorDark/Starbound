@@ -32,17 +32,17 @@
   {
     "op": "replace",
     "path": "/scriptConfig/generatedText/text/prev/0",
-    "value": "^green;<prev.coordinate.name>^reset;:\nEncontrei uma amostra de DNA que me leva para <coordinate.name>.\n\n"
+    "value": "^green;<coordinate.name>^reset;:\nEncontrei uma amostra de DNA que me leva para <next.coordinate.name>.\n\n"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/generatedText/text/prev/1",
-    "value": "^green;<prev.coordinate.name>^reset;:\nAlgum DNA inesperado que encontrei atualmente está me levando para <coordinate.name>.\n\n"
+    "value": "^green;<coordinate.name>^reset;:\nAlgum DNA inesperado que encontrei atualmente está me levando para <next.coordinate.name>.\n\n"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/generatedText/text/prev/2",
-    "value": "^green;<prev.coordinate.name>^reset;:\nCom minhas habilidades de detetive, rastreei uma amostra de DNA que encontrei que me leva para <coordinate.name>.\n\n"
+    "value": "^green;<coordinate.name>^reset;:\nCom minhas habilidades de detetive, rastreei uma amostra de DNA que encontrei que me leva para <next.coordinate.name>.\n\n"
   },
   {
     "op": "replace",
@@ -57,6 +57,6 @@
   {
     "op": "replace",
     "path": "/scriptConfig/generatedText/failureText/default/1",
-    "value": "Tendo esgotado todas as pistas disponíveis, somos forçados a abandonar a caça ao <bounty.name>. É um dia sombrio para a justiça."
+    "value": "Tendo esgotado todas as pistas disponíveis, somos forçados a abandonar a caça á <bounty.name>. É um dia sombrio para a justiça."
   }
 ]

@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Teletransportador de Retorno"
+    ],
     "Files": {
       "interface/warping/returnteleporter.config": [
         "/destinations/0/name"
@@ -11,7 +13,7 @@
     },
     "Texts": {
       "Eng": "Return Teleporter",
-      "Por": "Teletransportador de Retorno"
+      "Por": "Return Teleporter"
     }
   }
 ]

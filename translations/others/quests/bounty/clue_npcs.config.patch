@@ -2,12 +2,12 @@
   {
     "op": "replace",
     "path": "/tutorial/clues/tutorial/dialog/interrogateStart/default/default/0",
-    "value": "Você precisa passar por mim para chegar ao ^green;Capitão Ignoble^reset;, parce... adversário!"
+    "value": "Não pense que você pode prender ^green;Capitão Ignoble^reset;, parce... adversário!"
   },
   {
     "op": "replace",
     "path": "/tutorial/clues/tutorial/dialog/interrogateEnd/default/default/0",
-    "value": "Hngh... Eu sabia que um bandido como eu nunca poderia ficar contra os poderosos Pacificadores! ^green;Capitão Ignoble^reset; está em <next.coordinate.name>!"
+    "value": "Uh-oh, É melhor eu partir! Nem pense em me rastrear até o meu ^orange;esconderijo real^reset;, Pacificador!"
   },
   {
     "op": "replace",

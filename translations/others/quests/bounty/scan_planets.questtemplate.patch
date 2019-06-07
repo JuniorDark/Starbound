@@ -32,7 +32,12 @@
   {
     "op": "replace",
     "path": "/scriptConfig/generatedText/text/prev/0",
-    "value": "Minhas descobertas em <prev.coordinate.name> levaram-me a crer que <bounty.name> está em <coordinate.name>."
+    "value": "^green;<coordinate.name>^reset;:\nEscaneando por sinais do alvo me levou a <next.coordinate.name>.\n\n"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/generatedText/text/prev/1",
+    "value": "^green;<coordinate.name>^reset;:\nAo escanear os planetas neste sistema, localizei a assinatura alvo em <next.coordinate.name>.\n\n"
   },
   {
     "op": "replace",
