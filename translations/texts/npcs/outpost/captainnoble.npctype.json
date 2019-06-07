@@ -3,6 +3,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/outpost/captainnoble.npctype": [
+        "/scriptConfig/dialog/converse/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Always keep yer head up, Officer <entityname>!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/outpost/captainnoble.npctype": [
         "/scriptConfig/dialog/converse/default/default/0"
       ]
     },

@@ -25,8 +25,7 @@
       ]
     },
     "Texts": {
-      "Eng": "^green;<prev.coordinate.name>^reset;:\nA henchman I interrogated gave me the location \"<coordinate.name>\".\n\n",
-      "Por": "^green;<prev.coordinate.name>^reset;:\nUm capanga que eu interroguei me deu a localização \"<coordinate.name>\".\n\n"
+      "Eng": "^green;<coordinate.name>^reset;:\nA henchman I interrogated gave me the location \"<next.coordinate.name>\".\n\n"
     }
   },
   {
@@ -40,14 +39,11 @@
       ]
     },
     "Texts": {
-      "Eng": "^green;<prev.coordinate.name>^reset;:\nAfter some encouragement, a henchman gave me the location \"<coordinate.name>\".\n\n",
-      "Por": "^green;<prev.coordinate.name>^reset;:\nDepois de algum incentivo, um capanga me deu a localização \"<coordinate.name>\".\n\n"
+      "Eng": "^green;<coordinate.name>^reset;:\nAfter some encouragement, a henchman gave me the location \"<next.coordinate.name>\".\n\n"
     }
   },
   {
-    "DeniedAlternatives": [
-      "^green;<prev.coordinate.name>^reset;:\nUm dos lacaios de <bounty.name> me levou a \"<coordinate.name>\".\n"
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "quests/bounty/find_clue_npc.questtemplate": [
         "/scriptConfig/generatedText/text/prev/2"
@@ -57,8 +53,7 @@
       ]
     },
     "Texts": {
-      "Eng": "^green;<prev.coordinate.name>^reset;:\nOne of <bounty.name>'s lackeys led me to \"<coordinate.name>\".\n\n",
-      "Por": "^green;<prev.coordinate.name>^reset;:\nUm dos lacaios de <bounty.name> me levou a \"<coordinate.name>\".\n\n"
+      "Eng": "^green;<coordinate.name>^reset;:\nOne of <bounty.name>'s lackeys led me to \"<next.coordinate.name>\".\n\n"
     }
   }
 ]

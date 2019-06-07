@@ -1492,7 +1492,7 @@
     "/shortdescription": "texts/shared_laser.json"
   },
   "items/active/unsorted/miningdrone/miningdrone.activeitem": {
-    "/description": "texts/wide_spread_fields.json"
+    "/shortdescription": "texts/shared_miningdrone.json"
   },
   "items/active/unsorted/papernote/papernote.activeitem": {
     "/description": "texts/items/active/unsorted/papernote/shared_note.activeitem.json",
@@ -3956,7 +3956,8 @@
     "/description": "texts/monsters/space/shared_masteroid/shared_.monstertype.json"
   },
   "monsters/unsorted/miningdrone/miningdrone.monstertype": {
-    "/description": "texts/wide_spread_fields.json"
+    "/description": "texts/wide_spread_fields.json",
+    "/shortdescription": "texts/shared_miningdrone.json"
   },
   "monsters/walkers/adultpoptop/adultpoptop.monstertype": {
     "/description": "texts/monsters/walkers/adultpoptop/shared_poptop.monstertype.json"
@@ -10026,7 +10027,6 @@
     "/humanDescription": "texts/objects/shared_ect.json"
   },
   "objects/generic/bluelight/bluelight.object": {
-    "/glitchDescription": "texts/objects/shared_light/shared_light.object.json",
     "/novakidDescription": "texts/objects/shared_light/shared_light.object.json"
   },
   "objects/generic/box1/box1.object": {
@@ -12465,58 +12465,21 @@
     "/description": "texts/objects/mission/shared_treeprop/shared_treeprop.json",
     "/shortdescription": "texts/objects/mission/shared_treeprop/shared_treeprop.json"
   },
-  "objects/neon/neonhologram/neonhologram.object": {
-    "/apexDescription": "texts/wide_spread_fields.json",
-    "/avianDescription": "texts/wide_spread_fields.json",
-    "/floranDescription": "texts/wide_spread_fields.json",
-    "/glitchDescription": "texts/wide_spread_fields.json",
-    "/humanDescription": "texts/wide_spread_fields.json",
-    "/hylotlDescription": "texts/wide_spread_fields.json",
-    "/novakidDescription": "texts/wide_spread_fields.json"
-  },
   "objects/neon/neonlamppost/neonlamppost.object": {
-    "/apexDescription": "texts/wide_spread_fields.json",
-    "/avianDescription": "texts/wide_spread_fields.json",
-    "/floranDescription": "texts/wide_spread_fields.json",
-    "/glitchDescription": "texts/wide_spread_fields.json",
-    "/humanDescription": "texts/wide_spread_fields.json",
-    "/hylotlDescription": "texts/wide_spread_fields.json",
-    "/novakidDescription": "texts/wide_spread_fields.json"
+    "/apexDescription": "texts/wide_spread_fields.json"
   },
   "objects/neon/neonlight/neonlight.object": {
-    "/glitchDescription": "texts/objects/shared_light/shared_light.object.json",
     "/novakidDescription": "texts/objects/shared_light/shared_light.object.json"
   },
   "objects/neon/neonpeacekeeperemblem/neonpeacekeeperemblem.object": {
-    "/apexDescription": "texts/wide_spread_fields.json",
-    "/avianDescription": "texts/wide_spread_fields.json",
-    "/description": "texts/objects/neon/shared_neon/shared_.object.json",
-    "/floranDescription": "texts/wide_spread_fields.json",
-    "/glitchDescription": "texts/wide_spread_fields.json",
-    "/humanDescription": "texts/wide_spread_fields.json",
-    "/hylotlDescription": "texts/wide_spread_fields.json",
-    "/novakidDescription": "texts/wide_spread_fields.json"
+    "/description": "texts/objects/neon/shared_neon/shared_.object.json"
   },
   "objects/neon/neonstore/neonstore.object": {
-    "/apexDescription": "texts/wide_spread_fields.json",
-    "/avianDescription": "texts/wide_spread_fields.json",
     "/description": "texts/wide_spread_fields.json",
-    "/floranDescription": "texts/wide_spread_fields.json",
-    "/glitchDescription": "texts/wide_spread_fields.json",
-    "/humanDescription": "texts/wide_spread_fields.json",
-    "/hylotlDescription": "texts/wide_spread_fields.json",
-    "/interactData/paneLayoutOverride/windowtitle/subtitle": "texts/objects/shared_.object.json",
-    "/novakidDescription": "texts/wide_spread_fields.json"
+    "/interactData/paneLayoutOverride/windowtitle/subtitle": "texts/objects/shared_.object.json"
   },
   "objects/neon/neontriangle/neontriangle.object": {
-    "/apexDescription": "texts/wide_spread_fields.json",
-    "/avianDescription": "texts/wide_spread_fields.json",
-    "/description": "texts/objects/neon/shared_neon/shared_.object.json",
-    "/floranDescription": "texts/wide_spread_fields.json",
-    "/glitchDescription": "texts/wide_spread_fields.json",
-    "/humanDescription": "texts/wide_spread_fields.json",
-    "/hylotlDescription": "texts/wide_spread_fields.json",
-    "/novakidDescription": "texts/wide_spread_fields.json"
+    "/description": "texts/objects/neon/shared_neon/shared_.object.json"
   },
   "objects/novakid/novakidstoragelocker/novakidstoragelocker.object": {
     "/apexDescription": "texts/objects/shared_storagelocker/shared_storagelocker.object.json",
@@ -13395,53 +13358,16 @@
     "/shortdescription": "texts/objects/shared_water/shared_.object.json"
   },
   "objects/peacekeeper/peacekeeperchair/peacekeeperchair.object": {
-    "/apexDescription": "texts/wide_spread_fields.json",
-    "/avianDescription": "texts/wide_spread_fields.json",
-    "/description": "texts/wide_spread_fields.json",
-    "/floranDescription": "texts/wide_spread_fields.json",
-    "/glitchDescription": "texts/wide_spread_fields.json",
-    "/humanDescription": "texts/wide_spread_fields.json",
-    "/hylotlDescription": "texts/wide_spread_fields.json",
-    "/novakidDescription": "texts/wide_spread_fields.json"
-  },
-  "objects/peacekeeper/peacekeeperdesk/peacekeeperdesk.object": {
-    "/apexDescription": "texts/wide_spread_fields.json",
-    "/avianDescription": "texts/wide_spread_fields.json",
-    "/floranDescription": "texts/wide_spread_fields.json",
-    "/glitchDescription": "texts/wide_spread_fields.json",
-    "/humanDescription": "texts/wide_spread_fields.json",
-    "/hylotlDescription": "texts/wide_spread_fields.json",
-    "/novakidDescription": "texts/wide_spread_fields.json"
-  },
-  "objects/peacekeeper/peacekeeperdoor/peacekeeperdoor.object": {
-    "/apexDescription": "texts/wide_spread_fields.json",
-    "/avianDescription": "texts/wide_spread_fields.json",
-    "/description": "texts/wide_spread_fields.json",
-    "/floranDescription": "texts/wide_spread_fields.json",
-    "/glitchDescription": "texts/wide_spread_fields.json",
-    "/humanDescription": "texts/wide_spread_fields.json",
-    "/hylotlDescription": "texts/wide_spread_fields.json",
-    "/novakidDescription": "texts/wide_spread_fields.json"
+    "/description": "texts/wide_spread_fields.json"
   },
   "objects/peacekeeper/peacekeeperfurnishings/peacekeeperfurnishings.object": {
-    "/apexDescription": "texts/wide_spread_fields.json",
-    "/avianDescription": "texts/wide_spread_fields.json",
-    "/description": "texts/wide_spread_fields.json",
-    "/floranDescription": "texts/wide_spread_fields.json",
-    "/glitchDescription": "texts/wide_spread_fields.json",
-    "/humanDescription": "texts/wide_spread_fields.json",
-    "/hylotlDescription": "texts/wide_spread_fields.json",
-    "/interactData/paneLayoutOverride/windowtitle/subtitle": "texts/objects/shared_.object.json",
-    "/novakidDescription": "texts/wide_spread_fields.json"
+    "/interactData/paneLayoutOverride/windowtitle/subtitle": "texts/objects/shared_.object.json"
   },
   "objects/peacekeeper/peacekeeperlamppost/peacekeeperlamppost.object": {
     "/apexDescription": "texts/wide_spread_fields.json",
     "/avianDescription": "texts/wide_spread_fields.json",
     "/floranDescription": "texts/wide_spread_fields.json",
-    "/glitchDescription": "texts/wide_spread_fields.json",
-    "/humanDescription": "texts/wide_spread_fields.json",
-    "/hylotlDescription": "texts/wide_spread_fields.json",
-    "/novakidDescription": "texts/wide_spread_fields.json"
+    "/glitchDescription": "texts/wide_spread_fields.json"
   },
   "objects/peacekeeper/peacekeepernotes/peacekeepernotes.object": {
     "/apexDescription": "texts/wide_spread_fields.json",
@@ -16830,13 +16756,11 @@
     "/completionText": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/failure/default/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/default/0": "texts/quests/bounty/shared_.questtemplate.json",
-    "/scriptConfig/generatedText/text/prev/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/title": "texts/quests/bounty/shared_.questtemplate.json"
   },
   "quests/bounty/capture_ship_bounty.questtemplate": {
     "/scriptConfig/generatedText/failure/default/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/default/0": "texts/quests/bounty/shared_.questtemplate.json",
-    "/scriptConfig/generatedText/text/prev/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/text": "texts/quests/bounty/shared_.questtemplate.json",
     "/title": "texts/quests/bounty/shared_.questtemplate.json"
   },
@@ -16844,7 +16768,6 @@
     "/completionText": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/failure/default/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/default/0": "texts/quests/bounty/shared_.questtemplate.json",
-    "/scriptConfig/generatedText/text/prev/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/text": "texts/quests/bounty/shared_.questtemplate.json",
     "/title": "texts/quests/bounty/shared_.questtemplate.json"
   },
@@ -16863,8 +16786,6 @@
     "/scriptConfig/generatedText/text/default/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/default/1": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/default/2": "texts/quests/bounty/shared_.questtemplate.json",
-    "/scriptConfig/generatedText/text/prev/0": "texts/quests/bounty/shared_.questtemplate.json",
-    "/scriptConfig/generatedText/text/prev/1": "texts/quests/bounty/shared_.questtemplate.json",
     "/text": "texts/quests/bounty/shared_.questtemplate.json",
     "/title": "texts/quests/bounty/shared_.questtemplate.json"
   },
@@ -16957,8 +16878,6 @@
     "/scriptConfig/generatedText/text/default/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/default/1": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/default/2": "texts/quests/bounty/shared_.questtemplate.json",
-    "/scriptConfig/generatedText/text/prev/0": "texts/quests/bounty/shared_.questtemplate.json",
-    "/scriptConfig/generatedText/text/prev/1": "texts/quests/bounty/shared_.questtemplate.json",
     "/text": "texts/quests/bounty/shared_.questtemplate.json",
     "/title": "texts/quests/bounty/shared_.questtemplate.json"
   },
@@ -16991,7 +16910,6 @@
     "/title": "texts/quests/bounty/shared_.questtemplate.json"
   },
   "quests/bounty/scan_planets.questtemplate": {
-    "/scriptConfig/generatedText/text/prev/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/text": "texts/quests/bounty/shared_.questtemplate.json",
     "/title": "texts/quests/bounty/shared_.questtemplate.json"
   },

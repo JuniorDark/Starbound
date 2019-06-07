@@ -15,12 +15,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/neon/neonlight/neonlight.object": [
-        "/floranDescription"
+        "/glitchDescription"
       ]
     },
     "Texts": {
-      "Eng": "Floran thinksss neon is okay colour. Not asss good as green or red!",
-      "Por": "Floran acha que néon é uma cor boa. Não tão boa quanto verde ou vermelho!"
+      "Eng": "Calm. This light creates a pleasant atmosphere."
     }
   },
   {
@@ -39,12 +38,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/neon/neonlight/neonlight.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pink isss a strong colour! Colour of strong and healthy flower!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/neon/neonlight/neonlight.object": [
         "/apexDescription"
       ]
     },
     "Texts": {
-      "Eng": "These lights give off a cold neon hue.",
-      "Por": "Estas luzes emitem uma tonalidade néon fria."
+      "Eng": "These lights give off a warm magenta hue."
     }
   },
   {
@@ -55,8 +64,7 @@
       ]
     },
     "Texts": {
-      "Eng": "This neon light makes my shiver, although it isn't actually cold.",
-      "Por": "Esta luz de néon me faz sentir calafrios, embora não seja realmente fria."
+      "Eng": "This neon light reminds me of a sunset, shining through diamond clouds."
     }
   },
   {

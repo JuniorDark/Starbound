@@ -29,9 +29,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "items/active/unsorted/miningdrone/miningdrone.activeitem": [
-        "/description"
-      ],
       "items/active/weapons/ranged/unrand/neomagnum/neomagnum1.activeitem": [
         "/description"
       ],
@@ -132,99 +129,20 @@
         "/hylotlDescription",
         "/novakidDescription"
       ],
-      "objects/neon/neonhologram/neonhologram.object": [
-        "/apexDescription",
-        "/avianDescription",
-        "/floranDescription",
-        "/glitchDescription",
-        "/humanDescription",
-        "/hylotlDescription",
-        "/novakidDescription"
-      ],
       "objects/neon/neonlamppost/neonlamppost.object": [
-        "/apexDescription",
-        "/avianDescription",
-        "/floranDescription",
-        "/glitchDescription",
-        "/humanDescription",
-        "/hylotlDescription",
-        "/novakidDescription"
-      ],
-      "objects/neon/neonpeacekeeperemblem/neonpeacekeeperemblem.object": [
-        "/apexDescription",
-        "/avianDescription",
-        "/floranDescription",
-        "/glitchDescription",
-        "/humanDescription",
-        "/hylotlDescription",
-        "/novakidDescription"
+        "/apexDescription"
       ],
       "objects/neon/neonstore/neonstore.object": [
-        "/apexDescription",
-        "/avianDescription",
-        "/description",
-        "/floranDescription",
-        "/glitchDescription",
-        "/humanDescription",
-        "/hylotlDescription",
-        "/novakidDescription"
-      ],
-      "objects/neon/neontriangle/neontriangle.object": [
-        "/apexDescription",
-        "/avianDescription",
-        "/floranDescription",
-        "/glitchDescription",
-        "/humanDescription",
-        "/hylotlDescription",
-        "/novakidDescription"
+        "/description"
       ],
       "objects/peacekeeper/peacekeeperchair/peacekeeperchair.object": [
-        "/apexDescription",
-        "/avianDescription",
-        "/description",
-        "/floranDescription",
-        "/glitchDescription",
-        "/humanDescription",
-        "/hylotlDescription",
-        "/novakidDescription"
-      ],
-      "objects/peacekeeper/peacekeeperdesk/peacekeeperdesk.object": [
-        "/apexDescription",
-        "/avianDescription",
-        "/floranDescription",
-        "/glitchDescription",
-        "/humanDescription",
-        "/hylotlDescription",
-        "/novakidDescription"
-      ],
-      "objects/peacekeeper/peacekeeperdoor/peacekeeperdoor.object": [
-        "/apexDescription",
-        "/avianDescription",
-        "/description",
-        "/floranDescription",
-        "/glitchDescription",
-        "/humanDescription",
-        "/hylotlDescription",
-        "/novakidDescription"
-      ],
-      "objects/peacekeeper/peacekeeperfurnishings/peacekeeperfurnishings.object": [
-        "/apexDescription",
-        "/avianDescription",
-        "/description",
-        "/floranDescription",
-        "/glitchDescription",
-        "/humanDescription",
-        "/hylotlDescription",
-        "/novakidDescription"
+        "/description"
       ],
       "objects/peacekeeper/peacekeeperlamppost/peacekeeperlamppost.object": [
         "/apexDescription",
         "/avianDescription",
         "/floranDescription",
-        "/glitchDescription",
-        "/humanDescription",
-        "/hylotlDescription",
-        "/novakidDescription"
+        "/glitchDescription"
       ],
       "objects/peacekeeper/peacekeepernotes/peacekeepernotes.object": [
         "/apexDescription",

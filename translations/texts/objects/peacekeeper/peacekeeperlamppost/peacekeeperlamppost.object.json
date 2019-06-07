@@ -15,12 +15,45 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/peacekeeper/peacekeeperlamppost/peacekeeperlamppost.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A rather ugly lamp post."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/peacekeeper/peacekeeperlamppost/peacekeeperlamppost.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Encroaching urbanisation isn't complete without a lamp post or two!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/peacekeeper/peacekeeperlamppost/peacekeeperlamppost.object": [
         "/shortdescription"
       ]
     },
     "Texts": {
       "Eng": "Peacekeeper Lamp Post",
       "Por": "Peacekeeper Lamp Post"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/peacekeeper/peacekeeperlamppost/peacekeeperlamppost.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This here lamp post is mighty tall, ain't it?"
     }
   }
 ]

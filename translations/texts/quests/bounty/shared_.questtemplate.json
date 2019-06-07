@@ -170,22 +170,10 @@
       "quests/bounty/bounty_mission.questtemplate": [
         "/scriptConfig/generatedText/text/prev/0"
       ],
-      "quests/bounty/capture_bounty.questtemplate": [
-        "/scriptConfig/generatedText/text/prev/0"
-      ],
-      "quests/bounty/capture_ship_bounty.questtemplate": [
-        "/scriptConfig/generatedText/text/prev/0"
-      ],
-      "quests/bounty/capture_space_bounty.questtemplate": [
-        "/scriptConfig/generatedText/text/prev/0"
-      ],
       "quests/bounty/cultist_mission1.questtemplate": [
         "/scriptConfig/generatedText/text/prev/0"
       ],
       "quests/bounty/kill_bounty_monster.questtemplate": [
-        "/scriptConfig/generatedText/text/prev/0"
-      ],
-      "quests/bounty/scan_planets.questtemplate": [
         "/scriptConfig/generatedText/text/prev/0"
       ]
     },
@@ -402,36 +390,6 @@
     "Texts": {
       "Eng": "You took out <bounty.name>? Excellent work, partner! The universe is just a little bit safer now.\n\nCome by the Peacekeeper office next time you're on the Outpost to collect your rewards!",
       "Por": "Você pegou <bounty.name>? Excelente trabalho, parceiro(a)! O universo esta apenas um pouco mais seguro agora.\n\nVenha até o escritório dos Pacificadores na próxima vez que você estiver no Posto avançado para receber suas recompensas!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/bounty/find_clue_item.questtemplate": [
-        "/scriptConfig/generatedText/text/prev/0"
-      ],
-      "quests/bounty/find_tutorial_clues.questtemplate": [
-        "/scriptConfig/generatedText/text/prev/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "^green;<prev.coordinate.name>^reset;:\nA clue I found here has led me to <coordinate.name>.\n\n",
-      "Por": "^green;<prev.coordinate.name>^reset;:\nUma pista que encontrei aqui me levou a <coordinate.name>.\n\n"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/bounty/find_clue_item.questtemplate": [
-        "/scriptConfig/generatedText/text/prev/1"
-      ],
-      "quests/bounty/find_tutorial_clues.questtemplate": [
-        "/scriptConfig/generatedText/text/prev/1"
-      ]
-    },
-    "Texts": {
-      "Eng": "^green;<prev.coordinate.name>^reset;:\nI discovered a lead here that takes me to <coordinate.name>.\n\n",
-      "Por": "^green;<prev.coordinate.name>^reset;:\nEu descobri uma pista aqui que me leva a <coordinate.name>.\n\n"
     }
   },
   {

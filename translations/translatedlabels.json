@@ -700,7 +700,7 @@
             "laserminer.activeitem.json": 1
           },
           "miningdrone": {
-            "miningdrone.activeitem.json": 1
+            "miningdrone.activeitem.json": 0
           },
           "oredetector": {
             "cavedetector.activeitem.json": 2,
@@ -4615,11 +4615,6 @@
         },
         "twigun": {
           "twigun.monstertype.json": 2
-        }
-      },
-      "unsorted": {
-        "miningdrone": {
-          "miningdrone.monstertype.json": 1
         }
       },
       "walkers": {
@@ -8638,7 +8633,7 @@
           "birdsnest.object.json": 9
         },
         "bluelight": {
-          "bluelight.object.json": 7
+          "bluelight.object.json": 8
         },
         "box1": {
           "box1.object.json": 8
@@ -11058,7 +11053,7 @@
           "neonlamppost.object.json": 2
         },
         "neonlight": {
-          "neonlight.object.json": 7
+          "neonlight.object.json": 4
         },
         "neonpeacekeeperemblem": {
           "neonpeacekeeperemblem.object.json": 1
@@ -11524,7 +11519,7 @@
           "peacekeepercomputer.object.json": 9
         },
         "peacekeeperdesk": {
-          "peacekeeperdesk.object.json": 2
+          "peacekeeperdesk.object.json": 1
         },
         "peacekeeperdoor": {
           "peacekeeperdoor.object.json": 1
@@ -11934,7 +11929,7 @@
         "shared_door.object.json": 2
       },
       "shared_light": {
-        "shared_light.object.json": 16,
+        "shared_light.object.json": 15,
         "shared_lightBroken.object.json": 1,
         "shared_roken.object.json": 5
       },
@@ -13654,20 +13649,22 @@
         "capture_space_bounty.questtemplate.json": 1,
         "clue_bounties.config.json": 45,
         "clue_items.config.json": 69,
-        "clue_npcs.config.json": 99,
+        "clue_npcs.config.json": 97,
         "clue_objects.config.json": 35,
         "clue_scans.config.json": 6,
-        "find_clue_scan.questtemplate.json": 3,
+        "find_clue_item.questtemplate.json": 0,
+        "find_clue_scan.questtemplate.json": 0,
+        "find_tutorial_clues.questtemplate.json": 0,
         "generator.config.json": 12,
         "pre_bounty.questtemplate.json": 1,
         "pre_bounty_capstone.questtemplate.json": 1,
         "pre_bounty_minor_monster.questtemplate.json": 3,
         "pre_bounty_minor_npc.questtemplate.json": 1,
         "scan_planets.questtemplate.json": 1,
-        "shared_.questtemplate.json": 25,
-        "shared__clue_npc.questtemplate.json": 4,
-        "shared__clue_object.questtemplate.json": 4,
-        "shared_find_space_clue_.json": 3
+        "shared_.questtemplate.json": 23,
+        "shared__clue_npc.questtemplate.json": 1,
+        "shared__clue_object.questtemplate.json": 0,
+        "shared_find_space_clue_.json": 1
       },
       "food": {
         "firstcrops.questtemplate.json": 3,
@@ -13845,6 +13842,7 @@
     "shared_laser.json": 1,
     "shared_lunarbaseplatform.mat.json": 5,
     "shared_merchant..json": 1,
+    "shared_miningdrone.json": 1,
     "shared_modernplatform.mat.json": 4,
     "shared_monster.json": 13,
     "shared_monstert.json": 5,
