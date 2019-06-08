@@ -362,7 +362,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Você deixou ele ir! Eu tenho que dizer que você falhou em seus deveres como Pacificador dessa vez, parceiro(a)!"
+    ],
     "Files": {
       "quests/bounty/bounty_mission.questtemplate": [
         "/scriptConfig/generatedText/failure/escape/0"
@@ -379,11 +381,13 @@
     },
     "Texts": {
       "Eng": "You let them go!? I gotta say, you've failed in your duties as a Peacekeeper this time, partner!",
-      "Por": "Você deixou ele ir! Eu tenho que dizer que você falhou em seus deveres como Pacificador dessa vez, parceiro(a)!"
+      "Por": "Você deixou ele ir!? Eu tenho que dizer que você falhou em seu dever como Pacificador dessa vez, parceiro(a)!"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Você pegou <bounty.name>? Excelente trabalho, parceiro(a)! O universo esta apenas um pouco mais seguro agora.\n\nVenha até o escritório dos Pacificadores na próxima vez que você estiver no Posto avançado para receber suas recompensas!"
+    ],
     "Files": {
       "quests/bounty/cultist_mission1.questtemplate": [
         "/scriptConfig/generatedText/complete/default/0"
@@ -394,7 +398,7 @@
     },
     "Texts": {
       "Eng": "You took out <bounty.name>? Excellent work, partner! The universe is just a little bit safer now.\n\nCome by the Peacekeeper office next time you're on the Outpost to collect your rewards!",
-      "Por": "Você pegou <bounty.name>? Excelente trabalho, parceiro(a)! O universo esta apenas um pouco mais seguro agora.\n\nVenha até o escritório dos Pacificadores na próxima vez que você estiver no Posto avançado para receber suas recompensas!"
+      "Por": "Você pegou <bounty.name>? Excelente trabalho, parceiro(a)! O universo esta apenas um pouco mais seguro agora.\n\nVenha até a Estação dos Pacificadores para receber suas recompensas!"
     }
   },
   {

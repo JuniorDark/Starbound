@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Este ornamento da parede brilha com uma luz magenta forte."
+    ],
     "Files": {
       "objects/neon/neonpeacekeeperemblem/neonpeacekeeperemblem.object": [
         "/description"
@@ -11,7 +13,7 @@
     },
     "Texts": {
       "Eng": "This wall ornament glows with a bold magenta light.",
-      "Por": "Este ornamento da parede brilha com uma luz magenta forte."
+      "Por": "Este ornamento de parede brilha com uma luz magenta forte."
     }
   }
 ]

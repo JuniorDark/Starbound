@@ -1,6 +1,8 @@
 [
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Quadro de Recompensas"
+    ],
     "Files": {
       "interface/scripted/bountyboard/bountyboardgui.config": [
         "/gui/windowtitle/title"
@@ -8,11 +10,13 @@
     },
     "Texts": {
       "Eng": " Bounty Board",
-      "Por": "Quadro de Recompensas"
+      "Por": " Quadro de Recompensas"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Os Mais Procurados da Galáxia"
+    ],
     "Files": {
       "interface/scripted/bountyboard/bountyboardgui.config": [
         "/gui/windowtitle/subtitle"
@@ -20,7 +24,7 @@
     },
     "Texts": {
       "Eng": " The Galaxy's Most Wanted",
-      "Por": "Os Mais Procurados da Galáxia"
+      "Por": " Os Mais Procurados da Galáxia"
     }
   },
   {

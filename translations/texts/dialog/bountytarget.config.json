@@ -724,7 +724,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Furious. Get these things off me!"
+    ],
     "Files": {
       "dialog/bountytarget.config": [
         "/arrested/glitch/default/0"
@@ -732,7 +734,7 @@
     },
     "Texts": {
       "Eng": "Furious. Get these things off me!",
-      "Por": "Furious. Get these things off me!"
+      "Por": "Furioso. Tire essas coisas de mim!"
     }
   },
   {

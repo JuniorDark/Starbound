@@ -348,7 +348,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Comida"
+    ],
     "Files": {
       "items/categories.config": [
         "/labels/food"
@@ -356,7 +358,7 @@
     },
     "Texts": {
       "Eng": "Food",
-      "Por": "Comida"
+      "Por": "Alimento"
     }
   },
   {
@@ -745,7 +747,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Rifle Sniper"
+    ],
     "Files": {
       "items/categories.config": [
         "/labels/sniperRifle"
@@ -753,7 +757,7 @@
     },
     "Texts": {
       "Eng": "Sniper Rifle",
-      "Por": "Rifle Sniper"
+      "Por": "Fuzil de Precisão"
     }
   },
   {

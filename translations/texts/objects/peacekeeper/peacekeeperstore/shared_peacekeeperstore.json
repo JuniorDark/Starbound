@@ -126,7 +126,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Peacekeeper Store"
+    ],
     "Files": {
       "objects/peacekeeper/peacekeeperstore/peacekeeperstore1.object": [
         "/interactData/paneLayoutOverride/windowtitle/title",
@@ -147,7 +149,7 @@
     },
     "Texts": {
       "Eng": "Peacekeeper Store",
-      "Por": "Peacekeeper Store"
+      "Por": "Loja do Pacificador"
     }
   },
   {

@@ -15,7 +15,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Decore como um Pacificador!"
+    ],
     "Files": {
       "objects/neon/neonstore/neonstore.object": [
         "/interactData/paneLayoutOverride/windowtitle/subtitle"
@@ -26,7 +28,7 @@
     },
     "Texts": {
       "Eng": " Decorate like a Peacekeeper!",
-      "Por": "Decore como um Pacificador!"
+      "Por": " Decore como um Pacificador!"
     }
   },
   {
