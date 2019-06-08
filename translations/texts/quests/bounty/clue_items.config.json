@@ -143,7 +143,7 @@
         "/papernote/scan/0/message",
         "/papernote/spaceBounty/0/message",
         "/papernote/spaceClue/0/message",
-        "/vaultnote/vaultClue/0/message"
+        "/papernote/vaultClue/0/message"
       ]
     },
     "Texts": {
@@ -191,7 +191,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/bounty/clue_items.config": [
-        "/vaultnote/vaultClue/1/parameters/noteText"
+        "/papernote/vaultClue/1/parameters/noteText"
       ]
     },
     "Texts": {
@@ -318,7 +318,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/bounty/clue_items.config": [
-        "/vaultnote/vaultClue/2/parameters/noteText"
+        "/papernote/vaultClue/2/parameters/noteText"
       ]
     },
     "Texts": {
@@ -467,7 +467,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/bounty/clue_items.config": [
-        "/vaultnote/vaultClue/2/message"
+        "/papernote/vaultClue/2/message"
       ]
     },
     "Texts": {
@@ -608,7 +608,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/bounty/clue_items.config": [
-        "/vaultnote/vaultClue/0/parameters/noteText"
+        "/papernote/vaultClue/0/parameters/noteText"
       ]
     },
     "Texts": {
@@ -845,7 +845,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/bounty/clue_items.config": [
-        "/vaultnote/vaultClue/1/message"
+        "/papernote/vaultClue/1/message"
       ]
     },
     "Texts": {

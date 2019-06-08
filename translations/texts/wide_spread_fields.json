@@ -138,66 +138,8 @@
       "objects/peacekeeper/peacekeeperchair/peacekeeperchair.object": [
         "/description"
       ],
-      "objects/peacekeeper/peacekeeperlamppost/peacekeeperlamppost.object": [
-        "/apexDescription",
-        "/avianDescription",
-        "/floranDescription",
-        "/glitchDescription"
-      ],
-      "objects/peacekeeper/peacekeepernotes/peacekeepernotes.object": [
-        "/apexDescription",
-        "/avianDescription",
-        "/floranDescription",
-        "/glitchDescription",
-        "/humanDescription",
-        "/hylotlDescription",
-        "/novakidDescription"
-      ],
-      "objects/peacekeeper/peacekeeperpainting/peacekeeperpainting.object": [
-        "/apexDescription",
-        "/avianDescription",
-        "/floranDescription",
-        "/glitchDescription",
-        "/humanDescription",
-        "/hylotlDescription",
-        "/novakidDescription"
-      ],
-      "objects/peacekeeper/peacekeeperposter1/peacekeeperposter1.object": [
-        "/apexDescription",
-        "/avianDescription",
-        "/floranDescription",
-        "/glitchDescription",
-        "/humanDescription",
-        "/hylotlDescription",
-        "/novakidDescription"
-      ],
-      "objects/peacekeeper/peacekeeperposter2/peacekeeperposter2.object": [
-        "/apexDescription",
-        "/avianDescription",
-        "/floranDescription",
-        "/glitchDescription",
-        "/humanDescription",
-        "/hylotlDescription",
-        "/novakidDescription"
-      ],
       "objects/peacekeeper/peacekeepertable/peacekeepertable.object": [
-        "/apexDescription",
-        "/avianDescription",
-        "/description",
-        "/floranDescription",
-        "/glitchDescription",
-        "/humanDescription",
-        "/hylotlDescription",
-        "/novakidDescription"
-      ],
-      "objects/peacekeeper/peacekeepervendingmachine/peacekeepervendingmachine.object": [
-        "/apexDescription",
-        "/avianDescription",
-        "/floranDescription",
-        "/glitchDescription",
-        "/humanDescription",
-        "/hylotlDescription",
-        "/novakidDescription"
+        "/description"
       ],
       "objects/teleporter/peacekeeperteleporter/peacekeeperteleporter.object": [
         "/apexDescription",
@@ -497,14 +439,14 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "interface/scripted/bountyboard/bountyboardgui.config": [
-        "/bountyTypes/occasusCommander/questConfig/target/monster/parameters/shortdescription"
-      ],
       "monsters/boss/cultistboss/cultistboss.monstertype": [
         "/shortdescription"
       ],
       "monsters/boss/swansong/noxcapture.monstertype": [
         "/shortdescription"
+      ],
+      "quests/bounty/assignment.config": [
+        "/bountyTypes/occasusCommander/questConfig/target/monster/parameters/shortdescription"
       ],
       "radiomessages/missions.radiomessages": [
         "/cultistmission06b/senderName",

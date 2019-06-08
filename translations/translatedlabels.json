@@ -502,7 +502,7 @@
           "ancientconsolegui.config.json": 3
         },
         "bountyboard": {
-          "bountyboardgui.config.json": 16
+          "bountyboardgui.config.json": 11
         },
         "collections": {
           "collectionsgui.config.json": 4
@@ -707,7 +707,7 @@
             "oredetector.activeitem.json": 2
           },
           "papernote": {
-            "shared_note.activeitem.json": 2
+            "papernote.activeitem.json": 2
           },
           "parasol": {
             "parasol.activeitem.json": 2
@@ -13642,12 +13642,13 @@
     "player.config.json": 4,
     "quests": {
       "bounty": {
+        "assignment.config.json": 0,
         "bounty_gen.questtemplate.json": 3,
         "bountyassignment.questtemplate.json": 8,
         "capture_bounty.questtemplate.json": 2,
         "capture_ship_bounty.questtemplate.json": 2,
         "capture_space_bounty.questtemplate.json": 1,
-        "clue_bounties.config.json": 45,
+        "clue_bounties.config.json": 44,
         "clue_items.config.json": 69,
         "clue_npcs.config.json": 99,
         "clue_objects.config.json": 35,

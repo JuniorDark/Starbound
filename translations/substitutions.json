@@ -959,7 +959,6 @@
     "/gui/costLabel/value": "texts/interface/scripted/shared_gui.config.json"
   },
   "interface/scripted/bountyboard/bountyboardgui.config": {
-    "/bountyTypes/occasusCommander/questConfig/target/monster/parameters/shortdescription": "texts/wide_spread_fields.json",
     "/gui/summaryOverlay/children/lblMoneyHeader/value": "texts/wide_spread_fields.json",
     "/gui/summaryOverlay/children/lblMoneyList/value": "texts/wide_spread_fields.json",
     "/gui/summaryOverlay/children/lblNameHeader/value": "texts/interface.json",
@@ -1493,14 +1492,6 @@
   },
   "items/active/unsorted/miningdrone/miningdrone.activeitem": {
     "/shortdescription": "texts/shared_miningdrone.json"
-  },
-  "items/active/unsorted/papernote/papernote.activeitem": {
-    "/description": "texts/items/active/unsorted/papernote/shared_note.activeitem.json",
-    "/shortdescription": "texts/items/active/unsorted/papernote/shared_note.activeitem.json"
-  },
-  "items/active/unsorted/papernote/vaultnote.activeitem": {
-    "/description": "texts/items/active/unsorted/papernote/shared_note.activeitem.json",
-    "/shortdescription": "texts/items/active/unsorted/papernote/shared_note.activeitem.json"
   },
   "items/active/unsorted/rewardbag/rewardbag.activeitem": {
     "/description": "texts/items/active/unsorted/shared_rewardbag/shared_rewardbag.activeitem.json"
@@ -13363,49 +13354,25 @@
   "objects/peacekeeper/peacekeeperfurnishings/peacekeeperfurnishings.object": {
     "/interactData/paneLayoutOverride/windowtitle/subtitle": "texts/objects/shared_.object.json"
   },
-  "objects/peacekeeper/peacekeeperlamppost/peacekeeperlamppost.object": {
-    "/apexDescription": "texts/wide_spread_fields.json",
-    "/avianDescription": "texts/wide_spread_fields.json",
-    "/floranDescription": "texts/wide_spread_fields.json",
-    "/glitchDescription": "texts/wide_spread_fields.json"
-  },
-  "objects/peacekeeper/peacekeepernotes/peacekeepernotes.object": {
-    "/apexDescription": "texts/wide_spread_fields.json",
-    "/avianDescription": "texts/wide_spread_fields.json",
-    "/floranDescription": "texts/wide_spread_fields.json",
-    "/glitchDescription": "texts/wide_spread_fields.json",
-    "/humanDescription": "texts/wide_spread_fields.json",
-    "/hylotlDescription": "texts/wide_spread_fields.json",
-    "/novakidDescription": "texts/wide_spread_fields.json"
-  },
-  "objects/peacekeeper/peacekeeperpainting/peacekeeperpainting.object": {
-    "/apexDescription": "texts/wide_spread_fields.json",
-    "/avianDescription": "texts/wide_spread_fields.json",
-    "/floranDescription": "texts/wide_spread_fields.json",
-    "/glitchDescription": "texts/wide_spread_fields.json",
-    "/humanDescription": "texts/wide_spread_fields.json",
-    "/hylotlDescription": "texts/wide_spread_fields.json",
-    "/novakidDescription": "texts/wide_spread_fields.json"
-  },
   "objects/peacekeeper/peacekeeperposter1/peacekeeperposter1.object": {
-    "/apexDescription": "texts/wide_spread_fields.json",
-    "/avianDescription": "texts/wide_spread_fields.json",
+    "/apexDescription": "texts/objects/peacekeeper/shared_peacekeeperposter/shared_peacekeeperposter.json",
+    "/avianDescription": "texts/objects/peacekeeper/shared_peacekeeperposter/shared_peacekeeperposter.json",
     "/description": "texts/objects/peacekeeper/shared_peacekeeperposter/shared_peacekeeperposter.json",
-    "/floranDescription": "texts/wide_spread_fields.json",
-    "/glitchDescription": "texts/wide_spread_fields.json",
-    "/humanDescription": "texts/wide_spread_fields.json",
-    "/hylotlDescription": "texts/wide_spread_fields.json",
-    "/novakidDescription": "texts/wide_spread_fields.json"
+    "/floranDescription": "texts/objects/peacekeeper/shared_peacekeeperposter/shared_peacekeeperposter.json",
+    "/glitchDescription": "texts/objects/peacekeeper/shared_peacekeeperposter/shared_peacekeeperposter.json",
+    "/humanDescription": "texts/objects/peacekeeper/shared_peacekeeperposter/shared_peacekeeperposter.json",
+    "/hylotlDescription": "texts/objects/peacekeeper/shared_peacekeeperposter/shared_peacekeeperposter.json",
+    "/novakidDescription": "texts/objects/peacekeeper/shared_peacekeeperposter/shared_peacekeeperposter.json"
   },
   "objects/peacekeeper/peacekeeperposter2/peacekeeperposter2.object": {
-    "/apexDescription": "texts/wide_spread_fields.json",
-    "/avianDescription": "texts/wide_spread_fields.json",
+    "/apexDescription": "texts/objects/peacekeeper/shared_peacekeeperposter/shared_peacekeeperposter.json",
+    "/avianDescription": "texts/objects/peacekeeper/shared_peacekeeperposter/shared_peacekeeperposter.json",
     "/description": "texts/objects/peacekeeper/shared_peacekeeperposter/shared_peacekeeperposter.json",
-    "/floranDescription": "texts/wide_spread_fields.json",
-    "/glitchDescription": "texts/wide_spread_fields.json",
-    "/humanDescription": "texts/wide_spread_fields.json",
-    "/hylotlDescription": "texts/wide_spread_fields.json",
-    "/novakidDescription": "texts/wide_spread_fields.json"
+    "/floranDescription": "texts/objects/peacekeeper/shared_peacekeeperposter/shared_peacekeeperposter.json",
+    "/glitchDescription": "texts/objects/peacekeeper/shared_peacekeeperposter/shared_peacekeeperposter.json",
+    "/humanDescription": "texts/objects/peacekeeper/shared_peacekeeperposter/shared_peacekeeperposter.json",
+    "/hylotlDescription": "texts/objects/peacekeeper/shared_peacekeeperposter/shared_peacekeeperposter.json",
+    "/novakidDescription": "texts/objects/peacekeeper/shared_peacekeeperposter/shared_peacekeeperposter.json"
   },
   "objects/peacekeeper/peacekeeperstore/peacekeeperstore1.object": {
     "/apexDescription": "texts/objects/peacekeeper/peacekeeperstore/shared_peacekeeperstore.json",
@@ -13460,23 +13427,7 @@
     "/shortdescription": "texts/objects/peacekeeper/peacekeeperstore/shared_peacekeeperstore.json"
   },
   "objects/peacekeeper/peacekeepertable/peacekeepertable.object": {
-    "/apexDescription": "texts/wide_spread_fields.json",
-    "/avianDescription": "texts/wide_spread_fields.json",
-    "/description": "texts/wide_spread_fields.json",
-    "/floranDescription": "texts/wide_spread_fields.json",
-    "/glitchDescription": "texts/wide_spread_fields.json",
-    "/humanDescription": "texts/wide_spread_fields.json",
-    "/hylotlDescription": "texts/wide_spread_fields.json",
-    "/novakidDescription": "texts/wide_spread_fields.json"
-  },
-  "objects/peacekeeper/peacekeepervendingmachine/peacekeepervendingmachine.object": {
-    "/apexDescription": "texts/wide_spread_fields.json",
-    "/avianDescription": "texts/wide_spread_fields.json",
-    "/floranDescription": "texts/wide_spread_fields.json",
-    "/glitchDescription": "texts/wide_spread_fields.json",
-    "/humanDescription": "texts/wide_spread_fields.json",
-    "/hylotlDescription": "texts/wide_spread_fields.json",
-    "/novakidDescription": "texts/wide_spread_fields.json"
+    "/description": "texts/wide_spread_fields.json"
   },
   "objects/playerstation/expansionslot/expansionslot.object": {
     "/apexDescription": "texts/objects/playerstation/expansionslot/shared_expansionslot.json",
@@ -16732,6 +16683,9 @@
     "/glitchDescription": "texts/plants/grass/ground/shared_.grass.json",
     "/shortdescription": "texts/plants/grass/ground/shared_.grass.json"
   },
+  "quests/bounty/assignment.config": {
+    "/bountyTypes/occasusCommander/questConfig/target/monster/parameters/shortdescription": "texts/wide_spread_fields.json"
+  },
   "quests/bounty/bounty_cyberspace.questtemplate": {
     "/completionText": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/complete/default/0": "texts/quests/bounty/shared_.questtemplate.json",
@@ -16754,19 +16708,19 @@
   },
   "quests/bounty/capture_bounty.questtemplate": {
     "/completionText": "texts/quests/bounty/shared_.questtemplate.json",
-    "/scriptConfig/generatedText/failure/default/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/generatedText/failureText/default/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/default/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/title": "texts/quests/bounty/shared_.questtemplate.json"
   },
   "quests/bounty/capture_ship_bounty.questtemplate": {
-    "/scriptConfig/generatedText/failure/default/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/generatedText/failureText/default/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/default/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/text": "texts/quests/bounty/shared_.questtemplate.json",
     "/title": "texts/quests/bounty/shared_.questtemplate.json"
   },
   "quests/bounty/capture_space_bounty.questtemplate": {
     "/completionText": "texts/quests/bounty/shared_.questtemplate.json",
-    "/scriptConfig/generatedText/failure/default/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/generatedText/failureText/default/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/default/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/text": "texts/quests/bounty/shared_.questtemplate.json",
     "/title": "texts/quests/bounty/shared_.questtemplate.json"

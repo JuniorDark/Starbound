@@ -5,9 +5,6 @@
       "quests/bounty/bounty_cyberspace.questtemplate": [
         "/scriptConfig/generatedText/failure/escape/0"
       ],
-      "quests/bounty/capture_space_bounty.questtemplate": [
-        "/scriptConfig/generatedText/failure/default/0"
-      ],
       "quests/bounty/kill_bounty_monster.questtemplate": [
         "/scriptConfig/generatedText/failure/default/0"
       ]
@@ -371,10 +368,13 @@
         "/scriptConfig/generatedText/failure/escape/0"
       ],
       "quests/bounty/capture_bounty.questtemplate": [
-        "/scriptConfig/generatedText/failure/default/0"
+        "/scriptConfig/generatedText/failureText/default/0"
       ],
       "quests/bounty/capture_ship_bounty.questtemplate": [
-        "/scriptConfig/generatedText/failure/default/0"
+        "/scriptConfig/generatedText/failureText/default/0"
+      ],
+      "quests/bounty/capture_space_bounty.questtemplate": [
+        "/scriptConfig/generatedText/failureText/default/0"
       ]
     },
     "Texts": {

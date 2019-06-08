@@ -67,68 +67,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/scripted/bountyboard/bountyboardgui.config": [
-        "/bountyRanks/0/description",
-        "/tutorialAssignment/description"
-      ]
-    },
-    "Texts": {
-      "Eng": "Rank I: Hopeful Hunter",
-      "Por": "Rank I: Caçador Esperançoso"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/scripted/bountyboard/bountyboardgui.config": [
-        "/bountyRanks/1/description"
-      ]
-    },
-    "Texts": {
-      "Eng": "Rank II: Aspiring Apprehender",
-      "Por": "Rank II: Apreendedor Aspirante"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/scripted/bountyboard/bountyboardgui.config": [
-        "/bountyRanks/2/description"
-      ]
-    },
-    "Texts": {
-      "Eng": "Rank III: Dependable Deputy",
-      "Por": "Rank III: Delegado Confiável"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/scripted/bountyboard/bountyboardgui.config": [
-        "/bountyRanks/3/description"
-      ]
-    },
-    "Texts": {
-      "Eng": "Rank IV: Seasoned Sleuth",
-      "Por": "Rank IV: Detetive Experiente"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/scripted/bountyboard/bountyboardgui.config": [
-        "/bountyRanks/4/description",
-        "/finalAssignment/description"
-      ]
-    },
-    "Texts": {
-      "Eng": "Rank V: Proven Peacekeeper",
-      "Por": "Rank V: Pacificador Comprovado"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/scripted/bountyboard/bountyboardgui.config": [
         "/gui/summaryOverlay/children/lblStatusHeader/value",
         "/gui/summaryOverlay/children/lblStatusList/value"
       ]
