@@ -8869,8 +8869,27 @@
     "/upgradeStages/1/itemSpawnParameters/glitchDescription": "texts/objects/crafting/upgradeablecraftingobjects/shared_e.object.json",
     "/upgradeStages/2/itemSpawnParameters/glitchDescription": "texts/objects/crafting/upgradeablecraftingobjects/shared_e.object.json"
   },
+  "objects/cultist/cultistairlockdoor/cultistairlockbossdoor.object": {
+    "/apexDescription": "texts/objects/cultist/shared_cultistairlock/shared_cultistairlock.json",
+    "/avianDescription": "texts/objects/cultist/cultistairlockdoor/shared_cultistairlock.json",
+    "/description": "texts/objects/cultist/cultistairlockdoor/shared_cultistairlock.json",
+    "/floranDescription": "texts/objects/cultist/cultistairlockdoor/shared_cultistairlock.json",
+    "/glitchDescription": "texts/objects/cultist/cultistairlockdoor/shared_cultistairlock.json",
+    "/humanDescription": "texts/objects/cultist/cultistairlockdoor/shared_cultistairlock.json",
+    "/hylotlDescription": "texts/objects/cultist/cultistairlockdoor/shared_cultistairlock.json",
+    "/novakidDescription": "texts/objects/cultist/cultistairlockdoor/shared_cultistairlock.json",
+    "/shortdescription": "texts/objects/cultist/cultistairlockdoor/shared_cultistairlock.json"
+  },
   "objects/cultist/cultistairlockdoor/cultistairlockdoor.object": {
-    "/apexDescription": "texts/objects/cultist/shared_cultistairlock/shared_cultistairlock.json"
+    "/apexDescription": "texts/objects/cultist/shared_cultistairlock/shared_cultistairlock.json",
+    "/avianDescription": "texts/objects/cultist/cultistairlockdoor/shared_cultistairlock.json",
+    "/description": "texts/objects/cultist/cultistairlockdoor/shared_cultistairlock.json",
+    "/floranDescription": "texts/objects/cultist/cultistairlockdoor/shared_cultistairlock.json",
+    "/glitchDescription": "texts/objects/cultist/cultistairlockdoor/shared_cultistairlock.json",
+    "/humanDescription": "texts/objects/cultist/cultistairlockdoor/shared_cultistairlock.json",
+    "/hylotlDescription": "texts/objects/cultist/cultistairlockdoor/shared_cultistairlock.json",
+    "/novakidDescription": "texts/objects/cultist/cultistairlockdoor/shared_cultistairlock.json",
+    "/shortdescription": "texts/objects/cultist/cultistairlockdoor/shared_cultistairlock.json"
   },
   "objects/cultist/cultistairlockhatch/cultistairlockhatch.object": {
     "/apexDescription": "texts/objects/cultist/shared_cultistairlock/shared_cultistairlock.json"
