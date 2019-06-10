@@ -110,45 +110,5 @@
       "Eng": "We didn't even find that code yet. Impressive hacking, partner!",
       "Por": "Nós nem encontramos aquele código ainda. Hackeamento impressionante, parceiro(a)!"
     }
-  },
-  {
-    "DeniedAlternatives": [
-      "Nós pegamos a assinatura do alvo deste planeta. Prossiga para <next.coordinate.name> para investigar mais."
-    ],
-    "Files": {
-      "quests/bounty/generator.config": [
-        "/edges/31/prev/text/message"
-      ]
-    },
-    "Texts": {
-      "Eng": "We have picked up the target's signature from this planet. Proceed down to <next.coordinate.name> and apprehend the criminal.",
-      "Por": "Nós pegamos a assinatura do alvo deste planeta. Prossiga para <next.coordinate.name> e prenda o criminoso."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/bounty/generator.config": [
-        "/edges/32/prev/text/message",
-        "/edges/33/prev/text/message",
-        "/edges/34/prev/text/message"
-      ]
-    },
-    "Texts": {
-      "Eng": "We have picked up the target's signature from this planet. Proceed down to <next.coordinate.name> to investigate further.",
-      "Por": "Nós pegamos a assinatura do alvo deste planeta. Prossiga para <next.coordinate.name> para investigar mais."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/bounty/generator.config": [
-        "/edges/35/prev/text/message"
-      ]
-    },
-    "Texts": {
-      "Eng": "We've' picked up the target's signature from this planet. Proceed down to <next.coordinate.name> to investigate further.",
-      "Por": "Nós pegamos a assinatura do alvo deste planeta. Prossiga para <next.coordinate.name> para investigar mais."
-    }
   }
 ]
