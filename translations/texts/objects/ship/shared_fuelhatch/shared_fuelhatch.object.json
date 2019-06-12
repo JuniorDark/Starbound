@@ -93,7 +93,7 @@
     },
     "Texts": {
       "Eng": "Accepts Liquid Erchius as fuel for the ship's FTL dive.",
-      "Por": "Aceita Erchius líquido como combustível para o motor FTL da nave."
+      "Por": "Aceita Erchius líquido como combustível para o Motor de Dobra da nave."
     }
   },
   {
@@ -215,7 +215,7 @@
     },
     "Texts": {
       "Eng": "Excited. This hatch fuels the FTL drive so that I may visit planets outside of this system.",
-      "Por": "Animado. Este tanque alimenta a movimentação do motor FTL de modo que eu possa visitar planetas fora deste sistema."
+      "Por": "Animado. Este tanque alimenta a movimentação do Motor de Dobra de modo que eu possa visitar planetas fora deste sistema."
     }
   },
   {
@@ -277,7 +277,7 @@
     },
     "Texts": {
       "Eng": "FTL fuel goes in here!",
-      "Por": "Combustível para o FTL vai aqui!"
+      "Por": "Combustível para o Motor de Dobra vai aqui!"
     }
   },
   {
@@ -307,7 +307,7 @@
     },
     "Texts": {
       "Eng": "FTL fuel goes in here! When it's fixed...",
-      "Por": "Combustível FTL entra aqui! Quando estiver consertado..."
+      "Por": "Combustível para o Motor de Dobra vai aqui! Quando estiver consertado..."
     }
   },
   {
@@ -339,7 +339,7 @@
     },
     "Texts": {
       "Eng": "Fuel hatch for FTL drive. Let'ss fill it up!",
-      "Por": "Tanque de combustível para o motor FTL. Vamoss enche-lo!"
+      "Por": "Tanque de combustível para o Motor de Dobra. Vamoss enche-lo!"
     }
   },
   {
@@ -463,7 +463,7 @@
     },
     "Texts": {
       "Eng": "The FTL drive fuel hatch. Converts fuel into freedom.",
-      "Por": "O tanque de combustível do motor FTL. Converte combustível em liberdade."
+      "Por": "O tanque de combustível do Motor de Dobra. Converte combustível em liberdade."
     }
   },
   {
@@ -495,7 +495,7 @@
     },
     "Texts": {
       "Eng": "The FTL fuel hatch. Let's load it up and take to the stars!",
-      "Por": "O tanque de combustível do FTL. Vamos carregá-lo e ir para as estrelas!"
+      "Por": "O tanque de combustível do Motor de Dobra. Vamos enche-lo e ir para as estrelas!"
     }
   },
   {
@@ -528,13 +528,11 @@
     },
     "Texts": {
       "Eng": "The humble FTL fuel hatch. Fuel is the lifeblood of exploration.",
-      "Por": "O humilde tanque de combustível do motor FTL. O combustível é a força vital da exploração."
+      "Por": "O humilde tanque de combustível do Motor de Dobra. O combustível é a força vital da exploração."
     }
   },
   {
-    "DeniedAlternatives": [
-      "A escotilha de combustível da nave. Com o combustível. Com combustível para a movimentação FTL eu posso explorar fora deste sistema."
-    ],
+    "DeniedAlternatives": [],
     "Files": {
       "objects/ship/apexfuelhatch/apexfuelhatch.object": [
         "/humanDescription"
@@ -560,7 +558,7 @@
     },
     "Texts": {
       "Eng": "The ship's fuel hatch. With fuel for the FTL drive I can explore outside this system.",
-      "Por": "O tanque de combustível da nave. Com combustível para o motor FTL posso explorar fora deste sistema."
+      "Por": "O tanque de combustível da nave. Com combustível para o Motor de Dobra posso explorar fora deste sistema."
     }
   }
 ]
