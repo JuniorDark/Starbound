@@ -43,8 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Welcome to your new Peacekeeper Station!",
-      "Por": "Bem-vindo(a) à sua nova Estação Pacificadora!"
+      "Eng": "Welcome to your new Peacekeeper Station, partner!",
+      "Por": "Bem-vindo(a) à sua nova Estação Pacificadora, parceiro(a)!"
     }
   },
   {
@@ -60,7 +60,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "^green;Lance^reset; ate a ^orange;Estação Pacificadora^reset;"
+    ],
     "Files": {
       "quests/bounty/bountyassignment.questtemplate": [
         "/scriptConfig/descriptions/approachStation/1"
@@ -68,7 +70,7 @@
     },
     "Texts": {
       "Eng": "^green;Deploy^reset; to the ^orange;Peacekeeper Station^reset;",
-      "Por": "^green;Lance^reset; ate a ^orange;Estação Pacificadora^reset;"
+      "Por": "^green;Vá de Mecha^reset; até à ^orange;Estação Pacificadora^reset;"
     }
   },
   {

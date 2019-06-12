@@ -15,6 +15,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/neon/neonstore/neonstore.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A store with an assortment of Neon Peacekeeper furniture."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/neon/neonstore/neonstore.object": [
         "/floranDescription"
       ]
     },
@@ -55,8 +66,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Intrigued. This shopkeeper appears to be mecanical, but he does not appear to be a Glitch.",
-      "Por": "Intrigado. Este lojista parece ser mecânica, mas ele não parece ser um Glitch."
+      "Eng": "Intrigued. This shopkeeper appears to be mechanical, but he does not appear to be a Glitch."
     }
   },
   {

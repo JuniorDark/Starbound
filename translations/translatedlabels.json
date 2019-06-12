@@ -1232,6 +1232,7 @@
                 "neomagnum4.activeitem.json": 1
               },
               "neopistol": {
+                "neopistol.activeitem.json": 0,
                 "shared_neopistol.activeitem.json": 1
               },
               "neoshotgun": {
@@ -1241,6 +1242,7 @@
                 "neotommygun.activeitem.json": 2
               },
               "neouzi": {
+                "neouzi.activeitem.json": 0,
                 "shared_neouzi.activeitem.json": 1
               },
               "paintgun": {
@@ -10946,7 +10948,7 @@
           "drillmachine.object.json": 9
         },
         "mechplatform": {
-          "mechplatform.object.json": 2
+          "mechplatform.object.json": 1
         },
         "miningbelt": {
           "miningbelt.object.json": 8
@@ -11059,7 +11061,7 @@
           "neonpeacekeeperemblem.object.json": 8
         },
         "neonstore": {
-          "neonstore.object.json": 9
+          "neonstore.object.json": 8
         },
         "neontriangle": {
           "neontriangle.object.json": 8
@@ -13644,7 +13646,7 @@
       "bounty": {
         "assignment.config.json": 5,
         "bounty_gen.questtemplate.json": 3,
-        "bountyassignment.questtemplate.json": 8,
+        "bountyassignment.questtemplate.json": 7,
         "capture_bounty.questtemplate.json": 2,
         "capture_ship_bounty.questtemplate.json": 2,
         "capture_space_bounty.questtemplate.json": 1,
@@ -13812,7 +13814,7 @@
       "quests.radiomessages.json": 6,
       "ship.radiomessages.json": 3,
       "techchallenge.radiomessages.json": 8,
-      "tutorial.radiomessages.json": 27
+      "tutorial.radiomessages.json": 26
     },
     "radiomessages.config.json": 1,
     "shared_able.json": 2,

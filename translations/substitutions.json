@@ -1780,7 +1780,6 @@
     "/description": "texts/wide_spread_fields.json"
   },
   "items/active/weapons/ranged/unrand/neopistol/neopistol.activeitem": {
-    "/description": "texts/wide_spread_fields.json",
     "/shortdescription": "texts/items/active/weapons/ranged/unrand/neopistol/shared_neopistol.activeitem.json"
   },
   "items/active/weapons/ranged/unrand/neopistol/npcneopistol.activeitem": {
@@ -1796,7 +1795,6 @@
     "/shortdescription": "texts/items/active/weapons/ranged/unrand/shared_neo/shared_.activeitem.json"
   },
   "items/active/weapons/ranged/unrand/neouzi/neouzi.activeitem": {
-    "/description": "texts/wide_spread_fields.json",
     "/shortdescription": "texts/items/active/weapons/ranged/unrand/neouzi/shared_neouzi.activeitem.json"
   },
   "items/active/weapons/ranged/unrand/neouzi/npcneouzi.activeitem": {
@@ -12179,15 +12177,6 @@
   "objects/mission/lunarbaselaser/lunarbaselaser.object": {
     "/shortdescription": "texts/shared_laser.json"
   },
-  "objects/mission/mechplatform/mechplatform.object": {
-    "/apexDescription": "texts/wide_spread_fields.json",
-    "/avianDescription": "texts/wide_spread_fields.json",
-    "/floranDescription": "texts/wide_spread_fields.json",
-    "/glitchDescription": "texts/wide_spread_fields.json",
-    "/humanDescription": "texts/wide_spread_fields.json",
-    "/hylotlDescription": "texts/wide_spread_fields.json",
-    "/novakidDescription": "texts/wide_spread_fields.json"
-  },
   "objects/mission/miningbelt/miningbelt.object": {
     "/floranDescription": "texts/objects/mission/shared_mining/shared_.object.json"
   },
@@ -12475,9 +12464,6 @@
     "/description": "texts/objects/mission/shared_treeprop/shared_treeprop.json",
     "/shortdescription": "texts/objects/mission/shared_treeprop/shared_treeprop.json"
   },
-  "objects/neon/neonlamppost/neonlamppost.object": {
-    "/apexDescription": "texts/wide_spread_fields.json"
-  },
   "objects/neon/neonlight/neonlight.object": {
     "/novakidDescription": "texts/objects/shared_light/shared_light.object.json"
   },
@@ -12485,7 +12471,6 @@
     "/description": "texts/objects/neon/shared_neon/shared_.object.json"
   },
   "objects/neon/neonstore/neonstore.object": {
-    "/description": "texts/wide_spread_fields.json",
     "/interactData/paneLayoutOverride/windowtitle/subtitle": "texts/objects/shared_.object.json"
   },
   "objects/neon/neontriangle/neontriangle.object": {
@@ -13367,9 +13352,6 @@
   "objects/outpost/watercooler/watercooler.object": {
     "/shortdescription": "texts/objects/shared_water/shared_.object.json"
   },
-  "objects/peacekeeper/peacekeeperchair/peacekeeperchair.object": {
-    "/description": "texts/wide_spread_fields.json"
-  },
   "objects/peacekeeper/peacekeeperfurnishings/peacekeeperfurnishings.object": {
     "/interactData/paneLayoutOverride/windowtitle/subtitle": "texts/objects/shared_.object.json"
   },
@@ -13444,9 +13426,6 @@
     "/interactData/paneLayoutOverride/windowtitle/title": "texts/objects/peacekeeper/peacekeeperstore/shared_peacekeeperstore.json",
     "/novakidDescription": "texts/objects/peacekeeper/peacekeeperstore/shared_peacekeeperstore.json",
     "/shortdescription": "texts/objects/peacekeeper/peacekeeperstore/shared_peacekeeperstore.json"
-  },
-  "objects/peacekeeper/peacekeepertable/peacekeepertable.object": {
-    "/description": "texts/wide_spread_fields.json"
   },
   "objects/playerstation/expansionslot/expansionslot.object": {
     "/apexDescription": "texts/objects/playerstation/expansionslot/shared_expansionslot.json",
@@ -15381,15 +15360,6 @@
     "/humanDescription": "texts/objects/teleporter/shared_teleporter/shared_teleporter.object.json",
     "/hylotlDescription": "texts/objects/teleporter/shared_teleporter/shared_teleporter.object.json",
     "/novakidDescription": "texts/objects/teleporter/shared_teleporter/shared_teleporter.object.json"
-  },
-  "objects/teleporter/peacekeeperteleporter/peacekeeperteleporter.object": {
-    "/apexDescription": "texts/wide_spread_fields.json",
-    "/avianDescription": "texts/wide_spread_fields.json",
-    "/floranDescription": "texts/wide_spread_fields.json",
-    "/glitchDescription": "texts/wide_spread_fields.json",
-    "/humanDescription": "texts/wide_spread_fields.json",
-    "/hylotlDescription": "texts/wide_spread_fields.json",
-    "/novakidDescription": "texts/wide_spread_fields.json"
   },
   "objects/teleporter/returnoutpostteleporter/remoteteleporter.object": {
     "/apexDescription": "texts/objects/teleporter/shared_teleporter/shared_teleporter.object.json",

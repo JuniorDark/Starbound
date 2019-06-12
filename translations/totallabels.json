@@ -1232,6 +1232,7 @@
                 "neomagnum4.activeitem.json": 1
               },
               "neopistol": {
+                "neopistol.activeitem.json": 1,
                 "shared_neopistol.activeitem.json": 1
               },
               "neoshotgun": {
@@ -1241,6 +1242,7 @@
                 "neotommygun.activeitem.json": 2
               },
               "neouzi": {
+                "neouzi.activeitem.json": 1,
                 "shared_neouzi.activeitem.json": 1
               },
               "paintgun": {
@@ -10946,7 +10948,7 @@
           "drillmachine.object.json": 9
         },
         "mechplatform": {
-          "mechplatform.object.json": 2
+          "mechplatform.object.json": 9
         },
         "miningbelt": {
           "miningbelt.object.json": 8
@@ -11050,7 +11052,7 @@
           "neonhologram.object.json": 9
         },
         "neonlamppost": {
-          "neonlamppost.object.json": 8
+          "neonlamppost.object.json": 9
         },
         "neonlight": {
           "neonlight.object.json": 8
@@ -11059,7 +11061,7 @@
           "neonpeacekeeperemblem.object.json": 8
         },
         "neonstore": {
-          "neonstore.object.json": 9
+          "neonstore.object.json": 10
         },
         "neontriangle": {
           "neontriangle.object.json": 8
@@ -11513,7 +11515,7 @@
       },
       "peacekeeper": {
         "peacekeeperchair": {
-          "peacekeeperchair.object.json": 8
+          "peacekeeperchair.object.json": 9
         },
         "peacekeepercomputer": {
           "peacekeepercomputer.object.json": 9
@@ -11553,7 +11555,7 @@
           "shared_peacekeeperstore.json": 10
         },
         "peacekeepertable": {
-          "peacekeepertable.object.json": 8
+          "peacekeepertable.object.json": 9
         },
         "peacekeepervendingmachine": {
           "peacekeepervendingmachine.object.json": 11
@@ -12398,7 +12400,7 @@
           "futureteleporter.object.json": 1
         },
         "peacekeeperteleporter": {
-          "peacekeeperteleporter.object.json": 2
+          "peacekeeperteleporter.object.json": 9
         },
         "returnoutpostteleporter": {
           "remoteteleporter.object.json": 1,
