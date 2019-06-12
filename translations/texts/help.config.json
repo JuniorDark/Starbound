@@ -56,7 +56,7 @@
     },
     "Texts": {
       "Eng": "Usage /ban playerSpecifier [reason] [kind] [timeInSeconds]. Kick and ban the specified player and send the reason to the player. If no reason is specified then the player's server nickname is used as the reason. Kind is specified as \"uuid\" or \"ip\" or \"both\" and defaults to \"both\". timeInSeconds defaults to forever. Bans that have a specified duration are not persistent. If you shut down the server or reload configuration, all of your temporarily banned users will be unbanned immediately.",
-      "Por": "Uso /ban playerSpecifier [razão] [tipo] [tempoemSegundos]. Espulsa e bane o jogador especificado e envia a razão para o jogador. Não se for especificada nenhuma razão, o apelido do jogador no servidor é usado como a razão. Tipo é especificado como \"uuid\" ou \"ip\" ou \"ambos\" e o padrõe é \"ambos\". tempoemSegundos o padrão é para sempre. Os banimentos que têm uma duração especificada não são persistentes. Se você desligar o servidor ou recarregar a configuração, todos os seus usuários temporariamente banidos serão desbanidos imediatamente."
+      "Por": "Uso /ban playerSpecifier [razão] [tipo] [tempoemSegundos]. Expulsa e bane o jogador especificado e envia a razão para o jogador. Se não for especificado nenhuma razão, o nome do jogador no servidor é usado como razão. Tipo é especificado como \"uuid\" ou \"ip\" ou \"ambos\" e o padrão é \"ambos\". tempoemSegundos o padrão é para sempre. Os banimentos que têm uma duração especificada não são persistentes. Se você desligar o servidor ou recarregar a configuração, todos os seus usuários temporariamente banidos serão desbanidos imediatamente."
     }
   },
   {
@@ -80,7 +80,7 @@
     },
     "Texts": {
       "Eng": "Usage /cinema cinematicPath [timestamp]. Plays the specified cinematic for testing, optionally starting at the specified timestamp.",
-      "Por": "Uso /cinema cinematicPath. Reproduz a cinemática especificada para teste."
+      "Por": "Uso /cinema cinematicPath. Reproduz a cinemática especificada para teste, opcionalmente iniciada no tempo especificado."
     }
   },
   {
@@ -92,7 +92,7 @@
     },
     "Texts": {
       "Eng": "Usage /clearboxes. Toggle whether or not to clear boxes displayed with /boxes every frame.  Useful for determining routes that enemies take, can get messy looking though.",
-      "Por": "Uso /clearboxes. Alterna se deseja ou não desmarcar as caixas exibidas com /boxes de cada quadro. Útil para determinar rotas que os inimigos fazem, pode ficar confuso olhando embora."
+      "Por": "Uso /clearboxes. Alterna se deseja ou não desmarcar as caixas exibidas com /boxes de cada quadro. Útil para determinar rotas que os inimigos fazem, pode parecer confuso embora."
     }
   },
   {
@@ -104,7 +104,7 @@
     },
     "Texts": {
       "Eng": "Usage /clearcinematics. Resets all history of played unique cinematics, allowing the player to see these cinematics again.",
-      "Por": "Uso /clearcinematics. Redefine todo o histórico de cinemáticas unicas reproduzidas, permitindo que o jogador veja essas cinemáticas novamente."
+      "Por": "Uso /clearcinematics. Reseta todo o histórico de cinemáticas únicas reproduzidas, permitindo que o jogador veja essas cinemáticas novamente."
     }
   },
   {
@@ -116,7 +116,7 @@
     },
     "Texts": {
       "Eng": "Usage /clearradiomessages. Resets all history of received unique radio messages, allowing the player to see these messages again.",
-      "Por": "Uso /clearradiomessages. Redefine todo o histórico de mensagens de rádio unicas recebidas, permitindo que o jogador veja essas mensagens novamente."
+      "Por": "Uso /clearradiomessages. Reseta todo o histórico de mensagens de rádio únicas recebidas, permitindo que o jogador veja essas mensagens novamente."
     }
   },
   {
@@ -248,7 +248,7 @@
     },
     "Texts": {
       "Eng": "Usage /failquest questId. Force failure of a currently active quest with the given quest ID (usually the quest template ID).",
-      "Por": "Uso /failquest questId. Força a falha de uma missão atualmente ativa com a ID de missão especificada (geralmente a quest template ID)."
+      "Por": "Uso /failquest questId. Força o fracasso de uma missão atualmente ativa com a ID de missão especificada (geralmente a quest template ID)."
     }
   },
   {
@@ -308,7 +308,7 @@
     },
     "Texts": {
       "Eng": "Usage /kick playerSpecifier [reason]. Kick the specified player and send the reason to the player. If no reason is specified then the player's server nickname is used as the reason.",
-      "Por": "Uso /kick playerSpecifier [razão]. Espulsa o jogador especificado e envia a razão para o jogador. Não se for especificada nenhuma razão, o apelido do jogador no servidor é usado como a razão."
+      "Por": "Uso /kick playerSpecifier [razão]. Espulsa o jogador especificado e envia a razão para o jogador. Não se for especificada nenhuma razão, o nome do jogador no servidor é usado como a razão."
     }
   },
   {
@@ -404,7 +404,7 @@
     },
     "Texts": {
       "Eng": "Usage /previewquestfailed questTemplateId positionInSequence questGiverSpecies. Displays the Quest Failed interface for the given quest without altering the player's quest state. Valid positionInSequence options are: first, last, next, solo. May break if the quest doesn't have example data configured.",
-      "Por": "Uso /previewquestfailed questTemplateId positionInSequence questGiverSpecies. Exibe a interface de Missão Falhada para a missão em questão sem alterar o estado de missão do jogador.  As opções válidas de positionInSequence são: first, last, next, solo. Pode quebrar se a missão não tiver dados de exemplo configurados."
+      "Por": "Uso /previewquestfailed questTemplateId positionInSequence questGiverSpecies. Exibe a interface de Missão Fracassada para a missão em questão sem alterar o estado de missão do jogador.  As opções válidas de positionInSequence são: first, last, next, solo. Pode quebrar se a missão não tiver dados de exemplo configurados."
     }
   },
   {
@@ -428,7 +428,7 @@
     },
     "Texts": {
       "Eng": "Usage /radiomessage messageId. Triggers the player to receive the radio message with the specified id.",
-      "Por": "Uso /radiomessage messageId. Aciona o player para receber a mensagem de rádio com a id especificada."
+      "Por": "Uso /radiomessage messageId. Faz o jogador receber a mensagem de rádio com a id especificada."
     }
   },
   {
@@ -440,7 +440,7 @@
     },
     "Texts": {
       "Eng": "Usage /reload.  Reloads your local, client side assets. Will cause lag as they are reparsed.",
-      "Por": "Uso /reload.  Recarrega os seus ativos locais do lado do cliente. Causará lag à medida que são reprocessados."
+      "Por": "Uso /reload.  Recarrega os seus assets locais do lado do cliente. Causará lag à medida que são reprocessados."
     }
   },
   {
@@ -488,7 +488,7 @@
     },
     "Texts": {
       "Eng": "Usage /serverreload. Reloads the remote, server side assets. Will cause lag as they are reparsed.",
-      "Por": "Uso /serverreload. Recarrega os ativos do lado do servidor remoto. Causará lag à medida que são reprocessados."
+      "Por": "Uso /serverreload. Recarrega os assets do lado do servidor remoto. Causará lag à medida que são reprocessados."
     }
   },
   {
@@ -512,7 +512,7 @@
     },
     "Texts": {
       "Eng": "Usage /setgravity level. Sets your local gravity to the level specified. Negative values will make you fall up but you can't jump from your head. This change is local only, and looks pretty heinous on a server, because it screws very heavily with delta prediction.",
-      "Por": "Uso /setgravity nível. Define a gravidade local para o nível especificado. Valores negativos vão fazer você cair, mas você não podera pular. Esta alteração é apenas local, e parece bastante hediondo em um servidor, porque ele ferranm muito fortemente com a previsão delta."
+      "Por": "Uso /setgravity nível. Define a gravidade local para o nível especificado. Valores negativos vão fazer você cair, mas você não poderá pular. Esta alteração é apenas local, e parece bastante horrendo em um servidor, porque ele ferram muito com a previsão delta."
     }
   },
   {
@@ -560,7 +560,7 @@
     },
     "Texts": {
       "Eng": "Usage /spawnitem itemName [count] [parameters]. Spawn the specified item at the mouse cursor. If the item does not exist it will spawn a perfectly generic item. Count should be an integer and defaults to 1. Parameters should be specified as a JSON object enclosed by single quotes.",
-      "Por": "Uso /spawnitem Nomedoitem [quantidade] [parâmetros]. Gera o item especificado na posição do cursor do mouse. Se o item não existir, ele gerará um perfectly generic item. A quantidade deve ser um número inteiro e o padrão é 1. Parâmetros devem ser especificados como um objeto JSON delimitado por aspas simples."
+      "Por": "Uso /spawnitem Nomedoitem [quantidade] [parâmetros]. Gera o item especificado na posição do cursor do mouse. Se o item não existir, ele gerará um perfectly generic item. A quantidade deve ser um número inteiro e o padrão é 1. Parâmetros devem ser especificados como um objeto JSON fechado por aspas simples."
     }
   },
   {
@@ -572,7 +572,7 @@
     },
     "Texts": {
       "Eng": "Usage /spawnliquid liquidName [quantity]. Spawn a quantity of the specified liquid at the mouse cursor. Quantity defaults to 1.",
-      "Por": "Uso /spawnliquid Nomedoliquido [quantidade]. Gera uma quantidade do líquido especificado na posição do cursor do mouse. Quantidade padrão 1."
+      "Por": "Uso /spawnliquid Nomedoliquido [quantidade]. Gera uma quantidade do líquido especificado na posição do cursor do mouse. A quantidade padrão é 1."
     }
   },
   {
@@ -584,7 +584,7 @@
     },
     "Texts": {
       "Eng": "Usage /spawnmonster type [level] [parameters]. Spawn a monster of the specified type at the mouse cursor. Level defaults to 1. Parameters should be specified as a JSON object enclosed by single quotes.",
-      "Por": "Uso /spawnmonster tipo [nível] [parâmetros]. Invoca um monstro do tipo especificado na posição do cursor do mouse. Nível padrão 1. Parâmetros devem ser especificados como um objeto JSON delimitado por aspas simples."
+      "Por": "Uso /spawnmonster tipo [nível] [parâmetros]. Invoca um monstro do tipo especificado na posição do cursor do mouse. O nível padrão é 1. Parâmetros devem ser especificados como um objeto JSON fechado por aspas simples."
     }
   },
   {
@@ -596,7 +596,7 @@
     },
     "Texts": {
       "Eng": "Usage /spawnnpc species type [level] [seed] [overrides]. Spawn an NPC of the specified species and type at the mouse cursor. Level defaults to 1. Overrides should be specified as a JSON object enclosed by single quotes.",
-      "Por": "Uso /spawnnpc species tipo [nível] [seed] [overrides]. Invoca um NPC da espécie especificada e tipo na posição do cursor do mouse. Nível padrão 1. Substituições devem ser especificadas como um objeto JSON delimitado por aspas simples."
+      "Por": "Uso /spawnnpc species tipo [nível] [seed] [overrides]. Invoca um NPC da espécie especificada e tipo na posição do cursor do mouse. O nível padrão é 1. Overrides devem ser especificados como um objeto JSON fechado por aspas simples."
     }
   },
   {
@@ -608,7 +608,7 @@
     },
     "Texts": {
       "Eng": "Usage /spawnstagehand type [parameters]. Spawn a Stagehand of the specified type. Parameters should be specified as a JSON object enclosed by single quotes.",
-      "Por": "Uso /spawnstagehand tipo [parâmetros]. Invoca um stagehand do tipo especificado. Parâmetros devem ser especificados como um objeto JSON delimitado por aspas simples."
+      "Por": "Uso /spawnstagehand tipo [parâmetros]. Invoca um stagehand do tipo especificado. Parâmetros devem ser especificados como um objeto JSON fechados por aspas simples."
     }
   },
   {
@@ -620,7 +620,7 @@
     },
     "Texts": {
       "Eng": "Usage /spawntreasure poolName [level]. Spawns all items in a single random generation of the specified treasure pool at the mouse cursor. Level defaults to 1.",
-      "Por": "Uso /spawntreasure poolName [nível]. Gera todos os itens em uma única geração aleatória da pool de tesouro especificada na posição do cursor do mouse. Nível padrão 1."
+      "Por": "Uso /spawntreasure poolName [nível]. Gera todos os itens em uma única geração aleatória da pool de treasure especificada na posição do cursor do mouse. O nível padrão é 1."
     }
   },
   {
@@ -632,7 +632,7 @@
     },
     "Texts": {
       "Eng": "Usage /spawnvehicle type [parameters]. Spawn a vehicle of the specified type at the mouse cursor. Parameters should be specified as a JSON object enclosed by single quotes.",
-      "Por": "Uso /spawnvehicle tipo [parâmetros]. Invoca um veículo do tipo especificado na posição do cursor do mouse. Parâmetros devem ser especificados como um objeto JSON delimitado por aspas simples."
+      "Por": "Uso /spawnvehicle tipo [parâmetros]. Invoca um veículo do tipo especificado na posição do cursor do mouse. Parâmetros devem ser especificados como um objeto JSON fechados por aspas simples."
     }
   },
   {
@@ -644,7 +644,7 @@
     },
     "Texts": {
       "Eng": "Usage /startquest questArcDescriptor. Give the player a quest with the specified quest arc descriptor, which should be a JSON string or object enclosed by single quotes. To start a quest by quest template ID, enclose the template ID in single and double quotes, e.g. /startquest '\"protectorate\"'",
-      "Por": "Uso /startquest questArcDescriptor. Da ao jogador uma missão com o quest arc descriptor especificado, que deve ser uma seqüência de caracteres JSON ou objeto delimitado por aspas simples. Para iniciar uma missão pela quest template ID, coloque a ID do modelo em aspas simples e duplas, por exemplo, /startquest '\"protectorate\"'"
+      "Por": "Uso /startquest questArcDescriptor. Dá ao jogador uma missão com o quest arc descriptor especificado, que deve ser uma seqüência de caracteres JSON ou objeto fechado por aspas simples. Para iniciar uma missão pela quest template ID, coloque a ID do modelo em aspas simples e duplas, por exemplo, /startquest '\"protectorate\"'"
     }
   },
   {
@@ -732,7 +732,7 @@
     },
     "Texts": {
       "Eng": "Usage /upgradeship shipUpgrades. Applies the specified ship upgrades to the current player's ship. shipUpgrades should be specified as a JSON object enclosed by single quotes, e.g. '{\"shipLevel\" : 5}'",
-      "Por": "Uso /upgradeship shipUpgrades. Aplica as atualizações de nave especificadas para a nave atual do jogador. shipUpgrades deve ser especificado como um objeto JSON entre aspas simples, por exemplo, '{\"shipLevel\" : 5}'"
+      "Por": "Uso /upgradeship shipUpgrades. Aplica os aprimoramentos de nave especificados para a nave atual do jogador. shipUpgrades deve ser especificado como um objeto JSON entre aspas simples, por exemplo, '{\"shipLevel\" : 5}'"
     }
   },
   {
