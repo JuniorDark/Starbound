@@ -1,0 +1,57 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/wargroovebanner/wargroovebanner2.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A torn blue banner from some faraway nation."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/wargroovebanner/wargroovebanner2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Felheim Banner"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/wargroovebanner/wargroovebanner2.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wonder where this banner is from? It looks kind of creepy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/wargroovebanner/wargroovebanner2.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This worn banner inspires a sense of forboding."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/wargroovebanner/wargroovebanner2.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "What an ugly banner..."
+    }
+  }
+]

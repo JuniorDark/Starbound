@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/cultist_mission1.questtemplate": [
+        "/scriptConfig/objectives/finalMissionStage/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Use ^orange;S.A.I.L^reset; to deploy to the ^green;Dantalion^reset;",
+      "Por": "Use ^orange;S.A.I.L^reset; para ir até à ^green;Dantalion^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/cultist_mission1.questtemplate": [
+        "/scriptConfig/objectives/finalMissionStage/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Apprehend^reset; ^green;Asra Nox^reset;",
+      "Por": "^orange;Prenda^reset; ^green;Asra Nox^reset;"
+    }
+  }
+]

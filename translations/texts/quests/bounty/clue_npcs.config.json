@@ -3,54 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/bounty/clue_npcs.config": [
-        "/cultist1/behaviorOverrides/0/behavior/parameters/dialog"
-      ]
-    },
-    "Texts": {
-      "Eng": "/quests/bounty/clue_npcs.config:cultist1.clues.<clueType>.dialog",
-      "Por": "/quests/bounty/clue_npcs.config:cultist1.clues.<clueType>.dialog"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/bounty/clue_npcs.config": [
-        "/cultist2/behaviorOverrides/0/behavior/parameters/dialog"
-      ]
-    },
-    "Texts": {
-      "Eng": "/quests/bounty/clue_npcs.config:cultist2.clues.<clueType>.dialog",
-      "Por": "/quests/bounty/clue_npcs.config:cultist2.clues.<clueType>.dialog"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/bounty/clue_npcs.config": [
-        "/interrogate/behaviorOverrides/0/behavior/parameters/dialog"
-      ]
-    },
-    "Texts": {
-      "Eng": "/quests/bounty/clue_npcs.config:interrogate.clues.<clueType>.dialog",
-      "Por": "/quests/bounty/clue_npcs.config:interrogate.clues.<clueType>.dialog"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/bounty/clue_npcs.config": [
-        "/tutorial/behaviorOverrides/0/behavior/parameters/dialog"
-      ]
-    },
-    "Texts": {
-      "Eng": "/quests/bounty/clue_npcs.config:tutorial.clues.<clueType>.dialog",
-      "Por": "/quests/bounty/clue_npcs.config:tutorial.clues.<clueType>.dialog"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/bounty/clue_npcs.config": [
         "/cultist2/clues/cultistClue2/dialog/interrogateEnd/default/default/0"
       ]
     },

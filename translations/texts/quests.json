@@ -1,5 +1,20 @@
 [
   {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/gang.config": [
+        "/genericPrefix/37"
+      ],
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Killer",
+      "Por": "Assassino"
+    }
+  },
+  {
     "DeniedAlternatives": [
       "Pinguim Pete"
     ],
@@ -89,6 +104,36 @@
     "Texts": {
       "Eng": "Return to <questGiver>",
       "Por": "Volte a <questGiver>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/gang.config": [
+        "/genericPrefix/27"
+      ],
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/1/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Silent",
+      "Por": "Silencioso"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/gang.config": [
+        "/genericPrefix/24"
+      ],
+      "quests/generated/templates/kill_npc.questtemplate": [
+        "/scriptConfig/generatedText/fluff/0/1/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sly",
+      "Por": "Astuto"
     }
   }
 ]

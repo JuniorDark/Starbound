@@ -33,21 +33,14 @@
         "obisidiancorelayer.biome.json": 1
       },
       "space": {
-        "asteroids.biome.json": 1,
         "barrenasteroids.biome.json": 1,
         "space.biome.json": 1
       },
       "surface": {
-        "alien.biome.json": 1,
-        "arctic.biome.json": 1,
         "arcticoceanfloor.biome.json": 1,
-        "barren.biome.json": 1,
         "cyberspace.biome.json": 1,
-        "desert.biome.json": 1,
         "earth.biome.json": 1,
-        "forest.biome.json": 1,
         "garden.biome.json": 1,
-        "jungle.biome.json": 1,
         "magma.biome.json": 1,
         "magmaoceanfloor.biome.json": 1,
         "midnight.biome.json": 1,
@@ -55,15 +48,11 @@
         "oceanfloor.biome.json": 1,
         "oceanmission.biome.json": 1,
         "outpost.biome.json": 1,
-        "savannah.biome.json": 1,
         "scorched.biome.json": 1,
         "scorchedcity.biome.json": 1,
         "shared_.biome.json": 1,
         "tentacle.biome.json": 1,
-        "toxic.biome.json": 1,
         "toxicoceanfloor.biome.json": 1,
-        "tundra.biome.json": 1,
-        "volcanic.biome.json": 1,
         "volcanicterraform.biome.json": 1
       },
       "surface_detached": {
@@ -179,7 +168,7 @@
           "esther.cinematic.json": 19
         },
         "finale": {
-          "finale.cinematic.json": 36
+          "finale.cinematic.json": 35
         },
         "opengate": {
           "opengate.cinematic.json": 6
@@ -302,7 +291,7 @@
         },
         "cultist mission": {
           "cultistmission1.codex.json": 5,
-          "cultistmission2.codex.json": 5,
+          "cultistmission2.codex.json": 6,
           "shared_cultistmission.json": 1
         },
         "floran mission": {
@@ -453,7 +442,7 @@
         "shared_.config.json": 2
       },
       "cockpit": {
-        "cockpit.config.json": 125
+        "cockpit.config.json": 153
       },
       "confirmation": {
         "hiremercenaryconfirmation.config.json": 2,
@@ -556,7 +545,7 @@
           "weaponupgradegui.config.json": 5
         }
       },
-      "shared_.config.json": 16,
+      "shared_.config.json": 17,
       "shared_bow..json": 1,
       "shared_gun..json": 1,
       "shared_mecharm..json": 2,
@@ -620,7 +609,7 @@
         "questcomplete.config.json": 1,
         "questfailed.config.json": 1,
         "questlog.config.json": 10,
-        "shared_.config.json": 13,
+        "shared_.config.json": 14,
         "shared_crafting.json": 5,
         "songbook.config.json": 6,
         "teambar.config.json": 1,
@@ -3703,7 +3692,7 @@
           "kiwi.consumable.json": 2,
           "neonmelon.consumable.json": 2,
           "oculemon.consumable.json": 2,
-          "orange.consumable.json": 2,
+          "orange.consumable.json": 1,
           "pearlpea.consumable.json": 2,
           "pineapple.consumable.json": 2,
           "potato.consumable.json": 2,
@@ -3790,7 +3779,7 @@
       },
       "liquids": {
         "healingwater.liqitem.json": 2,
-        "lava.liqitem.json": 2,
+        "lava.liqitem.json": 1,
         "liquidfuel.liqitem.json": 2,
         "milk.liqitem.json": 2,
         "oil.liqitem.json": 2,
@@ -4831,7 +4820,6 @@
       },
       "blacksmith.npctype.json": 8,
       "bounty": {
-        "bountytarget.npctype.json": 4,
         "ignobletarget.npctype.json": 4,
         "nobleclue.npctype.json": 1,
         "shared_.npctype.json": 2
@@ -4843,7 +4831,7 @@
         "crewmemberjanitor.npctype.json": 10,
         "crewmembermechanic.npctype.json": 3,
         "crewmembermedic.npctype.json": 20,
-        "crewmemberoutlaw.npctype.json": 51,
+        "crewmemberoutlaw.npctype.json": 50,
         "crewmembertailor.npctype.json": 23,
         "shared_crewmember.json": 8
       },
@@ -7982,7 +7970,7 @@
             "craftingfarm.object.json": 14
           },
           "craftingfurnace": {
-            "craftingfurnace.object.json": 33
+            "craftingfurnace.object.json": 34
           },
           "craftingfurniture": {
             "craftingfurniture.object.json": 15
@@ -9078,6 +9066,13 @@
         },
         "volcanopod": {
           "volcanopod.object.json": 8
+        },
+        "wargroovebanner": {
+          "shared_wargroovebanner.json": 0,
+          "wargroovebanner1.object.json": 0,
+          "wargroovebanner2.object.json": 0,
+          "wargroovebanner3.object.json": 0,
+          "wargroovebanner4.object.json": 0
         },
         "weaponchest": {
           "weaponchest.object.json": 7
@@ -11129,7 +11124,7 @@
           "picturestand.object.json": 9
         },
         "safe": {
-          "safe.object.json": 9
+          "safe.object.json": 8
         },
         "saloonbar": {
           "saloonbar.object.json": 9
@@ -13645,29 +13640,34 @@
     "quests": {
       "bounty": {
         "assignment.config.json": 5,
+        "bounty.config.json": 74,
         "bounty_gen.questtemplate.json": 3,
         "bountyassignment.questtemplate.json": 8,
         "capture_bounty.questtemplate.json": 2,
-        "capture_ship_bounty.questtemplate.json": 2,
-        "capture_space_bounty.questtemplate.json": 1,
-        "clue_bounties.config.json": 64,
+        "capture_ship_bounty.questtemplate.json": 5,
+        "capture_space_bounty.questtemplate.json": 2,
+        "clue_bounties.config.json": 62,
         "clue_items.config.json": 69,
-        "clue_npcs.config.json": 99,
-        "clue_objects.config.json": 35,
+        "clue_npcs.config.json": 95,
+        "clue_objects.config.json": 16,
         "clue_scans.config.json": 6,
+        "cultist_mission1.questtemplate.json": 2,
         "find_clue_item.questtemplate.json": 2,
         "find_clue_scan.questtemplate.json": 3,
-        "find_tutorial_clues.questtemplate.json": 2,
+        "find_space_clue_scan.questtemplate.json": 1,
+        "find_tutorial_clues.questtemplate.json": 6,
+        "gang.config.json": 0,
         "generator.config.json": 9,
+        "kill_bounty_monster.questtemplate.json": 1,
         "pre_bounty.questtemplate.json": 1,
         "pre_bounty_capstone.questtemplate.json": 1,
         "pre_bounty_minor_monster.questtemplate.json": 3,
         "pre_bounty_minor_npc.questtemplate.json": 1,
-        "scan_planets.questtemplate.json": 3,
-        "shared_.questtemplate.json": 23,
+        "scan_planets.questtemplate.json": 5,
+        "shared_.questtemplate.json": 33,
         "shared__clue_npc.questtemplate.json": 4,
         "shared__clue_object.questtemplate.json": 4,
-        "shared_find_space_clue_.json": 3
+        "shared_find_space_clue_.json": 4
       },
       "food": {
         "firstcrops.questtemplate.json": 3,
@@ -13715,7 +13715,7 @@
           "kill_monster.questtemplate.json": 26,
           "kill_monster_group.questtemplate.json": 84,
           "kill_monster_single.questtemplate.json": 70,
-          "kill_npc.questtemplate.json": 100,
+          "kill_npc.questtemplate.json": 97,
           "kill_npcs.questtemplate.json": 102,
           "new_stock1.questtemplate.json": 22,
           "new_stock2.questtemplate.json": 22,
@@ -13804,7 +13804,7 @@
         "shiprepair.questtemplate.json": 6
       }
     },
-    "quests.json": 2,
+    "quests.json": 5,
     "radiomessages": {
       "bounty.radiomessages.json": 5,
       "exploration.radiomessages.json": 7,
@@ -13817,6 +13817,7 @@
       "tutorial.radiomessages.json": 27
     },
     "radiomessages.config.json": 1,
+    "shared_.config.json": 5,
     "shared_able.json": 2,
     "shared_ancientplatform.mat.json": 5,
     "shared_ant.json": 5,
@@ -14014,7 +14015,6 @@
         "sandstorm": {
           "sandstorm.statuseffect.json": 1
         },
-        "shared_.statuseffect.json": 1,
         "shared_burning": {
           "shared_burning.statuseffect.json": 1
         },
@@ -14163,6 +14163,6 @@
       }
     },
     "universe_server.config.json": 2,
-    "wide_spread_fields.json": 73
+    "wide_spread_fields.json": 87
   }
 }

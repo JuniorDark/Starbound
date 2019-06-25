@@ -25,5 +25,41 @@
       "Eng": "You apprehended the bounty!",
       "Por": "Você prendeu o procurado!"
     }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/capture_ship_bounty.questtemplate": [
+        "/scriptConfig/objectives/findSpaceBountyStage/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Approach^reset; the ^green;Suspicious Ship^reset;",
+      "Por": "^orange;Aproxime-se^reset; da ^green;Nave Suspeita^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/capture_ship_bounty.questtemplate": [
+        "/scriptConfig/objectives/findSpaceBountyStage/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Deploy^reset; to the ^green;Suspicious Ship^reset;",
+      "Por": "^orange;Vá de Mecha^reset; até a ^green;Nave Suspeita^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/capture_ship_bounty.questtemplate": [
+        "/scriptConfig/objectives/killBountyStage/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Find^reset; the target's ^green; ship^reset;",
+      "Por": "^orange;Encontre^reset; a ^green;nave^reset; do alvo;"
+    }
   }
 ]

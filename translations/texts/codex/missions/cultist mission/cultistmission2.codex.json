@@ -15,11 +15,23 @@
     "DeniedAlternatives": [],
     "Files": {
       "codex/missions/cultist mission/cultistmission2.codex": [
+        "/contentPages/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "The automaton, however, has yielded more promising results. The liquid core within it is a volatile and potent source energy, and the automaton's remaining hand has been proven to have ballistic qualities. \n\nThe liquid core can be used as a power source and also be emitted in a searing energy form - a discovery made at the inconvenient expense one of our engineers.",
+      "Por": "O núcleo líquido pode ser usado como uma fonte de energia e também pode ser emitido em uma forma de energia escaldante - uma descoberta feita inconveniente por um dos nossos engenheiros."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/missions/cultist mission/cultistmission2.codex": [
         "/contentPages/1"
       ]
     },
     "Texts": {
-      "Eng": "Upon a recent assignment to investigate one of these doorways, Occasus field agents found themselves in a location they described as \"outside of time and space\", wherein they recovered the partial remains of what appears to be a stone automaton.\n\nThe Research team have many questions about how these bygone cultures were able to craft technology out of stone that is inexplicably able to open dimensional gates, a technology no current galactic civilisation has quite achieved.",
+      "Eng": "Upon a recent assignment to investigate one of these doorways, Occasus field agents found themselves in a location they described as \"outside of time and space\", wherein they recovered the partial remains of what appears to be a stone automaton.\n\nThe Research team have many questions about how these bygone cultures were able to craft technology that is inexplicably able to open dimensional gates, a feat no current known civilisation has quite achieved.",
       "Por": "Após uma missão recente para investigar um desses portais, os agentes de campo da Occasus encontraram-se em um local que descreveram como \"fora do tempo e do espaço\", onde recuperaram os restos parciais do que parece ser um autômato de pedra.\n\nA equipe de pesquisa tem muitas perguntas sobre como essas culturas passadas foram capazes de fabricar tecnologia de pedra que é inexplicavelmente capaz de abrir portas dimensionais, uma tecnologia que nenhuma civilização galáctica atual alcançou."
     }
   },
@@ -31,8 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^yellow;ANALYSIS^white;\n\nThe Research Team are unfortunately unable to make any further progress with determining the technological nature of the ancient doorways. One inquisitive researcher has theorised that the ancients themselves were not organic beings, judging by trace metallic samples left on the doorway's carvings. \n\nThe automaton, however, has yielded more promising results. The liquid core within it is a volatile and potent source energy, and the automaton's remaining hand has been proven to have ballistic qualities. The liquid core can be used as a power source and also be emitted in a searing energy form - a discovery made at the inconvenient expense one of our engineers.",
-      "Por": "^yellow;ANÁLISE^white;\n\nInfelizmente, a equipe de pesquisa não pode mais avançar na determinação da natureza tecnológica dos portais antigos. Um pesquisador curioso teorizou que os próprios anciões não eram seres orgânicos, a julgar pelo traço de amostras metálicas deixadas nas gravuras do portal.\n\nO autômato, no entanto, produziu resultados mais promissores. O núcleo líquido dentro dele é uma fonte de energia volátil e potente, e a mão remanescente do autômato provou ter qualidades balísticas. O núcleo líquido pode ser usado como uma fonte de energia e também pode ser emitido em uma forma de energia escaldante - uma descoberta feita inconveniente por um dos nossos engenheiros."
+      "Eng": "^yellow;ANALYSIS^white;\n\nThe Research Team are unfortunately unable to make any further progress with determining the technological nature of the ancient doorways. \n\nOne inquisitive researcher has theorised that the ancients themselves were not organic beings, judging by trace metallic samples left on the doorway's carvings.",
+      "Por": "^yellow;ANÁLISE^white;\n\nInfelizmente, a equipe de pesquisa não pode mais avançar na determinação da natureza tecnológica dos portais antigos. Um pesquisador curioso teorizou que os próprios anciões não eram seres orgânicos, a julgar pelo traço de amostras metálicas deixadas nas gravuras do portal.\n\nO autômato, no entanto, produziu resultados mais promissores. O núcleo líquido dentro dele é uma fonte de energia volátil e potente, e a mão remanescente do autômato provou ter qualidades balísticas."
     }
   },
   {
@@ -51,7 +63,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "codex/missions/cultist mission/cultistmission2.codex": [
-        "/contentPages/3"
+        "/contentPages/4"
       ]
     },
     "Texts": {

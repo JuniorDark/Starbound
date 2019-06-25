@@ -231,7 +231,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Esta luz está como uma estrela ardente fria, embora um pouco menor."
+    ],
     "Files": {
       "objects/generic/bluelight/bluelight.object": [
         "/novakidDescription"
@@ -242,7 +244,7 @@
     },
     "Texts": {
       "Eng": "This light's like a cold burnin' star, though a little smaller.",
-      "Por": "Esta luz está como uma estrela ardente fria, embora um pouco menor."
+      "Por": "Esta luz é como uma estrela ardente fria, embora um pouco menor."
     }
   }
 ]

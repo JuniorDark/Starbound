@@ -278,12 +278,23 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/crafting/upgradeablecraftingobjects/craftingfurnace/craftingfurnace.object": [
-        "/glitchDescription",
         "/upgradeStages/0/itemSpawnParameters/glitchDescription"
       ]
     },
     "Texts": {
       "Eng": "Impressed. This furnace is the perfect temperature for smelting basic ores",
+      "Por": "Impressionado. Este fornalha tem a temperatura ideal para a fundição de minérios básicos"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/crafting/upgradeablecraftingobjects/craftingfurnace/craftingfurnace.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed. This furnace is the perfect temperature for smelting basic ores.",
       "Por": "Impressionado. Este fornalha tem a temperatura ideal para a fundição de minérios básicos"
     }
   },

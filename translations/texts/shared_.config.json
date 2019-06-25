@@ -1,0 +1,81 @@
+[
+  {
+    "DeniedAlternatives": [
+      "Perigoso"
+    ],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/objectThreatText/available/3",
+        "/threatLevelText/default/3"
+      ],
+      "quests/bounty/gang.config": [
+        "/genericPrefix/58"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dangerous",
+      "Por": "Perigosa"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/displayOres/gold/displayName"
+      ],
+      "quests/bounty/gang.config": [
+        "/genericPrefix/51"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gold",
+      "Por": "Gold"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/objectThreatText/available/1",
+        "/threatLevelText/default/0"
+      ],
+      "quests/bounty/gang.config": [
+        "/genericPrefix/44"
+      ]
+    },
+    "Texts": {
+      "Eng": "Low",
+      "Por": "Baixa"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/threatLevelText/default/2"
+      ],
+      "quests/bounty/gang.config": [
+        "/genericPrefix/59"
+      ]
+    },
+    "Texts": {
+      "Eng": "Risky",
+      "Por": "Arriscado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/threatLevelText/moon/0"
+      ],
+      "quests/bounty/gang.config": [
+        "/genericPrefix/71"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unknown",
+      "Por": "Desconhecida"
+    }
+  }
+]

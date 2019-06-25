@@ -12,6 +12,31 @@
     }
   },
   {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/clusterMoons/plural"
+      ]
+    },
+    "Texts": {
+      "Eng": "%s orbiting bodies",
+      "Por": "%s corpos em órbita"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/threatLevelText/default/7",
+        "/threatLevelText/default/8",
+        "/threatLevelText/default/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "***"
+    }
+  },
+  {
     "Comment": "Expressão regular (não para tradução, mas para apoiar nomes em alfabeto cirílico)",
     "DeniedAlternatives": [],
     "Files": {
@@ -89,6 +114,30 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
+        "/worldTypeDescription/GasGiant/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "A gas giant. There is no solid substance to this planet, just a collection of swirling gases.",
+      "Por": "Um planeta gasoso. Não há nenhuma substância sólida neste planeta, apenas um conjunto de gases girando."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/worldTypeDescription/GasGiant/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "A giant ball of gases intermingling with one another. There is simply nothing here to land on.",
+      "Por": "Uma gigantesca bola de gases misturam-se umas com as outras. Simplesmente não há nada sólido aqui para pousar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
         "/visitableTypeDescription/alien/1"
       ]
     },
@@ -150,7 +199,9 @@
     "Files": {
       "interface/cockpit/cockpit.config": [
         "/gui/objectinfo/children/inner/children/bookmark/caption",
-        "/gui/planetinfo/children/inner/children/bookmark/caption"
+        "/gui/planetinfo/children/inner/children/bookmark/caption",
+        "/objectInfoBox/bookmarkButtonCaption/add",
+        "/planetInfoBox/bookmarkButtonCaption/add"
       ]
     },
     "Texts": {
@@ -234,6 +285,43 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
+        "/topLeftButtonTooltips/showBookmarkList"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bookmarks",
+      "Por": "Favoritos"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/objectInfoBox/bookmarkButtonCaption/disabled",
+        "/planetInfoBox/bookmarkButtonCaption/disabled"
+      ]
+    },
+    "Texts": {
+      "Eng": "CANNOT BOOKMARK",
+      "Por": "IMPOSSIVEL FAVORITAR"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/worldTypeDescription/GasGiant/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can't land. The crushing pressure and tearing winds of this gas giant would kill you instantly.",
+      "Por": "Não é possivel pousar. A pressão esmagadora e os ventos dilacerantes deste planeta gasoso iria matá-lo instantaneamente."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
         "/displayWeathers/ember/displayName"
       ]
     },
@@ -252,6 +340,18 @@
     "Texts": {
       "Eng": "Confirm FTL",
       "Por": "Confirmar DOBRA"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/topLeftButtonTooltips/showCoordinates"
+      ]
+    },
+    "Texts": {
+      "Eng": "Coordinates",
+      "Por": "Coordenadas"
     }
   },
   {
@@ -342,12 +442,51 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/bookmarks/editTitle"
+        "/bookmarks/editTitle",
+        "/objectInfoBox/bookmarkButtonCaption/edit",
+        "/planetInfoBox/bookmarkButtonCaption/edit"
       ]
     },
     "Texts": {
       "Eng": "EDIT BOOKMARK",
       "Por": "EDITAR FAVORITO"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/objectThreatText/available/4",
+        "/threatLevelText/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Extreme",
+      "Por": "Extrema"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/jumpDialog/invalid"
+      ]
+    },
+    "Texts": {
+      "Eng": "FTL travel requires ^red;%i fuel^reset;.\n Not enough fuel to proceed.",
+      "Por": "A DOBRA requer ^red;%i combustível^reset;.\n Sem combustível suficiente para prosseguir."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/jumpDialog/valid"
+      ]
+    },
+    "Texts": {
+      "Eng": "FTL travel will consume ^green;%i fuel^reset;.\nConfirm to proceed.",
+      "Por": "A DOBRA consumirá ^green;%i combustível^reset;.\nConfirme para prosseguir."
     }
   },
   {
@@ -378,6 +517,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
+        "/starTypeNames/redstar"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fiery Star",
+      "Por": "Estrela Ardente"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
         "/visitableTypeDescription/ocean/2"
       ]
     },
@@ -402,6 +553,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
+        "/starTypeNames/bluestar"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frozen Star",
+      "Por": "Estrela Congelada"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
         "/gui/coordinatesFrame/children/go/caption"
       ]
     },
@@ -414,7 +577,19 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/systemTooltipConfig/type/value"
+        "/planetTypeNames/ancientgateway"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gateway",
+      "Por": "Portal"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/starTypeNames/whitestar"
       ]
     },
     "Texts": {
@@ -432,18 +607,6 @@
     "Texts": {
       "Eng": "Geological Analysis",
       "Por": "Análise Geológica"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/displayOres/gold/displayName"
-      ]
-    },
-    "Texts": {
-      "Eng": "Gold",
-      "Por": "Gold"
     }
   },
   {
@@ -468,6 +631,18 @@
     "Texts": {
       "Eng": "Ice Storms",
       "Por": "Tempestades de Gelo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/threatLevelText/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Inconceivable",
+      "Por": "Inconcebível"
     }
   },
   {
@@ -534,6 +709,29 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/moon"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lunar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/garden"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lush",
+      "Por": "Exuberante"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
         "/gui/clusterinfo/children/inner/children/moons/value"
       ]
     },
@@ -546,12 +744,49 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/midnight"
+      ]
+    },
+    "Texts": {
+      "Eng": "Midnight",
+      "Por": "Meia-noite"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
         "/displayWeathers/groundmist/displayName"
       ]
     },
     "Texts": {
       "Eng": "Mist",
       "Por": "Neblina"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/objectThreatText/available/2",
+        "/threatLevelText/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Moderate",
+      "Por": "Moderada"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/starTypeNames/default"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mysterious Star",
+      "Por": "Estrela Misteriosa"
     }
   },
   {
@@ -576,6 +811,55 @@
     "Texts": {
       "Eng": "NEW BOOKMARK",
       "Por": "NOVO FAVORITO"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/clusterMoons/none"
+      ]
+    },
+    "Texts": {
+      "Eng": "No orbiting bodies",
+      "Por": "Nenhum corpo em órbita"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/objectThreatText/available/0",
+        "/objectThreatText/friendly"
+      ]
+    },
+    "Texts": {
+      "Eng": "None",
+      "Por": "Nenhuma"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/ocean"
+      ]
+    },
+    "Texts": {
+      "Eng": "Oceanic",
+      "Por": "Oceânico"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/clusterMoons/singular"
+      ]
+    },
+    "Texts": {
+      "Eng": "One orbiting body",
+      "Por": "Um corpo em órbita"
     }
   },
   {
@@ -630,12 +914,25 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
-        "/gui/objectinfo/children/inner/children/threat/value"
+        "/gui/objectinfo/children/inner/children/threat/value",
+        "/objectThreatText/unavailable"
       ]
     },
     "Texts": {
       "Eng": "REQUIRES MECH TO DEPLOY",
       "Por": "REQUERIDO MECHA PARA LANÇAR"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/starTypeNames/yellowstar"
+      ]
+    },
+    "Texts": {
+      "Eng": "Radioactive Star",
+      "Por": "Estrela Radioativa"
     }
   },
   {
@@ -774,12 +1071,36 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/scorchedcity"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scorched",
+      "Por": "Chamuscado"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
         "/displayWeathers/meteorshower/displayName"
       ]
     },
     "Texts": {
       "Eng": "Small Meteorites",
       "Por": "Meteoritos Pequenos"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/snow"
+      ]
+    },
+    "Texts": {
+      "Eng": "Snowy",
+      "Por": "Nevado"
     }
   },
   {
@@ -852,6 +1173,30 @@
     "Texts": {
       "Eng": "THIS IS A VERY NICE SPACE OBJECT",
       "Por": "ESTE É UM OBJETO ESPACIAL MUITO AGRADÁVEL"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/starTypeNames/orangestar"
+      ]
+    },
+    "Texts": {
+      "Eng": "Temperate Star",
+      "Por": "Estrela Temperada"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/terraformedPlanetDescription/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Terraforming has made this planet safe for habitation, though unnatural in appearance.",
+      "Por": "Terraformação tornou este planeta seguro para habitação, embora não natural em aparência."
     }
   },
   {
@@ -1182,6 +1527,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
+        "/terraformedPlanetDescription/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "This planet has been altered beyond recognition by extensive terraforming.",
+      "Por": "Este planeta foi alterado além do reconhecimento por terraformação extensiva."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
         "/visitableTypeDescription/toxic/0"
       ]
     },
@@ -1200,6 +1557,18 @@
     "Texts": {
       "Eng": "This planet is ^#999966;barren^white;, supporting no life of any kind. There is nothing here at all...",
       "Por": "Este planeta é ^#999966;estéril^white;, não suportando vida de qualquer tipo. Não há nada aqui..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/terraformedPlanetDescription/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "This planet's climate and ecosystems have been dramatically altered by terraforming.",
+      "Por": "O clima e os ecossistemas deste planeta foram dramaticamente alterados pela terraformação."
     }
   },
   {
@@ -1254,9 +1623,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/cockpit/cockpit.config": [
+        "/clusterInfoBox/viewButtonCaption/disabled",
         "/gui/clusterinfo/children/inner/children/view/caption",
         "/gui/systeminfo/children/inner/children/view/caption",
-        "/systemTooltipConfig/explored/value"
+        "/objectInfoBox/bookmarkButtonCaption/unexplored",
+        "/systemInfoBox/viewButtonCaption/disabled",
+        "/systemTooltip/exploredLabel/unexplored"
       ]
     },
     "Texts": {
@@ -1274,6 +1646,67 @@
     "Texts": {
       "Eng": "UNMAPPED CELESTIAL OBJECTS UNAVAILABLE",
       "Por": "OBJETOS CELESTES NÃO MAPEADOS INDISPONÍVEIS"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/threatLevelText/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unreal",
+      "Por": "Irreal"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/clusterInfoBox/viewButtonCaption/enabled",
+        "/systemInfoBox/viewButtonCaption/enabled"
+      ]
+    },
+    "Texts": {
+      "Eng": "VIEW",
+      "Por": "VER"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/systemTooltip/exploredLabel/explored"
+      ]
+    },
+    "Texts": {
+      "Eng": "VISITED",
+      "Por": "VISITADA"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/topLeftButtonTooltips/goToQuest"
+      ]
+    },
+    "Texts": {
+      "Eng": "View quest location",
+      "Por": "Ver localização da missão"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/topLeftButtonTooltips/goToShip"
+      ]
+    },
+    "Texts": {
+      "Eng": "View ship",
+      "Por": "Ver nave"
     }
   },
   {
@@ -1421,6 +1854,18 @@
     }
   },
   {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/threatTextPrefix"
+      ]
+    },
+    "Texts": {
+      "Eng": "^white;Threat: ^reset;",
+      "Por": "^white;Ameaça: ^reset;"
+    }
+  },
+  {
     "DeniedAlternatives": [
       "perigosa"
     ],
@@ -1432,80 +1877,6 @@
     "Texts": {
       "Eng": "dangerous",
       "Por": "perigoso"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/systemTooltipConfig/explored/color"
-      ]
-    },
-    "Texts": {
-      "Eng": "gray",
-      "Por": "gray"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/systemTooltipConfig/explored/type",
-        "/systemTooltipConfig/type/type"
-      ]
-    },
-    "Texts": {
-      "Eng": "label",
-      "Por": "label"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/systemTooltipConfig/type/hAnchor"
-      ]
-    },
-    "Texts": {
-      "Eng": "left",
-      "Por": "left"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/systemTooltipConfig/explored/hAnchor"
-      ]
-    },
-    "Texts": {
-      "Eng": "right",
-      "Por": "right"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/systemTooltipConfig/explored/vAnchor",
-        "/systemTooltipConfig/type/vAnchor"
-      ]
-    },
-    "Texts": {
-      "Eng": "top",
-      "Por": "top"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "interface/cockpit/cockpit.config": [
-        "/systemTooltipConfig/type/color"
-      ]
-    },
-    "Texts": {
-      "Eng": "white",
-      "Por": "white"
     }
   }
 ]

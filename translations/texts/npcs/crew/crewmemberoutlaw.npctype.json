@@ -39,18 +39,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/crew/crewmemberoutlaw.npctype": [
-        "/scriptConfig/crew/role/field"
-      ]
-    },
-    "Texts": {
-      "Eng": "Criminal",
-      "Por": "Criminoso(a)"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "npcs/crew/crewmemberoutlaw.npctype": [
         "/scriptConfig/dialog/crewmember/offer/glitch/default/3"
       ]
     },

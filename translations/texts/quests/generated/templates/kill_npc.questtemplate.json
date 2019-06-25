@@ -579,18 +579,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/generated/templates/kill_npc.questtemplate": [
-        "/scriptConfig/generatedText/fluff/0/1/0"
-      ]
-    },
-    "Texts": {
-      "Eng": "Killer",
-      "Por": "Assassino"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/kill_npc.questtemplate": [
         "/scriptConfig/generatedText/fluff/0/1/10"
       ]
     },
@@ -705,30 +693,6 @@
     "Texts": {
       "Eng": "Shadowy",
       "Por": "Sombrio"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/kill_npc.questtemplate": [
-        "/scriptConfig/generatedText/fluff/0/1/6"
-      ]
-    },
-    "Texts": {
-      "Eng": "Silent",
-      "Por": "Silencioso"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/generated/templates/kill_npc.questtemplate": [
-        "/scriptConfig/generatedText/fluff/0/1/9"
-      ]
-    },
-    "Texts": {
-      "Eng": "Sly",
-      "Por": "Astuto"
     }
   },
   {

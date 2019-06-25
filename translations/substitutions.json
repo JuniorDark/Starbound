@@ -2,7 +2,28 @@
   "ai/missionpenguin1.aimission": {
     "/speciesText/default/buttonText": "texts/wide_spread_fields.json"
   },
+  "biomes/space/asteroids.biome": {
+    "/friendlyName": "texts/wide_spread_fields.json"
+  },
+  "biomes/surface/alien.biome": {
+    "/friendlyName": "texts/wide_spread_fields.json"
+  },
+  "biomes/surface/arctic.biome": {
+    "/friendlyName": "texts/wide_spread_fields.json"
+  },
   "biomes/surface/asteroidfield.biome": {
+    "/friendlyName": "texts/wide_spread_fields.json"
+  },
+  "biomes/surface/barren.biome": {
+    "/friendlyName": "texts/wide_spread_fields.json"
+  },
+  "biomes/surface/desert.biome": {
+    "/friendlyName": "texts/wide_spread_fields.json"
+  },
+  "biomes/surface/forest.biome": {
+    "/friendlyName": "texts/wide_spread_fields.json"
+  },
+  "biomes/surface/jungle.biome": {
     "/friendlyName": "texts/wide_spread_fields.json"
   },
   "biomes/surface/lunarbase.biome": {
@@ -11,7 +32,19 @@
   "biomes/surface/moon.biome": {
     "/friendlyName": "texts/biomes/surface/shared_.biome.json"
   },
+  "biomes/surface/savannah.biome": {
+    "/friendlyName": "texts/wide_spread_fields.json"
+  },
   "biomes/surface/snow.biome": {
+    "/friendlyName": "texts/wide_spread_fields.json"
+  },
+  "biomes/surface/toxic.biome": {
+    "/friendlyName": "texts/wide_spread_fields.json"
+  },
+  "biomes/surface/tundra.biome": {
+    "/friendlyName": "texts/wide_spread_fields.json"
+  },
+  "biomes/surface/volcanic.biome": {
     "/friendlyName": "texts/wide_spread_fields.json"
   },
   "biomes/surface_detached/geode.biome": {
@@ -756,17 +789,36 @@
   },
   "interface/cockpit/cockpit.config": {
     "/displayOres/erchius/displayName": "texts/wide_spread_fields.json",
+    "/displayOres/gold/displayName": "texts/shared_.config.json",
     "/displayOres/silver/displayName": "texts/wide_spread_fields.json",
     "/displayWeathers/snow/displayName": "texts/wide_spread_fields.json",
     "/gui/bookmarksFrame/children/bookmarkList/children/bookmarkItemList/schema/listTemplate/name/value": "texts/interface/shared_.config.json",
     "/gui/editBookmarkFrame/children/close/caption": "texts/interface.json",
     "/gui/editBookmarkFrame/children/name/hint": "texts/interface/shared_.config.json",
     "/gui/editBookmarkFrame/children/name/regex": "texts/interface/shared_.config.json",
-    "/gui/editBookmarkFrame/children/ok/caption": "texts/wide_spread_fields.json",
+    "/gui/editBookmarkFrame/children/ok/caption": "texts/interface/shared_.config.json",
     "/gui/editBookmarkFrame/children/remove/caption": "texts/interface/shared_.config.json",
     "/gui/editBookmarkFrame/children/title/value": "texts/interface/shared_.config.json",
     "/gui/jumpDialog/children/cancel/caption": "texts/interface.json",
-    "/gui/jumpDialog/children/jump/caption": "texts/interface/shared_.config.json"
+    "/gui/jumpDialog/children/jump/caption": "texts/interface/shared_.config.json",
+    "/objectThreatText/available/1": "texts/shared_.config.json",
+    "/objectThreatText/available/3": "texts/shared_.config.json",
+    "/planetTypeNames/alien": "texts/wide_spread_fields.json",
+    "/planetTypeNames/arctic": "texts/wide_spread_fields.json",
+    "/planetTypeNames/asteroids": "texts/wide_spread_fields.json",
+    "/planetTypeNames/barren": "texts/wide_spread_fields.json",
+    "/planetTypeNames/desert": "texts/wide_spread_fields.json",
+    "/planetTypeNames/forest": "texts/wide_spread_fields.json",
+    "/planetTypeNames/jungle": "texts/wide_spread_fields.json",
+    "/planetTypeNames/magma": "texts/wide_spread_fields.json",
+    "/planetTypeNames/savannah": "texts/wide_spread_fields.json",
+    "/planetTypeNames/toxic": "texts/wide_spread_fields.json",
+    "/planetTypeNames/tundra": "texts/wide_spread_fields.json",
+    "/planetTypeNames/volcanic": "texts/wide_spread_fields.json",
+    "/threatLevelText/default/0": "texts/shared_.config.json",
+    "/threatLevelText/default/2": "texts/shared_.config.json",
+    "/threatLevelText/default/3": "texts/shared_.config.json",
+    "/threatLevelText/moon/0": "texts/shared_.config.json"
   },
   "interface/confirmation/hiremercenaryconfirmation.config": {
     "/cancelCaption": "texts/interface/confirmation/shared_confirmation.config.json",
@@ -950,7 +1002,7 @@
     "/paneLayout/tbSpinCount/regex": "texts/interface/shared_.config.json"
   },
   "interface/optionsmenu/optionsmenu.config": {
-    "/paneLayout/acceptButton/caption": "texts/wide_spread_fields.json",
+    "/paneLayout/acceptButton/caption": "texts/interface/shared_.config.json",
     "/paneLayout/backButton/caption": "texts/interface/shared_smenu.config.json",
     "/paneLayout/musicValueLabel/value": "texts/interface.json",
     "/paneLayout/sfxValueLabel/value": "texts/interface.json"
@@ -1314,7 +1366,7 @@
     "/paneLayout/lblTitle/value": "texts/interface/shared_.config.json",
     "/paneLayout/name/hint": "texts/interface/shared_.config.json",
     "/paneLayout/name/regex": "texts/interface/shared_.config.json",
-    "/paneLayout/ok/caption": "texts/wide_spread_fields.json",
+    "/paneLayout/ok/caption": "texts/interface/shared_.config.json",
     "/paneLayout/remove/caption": "texts/interface/shared_.config.json"
   },
   "interface/windowconfig/error.config": {
@@ -1343,7 +1395,7 @@
     "/keyActions/toolbar/10/label": "texts/wide_spread_fields.json",
     "/keyActions/toolbar/8/label": "texts/wide_spread_fields.json",
     "/keyActions/toolbar/9/label": "texts/wide_spread_fields.json",
-    "/paneLayout/accept/caption": "texts/wide_spread_fields.json",
+    "/paneLayout/accept/caption": "texts/interface/shared_.config.json",
     "/paneLayout/cancel/caption": "texts/interface/shared_smenu.config.json",
     "/paneLayout/categories/tabs/0/tabTitle": "texts/interface/shared_.config.json"
   },
@@ -1361,15 +1413,15 @@
     "/paneLayout/buySellTabs/tabs/1/tabTitle": "texts/interface/windowconfig/shared_.config.json"
   },
   "interface/windowconfig/newquest.config": {
-    "/paneLayout/btnAccept/caption": "texts/wide_spread_fields.json",
-    "/paneLayout/btnDecline/caption": "texts/wide_spread_fields.json",
+    "/paneLayout/btnAccept/caption": "texts/interface/shared_.config.json",
+    "/paneLayout/btnDecline/caption": "texts/interface/windowconfig/shared_.config.json",
     "/paneLayout/lblQuestBody/value": "texts/interface/windowconfig/shared_.config.json",
     "/paneLayout/lblQuestTitle/value": "texts/interface/windowconfig/shared_.config.json",
     "/paneLayout/lblRewards/value": "texts/interface/windowconfig/shared_.config.json"
   },
   "interface/windowconfig/newquestshort.config": {
-    "/paneLayout/btnAccept/caption": "texts/wide_spread_fields.json",
-    "/paneLayout/btnDecline/caption": "texts/wide_spread_fields.json",
+    "/paneLayout/btnAccept/caption": "texts/interface/shared_.config.json",
+    "/paneLayout/btnDecline/caption": "texts/interface/windowconfig/shared_.config.json",
     "/paneLayout/lblMoneyAmount/value": "texts/interface/windowconfig/shared_.config.json",
     "/paneLayout/lblQuestBody/value": "texts/interface/windowconfig/shared_.config.json",
     "/paneLayout/lblQuestTitle/value": "texts/interface/windowconfig/shared_.config.json",
@@ -1430,8 +1482,8 @@
     "/paneLayout/songs/children/list/schema/listTemplate/songName/value": "texts/interface.json"
   },
   "interface/windowconfig/teaminvitation.config": {
-    "/paneLayout/close/caption": "texts/wide_spread_fields.json",
-    "/paneLayout/ok/caption": "texts/wide_spread_fields.json"
+    "/paneLayout/close/caption": "texts/interface/windowconfig/shared_.config.json",
+    "/paneLayout/ok/caption": "texts/interface/shared_.config.json"
   },
   "interface/windowconfig/teaminvite.config": {
     "/paneLayout/close/caption": "texts/interface.json"
@@ -2116,6 +2168,12 @@
   },
   "items/generic/produce/boltbulb.consumable": {
     "/description": "texts/shared_boltbulb.json"
+  },
+  "items/generic/produce/orange.consumable": {
+    "/shortdescription": "texts/wide_spread_fields.json"
+  },
+  "items/liquids/lava.liqitem": {
+    "/shortdescription": "texts/wide_spread_fields.json"
   },
   "items/liquids/slime.liqitem": {
     "/shortdescription": "texts/wide_spread_fields.json"
@@ -4229,10 +4287,6 @@
     "/scriptConfig/dialog/converse/glitch/default/1": "texts/npcs/biome/shared_guard.npctype.json",
     "/scriptConfig/dialog/converse/glitch/default/2": "texts/npcs/biome/shared_guard.npctype.json"
   },
-  "npcs/bounty/bountytarget.npctype": {
-    "/scriptConfig/behaviorConfig/bribeCancel": "texts/wide_spread_fields.json",
-    "/scriptConfig/behaviorConfig/bribeOk": "texts/wide_spread_fields.json"
-  },
   "npcs/bounty/ignobletarget.npctype": {
     "/scriptConfig/dialog/killedTarget/default/default/0": "texts/npcs/bounty/shared_.npctype.json",
     "/scriptConfig/dialog/lostTarget/default/default/0": "texts/npcs/bounty/shared_.npctype.json"
@@ -4265,6 +4319,9 @@
     "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0": "texts/npcs/crew/shared_crewmember.json",
     "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/3": "texts/npcs/crew/shared_crewmember.json",
     "/scriptConfig/dialog/crewmember/fieldBenefit/default/default/1": "texts/npcs/crew/shared_crewmember.json"
+  },
+  "npcs/crew/crewmemberoutlaw.npctype": {
+    "/scriptConfig/crew/role/field": "texts/wide_spread_fields.json"
   },
   "npcs/crew/crewmemberpenguin.npctype": {
     "/scriptConfig/crew/role/field": "texts/npcs/crew/shared_crewmember.json",
@@ -10484,6 +10541,28 @@
     "/avianDescription": "texts/objects/shared_ect.json",
     "/novakidDescription": "texts/objects/shared_ect.json"
   },
+  "objects/generic/wargroovebanner/wargroovebanner1.object": {
+    "/floranDescription": "texts/objects/generic/wargroovebanner/shared_wargroovebanner.json",
+    "/glitchDescription": "texts/objects/generic/wargroovebanner/shared_wargroovebanner.json",
+    "/hylotlDescription": "texts/objects/generic/wargroovebanner/shared_wargroovebanner.json",
+    "/novakidDescription": "texts/objects/generic/wargroovebanner/shared_wargroovebanner.json"
+  },
+  "objects/generic/wargroovebanner/wargroovebanner2.object": {
+    "/floranDescription": "texts/objects/generic/wargroovebanner/shared_wargroovebanner.json",
+    "/glitchDescription": "texts/objects/generic/wargroovebanner/shared_wargroovebanner.json",
+    "/hylotlDescription": "texts/objects/generic/wargroovebanner/shared_wargroovebanner.json",
+    "/novakidDescription": "texts/objects/generic/wargroovebanner/shared_wargroovebanner.json"
+  },
+  "objects/generic/wargroovebanner/wargroovebanner3.object": {
+    "/floranDescription": "texts/objects/generic/wargroovebanner/shared_wargroovebanner.json",
+    "/glitchDescription": "texts/objects/generic/wargroovebanner/shared_wargroovebanner.json",
+    "/hylotlDescription": "texts/objects/generic/wargroovebanner/shared_wargroovebanner.json",
+    "/novakidDescription": "texts/objects/generic/wargroovebanner/shared_wargroovebanner.json"
+  },
+  "objects/generic/wargroovebanner/wargroovebanner4.object": {
+    "/glitchDescription": "texts/objects/generic/wargroovebanner/shared_wargroovebanner.json",
+    "/novakidDescription": "texts/objects/generic/wargroovebanner/shared_wargroovebanner.json"
+  },
   "objects/generic/weaponchest/weaponchest.object": {
     "/glitchDescription": "texts/objects/generic/shared_chest/shared_chest.object.json",
     "/hylotlDescription": "texts/objects/generic/shared_chest/shared_chest.object.json"
@@ -12485,6 +12564,9 @@
     "/humanDescription": "texts/objects/shared_storagelocker/shared_storagelocker.object.json",
     "/hylotlDescription": "texts/objects/shared_storagelocker/shared_storagelocker.object.json",
     "/novakidDescription": "texts/objects/shared_storagelocker/shared_storagelocker.object.json"
+  },
+  "objects/novakid/safe/safe.object": {
+    "/shortdescription": "texts/wide_spread_fields.json"
   },
   "objects/novakid/saloonlight/saloonlight.object": {
     "/apexDescription": "texts/objects/shared_light/shared_light.object.json",
@@ -16682,6 +16764,10 @@
     "/scriptConfig/generatedText/failure/escape/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/default/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/prev/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/findWorldStage/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/missionBountyStage/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/missionTeleportStage/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/missionTeleportStage/1": "texts/quests/bounty/shared_.questtemplate.json",
     "/text": "texts/quests/bounty/shared_.questtemplate.json",
     "/title": "texts/quests/bounty/shared_.questtemplate.json"
   },
@@ -16692,6 +16778,10 @@
     "/scriptConfig/generatedText/failure/escape/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/default/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/prev/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/findWorldStage/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/missionBountyStage/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/missionTeleportStage/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/missionTeleportStage/1": "texts/quests/bounty/shared_.questtemplate.json",
     "/text": "texts/quests/bounty/shared_.questtemplate.json",
     "/title": "texts/quests/bounty/shared_.questtemplate.json"
   },
@@ -16699,11 +16789,16 @@
     "/completionText": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/failureText/default/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/default/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/findWorldStage/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/killBountyStage/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/killBountyStage/1": "texts/quests/bounty/shared_.questtemplate.json",
     "/title": "texts/quests/bounty/shared_.questtemplate.json"
   },
   "quests/bounty/capture_ship_bounty.questtemplate": {
     "/scriptConfig/generatedText/failureText/default/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/default/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/findSpaceBountyStage/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/killBountyStage/1": "texts/quests/bounty/shared_.questtemplate.json",
     "/text": "texts/quests/bounty/shared_.questtemplate.json",
     "/title": "texts/quests/bounty/shared_.questtemplate.json"
   },
@@ -16711,6 +16806,10 @@
     "/completionText": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/failureText/default/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/default/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/findSpaceBountyStage/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/findSpaceBountyStage/1": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/findSpaceBountyStage/2": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/killBountyStage/1": "texts/quests/bounty/shared_.questtemplate.json",
     "/text": "texts/quests/bounty/shared_.questtemplate.json",
     "/title": "texts/quests/bounty/shared_.questtemplate.json"
   },
@@ -16729,6 +16828,9 @@
     "/scriptConfig/generatedText/text/default/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/default/1": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/default/2": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/findClueItemStage/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/findClueItemStage/1": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/findWorldStage/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/text": "texts/quests/bounty/shared_.questtemplate.json",
     "/title": "texts/quests/bounty/shared_.questtemplate.json"
   },
@@ -16742,6 +16844,9 @@
     "/scriptConfig/generatedText/text/prev/0": "texts/quests/bounty/shared__clue_npc.questtemplate.json",
     "/scriptConfig/generatedText/text/prev/1": "texts/quests/bounty/shared__clue_npc.questtemplate.json",
     "/scriptConfig/generatedText/text/prev/2": "texts/quests/bounty/shared__clue_npc.questtemplate.json",
+    "/scriptConfig/objectives/findClueNpcStage/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/findClueNpcStage/1": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/findWorldStage/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/text": "texts/quests/bounty/shared_.questtemplate.json",
     "/title": "texts/quests/bounty/shared__clue_npc.questtemplate.json"
   },
@@ -16754,6 +16859,9 @@
     "/scriptConfig/generatedText/text/prev/1": "texts/quests/bounty/shared__clue_object.questtemplate.json",
     "/scriptConfig/generatedText/text/prev/2": "texts/quests/bounty/shared__clue_object.questtemplate.json",
     "/scriptConfig/generatedText/text/prev/3": "texts/quests/bounty/shared__clue_object.questtemplate.json",
+    "/scriptConfig/objectives/findClueObjectStage/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/findClueObjectStage/1": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/findWorldStage/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/text": "texts/quests/bounty/shared_.questtemplate.json",
     "/title": "texts/quests/bounty/shared_.questtemplate.json"
   },
@@ -16762,6 +16870,9 @@
     "/scriptConfig/generatedText/failureText/default/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/failureText/default/1": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/default/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/findClueScanStage/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/findClueScanStage/1": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/findWorldStage/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/text": "texts/quests/bounty/shared_.questtemplate.json",
     "/title": "texts/quests/bounty/shared_.questtemplate.json"
   },
@@ -16774,6 +16885,11 @@
     "/scriptConfig/generatedText/text/default/2": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/prev/0": "texts/quests/bounty/shared_find_space_clue_.json",
     "/scriptConfig/generatedText/text/prev/1": "texts/quests/bounty/shared_find_space_clue_.json",
+    "/scriptConfig/objectives/findClueItemStage/0": "texts/quests/bounty/shared_find_space_clue_.json",
+    "/scriptConfig/objectives/findClueItemStage/1": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/findSpaceBountyStage/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/findSpaceBountyStage/1": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/findSpaceBountyStage/2": "texts/quests/bounty/shared_.questtemplate.json",
     "/text": "texts/quests/bounty/shared_.questtemplate.json",
     "/title": "texts/quests/bounty/shared_.questtemplate.json"
   },
@@ -16787,6 +16903,11 @@
     "/scriptConfig/generatedText/text/prev/0": "texts/quests/bounty/shared__clue_npc.questtemplate.json",
     "/scriptConfig/generatedText/text/prev/1": "texts/quests/bounty/shared__clue_npc.questtemplate.json",
     "/scriptConfig/generatedText/text/prev/2": "texts/quests/bounty/shared__clue_npc.questtemplate.json",
+    "/scriptConfig/objectives/findClueNpcStage/0": "texts/quests/bounty/shared_find_space_clue_.json",
+    "/scriptConfig/objectives/findClueNpcStage/1": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/findSpaceBountyStage/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/findSpaceBountyStage/1": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/findSpaceBountyStage/2": "texts/quests/bounty/shared_.questtemplate.json",
     "/text": "texts/quests/bounty/shared_.questtemplate.json",
     "/title": "texts/quests/bounty/shared__clue_npc.questtemplate.json"
   },
@@ -16799,6 +16920,11 @@
     "/scriptConfig/generatedText/text/prev/1": "texts/quests/bounty/shared__clue_object.questtemplate.json",
     "/scriptConfig/generatedText/text/prev/2": "texts/quests/bounty/shared__clue_object.questtemplate.json",
     "/scriptConfig/generatedText/text/prev/3": "texts/quests/bounty/shared__clue_object.questtemplate.json",
+    "/scriptConfig/objectives/findClueObjectStage/0": "texts/quests/bounty/shared_find_space_clue_.json",
+    "/scriptConfig/objectives/findClueObjectStage/1": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/findSpaceBountyStage/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/findSpaceBountyStage/1": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/findSpaceBountyStage/2": "texts/quests/bounty/shared_.questtemplate.json",
     "/text": "texts/quests/bounty/shared_.questtemplate.json",
     "/title": "texts/quests/bounty/shared_.questtemplate.json"
   },
@@ -16811,6 +16937,10 @@
     "/scriptConfig/generatedText/text/default/2": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/prev/0": "texts/quests/bounty/shared_find_space_clue_.json",
     "/scriptConfig/generatedText/text/prev/1": "texts/quests/bounty/shared_find_space_clue_.json",
+    "/scriptConfig/objectives/findClueScanStage/1": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/findSpaceBountyStage/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/findSpaceBountyStage/1": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/findSpaceBountyStage/2": "texts/quests/bounty/shared_.questtemplate.json",
     "/text": "texts/quests/bounty/shared_.questtemplate.json",
     "/title": "texts/quests/bounty/shared_.questtemplate.json"
   },
@@ -16821,8 +16951,25 @@
     "/scriptConfig/generatedText/text/default/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/default/1": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/default/2": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/findWorldStage/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/tutorialClueStage/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/text": "texts/quests/bounty/shared_.questtemplate.json",
     "/title": "texts/quests/bounty/shared_.questtemplate.json"
+  },
+  "quests/bounty/gang.config": {
+    "/genericPrefix/10": "texts/wide_spread_fields.json",
+    "/genericPrefix/12": "texts/wide_spread_fields.json",
+    "/genericPrefix/24": "texts/quests.json",
+    "/genericPrefix/27": "texts/quests.json",
+    "/genericPrefix/28": "texts/wide_spread_fields.json",
+    "/genericPrefix/37": "texts/quests.json",
+    "/genericPrefix/44": "texts/shared_.config.json",
+    "/genericPrefix/51": "texts/shared_.config.json",
+    "/genericPrefix/58": "texts/shared_.config.json",
+    "/genericPrefix/59": "texts/shared_.config.json",
+    "/genericPrefix/6": "texts/wide_spread_fields.json",
+    "/genericPrefix/71": "texts/shared_.config.json",
+    "/hatPrefix/safetyhelmethead/0": "texts/wide_spread_fields.json"
   },
   "quests/bounty/kill_bounty_monster.questtemplate": {
     "/completionText": "texts/quests/bounty/shared_.questtemplate.json",
@@ -16830,6 +16977,8 @@
     "/scriptConfig/generatedText/failure/default/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/default/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/scriptConfig/generatedText/text/prev/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/findWorldStage/0": "texts/quests/bounty/shared_.questtemplate.json",
+    "/scriptConfig/objectives/killBountyStage/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/title": "texts/quests/bounty/shared_.questtemplate.json"
   },
   "quests/bounty/pre_bounty.questtemplate": {
@@ -16853,6 +17002,7 @@
     "/title": "texts/quests/bounty/shared_.questtemplate.json"
   },
   "quests/bounty/scan_planets.questtemplate": {
+    "/scriptConfig/objectives/findSystemStage/0": "texts/quests/bounty/shared_.questtemplate.json",
     "/text": "texts/quests/bounty/shared_.questtemplate.json",
     "/title": "texts/quests/bounty/shared_.questtemplate.json"
   },
@@ -17068,7 +17218,10 @@
     "/scriptConfig/objectives/2/text": "texts/quests.json"
   },
   "quests/generated/templates/kill_npc.questtemplate": {
+    "/scriptConfig/generatedText/fluff/0/1/0": "texts/quests.json",
     "/scriptConfig/generatedText/fluff/0/1/3": "texts/wide_spread_fields.json",
+    "/scriptConfig/generatedText/fluff/0/1/6": "texts/quests.json",
+    "/scriptConfig/generatedText/fluff/0/1/9": "texts/quests.json",
     "/scriptConfig/generatedText/fluff/3/1/4": "texts/quests/generated/shared_npc.json",
     "/scriptConfig/generatedText/fluff/9/1/1": "texts/quests/generated/templates/shared_.questtemplate.json",
     "/scriptConfig/objectives/0/text": "texts/quests/generated/templates/shared_.questtemplate.json",
@@ -17712,10 +17865,10 @@
     "/label": "texts/stats/effects/fireblock/shared_.statuseffect.json"
   },
   "stats/effects/frostslow/frostslow.statuseffect": {
-    "/label": "texts/stats/effects/shared_.statuseffect.json"
+    "/label": "texts/wide_spread_fields.json"
   },
   "stats/effects/frostslow/frostsnare.statuseffect": {
-    "/label": "texts/stats/effects/shared_.statuseffect.json"
+    "/label": "texts/wide_spread_fields.json"
   },
   "stats/effects/glow/glow.statuseffect": {
     "/label": "texts/stats/effects/glow/shared_glow.statuseffect.json"
@@ -17724,7 +17877,7 @@
     "/label": "texts/stats/effects/glow/shared_glow.statuseffect.json"
   },
   "stats/effects/glueslow/glueslow.statuseffect": {
-    "/label": "texts/stats/effects/shared_.statuseffect.json"
+    "/label": "texts/wide_spread_fields.json"
   },
   "stats/effects/heal/bandageheal.statuseffect": {
     "/label": "texts/stats/effects/heal/shared_heal.statuseffect.json"
@@ -17799,7 +17952,7 @@
     "/label": "texts/stats/effects/shared_maxhealth/shared_.statuseffect.json"
   },
   "stats/effects/mudslow/mudslow.statuseffect": {
-    "/label": "texts/stats/effects/shared_.statuseffect.json"
+    "/label": "texts/wide_spread_fields.json"
   },
   "stats/effects/poisonblock/antidote.statuseffect": {
     "/label": "texts/stats/effects/poisonblock/shared_.statuseffect.json"
@@ -17871,16 +18024,16 @@
     "/label": "texts/stats/effects/runboost/shared_.statuseffect.json"
   },
   "stats/effects/slimeslow/slimeslow.statuseffect": {
-    "/label": "texts/stats/effects/shared_.statuseffect.json"
+    "/label": "texts/wide_spread_fields.json"
   },
   "stats/effects/staffslow/staffslow.statuseffect": {
-    "/label": "texts/stats/effects/shared_.statuseffect.json"
+    "/label": "texts/wide_spread_fields.json"
   },
   "stats/effects/stun/stun.statuseffect": {
-    "/label": "texts/stats/effects/shared_.statuseffect.json"
+    "/label": "texts/wide_spread_fields.json"
   },
   "stats/effects/tarslow/tarslow.statuseffect": {
-    "/label": "texts/stats/effects/shared_.statuseffect.json"
+    "/label": "texts/wide_spread_fields.json"
   },
   "stats/effects/thorns/enemynova.statuseffect": {
     "/label": "texts/stats/effects/thorns/shared_nova.statuseffect.json"

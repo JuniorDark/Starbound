@@ -1,0 +1,57 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/wargroovebanner/wargroovebanner1.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A heroic red banner from some faraway nation."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/wargroovebanner/wargroovebanner1.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cherrystone Banner"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/wargroovebanner/wargroovebanner1.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wonder where this banner is from? It looks kind of heroic."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/wargroovebanner/wargroovebanner1.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This bold banner inspires a sense of heroism."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generic/wargroovebanner/wargroovebanner1.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "What a lovely banner!"
+    }
+  }
+]

@@ -370,34 +370,31 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "biomes/surface/alien.biome": [
+        "/friendlyName"
+      ],
       "interface/cockpit/cockpit.config": [
-        "/gui/editBookmarkFrame/children/ok/caption"
-      ],
-      "interface/optionsmenu/optionsmenu.config": [
-        "/paneLayout/acceptButton/caption"
-      ],
-      "interface/windowconfig/editbookmark.config": [
-        "/paneLayout/ok/caption"
-      ],
-      "interface/windowconfig/keybindingsmenu.config": [
-        "/paneLayout/accept/caption"
-      ],
-      "interface/windowconfig/newquest.config": [
-        "/paneLayout/btnAccept/caption"
-      ],
-      "interface/windowconfig/newquestshort.config": [
-        "/paneLayout/btnAccept/caption"
-      ],
-      "interface/windowconfig/teaminvitation.config": [
-        "/paneLayout/ok/caption"
-      ],
-      "npcs/bounty/bountytarget.npctype": [
-        "/scriptConfig/behaviorConfig/bribeOk"
+        "/planetTypeNames/alien"
       ]
     },
     "Texts": {
-      "Eng": "Accept",
-      "Por": "Aceitar"
+      "Eng": "Alien",
+      "Por": "Alienígena"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/arctic.biome": [
+        "/friendlyName"
+      ],
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/arctic"
+      ]
+    },
+    "Texts": {
+      "Eng": "Arctic",
+      "Por": "Ártico"
     }
   },
   {
@@ -437,6 +434,21 @@
     "Texts": {
       "Eng": "Asteroid Field",
       "Por": "Campo de Asteróides"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/space/asteroids.biome": [
+        "/friendlyName"
+      ],
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/asteroids"
+      ]
+    },
+    "Texts": {
+      "Eng": "Asteroids",
+      "Por": "Asteróides"
     }
   },
   {
@@ -547,6 +559,21 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "biomes/surface/barren.biome": [
+        "/friendlyName"
+      ],
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/barren"
+      ]
+    },
+    "Texts": {
+      "Eng": "Barren",
+      "Por": "Estéril"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "interface/confirmation/teleportconfirmation.config": [
         "/penguinmission1/labels/name"
       ],
@@ -632,6 +659,21 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "npcs/crew/crewmemberoutlaw.npctype": [
+        "/scriptConfig/crew/role/field"
+      ],
+      "quests/bounty/gang.config": [
+        "/genericPrefix/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "Criminal",
+      "Por": "Criminoso(a)"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "interface/cockpit/cockpit.config": [
         "/displayOres/erchius/displayName"
       ],
@@ -645,27 +687,18 @@
     }
   },
   {
-    "DeniedAlternatives": [
-      "Rejeitar",
-      "Rejeitar "
-    ],
+    "DeniedAlternatives": [],
     "Files": {
-      "interface/windowconfig/newquest.config": [
-        "/paneLayout/btnDecline/caption"
+      "biomes/surface/desert.biome": [
+        "/friendlyName"
       ],
-      "interface/windowconfig/newquestshort.config": [
-        "/paneLayout/btnDecline/caption"
-      ],
-      "interface/windowconfig/teaminvitation.config": [
-        "/paneLayout/close/caption"
-      ],
-      "npcs/bounty/bountytarget.npctype": [
-        "/scriptConfig/behaviorConfig/bribeCancel"
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/desert"
       ]
     },
     "Texts": {
-      "Eng": "Decline",
-      "Por": "Recusar"
+      "Eng": "Desert",
+      "Por": "Deserto"
     }
   },
   {
@@ -749,6 +782,21 @@
     "Texts": {
       "Eng": "Dreadwing",
       "Por": "Dreadwing"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/forest.biome": [
+        "/friendlyName"
+      ],
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/forest"
+      ]
+    },
+    "Texts": {
+      "Eng": "Forest",
+      "Por": "Floresta"
     }
   },
   {
@@ -1051,6 +1099,21 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "biomes/surface/jungle.biome": [
+        "/friendlyName"
+      ],
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/jungle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Jungle",
+      "Por": "Selva"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "npcs/outpost/koichioutpost.npctype": [
         "/npcname"
       ],
@@ -1073,6 +1136,21 @@
     "Texts": {
       "Eng": "Koichi",
       "Por": "Koichi"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/magma"
+      ],
+      "items/liquids/lava.liqitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lava",
+      "Por": "Lava"
     }
   },
   {
@@ -1159,6 +1237,21 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "items/generic/produce/orange.consumable": [
+        "/shortdescription"
+      ],
+      "quests/bounty/gang.config": [
+        "/genericPrefix/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Orange",
+      "Por": "Orange"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "interface/windowconfig/keybindingsmenu.config": [
         "/keyActions/toolbar/10/label"
       ],
@@ -1203,6 +1296,21 @@
     }
   },
   {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/novakid/safe/safe.object": [
+        "/shortdescription"
+      ],
+      "quests/bounty/gang.config": [
+        "/hatPrefix/safetyhelmethead/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Safe",
+      "Por": "Safe"
+    }
+  },
+  {
     "DeniedAlternatives": [
       "Arenito"
     ],
@@ -1237,6 +1345,21 @@
     "Texts": {
       "Eng": "Sapling",
       "Por": "Sapling"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/savannah.biome": [
+        "/friendlyName"
+      ],
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/savannah"
+      ]
+    },
+    "Texts": {
+      "Eng": "Savannah",
+      "Por": "Savana"
     }
   },
   {
@@ -1315,6 +1438,9 @@
       "interface/cockpit/cockpit.config": [
         "/displayOres/silver/displayName"
       ],
+      "quests/bounty/gang.config": [
+        "/genericPrefix/28"
+      ],
       "quests/generated/templates/kill_npc.questtemplate": [
         "/scriptConfig/generatedText/fluff/0/1/3"
       ]
@@ -1339,6 +1465,42 @@
     "Texts": {
       "Eng": "Slime",
       "Por": "Slime"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/gang.config": [
+        "/genericPrefix/12"
+      ],
+      "stats/effects/frostslow/frostslow.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/frostslow/frostsnare.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/glueslow/glueslow.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/mudslow/mudslow.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/slimeslow/slimeslow.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/staffslow/staffslow.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/stun/stun.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/tarslow/tarslow.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Slow",
+      "Por": "Lento"
     }
   },
   {
@@ -1604,6 +1766,36 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "biomes/surface/toxic.biome": [
+        "/friendlyName"
+      ],
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/toxic"
+      ]
+    },
+    "Texts": {
+      "Eng": "Toxic",
+      "Por": "Tóxico"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/tundra.biome": [
+        "/friendlyName"
+      ],
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/tundra"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tundra",
+      "Por": "Tundra"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "dialog/bounty.config": [
         "/flee/apex/default/6",
         "/flee/avian/default/7",
@@ -1635,6 +1827,21 @@
     "Texts": {
       "Eng": "Unidentified Fossil",
       "Por": "Unidentified Fossil"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/surface/volcanic.biome": [
+        "/friendlyName"
+      ],
+      "interface/cockpit/cockpit.config": [
+        "/planetTypeNames/volcanic"
+      ]
+    },
+    "Texts": {
+      "Eng": "Volcanic",
+      "Por": "Vulcânico"
     }
   },
   {

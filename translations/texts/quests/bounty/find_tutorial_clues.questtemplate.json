@@ -22,5 +22,53 @@
       "Eng": "^green;<coordinate.name>^reset;:\nSeveral clues I found here have led me to <next.coordinate.name>.\n\n",
       "Por": "^green;<coordinate.name>^reset;:\nVárias pistas que encontrei aqui me levaram a <next.coordinate.name>.\n\n"
     }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/find_tutorial_clues.questtemplate": [
+        "/scriptConfig/objectives/tutorialClueStage/1/findNpc"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Interrogate criminal^reset; for clues",
+      "Por": "^orange;Interrogue o criminoso^reset; por pistas"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/find_tutorial_clues.questtemplate": [
+        "/scriptConfig/objectives/tutorialClueStage/1/findScan"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Scan^reset; for clues",
+      "Por": "^orange;Escaneie^reset; por pistas"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/find_tutorial_clues.questtemplate": [
+        "/scriptConfig/objectives/tutorialClueStage/1/findObject"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Search computers^reset; for clues",
+      "Por": "^orange;Procure em computadores^reset; por pistas"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/find_tutorial_clues.questtemplate": [
+        "/scriptConfig/objectives/tutorialClueStage/1/findItem"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Search containers^reset; for clues",
+      "Por": "^orange;Procure recipientes^reset; por pistas"
+    }
   }
 ]

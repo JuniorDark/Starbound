@@ -3,30 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "quests/bounty/clue_bounties.config": [
-        "/beamout/behaviorOverrides/0/behavior/parameters/dialog"
-      ]
-    },
-    "Texts": {
-      "Eng": "/quests/bounty/clue_bounties.config:beamout.clues.<clueType>.dialog",
-      "Por": "/quests/bounty/clue_bounties.config:beamout.clues.<clueType>.dialog"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/bounty/clue_bounties.config": [
-        "/disguise/behaviorOverrides/0/behavior/parameters/dialog"
-      ]
-    },
-    "Texts": {
-      "Eng": "/quests/bounty/clue_bounties.config:disguise.clues.<clueType>.dialog",
-      "Por": "/quests/bounty/clue_bounties.config:disguise.clues.<clueType>.dialog"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "quests/bounty/clue_bounties.config": [
         "/disguise/clues/diversion/dialog/interact/hylotl/default/0"
       ]
     },
