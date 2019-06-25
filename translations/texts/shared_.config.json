@@ -18,7 +18,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Ouro"
+    ],
     "Files": {
       "interface/cockpit/cockpit.config": [
         "/displayOres/gold/displayName"
@@ -49,7 +51,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Perigosa"
+    ],
     "Files": {
       "interface/cockpit/cockpit.config": [
         "/threatLevelText/default/2"

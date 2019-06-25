@@ -657,7 +657,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Criminosa"
+    ],
     "Files": {
       "npcs/crew/crewmemberoutlaw.npctype": [
         "/scriptConfig/crew/role/field"
@@ -1235,7 +1237,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Laranja"
+    ],
     "Files": {
       "items/generic/produce/orange.consumable": [
         "/shortdescription"
@@ -1296,7 +1300,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Seguro"
+    ],
     "Files": {
       "objects/novakid/safe/safe.object": [
         "/shortdescription"
@@ -1468,7 +1474,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Lenta"
+    ],
     "Files": {
       "quests/bounty/gang.config": [
         "/genericPrefix/12"

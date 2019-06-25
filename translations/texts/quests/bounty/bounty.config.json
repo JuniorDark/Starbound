@@ -132,7 +132,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Corte de papel"
+    ],
     "Files": {
       "quests/bounty/bounty.config": [
         "/suffix/30"
@@ -140,7 +142,7 @@
     },
     "Texts": {
       "Eng": " Papercut",
-      "Por": "Corte de papel"
+      "Por": " Corte de papel"
     }
   },
   {
@@ -156,7 +158,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Tiro"
+    ],
     "Files": {
       "quests/bounty/bounty.config": [
         "/suffix/39"
@@ -164,11 +168,13 @@
     },
     "Texts": {
       "Eng": " Shot",
-      "Por": "Tiro"
+      "Por": " Tiro"
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Habilidoso"
+    ],
     "Files": {
       "quests/bounty/bounty.config": [
         "/suffix/33"
@@ -176,7 +182,7 @@
     },
     "Texts": {
       "Eng": " Slick",
-      "Por": "Habilidoso"
+      "Por": " Habilidoso"
     }
   },
   {
@@ -216,7 +222,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Lobo"
+    ],
     "Files": {
       "quests/bounty/bounty.config": [
         "/suffix/40"
@@ -224,7 +232,7 @@
     },
     "Texts": {
       "Eng": " Wolf",
-      "Por": "Lobo"
+      "Por": " Lobo"
     }
   },
   {
@@ -684,7 +692,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "General"
+    ],
     "Files": {
       "quests/bounty/bounty.config": [
         "/prefix/28"
@@ -692,7 +702,7 @@
     },
     "Texts": {
       "Eng": "General ",
-      "Por": "General"
+      "Por": "General "
     }
   },
   {
@@ -852,7 +862,9 @@
     }
   },
   {
-    "DeniedAlternatives": [],
+    "DeniedAlternatives": [
+      "Rosa"
+    ],
     "Files": {
       "quests/bounty/bounty.config": [
         "/prefix/35"
@@ -860,7 +872,7 @@
     },
     "Texts": {
       "Eng": "Pink ",
-      "Por": "Rosa"
+      "Por": "Rosa "
     }
   },
   {
